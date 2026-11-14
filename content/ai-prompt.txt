@@ -1,0 +1,75 @@
+You are helping me build study material for the i-Study app. I will give you lecture slides or notes for ONE chapter. Convert them into ONE JSON file that follows the format below EXACTLY, so the app can import it.
+
+SUBJECT (use these exact values in the "subject" field)
+  id:   {{SUBJECT_ID}}
+  code: {{SUBJECT_CODE}}
+  name: {"en": "{{SUBJECT_NAME_EN}}", "ms": "{{SUBJECT_NAME_MS}}"}
+
+ABOUT ME
+- I am a university student. My exam is in ENGLISH, but I study in two languages: every text field has an English version ("en") and a Malay version ("ms").
+- Malay ("ms"): simple, natural Bahasa Malaysia. Keep technical terms in English where students normally do (e.g. "fair value", "depreciation"). Do not translate standard names or codes.
+- English ("en"): exam-standard wording, matching the slides' terminology.
+
+HOW TO WORK
+1. Read ALL the slides. Base the content on the slides. If you add something that is NOT in the slides (e.g. a learning outcome the slides skip), put it in a "note" block that starts with "Extra (not in slides):" and give the source. Never invent facts, figures or standard paragraph numbers you are not sure about.
+2. Keep slide wording for definitions. Add short memory hooks ("tip" blocks) and exam traps where helpful.
+3. If a slide is an image or diagram, describe its content as text/table/flow. If a slide is empty or unreadable, say so in your reply (not in the JSON).
+4. Any numeric example you invent must be marked as such in a "note" block ("Numbers are for practice, not from the slides") and must be calculated correctly. Double-check every calculation.
+5. Create: 8–15 sections, 25–40 flashcards, 25–40 multiple-choice questions, 5–8 essay/structured questions, a glossary of key terms (English ↔ Malay), and 0–3 decision flowcharts where the topic has "if … then …" classification.
+6. Every multiple-choice question must have exactly ONE correct answer, a clear explanation in both languages, and options that are plausible (no joke options). Spread the correct answer position (not always the first option). "a" is the zero-based index of the correct option.
+7. Reply with ONLY the JSON, as a downloadable file named {{SUBJECT_ID}}-<chapterid>.json if you can create files; otherwise as ONE code block. No commentary inside the JSON. It must be valid JSON (double quotes, no trailing commas, no comments).
+
+FORMAT (all ids: lowercase letters, digits and hyphens only, max 24 chars). Text after // below is explanation only: do NOT include it in your JSON.
+
+{
+  "subject": { "id": "{{SUBJECT_ID}}", "code": "{{SUBJECT_CODE}}", "name": {"en": "...", "ms": "..."} },
+  "id": "ch6",                         // unique chapter id within the subject
+  "num": 6,                            // chapter number (used for ordering)
+  "title": {"en": "...", "ms": "..."},
+  "standard": "MFRS 116",              // optional: standard/code/topic label
+  "outcomes": {"en": ["..."], "ms": ["..."]},   // optional: learning outcomes (arrays same length)
+
+  "sections": [                        // the notes; each is one screen
+    {
+      "id": "def",                     // unique within the chapter
+      "icon": "🏢",                    // one emoji
+      "title": {"en": "...", "ms": "..."},
+      "ref": "MFRS 140 para 5",        // optional source reference
+      "big": {"en": "...", "ms": "..."},          // optional highlighted key sentence
+      "blocks": [ ... ]                // see block types below
+    }
+  ],
+
+  "cards":  [ {"id":"c1","t":"def","q":{"en":"...","ms":"..."},"a":{"en":"...","ms":"..."}} ],
+  "quiz":   [ {"id":"q1","t":"def","q":{"en":"...","ms":"..."},"o":["A text","B text","C text","D text"],"a":2,"e":{"en":"why","ms":"kenapa"}} ],
+  "essay":  [ {"id":"e1","t":"def","marks":5,"q":{"en":"...","ms":"..."},
+               "pts":{"en":["Point one (1)","Point two (2)"],"ms":["Poin satu (1)","Poin dua (2)"]}} ],
+  "glossary": [ ["English term","Istilah BM"] ],
+  "flows": [ { "id":"scope","icon":"🧭","title":{"en":"...","ms":"..."},"sub":{"en":"...","ms":"..."},
+               "start":"n1",
+               "nodes":{ "n1":{"q":{"en":"Yes/no question?","ms":"Soalan ya/tidak?"},"y":"n2","n":"rNo"},
+                         "n2":{"q":{...},"y":"rYes","n":"rNo"} },
+               "results":{ "rYes":{"c":"good","t":{"en":"..","ms":".."},"d":{"en":"..","ms":".."}},
+                           "rNo":{"c":"warn","t":{...},"d":{...}} } } ]
+}
+
+Rules:
+- "t" in cards/quiz/essay = the id of the section it belongs to (must exist in "sections").
+- Essay "pts": each point ends with its mark in brackets, e.g. "(2)". The marks should add up to "marks". "en" and "ms" arrays must have the same length.
+- Flows: every "y"/"n" must point to a node id or a result id. Result "c" is "good", "warn" or "info".
+- Optional "tools": ["gloss", "flow:scope"] – leave it out; the app builds the tools list itself.
+
+BLOCK TYPES (inside a section's "blocks" array; every text field is {"en": "...", "ms": "..."}; **double asterisks** make bold)
+  {"k":"p",   "en":"paragraph","ms":"perenggan"}
+  {"k":"h",   "en":"small heading","ms":"tajuk kecil"}
+  {"k":"ul",  "en":["bullet 1","bullet 2"],"ms":["poin 1","poin 2"]}        // arrays must have equal length
+  {"k":"flow","en":["step 1","step 2"],"ms":["langkah 1","langkah 2"]}      // numbered steps, equal length
+  {"k":"tip", "en":"memory hook / exam trap","ms":"..."}
+  {"k":"note","en":"extra info, caveat, or 'Extra (not in slides): ...'","ms":"..."}
+  {"k":"ex",  "en":"a worked-example question","ms":"..."}
+  {"k":"calc","en":"a calculation line","ms":"..."}
+  {"k":"je",  "title":"1 Jan 20x1","lines":[["Dr","Account","100,000"],["Cr","Account","100,000"]]}   // journal entry; Dr lines first
+  {"k":"table","head":{"en":["A","B"],"ms":["A","B"]},
+               "rows":[{"en":["x","y"],"ms":["x","y"]}]}                  // every row has the same number of cells as head
+
+Before you answer, silently check: valid JSON; every "t" matches a section id; every quiz "a" is a valid index; all arrays that must match in length do match; all calculations are correct; every slide topic is covered.

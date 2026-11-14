@@ -1,0 +1,45 @@
+{
+  "subject": { "id": "demo", "code": "DEMO", "name": { "en": "Demo Subject", "ms": "Subjek Contoh" } },
+  "id": "ch1",
+  "num": 1,
+  "title": { "en": "Template Chapter", "ms": "Chapter Templat" },
+  "standard": "Example",
+  "outcomes": { "en": ["Understand the template format"], "ms": ["Faham format templat"] },
+  "sections": [
+    {
+      "id": "intro", "icon": "🧪",
+      "title": { "en": "Introduction", "ms": "Pengenalan" },
+      "ref": "Slide 1–3",
+      "big": { "en": "Every text field has an English and a Malay version.", "ms": "Setiap medan teks ada versi English dan BM." },
+      "blocks": [
+        { "k": "p", "en": "A **paragraph** with bold text.", "ms": "Satu **perenggan** dengan teks tebal." },
+        { "k": "ul", "en": ["First point", "Second point"], "ms": ["Poin pertama", "Poin kedua"] },
+        { "k": "tip", "en": "Memory hook goes here.", "ms": "Cara ingat di sini." },
+        { "k": "je", "title": "1 Jan 20x1", "lines": [["Dr", "Asset", "1,000"], ["Cr", "Bank", "1,000"]] },
+        { "k": "table", "head": { "en": ["Term", "Meaning"], "ms": ["Istilah", "Maksud"] }, "rows": [{ "en": ["A", "Alpha"], "ms": ["A", "Alfa"] }] }
+      ]
+    }
+  ],
+  "cards": [
+    { "id": "c1", "t": "intro", "q": { "en": "What is two-language mode?", "ms": "Apa itu mod dwibahasa?" }, "a": { "en": "Study in EN+BM, answer in English.", "ms": "Belajar dalam EN+BM, jawab dalam English." } }
+  ],
+  "quiz": [
+    { "id": "q1", "t": "intro", "q": { "en": "Which is the correct answer?", "ms": "Yang manakah jawapan betul?" }, "o": ["Wrong", "Wrong", "Right", "Wrong"], "a": 2, "e": { "en": "Option C is correct.", "ms": "Pilihan C betul." } }
+  ],
+  "essay": [
+    { "id": "e1", "t": "intro", "marks": 3, "q": { "en": "Explain the template.", "ms": "Terangkan templat." }, "pts": { "en": ["Fields are bilingual (1)", "Ids are lowercase (1)", "Blocks build the notes (1)"], "ms": ["Medan dwibahasa (1)", "Id huruf kecil (1)", "Blok membina nota (1)"] } }
+  ],
+  "glossary": [["Template", "Templat"]],
+  "flows": [
+    {
+      "id": "check", "icon": "🧭",
+      "title": { "en": "Is it a template?", "ms": "Adakah ia templat?" }, "sub": { "en": "Demo flowchart", "ms": "Carta contoh" },
+      "start": "n1",
+      "nodes": { "n1": { "q": { "en": "Does it have an id?", "ms": "Adakah ia ada id?" }, "y": "rYes", "n": "rNo" } },
+      "results": {
+        "rYes": { "c": "good", "t": { "en": "Yes", "ms": "Ya" }, "d": { "en": "It is valid.", "ms": "Ia sah." } },
+        "rNo": { "c": "warn", "t": { "en": "No", "ms": "Tidak" }, "d": { "en": "Add an id.", "ms": "Tambah id." } }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2294 @@
+{
+ "id": "ch5",
+ "num": 5,
+ "title": {
+  "en": "Biological Assets",
+  "ms": "Aset Biologi"
+ },
+ "standard": "MFRS 141",
+ "tools": [
+  "calc5",
+  "flow:scope",
+  "flow:fv",
+  "gloss"
+ ],
+ "outcomes": {
+  "en": [
+   "Explain the terms of biological assets",
+   "Distinguish between biological assets and bearer plants",
+   "Describe the basis of initial recognition for biological assets",
+   "Explain the measurement bases for biological assets and agricultural produce",
+   "Discuss the disclosure requirements of biological assets",
+   "Critically evaluate and interpret issues in accounting for biological assets and bearer plants"
+  ],
+  "ms": [
+   "Terangkan istilah aset biologi",
+   "Bezakan aset biologi dengan bearer plants (tumbuhan pengeluar)",
+   "Huraikan asas pengiktirafan awal aset biologi",
+   "Terangkan asas pengukuran aset biologi dan hasil pertanian",
+   "Bincangkan keperluan pendedahan aset biologi",
+   "Nilai dan tafsir secara kritikal isu perakaunan aset biologi dan bearer plants"
+  ]
+ },
+ "sections": [
+  {
+   "id": "b-def",
+   "icon": "🐑",
+   "title": {
+    "en": "Definition & Scope of MFRS 141",
+    "ms": "Definisi & Skop MFRS 141"
+   },
+   "ref": "MFRS 141 para 1–5",
+   "big": {
+    "en": "A biological asset is a LIVING ANIMAL OR PLANT. MFRS 141 governs it while it is alive and until the point of harvest.",
+    "ms": "Aset biologi ialah HAIWAN ATAU TUMBUHAN YANG HIDUP. MFRS 141 menguruskannya semasa ia hidup sehingga titik tuai (harvest)."
+   },
+   "blocks": [
+    {
+     "k": "h",
+     "en": "MFRS 141 applies to",
+     "ms": "MFRS 141 terpakai untuk"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Biological assets** (living animals and plants)",
+      "Agricultural produce **at the point of harvest** only"
+     ],
+     "ms": [
+      "**Aset biologi** (haiwan dan tumbuhan hidup)",
+      "Hasil pertanian **pada titik tuai** sahaja"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "MFRS 141 does NOT apply to",
+     "ms": "MFRS 141 TIDAK terpakai untuk"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Goes to"
+      ],
+      "ms": [
+       "Item",
+       "Pergi ke"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Bearer plants (e.g. oil palm trees)",
+        "MFRS 116 PPE"
+       ],
+       "ms": [
+        "Bearer plants (cth pokok kelapa sawit)",
+        "MFRS 116 PPE"
+       ]
+      },
+      {
+       "en": [
+        "Agricultural produce AFTER harvest",
+        "MFRS 102 Inventories"
+       ],
+       "ms": [
+        "Hasil pertanian SELEPAS tuai",
+        "MFRS 102 Inventori"
+       ]
+      },
+      {
+       "en": [
+        "Land related to agricultural activity",
+        "MFRS 116 / MFRS 140"
+       ],
+       "ms": [
+        "Tanah berkaitan aktiviti pertanian",
+        "MFRS 116 / MFRS 140"
+       ]
+      },
+      {
+       "en": [
+        "Intangible assets related to agricultural activity",
+        "MFRS 138"
+       ],
+       "ms": [
+        "Aset tak ketara berkaitan aktiviti pertanian",
+        "MFRS 138"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide also lists \"government grants relating to agricultural activity\" as excluded. In the actual standard, MFRS 141 covers grants related to biological assets (para 34–35); grants for bearer plants fall under MFRS 120. Follow your lecturer/textbook in the exam.",
+     "ms": "Slide juga senaraikan \"geran kerajaan berkaitan aktiviti pertanian\" sebagai dikecualikan. Dalam piawaian sebenar, MFRS 141 meliputi geran berkaitan aset biologi (para 34–35); geran untuk bearer plants ikut MFRS 120. Dalam exam, ikut pensyarah/buku teks."
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: ALIVE → MFRS 141. Harvested/slaughtered → MFRS 102. Tree that keeps bearing fruit → MFRS 116.",
+     "ms": "Cara ingat: HIDUP → MFRS 141. Dah dituai/disembelih → MFRS 102. Pokok yang terus berbuah → MFRS 116."
+    }
+   ]
+  },
+  {
+   "id": "b-terms",
+   "icon": "🔑",
+   "title": {
+    "en": "Key Terms",
+    "ms": "Istilah Penting"
+   },
+   "ref": "MFRS 141 para 5",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Agricultural activity** = management by an entity of the **biological transformation and harvest** of biological assets for **sale**, or for conversion into **agricultural produce** or into **additional biological assets**.",
+      "**Biological transformation** = processes of **growth, degeneration, production and procreation** that cause qualitative or quantitative changes in a biological asset.",
+      "**Agricultural produce** = the **harvested** produce of the entity's biological assets.",
+      "**Harvest** = **detachment** of produce from a biological asset, or the **cessation of a biological asset's life processes**."
+     ],
+     "ms": [
+      "**Aktiviti pertanian** = pengurusan oleh entiti terhadap **transformasi biologi dan tuaian** aset biologi untuk **dijual**, atau ditukar kepada **hasil pertanian** atau **aset biologi tambahan**.",
+      "**Transformasi biologi** = proses **pertumbuhan, kemerosotan, pengeluaran dan pembiakan** yang menyebabkan perubahan kualitatif atau kuantitatif pada aset biologi.",
+      "**Hasil pertanian** = hasil **yang dituai** daripada aset biologi entiti.",
+      "**Tuaian (harvest)** = **pemisahan** hasil daripada aset biologi, atau **berhentinya proses hayat** aset biologi."
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Biological asset (141)",
+       "Produce at harvest (141)",
+       "After processing (102)"
+      ],
+      "ms": [
+       "Aset biologi (141)",
+       "Hasil semasa tuai (141)",
+       "Selepas diproses (102)"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Sheep",
+        "Wool",
+        "Yarn, carpet"
+       ],
+       "ms": [
+        "Biri-biri",
+        "Bulu",
+        "Benang, permaidani"
+       ]
+      },
+      {
+       "en": [
+        "Dairy cattle",
+        "Milk",
+        "Cheese"
+       ],
+       "ms": [
+        "Lembu tenusu",
+        "Susu",
+        "Keju"
+       ]
+      },
+      {
+       "en": [
+        "Pigs / livestock for meat",
+        "Carcass",
+        "Sausages, cured ham"
+       ],
+       "ms": [
+        "Babi / ternakan daging",
+        "Bangkai (carcass)",
+        "Sosej, ham"
+       ]
+      },
+      {
+       "en": [
+        "Sugarcane",
+        "Harvested cane",
+        "Sugar"
+       ],
+       "ms": [
+        "Tebu",
+        "Tebu dituai",
+        "Gula"
+       ]
+      },
+      {
+       "en": [
+        "Growing fruit on oil palm",
+        "Fresh fruit bunches (FFB)",
+        "Palm oil"
+       ],
+       "ms": [
+        "Buah sawit pada pokok",
+        "Tandan buah segar (FFB)",
+        "Minyak sawit"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Table is from MFRS 141 para 4 (examples) — not in the slides.",
+     "ms": "Jadual ini daripada MFRS 141 para 4 (contoh) — tiada dalam slide."
+    }
+   ]
+  },
+  {
+   "id": "b-feat",
+   "icon": "🌱",
+   "title": {
+    "en": "Common Features of Agricultural Activity",
+    "ms": "Ciri-ciri Aktiviti Pertanian"
+   },
+   "ref": "MFRS 141 para 6",
+   "big": {
+    "en": "Three features: CAPABILITY to change · MANAGEMENT of change · MEASUREMENT of change",
+    "ms": "Tiga ciri: KEUPAYAAN berubah · PENGURUSAN perubahan · PENGUKURAN perubahan"
+   },
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Feature",
+       "Meaning",
+       "Example"
+      ],
+      "ms": [
+       "Ciri",
+       "Maksud",
+       "Contoh"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Capability to change",
+        "Living animals and plants are capable of biological transformation",
+        "Lamb grows into sheep"
+       ],
+       "ms": [
+        "Keupayaan berubah",
+        "Haiwan dan tumbuhan hidup mampu bertransformasi biologi",
+        "Anak biri-biri membesar"
+       ]
+      },
+      {
+       "en": [
+        "Management of change",
+        "Management enhances or at least stabilises conditions for the process (nutrients, moisture, temperature, fertility, light)",
+        "Farm feeds and shelters livestock"
+       ],
+       "ms": [
+        "Pengurusan perubahan",
+        "Pengurusan menambah baik atau sekurang-kurangnya menstabilkan keadaan proses (nutrien, kelembapan, suhu, kesuburan, cahaya)",
+        "Ladang beri makan dan teduhan"
+       ]
+      },
+      {
+       "en": [
+        "Measurement of change",
+        "Change in quality (genetic merit, ripeness, fibre strength) or quantity (progeny, weight, fibre length, buds) is measured and monitored as routine management",
+        "Weigh animals regularly"
+       ],
+       "ms": [
+        "Pengukuran perubahan",
+        "Perubahan kualiti (baka, kematangan, kekuatan gentian) atau kuantiti (anak, berat, panjang gentian, tunas) diukur dan dipantau sebagai rutin pengurusan",
+        "Timbang haiwan secara berkala"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Exam trap: ocean fishing = NOT agricultural activity. No management of change (unmanaged source). A managed fish farm = agricultural activity.",
+     "ms": "Perangkap exam: menangkap ikan di laut = BUKAN aktiviti pertanian. Tiada pengurusan perubahan (sumber tidak diurus). Ladang ikan yang diurus = aktiviti pertanian."
+    }
+   ]
+  },
+  {
+   "id": "b-ex",
+   "icon": "🧪",
+   "title": {
+    "en": "Worked Example: Denai Agro Farm",
+    "ms": "Contoh Kerja: Denai Agro Farm"
+   },
+   "ref": "Slides 10–12",
+   "blocks": [
+    {
+     "k": "ex",
+     "en": "Denai Agro Farm raises 2,000 sheep in Kuala Selangor, slaughters them at its abattoirs and sells the carcasses to local markets. Explain whether the activities are within the scope of MFRS 141.",
+     "ms": "Denai Agro Farm membela 2,000 biri-biri di Kuala Selangor, menyembelihnya di rumah sembelih sendiri dan jual bangkai ke pasar tempatan. Terangkan sama ada aktiviti ini dalam skop MFRS 141."
+    },
+    {
+     "k": "flow",
+     "en": [
+      "**Within scope** – meets the agricultural activity criteria (para 6): capability, management, measurement of change.",
+      "Sheep while **living** = biological assets → **MFRS 141**.",
+      "When slaughtered, biological transformation **ceases** (harvest) → no longer MFRS 141.",
+      "Carcasses = agricultural produce → after harvest accounted as **inventory under MFRS 102**."
+     ],
+     "ms": [
+      "**Dalam skop** – memenuhi kriteria aktiviti pertanian (para 6): keupayaan, pengurusan, pengukuran perubahan.",
+      "Biri-biri semasa **hidup** = aset biologi → **MFRS 141**.",
+      "Bila disembelih, transformasi biologi **berhenti** (harvest) → bukan lagi MFRS 141.",
+      "Bangkai = hasil pertanian → selepas tuai diakaun sebagai **inventori di bawah MFRS 102**."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 12 says \"live cattle\" but the question is about sheep — a typo in the slide. Use the animal named in your exam question.",
+     "ms": "Slide 12 sebut \"live cattle\" tetapi soalan tentang biri-biri — salah taip dalam slide. Guna haiwan yang disebut dalam soalan exam."
+    }
+   ]
+  },
+  {
+   "id": "b-recog",
+   "icon": "✅",
+   "title": {
+    "en": "Recognition",
+    "ms": "Pengiktirafan"
+   },
+   "ref": "MFRS 141 para 10",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Recognise a biological asset or agricultural produce when ALL three conditions are met:",
+     "ms": "Iktiraf aset biologi atau hasil pertanian apabila KETIGA-TIGA syarat dipenuhi:"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "The entity **controls** the asset as a result of **past events**;",
+      "It is **probable** that **future economic benefits** will flow to the entity; AND",
+      "The **fair value or cost** of the asset can be **measured reliably**."
+     ],
+     "ms": [
+      "Entiti **mengawal** aset hasil **peristiwa lepas**;",
+      "**Berkemungkinan besar** **manfaat ekonomi masa depan** mengalir kepada entiti; DAN",
+      "**Nilai saksama atau kos** aset boleh **diukur dengan pasti**."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Evidence of control",
+     "ms": "Bukti kawalan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Legal ownership** (ability to sell or pledge the asset)",
+      "Exposure to **risks and rewards** of ownership (e.g. under leases)",
+      "Example: owning cattle and **branding or marking** lambs on acquisition, birth or weaning"
+     ],
+     "ms": [
+      "**Pemilikan sah** (boleh jual atau cagar aset)",
+      "Pendedahan kepada **risiko dan ganjaran** pemilikan (cth di bawah pajakan)",
+      "Contoh: miliki lembu dan **cop/tanda** anak biri-biri semasa dibeli, lahir atau berhenti susu"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Compare IP (Ch4): IP needed \"probable benefits + reliable COST\". Here the third test is \"reliable FAIR VALUE or cost\" — plus CONTROL.",
+     "ms": "Bandingkan IP (Bab 4): IP perlu \"manfaat berkemungkinan + KOS boleh diukur\". Di sini ujian ketiga ialah \"NILAI SAKSAMA atau kos boleh diukur\" — tambah KAWALAN."
+    }
+   ]
+  },
+  {
+   "id": "b-meas",
+   "icon": "📏",
+   "title": {
+    "en": "Measurement",
+    "ms": "Pengukuran"
+   },
+   "ref": "MFRS 141 para 12–13, 26–28",
+   "big": {
+    "en": "Biological assets: Fair Value LESS COSTS TO SELL (FVLCTS) at initial recognition AND at the end of every reporting period.",
+    "ms": "Aset biologi: Nilai Saksama TOLAK KOS UNTUK MENJUAL (FVLCTS) semasa pengiktirafan awal DAN pada hujung setiap tempoh pelaporan."
+   },
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Measured at",
+       "When"
+      ],
+      "ms": [
+       "Item",
+       "Diukur pada",
+       "Bila"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Biological asset",
+        "FV less costs to sell",
+        "Initial recognition + each reporting date"
+       ],
+       "ms": [
+        "Aset biologi",
+        "FV tolak kos menjual",
+        "Pengiktirafan awal + setiap tarikh pelaporan"
+       ]
+      },
+      {
+       "en": [
+        "Agricultural produce",
+        "FV less costs to sell",
+        "At point of harvest"
+       ],
+       "ms": [
+        "Hasil pertanian",
+        "FV tolak kos menjual",
+        "Pada titik tuai"
+       ]
+      },
+      {
+       "en": [
+        "Produce after harvest",
+        "MFRS 102 (cost = FVLCTS at harvest)",
+        "After harvest"
+       ],
+       "ms": [
+        "Hasil selepas tuai",
+        "MFRS 102 (kos = FVLCTS semasa tuai)",
+        "Selepas tuai"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra (para 5): costs to sell = incremental costs directly attributable to disposal (e.g. commissions, levies, transfer taxes), excluding finance costs and income taxes. Transport to market is deducted from FV or treated as costs to sell — do not double count.",
+     "ms": "Tambahan (para 5): kos menjual = kos tambahan yang boleh dikaitkan terus dengan pelupusan (cth komisen, levi, cukai pindah milik), tidak termasuk kos kewangan dan cukai pendapatan. Kos pengangkutan ke pasaran ditolak daripada FV atau dianggap kos menjual — jangan kira dua kali."
+    },
+    {
+     "k": "h",
+     "en": "Gains and losses (extra, not in slides)",
+     "ms": "Untung dan rugi (tambahan, tiada dalam slide)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Gain/loss on **initial recognition** and from **changes in FVLCTS** → **profit or loss** (para 26).",
+      "Gain/loss on initial recognition of **produce at harvest** → **profit or loss** (para 28).",
+      "A **loss** can arise on initial recognition because costs to sell are deducted."
+     ],
+     "ms": [
+      "Untung/rugi semasa **pengiktirafan awal** dan daripada **perubahan FVLCTS** → **untung atau rugi** (para 26).",
+      "Untung/rugi semasa pengiktirafan awal **hasil semasa tuai** → **untung atau rugi** (para 28).",
+      "**Rugi** boleh berlaku semasa pengiktirafan awal kerana kos menjual ditolak."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Contrast with Ch4: Investment property (FV model) = FV, no costs to sell. Biological asset = FV LESS costs to sell.",
+     "ms": "Bezakan dengan Bab 4: Hartanah pelaburan (model FV) = FV, tiada kos menjual. Aset biologi = FV TOLAK kos menjual."
+    }
+   ]
+  },
+  {
+   "id": "b-fv",
+   "icon": "⚖️",
+   "title": {
+    "en": "Determining Fair Value",
+    "ms": "Menentukan Nilai Saksama"
+   },
+   "ref": "MFRS 141 para 8–9, 24, 30",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Fair value** = amount for which the asset could be exchanged between **knowledgeable, willing parties** in an **arm's length transaction**.",
+      "Based on the asset's **present location and condition**.",
+      "**Group** assets by significant attributes (age, quality) matching those the market uses for pricing, e.g. all \"A\" grade lamb grouped together."
+     ],
+     "ms": [
+      "**Nilai saksama** = amaun aset boleh ditukar antara pihak **berpengetahuan dan sanggup** dalam transaksi **arm's length**.",
+      "Berdasarkan **lokasi dan keadaan semasa** aset.",
+      "**Kumpulkan** aset ikut atribut penting (umur, kualiti) yang sepadan dengan atribut pasaran, cth semua anak biri-biri gred \"A\" dikumpul bersama."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "How to find fair value (slide 19)",
+     "ms": "Cara cari nilai saksama (slide 19)"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Situation",
+       "Fair value basis"
+      ],
+      "ms": [
+       "Keadaan",
+       "Asas nilai saksama"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Active market — ONE market",
+        "Market quoted price"
+       ],
+       "ms": [
+        "Pasaran aktif — SATU pasaran",
+        "Harga sebut harga pasaran"
+       ]
+      },
+      {
+       "en": [
+        "Active market — MORE THAN ONE market",
+        "Most relevant market quoted price"
+       ],
+       "ms": [
+        "Pasaran aktif — LEBIH DARIPADA SATU",
+        "Harga pasaran paling relevan"
+       ]
+      },
+      {
+       "en": [
+        "NO active market",
+        "Most recent transaction price · market prices of similar assets · sector benchmarks · OR present value of expected net cash flows"
+       ],
+       "ms": [
+        "TIADA pasaran aktif",
+        "Harga transaksi terkini · harga aset serupa · penanda aras sektor · ATAU nilai kini aliran tunai bersih dijangka"
+       ]
+      },
+      {
+       "en": [
+        "FV CANNOT be measured reliably",
+        "Cost less accumulated depreciation and impairment losses"
+       ],
+       "ms": [
+        "FV TIDAK boleh diukur dengan pasti",
+        "Kos tolak susut nilai terkumpul dan rosot nilai"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra (para 30): the cost fallback applies only on initial recognition when market prices are unavailable and alternative estimates are clearly unreliable. Once FV becomes reliably measurable, switch to FVLCTS. Fair value measurement follows MFRS 13 in current standards.",
+     "ms": "Tambahan (para 30): pilihan kos hanya semasa pengiktirafan awal bila harga pasaran tiada dan anggaran alternatif jelas tidak boleh dipercayai. Bila FV boleh diukur dengan pasti, tukar ke FVLCTS. Pengukuran nilai saksama ikut MFRS 13 dalam piawaian semasa."
+    },
+    {
+     "k": "tip",
+     "en": "Use the \"Fair value flowchart\" tool to practise choosing the basis.",
+     "ms": "Guna alat \"Fair value flowchart\" untuk berlatih memilih asas."
+    }
+   ]
+  },
+  {
+   "id": "b-calc",
+   "icon": "🧮",
+   "title": {
+    "en": "Worked Example: Journals",
+    "ms": "Contoh Kerja: Jurnal"
+   },
+   "ref": "Own numbers · follows MFRS 141 para 12, 26",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "Numbers below are invented for practice (the slides give none). Try the same numbers in the Calculator tool.",
+     "ms": "Nombor di bawah direka untuk latihan (slide tiada nombor). Cuba nombor sama dalam alat Kalkulator."
+    },
+    {
+     "k": "ex",
+     "en": "1 Jan 20x1: buy 100 lambs at RM500 each (= fair value). Costs to sell RM20 each. 31 Dec 20x1: FV RM560, costs to sell RM22. 30 Jun 20x2: slaughtered; FV RM600, costs to sell RM25.",
+     "ms": "1 Jan 20x1: beli 100 ekor anak biri-biri @ RM500 (= nilai saksama). Kos menjual RM20 seekor. 31 Dis 20x1: FV RM560, kos menjual RM22. 30 Jun 20x2: disembelih; FV RM600, kos menjual RM25."
+    },
+    {
+     "k": "calc",
+     "en": "FVLCTS: 1 Jan = (500−20)×100 = 48,000 · 31 Dec = (560−22)×100 = 53,800 · Harvest = (600−25)×100 = 57,500",
+     "ms": "FVLCTS: 1 Jan = (500−20)×100 = 48,000 · 31 Dis = (560−22)×100 = 53,800 · Tuai = (600−25)×100 = 57,500"
+    },
+    {
+     "k": "je",
+     "title": "1 Jan 20x1 — purchase",
+     "lines": [
+      [
+       "Dr",
+       "Biological asset (FVLCTS)",
+       "48,000"
+      ],
+      [
+       "Dr",
+       "Loss on initial recognition (P/L)",
+       "2,000"
+      ],
+      [
+       "Cr",
+       "Bank",
+       "50,000"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "31 Dec 20x1 — change in FVLCTS (53,800 − 48,000)",
+     "lines": [
+      [
+       "Dr",
+       "Biological asset",
+       "5,800"
+      ],
+      [
+       "Cr",
+       "Gain from change in FVLCTS (P/L)",
+       "5,800"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "30 Jun 20x2 — remeasure to harvest date (57,500 − 53,800)",
+     "lines": [
+      [
+       "Dr",
+       "Biological asset",
+       "3,700"
+      ],
+      [
+       "Cr",
+       "Gain from change in FVLCTS (P/L)",
+       "3,700"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "30 Jun 20x2 — harvest: transfer to inventory (MFRS 102)",
+     "lines": [
+      [
+       "Dr",
+       "Inventories – carcasses",
+       "57,500"
+      ],
+      [
+       "Cr",
+       "Biological asset",
+       "57,500"
+      ]
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "The loss on initial recognition = costs to sell (2,000). Then 57,500 becomes the \"cost\" of inventory under MFRS 102.",
+     "ms": "Rugi pengiktirafan awal = kos menjual (2,000). Kemudian 57,500 menjadi \"kos\" inventori di bawah MFRS 102."
+    }
+   ]
+  },
+  {
+   "id": "b-bearer",
+   "icon": "🌴",
+   "title": {
+    "en": "Bearer Plants",
+    "ms": "Bearer Plants (Tumbuhan Pengeluar)"
+   },
+   "ref": "MFRS 116 & 141 · Extra: not in slides",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "Bearer plants are in the learning outcomes but not in the slides. Content is from MFRS 116/141 — check depth with your lecturer.",
+     "ms": "Bearer plants ada dalam learning outcomes tetapi tiada dalam slide. Kandungan daripada MFRS 116/141 — sahkan kedalaman dengan pensyarah."
+    },
+    {
+     "k": "p",
+     "en": "A **bearer plant** is a **living plant** that (a) is used in the production or supply of agricultural produce, (b) is expected to bear produce for **more than one period**, and (c) has a **remote likelihood of being sold** as agricultural produce (except incidental scrap sales).",
+     "ms": "**Bearer plant** ialah **tumbuhan hidup** yang (a) digunakan untuk pengeluaran atau bekalan hasil pertanian, (b) dijangka menghasilkan buah **lebih daripada satu tempoh**, dan (c) **kecil kemungkinan dijual** sebagai hasil pertanian (kecuali jualan sisa sampingan)."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "",
+       "Bearer plant (e.g. oil palm tree, rubber tree)",
+       "Produce growing on it (FFB, latex)"
+      ],
+      "ms": [
+       "",
+       "Bearer plant (cth pokok sawit, pokok getah)",
+       "Hasil pada pokok (FFB, susu getah)"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Standard",
+        "MFRS 116 PPE",
+        "MFRS 141"
+       ],
+       "ms": [
+        "Piawaian",
+        "MFRS 116 PPE",
+        "MFRS 141"
+       ]
+      },
+      {
+       "en": [
+        "Measurement",
+        "Cost (or revaluation); depreciated; impairment",
+        "FV less costs to sell"
+       ],
+       "ms": [
+        "Pengukuran",
+        "Kos (atau penilaian semula); disusutnilai; rosot nilai",
+        "FV tolak kos menjual"
+       ]
+      },
+      {
+       "en": [
+        "Gain/loss",
+        "Only on depreciation / disposal",
+        "P/L as FVLCTS changes"
+       ],
+       "ms": [
+        "Untung/rugi",
+        "Hanya melalui susut nilai / pelupusan",
+        "P/L bila FVLCTS berubah"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Trees grown only to be cut down for timber are NOT bearer plants (they are sold as produce) → MFRS 141 biological assets. Oil palm and rubber trees ARE bearer plants → PPE.",
+     "ms": "Pokok yang ditanam untuk ditebang jadi balak BUKAN bearer plants (dijual sebagai hasil) → aset biologi MFRS 141. Pokok sawit dan getah ADALAH bearer plants → PPE."
+    }
+   ]
+  },
+  {
+   "id": "b-discl",
+   "icon": "📝",
+   "title": {
+    "en": "Disclosure Requirements",
+    "ms": "Keperluan Pendedahan"
+   },
+   "ref": "MFRS 141 para 40–57",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "General disclosures",
+     "ms": "Pendedahan umum"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Aggregate gain or loss** in the period on initial recognition of biological assets and agricultural produce (and from changes in FVLCTS).",
+      "**Description** of each group of biological assets.",
+      "**Nature of activities** involving each group.",
+      "**Non-financial measures/estimates** of physical quantities of (i) each group at period end and (ii) output of produce during the period.",
+      "**Methods and significant assumptions** used in determining FV.",
+      "**FVLCTS of produce** harvested during the period, at point of harvest.",
+      "**Restricted title** and carrying amount; assets **pledged as security** for liabilities.",
+      "**Commitments** for development or acquisition of biological assets.",
+      "**Financial risk management strategies** related to agricultural activity.",
+      "**Reconciliation** of changes in carrying amount between the beginning and end of the period."
+     ],
+     "ms": [
+      "**Jumlah untung atau rugi** dalam tempoh semasa pengiktirafan awal aset biologi dan hasil pertanian (dan daripada perubahan FVLCTS).",
+      "**Penerangan** setiap kumpulan aset biologi.",
+      "**Sifat aktiviti** melibatkan setiap kumpulan.",
+      "**Ukuran/anggaran bukan kewangan** kuantiti fizikal (i) setiap kumpulan pada akhir tempoh dan (ii) output hasil dalam tempoh.",
+      "**Kaedah dan andaian penting** untuk tentukan FV.",
+      "**FVLCTS hasil** yang dituai dalam tempoh, pada titik tuai.",
+      "**Hak milik terhad** dan amaun dibawa; aset **dicagar sebagai cagaran** liabiliti.",
+      "**Komitmen** untuk pembangunan atau perolehan aset biologi.",
+      "**Strategi pengurusan risiko kewangan** berkaitan aktiviti pertanian.",
+      "**Penyesuaian (reconciliation)** perubahan amaun dibawa antara awal dan akhir tempoh."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "If FV cannot be measured reliably",
+     "ms": "Jika FV tidak boleh diukur dengan pasti"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Description** of the biological assets.",
+      "**Explanation why** FV cannot be measured reliably.",
+      "**Range of estimates** within which FV is highly likely to lie (if possible).",
+      "**Depreciation method** used.",
+      "**Useful lives or depreciation rates** used.",
+      "**Gross carrying amount and accumulated depreciation** (with impairment losses) at beginning and end of period."
+     ],
+     "ms": [
+      "**Penerangan** aset biologi.",
+      "**Penjelasan mengapa** FV tidak boleh diukur dengan pasti.",
+      "**Julat anggaran** yang FV sangat berkemungkinan berada dalamnya (jika boleh).",
+      "**Kaedah susut nilai** digunakan.",
+      "**Hayat berguna atau kadar susut nilai** digunakan.",
+      "**Amaun dibawa kasar dan susut nilai terkumpul** (dengan rosot nilai) pada awal dan akhir tempoh."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "In an exam, \"cannot measure FV reliably\" = think COST MODEL → so depreciation disclosures appear.",
+     "ms": "Dalam exam, \"FV tak boleh diukur\" = fikir MODEL KOS → sebab itu pendedahan susut nilai muncul."
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  [
+   "Biological asset",
+   "Aset biologi"
+  ],
+  [
+   "Agricultural activity",
+   "Aktiviti pertanian"
+  ],
+  [
+   "Agricultural produce",
+   "Hasil pertanian"
+  ],
+  [
+   "Biological transformation",
+   "Transformasi biologi"
+  ],
+  [
+   "Harvest",
+   "Tuaian"
+  ],
+  [
+   "Bearer plant",
+   "Tumbuhan pengeluar (bearer plant)"
+  ],
+  [
+   "Growth",
+   "Pertumbuhan"
+  ],
+  [
+   "Degeneration",
+   "Kemerosotan"
+  ],
+  [
+   "Procreation",
+   "Pembiakan"
+  ],
+  [
+   "Livestock",
+   "Ternakan"
+  ],
+  [
+   "Carcass",
+   "Bangkai (karkas)"
+  ],
+  [
+   "Abattoir",
+   "Rumah sembelih"
+  ],
+  [
+   "Control",
+   "Kawalan"
+  ],
+  [
+   "Past events",
+   "Peristiwa lepas"
+  ],
+  [
+   "Branding",
+   "Penandaan (cop)"
+  ],
+  [
+   "Pledge",
+   "Cagar"
+  ],
+  [
+   "Fair value",
+   "Nilai saksama"
+  ],
+  [
+   "Costs to sell",
+   "Kos untuk menjual"
+  ],
+  [
+   "Fair value less costs to sell",
+   "Nilai saksama tolak kos menjual (FVLCTS)"
+  ],
+  [
+   "Active market",
+   "Pasaran aktif"
+  ],
+  [
+   "Arm's length transaction",
+   "Transaksi arm's length (antara pihak bebas)"
+  ],
+  [
+   "Market quoted price",
+   "Harga sebut harga pasaran"
+  ],
+  [
+   "Present value",
+   "Nilai kini"
+  ],
+  [
+   "Net cash flows",
+   "Aliran tunai bersih"
+  ],
+  [
+   "Sector benchmark",
+   "Penanda aras sektor"
+  ],
+  [
+   "Reliably measured",
+   "Boleh diukur dengan pasti"
+  ],
+  [
+   "Gain on initial recognition",
+   "Untung semasa pengiktirafan awal"
+  ],
+  [
+   "Reconciliation",
+   "Penyesuaian"
+  ],
+  [
+   "Restricted title",
+   "Hak milik terhad"
+  ],
+  [
+   "Commitments",
+   "Komitmen"
+  ],
+  [
+   "Financial risk management",
+   "Pengurusan risiko kewangan"
+  ],
+  [
+   "Inventories",
+   "Inventori"
+  ],
+  [
+   "Accumulated depreciation",
+   "Susut nilai terkumpul"
+  ]
+ ],
+ "cards": [
+  {
+   "id": "b1",
+   "t": "b-def",
+   "q": {
+    "en": "What is a biological asset?",
+    "ms": "Apa itu aset biologi?"
+   },
+   "a": {
+    "en": "A living animal or plant (MFRS 141).",
+    "ms": "Haiwan atau tumbuhan yang hidup (MFRS 141)."
+   }
+  },
+  {
+   "id": "b2",
+   "t": "b-def",
+   "q": {
+    "en": "MFRS 141 does NOT apply to…",
+    "ms": "MFRS 141 TIDAK terpakai untuk…"
+   },
+   "a": {
+    "en": "Bearer plants (MFRS 116), produce after harvest (MFRS 102), land (MFRS 116/140), intangibles (MFRS 138).",
+    "ms": "Bearer plants (MFRS 116), hasil selepas tuai (MFRS 102), tanah (MFRS 116/140), aset tak ketara (MFRS 138)."
+   }
+  },
+  {
+   "id": "b3",
+   "t": "b-terms",
+   "q": {
+    "en": "Define agricultural activity",
+    "ms": "Takrifkan aktiviti pertanian"
+   },
+   "a": {
+    "en": "Management of the biological transformation and harvest of biological assets for sale, or conversion into agricultural produce or additional biological assets.",
+    "ms": "Pengurusan transformasi biologi dan tuaian aset biologi untuk dijual, atau ditukar kepada hasil pertanian atau aset biologi tambahan."
+   }
+  },
+  {
+   "id": "b4",
+   "t": "b-terms",
+   "q": {
+    "en": "Define biological transformation",
+    "ms": "Takrifkan transformasi biologi"
+   },
+   "a": {
+    "en": "Growth, degeneration, production and procreation causing qualitative or quantitative change.",
+    "ms": "Pertumbuhan, kemerosotan, pengeluaran dan pembiakan yang menyebabkan perubahan kualiti atau kuantiti."
+   }
+  },
+  {
+   "id": "b5",
+   "t": "b-terms",
+   "q": {
+    "en": "Define agricultural produce",
+    "ms": "Takrifkan hasil pertanian"
+   },
+   "a": {
+    "en": "The harvested produce of the entity's biological assets.",
+    "ms": "Hasil yang dituai daripada aset biologi entiti."
+   }
+  },
+  {
+   "id": "b6",
+   "t": "b-terms",
+   "q": {
+    "en": "Define harvest",
+    "ms": "Takrifkan tuaian (harvest)"
+   },
+   "a": {
+    "en": "Detachment of produce from a biological asset, or cessation of its life processes.",
+    "ms": "Pemisahan hasil daripada aset biologi, atau berhentinya proses hayatnya."
+   }
+  },
+  {
+   "id": "b7",
+   "t": "b-feat",
+   "q": {
+    "en": "Three common features of agricultural activity",
+    "ms": "Tiga ciri aktiviti pertanian"
+   },
+   "a": {
+    "en": "Capability to change · Management of change · Measurement of change.",
+    "ms": "Keupayaan berubah · Pengurusan perubahan · Pengukuran perubahan."
+   }
+  },
+  {
+   "id": "b8",
+   "t": "b-feat",
+   "q": {
+    "en": "Why is ocean fishing not agricultural activity?",
+    "ms": "Mengapa menangkap ikan di laut bukan aktiviti pertanian?"
+   },
+   "a": {
+    "en": "No management of change — it is an unmanaged source.",
+    "ms": "Tiada pengurusan perubahan — sumber tidak diurus."
+   }
+  },
+  {
+   "id": "b9",
+   "t": "b-feat",
+   "q": {
+    "en": "What does \"management of change\" mean?",
+    "ms": "Apa maksud \"pengurusan perubahan\"?"
+   },
+   "a": {
+    "en": "Management facilitates transformation by enhancing or stabilising conditions (nutrients, moisture, temperature, fertility, light).",
+    "ms": "Pengurusan memudahkan transformasi dengan menambah baik atau menstabilkan keadaan (nutrien, kelembapan, suhu, kesuburan, cahaya)."
+   }
+  },
+  {
+   "id": "b10",
+   "t": "b-ex",
+   "q": {
+    "en": "Live sheep on a farm: which standard?",
+    "ms": "Biri-biri hidup di ladang: piawaian mana?"
+   },
+   "a": {
+    "en": "MFRS 141 (biological assets).",
+    "ms": "MFRS 141 (aset biologi)."
+   }
+  },
+  {
+   "id": "b11",
+   "t": "b-ex",
+   "q": {
+    "en": "Carcasses after slaughter: which standard?",
+    "ms": "Bangkai selepas sembelih: piawaian mana?"
+   },
+   "a": {
+    "en": "Agricultural produce at harvest (MFRS 141), then inventory under MFRS 102.",
+    "ms": "Hasil pertanian semasa tuai (MFRS 141), kemudian inventori di bawah MFRS 102."
+   }
+  },
+  {
+   "id": "b12",
+   "t": "b-recog",
+   "q": {
+    "en": "Three recognition conditions (para 10)",
+    "ms": "Tiga syarat pengiktirafan (para 10)"
+   },
+   "a": {
+    "en": "1) Control as a result of past events; 2) Probable future economic benefits; 3) FV or cost measured reliably.",
+    "ms": "1) Kawalan hasil peristiwa lepas; 2) Manfaat ekonomi masa depan berkemungkinan; 3) FV atau kos boleh diukur dengan pasti."
+   }
+  },
+  {
+   "id": "b13",
+   "t": "b-recog",
+   "q": {
+    "en": "Evidence of control over biological assets",
+    "ms": "Bukti kawalan ke atas aset biologi"
+   },
+   "a": {
+    "en": "Legal ownership (sell/pledge), risks and rewards of ownership, branding/marking of animals.",
+    "ms": "Pemilikan sah (jual/cagar), risiko dan ganjaran pemilikan, penandaan haiwan."
+   }
+  },
+  {
+   "id": "b14",
+   "t": "b-meas",
+   "q": {
+    "en": "Measurement of biological assets",
+    "ms": "Pengukuran aset biologi"
+   },
+   "a": {
+    "en": "Fair value less costs to sell — at initial recognition and at the end of each reporting period.",
+    "ms": "Nilai saksama tolak kos menjual — semasa pengiktirafan awal dan pada hujung setiap tempoh pelaporan."
+   }
+  },
+  {
+   "id": "b15",
+   "t": "b-meas",
+   "q": {
+    "en": "Measurement of agricultural produce",
+    "ms": "Pengukuran hasil pertanian"
+   },
+   "a": {
+    "en": "FV less costs to sell at the point of harvest.",
+    "ms": "FV tolak kos menjual pada titik tuai."
+   }
+  },
+  {
+   "id": "b16",
+   "t": "b-meas",
+   "q": {
+    "en": "Where do FVLCTS gains/losses go?",
+    "ms": "Untung/rugi FVLCTS pergi ke mana?"
+   },
+   "a": {
+    "en": "Profit or loss (para 26).",
+    "ms": "Untung atau rugi (para 26)."
+   }
+  },
+  {
+   "id": "b17",
+   "t": "b-meas",
+   "q": {
+    "en": "Why may a loss arise on initial recognition?",
+    "ms": "Mengapa rugi boleh berlaku semasa pengiktirafan awal?"
+   },
+   "a": {
+    "en": "Because costs to sell are deducted from fair value.",
+    "ms": "Kerana kos menjual ditolak daripada nilai saksama."
+   }
+  },
+  {
+   "id": "b18",
+   "t": "b-meas",
+   "q": {
+    "en": "Biological asset vs IP (FV model): costs to sell?",
+    "ms": "Aset biologi vs IP (model FV): kos menjual?"
+   },
+   "a": {
+    "en": "Biological asset: FV LESS costs to sell. IP: FV only.",
+    "ms": "Aset biologi: FV TOLAK kos menjual. IP: FV sahaja."
+   }
+  },
+  {
+   "id": "b19",
+   "t": "b-fv",
+   "q": {
+    "en": "Define fair value (MFRS 141)",
+    "ms": "Takrifkan nilai saksama (MFRS 141)"
+   },
+   "a": {
+    "en": "Amount for which the asset could be exchanged between knowledgeable, willing parties in an arm's length transaction.",
+    "ms": "Amaun aset boleh ditukar antara pihak berpengetahuan dan sanggup dalam transaksi arm's length."
+   }
+  },
+  {
+   "id": "b20",
+   "t": "b-fv",
+   "q": {
+    "en": "Why group biological assets?",
+    "ms": "Mengapa kumpulkan aset biologi?"
+   },
+   "a": {
+    "en": "By significant attributes (age, quality) matching market pricing, e.g. all \"A\" grade lamb together.",
+    "ms": "Ikut atribut penting (umur, kualiti) yang sepadan harga pasaran, cth semua anak biri-biri gred \"A\"."
+   }
+  },
+  {
+   "id": "b21",
+   "t": "b-fv",
+   "q": {
+    "en": "Active market, one market: FV basis?",
+    "ms": "Pasaran aktif, satu pasaran: asas FV?"
+   },
+   "a": {
+    "en": "Market quoted price.",
+    "ms": "Harga sebut harga pasaran."
+   }
+  },
+  {
+   "id": "b22",
+   "t": "b-fv",
+   "q": {
+    "en": "Active market, more than one market: FV basis?",
+    "ms": "Pasaran aktif, lebih satu pasaran: asas FV?"
+   },
+   "a": {
+    "en": "Most relevant market quoted price.",
+    "ms": "Harga sebut harga pasaran paling relevan."
+   }
+  },
+  {
+   "id": "b23",
+   "t": "b-fv",
+   "q": {
+    "en": "No active market: FV basis?",
+    "ms": "Tiada pasaran aktif: asas FV?"
+   },
+   "a": {
+    "en": "Most recent transaction price, prices of similar assets, sector benchmarks, or PV of expected net cash flows.",
+    "ms": "Harga transaksi terkini, harga aset serupa, penanda aras sektor, atau nilai kini aliran tunai bersih dijangka."
+   }
+  },
+  {
+   "id": "b24",
+   "t": "b-fv",
+   "q": {
+    "en": "FV cannot be measured reliably: measurement?",
+    "ms": "FV tidak boleh diukur dengan pasti: pengukuran?"
+   },
+   "a": {
+    "en": "Cost less accumulated depreciation and impairment losses.",
+    "ms": "Kos tolak susut nilai terkumpul dan rosot nilai."
+   }
+  },
+  {
+   "id": "b25",
+   "t": "b-calc",
+   "q": {
+    "en": "Journal: initial purchase of livestock",
+    "ms": "Jurnal: pembelian awal ternakan"
+   },
+   "a": {
+    "en": "Dr Biological asset (FVLCTS); Dr Loss on initial recognition (costs to sell); Cr Bank (price paid).",
+    "ms": "Dr Aset biologi (FVLCTS); Dr Rugi pengiktirafan awal (kos menjual); Cr Bank (harga dibayar)."
+   }
+  },
+  {
+   "id": "b26",
+   "t": "b-calc",
+   "q": {
+    "en": "Journal: FVLCTS increases at year-end",
+    "ms": "Jurnal: FVLCTS naik pada hujung tahun"
+   },
+   "a": {
+    "en": "Dr Biological asset; Cr Gain from change in FVLCTS (P/L).",
+    "ms": "Dr Aset biologi; Cr Untung perubahan FVLCTS (P/L)."
+   }
+  },
+  {
+   "id": "b27",
+   "t": "b-calc",
+   "q": {
+    "en": "Journal: harvest / slaughter",
+    "ms": "Jurnal: tuaian / sembelih"
+   },
+   "a": {
+    "en": "Remeasure the asset first, then Dr Inventories (FVLCTS at harvest); Cr Biological asset.",
+    "ms": "Ukur semula aset dahulu, kemudian Dr Inventori (FVLCTS semasa tuai); Cr Aset biologi."
+   }
+  },
+  {
+   "id": "b28",
+   "t": "b-bearer",
+   "q": {
+    "en": "Define bearer plant",
+    "ms": "Takrifkan bearer plant"
+   },
+   "a": {
+    "en": "Living plant used to produce agricultural produce, bears for more than one period, remote likelihood of being sold as produce.",
+    "ms": "Tumbuhan hidup untuk hasilkan hasil pertanian, berbuah lebih satu tempoh, kecil kemungkinan dijual sebagai hasil."
+   }
+  },
+  {
+   "id": "b29",
+   "t": "b-bearer",
+   "q": {
+    "en": "Oil palm tree vs palm fruit bunches: standards?",
+    "ms": "Pokok sawit vs tandan buah sawit: piawaian?"
+   },
+   "a": {
+    "en": "Tree (bearer plant) → MFRS 116. Fruit growing on it → MFRS 141.",
+    "ms": "Pokok (bearer plant) → MFRS 116. Buah pada pokok → MFRS 141."
+   }
+  },
+  {
+   "id": "b30",
+   "t": "b-discl",
+   "q": {
+    "en": "Disclosures when FV cannot be measured reliably",
+    "ms": "Pendedahan bila FV tidak boleh diukur"
+   },
+   "a": {
+    "en": "Description; why FV is unreliable; range of estimates; depreciation method; useful lives/rates; gross carrying amount & accumulated depreciation.",
+    "ms": "Penerangan; sebab FV tidak boleh dipercayai; julat anggaran; kaedah susut nilai; hayat/kadar; amaun dibawa kasar & susut nilai terkumpul."
+   }
+  },
+  {
+   "id": "b31",
+   "t": "b-discl",
+   "q": {
+    "en": "Name 4 general disclosures",
+    "ms": "Namakan 4 pendedahan umum"
+   },
+   "a": {
+    "en": "Aggregate gain/loss · description of each group · physical quantities · FV methods & assumptions · restricted/pledged assets · commitments · risk strategies · reconciliation.",
+    "ms": "Jumlah untung/rugi · penerangan setiap kumpulan · kuantiti fizikal · kaedah & andaian FV · aset terhad/dicagar · komitmen · strategi risiko · penyesuaian."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "bq1",
+   "t": "b-def",
+   "q": {
+    "en": "A biological asset is defined as:",
+    "ms": "Aset biologi ditakrifkan sebagai:"
+   },
+   "o": [
+    "Any asset used in farming",
+    "A living animal or plant",
+    "Harvested agricultural produce",
+    "Land used for agriculture"
+   ],
+   "a": 1,
+   "e": {
+    "en": "MFRS 141: a living animal or plant.",
+    "ms": "MFRS 141: haiwan atau tumbuhan yang hidup."
+   }
+  },
+  {
+   "id": "bq2",
+   "t": "b-def",
+   "q": {
+    "en": "Which standard governs biological assets?",
+    "ms": "Piawaian mana mengawal aset biologi?"
+   },
+   "o": [
+    "MFRS 102",
+    "MFRS 116",
+    "MFRS 140",
+    "MFRS 141"
+   ],
+   "a": 3,
+   "e": {
+    "en": "MFRS 141 Agriculture.",
+    "ms": "MFRS 141 Agriculture."
+   }
+  },
+  {
+   "id": "bq3",
+   "t": "b-def",
+   "q": {
+    "en": "MFRS 141 does NOT apply to:",
+    "ms": "MFRS 141 TIDAK terpakai untuk:"
+   },
+   "o": [
+    "Dairy cattle",
+    "Land related to agricultural activity",
+    "Livestock for slaughter",
+    "Produce at the point of harvest"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Land and agricultural-related intangibles are excluded.",
+    "ms": "Tanah dan aset tak ketara berkaitan pertanian dikecualikan."
+   }
+  },
+  {
+   "id": "bq4",
+   "t": "b-def",
+   "q": {
+    "en": "Agricultural produce after the point of harvest is accounted for under:",
+    "ms": "Hasil pertanian selepas titik tuai diakaun di bawah:"
+   },
+   "o": [
+    "MFRS 141",
+    "MFRS 102 Inventories",
+    "MFRS 116",
+    "MFRS 138"
+   ],
+   "a": 1,
+   "e": {
+    "en": "After harvest it becomes inventory (MFRS 102).",
+    "ms": "Selepas tuai ia menjadi inventori (MFRS 102)."
+   }
+  },
+  {
+   "id": "bq5",
+   "t": "b-terms",
+   "q": {
+    "en": "Harvest is defined as:",
+    "ms": "Harvest ditakrifkan sebagai:"
+   },
+   "o": [
+    "Sale of produce to customers",
+    "Detachment of produce or cessation of a biological asset's life processes",
+    "Birth of new animals",
+    "Measurement of the asset at fair value"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Harvest = detachment of produce from the asset or end of its life processes.",
+    "ms": "Harvest = pemisahan hasil daripada aset atau berakhirnya proses hayat."
+   }
+  },
+  {
+   "id": "bq6",
+   "t": "b-terms",
+   "q": {
+    "en": "Which is NOT part of biological transformation?",
+    "ms": "Yang manakah BUKAN sebahagian transformasi biologi?"
+   },
+   "o": [
+    "Growth",
+    "Degeneration",
+    "Procreation",
+    "Depreciation"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Biological transformation = growth, degeneration, production, procreation.",
+    "ms": "Transformasi biologi = pertumbuhan, kemerosotan, pengeluaran, pembiakan."
+   }
+  },
+  {
+   "id": "bq7",
+   "t": "b-feat",
+   "q": {
+    "en": "Which is NOT a common feature of agricultural activity?",
+    "ms": "Yang manakah BUKAN ciri aktiviti pertanian?"
+   },
+   "o": [
+    "Capability to change",
+    "Management of change",
+    "Measurement of change",
+    "Ownership of land"
+   ],
+   "a": 3,
+   "e": {
+    "en": "The three features: capability, management, measurement of change.",
+    "ms": "Tiga ciri: keupayaan, pengurusan, pengukuran perubahan."
+   }
+  },
+  {
+   "id": "bq8",
+   "t": "b-feat",
+   "q": {
+    "en": "Harvesting fish from the open ocean is not agricultural activity because:",
+    "ms": "Menangkap ikan di laut terbuka bukan aktiviti pertanian kerana:"
+   },
+   "o": [
+    "Fish are not living",
+    "There is no management of change",
+    "Fish cannot be sold",
+    "Fair value cannot be measured"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Unmanaged sources lack management of change.",
+    "ms": "Sumber tidak diurus tiada pengurusan perubahan."
+   }
+  },
+  {
+   "id": "bq9",
+   "t": "b-ex",
+   "q": {
+    "en": "Denai Agro raises sheep and sells carcasses. Live sheep are accounted for under:",
+    "ms": "Denai Agro bela biri-biri dan jual bangkai. Biri-biri hidup diakaun di bawah:"
+   },
+   "o": [
+    "MFRS 102",
+    "MFRS 116",
+    "MFRS 141",
+    "MFRS 138"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Living sheep are biological assets → MFRS 141.",
+    "ms": "Biri-biri hidup ialah aset biologi → MFRS 141."
+   }
+  },
+  {
+   "id": "bq10",
+   "t": "b-ex",
+   "q": {
+    "en": "In the same case, carcasses held for sale after slaughter are:",
+    "ms": "Dalam kes sama, bangkai untuk dijual selepas sembelih ialah:"
+   },
+   "o": [
+    "Biological assets under MFRS 141",
+    "Inventory under MFRS 102",
+    "PPE under MFRS 116",
+    "Investment property"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Transformation ceased at slaughter; carcasses are produce → then inventory (MFRS 102).",
+    "ms": "Transformasi berhenti semasa sembelih; bangkai ialah hasil → kemudian inventori (MFRS 102)."
+   }
+  },
+  {
+   "id": "bq11",
+   "t": "b-recog",
+   "q": {
+    "en": "Which is NOT a recognition condition under MFRS 141?",
+    "ms": "Yang manakah BUKAN syarat pengiktirafan MFRS 141?"
+   },
+   "o": [
+    "Entity controls the asset as a result of past events",
+    "Future economic benefits are probable",
+    "FV or cost can be measured reliably",
+    "The asset must be purchased from a third party"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Assets may be born/grown; purchase is not required.",
+    "ms": "Aset boleh dilahirkan/ditanam; pembelian tidak diperlukan."
+   }
+  },
+  {
+   "id": "bq12",
+   "t": "b-recog",
+   "q": {
+    "en": "Which is evidence of control over livestock?",
+    "ms": "Yang manakah bukti kawalan ke atas ternakan?"
+   },
+   "o": [
+    "Legal ownership and branding of animals",
+    "Selling at a profit",
+    "Owning the land only",
+    "Using a valuer"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Ownership (ability to sell/pledge) and branding/marking are evidence.",
+    "ms": "Pemilikan (boleh jual/cagar) dan penandaan ialah bukti."
+   }
+  },
+  {
+   "id": "bq13",
+   "t": "b-meas",
+   "q": {
+    "en": "Biological assets are measured on initial recognition at:",
+    "ms": "Aset biologi diukur semasa pengiktirafan awal pada:"
+   },
+   "o": [
+    "Cost",
+    "Fair value",
+    "Fair value less costs to sell",
+    "Net realisable value"
+   ],
+   "a": 2,
+   "e": {
+    "en": "FVLCTS (when FV can be measured reliably).",
+    "ms": "FVLCTS (bila FV boleh diukur dengan pasti)."
+   }
+  },
+  {
+   "id": "bq14",
+   "t": "b-meas",
+   "q": {
+    "en": "Subsequently, biological assets are remeasured at:",
+    "ms": "Selepas itu, aset biologi disukat semula pada:"
+   },
+   "o": [
+    "Original cost",
+    "FVLCTS at the end of each reporting period",
+    "Depreciated cost",
+    "Only on disposal"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Remeasured each reporting period.",
+    "ms": "Disukat semula setiap tempoh pelaporan."
+   }
+  },
+  {
+   "id": "bq15",
+   "t": "b-meas",
+   "q": {
+    "en": "Agricultural produce harvested is measured at the point of harvest at:",
+    "ms": "Hasil pertanian dituai diukur pada titik tuai pada:"
+   },
+   "o": [
+    "Cost of production",
+    "FV less costs to sell",
+    "Sales price",
+    "Net book value"
+   ],
+   "a": 1,
+   "e": {
+    "en": "FVLCTS at point of harvest.",
+    "ms": "FVLCTS pada titik tuai."
+   }
+  },
+  {
+   "id": "bq16",
+   "t": "b-meas",
+   "q": {
+    "en": "Gains and losses from changes in FVLCTS of biological assets are recognised in:",
+    "ms": "Untung/rugi daripada perubahan FVLCTS aset biologi diiktiraf dalam:"
+   },
+   "o": [
+    "Other comprehensive income",
+    "Equity directly",
+    "Profit or loss",
+    "Not recognised until sold"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Para 26: profit or loss.",
+    "ms": "Para 26: untung atau rugi."
+   }
+  },
+  {
+   "id": "bq17",
+   "t": "b-meas",
+   "q": {
+    "en": "Which is a cost to sell?",
+    "ms": "Yang manakah kos menjual?"
+   },
+   "o": [
+    "Finance costs",
+    "Income tax",
+    "Broker commissions",
+    "Feed costs"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Incremental disposal costs (commissions, levies). Finance costs and income taxes are excluded.",
+    "ms": "Kos tambahan pelupusan (komisen, levi). Kos kewangan dan cukai pendapatan dikecualikan."
+   }
+  },
+  {
+   "id": "bq18",
+   "t": "b-fv",
+   "q": {
+    "en": "Active market exists, one market only. FV is based on:",
+    "ms": "Pasaran aktif wujud, satu pasaran. FV berdasarkan:"
+   },
+   "o": [
+    "Market quoted price",
+    "Present value of cash flows",
+    "Cost",
+    "Sector benchmark"
+   ],
+   "a": 0,
+   "e": {
+    "en": "One active market → quoted price.",
+    "ms": "Satu pasaran aktif → harga sebut harga."
+   }
+  },
+  {
+   "id": "bq19",
+   "t": "b-fv",
+   "q": {
+    "en": "More than one active market. FV is based on:",
+    "ms": "Lebih daripada satu pasaran aktif. FV berdasarkan:"
+   },
+   "o": [
+    "Average of all markets",
+    "Highest price",
+    "The most relevant market quoted price",
+    "Lowest price"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Choose the most relevant market.",
+    "ms": "Pilih pasaran paling relevan."
+   }
+  },
+  {
+   "id": "bq20",
+   "t": "b-fv",
+   "q": {
+    "en": "No active market. Which is NOT an acceptable FV basis?",
+    "ms": "Tiada pasaran aktif. Yang manakah BUKAN asas FV yang diterima?"
+   },
+   "o": [
+    "Most recent market transaction price",
+    "Market prices of similar assets",
+    "Present value of expected net cash flows",
+    "Management's desired selling price"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Must be market-based or PV of expected net cash flows.",
+    "ms": "Mesti berasaskan pasaran atau nilai kini aliran tunai bersih dijangka."
+   }
+  },
+  {
+   "id": "bq21",
+   "t": "b-fv",
+   "q": {
+    "en": "When FV cannot be measured reliably, a biological asset is carried at:",
+    "ms": "Bila FV tidak boleh diukur dengan pasti, aset biologi dibawa pada:"
+   },
+   "o": [
+    "Zero",
+    "Cost less accumulated depreciation and impairment",
+    "FV of similar assets",
+    "Selling price"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Cost model fallback.",
+    "ms": "Fallback model kos."
+   }
+  },
+  {
+   "id": "bq22",
+   "t": "b-fv",
+   "q": {
+    "en": "Grouping all \"A\" grade lamb together for valuation is an example of grouping by:",
+    "ms": "Mengumpul semua anak biri-biri gred \"A\" untuk penilaian ialah contoh pengumpulan ikut:"
+   },
+   "o": [
+    "Location",
+    "Significant attributes such as quality",
+    "Cost",
+    "Date acquired"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Group by attributes used in the market for pricing (age, quality).",
+    "ms": "Kumpul ikut atribut yang digunakan pasaran untuk harga (umur, kualiti)."
+   }
+  },
+  {
+   "id": "bq23",
+   "t": "b-calc",
+   "q": {
+    "en": "An entity buys 100 lambs at RM500 each. Costs to sell are RM20 each. Initial carrying amount of the biological asset is:",
+    "ms": "Entiti beli 100 anak biri-biri @ RM500. Kos menjual RM20 seekor. Amaun dibawa awal aset biologi ialah:"
+   },
+   "o": [
+    "RM50,000",
+    "RM52,000",
+    "RM48,000",
+    "RM2,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "(500 − 20) × 100 = 48,000.",
+    "ms": "(500 − 20) × 100 = 48,000."
+   }
+  },
+  {
+   "id": "bq24",
+   "t": "b-calc",
+   "q": {
+    "en": "Same facts: the loss on initial recognition is:",
+    "ms": "Fakta sama: rugi pengiktirafan awal ialah:"
+   },
+   "o": [
+    "RM0",
+    "RM2,000",
+    "RM48,000",
+    "RM5,800"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Paid 50,000; asset recognised at 48,000 → loss 2,000 (= costs to sell).",
+    "ms": "Bayar 50,000; aset diiktiraf 48,000 → rugi 2,000 (= kos menjual)."
+   }
+  },
+  {
+   "id": "bq25",
+   "t": "b-calc",
+   "q": {
+    "en": "At year-end FV is RM560 and costs to sell RM22 per lamb (100 lambs; opening FVLCTS RM48,000). The gain for the year is:",
+    "ms": "Pada hujung tahun FV RM560 dan kos menjual RM22 seekor (100 ekor; FVLCTS awal RM48,000). Untung tahun itu ialah:"
+   },
+   "o": [
+    "RM6,000",
+    "RM5,800",
+    "RM8,000",
+    "RM3,800"
+   ],
+   "a": 1,
+   "e": {
+    "en": "(560 − 22) × 100 = 53,800; 53,800 − 48,000 = 5,800.",
+    "ms": "(560 − 22) × 100 = 53,800; 53,800 − 48,000 = 5,800."
+   }
+  },
+  {
+   "id": "bq26",
+   "t": "b-bearer",
+   "q": {
+    "en": "An oil palm tree that produces fruit for many years is accounted for under:",
+    "ms": "Pokok sawit yang hasilkan buah bertahun-tahun diakaun di bawah:"
+   },
+   "o": [
+    "MFRS 141",
+    "MFRS 116",
+    "MFRS 102",
+    "MFRS 140"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Bearer plants are PPE (MFRS 116).",
+    "ms": "Bearer plants ialah PPE (MFRS 116)."
+   }
+  },
+  {
+   "id": "bq27",
+   "t": "b-bearer",
+   "q": {
+    "en": "Fresh fruit bunches still growing on an oil palm tree are accounted for under:",
+    "ms": "Tandan buah segar yang masih tumbuh pada pokok sawit diakaun di bawah:"
+   },
+   "o": [
+    "MFRS 116",
+    "MFRS 141",
+    "MFRS 102",
+    "MFRS 138"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Produce growing on a bearer plant is within MFRS 141 (FVLCTS).",
+    "ms": "Hasil yang tumbuh pada bearer plant dalam MFRS 141 (FVLCTS)."
+   }
+  },
+  {
+   "id": "bq28",
+   "t": "b-discl",
+   "q": {
+    "en": "Which disclosure is required for biological assets under MFRS 141?",
+    "ms": "Pendedahan mana diperlukan untuk aset biologi di bawah MFRS 141?"
+   },
+   "o": [
+    "Reconciliation of changes in carrying amount",
+    "Names of all employees",
+    "Customer credit scores",
+    "Total land area owned"
+   ],
+   "a": 0,
+   "e": {
+    "en": "A reconciliation of carrying amount between beginning and end of period.",
+    "ms": "Penyesuaian amaun dibawa antara awal dan akhir tempoh."
+   }
+  },
+  {
+   "id": "bq29",
+   "t": "b-discl",
+   "q": {
+    "en": "FV cannot be measured reliably. Which must be disclosed?",
+    "ms": "FV tidak boleh diukur dengan pasti. Yang manakah mesti didedahkan?"
+   },
+   "o": [
+    "An explanation of why FV cannot be measured reliably",
+    "The CEO's opinion",
+    "Market share",
+    "Nothing additional"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Plus description, range of estimates, depreciation method, useful lives, gross carrying amount and accumulated depreciation.",
+    "ms": "Serta penerangan, julat anggaran, kaedah susut nilai, hayat berguna, amaun dibawa kasar dan susut nilai terkumpul."
+   }
+  },
+  {
+   "id": "bq30",
+   "t": "b-discl",
+   "q": {
+    "en": "Which pair of disclosures is required?",
+    "ms": "Pasangan pendedahan mana diperlukan?"
+   },
+   "o": [
+    "Financial risk management strategies; commitments for development/acquisition",
+    "Dividend policy; share price",
+    "Staff turnover; training hours",
+    "Tax rate; audit fees"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Both are listed in the MFRS 141 disclosures.",
+    "ms": "Kedua-duanya disenaraikan dalam pendedahan MFRS 141."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "be1",
+   "t": "b-feat",
+   "marks": 6,
+   "q": {
+    "en": "Define a biological asset and agricultural activity, and explain the three common features of agricultural activity.",
+    "ms": "Takrifkan aset biologi dan aktiviti pertanian, dan terangkan tiga ciri aktiviti pertanian."
+   },
+   "pts": {
+    "en": [
+     "Biological asset = living animal or plant (1)",
+     "Agricultural activity = management of biological transformation and harvest for sale/produce/additional assets (1)",
+     "Capability to change (1)",
+     "Management of change – enhancing/stabilising conditions; excludes unmanaged sources like ocean fishing (2)",
+     "Measurement of change – quality/quantity monitored as routine (1)"
+    ],
+    "ms": [
+     "Aset biologi = haiwan atau tumbuhan hidup (1)",
+     "Aktiviti pertanian = pengurusan transformasi biologi & tuaian untuk jualan/hasil/aset tambahan (1)",
+     "Keupayaan berubah (1)",
+     "Pengurusan perubahan – tambah baik/stabilkan keadaan; tidak termasuk sumber tidak diurus seperti tangkapan ikan laut (2)",
+     "Pengukuran perubahan – kualiti/kuantiti dipantau sebagai rutin (1)"
+    ]
+   }
+  },
+  {
+   "id": "be2",
+   "t": "b-ex",
+   "marks": 6,
+   "q": {
+    "en": "Sunrise Poultry Sdn Bhd raises chickens, slaughters them in its processing plant and sells whole chickens. Explain whether the activities are within MFRS 141 and how each stage is accounted for.",
+    "ms": "Sunrise Poultry Sdn Bhd bela ayam, sembelih di loji pemprosesan dan jual ayam keseluruhan. Terangkan sama ada aktiviti dalam skop MFRS 141 dan bagaimana setiap peringkat diakaun."
+   },
+   "pts": {
+    "en": [
+     "Within scope: meets agricultural activity criteria – capability, management, measurement (2)",
+     "Live chickens = biological assets → MFRS 141, FVLCTS (1)",
+     "Slaughter = harvest; biological transformation ceases (1)",
+     "Carcasses = agricultural produce measured at FVLCTS at point of harvest (1)",
+     "After harvest → inventory under MFRS 102 (1)"
+    ],
+    "ms": [
+     "Dalam skop: penuhi kriteria aktiviti pertanian – keupayaan, pengurusan, pengukuran (2)",
+     "Ayam hidup = aset biologi → MFRS 141, FVLCTS (1)",
+     "Sembelih = harvest; transformasi biologi berhenti (1)",
+     "Bangkai = hasil pertanian diukur pada FVLCTS pada titik tuai (1)",
+     "Selepas tuai → inventori di bawah MFRS 102 (1)"
+    ]
+   }
+  },
+  {
+   "id": "be3",
+   "t": "b-meas",
+   "marks": 6,
+   "q": {
+    "en": "Explain the recognition and measurement requirements for biological assets and agricultural produce under MFRS 141.",
+    "ms": "Terangkan keperluan pengiktirafan dan pengukuran aset biologi dan hasil pertanian di bawah MFRS 141."
+   },
+   "pts": {
+    "en": [
+     "Control as result of past events (1)",
+     "Probable future economic benefits (1)",
+     "FV or cost measured reliably (1)",
+     "Biological assets: FVLCTS on initial recognition and at end of each reporting period (2)",
+     "Produce: FVLCTS at point of harvest (1)"
+    ],
+    "ms": [
+     "Kawalan hasil peristiwa lepas (1)",
+     "Manfaat ekonomi masa depan berkemungkinan (1)",
+     "FV atau kos boleh diukur dengan pasti (1)",
+     "Aset biologi: FVLCTS semasa pengiktirafan awal dan pada hujung setiap tempoh pelaporan (2)",
+     "Hasil: FVLCTS pada titik tuai (1)"
+    ]
+   }
+  },
+  {
+   "id": "be4",
+   "t": "b-fv",
+   "marks": 6,
+   "q": {
+    "en": "Discuss how the fair value of a biological asset is determined, including when fair value cannot be measured reliably.",
+    "ms": "Bincangkan bagaimana nilai saksama aset biologi ditentukan, termasuk bila nilai saksama tidak boleh diukur dengan pasti."
+   },
+   "pts": {
+    "en": [
+     "FV definition: knowledgeable, willing parties, arm's length; present location and condition (1)",
+     "Group by significant attributes e.g. age/quality (1)",
+     "Active market, one market → quoted price (1)",
+     "More than one market → most relevant market price (1)",
+     "No active market → recent transaction, similar assets, sector benchmark or PV of net cash flows (1)",
+     "Cannot measure reliably → cost less accumulated depreciation and impairment (1)"
+    ],
+    "ms": [
+     "Definisi FV: pihak berpengetahuan, sanggup, arm's length; lokasi & keadaan semasa (1)",
+     "Kumpul ikut atribut penting cth umur/kualiti (1)",
+     "Pasaran aktif, satu pasaran → harga sebut harga (1)",
+     "Lebih satu pasaran → harga pasaran paling relevan (1)",
+     "Tiada pasaran aktif → transaksi terkini, aset serupa, penanda aras sektor atau PV aliran tunai bersih (1)",
+     "Tidak boleh diukur → kos tolak susut nilai terkumpul dan rosot nilai (1)"
+    ]
+   }
+  },
+  {
+   "id": "be5",
+   "t": "b-calc",
+   "marks": 8,
+   "q": {
+    "en": "On 1 March 20x1, Green Farm bought 200 goats at RM300 each (equal to fair value). Costs to sell are RM10 per goat. At 31 December 20x1, FV is RM340 per goat and costs to sell are RM12 per goat. Prepare the journal entries for 20x1.",
+    "ms": "Pada 1 Mac 20x1, Green Farm beli 200 ekor kambing @ RM300 (sama dengan nilai saksama). Kos menjual RM10 seekor. Pada 31 Dis 20x1, FV RM340 seekor dan kos menjual RM12 seekor. Sediakan jurnal untuk 20x1."
+   },
+   "pts": {
+    "en": [
+     "Initial FVLCTS = (300 − 10) × 200 = 58,000 (2)",
+     "Cash paid = 300 × 200 = 60,000 (1)",
+     "Dr Biological asset 58,000; Dr Loss on initial recognition 2,000; Cr Bank 60,000 (2)",
+     "Year-end FVLCTS = (340 − 12) × 200 = 65,600 (1)",
+     "Gain = 65,600 − 58,000 = 7,600 (1)",
+     "Dr Biological asset 7,600; Cr Gain from change in FVLCTS (P/L) 7,600 (1)"
+    ],
+    "ms": [
+     "FVLCTS awal = (300 − 10) × 200 = 58,000 (2)",
+     "Tunai dibayar = 300 × 200 = 60,000 (1)",
+     "Dr Aset biologi 58,000; Dr Rugi pengiktirafan awal 2,000; Cr Bank 60,000 (2)",
+     "FVLCTS hujung tahun = (340 − 12) × 200 = 65,600 (1)",
+     "Untung = 65,600 − 58,000 = 7,600 (1)",
+     "Dr Aset biologi 7,600; Cr Untung perubahan FVLCTS (P/L) 7,600 (1)"
+    ]
+   }
+  },
+  {
+   "id": "be6",
+   "t": "b-discl",
+   "marks": 6,
+   "q": {
+    "en": "List the disclosures required for biological assets, including those required when fair value cannot be measured reliably.",
+    "ms": "Senaraikan pendedahan diperlukan untuk aset biologi, termasuk yang diperlukan bila nilai saksama tidak boleh diukur dengan pasti."
+   },
+   "pts": {
+    "en": [
+     "Aggregate gain/loss on initial recognition (1)",
+     "Description of each group and nature of activities (1)",
+     "Physical quantities of each group and output (1)",
+     "FV methods, significant assumptions; FVLCTS of produce at harvest (1)",
+     "Restricted title, pledged assets, commitments, risk strategies, reconciliation (1)",
+     "Unreliable FV: description, why, range of estimates, depreciation method, useful lives, gross carrying amount & accumulated depreciation (1)"
+    ],
+    "ms": [
+     "Jumlah untung/rugi pengiktirafan awal (1)",
+     "Penerangan setiap kumpulan dan sifat aktiviti (1)",
+     "Kuantiti fizikal setiap kumpulan dan output (1)",
+     "Kaedah FV, andaian penting; FVLCTS hasil semasa tuai (1)",
+     "Hak milik terhad, aset dicagar, komitmen, strategi risiko, penyesuaian (1)",
+     "FV tidak boleh dipercayai: penerangan, sebab, julat anggaran, kaedah susut nilai, hayat berguna, amaun dibawa kasar & susut nilai terkumpul (1)"
+    ]
+   }
+  }
+ ],
+ "flows": [
+  {
+   "id": "scope",
+   "icon": "🧭",
+   "title": {
+    "en": "Which standard applies?",
+    "ms": "Piawaian mana terpakai?"
+   },
+   "sub": {
+    "en": "Scope flowchart",
+    "ms": "Carta skop"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is the item a living animal or plant?",
+      "ms": "Adakah item itu haiwan atau tumbuhan yang hidup?"
+     },
+     "y": "n2",
+     "n": "n5"
+    },
+    "n2": {
+     "q": {
+      "en": "Does the entity manage its biological transformation for sale/conversion (agricultural activity)?",
+      "ms": "Adakah entiti mengurus transformasi biologinya untuk jualan/penukaran (aktiviti pertanian)?"
+     },
+     "y": "n3",
+     "n": "rOut"
+    },
+    "n3": {
+     "q": {
+      "en": "Is it a bearer plant (bears produce for more than one period; remote chance of being sold as produce)?",
+      "ms": "Adakah ia bearer plant (hasilkan buah lebih satu tempoh; kecil kemungkinan dijual sebagai hasil)?"
+     },
+     "y": "rBearer",
+     "n": "rBio"
+    },
+    "n5": {
+     "q": {
+      "en": "Is it produce that was harvested from a biological asset (detached / life processes ceased)?",
+      "ms": "Adakah ia hasil yang dituai daripada aset biologi (dipisahkan / proses hayat berhenti)?"
+     },
+     "y": "n6",
+     "n": "rOther"
+    },
+    "n6": {
+     "q": {
+      "en": "Are you measuring it AT the point of harvest?",
+      "ms": "Adakah anda mengukurnya PADA titik tuai?"
+     },
+     "y": "rProd",
+     "n": "rInv"
+    }
+   },
+   "results": {
+    "rBio": {
+     "c": "good",
+     "t": {
+      "en": "Biological asset → MFRS 141 (FVLCTS)",
+      "ms": "Aset biologi → MFRS 141 (FVLCTS)"
+     },
+     "d": {
+      "en": "Measure at FV less costs to sell at initial recognition and each reporting date; gains/losses to P/L.",
+      "ms": "Ukur pada FV tolak kos menjual semasa pengiktirafan awal dan setiap tarikh pelaporan; untung/rugi ke P/L."
+     }
+    },
+    "rBearer": {
+     "c": "warn",
+     "t": {
+      "en": "Bearer plant → MFRS 116 PPE",
+      "ms": "Bearer plant → MFRS 116 PPE"
+     },
+     "d": {
+      "en": "Cost or revaluation model, depreciated. The produce growing on it is still MFRS 141.",
+      "ms": "Model kos atau penilaian semula, disusutnilai. Hasil yang tumbuh padanya masih MFRS 141."
+     }
+    },
+    "rProd": {
+     "c": "good",
+     "t": {
+      "en": "Agricultural produce at harvest → MFRS 141 (FVLCTS)",
+      "ms": "Hasil pertanian semasa tuai → MFRS 141 (FVLCTS)"
+     },
+     "d": {
+      "en": "Measure at FVLCTS at the point of harvest; gain/loss in P/L.",
+      "ms": "Ukur pada FVLCTS pada titik tuai; untung/rugi dalam P/L."
+     }
+    },
+    "rInv": {
+     "c": "info",
+     "t": {
+      "en": "Produce after harvest → MFRS 102 Inventories",
+      "ms": "Hasil selepas tuai → MFRS 102 Inventori"
+     },
+     "d": {
+      "en": "Cost = FVLCTS at harvest; later at lower of cost and NRV.",
+      "ms": "Kos = FVLCTS semasa tuai; selepas itu yang lebih rendah antara kos dan NRV."
+     }
+    },
+    "rOut": {
+     "c": "warn",
+     "t": {
+      "en": "Not agricultural activity → outside MFRS 141",
+      "ms": "Bukan aktiviti pertanian → di luar MFRS 141"
+     },
+     "d": {
+      "en": "e.g. unmanaged ocean fishing or wild trees.",
+      "ms": "cth tangkapan ikan laut tidak diurus atau pokok liar."
+     }
+    },
+    "rOther": {
+     "c": "warn",
+     "t": {
+      "en": "Not a biological asset or produce",
+      "ms": "Bukan aset biologi atau hasil"
+     },
+     "d": {
+      "en": "Check other standards (e.g. land MFRS 116/140, intangibles MFRS 138).",
+      "ms": "Semak piawaian lain (cth tanah MFRS 116/140, aset tak ketara MFRS 138)."
+     }
+    }
+   }
+  },
+  {
+   "id": "fv",
+   "icon": "⚖️",
+   "title": {
+    "en": "Fair value flowchart",
+    "ms": "Carta nilai saksama"
+   },
+   "sub": {
+    "en": "Pick the FV basis",
+    "ms": "Pilih asas FV"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Does an active market exist for the asset?",
+      "ms": "Adakah pasaran aktif wujud untuk aset itu?"
+     },
+     "y": "n2",
+     "n": "n3"
+    },
+    "n2": {
+     "q": {
+      "en": "Is there MORE THAN ONE active market?",
+      "ms": "Adakah ada LEBIH DARIPADA SATU pasaran aktif?"
+     },
+     "y": "rMost",
+     "n": "rQuote"
+    },
+    "n3": {
+     "q": {
+      "en": "Can fair value still be measured reliably using alternatives (transaction prices, similar assets, benchmarks, PV of cash flows)?",
+      "ms": "Bolehkah FV masih diukur dengan pasti menggunakan alternatif (harga transaksi, aset serupa, penanda aras, PV aliran tunai)?"
+     },
+     "y": "rAlt",
+     "n": "rCost"
+    }
+   },
+   "results": {
+    "rQuote": {
+     "c": "good",
+     "t": {
+      "en": "Market quoted price",
+      "ms": "Harga sebut harga pasaran"
+     },
+     "d": {
+      "en": "One active market → use its quoted price. Then deduct costs to sell.",
+      "ms": "Satu pasaran aktif → guna harga sebut harganya. Kemudian tolak kos menjual."
+     }
+    },
+    "rMost": {
+     "c": "good",
+     "t": {
+      "en": "Most relevant market quoted price",
+      "ms": "Harga pasaran paling relevan"
+     },
+     "d": {
+      "en": "Choose the most relevant market. Then deduct costs to sell.",
+      "ms": "Pilih pasaran paling relevan. Kemudian tolak kos menjual."
+     }
+    },
+    "rAlt": {
+     "c": "info",
+     "t": {
+      "en": "Alternative FV estimate",
+      "ms": "Anggaran FV alternatif"
+     },
+     "d": {
+      "en": "Most recent transaction price · prices of similar assets · sector benchmark · PV of expected net cash flows.",
+      "ms": "Harga transaksi terkini · harga aset serupa · penanda aras sektor · PV aliran tunai bersih dijangka."
+     }
+    },
+    "rCost": {
+     "c": "warn",
+     "t": {
+      "en": "Cost less accumulated depreciation and impairment",
+      "ms": "Kos tolak susut nilai terkumpul dan rosot nilai"
+     },
+     "d": {
+      "en": "Disclose why FV cannot be measured reliably, range of estimates, depreciation method and useful lives.",
+      "ms": "Dedah sebab FV tidak boleh diukur, julat anggaran, kaedah susut nilai dan hayat berguna."
+     }
+    }
+   }
+  }
+ ]
+}

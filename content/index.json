@@ -1,0 +1,10 @@
+{
+  "subjects": [
+    {
+      "id": "far2",
+      "code": "FAR2",
+      "name": { "en": "Financial Reporting 2", "ms": "Pelaporan Kewangan 2" },
+      "chapters": ["far2/ch4.json", "far2/ch5.json"]
+    }
+  ]
+}

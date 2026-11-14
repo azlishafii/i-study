@@ -1,0 +1,2169 @@
+{
+ "id": "ch4",
+ "num": 4,
+ "title": {
+  "en": "Investment Property",
+  "ms": "Hartanah Pelaburan"
+ },
+ "standard": "MFRS 140",
+ "outcomes": {
+  "en": [
+   "Explain the terms of investment property",
+   "Differentiate between investment property and owner-occupied property",
+   "Describe the recognition and measurement basis for investment property",
+   "Identify the circumstances for derecognition of investment property",
+   "Discuss the disclosure requirements of investment property",
+   "Critically evaluate and interpret issues in accounting for investment property"
+  ],
+  "ms": [
+   "Terangkan istilah hartanah pelaburan",
+   "Bezakan hartanah pelaburan dengan hartanah diduduki pemilik",
+   "Huraikan asas pengiktirafan dan pengukuran hartanah pelaburan",
+   "Kenal pasti keadaan untuk nyahpengiktirafan hartanah pelaburan",
+   "Bincangkan keperluan pendedahan hartanah pelaburan",
+   "Nilai dan tafsir secara kritikal isu perakaunan hartanah pelaburan"
+  ]
+ },
+ "sections": [
+  {
+   "id": "def",
+   "icon": "🏢",
+   "title": {
+    "en": "Definition of Investment Property",
+    "ms": "Definisi Hartanah Pelaburan"
+   },
+   "ref": "MFRS 140 para 5",
+   "big": {
+    "en": "Property (land/building/both) held to EARN RENTALS or for CAPITAL APPRECIATION (or both) — NOT for own use and NOT for sale in the ordinary course of business.",
+    "ms": "Hartanah (tanah/bangunan/kedua-duanya) yang dipegang untuk DAPATKAN SEWA atau PENINGKATAN NILAI MODAL (atau kedua-duanya) — BUKAN untuk kegunaan sendiri dan BUKAN untuk dijual dalam perniagaan biasa."
+   },
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Held to earn rentals** → e.g. building leased out to tenants.",
+      "**Held for capital appreciation** → e.g. land bought and kept, hoping the price rises.",
+      "**NOT** used in production/supply of goods or services, or for administration (that is PPE).",
+      "**NOT** held for sale in the ordinary course of business (that is inventory)."
+     ],
+     "ms": [
+      "**Dipegang untuk dapat sewa** → cth bangunan disewakan kepada penyewa.",
+      "**Dipegang untuk peningkatan nilai modal** → cth tanah dibeli & disimpan, harap harga naik.",
+      "**BUKAN** digunakan untuk pengeluaran/bekalan barang atau perkhidmatan, atau pentadbiran (itu PPE).",
+      "**BUKAN** dipegang untuk dijual dalam perniagaan biasa (itu inventori)."
+     ]
+    },
+    {
+     "k": "p",
+     "en": "**Includes:** property held by the owner, and property held by a lessee under a finance lease.",
+     "ms": "**Termasuk:** hartanah yang dipegang oleh pemilik, dan hartanah yang dipegang oleh pajakan (lessee) di bawah pajakan kewangan."
+    },
+    {
+     "k": "note",
+     "en": "Slide uses \"finance lease\" (old MFRS 117 wording). Under MFRS 16, a lessee's right-of-use asset that meets the IP definition is also covered by MFRS 140. Follow your lecturer's wording in the exam.",
+     "ms": "Slide guna istilah \"finance lease\" (bahasa lama MFRS 117). Dalam MFRS 16, aset hak guna (right-of-use) lessee yang memenuhi definisi IP juga tertakluk kepada MFRS 140. Dalam exam, ikut istilah yang pensyarah guna."
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: IP = \"R.C.\" → Rentals or Capital appreciation. If neither, it is not IP.",
+     "ms": "Cara ingat: IP = \"R.C.\" → Rentals atau Capital appreciation. Kalau bukan kedua-duanya, bukan IP."
+    }
+   ]
+  },
+  {
+   "id": "ooc",
+   "icon": "🚫",
+   "title": {
+    "en": "Owner-occupied Property (Excluded)",
+    "ms": "Hartanah Diduduki Pemilik (Dikecualikan)"
+   },
+   "ref": "MFRS 140 para 5 & 9",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "**Owner-occupied property (OOP)** = property held (by the owner, or by a lessee under a finance lease) for use in the production/supply of goods or services, or for administrative purposes. → Accounted for under **MFRS 116 (PPE)**.",
+     "ms": "**Hartanah diduduki pemilik (OOP)** = hartanah yang dipegang (oleh pemilik, atau lessee di bawah pajakan kewangan) untuk digunakan dalam pengeluaran/bekalan barang atau perkhidmatan, atau untuk tujuan pentadbiran. → Diakaunkan di bawah **MFRS 116 (PPE)**."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Property occupied by **employees** of the owner → OOP (even if employees pay rent at market rate).",
+      "Head office building used by the company → OOP.",
+      "Factory used for production → OOP."
+     ],
+     "ms": [
+      "Hartanah diduduki oleh **pekerja** pemilik → OOP (walaupun pekerja bayar sewa kadar pasaran).",
+      "Bangunan ibu pejabat yang syarikat guna → OOP.",
+      "Kilang untuk pengeluaran → OOP."
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "",
+       "Investment Property",
+       "Owner-occupied (PPE)"
+      ],
+      "ms": [
+       "",
+       "Hartanah Pelaburan",
+       "Diduduki Pemilik (PPE)"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Purpose",
+        "Rentals / capital appreciation",
+        "Own use in business / admin"
+       ],
+       "ms": [
+        "Tujuan",
+        "Sewa / peningkatan modal",
+        "Guna sendiri dalam bisnes / pentadbiran"
+       ]
+      },
+      {
+       "en": [
+        "Cash flows",
+        "Largely independent of other assets",
+        "Together with other assets in production"
+       ],
+       "ms": [
+        "Aliran tunai",
+        "Hampir bebas daripada aset lain",
+        "Bersama aset lain dalam pengeluaran"
+       ]
+      },
+      {
+       "en": [
+        "Standard",
+        "MFRS 140",
+        "MFRS 116"
+       ],
+       "ms": [
+        "Piawaian",
+        "MFRS 140",
+        "MFRS 116"
+       ]
+      },
+      {
+       "en": [
+        "Subsequent",
+        "Cost OR Fair value model",
+        "Cost OR Revaluation model"
+       ],
+       "ms": [
+        "Selepas pengiktirafan",
+        "Model kos ATAU nilai saksama",
+        "Model kos ATAU penilaian semula"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra (not in slides, para 15): property leased to a parent/subsidiary is IP in the lessor's own statements, but owner-occupied in the group's consolidated statements.",
+     "ms": "Tambahan (tiada dalam slide, para 15): hartanah yang disewa kepada syarikat induk/subsidiari ialah IP dalam penyata pemberi sewa sendiri, tetapi OOP dalam penyata disatukan (consolidated) kumpulan."
+    }
+   ]
+  },
+  {
+   "id": "examples",
+   "icon": "📋",
+   "title": {
+    "en": "Examples of Investment Property",
+    "ms": "Contoh Hartanah Pelaburan"
+   },
+   "ref": "MFRS 140 para 8",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "✅ These ARE investment property",
+     "ms": "✅ Ini ADALAH hartanah pelaburan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Land held for **long-term capital appreciation** (not short-term sale in ordinary course).",
+      "Land held for a **currently undetermined future use**.",
+      "A building owned (or held under finance lease) and **leased out** under one or more operating leases.",
+      "A building that is **vacant** but held to be leased out under operating leases.",
+      "Property **being constructed/developed** for future use as IP."
+     ],
+     "ms": [
+      "Tanah dipegang untuk **peningkatan nilai jangka panjang** (bukan untuk jualan jangka pendek dalam perniagaan biasa).",
+      "Tanah dipegang untuk **kegunaan masa depan yang belum ditentukan**.",
+      "Bangunan milik sendiri (atau di bawah pajakan kewangan) yang **disewakan** di bawah pajakan operasi.",
+      "Bangunan yang **kosong** tetapi dipegang untuk disewakan di bawah pajakan operasi.",
+      "Hartanah yang **sedang dibina/dibangunkan** untuk kegunaan masa depan sebagai IP."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Exam trap: \"land with no decided use\" → treated as held for capital appreciation → IP (NOT inventory, NOT PPE).",
+     "ms": "Perangkap exam: \"tanah yang belum ada keputusan guna\" → dianggap dipegang untuk capital appreciation → IP (BUKAN inventori, BUKAN PPE)."
+    }
+   ]
+  },
+  {
+   "id": "dual",
+   "icon": "⚖️",
+   "title": {
+    "en": "Dual Purpose Property",
+    "ms": "Hartanah Dwi-Tujuan"
+   },
+   "ref": "MFRS 140 para 10 & 14",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Some property has a portion for rental/appreciation AND a portion for own use (e.g. a building where the owner uses floors 1–2 and rents out floors 3–10).",
+     "ms": "Sesetengah hartanah ada satu bahagian untuk sewa/peningkatan nilai DAN satu bahagian untuk kegunaan sendiri (cth bangunan: pemilik guna tingkat 1–2, tingkat 3–10 disewakan)."
+    },
+    {
+     "k": "flow",
+     "en": [
+      "Can the portions be SOLD (or leased out under finance lease) SEPARATELY?",
+      "YES → account separately: one portion as IP, the other as PPE.",
+      "NO → it is IP only if an INSIGNIFICANT portion is held for own use."
+     ],
+     "ms": [
+      "Boleh bahagian-bahagian dijual (atau dipajak kewangan) SECARA BERASINGAN?",
+      "YA → akaun berasingan: satu bahagian sebagai IP, satu lagi sebagai PPE.",
+      "TIDAK → hanya IP jika bahagian yang digunakan sendiri itu TIDAK SIGNIFIKAN."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "**Judgement is needed** (para 14) — entity should develop criteria and disclose them.",
+     "ms": "**Pertimbangan (judgement) diperlukan** (para 14) — entiti perlu bangunkan kriteria dan dedahkannya."
+    }
+   ]
+  },
+  {
+   "id": "ancillary",
+   "icon": "🛎️",
+   "title": {
+    "en": "Ancillary Services",
+    "ms": "Perkhidmatan Sampingan"
+   },
+   "ref": "MFRS 140 para 11–13",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "If the owner provides services to the occupants, the question is: are the services **significant** to the whole arrangement?",
+     "ms": "Jika pemilik menyediakan perkhidmatan kepada penghuni, soalannya: adakah perkhidmatan itu **signifikan** kepada keseluruhan pengaturan?"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Services",
+       "Example",
+       "Result"
+      ],
+      "ms": [
+       "Perkhidmatan",
+       "Contoh",
+       "Keputusan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Insignificant",
+        "Owner of office building provides security & maintenance to tenants",
+        "Investment Property"
+       ],
+       "ms": [
+        "Tidak signifikan",
+        "Pemilik bangunan pejabat sediakan keselamatan & penyelenggaraan kepada penyewa",
+        "Hartanah Pelaburan"
+       ]
+      },
+      {
+       "en": [
+        "Significant",
+        "Owner-managed hotel provides services to guests",
+        "Owner-occupied (PPE)"
+       ],
+       "ms": [
+        "Signifikan",
+        "Hotel yang diurus pemilik beri perkhidmatan kepada tetamu",
+        "Diduduki pemilik (PPE)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Hotel = the service (room service, cleaning, food) is the main business, so the building is PPE. Office/shop = tenants mostly just pay rent, so IP.",
+     "ms": "Hotel = perkhidmatan (servis bilik, pembersihan, makanan) ialah bisnes utama, jadi bangunan ialah PPE. Pejabat/kedai = penyewa hanya bayar sewa, jadi IP."
+    }
+   ]
+  },
+  {
+   "id": "recog",
+   "icon": "✅",
+   "title": {
+    "en": "Recognition",
+    "ms": "Pengiktirafan"
+   },
+   "ref": "MFRS 140 para 16",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Recognise investment property as an asset **if and only if** BOTH conditions are met:",
+     "ms": "Iktiraf hartanah pelaburan sebagai aset **jika dan hanya jika** KEDUA-DUA syarat dipenuhi:"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "It is **probable** that future economic benefits will flow to the entity; AND",
+      "The **cost** of the IP can be **measured reliably**."
+     ],
+     "ms": [
+      "Adalah **berkemungkinan besar** manfaat ekonomi masa depan akan mengalir kepada entiti; DAN",
+      "**Kos** IP boleh **diukur dengan pasti**."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meas",
+   "icon": "📏",
+   "title": {
+    "en": "Measurement",
+    "ms": "Pengukuran"
+   },
+   "ref": "MFRS 140 para 20 & 30",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Initial measurement",
+     "ms": "Pengukuran awal"
+    },
+    {
+     "k": "p",
+     "en": "At **cost**. **Transaction costs are included** (e.g. legal fees, property transfer tax/stamp duty, professional fees).",
+     "ms": "Pada **kos**. **Kos transaksi dimasukkan** (cth yuran guaman, duti setem/cukai pindah milik, yuran profesional)."
+    },
+    {
+     "k": "h",
+     "en": "Subsequent measurement",
+     "ms": "Pengukuran selepas pengiktirafan"
+    },
+    {
+     "k": "p",
+     "en": "Entity **chooses ONE accounting policy**: **Cost model** OR **Fair value (FV) model**, and applies it **consistently** (para 30) to all its investment property.",
+     "ms": "Entiti **pilih SATU dasar perakaunan**: **Model kos** ATAU **Model nilai saksama (FV)**, dan guna **secara konsisten** (para 30) untuk semua hartanah pelaburannya."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "",
+       "Cost model",
+       "FV model"
+      ],
+      "ms": [
+       "",
+       "Model kos",
+       "Model FV"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Standard",
+        "Follows MFRS 116",
+        "MFRS 140 para 33–55"
+       ],
+       "ms": [
+        "Piawaian",
+        "Ikut MFRS 116",
+        "MFRS 140 para 33–55"
+       ]
+      },
+      {
+       "en": [
+        "Carrying amount",
+        "Cost − acc. depreciation − impairment",
+        "Fair value at reporting date"
+       ],
+       "ms": [
+        "Amaun dibawa",
+        "Kos − susut nilai terkumpul − rosot nilai",
+        "Nilai saksama pada tarikh pelaporan"
+       ]
+      },
+      {
+       "en": [
+        "Depreciation?",
+        "YES",
+        "NO"
+       ],
+       "ms": [
+        "Susut nilai?",
+        "YA",
+        "TIDAK"
+       ]
+      },
+      {
+       "en": [
+        "Impairment test?",
+        "YES (MFRS 136)",
+        "NO (already at FV)"
+       ],
+       "ms": [
+        "Ujian rosot nilai?",
+        "YA (MFRS 136)",
+        "TIDAK (sudah pada FV)"
+       ]
+      },
+      {
+       "en": [
+        "Change in value",
+        "Not recognised (except impairment)",
+        "Gain/loss in profit or loss"
+       ],
+       "ms": [
+        "Perubahan nilai",
+        "Tidak diiktiraf (kecuali rosot nilai)",
+        "Untung/rugi dalam untung atau rugi"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra (para 31): changing policy is allowed only if it gives a more relevant presentation; MFRS 140 says a change from FV to cost is highly unlikely to do so.",
+     "ms": "Tambahan (para 31): tukar dasar hanya dibenarkan jika memberi pembentangan lebih relevan; MFRS 140 kata tukar dari FV ke kos amat tidak mungkin berbuat demikian."
+    }
+   ]
+  },
+  {
+   "id": "cost",
+   "icon": "💰",
+   "title": {
+    "en": "Cost Model",
+    "ms": "Model Kos"
+   },
+   "ref": "MFRS 140 para 56 → MFRS 116",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Measured in accordance with **MFRS 116 PPE**.",
+      "Carried at **cost** (or revalued amount per the slide).",
+      "Subject to **depreciation**.",
+      "Subject to **impairment test**."
+     ],
+     "ms": [
+      "Diukur mengikut **MFRS 116 PPE**.",
+      "Dibawa pada **kos** (atau amaun dinilai semula, ikut slide).",
+      "Tertakluk kepada **susut nilai**.",
+      "Tertakluk kepada **ujian rosot nilai**."
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "On 1 Jan 20x1, MM Bhd purchased a factory for investment purposes. Cost RM100 million, useful life 50 years, no salvage value.",
+     "ms": "Pada 1 Jan 20x1, MM Bhd beli sebuah kilang untuk tujuan pelaburan. Kos RM100 juta, hayat berguna 50 tahun, tiada nilai sisa."
+    },
+    {
+     "k": "calc",
+     "en": "Depreciation = (100,000,000 − 0) ÷ 50 = RM2,000,000 per year",
+     "ms": "Susut nilai = (100,000,000 − 0) ÷ 50 = RM2,000,000 setahun"
+    },
+    {
+     "k": "je",
+     "title": "1 Jan 20x1",
+     "lines": [
+      [
+       "Dr",
+       "Investment Property",
+       "100,000,000"
+      ],
+      [
+       "Cr",
+       "Bank",
+       "100,000,000"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "31 Dec 20x1",
+     "lines": [
+      [
+       "Dr",
+       "Depreciation expense",
+       "2,000,000"
+      ],
+      [
+       "Cr",
+       "Accumulated depreciation",
+       "2,000,000"
+      ]
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Carrying amount at 31 Dec 20x1 = 100m − 2m = RM98m. The statement of financial position shows cost and accumulated depreciation.",
+     "ms": "Amaun dibawa pada 31 Dis 20x1 = 100j − 2j = RM98j."
+    }
+   ]
+  },
+  {
+   "id": "fv",
+   "icon": "📈",
+   "title": {
+    "en": "Fair Value (FV) Model",
+    "ms": "Model Nilai Saksama (FV)"
+   },
+   "ref": "MFRS 140 para 33–55 (38 & 35)",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "IP is measured at its **fair value**, reflecting market conditions at the **reporting date** (para 38).",
+      "**No depreciation** is charged.",
+      "A **gain or loss** from a change in FV is recognised in **profit or loss** in the period it arises (para 35)."
+     ],
+     "ms": [
+      "IP diukur pada **nilai saksama**, mencerminkan keadaan pasaran pada **tarikh pelaporan** (para 38).",
+      "**Tiada susut nilai** dicaj.",
+      "**Untung atau rugi** daripada perubahan FV diiktiraf dalam **untung atau rugi** pada tempoh ia berlaku (para 35)."
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Same factory: cost RM100m on 1 Jan 20x1 (useful life 50 years). FV at 31 Dec 20x1 = RM105m; at 31 Dec 20x2 = RM95m.",
+     "ms": "Kilang sama: kos RM100j pada 1 Jan 20x1 (hayat 50 tahun). FV pada 31 Dis 20x1 = RM105j; pada 31 Dis 20x2 = RM95j."
+    },
+    {
+     "k": "je",
+     "title": "1 Jan 20x1",
+     "lines": [
+      [
+       "Dr",
+       "Investment Property",
+       "100,000,000"
+      ],
+      [
+       "Cr",
+       "Bank",
+       "100,000,000"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "31 Dec 20x1 — FV gain (105 − 100)",
+     "lines": [
+      [
+       "Dr",
+       "Investment Property",
+       "5,000,000"
+      ],
+      [
+       "Cr",
+       "FV gain on investment property (P/L)",
+       "5,000,000"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "31 Dec 20x2 — FV loss (95 − 105)",
+     "lines": [
+      [
+       "Dr",
+       "FV loss on investment property (P/L)",
+       "10,000,000"
+      ],
+      [
+       "Cr",
+       "Investment Property",
+       "10,000,000"
+      ]
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "TRAP: the question gives \"useful life 50 years\" but under FV model you do NOT depreciate. Always compare FV with the PREVIOUS carrying amount (not original cost) when computing each year's gain/loss.",
+     "ms": "PERANGKAP: soalan bagi \"hayat 50 tahun\" tetapi dalam model FV anda TIDAK susutnilaikan. Sentiasa bandingkan FV dengan amaun dibawa TAHUN SEBELUM (bukan kos asal) untuk kira untung/rugi setiap tahun."
+    }
+   ]
+  },
+  {
+   "id": "transfer",
+   "icon": "🔄",
+   "title": {
+    "en": "Transfers of Investment Property",
+    "ms": "Pemindahan Hartanah Pelaburan"
+   },
+   "ref": "MFRS 140 para 57–65",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Transfer to or from IP is made **when and only when there is a CHANGE IN USE**, evidenced by:",
+     "ms": "Pemindahan ke atau dari IP dibuat **apabila dan hanya apabila ada PERUBAHAN PENGGUNAAN**, dibuktikan oleh:"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Transfer",
+       "Evidence of change in use"
+      ],
+      "ms": [
+       "Pemindahan",
+       "Bukti perubahan penggunaan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "IP → Owner-occupied (PPE)",
+        "Commencement of owner-occupation"
+       ],
+       "ms": [
+        "IP → Diduduki pemilik (PPE)",
+        "Mula diduduki pemilik"
+       ]
+      },
+      {
+       "en": [
+        "IP → Inventories",
+        "Commencement of development with a view to sale"
+       ],
+       "ms": [
+        "IP → Inventori",
+        "Mula pembangunan untuk dijual"
+       ]
+      },
+      {
+       "en": [
+        "Owner-occupied (PPE) → IP",
+        "End of owner-occupation"
+       ],
+       "ms": [
+        "PPE → IP",
+        "Tamat pendudukan pemilik"
+       ]
+      },
+      {
+       "en": [
+        "Inventories → IP",
+        "Commencement of operating lease to another party"
+       ],
+       "ms": [
+        "Inventori → IP",
+        "Mula pajakan operasi kepada pihak lain"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Accounting for the transfer",
+     "ms": "Perakaunan untuk pemindahan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Cost model:** transfers do NOT change the carrying amount or cost (para 59).",
+      "**IP (at FV) → PPE or Inventories:** FV at the date of change in use = **deemed cost** for MFRS 116 / MFRS 102 (para 60).",
+      "**PPE → IP (at FV):** difference between carrying amount and FV = **revaluation surplus/deficit** per MFRS 116 (para 61).",
+      "**Inventories → IP (at FV):** difference between carrying amount and FV → **profit or loss** (para 63)."
+     ],
+     "ms": [
+      "**Model kos:** pemindahan TIDAK ubah amaun dibawa atau kos (para 59).",
+      "**IP (pada FV) → PPE atau Inventori:** FV pada tarikh perubahan guna = **kos dianggap (deemed cost)** untuk MFRS 116 / MFRS 102 (para 60).",
+      "**PPE → IP (pada FV):** beza antara amaun dibawa dengan FV = **lebihan/defisit penilaian semula** ikut MFRS 116 (para 61).",
+      "**Inventori → IP (pada FV):** beza antara amaun dibawa dengan FV → **untung atau rugi** (para 63)."
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "From → To (FV model)",
+       "Difference goes to"
+      ],
+      "ms": [
+       "Dari → Ke (model FV)",
+       "Beza masuk ke"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "IP → PPE / Inventories",
+        "No difference: FV becomes deemed cost"
+       ],
+       "ms": [
+        "IP → PPE / Inventori",
+        "Tiada beza: FV jadi kos dianggap"
+       ]
+      },
+      {
+       "en": [
+        "PPE → IP",
+        "Revaluation surplus (OCI)"
+       ],
+       "ms": [
+        "PPE → IP",
+        "Lebihan penilaian semula (OCI)"
+       ]
+      },
+      {
+       "en": [
+        "Inventories → IP",
+        "Profit or loss"
+       ],
+       "ms": [
+        "Inventori → IP",
+        "Untung atau rugi"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: \"Inventory is trading stock, so any gain on moving it to IP is trading profit → P/L. PPE is revalued under MFRS 116 → surplus.\"",
+     "ms": "Cara ingat: \"Inventori = stok dagangan, jadi untung bila pindah ke IP ialah untung perniagaan → P/L. PPE dinilai semula ikut MFRS 116 → lebihan penilaian semula.\""
+    },
+    {
+     "k": "note",
+     "en": "Extra (para 62): if a PPE→IP revaluation produces a decrease, it is first set against any existing surplus; any excess goes to P/L. Use the Transfer Helper tool to practise.",
+     "ms": "Tambahan (para 62): jika penilaian semula PPE→IP menghasilkan penurunan, ia ditolak dahulu daripada lebihan sedia ada; baki lebihan ke P/L. Guna alat Transfer Helper untuk berlatih."
+    }
+   ]
+  },
+  {
+   "id": "derecog",
+   "icon": "🗑️",
+   "title": {
+    "en": "Derecognition (Disposal)",
+    "ms": "Nyahpengiktirafan (Pelupusan)"
+   },
+   "ref": "MFRS 140 para 66–73 · Extra: not in slides",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "This is a learning outcome but is NOT covered in the slides. Content below is from MFRS 140 — confirm depth with your lecturer.",
+     "ms": "Ini ialah learning outcome tetapi TIDAK ada dalam slide. Kandungan di bawah daripada MFRS 140 — sahkan tahap kedalaman dengan pensyarah."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Derecognise IP **on disposal** (sale or finance lease) or when it is **permanently withdrawn from use** and no future benefits are expected.",
+      "Gain/loss = **net disposal proceeds − carrying amount**.",
+      "Recognise the gain/loss in **profit or loss** in the period of retirement/disposal."
+     ],
+     "ms": [
+      "Nyahiktiraf IP **semasa pelupusan** (jualan atau pajakan kewangan) atau apabila ia **ditarik balik secara kekal** dan tiada manfaat masa depan dijangka.",
+      "Untung/rugi = **hasil pelupusan bersih − amaun dibawa**.",
+      "Iktiraf untung/rugi dalam **untung atau rugi** pada tempoh persaraan/pelupusan."
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Example: IP carrying amount RM95m, sold for RM100m net → gain RM5m. Dr Bank 100m; Cr IP 95m; Cr Gain on disposal 5m.",
+     "ms": "Contoh: IP amaun dibawa RM95j, dijual RM100j bersih → untung RM5j. Dr Bank 100j; Cr IP 95j; Cr Untung pelupusan 5j."
+    }
+   ]
+  },
+  {
+   "id": "discl",
+   "icon": "📝",
+   "title": {
+    "en": "Disclosure Requirements",
+    "ms": "Keperluan Pendedahan"
+   },
+   "ref": "MFRS 140 para 74–79",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Whether the entity applies the **FV model or the cost model**.",
+      "The **methods and significant assumptions** used to determine FV, including a statement whether FV was supported by **market evidence** or other factors.",
+      "The extent to which FV is based on a valuation by an **independent valuer** with a recognised and relevant professional qualification and recent experience in the location and category of the property. **If there has been no such valuation, disclose that fact.**",
+      "The existence and amounts of **restrictions on realisability** of IP or on remittance of income and disposal proceeds.",
+      "**Contractual obligations** to purchase, construct or develop IP, or for repairs, maintenance or enhancements."
+     ],
+     "ms": [
+      "Sama ada entiti guna **model FV atau model kos**.",
+      "**Kaedah dan andaian penting** untuk tentukan FV, termasuk kenyataan sama ada FV disokong **bukti pasaran** atau faktor lain.",
+      "Setakat mana FV berdasarkan penilaian oleh **penilai bebas** yang berkelayakan profesional diiktiraf dan berpengalaman di lokasi & kategori hartanah. **Jika tiada penilaian sedemikian, dedahkan fakta itu.**",
+      "Kewujudan dan amaun **sekatan ke atas kebolehrealisasian** IP atau pengiriman pendapatan dan hasil pelupusan.",
+      "**Obligasi kontrak** untuk beli, bina atau bangunkan IP, atau untuk pembaikan, penyelenggaraan atau penambahbaikan."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook \"M-V-I-R-C\": Model · Valuation methods/assumptions · Independent valuer · Restrictions · Contractual obligations.",
+     "ms": "Cara ingat \"M-V-I-R-C\": Model · Valuation methods/assumptions · Independent valuer · Restrictions · Contractual obligations."
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  [
+   "Investment property",
+   "Hartanah pelaburan"
+  ],
+  [
+   "Owner-occupied property",
+   "Hartanah diduduki pemilik"
+  ],
+  [
+   "Rentals",
+   "Sewa"
+  ],
+  [
+   "Capital appreciation",
+   "Peningkatan nilai modal"
+  ],
+  [
+   "Operating lease",
+   "Pajakan operasi"
+  ],
+  [
+   "Finance lease",
+   "Pajakan kewangan"
+  ],
+  [
+   "Right-of-use asset",
+   "Aset hak guna"
+  ],
+  [
+   "Lessee / Lessor",
+   "Pemajak (penyewa) / Pemberi pajak"
+  ],
+  [
+   "Ancillary services",
+   "Perkhidmatan sampingan"
+  ],
+  [
+   "Recognition",
+   "Pengiktirafan"
+  ],
+  [
+   "Measurement",
+   "Pengukuran"
+  ],
+  [
+   "Probable",
+   "Berkemungkinan besar"
+  ],
+  [
+   "Reliably measured",
+   "Boleh diukur dengan pasti"
+  ],
+  [
+   "Transaction costs",
+   "Kos transaksi"
+  ],
+  [
+   "Accounting policy",
+   "Dasar perakaunan"
+  ],
+  [
+   "Cost model",
+   "Model kos"
+  ],
+  [
+   "Fair value model",
+   "Model nilai saksama"
+  ],
+  [
+   "Depreciation",
+   "Susut nilai"
+  ],
+  [
+   "Impairment",
+   "Rosot nilai"
+  ],
+  [
+   "Useful life",
+   "Hayat berguna"
+  ],
+  [
+   "Residual (salvage) value",
+   "Nilai sisa"
+  ],
+  [
+   "Carrying amount",
+   "Amaun dibawa"
+  ],
+  [
+   "Deemed cost",
+   "Kos dianggap"
+  ],
+  [
+   "Revaluation surplus",
+   "Lebihan penilaian semula"
+  ],
+  [
+   "Fair value gain / loss",
+   "Untung / rugi nilai saksama"
+  ],
+  [
+   "Profit or loss",
+   "Untung atau rugi"
+  ],
+  [
+   "Inventories",
+   "Inventori (stok)"
+  ],
+  [
+   "Change in use",
+   "Perubahan penggunaan"
+  ],
+  [
+   "Transfer",
+   "Pemindahan"
+  ],
+  [
+   "Derecognition",
+   "Nyahpengiktirafan"
+  ],
+  [
+   "Disposal",
+   "Pelupusan"
+  ],
+  [
+   "Independent valuer",
+   "Penilai bebas"
+  ],
+  [
+   "Disclosure",
+   "Pendedahan"
+  ],
+  [
+   "Judgement",
+   "Pertimbangan (judgement)"
+  ],
+  [
+   "Reporting date",
+   "Tarikh pelaporan"
+  ],
+  [
+   "Market evidence",
+   "Bukti pasaran"
+  ]
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "def",
+   "q": {
+    "en": "Define investment property (MFRS 140 para 5)",
+    "ms": "Takrifkan hartanah pelaburan"
+   },
+   "a": {
+    "en": "Property (land/building/both) held to earn rentals or for capital appreciation or both, rather than for use in the business or sale in the ordinary course of business.",
+    "ms": "Hartanah (tanah/bangunan/kedua-duanya) dipegang untuk dapat sewa atau peningkatan nilai modal atau kedua-duanya, bukan untuk kegunaan bisnes atau jualan dalam perniagaan biasa."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "ooc",
+   "q": {
+    "en": "What is owner-occupied property?",
+    "ms": "Apa itu hartanah diduduki pemilik?"
+   },
+   "a": {
+    "en": "Property held for use in production/supply of goods or services or for administrative purposes. Accounted under MFRS 116.",
+    "ms": "Hartanah dipegang untuk pengeluaran/bekalan barang atau perkhidmatan atau pentadbiran. Diakaun di bawah MFRS 116."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "ooc",
+   "q": {
+    "en": "Property occupied by employees of the owner: IP or OOP?",
+    "ms": "Hartanah diduduki pekerja pemilik: IP atau OOP?"
+   },
+   "a": {
+    "en": "Owner-occupied (even if employees pay market rent).",
+    "ms": "Diduduki pemilik / OOP (walaupun pekerja bayar sewa pasaran)."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "examples",
+   "q": {
+    "en": "Land held, future use not decided: classification?",
+    "ms": "Tanah dipegang, kegunaan belum diputuskan: klasifikasi?"
+   },
+   "a": {
+    "en": "Investment property (held for capital appreciation).",
+    "ms": "Hartanah pelaburan (dipegang untuk capital appreciation)."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "examples",
+   "q": {
+    "en": "Vacant building held to be leased out under operating lease: classification?",
+    "ms": "Bangunan kosong dipegang untuk disewakan (pajakan operasi): klasifikasi?"
+   },
+   "a": {
+    "en": "Investment property.",
+    "ms": "Hartanah pelaburan."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "examples",
+   "q": {
+    "en": "Property under construction for future use as IP: classification?",
+    "ms": "Hartanah sedang dibina untuk kegunaan masa depan sebagai IP: klasifikasi?"
+   },
+   "a": {
+    "en": "Investment property.",
+    "ms": "Hartanah pelaburan."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "examples",
+   "q": {
+    "en": "Land held for short-term sale in the ordinary course of business?",
+    "ms": "Tanah dipegang untuk jualan jangka pendek dalam perniagaan biasa?"
+   },
+   "a": {
+    "en": "NOT IP → Inventories (MFRS 102).",
+    "ms": "BUKAN IP → Inventori (MFRS 102)."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "dual",
+   "q": {
+    "en": "Dual-purpose property: portions CAN be sold separately",
+    "ms": "Hartanah dwi-tujuan: bahagian BOLEH dijual berasingan"
+   },
+   "a": {
+    "en": "Account for each portion separately: IP and PPE.",
+    "ms": "Akaun setiap bahagian berasingan: IP dan PPE."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "dual",
+   "q": {
+    "en": "Dual-purpose property: portions CANNOT be sold separately",
+    "ms": "Hartanah dwi-tujuan: bahagian TIDAK BOLEH dijual berasingan"
+   },
+   "a": {
+    "en": "IP only if an insignificant portion is held for own use. Judgement needed (para 14).",
+    "ms": "IP hanya jika bahagian tidak signifikan digunakan sendiri. Perlu pertimbangan (para 14)."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "ancillary",
+   "q": {
+    "en": "Owner provides security & maintenance to tenants",
+    "ms": "Pemilik sediakan keselamatan & penyelenggaraan kepada penyewa"
+   },
+   "a": {
+    "en": "Insignificant services → Investment property.",
+    "ms": "Perkhidmatan tidak signifikan → Hartanah pelaburan."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "ancillary",
+   "q": {
+    "en": "Owner-managed hotel providing services to guests",
+    "ms": "Hotel diurus pemilik yang beri perkhidmatan kepada tetamu"
+   },
+   "a": {
+    "en": "Significant services → Owner-occupied (PPE).",
+    "ms": "Perkhidmatan signifikan → Diduduki pemilik (PPE)."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "recog",
+   "q": {
+    "en": "Two recognition criteria for IP (para 16)",
+    "ms": "Dua kriteria pengiktirafan IP (para 16)"
+   },
+   "a": {
+    "en": "1) Probable future economic benefits will flow to the entity; 2) Cost can be measured reliably. (Both required)",
+    "ms": "1) Berkemungkinan besar manfaat ekonomi masa depan mengalir; 2) Kos boleh diukur dengan pasti. (Kedua-duanya perlu)"
+   }
+  },
+  {
+   "id": "c13",
+   "t": "meas",
+   "q": {
+    "en": "Initial measurement of IP",
+    "ms": "Pengukuran awal IP"
+   },
+   "a": {
+    "en": "At cost, including transaction costs.",
+    "ms": "Pada kos, termasuk kos transaksi."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "meas",
+   "q": {
+    "en": "Subsequent measurement options (para 30)",
+    "ms": "Pilihan pengukuran selepas pengiktirafan (para 30)"
+   },
+   "a": {
+    "en": "Cost model OR Fair value model — accounting policy choice, applied consistently.",
+    "ms": "Model kos ATAU Model nilai saksama — pilihan dasar perakaunan, guna secara konsisten."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "cost",
+   "q": {
+    "en": "Cost model: which standard governs it?",
+    "ms": "Model kos: piawaian mana yang digunakan?"
+   },
+   "a": {
+    "en": "MFRS 116 PPE → depreciation + impairment test.",
+    "ms": "MFRS 116 PPE → susut nilai + ujian rosot nilai."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "cost",
+   "q": {
+    "en": "Cost model: annual depreciation formula",
+    "ms": "Model kos: formula susut nilai tahunan"
+   },
+   "a": {
+    "en": "(Cost − residual value) ÷ useful life (straight-line).",
+    "ms": "(Kos − nilai sisa) ÷ hayat berguna (garis lurus)."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "fv",
+   "q": {
+    "en": "FV model: is IP depreciated?",
+    "ms": "Model FV: adakah IP disusutnilaikan?"
+   },
+   "a": {
+    "en": "No. It is remeasured to FV at each reporting date.",
+    "ms": "Tidak. Ia disukat semula pada FV setiap tarikh pelaporan."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "fv",
+   "q": {
+    "en": "FV model: where do FV gains/losses go?",
+    "ms": "Model FV: untung/rugi FV pergi ke mana?"
+   },
+   "a": {
+    "en": "Profit or loss, in the period it arises (para 35).",
+    "ms": "Untung atau rugi, pada tempoh ia berlaku (para 35)."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "fv",
+   "q": {
+    "en": "FV model journal: FV rises RM5m",
+    "ms": "Jurnal model FV: FV naik RM5j"
+   },
+   "a": {
+    "en": "Dr Investment property 5m / Cr FV gain on IP (P/L) 5m",
+    "ms": "Dr Investment property 5j / Cr FV gain on IP (P/L) 5j"
+   }
+  },
+  {
+   "id": "c20",
+   "t": "fv",
+   "q": {
+    "en": "FV model journal: FV falls RM10m",
+    "ms": "Jurnal model FV: FV turun RM10j"
+   },
+   "a": {
+    "en": "Dr FV loss on IP (P/L) 10m / Cr Investment property 10m",
+    "ms": "Dr FV loss on IP (P/L) 10j / Cr Investment property 10j"
+   }
+  },
+  {
+   "id": "c21",
+   "t": "transfer",
+   "q": {
+    "en": "What triggers a transfer to/from IP?",
+    "ms": "Apa yang cetuskan pemindahan ke/dari IP?"
+   },
+   "a": {
+    "en": "A change in use, supported by evidence (para 57).",
+    "ms": "Perubahan penggunaan, disokong bukti (para 57)."
+   }
+  },
+  {
+   "id": "c22",
+   "t": "transfer",
+   "q": {
+    "en": "Evidence: IP → owner-occupied",
+    "ms": "Bukti: IP → diduduki pemilik"
+   },
+   "a": {
+    "en": "Commencement of owner-occupation.",
+    "ms": "Mula diduduki pemilik."
+   }
+  },
+  {
+   "id": "c23",
+   "t": "transfer",
+   "q": {
+    "en": "Evidence: IP → inventories",
+    "ms": "Bukti: IP → inventori"
+   },
+   "a": {
+    "en": "Commencement of development with a view to sale.",
+    "ms": "Mula pembangunan untuk dijual."
+   }
+  },
+  {
+   "id": "c24",
+   "t": "transfer",
+   "q": {
+    "en": "Evidence: inventories → IP",
+    "ms": "Bukti: inventori → IP"
+   },
+   "a": {
+    "en": "Commencement of an operating lease to another party.",
+    "ms": "Mula pajakan operasi kepada pihak lain."
+   }
+  },
+  {
+   "id": "c25",
+   "t": "transfer",
+   "q": {
+    "en": "Evidence: owner-occupied → IP",
+    "ms": "Bukti: diduduki pemilik → IP"
+   },
+   "a": {
+    "en": "End of owner-occupation.",
+    "ms": "Tamat pendudukan pemilik."
+   }
+  },
+  {
+   "id": "c26",
+   "t": "transfer",
+   "q": {
+    "en": "Cost model: effect of a transfer on carrying amount?",
+    "ms": "Model kos: kesan pemindahan pada amaun dibawa?"
+   },
+   "a": {
+    "en": "None — carrying amount and cost stay the same (para 59).",
+    "ms": "Tiada — amaun dibawa dan kos kekal sama (para 59)."
+   }
+  },
+  {
+   "id": "c27",
+   "t": "transfer",
+   "q": {
+    "en": "IP (FV) → PPE/Inventories: what is the new cost?",
+    "ms": "IP (FV) → PPE/Inventori: apa kos baharu?"
+   },
+   "a": {
+    "en": "FV at date of change in use = deemed cost (para 60).",
+    "ms": "FV pada tarikh perubahan guna = kos dianggap (para 60)."
+   }
+  },
+  {
+   "id": "c28",
+   "t": "transfer",
+   "q": {
+    "en": "PPE → IP (FV): treatment of difference",
+    "ms": "PPE → IP (FV): layanan beza"
+   },
+   "a": {
+    "en": "Revaluation surplus/deficit per MFRS 116 (para 61).",
+    "ms": "Lebihan/defisit penilaian semula ikut MFRS 116 (para 61)."
+   }
+  },
+  {
+   "id": "c29",
+   "t": "transfer",
+   "q": {
+    "en": "Inventories → IP (FV): treatment of difference",
+    "ms": "Inventori → IP (FV): layanan beza"
+   },
+   "a": {
+    "en": "Recognised in profit or loss (para 63).",
+    "ms": "Diiktiraf dalam untung atau rugi (para 63)."
+   }
+  },
+  {
+   "id": "c30",
+   "t": "derecog",
+   "q": {
+    "en": "Gain/loss on disposal of IP",
+    "ms": "Untung/rugi atas pelupusan IP"
+   },
+   "a": {
+    "en": "Net disposal proceeds − carrying amount → profit or loss.",
+    "ms": "Hasil pelupusan bersih − amaun dibawa → untung atau rugi."
+   }
+  },
+  {
+   "id": "c31",
+   "t": "discl",
+   "q": {
+    "en": "No independent valuation was done: what to disclose?",
+    "ms": "Tiada penilaian bebas dibuat: apa perlu didedahkan?"
+   },
+   "a": {
+    "en": "The fact that there has been no such valuation.",
+    "ms": "Fakta bahawa tiada penilaian sedemikian dibuat."
+   }
+  },
+  {
+   "id": "c32",
+   "t": "discl",
+   "q": {
+    "en": "List the disclosures (M-V-I-R-C)",
+    "ms": "Senaraikan pendedahan (M-V-I-R-C)"
+   },
+   "a": {
+    "en": "Model · Valuation methods & assumptions · Independent valuer · Restrictions on realisability · Contractual obligations.",
+    "ms": "Model · Kaedah & andaian penilaian · Penilai bebas · Sekatan kebolehrealisasian · Obligasi kontrak."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "def",
+   "q": {
+    "en": "Which of the following is an investment property?",
+    "ms": "Yang manakah hartanah pelaburan?"
+   },
+   "o": [
+    "Land held for long-term capital appreciation",
+    "Office building used by the administration department",
+    "Land held for sale in the ordinary course of business",
+    "Factory used to produce goods"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Only land held for long-term capital appreciation meets the definition. The office and factory are PPE; land for ordinary sale is inventory.",
+    "ms": "Hanya tanah untuk capital appreciation jangka panjang memenuhi definisi. Pejabat & kilang ialah PPE; tanah untuk jualan biasa ialah inventori."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "examples",
+   "q": {
+    "en": "Alpha Bhd holds a piece of land and has not decided how it will be used. How should it be classified?",
+    "ms": "Alpha Bhd pegang sebidang tanah dan belum putuskan kegunaannya. Bagaimana klasifikasinya?"
+   },
+   "o": [
+    "Inventory",
+    "Property, plant and equipment",
+    "Investment property",
+    "Intangible asset"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Land held for a currently undetermined future use is treated as held for capital appreciation → IP.",
+    "ms": "Tanah untuk kegunaan masa depan yang belum ditentukan dianggap dipegang untuk capital appreciation → IP."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "ancillary",
+   "q": {
+    "en": "An entity owns and manages a hotel and provides services to guests. The hotel building is:",
+    "ms": "Sebuah entiti memiliki dan menguruskan hotel serta beri perkhidmatan kepada tetamu. Bangunan hotel ialah:"
+   },
+   "o": [
+    "Investment property, as it earns income",
+    "Owner-occupied property (PPE), as the services are significant",
+    "Inventory",
+    "Investment property under the FV model only"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Services to hotel guests are significant → owner-occupied.",
+    "ms": "Perkhidmatan kepada tetamu hotel adalah signifikan → diduduki pemilik."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "ancillary",
+   "q": {
+    "en": "The owner of an office building leases it to tenants and provides security and maintenance. The building is:",
+    "ms": "Pemilik bangunan pejabat menyewakannya dan sediakan keselamatan & penyelenggaraan. Bangunan itu ialah:"
+   },
+   "o": [
+    "Owner-occupied property",
+    "Investment property, as the services are insignificant",
+    "Inventory",
+    "Not an asset"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Security & maintenance are insignificant ancillary services → IP.",
+    "ms": "Keselamatan & penyelenggaraan ialah perkhidmatan sampingan tidak signifikan → IP."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "ooc",
+   "q": {
+    "en": "A company owns apartments occupied by its employees, who pay market rent. These apartments are:",
+    "ms": "Syarikat miliki apartmen yang diduduki pekerjanya, yang bayar sewa pasaran. Apartmen ini ialah:"
+   },
+   "o": [
+    "Investment property, since rent is at market rate",
+    "Owner-occupied property",
+    "Inventory",
+    "Investment property only under the cost model"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Property occupied by employees is owner-occupied, whether or not they pay market rent.",
+    "ms": "Hartanah diduduki pekerja ialah diduduki pemilik, sama ada mereka bayar sewa pasaran atau tidak."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "dual",
+   "q": {
+    "en": "A building has two portions: one leased out, one used by the owner. The portions CAN be sold separately. The owner should:",
+    "ms": "Bangunan ada dua bahagian: satu disewa, satu guna pemilik. Bahagian BOLEH dijual berasingan. Pemilik patut:"
+   },
+   "o": [
+    "Treat the whole building as PPE",
+    "Treat the whole building as IP",
+    "Account for the portions separately as IP and PPE",
+    "Treat the whole building as inventory"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Para 10: if portions can be sold separately, account for them separately.",
+    "ms": "Para 10: jika bahagian boleh dijual berasingan, akaun secara berasingan."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "dual",
+   "q": {
+    "en": "The portions of a dual-purpose property CANNOT be sold separately. It is investment property only if:",
+    "ms": "Bahagian hartanah dwi-tujuan TIDAK BOLEH dijual berasingan. Ia IP hanya jika:"
+   },
+   "o": [
+    "More than half is leased out",
+    "An insignificant portion is held for own use",
+    "The entity uses the FV model",
+    "The owner provides no services at all"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Para 10(b).",
+    "ms": "Para 10(b)."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "recog",
+   "q": {
+    "en": "Investment property is recognised as an asset if and only if:",
+    "ms": "Hartanah pelaburan diiktiraf sebagai aset jika dan hanya jika:"
+   },
+   "o": [
+    "It is probable future economic benefits will flow and cost can be measured reliably",
+    "It is leased out to a third party",
+    "Its fair value is higher than cost",
+    "It has been valued by an independent valuer"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Both recognition criteria in para 16 must be met.",
+    "ms": "Kedua-dua kriteria pengiktirafan dalam para 16 mesti dipenuhi."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "meas",
+   "q": {
+    "en": "On initial recognition, investment property is measured at:",
+    "ms": "Semasa pengiktirafan awal, hartanah pelaburan diukur pada:"
+   },
+   "o": [
+    "Fair value",
+    "Cost excluding transaction costs",
+    "Cost including transaction costs",
+    "Net realisable value"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Para 20: cost; transaction costs are included.",
+    "ms": "Para 20: kos; kos transaksi dimasukkan."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "meas",
+   "q": {
+    "en": "After initial recognition, an entity applying MFRS 140:",
+    "ms": "Selepas pengiktirafan awal, entiti yang guna MFRS 140:"
+   },
+   "o": [
+    "Must use the FV model",
+    "Must use the cost model",
+    "Chooses cost or FV model and applies it consistently",
+    "May switch between models each year"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Para 30: policy choice, applied consistently.",
+    "ms": "Para 30: pilihan dasar, guna secara konsisten."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "cost",
+   "q": {
+    "en": "Under the cost model, investment property is:",
+    "ms": "Di bawah model kos, hartanah pelaburan:"
+   },
+   "o": [
+    "Not depreciated and not tested for impairment",
+    "Depreciated and tested for impairment per MFRS 116",
+    "Remeasured to FV each year",
+    "Carried at net realisable value"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Cost model follows MFRS 116.",
+    "ms": "Model kos ikut MFRS 116."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "cost",
+   "q": {
+    "en": "On 1 Jan 20x1 MM Bhd buys a factory for investment at RM100m, useful life 50 years, nil residual value. Depreciation for 20x1 under the cost model is:",
+    "ms": "Pada 1 Jan 20x1 MM Bhd beli kilang untuk pelaburan RM100j, hayat 50 tahun, tiada nilai sisa. Susut nilai 20x1 model kos ialah:"
+   },
+   "o": [
+    "RM0",
+    "RM1,000,000",
+    "RM2,000,000",
+    "RM5,000,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "100m ÷ 50 = 2m.",
+    "ms": "100j ÷ 50 = 2j."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "fv",
+   "q": {
+    "en": "Cost RM100m on 1 Jan 20x1. FV at 31 Dec 20x1 is RM105m. Under the FV model, 20x1 profit or loss shows:",
+    "ms": "Kos RM100j pada 1 Jan 20x1. FV pada 31 Dis 20x1 ialah RM105j. Di bawah model FV, P/L 20x1 menunjukkan:"
+   },
+   "o": [
+    "Gain of RM5m",
+    "Loss of RM5m",
+    "Depreciation of RM2m",
+    "No effect"
+   ],
+   "a": 0,
+   "e": {
+    "en": "105 − 100 = 5m gain in P/L.",
+    "ms": "105 − 100 = untung 5j dalam P/L."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "fv",
+   "q": {
+    "en": "Continuing: FV at 31 Dec 20x1 RM105m, at 31 Dec 20x2 RM95m. The 20x2 FV loss is:",
+    "ms": "Sambung: FV 31 Dis 20x1 RM105j, 31 Dis 20x2 RM95j. Rugi FV 20x2 ialah:"
+   },
+   "o": [
+    "RM5m",
+    "RM10m",
+    "RM15m",
+    "RM2m"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Compare to the previous carrying amount: 105 − 95 = 10m (not 100 − 95).",
+    "ms": "Bandingkan dengan amaun dibawa sebelum: 105 − 95 = 10j (bukan 100 − 95)."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "fv",
+   "q": {
+    "en": "Same facts: the carrying amount under the FV model at 31 Dec 20x2 is:",
+    "ms": "Fakta sama: amaun dibawa model FV pada 31 Dis 20x2 ialah:"
+   },
+   "o": [
+    "RM100m",
+    "RM96m",
+    "RM95m",
+    "RM105m"
+   ],
+   "a": 2,
+   "e": {
+    "en": "FV model carries IP at fair value: RM95m. (Cost model would be 100 − 2 − 2 = 96m.)",
+    "ms": "Model FV bawa IP pada nilai saksama: RM95j. (Model kos ialah 100 − 2 − 2 = 96j.)"
+   }
+  },
+  {
+   "id": "q16",
+   "t": "fv",
+   "q": {
+    "en": "Under the FV model, a gain arising from a change in fair value is recognised:",
+    "ms": "Di bawah model FV, untung daripada perubahan nilai saksama diiktiraf:"
+   },
+   "o": [
+    "In other comprehensive income",
+    "Directly in equity",
+    "In profit or loss",
+    "Deferred until disposal"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Para 35: profit or loss in the period it arises.",
+    "ms": "Para 35: untung atau rugi pada tempoh ia berlaku."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "fv",
+   "q": {
+    "en": "Under the FV model, a question states the building has a useful life of 40 years. You should:",
+    "ms": "Di bawah model FV, soalan nyatakan bangunan ada hayat 40 tahun. Anda patut:"
+   },
+   "o": [
+    "Depreciate over 40 years then revalue",
+    "Ignore the useful life: no depreciation under the FV model",
+    "Depreciate only in the first year",
+    "Impair the building"
+   ],
+   "a": 1,
+   "e": {
+    "en": "No depreciation under the FV model.",
+    "ms": "Tiada susut nilai dalam model FV."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "transfer",
+   "q": {
+    "en": "A transfer from investment property to owner-occupied property is supported by:",
+    "ms": "Pemindahan dari hartanah pelaburan ke hartanah diduduki pemilik disokong oleh:"
+   },
+   "o": [
+    "Commencement of owner-occupation",
+    "Commencement of development with a view to sale",
+    "End of owner-occupation",
+    "Commencement of an operating lease"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Para 57(a).",
+    "ms": "Para 57(a)."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "transfer",
+   "q": {
+    "en": "A property-developer's unsold building is leased to a tenant under an operating lease. The building is transferred from inventories to IP when:",
+    "ms": "Bangunan belum terjual milik pemaju disewakan kepada penyewa (pajakan operasi). Ia dipindah dari inventori ke IP apabila:"
+   },
+   "o": [
+    "The lease commences",
+    "The building is completed",
+    "The FV model is adopted",
+    "The tenant pays the deposit"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Para 57(d): commencement of an operating lease to another party.",
+    "ms": "Para 57(d): permulaan pajakan operasi kepada pihak lain."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "transfer",
+   "q": {
+    "en": "IP carried under the FV model is transferred to owner-occupied property. The cost for subsequent MFRS 116 accounting is:",
+    "ms": "IP model FV dipindah ke hartanah diduduki pemilik. Kos untuk perakaunan MFRS 116 seterusnya ialah:"
+   },
+   "o": [
+    "Original cost",
+    "Fair value at the date of change in use",
+    "Carrying amount before the last valuation",
+    "Net realisable value"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Para 60: deemed cost = FV at date of change in use.",
+    "ms": "Para 60: kos dianggap = FV pada tarikh perubahan guna."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "transfer",
+   "q": {
+    "en": "PPE with carrying amount RM50m becomes IP (FV model); FV is RM58m. The RM8m difference is:",
+    "ms": "PPE amaun dibawa RM50j jadi IP (model FV); FV RM58j. Beza RM8j ialah:"
+   },
+   "o": [
+    "Gain in profit or loss",
+    "Revaluation surplus under MFRS 116",
+    "Reduction of cost",
+    "Ignored"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Para 61: treated as revaluation (surplus in OCI/equity).",
+    "ms": "Para 61: layan sebagai penilaian semula (lebihan dalam OCI/ekuiti)."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "transfer",
+   "q": {
+    "en": "Inventories (carrying amount RM30m) become IP (FV model); FV is RM35m. The RM5m difference is recognised in:",
+    "ms": "Inventori (amaun dibawa RM30j) jadi IP (model FV); FV RM35j. Beza RM5j diiktiraf dalam:"
+   },
+   "o": [
+    "Revaluation surplus",
+    "Profit or loss",
+    "Retained earnings directly",
+    "Other comprehensive income"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Para 63: profit or loss.",
+    "ms": "Para 63: untung atau rugi."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "transfer",
+   "q": {
+    "en": "Under the cost model, a transfer between IP and PPE:",
+    "ms": "Di bawah model kos, pemindahan antara IP dan PPE:"
+   },
+   "o": [
+    "Is remeasured to FV",
+    "Changes carrying amount to FV",
+    "Does not change carrying amount or cost",
+    "Is recognised in P/L"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Para 59.",
+    "ms": "Para 59."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "transfer",
+   "q": {
+    "en": "IP is transferred to inventories when:",
+    "ms": "IP dipindahkan ke inventori apabila:"
+   },
+   "o": [
+    "Owner-occupation commences",
+    "Development with a view to sale commences",
+    "An operating lease commences",
+    "It becomes vacant"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Para 57(b).",
+    "ms": "Para 57(b)."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "derecog",
+   "q": {
+    "en": "IP (carrying amount RM95m) is sold for net proceeds of RM100m. The entity recognises:",
+    "ms": "IP (amaun dibawa RM95j) dijual dengan hasil bersih RM100j. Entiti mengiktiraf:"
+   },
+   "o": [
+    "Gain RM5m in profit or loss",
+    "Gain RM5m in OCI",
+    "Loss RM5m in profit or loss",
+    "No gain or loss"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Net proceeds − carrying amount = 5m gain in P/L.",
+    "ms": "Hasil bersih − amaun dibawa = untung 5j dalam P/L."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "discl",
+   "q": {
+    "en": "Which is NOT a required disclosure for investment property?",
+    "ms": "Yang manakah BUKAN pendedahan wajib untuk hartanah pelaburan?"
+   },
+   "o": [
+    "Whether the FV or cost model is applied",
+    "Methods and significant assumptions used in determining FV",
+    "The tenants' personal financial details",
+    "Contractual obligations to purchase, construct or develop IP"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Tenant details are not required by MFRS 140.",
+    "ms": "Butiran peribadi penyewa tidak diperlukan oleh MFRS 140."
+   }
+  },
+  {
+   "id": "q27",
+   "t": "discl",
+   "q": {
+    "en": "FV was NOT determined by an independent valuer. The entity must:",
+    "ms": "FV TIDAK ditentukan oleh penilai bebas. Entiti mesti:"
+   },
+   "o": [
+    "Switch to the cost model",
+    "Disclose that fact",
+    "Obtain a valuation within 30 days",
+    "Do nothing"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Para 75(e): disclose the fact that no such valuation was made.",
+    "ms": "Para 75(e): dedahkan fakta bahawa tiada penilaian dibuat."
+   }
+  },
+  {
+   "id": "q28",
+   "t": "meas",
+   "q": {
+    "en": "Which statement about the cost model for IP is correct?",
+    "ms": "Yang manakah pernyataan betul tentang model kos untuk IP?"
+   },
+   "o": [
+    "Fair value gains are recognised in profit or loss",
+    "The asset is depreciated",
+    "It is carried at fair value",
+    "No impairment test is needed"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Cost model → depreciation + impairment, no FV gains.",
+    "ms": "Model kos → susut nilai + rosot nilai, tiada untung FV."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "def",
+   "marks": 5,
+   "q": {
+    "en": "Define investment property and explain how it differs from owner-occupied property.",
+    "ms": "Takrifkan hartanah pelaburan dan terangkan bezanya dengan hartanah diduduki pemilik."
+   },
+   "pts": {
+    "en": [
+     "IP = property held to earn rentals / capital appreciation / both (1)",
+     "Not for use in production/supply of goods/services/admin (1)",
+     "Not for sale in ordinary course of business (1)",
+     "OOP = held for production/supply/admin use; includes employee-occupied (1)",
+     "IP → MFRS 140; OOP → MFRS 116 (1)"
+    ],
+    "ms": [
+     "IP = hartanah dipegang untuk sewa / peningkatan modal / kedua-duanya (1)",
+     "Bukan untuk pengeluaran/bekalan barang/perkhidmatan/pentadbiran (1)",
+     "Bukan untuk dijual dalam perniagaan biasa (1)",
+     "OOP = untuk pengeluaran/bekalan/pentadbiran; termasuk diduduki pekerja (1)",
+     "IP → MFRS 140; OOP → MFRS 116 (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "dual",
+   "marks": 4,
+   "q": {
+    "en": "A building is partly leased to tenants and partly used by the owner as its head office. Explain how the building should be classified.",
+    "ms": "Sebuah bangunan sebahagian disewa dan sebahagian lagi digunakan pemilik sebagai ibu pejabat. Terangkan bagaimana ia diklasifikasi."
+   },
+   "pts": {
+    "en": [
+     "If portions can be sold (or finance-leased) separately → account separately as IP and PPE (2)",
+     "If cannot be sold separately → IP only if insignificant portion is for own use (1)",
+     "Judgement needed; disclose criteria (1)"
+    ],
+    "ms": [
+     "Jika bahagian boleh dijual (atau pajak kewangan) berasingan → akaun berasingan sebagai IP dan PPE (2)",
+     "Jika tidak boleh → IP hanya jika bahagian guna sendiri tidak signifikan (1)",
+     "Perlu pertimbangan; dedah kriteria (1)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "meas",
+   "marks": 6,
+   "q": {
+    "en": "Compare the cost model and the fair value model for investment property.",
+    "ms": "Bandingkan model kos dan model nilai saksama untuk hartanah pelaburan."
+   },
+   "pts": {
+    "en": [
+     "Both are policy choices (para 30), applied consistently (1)",
+     "Cost model: MFRS 116; carried at cost less acc. depreciation and impairment (2)",
+     "FV model: carried at FV at reporting date (1)",
+     "FV model: no depreciation, no impairment test (1)",
+     "FV gains/losses go to profit or loss (1)"
+    ],
+    "ms": [
+     "Kedua-duanya pilihan dasar (para 30), guna konsisten (1)",
+     "Model kos: MFRS 116; kos tolak susut nilai & rosot nilai terkumpul (2)",
+     "Model FV: dibawa pada FV tarikh pelaporan (1)",
+     "Model FV: tiada susut nilai, tiada ujian rosot nilai (1)",
+     "Untung/rugi FV ke untung atau rugi (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "fv",
+   "marks": 8,
+   "q": {
+    "en": "On 1 Jan 20x1, Delta Bhd bought a building for investment for RM80m (useful life 40 years, nil residual value). FV: 31 Dec 20x1 RM84m; 31 Dec 20x2 RM78m. Show the journal entries and the carrying amounts at 31 Dec 20x1 and 20x2 under (a) the cost model and (b) the FV model.",
+    "ms": "Pada 1 Jan 20x1, Delta Bhd beli bangunan untuk pelaburan RM80j (hayat 40 tahun, tiada nilai sisa). FV: 31 Dis 20x1 RM84j; 31 Dis 20x2 RM78j. Tunjukkan jurnal & amaun dibawa pada 31 Dis 20x1 dan 20x2 di bawah (a) model kos dan (b) model FV."
+   },
+   "pts": {
+    "en": [
+     "Initial: Dr IP 80m, Cr Bank 80m (1)",
+     "(a) Dep = 80m ÷ 40 = 2m a year: Dr Depreciation 2m, Cr Acc. dep 2m (each year) (2)",
+     "(a) Carrying amount: 20x1 = 78m; 20x2 = 76m (1)",
+     "(b) 20x1: Dr IP 4m, Cr FV gain 4m (84 − 80) (2)",
+     "(b) 20x2: Dr FV loss 6m, Cr IP 6m (78 − 84) (1)",
+     "(b) Carrying amount: 20x1 = 84m; 20x2 = 78m (1)"
+    ],
+    "ms": [
+     "Awal: Dr IP 80j, Cr Bank 80j (1)",
+     "(a) Susut nilai = 80j ÷ 40 = 2j setahun: Dr Susut nilai 2j, Cr Susut nilai terkumpul 2j (tiap tahun) (2)",
+     "(a) Amaun dibawa: 20x1 = 78j; 20x2 = 76j (1)",
+     "(b) 20x1: Dr IP 4j, Cr Untung FV 4j (84 − 80) (2)",
+     "(b) 20x2: Dr Rugi FV 6j, Cr IP 6j (78 − 84) (1)",
+     "(b) Amaun dibawa: 20x1 = 84j; 20x2 = 78j (1)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "transfer",
+   "marks": 8,
+   "q": {
+    "en": "Under the FV model, explain the accounting for these transfers: (a) PPE (carrying amount RM50m, FV RM58m) to IP; (b) Inventories (carrying amount RM30m, FV RM35m) to IP; (c) IP (FV RM120m) to owner-occupation. State the evidence of change in use for each.",
+    "ms": "Di bawah model FV, terangkan perakaunan pemindahan ini: (a) PPE (RM50j, FV RM58j) ke IP; (b) Inventori (RM30j, FV RM35j) ke IP; (c) IP (FV RM120j) ke pendudukan pemilik. Nyatakan bukti perubahan guna bagi setiap satu."
+   },
+   "pts": {
+    "en": [
+     "(a) Evidence: end of owner-occupation (1)",
+     "(a) Dr IP 58m; Cr PPE 50m; Cr Revaluation surplus 8m (MFRS 116) (2)",
+     "(b) Evidence: commencement of operating lease to another party (1)",
+     "(b) Dr IP 35m; Cr Inventories 30m; Cr Gain in P/L 5m (2)",
+     "(c) Evidence: commencement of owner-occupation (1)",
+     "(c) FV RM120m becomes deemed cost under MFRS 116 (1)"
+    ],
+    "ms": [
+     "(a) Bukti: tamat pendudukan pemilik (1)",
+     "(a) Dr IP 58j; Cr PPE 50j; Cr Lebihan penilaian semula 8j (MFRS 116) (2)",
+     "(b) Bukti: mula pajakan operasi kepada pihak lain (1)",
+     "(b) Dr IP 35j; Cr Inventori 30j; Cr Untung dalam P/L 5j (2)",
+     "(c) Bukti: mula pendudukan pemilik (1)",
+     "(c) FV RM120j jadi kos dianggap di bawah MFRS 116 (1)"
+    ]
+   }
+  },
+  {
+   "id": "e6",
+   "t": "discl",
+   "marks": 5,
+   "q": {
+    "en": "List five disclosures required for investment property.",
+    "ms": "Senaraikan lima pendedahan yang diperlukan untuk hartanah pelaburan."
+   },
+   "pts": {
+    "en": [
+     "Whether FV or cost model is applied (1)",
+     "Methods and significant assumptions in determining FV, incl. market evidence (1)",
+     "Extent FV based on independent, qualified, experienced valuer; if none, disclose fact (1)",
+     "Restrictions on realisability / remittance of income and disposal proceeds (1)",
+     "Contractual obligations to purchase/construct/develop or for repairs/maintenance/enhancements (1)"
+    ],
+    "ms": [
+     "Sama ada model FV atau kos digunakan (1)",
+     "Kaedah & andaian penting tentukan FV, termasuk bukti pasaran (1)",
+     "Setakat mana FV berdasarkan penilai bebas, berkelayakan, berpengalaman; jika tiada, dedah fakta (1)",
+     "Sekatan kebolehrealisasian / pengiriman pendapatan & hasil pelupusan (1)",
+     "Obligasi kontrak untuk beli/bina/bangun atau pembaikan/penyelenggaraan/penambahbaikan (1)"
+    ]
+   }
+  }
+ ],
+ "flows": [
+  {
+   "id": "ip",
+   "icon": "🧭",
+   "title": {
+    "en": "Is it investment property?",
+    "ms": "Adakah ia hartanah pelaburan?"
+   },
+   "sub": {
+    "en": "Classification flowchart",
+    "ms": "Carta klasifikasi"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is the property (land/building or part) held to earn rentals, for capital appreciation, or both?",
+      "ms": "Adakah hartanah (tanah/bangunan atau sebahagian) dipegang untuk sewa, peningkatan nilai modal, atau kedua-duanya?"
+     },
+     "y": "n2",
+     "n": "rNot"
+    },
+    "n2": {
+     "q": {
+      "en": "Is it held for sale in the ordinary course of business (or being built for sale)?",
+      "ms": "Adakah ia dipegang untuk dijual dalam perniagaan biasa (atau sedang dibina untuk dijual)?"
+     },
+     "y": "rInv",
+     "n": "n3"
+    },
+    "n3": {
+     "q": {
+      "en": "Is any portion used by the owner (production, supply, administration, or employees)?",
+      "ms": "Adakah mana-mana bahagian digunakan pemilik (pengeluaran, bekalan, pentadbiran, atau pekerja)?"
+     },
+     "y": "n4",
+     "n": "n5"
+    },
+    "n4": {
+     "q": {
+      "en": "Can the portions be sold (or finance-leased) separately?",
+      "ms": "Bolehkah bahagian-bahagian dijual (atau pajak kewangan) secara berasingan?"
+     },
+     "y": "rSplit",
+     "n": "n4b"
+    },
+    "n4b": {
+     "q": {
+      "en": "Is the owner-used portion INSIGNIFICANT?",
+      "ms": "Adakah bahagian yang digunakan pemilik TIDAK SIGNIFIKAN?"
+     },
+     "y": "n5",
+     "n": "rOOP"
+    },
+    "n5": {
+     "q": {
+      "en": "Does the owner provide ancillary services to occupants?",
+      "ms": "Adakah pemilik sediakan perkhidmatan sampingan kepada penghuni?"
+     },
+     "y": "n6",
+     "n": "rIP"
+    },
+    "n6": {
+     "q": {
+      "en": "Are those services SIGNIFICANT to the arrangement as a whole (e.g. a hotel)?",
+      "ms": "Adakah perkhidmatan itu SIGNIFIKAN kepada keseluruhan pengaturan (cth hotel)?"
+     },
+     "y": "rOOP",
+     "n": "rIP"
+    }
+   },
+   "results": {
+    "rIP": {
+     "c": "good",
+     "t": {
+      "en": "Investment Property (MFRS 140)",
+      "ms": "Hartanah Pelaburan (MFRS 140)"
+     },
+     "d": {
+      "en": "Choose cost or FV model.",
+      "ms": "Pilih model kos atau FV."
+     }
+    },
+    "rOOP": {
+     "c": "warn",
+     "t": {
+      "en": "Owner-occupied Property → PPE (MFRS 116)",
+      "ms": "Hartanah Diduduki Pemilik → PPE (MFRS 116)"
+     },
+     "d": {
+      "en": "Cost or revaluation model.",
+      "ms": "Model kos atau penilaian semula."
+     }
+    },
+    "rInv": {
+     "c": "warn",
+     "t": {
+      "en": "Inventories (MFRS 102)",
+      "ms": "Inventori (MFRS 102)"
+     },
+     "d": {
+      "en": "Lower of cost and NRV.",
+      "ms": "Yang lebih rendah antara kos dan NRV."
+     }
+    },
+    "rSplit": {
+     "c": "info",
+     "t": {
+      "en": "Split: IP portion + PPE portion",
+      "ms": "Pecah: bahagian IP + bahagian PPE"
+     },
+     "d": {
+      "en": "Account for each portion separately (para 10).",
+      "ms": "Akaun setiap bahagian secara berasingan (para 10)."
+     }
+    },
+    "rNot": {
+     "c": "warn",
+     "t": {
+      "en": "Not investment property",
+      "ms": "Bukan hartanah pelaburan"
+     },
+     "d": {
+      "en": "Probably PPE (own use) or inventories (for sale).",
+      "ms": "Mungkin PPE (guna sendiri) atau inventori (untuk dijual)."
+     }
+    }
+   }
+  }
+ ],
+ "tools": [
+  "calc",
+  "flow:ip",
+  "transfer",
+  "gloss"
+ ]
+}
