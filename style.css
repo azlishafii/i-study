@@ -115,3 +115,5 @@ h3 span.ms{text-transform:none;letter-spacing:0;border-left:0;padding-left:0}
 label.file{display:inline-block;cursor:pointer}label.file input{position:absolute;opacity:0;width:0;height:0}
 .errs{white-space:pre-wrap;word-break:break-word;font:12px/1.5 ui-monospace,Menlo,Consolas,monospace;max-height:260px;overflow:auto;margin:8px 0}
 .item .btn+.btn{margin-left:4px}
+.plan-row{display:flex;flex-wrap:wrap;align-items:center;gap:4px 10px;padding:9px 0;border-bottom:1px solid var(--line);font-size:.9rem}.plan-row:last-child{border-bottom:0}.plan-row .wk{color:var(--pri)}.plan-row .grow{order:3;flex-basis:100%}.plan-row .grow span{display:block}.plan-row>:last-child:not(.grow){margin-left:auto;order:2}.plan-row.brk{opacity:.55}
+.row>span>span{display:block}.row>span>span.ms{border-left:0;padding-left:0}

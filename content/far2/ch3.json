@@ -1,0 +1,2019 @@
+{
+ "subject": {
+  "id": "far2",
+  "code": "FAR2",
+  "name": {
+   "en": "Financial Reporting 2",
+   "ms": "Pelaporan Kewangan 2"
+  }
+ },
+ "id": "ch3",
+ "num": 3,
+ "title": {
+  "en": "Intangible Assets",
+  "ms": "Aset Tak Ketara"
+ },
+ "standard": "MFRS 138",
+ "outcomes": {
+  "en": [
+   "Describe the different basis of initial recognition for intangible assets",
+   "Explain and apply the differences in initial measurement of intangible assets",
+   "Explain and apply the differences in subsequent measurement of intangible assets",
+   "Identify the circumstances for derecognition of intangible assets and compute gains and losses",
+   "Discuss the disclosure requirements of intangible assets",
+   "Analyze, critically evaluate and interpret issues in accounting for intangible assets"
+  ],
+  "ms": [
+   "Huraikan asas berbeza pengiktirafan awal aset tak ketara",
+   "Terangkan dan aplikasikan perbezaan pengukuran awal aset tak ketara",
+   "Terangkan dan aplikasikan perbezaan pengukuran selepas pengiktirafan aset tak ketara",
+   "Kenal pasti keadaan nyahpengiktirafan aset tak ketara dan kira untung dan rugi",
+   "Bincangkan keperluan pendedahan aset tak ketara",
+   "Analisis, nilai secara kritikal dan tafsir isu perakaunan aset tak ketara"
+  ]
+ },
+ "sections": [
+  {
+   "id": "def",
+   "icon": "🧠",
+   "title": {
+    "en": "Definition & Recognition",
+    "ms": "Definisi & Pengiktirafan"
+   },
+   "ref": "MFRS 138 para 8–21",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "An item is recognised as an **intangible asset** if it meets **(1) the definition** of an intangible asset and **(2) the recognition criteria**.",
+     "ms": "Sesuatu item diiktiraf sebagai **aset tak ketara** jika memenuhi **(1) definisi** aset tak ketara dan **(2) kriteria pengiktirafan**."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "It is **probable** that expected future economic benefits attributable to the asset will flow to the entity; AND",
+      "The **cost** of the asset can be **measured reliably**."
+     ],
+     "ms": [
+      "Adalah **berkemungkinan besar** manfaat ekonomi masa depan yang boleh dikaitkan dengan aset akan mengalir kepada entiti; DAN",
+      "**Kos** aset boleh **diukur dengan pasti**."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra (para 8–12): an intangible asset is an identifiable non-monetary asset without physical substance. \"Identifiable\" = separable OR arises from contractual/legal rights; the entity must also control it.",
+     "ms": "Tambahan (para 8–12): aset tak ketara ialah aset bukan kewangan yang boleh dikenal pasti tanpa bentuk fizikal. \"Boleh dikenal pasti\" = boleh diasingkan ATAU timbul daripada hak kontrak/undang-undang; entiti juga mesti mengawalnya."
+    },
+    {
+     "k": "h",
+     "en": "Examples",
+     "ms": "Contoh"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Intangible",
+       "What it gives",
+       "Contoh"
+      ],
+      "ms": [
+       "Aset tak ketara",
+       "Apa yang diberi",
+       "Contoh"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Patents and copyrights",
+        "Product/process development governed by law, with legal lives",
+        "Patent for a new filter"
+       ],
+       "ms": [
+        "Paten dan hak cipta",
+        "Pembangunan produk/proses yang dikawal undang-undang, ada hayat sah",
+        "Paten untuk penapis baharu"
+       ]
+      },
+      {
+       "en": [
+        "Franchises and concessions",
+        "Legal right to operate in an industry or sell certain products/services",
+        "Toll or timber concession"
+       ],
+       "ms": [
+        "Francais dan konsesi",
+        "Hak sah untuk beroperasi dalam industri atau menjual produk/perkhidmatan tertentu",
+        "Konsesi tol atau balak"
+       ]
+      },
+      {
+       "en": [
+        "Trademarks",
+        "Exclusive right to display a word, slogan, symbol or emblem",
+        "Brand logo"
+       ],
+       "ms": [
+        "Tanda dagangan",
+        "Hak eksklusif memaparkan perkataan, slogan, simbol atau lambang",
+        "Logo jenama"
+       ]
+      }
+     ]
+    }
+   ],
+   "big": {
+    "en": "Intangible asset = identifiable, no physical substance, controlled, future benefits probable, cost reliable.",
+    "ms": "Aset tak ketara = boleh dikenal pasti, tanpa fizikal, dikawal, manfaat masa depan berkemungkinan, kos boleh diukur."
+   }
+  },
+  {
+   "id": "nonrec",
+   "icon": "🚫",
+   "title": {
+    "en": "Expenditures Not Recognised",
+    "ms": "Perbelanjaan Tidak Diiktiraf"
+   },
+   "ref": "Slide 6 (Table 3.1)",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Expenditure",
+       "Why not recognised"
+      ],
+      "ms": [
+       "Perbelanjaan",
+       "Sebab tidak diiktiraf"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Advertising costs",
+        "Operating expense: difficult to objectively determine the existence or life of any future benefit"
+       ],
+       "ms": [
+        "Kos pengiklanan",
+        "Belanja operasi: sukar menentukan secara objektif kewujudan atau hayat manfaat masa depan"
+       ]
+      },
+      {
+       "en": [
+        "Training costs",
+        "Employees probably benefit, but benefits extending beyond the current period are highly uncertain"
+       ],
+       "ms": [
+        "Kos latihan",
+        "Pekerja mungkin mendapat manfaat, tetapi manfaat melangkaui tempoh semasa amat tidak pasti"
+       ]
+      },
+      {
+       "en": [
+        "Internally developed brand",
+        "Cannot separate brand development from developing the business as a whole: fails the identifiability criterion"
+       ],
+       "ms": [
+        "Jenama dibangunkan sendiri",
+        "Tidak boleh diasingkan daripada pembangunan perniagaan keseluruhan: gagal kriteria boleh dikenal pasti"
+       ]
+      },
+      {
+       "en": [
+        "Internally developed customer list",
+        "No legal rights over customers and cannot control their actions: inability to control is the factor"
+       ],
+       "ms": [
+        "Senarai pelanggan dibangunkan sendiri",
+        "Tiada hak sah ke atas pelanggan dan tidak boleh mengawal tindakan mereka: ketidakupayaan mengawal ialah faktornya"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Pattern: if you cannot SEPARATE it or CONTROL it, it is not an intangible asset. Expense it.",
+     "ms": "Corak: jika tidak boleh DIASINGKAN atau DIKAWAL, ia bukan aset tak ketara. Belanjakan."
+    }
+   ]
+  },
+  {
+   "id": "initial",
+   "icon": "🧾",
+   "title": {
+    "en": "Initial Recognition & Measurement: Overview",
+    "ms": "Pengiktirafan & Pengukuran Awal: Gambaran"
+   },
+   "ref": "MFRS 138 para 24–67",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "How acquired",
+       "Initial measurement"
+      ],
+      "ms": [
+       "Cara diperoleh",
+       "Pengukuran awal"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Separately purchased (extra)",
+        "Cost (purchase price + directly attributable costs)"
+       ],
+       "ms": [
+        "Dibeli secara berasingan (tambahan)",
+        "Kos (harga belian + kos yang boleh dikaitkan terus)"
+       ]
+      },
+      {
+       "en": [
+        "Part of a business combination",
+        "Fair value at the acquisition date"
+       ],
+       "ms": [
+        "Sebahagian penggabungan perniagaan",
+        "Nilai saksama pada tarikh perolehan"
+       ]
+      },
+      {
+       "en": [
+        "Government grant",
+        "MFRS 120: fair value OR cost (nominal)"
+       ],
+       "ms": [
+        "Geran kerajaan",
+        "MFRS 120: nilai saksama ATAU kos"
+       ]
+      },
+      {
+       "en": [
+        "Internally generated",
+        "Mostly not recognised; development cost may be capitalised"
+       ],
+       "ms": [
+        "Dijana secara dalaman",
+        "Kebanyakannya tidak diiktiraf; kos pembangunan boleh dikapitalkan"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bc",
+   "icon": "🤝",
+   "title": {
+    "en": "Acquired in a Business Combination",
+    "ms": "Diperoleh dalam Penggabungan Perniagaan"
+   },
+   "ref": "MFRS 138 para 33–43 · Example 3.2",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "At the acquisition date the acquirer recognises **all identifiable assets** of the acquiree **separately from goodwill**.",
+      "An asset is **identifiable** if it is **separable** OR arises from **contractual or other legal rights**.",
+      "Recognise identifiable intangibles that the acquiree **had already recognised** AND those it **had not recognised**.",
+      "Intangibles not recognised by the acquiree may **become identifiable** by the acquirer at the date of acquisition.",
+      "**Measure at fair value at the acquisition date.**"
+     ],
+     "ms": [
+      "Pada tarikh perolehan pemerolehan (acquirer) mengiktiraf **semua aset boleh dikenal pasti** milik pihak diperoleh **berasingan daripada muhibah (goodwill)**.",
+      "Aset **boleh dikenal pasti** jika **boleh diasingkan** ATAU timbul daripada **hak kontrak atau undang-undang lain**.",
+      "Iktiraf aset tak ketara boleh dikenal pasti yang **sudah diiktiraf** pihak diperoleh DAN yang **belum diiktiraf**.",
+      "Aset tak ketara yang belum diiktiraf pihak diperoleh mungkin **menjadi boleh dikenal pasti** oleh acquirer pada tarikh perolehan.",
+      "**Ukur pada nilai saksama pada tarikh perolehan.**"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Lecturer's notes on slides 8–9: \"internally generated\" intangibles of the acquiree (e.g. a brand) can be recognised by the acquirer in the combination; acquired brand is recognised at fair value.",
+     "ms": "Nota pensyarah pada slide 8–9: aset tak ketara \"dijana secara dalaman\" milik pihak diperoleh (cth jenama) boleh diiktiraf oleh acquirer dalam penggabungan; jenama yang diperoleh diiktiraf pada nilai saksama."
+    }
+   ]
+  },
+  {
+   "id": "grant",
+   "icon": "🏛️",
+   "title": {
+    "en": "Acquired by Government Grant",
+    "ms": "Diperoleh melalui Geran Kerajaan"
+   },
+   "ref": "MFRS 120 · Example 3.3",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Examples: a **timber concession** (legal right to log establishes an identifiable intangible) and a **toll concession** (right to collect toll while building and maintaining the highway).",
+      "**MFRS 120** applies: measure initially at **fair value** OR at **cost**.",
+      "At fair value: use a quoted price in an active market or other relevant determination of fair value.",
+      "At cost: recognise all costs of preparing the asset for its intended use."
+     ],
+     "ms": [
+      "Contoh: **konsesi balak** (hak sah menebang mewujudkan aset tak ketara boleh dikenal pasti) dan **konsesi tol** (hak kutip tol sambil membina dan menyelenggara lebuh raya).",
+      "**MFRS 120** terpakai: ukur awal pada **nilai saksama** ATAU **kos**.",
+      "Pada nilai saksama: guna harga sebut harga dalam pasaran aktif atau penentuan nilai saksama lain yang relevan.",
+      "Pada kos: iktiraf semua kos menyediakan aset untuk kegunaan yang dimaksudkan."
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Example 3.3: Rapid Row Bhd won a tender; on 1 January 2019 the government granted a 15-year licence to operate a tramway. Legal and other fees were RM110,000; there were no other costs. The fair value of a similar licence on 1 Jan 2019 is RM1 million.",
+     "ms": "Contoh 3.3: Rapid Row Bhd menang tender; pada 1 Januari 2019 kerajaan beri lesen 15 tahun untuk mengendalikan trem. Yuran guaman dan lain-lain RM110,000; tiada kos lain. Nilai saksama lesen serupa pada 1 Jan 2019 ialah RM1 juta."
+    },
+    {
+     "k": "je",
+     "title": "Option 1: at cost (1 Jan 2019)",
+     "lines": [
+      [
+       "Dr",
+       "Licence",
+       "110,000"
+      ],
+      [
+       "Cr",
+       "Cash",
+       "110,000"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "Option 2: at fair value (1 Jan 2019)",
+     "lines": [
+      [
+       "Dr",
+       "Licence",
+       "1,000,000"
+      ],
+      [
+       "Cr",
+       "Cash",
+       "110,000"
+      ],
+      [
+       "Cr",
+       "Deferred revenue (grant)",
+       "990,000"
+      ]
+     ]
+    },
+    {
+     "k": "h",
+     "en": "31 Dec 2019 (fair value option)",
+     "ms": "31 Dis 2019 (pilihan nilai saksama)"
+    },
+    {
+     "k": "calc",
+     "en": "Amortisation = 1,000,000 ÷ 15 = RM66,667. Revenue recognised = 990,000 ÷ 15 = RM66,000.",
+     "ms": "Pelunasan = 1,000,000 ÷ 15 = RM66,667. Hasil diiktiraf = 990,000 ÷ 15 = RM66,000."
+    },
+    {
+     "k": "je",
+     "title": "(a) Amortisation",
+     "lines": [
+      [
+       "Dr",
+       "Amortisation expense",
+       "66,667"
+      ],
+      [
+       "Cr",
+       "Accumulated amortisation",
+       "66,667"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "(b) Release of deferred revenue",
+     "lines": [
+      [
+       "Dr",
+       "Deferred revenue",
+       "66,000"
+      ],
+      [
+       "Cr",
+       "Revenue / grant income",
+       "66,000"
+      ]
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "At 31 Dec 2019: licence carrying amount = 1,000,000 − 66,667 = 933,333; deferred revenue balance = 990,000 − 66,000 = 924,000.",
+     "ms": "Pada 31 Dis 2019: amaun dibawa lesen = 1,000,000 − 66,667 = 933,333; baki hasil tertunda = 990,000 − 66,000 = 924,000."
+    }
+   ]
+  },
+  {
+   "id": "internal",
+   "icon": "🏠",
+   "title": {
+    "en": "Internally Generated Intangibles",
+    "ms": "Aset Tak Ketara Dijana Secara Dalaman"
+   },
+   "ref": "MFRS 138 para 48–67",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Almost all internally generated intangibles are **not recognised** because there are uncertainties about **identifiability and control**. Only part of **R&D** may be recognised.",
+     "ms": "Hampir semua aset tak ketara yang dijana secara dalaman **tidak diiktiraf** kerana ketidakpastian tentang **boleh dikenal pasti dan kawalan**. Hanya sebahagian **R&D** boleh diiktiraf."
+    },
+    {
+     "k": "h",
+     "en": "Prohibited from recognition",
+     "ms": "Dilarang diiktiraf"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Customer base",
+      "Market share",
+      "Non-union status",
+      "Outstanding credit ratings",
+      "Ongoing training or recruiting programme"
+     ],
+     "ms": [
+      "Pangkalan pelanggan",
+      "Bahagian pasaran",
+      "Status bukan kesatuan",
+      "Penarafan kredit cemerlang",
+      "Program latihan atau pengambilan berterusan"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra (para 63): internally generated brands, mastheads, publishing titles and customer lists are also not recognised.",
+     "ms": "Tambahan (para 63): jenama, kepala akhbar, tajuk penerbitan dan senarai pelanggan yang dijana dalaman juga tidak diiktiraf."
+    }
+   ]
+  },
+  {
+   "id": "rd",
+   "icon": "🔬",
+   "title": {
+    "en": "Research & Development Expenditure",
+    "ms": "Perbelanjaan Penyelidikan & Pembangunan"
+   },
+   "ref": "MFRS 138 para 54–62 · Example 3.4",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "The company must **separate the research phase from the development phase**.",
+     "ms": "Syarikat mesti **mengasingkan fasa penyelidikan daripada fasa pembangunan**."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Research phase:** all expenditure is **expensed when incurred**.",
+      "**Development phase:** expenditure is **capitalised** as an intangible asset **if conditions are met** (para 57)."
+     ],
+     "ms": [
+      "**Fasa penyelidikan:** semua perbelanjaan **dibelanjakan apabila ditanggung**.",
+      "**Fasa pembangunan:** perbelanjaan **dikapitalkan** sebagai aset tak ketara **jika syarat dipenuhi** (para 57)."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Conditions for capitalising development (para 57)",
+     "ms": "Syarat mengkapitalkan pembangunan (para 57)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Technical feasibility** of completing the asset, and the **intention and ability** to use or sell it.",
+      "The **means** by which probable future economic benefits will be generated, and **availability of resources** to complete the development.",
+      "The **ability to measure** the development expenditure reliably."
+     ],
+     "ms": [
+      "**Kebolehlaksanaan teknikal** menyiapkan aset, dan **niat serta keupayaan** menggunakan atau menjualnya.",
+      "**Cara** manfaat ekonomi masa depan akan dijana, dan **ketersediaan sumber** untuk menyiapkan pembangunan.",
+      "**Keupayaan mengukur** perbelanjaan pembangunan dengan pasti."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The standard lists six criteria (technical feasibility; intention to complete; ability to use or sell; probable future benefits; adequate resources; reliable measurement). The slide groups them into three bullets.",
+     "ms": "Piawaian senaraikan enam kriteria (kebolehlaksanaan teknikal; niat menyiapkan; keupayaan guna atau jual; manfaat masa depan berkemungkinan; sumber mencukupi; pengukuran boleh dipercayai). Slide kumpulkannya dalam tiga poin."
+    },
+    {
+     "k": "ex",
+     "en": "Class exercise, Example 3.4 (Presto Bhd): a 12-month project to design a filtration system for air-conditioning units, with monthly costs: salaries for basic tests on existing filters (RM145,000); a basic model (RM165,000) later found ineffective; purchase of patent SPRING360 (RM330,000); revising the design (RM135,000); a prototype (RM65,000); demonstrations to prospective customers (RM25,000, including RM12,000 for food and beverages).",
+     "ms": "Latihan kelas, Contoh 3.4 (Presto Bhd): projek 12 bulan mereka bentuk sistem penapisan untuk unit penyaman udara, dengan kos bulanan: gaji ujian asas penapis sedia ada (RM145,000); model asas (RM165,000) kemudian didapati tidak berkesan; pembelian paten SPRING360 (RM330,000); menyemak reka bentuk (RM135,000); prototaip (RM65,000); demonstrasi kepada bakal pelanggan (RM25,000, termasuk RM12,000 makanan dan minuman)."
+    },
+    {
+     "k": "note",
+     "en": "The slide shows the case only. Think: which costs are research (expense), which are development (capitalise once all criteria are met), which is a separately acquired patent, and which are selling/marketing (expense)? Confirm the textbook answer with your lecturer.",
+     "ms": "Slide hanya tunjuk kes. Fikirkan: kos mana penyelidikan (belanja), mana pembangunan (kapital bila semua kriteria dipenuhi), mana paten dibeli berasingan, dan mana jualan/pemasaran (belanja)? Sahkan jawapan buku teks dengan pensyarah."
+    }
+   ]
+  },
+  {
+   "id": "subseq",
+   "icon": "🔧",
+   "title": {
+    "en": "Subsequent Costs",
+    "ms": "Kos Selepas Pengiktirafan"
+   },
+   "ref": "MFRS 138 para 20 & 68",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Subsequent expenditure is capitalised **only** if it increases future economic benefits **beyond the originally assessed standard of performance**. Most is expensed because:",
+     "ms": "Perbelanjaan selepas pengiktirafan dikapitalkan **hanya** jika ia menambah manfaat ekonomi masa depan **melebihi tahap prestasi asal**. Kebanyakannya dibelanjakan kerana:"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Its purpose is to **maintain** expected benefits rather than increase them.",
+      "Intangibles have **no replacement of parts or additions**.",
+      "It is **hard to attribute** the spending to a particular intangible rather than the business as a whole."
+     ],
+     "ms": [
+      "Tujuannya ialah **mengekalkan** manfaat dijangka, bukan menambah.",
+      "Aset tak ketara **tiada penggantian bahagian atau tambahan**.",
+      "**Sukar dikaitkan** perbelanjaan itu kepada aset tak ketara tertentu berbanding perniagaan keseluruhan."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Example: legal fees to defend rights over a trademark are commonly expensed under MFRS 138, except rarely when they increase future benefits.",
+     "ms": "Contoh: yuran guaman mempertahankan hak ke atas tanda dagangan lazimnya dibelanjakan di bawah MFRS 138, kecuali jarang apabila ia menambah manfaat masa depan."
+    }
+   ]
+  },
+  {
+   "id": "amort",
+   "icon": "⏳",
+   "title": {
+    "en": "Amortisation",
+    "ms": "Pelunasan (Amortisation)"
+   },
+   "ref": "MFRS 138 para 88–110 · Example 3.5",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "An intangible with a **finite life** is **amortised** over its useful life.",
+      "The **Clarification of Acceptable Methods of Depreciation and Amortisation** (amendments to MFRS 116 and MFRS 138) clarifies the possibility of using **revenue generated by an activity** as the amortisation method for intangibles.",
+      "Capitalised **development costs**: MFRS 138 sets **no maximum period**, but **in practice not more than five years**.",
+      "The **life is reviewed at each reporting period** for a significant change in the expected pattern of benefits.",
+      "A change in useful life is a **change in estimate** (MFRS 108), accounted for **prospectively**."
+     ],
+     "ms": [
+      "Aset tak ketara dengan **hayat terhad** **dilunaskan** sepanjang hayat berguna.",
+      "**Penjelasan Kaedah Susut Nilai dan Pelunasan yang Diterima** (pindaan MFRS 116 dan MFRS 138) menjelaskan kemungkinan guna **hasil yang dijana oleh aktiviti** sebagai kaedah pelunasan.",
+      "**Kos pembangunan** dikapitalkan: MFRS 138 **tiada tempoh maksimum**, tetapi **dalam praktik tidak melebihi lima tahun**.",
+      "**Hayat disemak pada setiap tempoh pelaporan** untuk perubahan ketara corak manfaat dijangka.",
+      "Perubahan hayat berguna ialah **perubahan anggaran** (MFRS 108), diakaunkan **secara prospektif**."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra: the amendments say a revenue-based method is presumed inappropriate, unless the intangible is expressed as a measure of revenue or revenue and consumption of benefits are highly correlated. An intangible with an **indefinite** life is **not amortised**.",
+     "ms": "Tambahan: pindaan kata kaedah berasaskan hasil dianggap tidak sesuai, kecuali aset tak ketara dinyatakan sebagai ukuran hasil atau hasil dan penggunaan manfaat sangat berkorelasi. Aset tak ketara dengan hayat **tidak terhad** **tidak dilunaskan**."
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers; the slide gives none): capitalised development cost RM300,000, amortised straight-line over 5 years. After 2 years the remaining life is revised to 2 more years.",
+     "ms": "Latihan (nombor sendiri; slide tiada nombor): kos pembangunan dikapitalkan RM300,000, dilunaskan garis lurus 5 tahun. Selepas 2 tahun baki hayat disemak kepada 2 tahun lagi."
+    },
+    {
+     "k": "calc",
+     "en": "Years 1–2: 300,000 ÷ 5 = 60,000 a year. Carrying amount after 2 years = 300,000 − 120,000 = 180,000. From year 3 (prospective): 180,000 ÷ 2 = RM90,000 a year. Prior years are NOT restated.",
+     "ms": "Tahun 1–2: 300,000 ÷ 5 = 60,000 setahun. Amaun dibawa selepas 2 tahun = 300,000 − 120,000 = 180,000. Dari tahun 3 (prospektif): 180,000 ÷ 2 = RM90,000 setahun. Tahun lalu TIDAK dinyatakan semula."
+    }
+   ]
+  },
+  {
+   "id": "impair",
+   "icon": "⚠️",
+   "title": {
+    "en": "Impairment",
+    "ms": "Rosot Nilai"
+   },
+   "ref": "MFRS 136 (summary)",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Type",
+       "When to test for impairment"
+      ],
+      "ms": [
+       "Jenis",
+       "Bila uji rosot nilai"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Finite life",
+        "Only when there is an indication of impairment"
+       ],
+       "ms": [
+        "Hayat terhad",
+        "Hanya bila ada petunjuk rosot nilai"
+       ]
+      },
+      {
+       "en": [
+        "Indefinite life",
+        "Annually"
+       ],
+       "ms": [
+        "Hayat tidak terhad",
+        "Setiap tahun"
+       ]
+      },
+      {
+       "en": [
+        "Goodwill",
+        "Tested through the impairment of its related cash-generating unit (CGU)"
+       ],
+       "ms": [
+        "Goodwill",
+        "Diuji melalui rosot nilai unit penjana tunai (CGU) berkaitan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra: an intangible not yet available for use (e.g. development in progress) is also tested annually. Impairment mechanics are in MFRS 136.",
+     "ms": "Tambahan: aset tak ketara belum sedia digunakan (cth pembangunan sedang berjalan) juga diuji setiap tahun. Mekanik rosot nilai dalam MFRS 136."
+    }
+   ]
+  },
+  {
+   "id": "reval",
+   "icon": "📈",
+   "title": {
+    "en": "Cost vs Revaluation Model",
+    "ms": "Model Kos vs Penilaian Semula"
+   },
+   "ref": "MFRS 138 para 72–87",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Entity chooses between the **cost model** and the **revaluation model**.",
+      "**Cost model:** initial cost − accumulated amortisation − accumulated impairment losses.",
+      "**Revaluation model:** fair value at the end of a financial period.",
+      "The revaluation model can be used **only if fair value can be determined by reference to an active market**."
+     ],
+     "ms": [
+      "Entiti pilih antara **model kos** dan **model penilaian semula**.",
+      "**Model kos:** kos awal − pelunasan terkumpul − rosot nilai terkumpul.",
+      "**Model penilaian semula:** nilai saksama pada akhir tempoh kewangan.",
+      "Model penilaian semula boleh digunakan **hanya jika nilai saksama boleh ditentukan dengan merujuk pasaran aktif**."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Active markets for intangibles are rare (patents, licences and brands are unique), so the cost model is the norm.",
+     "ms": "Pasaran aktif untuk aset tak ketara jarang ada (paten, lesen dan jenama unik), jadi model kos ialah kebiasaan."
+    }
+   ]
+  },
+  {
+   "id": "derec",
+   "icon": "🗑️",
+   "title": {
+    "en": "Derecognition",
+    "ms": "Nyahpengiktirafan"
+   },
+   "ref": "MFRS 138 para 112–117 · Example 3.6",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Remove an intangible from the statement of financial position when it is **sold** or when **no further future benefits** are expected.",
+      "Examples: selling a copyright held for three years; disposing of a patent that is no longer beneficial.",
+      "**Gain or loss = proceeds received − current carrying amount** (profit or loss)."
+     ],
+     "ms": [
+      "Keluarkan aset tak ketara daripada penyata kedudukan kewangan bila ia **dijual** atau **tiada manfaat masa depan** dijangka.",
+      "Contoh: menjual hak cipta yang dipegang tiga tahun; melupuskan paten yang tidak lagi berguna.",
+      "**Untung atau rugi = hasil diterima − amaun dibawa semasa** (untung atau rugi)."
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Practice (own numbers): copyright with carrying amount RM40,000 sold for RM55,000 → gain RM15,000. Dr Bank 55,000; Cr Copyright 40,000; Cr Gain on disposal 15,000.",
+     "ms": "Latihan (nombor sendiri): hak cipta amaun dibawa RM40,000 dijual RM55,000 → untung RM15,000. Dr Bank 55,000; Cr Hak cipta 40,000; Cr Untung pelupusan 15,000."
+    }
+   ]
+  },
+  {
+   "id": "discl",
+   "icon": "📝",
+   "title": {
+    "en": "Disclosure Requirements",
+    "ms": "Keperluan Pendedahan"
+   },
+   "ref": "MFRS 138 para 118–128",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Amortisation:** useful lives and amortisation methods.",
+      "**Reasons** supporting the assessment of an **indefinite life**.",
+      "**Revaluation:** methods used in estimating fair values.",
+      "**Gross carrying amount, accumulated impairment and accumulated amortisation** at the beginning and end of the period."
+     ],
+     "ms": [
+      "**Pelunasan:** hayat berguna dan kaedah pelunasan.",
+      "**Sebab** menyokong penilaian **hayat tidak terhad**.",
+      "**Penilaian semula:** kaedah anggaran nilai saksama.",
+      "**Amaun dibawa kasar, rosot nilai terkumpul dan pelunasan terkumpul** pada awal dan akhir tempoh."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "issues",
+   "icon": "💬",
+   "title": {
+    "en": "Issues in Accounting for Intangibles",
+    "ms": "Isu Perakaunan Aset Tak Ketara"
+   },
+   "ref": "Slides 31–34 (Case Studies 1–2)",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Issues involving R&D",
+     "ms": "Isu melibatkan R&D"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Identifying the phases:** hard to separate research from development.",
+      "**High research cost cannot be capitalised** though success is uncertain.",
+      "**Multiple projects** at different phases in the same period complicate accounting.",
+      "**Disclosure** of R&D may reveal competitive advantages."
+     ],
+     "ms": [
+      "**Mengenal pasti fasa:** sukar membezakan penyelidikan daripada pembangunan.",
+      "**Kos penyelidikan tinggi tidak boleh dikapitalkan** walaupun kejayaan tidak pasti.",
+      "**Banyak projek** pada fasa berbeza dalam tempoh sama merumitkan perakaunan.",
+      "**Pendedahan** R&D mungkin mendedahkan kelebihan daya saing."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Issues involving internally generated intangibles",
+     "ms": "Isu melibatkan aset tak ketara dijana dalaman"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Non-recognition** creates a gap between book value and true economic value (e.g. service and hospitality firms rely on customer service and marketing).",
+      "**Different treatment** of acquired vs internally generated intangibles although they are the same economically.",
+      "**Control:** internally developed practices/systems can be copied by others.",
+      "**Valuation** issues."
+     ],
+     "ms": [
+      "**Tidak diiktiraf** mewujudkan jurang antara nilai buku dan nilai ekonomi sebenar (cth firma perkhidmatan dan hospitaliti bergantung pada khidmat pelanggan dan pemasaran).",
+      "**Layanan berbeza** untuk aset tak ketara diperoleh vs dijana dalaman walaupun sama dari segi ekonomi.",
+      "**Kawalan:** amalan/sistem dibangunkan dalaman boleh ditiru pihak lain.",
+      "Isu **penilaian**."
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "def",
+   "q": {
+    "en": "Recognition criteria for an intangible asset",
+    "ms": "Kriteria pengiktirafan aset tak ketara"
+   },
+   "a": {
+    "en": "Meets the definition AND: probable future economic benefits AND cost measured reliably.",
+    "ms": "Memenuhi definisi DAN: manfaat ekonomi masa depan berkemungkinan DAN kos boleh diukur dengan pasti."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "def",
+   "q": {
+    "en": "What does \"identifiable\" mean?",
+    "ms": "Apa maksud \"boleh dikenal pasti\"?"
+   },
+   "a": {
+    "en": "Separable OR arises from contractual/legal rights.",
+    "ms": "Boleh diasingkan ATAU timbul daripada hak kontrak/undang-undang."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "def",
+   "q": {
+    "en": "Three examples of intangibles",
+    "ms": "Tiga contoh aset tak ketara"
+   },
+   "a": {
+    "en": "Patents and copyrights; franchises and concessions; trademarks.",
+    "ms": "Paten dan hak cipta; francais dan konsesi; tanda dagangan."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "nonrec",
+   "q": {
+    "en": "Why are advertising costs not recognised?",
+    "ms": "Kenapa kos pengiklanan tidak diiktiraf?"
+   },
+   "a": {
+    "en": "Hard to objectively determine the existence or life of any future benefit.",
+    "ms": "Sukar menentukan secara objektif kewujudan atau hayat manfaat masa depan."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "nonrec",
+   "q": {
+    "en": "Why is an internally developed customer list not recognised?",
+    "ms": "Kenapa senarai pelanggan dijana dalaman tidak diiktiraf?"
+   },
+   "a": {
+    "en": "No legal rights over customers and no ability to control them.",
+    "ms": "Tiada hak sah ke atas pelanggan dan tiada kuasa mengawal mereka."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "nonrec",
+   "q": {
+    "en": "Why is an internally developed brand not recognised?",
+    "ms": "Kenapa jenama dijana dalaman tidak diiktiraf?"
+   },
+   "a": {
+    "en": "Cannot be separated from developing the business as a whole; fails identifiability.",
+    "ms": "Tidak boleh diasingkan daripada pembangunan perniagaan keseluruhan; gagal kriteria boleh dikenal pasti."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "bc",
+   "q": {
+    "en": "Intangible acquired in a business combination: measurement",
+    "ms": "Aset tak ketara dalam penggabungan perniagaan: pengukuran"
+   },
+   "a": {
+    "en": "Fair value at the acquisition date, recognised separately from goodwill.",
+    "ms": "Nilai saksama pada tarikh perolehan, diiktiraf berasingan daripada goodwill."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "bc",
+   "q": {
+    "en": "Which acquiree intangibles does the acquirer recognise?",
+    "ms": "Aset tak ketara pihak diperoleh mana yang acquirer iktiraf?"
+   },
+   "a": {
+    "en": "Those already recognised AND those not recognised by the acquiree.",
+    "ms": "Yang sudah DAN yang belum diiktiraf pihak diperoleh."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "grant",
+   "q": {
+    "en": "Two measurement options for an intangible from a government grant",
+    "ms": "Dua pilihan pengukuran aset tak ketara daripada geran kerajaan"
+   },
+   "a": {
+    "en": "Fair value OR cost (MFRS 120).",
+    "ms": "Nilai saksama ATAU kos (MFRS 120)."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "grant",
+   "q": {
+    "en": "Timber concession / toll concession: asset or not?",
+    "ms": "Konsesi balak / konsesi tol: aset atau bukan?"
+   },
+   "a": {
+    "en": "Identifiable intangible assets: the rights are legally established.",
+    "ms": "Aset tak ketara boleh dikenal pasti: hak ditubuhkan secara sah."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "grant",
+   "q": {
+    "en": "Journal for a licence at fair value (FV 1,000,000; fees 110,000)",
+    "ms": "Jurnal lesen pada nilai saksama (FV 1,000,000; yuran 110,000)"
+   },
+   "a": {
+    "en": "Dr Licence 1,000,000; Cr Cash 110,000; Cr Deferred revenue 990,000.",
+    "ms": "Dr Lesen 1,000,000; Cr Tunai 110,000; Cr Hasil tertunda 990,000."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "internal",
+   "q": {
+    "en": "Examples of internally generated intangibles not recognised",
+    "ms": "Contoh aset tak ketara dijana dalaman tidak diiktiraf"
+   },
+   "a": {
+    "en": "Customer base, market share, non-union status, outstanding credit ratings, ongoing training/recruiting programme.",
+    "ms": "Pangkalan pelanggan, bahagian pasaran, status bukan kesatuan, penarafan kredit cemerlang, program latihan/pengambilan."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "rd",
+   "q": {
+    "en": "Research phase: accounting",
+    "ms": "Fasa penyelidikan: perakaunan"
+   },
+   "a": {
+    "en": "Expense all expenditure when incurred.",
+    "ms": "Belanjakan semua perbelanjaan apabila ditanggung."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "rd",
+   "q": {
+    "en": "Development phase: accounting",
+    "ms": "Fasa pembangunan: perakaunan"
+   },
+   "a": {
+    "en": "Capitalise as an intangible if the para 57 conditions are met.",
+    "ms": "Kapitalkan sebagai aset tak ketara jika syarat para 57 dipenuhi."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "rd",
+   "q": {
+    "en": "Development capitalisation conditions (slide version)",
+    "ms": "Syarat kapitalisasi pembangunan (versi slide)"
+   },
+   "a": {
+    "en": "1) Technical feasibility + intention and ability to use/sell; 2) Means to generate benefits + resources available; 3) Reliable measurement.",
+    "ms": "1) Kebolehlaksanaan teknikal + niat dan keupayaan guna/jual; 2) Cara jana manfaat + sumber tersedia; 3) Pengukuran boleh dipercayai."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "subseq",
+   "q": {
+    "en": "When can subsequent expenditure be capitalised?",
+    "ms": "Bila perbelanjaan susulan boleh dikapitalkan?"
+   },
+   "a": {
+    "en": "Only if it increases future benefits beyond the originally assessed standard of performance.",
+    "ms": "Hanya jika ia menambah manfaat masa depan melebihi tahap prestasi asal."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "subseq",
+   "q": {
+    "en": "Why are most subsequent costs expensed?",
+    "ms": "Kenapa kebanyakan kos susulan dibelanjakan?"
+   },
+   "a": {
+    "en": "They maintain benefits; no replacement of parts; hard to attribute to a specific intangible.",
+    "ms": "Ia mengekalkan manfaat; tiada penggantian bahagian; sukar dikaitkan kepada aset tertentu."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "amort",
+   "q": {
+    "en": "Maximum amortisation period for capitalised development?",
+    "ms": "Tempoh pelunasan maksimum untuk pembangunan dikapitalkan?"
+   },
+   "a": {
+    "en": "MFRS 138 sets none, but in practice not more than five years.",
+    "ms": "MFRS 138 tiada, tetapi dalam praktik tidak melebihi lima tahun."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "amort",
+   "q": {
+    "en": "Change in useful life: treatment",
+    "ms": "Perubahan hayat berguna: layanan"
+   },
+   "a": {
+    "en": "Change in estimate (MFRS 108), applied prospectively; review life each reporting period.",
+    "ms": "Perubahan anggaran (MFRS 108), dilaksana secara prospektif; semak hayat setiap tempoh pelaporan."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "amort",
+   "q": {
+    "en": "Indefinite-life intangible: amortised?",
+    "ms": "Aset tak ketara hayat tidak terhad: dilunaskan?"
+   },
+   "a": {
+    "en": "No. It is tested for impairment annually.",
+    "ms": "Tidak. Ia diuji rosot nilai setiap tahun."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "impair",
+   "q": {
+    "en": "Impairment test: finite life",
+    "ms": "Ujian rosot nilai: hayat terhad"
+   },
+   "a": {
+    "en": "Only when there is an indication of impairment.",
+    "ms": "Hanya bila ada petunjuk rosot nilai."
+   }
+  },
+  {
+   "id": "c22",
+   "t": "impair",
+   "q": {
+    "en": "Impairment test: goodwill",
+    "ms": "Ujian rosot nilai: goodwill"
+   },
+   "a": {
+    "en": "Through the related cash-generating unit (CGU).",
+    "ms": "Melalui unit penjana tunai (CGU) berkaitan."
+   }
+  },
+  {
+   "id": "c23",
+   "t": "reval",
+   "q": {
+    "en": "When can the revaluation model be used for intangibles?",
+    "ms": "Bila model penilaian semula boleh digunakan untuk aset tak ketara?"
+   },
+   "a": {
+    "en": "Only if fair value can be determined by reference to an active market.",
+    "ms": "Hanya jika nilai saksama boleh ditentukan dengan merujuk pasaran aktif."
+   }
+  },
+  {
+   "id": "c24",
+   "t": "derec",
+   "q": {
+    "en": "Gain/loss on derecognition",
+    "ms": "Untung/rugi semasa nyahpengiktirafan"
+   },
+   "a": {
+    "en": "Proceeds − carrying amount → profit or loss.",
+    "ms": "Hasil − amaun dibawa → untung atau rugi."
+   }
+  },
+  {
+   "id": "c25",
+   "t": "discl",
+   "q": {
+    "en": "Disclosures for amortisation and indefinite life",
+    "ms": "Pendedahan pelunasan dan hayat tidak terhad"
+   },
+   "a": {
+    "en": "Useful lives and methods; reasons supporting an indefinite life.",
+    "ms": "Hayat berguna dan kaedah; sebab menyokong hayat tidak terhad."
+   }
+  },
+  {
+   "id": "c26",
+   "t": "issues",
+   "q": {
+    "en": "Why does non-recognition of internally generated intangibles matter?",
+    "ms": "Kenapa tidak mengiktiraf aset tak ketara dijana dalaman penting?"
+   },
+   "a": {
+    "en": "It creates a gap between book value and true economic value, especially for service firms.",
+    "ms": "Ia mewujudkan jurang antara nilai buku dan nilai ekonomi sebenar, terutama firma perkhidmatan."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "def",
+   "q": {
+    "en": "Which pair are the recognition criteria for an intangible asset?",
+    "ms": "Pasangan manakah kriteria pengiktirafan aset tak ketara?"
+   },
+   "o": [
+    "Probable future benefits and reliably measurable cost",
+    "Legal title and physical substance",
+    "Purchase from a third party and fair value",
+    "Amortisation period and impairment indication"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Probable future economic benefits AND cost measured reliably.",
+    "ms": "Manfaat ekonomi masa depan berkemungkinan DAN kos boleh diukur dengan pasti."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "def",
+   "q": {
+    "en": "An asset is identifiable if it is:",
+    "ms": "Aset boleh dikenal pasti jika ia:"
+   },
+   "o": [
+    "Purchased for cash",
+    "Separable or arises from contractual or other legal rights",
+    "Recorded in the acquiree's books",
+    "Amortised over five years"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Separable OR arises from legal/contractual rights.",
+    "ms": "Boleh diasingkan ATAU timbul daripada hak undang-undang/kontrak."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "def",
+   "q": {
+    "en": "Which is an example of an intangible asset?",
+    "ms": "Yang manakah contoh aset tak ketara?"
+   },
+   "o": [
+    "Inventory",
+    "Land",
+    "A franchise",
+    "A building"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Franchises and concessions are intangibles.",
+    "ms": "Francais dan konsesi ialah aset tak ketara."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "nonrec",
+   "q": {
+    "en": "Advertising costs are not recognised as intangibles because:",
+    "ms": "Kos pengiklanan tidak diiktiraf sebagai aset tak ketara kerana:"
+   },
+   "o": [
+    "They are too small",
+    "Advertising is prohibited",
+    "They are paid in cash",
+    "It is difficult to objectively determine the existence or life of future benefits"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Benefits are too uncertain to measure objectively.",
+    "ms": "Manfaat terlalu tidak pasti untuk diukur secara objektif."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "nonrec",
+   "q": {
+    "en": "An internally developed customer list is not recognised mainly because:",
+    "ms": "Senarai pelanggan dijana dalaman tidak diiktiraf terutamanya kerana:"
+   },
+   "o": [
+    "The company lacks legal rights over customers and cannot control them",
+    "It has no physical form",
+    "It has a short life",
+    "It is expensive"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Inability to control the customers is the factor.",
+    "ms": "Ketidakupayaan mengawal pelanggan ialah faktornya."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "bc",
+   "q": {
+    "en": "In a business combination the acquirer measures an identifiable intangible of the acquiree at:",
+    "ms": "Dalam penggabungan perniagaan acquirer mengukur aset tak ketara boleh dikenal pasti pihak diperoleh pada:"
+   },
+   "o": [
+    "Acquiree's carrying amount",
+    "Fair value at the acquisition date",
+    "Original cost",
+    "Zero"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Fair value at the acquisition date.",
+    "ms": "Nilai saksama pada tarikh perolehan."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "bc",
+   "q": {
+    "en": "In a business combination the acquirer recognises identifiable intangibles:",
+    "ms": "Dalam penggabungan perniagaan acquirer mengiktiraf aset tak ketara boleh dikenal pasti:"
+   },
+   "o": [
+    "Only those the acquiree already recognised",
+    "Only those the acquiree had not recognised",
+    "Both those recognised and not recognised by the acquiree, separately from goodwill",
+    "None, they are all goodwill"
+   ],
+   "a": 2,
+   "e": {
+    "en": "All identifiable assets are recognised separately from goodwill.",
+    "ms": "Semua aset boleh dikenal pasti diiktiraf berasingan daripada goodwill."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "grant",
+   "q": {
+    "en": "Which standard applies to an intangible acquired by government grant?",
+    "ms": "Piawaian mana terpakai untuk aset tak ketara diperoleh melalui geran kerajaan?"
+   },
+   "o": [
+    "MFRS 102",
+    "MFRS 16",
+    "MFRS 141",
+    "MFRS 120"
+   ],
+   "a": 3,
+   "e": {
+    "en": "MFRS 120 Government Grants.",
+    "ms": "MFRS 120 Government Grants."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "grant",
+   "q": {
+    "en": "Rapid Row Bhd records the licence at fair value of RM1,000,000 and pays RM110,000 in fees. The credit to deferred revenue is:",
+    "ms": "Rapid Row Bhd rekod lesen pada nilai saksama RM1,000,000 dan bayar yuran RM110,000. Kredit kepada hasil tertunda:"
+   },
+   "o": [
+    "RM990,000",
+    "RM1,000,000",
+    "RM110,000",
+    "RM890,000"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Dr Licence 1,000,000; Cr Cash 110,000; Cr Deferred revenue 990,000.",
+    "ms": "Dr Lesen 1,000,000; Cr Tunai 110,000; Cr Hasil tertunda 990,000."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "grant",
+   "q": {
+    "en": "A 15-year licence is recorded at RM1,000,000. Amortisation for the first year is:",
+    "ms": "Lesen 15 tahun direkod pada RM1,000,000. Pelunasan tahun pertama:"
+   },
+   "o": [
+    "RM100,000",
+    "RM66,667",
+    "RM60,000",
+    "RM110,000"
+   ],
+   "a": 1,
+   "e": {
+    "en": "1,000,000 ÷ 15 = 66,667.",
+    "ms": "1,000,000 ÷ 15 = 66,667."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "grant",
+   "q": {
+    "en": "Same licence (deferred revenue RM990,000, 15 years). Revenue recognised in year 1 is:",
+    "ms": "Lesen sama (hasil tertunda RM990,000, 15 tahun). Hasil diiktiraf tahun 1:"
+   },
+   "o": [
+    "RM99,000",
+    "RM66,667",
+    "RM66,000",
+    "RM110,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "990,000 ÷ 15 = 66,000.",
+    "ms": "990,000 ÷ 15 = 66,000."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "internal",
+   "q": {
+    "en": "Which internally generated item is prohibited from recognition?",
+    "ms": "Item dijana dalaman mana dilarang diiktiraf?"
+   },
+   "o": [
+    "A purchased patent",
+    "A licence from government",
+    "Development costs meeting all criteria",
+    "Customer base"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Customer base, market share etc. are prohibited.",
+    "ms": "Pangkalan pelanggan, bahagian pasaran dll dilarang."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "rd",
+   "q": {
+    "en": "Expenditure incurred in the research phase is:",
+    "ms": "Perbelanjaan fasa penyelidikan:"
+   },
+   "o": [
+    "Expensed when incurred",
+    "Capitalised",
+    "Deferred to the development phase",
+    "Amortised over five years"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Research is always expensed.",
+    "ms": "Penyelidikan sentiasa dibelanjakan."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "rd",
+   "q": {
+    "en": "Development expenditure is capitalised if:",
+    "ms": "Perbelanjaan pembangunan dikapitalkan jika:"
+   },
+   "o": [
+    "The project is expensive",
+    "The para 57 conditions (feasibility, resources, reliable measurement, etc.) are met",
+    "The company is profitable",
+    "A competitor has similar assets"
+   ],
+   "a": 1,
+   "e": {
+    "en": "All para 57 conditions must be met.",
+    "ms": "Semua syarat para 57 mesti dipenuhi."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "rd",
+   "q": {
+    "en": "Which is NOT a condition for capitalising development expenditure?",
+    "ms": "Yang manakah BUKAN syarat kapitalisasi perbelanjaan pembangunan?"
+   },
+   "o": [
+    "Technical feasibility of completing the asset",
+    "Availability of resources to complete",
+    "The research phase cost less than RM1 million",
+    "Ability to measure the expenditure reliably"
+   ],
+   "a": 2,
+   "e": {
+    "en": "There is no cost ceiling for the research phase.",
+    "ms": "Tiada had kos untuk fasa penyelidikan."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "subseq",
+   "q": {
+    "en": "Subsequent expenditure on an intangible is capitalised only if it:",
+    "ms": "Perbelanjaan susulan atas aset tak ketara dikapitalkan hanya jika ia:"
+   },
+   "o": [
+    "Maintains expected benefits",
+    "Is below RM10,000",
+    "Is paid in cash",
+    "Increases future benefits beyond the originally assessed standard of performance"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Capitalise only when it improves beyond original standard.",
+    "ms": "Kapital hanya bila meningkatkan melebihi tahap asal."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "subseq",
+   "q": {
+    "en": "Legal fees to defend rights over a trademark are usually:",
+    "ms": "Yuran guaman mempertahankan hak ke atas tanda dagangan biasanya:"
+   },
+   "o": [
+    "Expensed",
+    "Capitalised",
+    "Added to goodwill",
+    "Deferred indefinitely"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Commonly expensed (they maintain rather than increase benefits).",
+    "ms": "Lazimnya dibelanjakan (mengekalkan, bukan menambah manfaat)."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "amort",
+   "q": {
+    "en": "In practice, capitalised development costs are amortised over a period that does not exceed:",
+    "ms": "Dalam praktik, kos pembangunan dikapitalkan dilunaskan dalam tempoh tidak melebihi:"
+   },
+   "o": [
+    "One year",
+    "Five years",
+    "Three years",
+    "Ten years"
+   ],
+   "a": 1,
+   "e": {
+    "en": "MFRS 138 sets no maximum, but in practice not more than five years.",
+    "ms": "MFRS 138 tiada maksimum, tetapi dalam praktik tidak melebihi lima tahun."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "amort",
+   "q": {
+    "en": "A change in the useful life of an intangible is accounted for:",
+    "ms": "Perubahan hayat berguna aset tak ketara diakaunkan:"
+   },
+   "o": [
+    "Retrospectively",
+    "By restating prior years",
+    "As a change in estimate, prospectively",
+    "In equity"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Change in estimate (MFRS 108), prospectively.",
+    "ms": "Perubahan anggaran (MFRS 108), prospektif."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "amort",
+   "q": {
+    "en": "Development cost RM300,000 is amortised over 5 years. After 2 years the remaining life becomes 2 years. Amortisation for year 3 is:",
+    "ms": "Kos pembangunan RM300,000 dilunaskan 5 tahun. Selepas 2 tahun baki hayat jadi 2 tahun. Pelunasan tahun 3:"
+   },
+   "o": [
+    "RM60,000",
+    "RM100,000",
+    "RM180,000",
+    "RM90,000"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Carrying amount 180,000 ÷ 2 = 90,000 (prospective).",
+    "ms": "Amaun dibawa 180,000 ÷ 2 = 90,000 (prospektif)."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "amort",
+   "q": {
+    "en": "An intangible asset with an indefinite useful life is:",
+    "ms": "Aset tak ketara hayat tidak terhad:"
+   },
+   "o": [
+    "Not amortised but tested for impairment annually",
+    "Amortised over 20 years",
+    "Never tested for impairment",
+    "Expensed immediately"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Not amortised; annual impairment test.",
+    "ms": "Tidak dilunaskan; ujian rosot nilai tahunan."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "impair",
+   "q": {
+    "en": "For an intangible asset with a finite life, impairment testing is done:",
+    "ms": "Bagi aset tak ketara hayat terhad, ujian rosot nilai dibuat:"
+   },
+   "o": [
+    "Every year",
+    "Only when there is an indication of impairment",
+    "Never",
+    "Every five years"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Only upon an indication of impairment.",
+    "ms": "Hanya apabila ada petunjuk rosot nilai."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "impair",
+   "q": {
+    "en": "Goodwill is tested for impairment through:",
+    "ms": "Goodwill diuji rosot nilai melalui:"
+   },
+   "o": [
+    "Its amortisation schedule",
+    "The market price of shares",
+    "The related cash-generating unit",
+    "The revaluation model"
+   ],
+   "a": 2,
+   "e": {
+    "en": "CGU impairment.",
+    "ms": "Rosot nilai CGU."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "reval",
+   "q": {
+    "en": "The revaluation model for intangibles can only be used if fair value is determined by reference to:",
+    "ms": "Model penilaian semula untuk aset tak ketara hanya boleh digunakan jika nilai saksama ditentukan dengan merujuk:"
+   },
+   "o": [
+    "Management estimate",
+    "A valuation report",
+    "The cost model",
+    "An active market"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Active market is required.",
+    "ms": "Pasaran aktif diperlukan."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "derec",
+   "q": {
+    "en": "A copyright with carrying amount RM40,000 is sold for RM55,000. The result is:",
+    "ms": "Hak cipta amaun dibawa RM40,000 dijual RM55,000. Keputusan:"
+   },
+   "o": [
+    "Gain RM15,000 in profit or loss",
+    "Loss RM15,000",
+    "Gain RM55,000",
+    "No gain or loss"
+   ],
+   "a": 0,
+   "e": {
+    "en": "55,000 − 40,000 = 15,000 gain in P/L.",
+    "ms": "55,000 − 40,000 = untung 15,000 dalam P/L."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "derec",
+   "q": {
+    "en": "An intangible is derecognised when:",
+    "ms": "Aset tak ketara dinyahiktiraf apabila:"
+   },
+   "o": [
+    "It is fully amortised",
+    "It is sold or no future benefits are expected",
+    "Its fair value falls",
+    "Its life is reviewed"
+   ],
+   "a": 1,
+   "e": {
+    "en": "On disposal or when no future benefits are expected.",
+    "ms": "Semasa pelupusan atau bila tiada manfaat masa depan dijangka."
+   }
+  },
+  {
+   "id": "q27",
+   "t": "discl",
+   "q": {
+    "en": "Which is a required disclosure for intangibles?",
+    "ms": "Yang manakah pendedahan wajib untuk aset tak ketara?"
+   },
+   "o": [
+    "Customer credit limits",
+    "Employee names",
+    "Useful lives and amortisation methods",
+    "Tax rates"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Useful lives and amortisation methods are disclosed.",
+    "ms": "Hayat berguna dan kaedah pelunasan didedahkan."
+   }
+  },
+  {
+   "id": "q28",
+   "t": "issues",
+   "q": {
+    "en": "Which is an issue involving R&D accounting?",
+    "ms": "Yang manakah isu melibatkan perakaunan R&D?"
+   },
+   "o": [
+    "Easy to separate research from development",
+    "All R&D is capitalised",
+    "Disclosure always benefits competitors",
+    "High research cost cannot be capitalised even though success is uncertain"
+   ],
+   "a": 3,
+   "e": {
+    "en": "The research-phase cost cannot be capitalised.",
+    "ms": "Kos fasa penyelidikan tidak boleh dikapitalkan."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "def",
+   "marks": 5,
+   "q": {
+    "en": "Explain the recognition criteria for an intangible asset and give three examples of intangibles.",
+    "ms": "Terangkan kriteria pengiktirafan aset tak ketara dan beri tiga contoh."
+   },
+   "pts": {
+    "en": [
+     "Meets the definition of an intangible asset (1)",
+     "Probable future economic benefits will flow to the entity (1)",
+     "Cost can be measured reliably (1)",
+     "Examples: patents/copyrights (1)",
+     "Franchises/concessions and trademarks (1)"
+    ],
+    "ms": [
+     "Memenuhi definisi aset tak ketara (1)",
+     "Manfaat ekonomi masa depan berkemungkinan mengalir kepada entiti (1)",
+     "Kos boleh diukur dengan pasti (1)",
+     "Contoh: paten/hak cipta (1)",
+     "Francais/konsesi dan tanda dagangan (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "rd",
+   "marks": 8,
+   "q": {
+    "en": "Explain the accounting treatment for research and development expenditure, including the conditions for capitalising development costs.",
+    "ms": "Terangkan layanan perakaunan perbelanjaan penyelidikan dan pembangunan, termasuk syarat mengkapitalkan kos pembangunan."
+   },
+   "pts": {
+    "en": [
+     "Separate research from development phase (1)",
+     "Research: expense when incurred (1)",
+     "Development: capitalise if conditions are met (1)",
+     "Technical feasibility to complete and intention/ability to use or sell (2)",
+     "Means to generate probable future benefits; resources available (2)",
+     "Ability to measure the expenditure reliably (1)"
+    ],
+    "ms": [
+     "Asingkan fasa penyelidikan daripada pembangunan (1)",
+     "Penyelidikan: belanjakan apabila ditanggung (1)",
+     "Pembangunan: kapitalkan jika syarat dipenuhi (1)",
+     "Kebolehlaksanaan teknikal menyiapkan dan niat/keupayaan guna atau jual (2)",
+     "Cara jana manfaat masa depan berkemungkinan; sumber tersedia (2)",
+     "Keupayaan mengukur perbelanjaan dengan pasti (1)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "grant",
+   "marks": 8,
+   "q": {
+    "en": "On 1 January 20x1 the government grants Alpha Bhd a 10-year licence. Alpha pays RM50,000 in fees. A similar licence has a fair value of RM800,000. Alpha chooses fair value. Show the journals on 1 January 20x1 and for the year ended 31 December 20x1.",
+    "ms": "Pada 1 Januari 20x1 kerajaan beri Alpha Bhd lesen 10 tahun. Alpha bayar yuran RM50,000. Lesen serupa ada nilai saksama RM800,000. Alpha pilih nilai saksama. Tunjukkan jurnal pada 1 Januari 20x1 dan bagi tahun berakhir 31 Disember 20x1."
+   },
+   "pts": {
+    "en": [
+     "Dr Licence 800,000 (2)",
+     "Cr Cash 50,000 (1)",
+     "Cr Deferred revenue 750,000 (1)",
+     "Amortisation = 800,000 ÷ 10 = 80,000 (1)",
+     "Dr Amortisation expense 80,000; Cr Accumulated amortisation 80,000 (1)",
+     "Release = 750,000 ÷ 10 = 75,000; Dr Deferred revenue, Cr Revenue 75,000 (2)"
+    ],
+    "ms": [
+     "Dr Lesen 800,000 (2)",
+     "Cr Tunai 50,000 (1)",
+     "Cr Hasil tertunda 750,000 (1)",
+     "Pelunasan = 800,000 ÷ 10 = 80,000 (1)",
+     "Dr Belanja pelunasan 80,000; Cr Pelunasan terkumpul 80,000 (1)",
+     "Pelepasan = 750,000 ÷ 10 = 75,000; Dr Hasil tertunda, Cr Hasil 75,000 (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "amort",
+   "marks": 6,
+   "q": {
+    "en": "Discuss the amortisation of intangible assets, including how a change in useful life is treated.",
+    "ms": "Bincangkan pelunasan aset tak ketara, termasuk cara perubahan hayat berguna dilayan."
+   },
+   "pts": {
+    "en": [
+     "Finite life: amortise over useful life (1)",
+     "Indefinite life: not amortised; annual impairment test (1)",
+     "Capitalised development: no maximum period, usually not more than five years (1)",
+     "Review life each reporting period (1)",
+     "Change in life = change in estimate (MFRS 108) (1)",
+     "Applied prospectively; prior years not restated (1)"
+    ],
+    "ms": [
+     "Hayat terhad: lunaskan sepanjang hayat berguna (1)",
+     "Hayat tidak terhad: tidak dilunaskan; ujian rosot nilai tahunan (1)",
+     "Pembangunan dikapitalkan: tiada tempoh maksimum, biasanya tidak melebihi lima tahun (1)",
+     "Semak hayat setiap tempoh pelaporan (1)",
+     "Perubahan hayat = perubahan anggaran (MFRS 108) (1)",
+     "Dilaksana secara prospektif; tahun lalu tidak dinyatakan semula (1)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "issues",
+   "marks": 6,
+   "q": {
+    "en": "Discuss two issues in accounting for internally generated intangibles.",
+    "ms": "Bincangkan dua isu dalam perakaunan aset tak ketara dijana dalaman."
+   },
+   "pts": {
+    "en": [
+     "Non-recognition creates a gap between book value and true economic value (2)",
+     "Service/hospitality firms rely on customer service and marketing (1)",
+     "Different treatment of acquired vs internally generated intangibles (1)",
+     "Control: practices/systems can be replicated by others (1)",
+     "Valuation difficulties (1)"
+    ],
+    "ms": [
+     "Tidak diiktiraf mewujudkan jurang antara nilai buku dan nilai ekonomi sebenar (2)",
+     "Firma perkhidmatan/hospitaliti bergantung pada khidmat pelanggan dan pemasaran (1)",
+     "Layanan berbeza untuk aset tak ketara diperoleh vs dijana dalaman (1)",
+     "Kawalan: amalan/sistem boleh ditiru pihak lain (1)",
+     "Kesukaran penilaian (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Intangible asset",
+   "Aset tak ketara"
+  ],
+  [
+   "Identifiable",
+   "Boleh dikenal pasti"
+  ],
+  [
+   "Separable",
+   "Boleh diasingkan"
+  ],
+  [
+   "Patent",
+   "Paten"
+  ],
+  [
+   "Copyright",
+   "Hak cipta"
+  ],
+  [
+   "Franchise",
+   "Francais"
+  ],
+  [
+   "Concession",
+   "Konsesi"
+  ],
+  [
+   "Trademark",
+   "Tanda dagangan"
+  ],
+  [
+   "Licence",
+   "Lesen"
+  ],
+  [
+   "Goodwill",
+   "Muhibah (goodwill)"
+  ],
+  [
+   "Business combination",
+   "Penggabungan perniagaan"
+  ],
+  [
+   "Acquirer / Acquiree",
+   "Pemerolehan / Pihak diperoleh"
+  ],
+  [
+   "Government grant",
+   "Geran kerajaan"
+  ],
+  [
+   "Deferred revenue",
+   "Hasil tertunda"
+  ],
+  [
+   "Internally generated",
+   "Dijana secara dalaman"
+  ],
+  [
+   "Research phase",
+   "Fasa penyelidikan"
+  ],
+  [
+   "Development phase",
+   "Fasa pembangunan"
+  ],
+  [
+   "Technical feasibility",
+   "Kebolehlaksanaan teknikal"
+  ],
+  [
+   "Subsequent expenditure",
+   "Perbelanjaan selepas pengiktirafan"
+  ],
+  [
+   "Amortisation",
+   "Pelunasan"
+  ],
+  [
+   "Finite life",
+   "Hayat terhad"
+  ],
+  [
+   "Indefinite life",
+   "Hayat tidak terhad"
+  ],
+  [
+   "Change in estimate",
+   "Perubahan anggaran"
+  ],
+  [
+   "Prospectively",
+   "Secara prospektif"
+  ],
+  [
+   "Impairment",
+   "Rosot nilai"
+  ],
+  [
+   "Cash-generating unit (CGU)",
+   "Unit penjana tunai (CGU)"
+  ],
+  [
+   "Active market",
+   "Pasaran aktif"
+  ],
+  [
+   "Revaluation model",
+   "Model penilaian semula"
+  ],
+  [
+   "Derecognition",
+   "Nyahpengiktirafan"
+  ],
+  [
+   "Disclosure",
+   "Pendedahan"
+  ]
+ ],
+ "flows": [
+  {
+   "id": "recog",
+   "icon": "🧭",
+   "title": {
+    "en": "Can it be recognised?",
+    "ms": "Bolehkah ia diiktiraf?"
+   },
+   "sub": {
+    "en": "Intangible decision flow",
+    "ms": "Carta keputusan aset tak ketara"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is it identifiable (separable or from legal/contractual rights), controlled by the entity, and without physical substance?",
+      "ms": "Adakah ia boleh dikenal pasti (boleh diasingkan atau daripada hak undang-undang/kontrak), dikawal entiti, dan tanpa bentuk fizikal?"
+     },
+     "y": "n2",
+     "n": "rNot"
+    },
+    "n2": {
+     "q": {
+      "en": "Was it generated internally (not purchased or acquired in a combination)?",
+      "ms": "Adakah ia dijana secara dalaman (bukan dibeli atau diperoleh dalam penggabungan)?"
+     },
+     "y": "n3",
+     "n": "n7"
+    },
+    "n3": {
+     "q": {
+      "en": "Is it an internally generated brand, customer list, customer base, market share, training or similar?",
+      "ms": "Adakah ia jenama, senarai pelanggan, pangkalan pelanggan, bahagian pasaran, latihan dijana dalaman atau serupa?"
+     },
+     "y": "rExp",
+     "n": "n4"
+    },
+    "n4": {
+     "q": {
+      "en": "Is the spending in the research phase?",
+      "ms": "Adakah perbelanjaan itu dalam fasa penyelidikan?"
+     },
+     "y": "rRes",
+     "n": "n5"
+    },
+    "n5": {
+     "q": {
+      "en": "Are ALL development conditions met (feasibility, intention, ability, future benefits, resources, reliable measurement)?",
+      "ms": "Adakah SEMUA syarat pembangunan dipenuhi (kebolehlaksanaan, niat, keupayaan, manfaat masa depan, sumber, pengukuran boleh dipercayai)?"
+     },
+     "y": "rDev",
+     "n": "rExp"
+    },
+    "n7": {
+     "q": {
+      "en": "Are future benefits probable AND is cost/fair value reliably measurable?",
+      "ms": "Adakah manfaat masa depan berkemungkinan DAN kos/nilai saksama boleh diukur dengan pasti?"
+     },
+     "y": "rAcq",
+     "n": "rExp"
+    }
+   },
+   "results": {
+    "rAcq": {
+     "c": "good",
+     "t": {
+      "en": "Recognise as an intangible asset",
+      "ms": "Iktiraf sebagai aset tak ketara"
+     },
+     "d": {
+      "en": "Purchased: at cost. Business combination: at fair value. Government grant: fair value or cost (MFRS 120).",
+      "ms": "Dibeli: pada kos. Penggabungan perniagaan: nilai saksama. Geran kerajaan: nilai saksama atau kos (MFRS 120)."
+     }
+    },
+    "rDev": {
+     "c": "good",
+     "t": {
+      "en": "Capitalise as an intangible asset",
+      "ms": "Kapitalkan sebagai aset tak ketara"
+     },
+     "d": {
+      "en": "Development costs after all conditions are met; amortise (in practice ≤ 5 years).",
+      "ms": "Kos pembangunan selepas semua syarat dipenuhi; lunaskan (dalam praktik ≤ 5 tahun)."
+     }
+    },
+    "rRes": {
+     "c": "warn",
+     "t": {
+      "en": "Expense when incurred",
+      "ms": "Belanjakan apabila ditanggung"
+     },
+     "d": {
+      "en": "Research-phase expenditure is always expensed.",
+      "ms": "Perbelanjaan fasa penyelidikan sentiasa dibelanjakan."
+     }
+    },
+    "rExp": {
+     "c": "warn",
+     "t": {
+      "en": "Expense it",
+      "ms": "Belanjakan"
+     },
+     "d": {
+      "en": "Recognition is prohibited or the criteria are not met.",
+      "ms": "Pengiktirafan dilarang atau kriteria tidak dipenuhi."
+     }
+    },
+    "rNot": {
+     "c": "info",
+     "t": {
+      "en": "Not an intangible asset",
+      "ms": "Bukan aset tak ketara"
+     },
+     "d": {
+      "en": "Check other standards (PPE, inventory, financial instrument).",
+      "ms": "Semak piawaian lain (PPE, inventori, instrumen kewangan)."
+     }
+    }
+   }
+  }
+ ]
+}

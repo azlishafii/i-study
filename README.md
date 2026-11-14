@@ -2,7 +2,7 @@
 
 App belajar (PWA) dwibahasa **BM + English** untuk pelbagai subjek: nota, kad ingatan (ulangan berjarak), kuiz MCQ, soalan esei, mod exam bermasa dan alat khas. Berfungsi **tanpa internet** selepas dibuka sekali. Tiada pelayan, tiada akaun; kemajuan disimpan dalam pelayar.
 
-Kandungan sedia ada: **FAR2** (Financial Reporting 2) Chapter 4 *Investment Property* dan Chapter 5 *Biological Assets*.
+Kandungan sedia ada: **FAR2** (Financial Reporting 2): Bab 1 *PPE*, Bab 3 *Intangible Assets*, Bab 4 *Investment Property*, Bab 5 *Biological Assets* dan Bab 7 *Leases*, serta pelan kursus 15 minggu dan pecahan penilaian.
 
 ## Hoskan di GitHub Pages
 
@@ -26,10 +26,11 @@ Letak fail JSON dalam `content/<id-subjek>/` dan daftarkan dalam `content/index.
 ```json
 { "subjects": [ { "id": "far2", "code": "FAR2",
     "name": { "en": "Financial Reporting 2", "ms": "Pelaporan Kewangan 2" },
-    "chapters": ["far2/ch4.json", "far2/ch5.json", "far2/ch6.json"] } ] }
+    "chapters": ["far2/ch1.json", "far2/ch3.json", "far2/ch4.json"],
+    "info": { "assessment": [], "plan": [] } } ] }
 ```
 
-Kemudian naikkan nombor `CACHE` dalam `sw.js` (cth `istudy-v2`) supaya peranti ambil versi baru. Format penuh: [docs/CONTENT-FORMAT.md](docs/CONTENT-FORMAT.md).
+Kemudian naikkan nombor `CACHE` dalam `sw.js` (cth `istudy-v4`) supaya peranti ambil versi baru. Format penuh: [docs/CONTENT-FORMAT.md](docs/CONTENT-FORMAT.md).
 
 ## Jalankan setempat
 

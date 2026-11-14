@@ -1,0 +1,1923 @@
+{
+ "subject": {
+  "id": "far2",
+  "code": "FAR2",
+  "name": {
+   "en": "Financial Reporting 2",
+   "ms": "Pelaporan Kewangan 2"
+  }
+ },
+ "id": "ch7",
+ "num": 7,
+ "title": {
+  "en": "Leases",
+  "ms": "Pajakan"
+ },
+ "standard": "MFRS 16",
+ "outcomes": {
+  "en": [
+   "Define and identify leases",
+   "Conduct initial measurement for leases from the perspective of lessee and lessor",
+   "Conduct subsequent measurement for leases from the perspective of lessee and lessor",
+   "Identify the circumstances for derecognition of leases and the accounting treatment",
+   "Discuss the disclosure requirements for lease variations",
+   "Analyze, critically evaluate and interpret issues in accounting for leases"
+  ],
+  "ms": [
+   "Takrif dan kenal pasti pajakan",
+   "Lakukan pengukuran awal pajakan dari perspektif lessee dan lessor",
+   "Lakukan pengukuran selepas pengiktirafan pajakan dari perspektif lessee dan lessor",
+   "Kenal pasti keadaan nyahpengiktirafan pajakan dan layanan perakaunan",
+   "Bincangkan keperluan pendedahan variasi pajakan",
+   "Analisis, nilai secara kritikal dan tafsir isu perakaunan pajakan"
+  ]
+ },
+ "sections": [
+  {
+   "id": "intro",
+   "icon": "📜",
+   "title": {
+    "en": "Introduction to Leases & MFRS 16",
+    "ms": "Pengenalan Pajakan & MFRS 16"
+   },
+   "ref": "Slides 4–5",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "From **1 January 2019**, **MFRS 16 Leases** applies. It equals **IFRS 16** and **replaces MFRS 117** (used since 2012).",
+      "It covers recognition, measurement, presentation and disclosure of leases in the books of the **lessor** and the **lessee**.",
+      "**Main change:** a **single lessee accounting model**: the lessee may need to recognise almost all leases on the balance sheet.",
+      "Lessor accounting remains **largely the same**."
+     ],
+     "ms": [
+      "Mulai **1 Januari 2019**, **MFRS 16 Leases** terpakai. Ia sama dengan **IFRS 16** dan **menggantikan MFRS 117** (digunakan sejak 2012).",
+      "Ia meliputi pengiktirafan, pengukuran, pembentangan dan pendedahan pajakan dalam rekod **pemberi pajak (lessor)** dan **pemajak (lessee)**.",
+      "**Perubahan utama:** **model perakaunan lessee tunggal**: lessee mungkin perlu mengiktiraf hampir semua pajakan dalam kunci kira-kira.",
+      "Perakaunan lessor **hampir sama**."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: LESSOR = owner who lets (Lets out). LESSEE = user who rents (Rents).",
+     "ms": "Cara ingat: LESSOR = pemilik yang memajakkan. LESSEE = pengguna yang menyewa."
+    }
+   ]
+  },
+  {
+   "id": "why",
+   "icon": "🚚",
+   "title": {
+    "en": "Why Lease? Industries",
+    "ms": "Kenapa Pajak? Industri"
+   },
+   "ref": "Slides 6–7",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Party",
+       "Advantages"
+      ],
+      "ms": [
+       "Pihak",
+       "Kelebihan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Lessor",
+        "Periodic receipts give interest revenue; retains ownership of the asset; boosts sales"
+       ],
+       "ms": [
+        "Lessor",
+        "Penerimaan berkala beri hasil faedah; mengekalkan pemilikan aset; meningkatkan jualan"
+       ]
+      },
+      {
+       "en": [
+        "Lessee",
+        "Flexibility in using assets; less costly financing"
+       ],
+       "ms": [
+        "Lessee",
+        "Fleksibiliti menggunakan aset; pembiayaan kurang mahal"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Information technology:** quickly adapt to technology changes.",
+      "**Transportation:** huge financial commitments; leasing is a good financing option.",
+      "**Construction and agriculture:** reduces the chance of assets sitting idle in some periods."
+     ],
+     "ms": [
+      "**Teknologi maklumat:** cepat menyesuaikan diri dengan perubahan teknologi.",
+      "**Pengangkutan:** komitmen kewangan besar; pajakan ialah pilihan pembiayaan yang baik.",
+      "**Pembinaan dan pertanian:** mengurangkan kemungkinan aset terbiar pada tempoh tertentu."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "types",
+   "icon": "🔀",
+   "title": {
+    "en": "Categories of Leases",
+    "ms": "Kategori Pajakan"
+   },
+   "ref": "Slides 8–9 · Example 7.1",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "",
+       "Finance lease",
+       "Operating lease"
+      ],
+      "ms": [
+       "",
+       "Pajakan kewangan",
+       "Pajakan operasi"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Definition",
+        "Transfers **substantially all risks and rewards** incidental to ownership to the lessee (title may or may not transfer)",
+        "A lease **other than a finance lease**: risks and rewards are **not** transferred"
+       ],
+       "ms": [
+        "Takrif",
+        "Memindahkan **hampir semua risiko dan ganjaran** pemilikan kepada lessee (hak milik mungkin atau tidak berpindah)",
+        "Pajakan **selain pajakan kewangan**: risiko dan ganjaran **tidak** dipindahkan"
+       ]
+      },
+      {
+       "en": [
+        "Who is owner?",
+        "Lessee = **beneficial owner**; lessor holds legal title (legal form)",
+        "Lessor = **legal AND beneficial owner**"
+       ],
+       "ms": [
+        "Siapa pemilik?",
+        "Lessee = **pemilik benefisial**; lessor pegang hak milik sah (bentuk undang-undang)",
+        "Lessor = **pemilik sah DAN benefisial**"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra (para 63 examples of a finance lease): ownership transfers at end of term; a bargain purchase option is reasonably certain; lease term is a major part of the asset's economic life; PV of lease payments is substantially all of fair value; the asset is so specialised that only the lessee can use it. These are indicators: use judgement (substance over form).",
+     "ms": "Tambahan (contoh pajakan kewangan para 63): pemilikan berpindah pada akhir tempoh; opsyen belian murah hampir pasti; tempoh pajakan ialah sebahagian besar hayat ekonomi aset; PV bayaran pajakan hampir keseluruhan nilai saksama; aset begitu khusus hingga hanya lessee boleh guna. Ini petunjuk: guna pertimbangan (substansi mengatasi bentuk)."
+    }
+   ]
+  },
+  {
+   "id": "lessee",
+   "icon": "🧑‍💼",
+   "title": {
+    "en": "Accounting by the Lessee",
+    "ms": "Perakaunan oleh Lessee"
+   },
+   "ref": "Slides 10–12 · Example 7.2",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Finance lease (as on the slides)",
+     "ms": "Pajakan kewangan (seperti dalam slide)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Initial recognition at the commencement date.**",
+      "Recognise the **leased asset according to its use** (e.g. PPE or intangible).",
+      "Recognise the **lease liability**.",
+      "**Subsequently:** periodic **lease instalment payments** and **depreciation/amortisation** (for assets with definite useful life)."
+     ],
+     "ms": [
+      "**Pengiktirafan awal pada tarikh permulaan.**",
+      "Iktiraf **aset pajakan mengikut kegunaannya** (cth PPE atau aset tak ketara).",
+      "Iktiraf **liabiliti pajakan**.",
+      "**Selepas itu:** **bayaran ansuran pajakan** berkala dan **susut nilai/pelunasan** (untuk aset hayat berguna terhad)."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Operating lease (as on the slides)",
+     "ms": "Pajakan operasi (seperti dalam slide)"
+    },
+    {
+     "k": "p",
+     "en": "Recognise lease payments **on a straight-line basis over the lease term**.",
+     "ms": "Iktiraf bayaran pajakan **secara garis lurus sepanjang tempoh pajakan**."
+    },
+    {
+     "k": "note",
+     "en": "IMPORTANT (MFRS 16 as actually issued, slides 5 and 23): the lessee uses a SINGLE model. Almost all leases are recognised as a right-of-use (ROU) asset and a lease liability. The straight-line expense treatment applies only to the exemptions: short-term leases (12 months or less) and low-value assets. The finance/operating split matters mainly to the LESSOR. Ask your lecturer which treatment your exam expects.",
+     "ms": "PENTING (MFRS 16 sebenar, slide 5 dan 23): lessee guna SATU model. Hampir semua pajakan diiktiraf sebagai aset hak guna (ROU) dan liabiliti pajakan. Layanan belanja garis lurus hanya untuk pengecualian: pajakan jangka pendek (12 bulan atau kurang) dan aset bernilai rendah. Pembahagian kewangan/operasi penting terutama kepada LESSOR. Tanya pensyarah layanan mana yang exam jangka."
+    }
+   ]
+  },
+  {
+   "id": "rou",
+   "icon": "🧮",
+   "title": {
+    "en": "Worked Example: ROU Asset & Lease Liability",
+    "ms": "Contoh Kerja: Aset ROU & Liabiliti Pajakan"
+   },
+   "ref": "Own numbers · MFRS 16 single lessee model",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "Numbers are invented for practice: the slides give no figures (the textbook examples 7.2–7.7 are class exercises).",
+     "ms": "Nombor direka untuk latihan: slide tiada angka (contoh buku teks 7.2–7.7 ialah latihan kelas)."
+    },
+    {
+     "k": "ex",
+     "en": "A lessee signs a 3-year lease starting 1 January 20x1. Annual payment RM10,000 at each year-end. Interest rate implicit in the lease 8%. Straight-line depreciation over the lease term, no residual value.",
+     "ms": "Lessee tandatangan pajakan 3 tahun bermula 1 Januari 20x1. Bayaran tahunan RM10,000 pada setiap hujung tahun. Kadar faedah tersirat 8%. Susut nilai garis lurus sepanjang tempoh pajakan, tiada nilai sisa."
+    },
+    {
+     "k": "calc",
+     "en": "PV = 10,000 × (1/1.08 + 1/1.08² + 1/1.08³) = 10,000 × 2.5771 = RM25,771.",
+     "ms": "PV = 10,000 × (1/1.08 + 1/1.08² + 1/1.08³) = 10,000 × 2.5771 = RM25,771."
+    },
+    {
+     "k": "je",
+     "title": "1 Jan 20x1: commencement",
+     "lines": [
+      [
+       "Dr",
+       "Right-of-use asset",
+       "25,771"
+      ],
+      [
+       "Cr",
+       "Lease liability",
+       "25,771"
+      ]
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Year",
+       "Opening liability",
+       "Interest 8%",
+       "Payment",
+       "Closing liability"
+      ],
+      "ms": [
+       "Tahun",
+       "Liabiliti awal",
+       "Faedah 8%",
+       "Bayaran",
+       "Liabiliti akhir"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "20x1",
+        "25,771",
+        "2,062",
+        "(10,000)",
+        "17,833"
+       ],
+       "ms": [
+        "20x1",
+        "25,771",
+        "2,062",
+        "(10,000)",
+        "17,833"
+       ]
+      },
+      {
+       "en": [
+        "20x2",
+        "17,833",
+        "1,427",
+        "(10,000)",
+        "9,260"
+       ],
+       "ms": [
+        "20x2",
+        "17,833",
+        "1,427",
+        "(10,000)",
+        "9,260"
+       ]
+      },
+      {
+       "en": [
+        "20x3",
+        "9,260",
+        "740",
+        "(10,000)",
+        "0"
+       ],
+       "ms": [
+        "20x3",
+        "9,260",
+        "740",
+        "(10,000)",
+        "0"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "je",
+     "title": "31 Dec 20x1: payment",
+     "lines": [
+      [
+       "Dr",
+       "Interest expense",
+       "2,062"
+      ],
+      [
+       "Dr",
+       "Lease liability",
+       "7,938"
+      ],
+      [
+       "Cr",
+       "Bank",
+       "10,000"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "31 Dec 20x1: depreciation (25,771 ÷ 3)",
+     "lines": [
+      [
+       "Dr",
+       "Depreciation expense",
+       "8,590"
+      ],
+      [
+       "Cr",
+       "Accumulated depreciation: ROU asset",
+       "8,590"
+      ]
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Year-3 interest (740) is the balancing figure so the liability ends at zero (rounding). Total interest = 3 × 10,000 − 25,771 = 4,229 (= 2,062 + 1,427 + 740). P/L in year 1 = interest 2,062 + depreciation 8,590 = 10,652 (front-loaded vs 10,000 under the old operating-lease expense).",
+     "ms": "Faedah tahun 3 (740) ialah angka pelaras supaya liabiliti berakhir sifar (pembundaran). Jumlah faedah = 3 × 10,000 − 25,771 = 4,229 (= 2,062 + 1,427 + 740). P/L tahun 1 = faedah 2,062 + susut nilai 8,590 = 10,652 (lebih awal berbanding 10,000 di bawah belanja pajakan operasi lama)."
+    }
+   ]
+  },
+  {
+   "id": "lessor",
+   "icon": "🏢",
+   "title": {
+    "en": "Accounting by the Lessor",
+    "ms": "Perakaunan oleh Lessor"
+   },
+   "ref": "Slides 13–15 · Example 7.3",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Finance lease",
+     "ms": "Pajakan kewangan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Initial recognition at the inception date.**",
+      "Recognise a **lease receivable** equal to the **net investment in the lease**.",
+      "**Subsequently:** periodic receipts include **principal receipt** and **finance income**."
+     ],
+     "ms": [
+      "**Pengiktirafan awal pada tarikh permulaan (inception).**",
+      "Iktiraf **belum terima pajakan** sama dengan **pelaburan bersih dalam pajakan**.",
+      "**Selepas itu:** penerimaan berkala termasuk **penerimaan prinsipal** dan **pendapatan kewangan**."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Operating lease",
+     "ms": "Pajakan operasi"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Lessor **continues to measure the leased asset** according to its nature (e.g. PPE).",
+      "**Costs of earning lease income** (e.g. depreciation) are expensed.",
+      "Recognise **lease income on a straight-line basis** over the lease term."
+     ],
+     "ms": [
+      "Lessor **terus mengukur aset pajakan** mengikut sifatnya (cth PPE).",
+      "**Kos memperoleh pendapatan pajakan** (cth susut nilai) dibelanjakan.",
+      "Iktiraf **pendapatan pajakan secara garis lurus** sepanjang tempoh pajakan."
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "",
+       "Lessor: finance lease",
+       "Lessor: operating lease"
+      ],
+      "ms": [
+       "",
+       "Lessor: pajakan kewangan",
+       "Lessor: pajakan operasi"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Leased asset",
+        "Derecognised; lease receivable recognised",
+        "Stays on lessor's books"
+       ],
+       "ms": [
+        "Aset pajakan",
+        "Dinyahiktiraf; belum terima pajakan diiktiraf",
+        "Kekal dalam rekod lessor"
+       ]
+      },
+      {
+       "en": [
+        "Income",
+        "Finance income (effective interest)",
+        "Rental income (straight-line)"
+       ],
+       "ms": [
+        "Pendapatan",
+        "Pendapatan kewangan (faedah efektif)",
+        "Pendapatan sewa (garis lurus)"
+       ]
+      },
+      {
+       "en": [
+        "Depreciation",
+        "None (asset gone)",
+        "Yes, by lessor"
+       ],
+       "ms": [
+        "Susut nilai",
+        "Tiada (aset sudah keluar)",
+        "Ya, oleh lessor"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "discl",
+   "icon": "📝",
+   "title": {
+    "en": "Disclosure Requirements",
+    "ms": "Keperluan Pendedahan"
+   },
+   "ref": "Slides 16–17 · Examples 7.4 & 7.5",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**General description** of the leasing arrangement: basis for determining rent, renewal or purchase options, restrictions.",
+      "**Details about minimum lease payments.**",
+      "**Finance leases:** reconciliation of **future minimum lease payments** and their **present value**, by the period when due.",
+      "**Operating leases:** **future minimum lease payments** under **non-cancellable** operating leases in aggregate and for each stated period."
+     ],
+     "ms": [
+      "**Penerangan am** pengaturan pajakan: asas menentukan sewa, opsyen pembaharuan atau pembelian, sekatan.",
+      "**Butiran bayaran pajakan minimum.**",
+      "**Pajakan kewangan:** penyesuaian **bayaran pajakan minimum masa depan** dan **nilai kini**nya, mengikut tempoh matang.",
+      "**Pajakan operasi:** **bayaran pajakan minimum masa depan** di bawah pajakan operasi **tidak boleh dibatalkan** secara agregat dan bagi setiap tempoh dinyatakan."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Wording follows MFRS 117. MFRS 16 requires a maturity analysis of lease liabilities, ROU asset and depreciation disclosures, and interest expense (extra).",
+     "ms": "Susunan kata ikut MFRS 117. MFRS 16 mewajibkan analisis kematangan liabiliti pajakan, pendedahan aset ROU dan susut nilai, dan belanja faedah (tambahan)."
+    }
+   ]
+  },
+  {
+   "id": "land",
+   "icon": "🏞️",
+   "title": {
+    "en": "Land and Building Leases",
+    "ms": "Pajakan Tanah dan Bangunan"
+   },
+   "ref": "Slides 18–19",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Classify land and building separately.**",
+      "The **building** is a finance or operating lease by the usual tests.",
+      "**Land** (indefinite economic life) is normally an **operating lease**, unless **title passes** to the lessee at the end of the term.",
+      "If lease payments **cannot be allocated reliably** between land and building, treat **both** as a finance or operating lease."
+     ],
+     "ms": [
+      "**Klasifikasi tanah dan bangunan secara berasingan.**",
+      "**Bangunan** ialah pajakan kewangan atau operasi mengikut ujian biasa.",
+      "**Tanah** (hayat ekonomi tidak terhad) biasanya **pajakan operasi**, kecuali **hak milik berpindah** kepada lessee pada akhir tempoh.",
+      "Jika bayaran pajakan **tidak boleh diagihkan dengan pasti** antara tanah dan bangunan, layan **kedua-duanya** sebagai pajakan kewangan atau operasi."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dealer",
+   "icon": "🏭",
+   "title": {
+    "en": "Manufacturer or Dealer Lessor",
+    "ms": "Lessor Pengilang atau Peniaga"
+   },
+   "ref": "Slide 20 · Example 7.6",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "A manufacturer or dealer lessor in a finance lease recognises **a sale** plus **finance income**:",
+     "ms": "Lessor pengilang atau peniaga dalam pajakan kewangan mengiktiraf **jualan** serta **pendapatan kewangan**:"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Amount"
+      ],
+      "ms": [
+       "Item",
+       "Amaun"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Sale price",
+        "Lower of fair value and PV of minimum lease payments"
+       ],
+       "ms": [
+        "Harga jualan",
+        "Lebih rendah antara nilai saksama dan PV bayaran pajakan minimum"
+       ]
+      },
+      {
+       "en": [
+        "Cost of sales",
+        "Cost − PV of unguaranteed residual value"
+       ],
+       "ms": [
+        "Kos jualan",
+        "Kos − PV nilai sisa tidak dijamin"
+       ]
+      },
+      {
+       "en": [
+        "Gross profit/loss",
+        "Sale price − cost of sales"
+       ],
+       "ms": [
+        "Untung/rugi kasar",
+        "Harga jualan − kos jualan"
+       ]
+      },
+      {
+       "en": [
+        "Lease receivable",
+        "PV of minimum lease payments"
+       ],
+       "ms": [
+        "Belum terima pajakan",
+        "PV bayaran pajakan minimum"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers): fair value RM100,000; PV of minimum lease payments RM95,000; asset cost RM80,000; PV of unguaranteed residual value RM5,000.",
+     "ms": "Latihan (nombor sendiri): nilai saksama RM100,000; PV bayaran pajakan minimum RM95,000; kos aset RM80,000; PV nilai sisa tidak dijamin RM5,000."
+    },
+    {
+     "k": "calc",
+     "en": "Sale price = lower of 100,000 and 95,000 = 95,000. Cost of sales = 80,000 − 5,000 = 75,000. Gross profit = 20,000. Lease receivable = 95,000.",
+     "ms": "Harga jualan = lebih rendah antara 100,000 dan 95,000 = 95,000. Kos jualan = 80,000 − 5,000 = 75,000. Untung kasar = 20,000. Belum terima pajakan = 95,000."
+    }
+   ]
+  },
+  {
+   "id": "slb",
+   "icon": "🔄",
+   "title": {
+    "en": "Sale and Leaseback",
+    "ms": "Jual dan Pajak Balik"
+   },
+   "ref": "Slide 21 · Example 7.7",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "",
+       "Leaseback is a finance lease",
+       "Leaseback is an operating lease"
+      ],
+      "ms": [
+       "",
+       "Pajak balik ialah pajakan kewangan",
+       "Pajak balik ialah pajakan operasi"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Lessee (seller)",
+        "Record sale proceeds; write off carrying amount; recognise deferred profit/loss. Recognise lease asset and lease liability. Recognise interest expense and principal payment, depreciation, and amortisation of deferred profit/loss.",
+        "Step 1: compare FV with carrying amount (CA); if FV < CA, write the asset down to FV. Step 2: compare selling price (SP) and FV; gain or loss is recognised immediately or deferred and amortised. Recognise rental expense over the lease term."
+       ],
+       "ms": [
+        "Lessee (penjual)",
+        "Rekod hasil jualan; hapus kira amaun dibawa; iktiraf untung/rugi tertunda. Iktiraf aset pajakan dan liabiliti pajakan. Iktiraf belanja faedah dan bayaran prinsipal, susut nilai, dan pelunasan untung/rugi tertunda.",
+        "Langkah 1: banding FV dengan amaun dibawa (CA); jika FV < CA, tulis turun aset kepada FV. Langkah 2: banding harga jualan (SP) dan FV; untung atau rugi diiktiraf serta-merta atau ditangguh dan dilunaskan. Iktiraf belanja sewa sepanjang tempoh pajakan."
+       ]
+      },
+      {
+       "en": [
+        "Lessor (buyer)",
+        "Record payment for purchase (and asset). Recognise lease receivable. Recognise interest income and principal receipt.",
+        "Recognise the asset at fair value. Recognise lease rental income over the lease term. Recognise depreciation."
+       ],
+       "ms": [
+        "Lessor (pembeli)",
+        "Rekod bayaran belian (dan aset). Iktiraf belum terima pajakan. Iktiraf pendapatan faedah dan penerimaan prinsipal.",
+        "Iktiraf aset pada nilai saksama. Iktiraf pendapatan sewa pajakan sepanjang tempoh pajakan. Iktiraf susut nilai."
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "This table is the textbook (MFRS 117-style) treatment. Under IFRS 16 / MFRS 16, the sale must satisfy MFRS 15 as a sale; otherwise the transfer is a financing (slide 24).",
+     "ms": "Jadual ini layanan buku teks (gaya MFRS 117). Di bawah IFRS 16 / MFRS 16, jualan mesti memenuhi MFRS 15 sebagai jualan; jika tidak, pemindahan ialah pembiayaan (slide 24)."
+    }
+   ]
+  },
+  {
+   "id": "issues",
+   "icon": "💬",
+   "title": {
+    "en": "Issues in Accounting for Leases",
+    "ms": "Isu Perakaunan Pajakan"
+   },
+   "ref": "Slides 22–24 (Case Studies 1–2)",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Substance over form",
+     "ms": "Substansi mengatasi bentuk"
+    },
+    {
+     "k": "p",
+     "en": "Lease accounting applies **substance over form**: the economic substance is whether the **risks and rewards of ownership** are transferred to the lessee or remain with the lessor.",
+     "ms": "Perakaunan pajakan guna **substansi mengatasi bentuk**: substansi ekonomi ialah sama ada **risiko dan ganjaran pemilikan** dipindahkan kepada lessee atau kekal dengan lessor."
+    },
+    {
+     "k": "h",
+     "en": "IFRS 16 / MFRS 16",
+     "ms": "IFRS 16 / MFRS 16"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Addresses **off-balance-sheet financing**.",
+      "**Single lessee model** based on the **right-of-use** model.",
+      "Effect: lessee recognises **all leases as finance-type leases**, except **short-term** and **low-value** leases.",
+      "Need to distinguish a **lease contract from a service contract**.",
+      "Right-of-use model applies also to **subleases**.",
+      "**Sale and leaseback:** the sale must meet the requirements of the revenue standard (IFRS 15 / MFRS 15)."
+     ],
+     "ms": [
+      "Menangani **pembiayaan luar kunci kira-kira**.",
+      "**Model lessee tunggal** berasaskan model **hak guna (right-of-use)**.",
+      "Kesan: lessee mengiktiraf **semua pajakan sebagai jenis kewangan**, kecuali pajakan **jangka pendek** dan **bernilai rendah**.",
+      "Perlu membezakan **kontrak pajakan daripada kontrak perkhidmatan**.",
+      "Model hak guna terpakai juga untuk **sub-pajakan**.",
+      "**Jual dan pajak balik:** jualan mesti memenuhi keperluan piawaian hasil (IFRS 15 / MFRS 15)."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Why it matters: before IFRS 16, operating leases kept debt off the balance sheet, so gearing looked lower than reality.",
+     "ms": "Kenapa penting: sebelum IFRS 16, pajakan operasi mengekalkan hutang di luar kunci kira-kira, jadi nisbah hutang nampak lebih rendah daripada realiti."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "intro",
+   "q": {
+    "en": "When did MFRS 16 start and what did it replace?",
+    "ms": "Bila MFRS 16 bermula dan apa digantikan?"
+   },
+   "a": {
+    "en": "1 January 2019; replaces MFRS 117 Leases (equivalent to IFRS 16).",
+    "ms": "1 Januari 2019; menggantikan MFRS 117 Leases (sama dengan IFRS 16)."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "intro",
+   "q": {
+    "en": "Main change under MFRS 16",
+    "ms": "Perubahan utama MFRS 16"
+   },
+   "a": {
+    "en": "Single lessee accounting model: lessee recognises almost all leases on the balance sheet. Lessor accounting is largely unchanged.",
+    "ms": "Model perakaunan lessee tunggal: lessee mengiktiraf hampir semua pajakan dalam kunci kira-kira. Perakaunan lessor hampir tidak berubah."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "why",
+   "q": {
+    "en": "Advantages of leasing for the lessee",
+    "ms": "Kelebihan pajakan untuk lessee"
+   },
+   "a": {
+    "en": "Flexibility in using assets; less costly financing.",
+    "ms": "Fleksibiliti menggunakan aset; pembiayaan kurang mahal."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "why",
+   "q": {
+    "en": "Advantages of leasing for the lessor",
+    "ms": "Kelebihan pajakan untuk lessor"
+   },
+   "a": {
+    "en": "Interest revenue from periodic receipts; retains ownership; boosts sales.",
+    "ms": "Hasil faedah daripada penerimaan berkala; kekal pemilik; tingkatkan jualan."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "types",
+   "q": {
+    "en": "Define a finance lease",
+    "ms": "Takrifkan pajakan kewangan"
+   },
+   "a": {
+    "en": "Transfers substantially all risks and rewards incidental to ownership to the lessee (title may or may not transfer).",
+    "ms": "Memindahkan hampir semua risiko dan ganjaran pemilikan kepada lessee (hak milik mungkin atau tidak berpindah)."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "types",
+   "q": {
+    "en": "Define an operating lease",
+    "ms": "Takrifkan pajakan operasi"
+   },
+   "a": {
+    "en": "Any lease other than a finance lease: risks and rewards are not transferred; lessor is legal and beneficial owner.",
+    "ms": "Mana-mana pajakan selain pajakan kewangan: risiko dan ganjaran tidak dipindahkan; lessor pemilik sah dan benefisial."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "types",
+   "q": {
+    "en": "Finance lease: who is the beneficial owner?",
+    "ms": "Pajakan kewangan: siapa pemilik benefisial?"
+   },
+   "a": {
+    "en": "The lessee, even though legal title is with the lessor.",
+    "ms": "Lessee, walaupun hak milik sah di tangan lessor."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "lessee",
+   "q": {
+    "en": "Lessee finance lease: initial recognition",
+    "ms": "Pajakan kewangan lessee: pengiktirafan awal"
+   },
+   "a": {
+    "en": "At the commencement date: recognise the leased asset (by its use) and the lease liability.",
+    "ms": "Pada tarikh permulaan: iktiraf aset pajakan (mengikut kegunaan) dan liabiliti pajakan."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "lessee",
+   "q": {
+    "en": "Lessee finance lease: subsequent",
+    "ms": "Pajakan kewangan lessee: selepas pengiktirafan"
+   },
+   "a": {
+    "en": "Lease instalment payments (interest + principal) and depreciation/amortisation.",
+    "ms": "Bayaran ansuran pajakan (faedah + prinsipal) dan susut nilai/pelunasan."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "lessee",
+   "q": {
+    "en": "Lessee operating lease (slide version)",
+    "ms": "Pajakan operasi lessee (versi slide)"
+   },
+   "a": {
+    "en": "Recognise lease payments straight-line over the lease term.",
+    "ms": "Iktiraf bayaran pajakan garis lurus sepanjang tempoh pajakan."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "lessee",
+   "q": {
+    "en": "MFRS 16 lessee exemptions",
+    "ms": "Pengecualian lessee MFRS 16"
+   },
+   "a": {
+    "en": "Short-term leases (12 months or less) and low-value assets: expense on a straight-line basis.",
+    "ms": "Pajakan jangka pendek (12 bulan atau kurang) dan aset bernilai rendah: belanja garis lurus."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "rou",
+   "q": {
+    "en": "Initial journal under the MFRS 16 lessee model",
+    "ms": "Jurnal awal model lessee MFRS 16"
+   },
+   "a": {
+    "en": "Dr Right-of-use asset; Cr Lease liability (PV of lease payments).",
+    "ms": "Dr Aset hak guna; Cr Liabiliti pajakan (PV bayaran pajakan)."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "rou",
+   "q": {
+    "en": "Lease liability instalment journal",
+    "ms": "Jurnal ansuran liabiliti pajakan"
+   },
+   "a": {
+    "en": "Dr Interest expense; Dr Lease liability (principal); Cr Bank.",
+    "ms": "Dr Belanja faedah; Dr Liabiliti pajakan (prinsipal); Cr Bank."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "rou",
+   "q": {
+    "en": "Interest on a lease liability",
+    "ms": "Faedah atas liabiliti pajakan"
+   },
+   "a": {
+    "en": "Opening liability × interest rate (e.g. 25,771 × 8% = 2,062).",
+    "ms": "Liabiliti awal × kadar faedah (cth 25,771 × 8% = 2,062)."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "lessor",
+   "q": {
+    "en": "Lessor finance lease: initial recognition",
+    "ms": "Pajakan kewangan lessor: pengiktirafan awal"
+   },
+   "a": {
+    "en": "At inception: lease receivable = net investment in the lease.",
+    "ms": "Pada permulaan: belum terima pajakan = pelaburan bersih dalam pajakan."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "lessor",
+   "q": {
+    "en": "Lessor finance lease: receipts",
+    "ms": "Pajakan kewangan lessor: penerimaan"
+   },
+   "a": {
+    "en": "Each receipt = principal receipt + finance income.",
+    "ms": "Setiap penerimaan = penerimaan prinsipal + pendapatan kewangan."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "lessor",
+   "q": {
+    "en": "Lessor operating lease",
+    "ms": "Pajakan operasi lessor"
+   },
+   "a": {
+    "en": "Keep the asset and depreciate it; recognise lease income straight-line over the term.",
+    "ms": "Kekalkan aset dan susutnilaikannya; iktiraf pendapatan pajakan garis lurus sepanjang tempoh."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "discl",
+   "q": {
+    "en": "Disclosure for finance leases",
+    "ms": "Pendedahan pajakan kewangan"
+   },
+   "a": {
+    "en": "Reconciliation of future minimum lease payments to present value, by due period.",
+    "ms": "Penyesuaian bayaran pajakan minimum masa depan kepada nilai kini, mengikut tempoh matang."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "discl",
+   "q": {
+    "en": "Disclosure for operating leases",
+    "ms": "Pendedahan pajakan operasi"
+   },
+   "a": {
+    "en": "Future minimum payments under non-cancellable operating leases, in aggregate and by period.",
+    "ms": "Bayaran minimum masa depan di bawah pajakan operasi tidak boleh dibatalkan, secara agregat dan mengikut tempoh."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "land",
+   "q": {
+    "en": "Land and building leases",
+    "ms": "Pajakan tanah dan bangunan"
+   },
+   "a": {
+    "en": "Classify separately: building as finance/operating; land normally operating unless title passes. If payments cannot be allocated, treat both together.",
+    "ms": "Klasifikasi berasingan: bangunan kewangan/operasi; tanah biasanya operasi kecuali hak milik berpindah. Jika bayaran tidak boleh diagih, layan kedua-duanya bersama."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "dealer",
+   "q": {
+    "en": "Dealer lessor: sale price",
+    "ms": "Lessor peniaga: harga jualan"
+   },
+   "a": {
+    "en": "Lower of fair value and PV of minimum lease payments.",
+    "ms": "Lebih rendah antara nilai saksama dan PV bayaran pajakan minimum."
+   }
+  },
+  {
+   "id": "c22",
+   "t": "dealer",
+   "q": {
+    "en": "Dealer lessor: cost of sales",
+    "ms": "Lessor peniaga: kos jualan"
+   },
+   "a": {
+    "en": "Cost − PV of unguaranteed residual value.",
+    "ms": "Kos − PV nilai sisa tidak dijamin."
+   }
+  },
+  {
+   "id": "c23",
+   "t": "slb",
+   "q": {
+    "en": "Sale and leaseback (operating): step 1",
+    "ms": "Jual dan pajak balik (operasi): langkah 1"
+   },
+   "a": {
+    "en": "Compare FV with carrying amount; if FV < CA, write the asset down to FV.",
+    "ms": "Banding FV dengan amaun dibawa; jika FV < CA, tulis turun aset kepada FV."
+   }
+  },
+  {
+   "id": "c24",
+   "t": "slb",
+   "q": {
+    "en": "Sale and leaseback (operating): step 2",
+    "ms": "Jual dan pajak balik (operasi): langkah 2"
+   },
+   "a": {
+    "en": "Compare selling price with FV; gain/loss recognised immediately or deferred and amortised.",
+    "ms": "Banding harga jualan dengan FV; untung/rugi diiktiraf serta-merta atau ditangguh dan dilunaskan."
+   }
+  },
+  {
+   "id": "c25",
+   "t": "issues",
+   "q": {
+    "en": "Substance over form in leases",
+    "ms": "Substansi mengatasi bentuk dalam pajakan"
+   },
+   "a": {
+    "en": "Classify by whether risks and rewards of ownership transfer, not by legal title.",
+    "ms": "Klasifikasi ikut sama ada risiko dan ganjaran pemilikan berpindah, bukan hak milik sah."
+   }
+  },
+  {
+   "id": "c26",
+   "t": "issues",
+   "q": {
+    "en": "Why was IFRS 16 introduced?",
+    "ms": "Kenapa IFRS 16 diperkenalkan?"
+   },
+   "a": {
+    "en": "To address off-balance-sheet financing through a single right-of-use lessee model.",
+    "ms": "Untuk menangani pembiayaan luar kunci kira-kira melalui model lessee hak guna tunggal."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "intro",
+   "q": {
+    "en": "MFRS 16 Leases became applicable on:",
+    "ms": "MFRS 16 Leases mula terpakai pada:"
+   },
+   "o": [
+    "1 January 2019",
+    "1 January 2012",
+    "1 January 2017",
+    "1 January 2021"
+   ],
+   "a": 0,
+   "e": {
+    "en": "MFRS 16 applies from 1 January 2019, replacing MFRS 117.",
+    "ms": "MFRS 16 terpakai dari 1 Januari 2019, menggantikan MFRS 117."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "intro",
+   "q": {
+    "en": "The main change MFRS 16 introduced is:",
+    "ms": "Perubahan utama yang diperkenalkan MFRS 16:"
+   },
+   "o": [
+    "Abolition of lessor accounting",
+    "A single lessee accounting model",
+    "A new lessor model",
+    "Removal of disclosure"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Single lessee model; lessor accounting is largely unchanged.",
+    "ms": "Model lessee tunggal; perakaunan lessor hampir tidak berubah."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "why",
+   "q": {
+    "en": "Which is an advantage of leasing to the lessee?",
+    "ms": "Yang manakah kelebihan pajakan kepada lessee?"
+   },
+   "o": [
+    "Retains ownership of the asset",
+    "Interest revenue",
+    "Flexibility in using assets",
+    "Boost to sales"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Lessee: flexibility and less costly financing.",
+    "ms": "Lessee: fleksibiliti dan pembiayaan kurang mahal."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "types",
+   "q": {
+    "en": "A finance lease is one that:",
+    "ms": "Pajakan kewangan ialah yang:"
+   },
+   "o": [
+    "Always transfers legal title",
+    "Is cancellable at any time",
+    "Lasts exactly 12 months",
+    "Transfers substantially all risks and rewards of ownership to the lessee"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Substance: risks and rewards transfer; title may or may not transfer.",
+    "ms": "Substansi: risiko dan ganjaran berpindah; hak milik mungkin atau tidak."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "types",
+   "q": {
+    "en": "In an operating lease the beneficial owner is:",
+    "ms": "Dalam pajakan operasi pemilik benefisial ialah:"
+   },
+   "o": [
+    "The lessor",
+    "The lessee",
+    "The bank",
+    "The government"
+   ],
+   "a": 0,
+   "e": {
+    "en": "The lessor is both legal and beneficial owner.",
+    "ms": "Lessor ialah pemilik sah dan benefisial."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "types",
+   "q": {
+    "en": "Which is an indicator of a finance lease?",
+    "ms": "Yang manakah petunjuk pajakan kewangan?"
+   },
+   "o": [
+    "Lease term is a small part of the asset's economic life",
+    "Ownership transfers to the lessee at the end of the lease",
+    "PV of payments is a small part of fair value",
+    "The lessor keeps all risks"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Ownership transfer at lease end is a classic indicator.",
+    "ms": "Pemindahan pemilikan pada akhir pajakan ialah petunjuk klasik."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "lessee",
+   "q": {
+    "en": "Under the slides' lessee finance-lease model, at the commencement date the lessee recognises:",
+    "ms": "Di bawah model pajakan kewangan lessee dalam slide, pada tarikh permulaan lessee mengiktiraf:"
+   },
+   "o": [
+    "Only rent expense",
+    "Only a lease receivable",
+    "The leased asset and the lease liability",
+    "Nothing"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Asset (by its use) and lease liability.",
+    "ms": "Aset (mengikut kegunaan) dan liabiliti pajakan."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "lessee",
+   "q": {
+    "en": "Subsequently, under a finance lease the lessee recognises:",
+    "ms": "Selepas itu, di bawah pajakan kewangan lessee mengiktiraf:"
+   },
+   "o": [
+    "Rental income",
+    "Only interest income",
+    "Only rent expense",
+    "Lease payments (interest + principal) and depreciation"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Instalments split into interest and principal, plus depreciation.",
+    "ms": "Ansuran dipecah kepada faedah dan prinsipal, serta susut nilai."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "lessee",
+   "q": {
+    "en": "Under MFRS 16, which leases may a lessee treat as a straight-line expense?",
+    "ms": "Di bawah MFRS 16, pajakan mana lessee boleh layan sebagai belanja garis lurus?"
+   },
+   "o": [
+    "Short-term leases and low-value assets",
+    "All operating leases",
+    "Leases of land",
+    "Leases longer than 5 years"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Only the two exemptions: short-term (12 months or less) and low-value.",
+    "ms": "Hanya dua pengecualian: jangka pendek (12 bulan atau kurang) dan bernilai rendah."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "rou",
+   "q": {
+    "en": "A 3-year lease has annual payments of RM10,000 at year-end, and the implicit rate is 8% (annuity factor 2.5771). The initial lease liability is:",
+    "ms": "Pajakan 3 tahun bayaran tahunan RM10,000 pada hujung tahun, kadar tersirat 8% (faktor anuiti 2.5771). Liabiliti pajakan awal:"
+   },
+   "o": [
+    "RM30,000",
+    "RM25,771",
+    "RM24,000",
+    "RM21,000"
+   ],
+   "a": 1,
+   "e": {
+    "en": "10,000 × 2.5771 = 25,771.",
+    "ms": "10,000 × 2.5771 = 25,771."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "rou",
+   "q": {
+    "en": "First-year interest on that lease liability (RM25,771 at 8%) is:",
+    "ms": "Faedah tahun pertama liabiliti pajakan itu (RM25,771 pada 8%) ialah:"
+   },
+   "o": [
+    "RM1,427",
+    "RM2,577",
+    "RM2,062",
+    "RM10,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "25,771 × 8% = 2,062.",
+    "ms": "25,771 × 8% = 2,062."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "rou",
+   "q": {
+    "en": "Same lease. Year-1 payment RM10,000 with interest RM2,062 reduces the liability by:",
+    "ms": "Pajakan sama. Bayaran tahun 1 RM10,000 dengan faedah RM2,062 mengurangkan liabiliti sebanyak:"
+   },
+   "o": [
+    "RM10,000",
+    "RM2,062",
+    "RM12,062",
+    "RM7,938"
+   ],
+   "a": 3,
+   "e": {
+    "en": "10,000 − 2,062 = 7,938 principal; closing liability 17,833.",
+    "ms": "10,000 − 2,062 = 7,938 prinsipal; liabiliti akhir 17,833."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "rou",
+   "q": {
+    "en": "Same lease: straight-line depreciation of the right-of-use asset (RM25,771 over 3 years) per year is:",
+    "ms": "Pajakan sama: susut nilai garis lurus aset hak guna (RM25,771 sepanjang 3 tahun) setahun:"
+   },
+   "o": [
+    "RM8,590",
+    "RM10,000",
+    "RM2,062",
+    "RM7,938"
+   ],
+   "a": 0,
+   "e": {
+    "en": "25,771 ÷ 3 = 8,590.",
+    "ms": "25,771 ÷ 3 = 8,590."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "lessor",
+   "q": {
+    "en": "In a finance lease the lessor recognises at inception:",
+    "ms": "Dalam pajakan kewangan lessor mengiktiraf pada permulaan:"
+   },
+   "o": [
+    "Depreciation expense",
+    "Lease receivable equal to the net investment in the lease",
+    "Rental income",
+    "A liability"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Lease receivable = net investment in the lease.",
+    "ms": "Belum terima pajakan = pelaburan bersih dalam pajakan."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "lessor",
+   "q": {
+    "en": "Each periodic receipt in a lessor's finance lease includes:",
+    "ms": "Setiap penerimaan berkala dalam pajakan kewangan lessor termasuk:"
+   },
+   "o": [
+    "Rental income only",
+    "Depreciation only",
+    "Principal receipt and finance income",
+    "Interest expense"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Principal receipt + finance income.",
+    "ms": "Penerimaan prinsipal + pendapatan kewangan."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "lessor",
+   "q": {
+    "en": "In an operating lease the lessor:",
+    "ms": "Dalam pajakan operasi lessor:"
+   },
+   "o": [
+    "Derecognises the asset",
+    "Recognises finance income",
+    "Recognises a lease receivable",
+    "Continues to depreciate the asset and recognises income straight-line"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Asset stays; depreciation expensed; income straight-line.",
+    "ms": "Aset kekal; susut nilai dibelanjakan; pendapatan garis lurus."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "discl",
+   "q": {
+    "en": "For finance leases the lessee must disclose a reconciliation of:",
+    "ms": "Bagi pajakan kewangan lessee mesti dedah penyesuaian:"
+   },
+   "o": [
+    "Future minimum lease payments to their present value",
+    "Revenue to profit",
+    "Cost to fair value",
+    "Tax to profit"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Reconciliation of future minimum lease payments and present value.",
+    "ms": "Penyesuaian bayaran pajakan minimum masa depan dan nilai kini."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "discl",
+   "q": {
+    "en": "For operating leases, disclose future minimum lease payments under:",
+    "ms": "Bagi pajakan operasi, dedah bayaran pajakan minimum masa depan di bawah:"
+   },
+   "o": [
+    "Cancellable leases",
+    "Non-cancellable operating leases",
+    "All leases",
+    "Finance leases"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Non-cancellable operating leases.",
+    "ms": "Pajakan operasi tidak boleh dibatalkan."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "land",
+   "q": {
+    "en": "In a lease of land and a building, the land is normally:",
+    "ms": "Dalam pajakan tanah dan bangunan, tanah biasanya:"
+   },
+   "o": [
+    "A finance lease",
+    "Not leased",
+    "An operating lease (unless title passes)",
+    "A sale"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Land has an indefinite life: normally operating unless title passes.",
+    "ms": "Tanah hayat tidak terhad: biasanya operasi kecuali hak milik berpindah."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "land",
+   "q": {
+    "en": "If lease payments cannot be reliably allocated between land and building:",
+    "ms": "Jika bayaran pajakan tidak boleh diagih dengan pasti antara tanah dan bangunan:"
+   },
+   "o": [
+    "Treat as a sale",
+    "Ignore the land",
+    "Expense all payments",
+    "Treat both as a finance or operating lease"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Treat both together as a finance or operating lease.",
+    "ms": "Layan kedua-duanya bersama sebagai pajakan kewangan atau operasi."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "dealer",
+   "q": {
+    "en": "A dealer lessor: fair value RM100,000; PV of minimum lease payments RM95,000. The sale price recognised is:",
+    "ms": "Lessor peniaga: nilai saksama RM100,000; PV bayaran pajakan minimum RM95,000. Harga jualan diiktiraf:"
+   },
+   "o": [
+    "RM95,000",
+    "RM100,000",
+    "RM5,000",
+    "RM195,000"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Lower of FV and PV of MLP = 95,000.",
+    "ms": "Lebih rendah antara FV dan PV MLP = 95,000."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "dealer",
+   "q": {
+    "en": "Same dealer: cost RM80,000; PV of unguaranteed residual value RM5,000. Gross profit is:",
+    "ms": "Peniaga sama: kos RM80,000; PV nilai sisa tidak dijamin RM5,000. Untung kasar:"
+   },
+   "o": [
+    "RM15,000",
+    "RM20,000",
+    "RM25,000",
+    "RM5,000"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Cost of sales 80,000 − 5,000 = 75,000; 95,000 − 75,000 = 20,000.",
+    "ms": "Kos jualan 80,000 − 5,000 = 75,000; 95,000 − 75,000 = 20,000."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "slb",
+   "q": {
+    "en": "In a sale and leaseback treated as an operating lease (textbook), step 1 compares:",
+    "ms": "Dalam jual dan pajak balik dilayan sebagai pajakan operasi (buku teks), langkah 1 membandingkan:"
+   },
+   "o": [
+    "Rent with interest",
+    "Selling price with cost",
+    "Fair value with carrying amount",
+    "Tax with profit"
+   ],
+   "a": 2,
+   "e": {
+    "en": "If FV < CA, write the asset down to FV.",
+    "ms": "Jika FV < CA, tulis turun aset kepada FV."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "slb",
+   "q": {
+    "en": "Under IFRS 16, a sale and leaseback requires that the sale:",
+    "ms": "Di bawah IFRS 16, jual dan pajak balik memerlukan jualan itu:"
+   },
+   "o": [
+    "Is at cost",
+    "Is to a related party",
+    "Is cancellable",
+    "Meets the revenue standard (IFRS 15) as a sale"
+   ],
+   "a": 3,
+   "e": {
+    "en": "The transfer must qualify as a sale under IFRS 15.",
+    "ms": "Pemindahan mesti layak sebagai jualan di bawah IFRS 15."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "issues",
+   "q": {
+    "en": "Lease classification is an example of the principle of:",
+    "ms": "Pengelasan pajakan ialah contoh prinsip:"
+   },
+   "o": [
+    "Substance over form",
+    "Materiality",
+    "Going concern",
+    "Accruals"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Risks and rewards, not legal title.",
+    "ms": "Risiko dan ganjaran, bukan hak milik sah."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "issues",
+   "q": {
+    "en": "IFRS 16 was introduced mainly to address:",
+    "ms": "IFRS 16 diperkenalkan terutamanya untuk menangani:"
+   },
+   "o": [
+    "Tax avoidance",
+    "Off-balance-sheet financing",
+    "Revenue recognition",
+    "Inventory valuation"
+   ],
+   "a": 1,
+   "e": {
+    "en": "It brings leases onto the lessee's balance sheet.",
+    "ms": "Ia membawa pajakan ke dalam kunci kira-kira lessee."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "types",
+   "marks": 6,
+   "q": {
+    "en": "Distinguish between a finance lease and an operating lease, and explain why classification relies on substance over form.",
+    "ms": "Bezakan pajakan kewangan dan pajakan operasi, dan terangkan kenapa pengelasan bergantung pada substansi mengatasi bentuk."
+   },
+   "pts": {
+    "en": [
+     "Finance lease: transfers substantially all risks and rewards to the lessee (1)",
+     "Title may or may not transfer; lessee is beneficial owner (1)",
+     "Operating lease: any other lease; risks and rewards stay with the lessor (1)",
+     "Lessor is legal and beneficial owner in an operating lease (1)",
+     "Substance over form: economic reality (risks and rewards) over legal title (2)"
+    ],
+    "ms": [
+     "Pajakan kewangan: memindahkan hampir semua risiko dan ganjaran kepada lessee (1)",
+     "Hak milik mungkin atau tidak berpindah; lessee pemilik benefisial (1)",
+     "Pajakan operasi: pajakan lain; risiko dan ganjaran kekal dengan lessor (1)",
+     "Lessor pemilik sah dan benefisial dalam pajakan operasi (1)",
+     "Substansi mengatasi bentuk: realiti ekonomi (risiko dan ganjaran) mengatasi hak milik sah (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "rou",
+   "marks": 9,
+   "q": {
+    "en": "A lessee signs a 3-year lease with annual payments of RM20,000 at each year-end. The implicit rate is 10% (PV of the three payments is RM49,737). Under the MFRS 16 lessee model, show the initial journal, the year-1 payment journal, and year-1 depreciation (straight-line, no residual).",
+    "ms": "Lessee tandatangan pajakan 3 tahun dengan bayaran tahunan RM20,000 pada setiap hujung tahun. Kadar tersirat 10% (PV tiga bayaran ialah RM49,737). Di bawah model lessee MFRS 16, tunjukkan jurnal awal, jurnal bayaran tahun 1, dan susut nilai tahun 1 (garis lurus, tiada nilai sisa)."
+   },
+   "pts": {
+    "en": [
+     "Dr Right-of-use asset 49,737; Cr Lease liability 49,737 (2)",
+     "Year-1 interest = 49,737 × 10% = 4,974 (2)",
+     "Principal = 20,000 − 4,974 = 15,026 (1)",
+     "Dr Interest expense 4,974; Dr Lease liability 15,026; Cr Bank 20,000 (2)",
+     "Depreciation = 49,737 ÷ 3 = 16,579 (1)",
+     "Dr Depreciation expense 16,579; Cr Accumulated depreciation 16,579 (1)"
+    ],
+    "ms": [
+     "Dr Aset hak guna 49,737; Cr Liabiliti pajakan 49,737 (2)",
+     "Faedah tahun 1 = 49,737 × 10% = 4,974 (2)",
+     "Prinsipal = 20,000 − 4,974 = 15,026 (1)",
+     "Dr Belanja faedah 4,974; Dr Liabiliti pajakan 15,026; Cr Bank 20,000 (2)",
+     "Susut nilai = 49,737 ÷ 3 = 16,579 (1)",
+     "Dr Belanja susut nilai 16,579; Cr Susut nilai terkumpul 16,579 (1)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "lessor",
+   "marks": 6,
+   "q": {
+    "en": "Explain how a lessor accounts for a finance lease and an operating lease.",
+    "ms": "Terangkan bagaimana lessor mengakaunkan pajakan kewangan dan pajakan operasi."
+   },
+   "pts": {
+    "en": [
+     "Finance lease: recognise lease receivable = net investment at inception (2)",
+     "Receipts = principal receipt + finance income (1)",
+     "Operating lease: keep and measure the asset by its nature (1)",
+     "Expense costs of earning income e.g. depreciation (1)",
+     "Lease income straight-line over the lease term (1)"
+    ],
+    "ms": [
+     "Pajakan kewangan: iktiraf belum terima pajakan = pelaburan bersih pada permulaan (2)",
+     "Penerimaan = penerimaan prinsipal + pendapatan kewangan (1)",
+     "Pajakan operasi: kekalkan dan ukur aset mengikut sifatnya (1)",
+     "Belanjakan kos memperoleh pendapatan cth susut nilai (1)",
+     "Pendapatan pajakan garis lurus sepanjang tempoh pajakan (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "dealer",
+   "marks": 6,
+   "q": {
+    "en": "A dealer sells equipment under a finance lease. Fair value RM200,000; PV of minimum lease payments RM190,000; cost RM160,000; PV of unguaranteed residual value RM10,000. Compute sale price, cost of sales, gross profit and the lease receivable.",
+    "ms": "Peniaga menjual peralatan di bawah pajakan kewangan. Nilai saksama RM200,000; PV bayaran pajakan minimum RM190,000; kos RM160,000; PV nilai sisa tidak dijamin RM10,000. Kira harga jualan, kos jualan, untung kasar dan belum terima pajakan."
+   },
+   "pts": {
+    "en": [
+     "Sale price = lower of FV 200,000 and PV MLP 190,000 = 190,000 (2)",
+     "Cost of sales = 160,000 − 10,000 = 150,000 (2)",
+     "Gross profit = 190,000 − 150,000 = 40,000 (1)",
+     "Lease receivable = PV of MLP = 190,000 (1)"
+    ],
+    "ms": [
+     "Harga jualan = lebih rendah antara FV 200,000 dan PV MLP 190,000 = 190,000 (2)",
+     "Kos jualan = 160,000 − 10,000 = 150,000 (2)",
+     "Untung kasar = 190,000 − 150,000 = 40,000 (1)",
+     "Belum terima pajakan = PV MLP = 190,000 (1)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "issues",
+   "marks": 7,
+   "q": {
+    "en": "Discuss how IFRS 16 / MFRS 16 changes lease accounting and the issues it addresses.",
+    "ms": "Bincangkan bagaimana IFRS 16 / MFRS 16 mengubah perakaunan pajakan dan isu yang ditanganinya."
+   },
+   "pts": {
+    "en": [
+     "Addresses off-balance-sheet financing (1)",
+     "Single lessee model based on right-of-use (2)",
+     "Lessee recognises all leases except short-term and low-value (2)",
+     "Must distinguish lease from service contract; subleases (1)",
+     "Sale and leaseback must meet the revenue standard (1)"
+    ],
+    "ms": [
+     "Menangani pembiayaan luar kunci kira-kira (1)",
+     "Model lessee tunggal berasaskan hak guna (2)",
+     "Lessee mengiktiraf semua pajakan kecuali jangka pendek dan bernilai rendah (2)",
+     "Mesti bezakan pajakan daripada kontrak perkhidmatan; sub-pajakan (1)",
+     "Jual dan pajak balik mesti memenuhi piawaian hasil (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Lease",
+   "Pajakan"
+  ],
+  [
+   "Lessor",
+   "Pemberi pajak (lessor)"
+  ],
+  [
+   "Lessee",
+   "Pemajak (lessee)"
+  ],
+  [
+   "Finance lease",
+   "Pajakan kewangan"
+  ],
+  [
+   "Operating lease",
+   "Pajakan operasi"
+  ],
+  [
+   "Risks and rewards of ownership",
+   "Risiko dan ganjaran pemilikan"
+  ],
+  [
+   "Legal title",
+   "Hak milik sah"
+  ],
+  [
+   "Beneficial owner",
+   "Pemilik benefisial"
+  ],
+  [
+   "Commencement date",
+   "Tarikh permulaan"
+  ],
+  [
+   "Inception date",
+   "Tarikh inception (awal pajakan)"
+  ],
+  [
+   "Lease term",
+   "Tempoh pajakan"
+  ],
+  [
+   "Lease liability",
+   "Liabiliti pajakan"
+  ],
+  [
+   "Right-of-use asset",
+   "Aset hak guna"
+  ],
+  [
+   "Lease instalment",
+   "Ansuran pajakan"
+  ],
+  [
+   "Implicit interest rate",
+   "Kadar faedah tersirat"
+  ],
+  [
+   "Present value",
+   "Nilai kini"
+  ],
+  [
+   "Net investment in the lease",
+   "Pelaburan bersih dalam pajakan"
+  ],
+  [
+   "Lease receivable",
+   "Belum terima pajakan"
+  ],
+  [
+   "Finance income",
+   "Pendapatan kewangan"
+  ],
+  [
+   "Minimum lease payments",
+   "Bayaran pajakan minimum"
+  ],
+  [
+   "Unguaranteed residual value",
+   "Nilai sisa tidak dijamin"
+  ],
+  [
+   "Non-cancellable",
+   "Tidak boleh dibatalkan"
+  ],
+  [
+   "Short-term lease",
+   "Pajakan jangka pendek"
+  ],
+  [
+   "Low-value asset",
+   "Aset bernilai rendah"
+  ],
+  [
+   "Manufacturer/dealer lessor",
+   "Lessor pengilang/peniaga"
+  ],
+  [
+   "Sale and leaseback",
+   "Jual dan pajak balik"
+  ],
+  [
+   "Sublease",
+   "Sub-pajakan"
+  ],
+  [
+   "Off-balance-sheet financing",
+   "Pembiayaan luar kunci kira-kira"
+  ],
+  [
+   "Substance over form",
+   "Substansi mengatasi bentuk"
+  ],
+  [
+   "Disclosure",
+   "Pendedahan"
+  ]
+ ],
+ "flows": [
+  {
+   "id": "class",
+   "icon": "🧭",
+   "title": {
+    "en": "Finance or operating lease?",
+    "ms": "Pajakan kewangan atau operasi?"
+   },
+   "sub": {
+    "en": "Classification indicators",
+    "ms": "Petunjuk pengelasan"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Does ownership transfer to the lessee by the end of the lease term?",
+      "ms": "Adakah pemilikan berpindah kepada lessee menjelang akhir tempoh pajakan?"
+     },
+     "y": "rFin",
+     "n": "n2"
+    },
+    "n2": {
+     "q": {
+      "en": "Is a bargain purchase option reasonably certain to be exercised?",
+      "ms": "Adakah opsyen belian murah hampir pasti dilaksanakan?"
+     },
+     "y": "rFin",
+     "n": "n3"
+    },
+    "n3": {
+     "q": {
+      "en": "Does the lease term cover a major part of the asset's economic life?",
+      "ms": "Adakah tempoh pajakan meliputi sebahagian besar hayat ekonomi aset?"
+     },
+     "y": "rFin",
+     "n": "n4"
+    },
+    "n4": {
+     "q": {
+      "en": "Is the PV of lease payments substantially all of the asset's fair value?",
+      "ms": "Adakah PV bayaran pajakan hampir keseluruhan nilai saksama aset?"
+     },
+     "y": "rFin",
+     "n": "n5"
+    },
+    "n5": {
+     "q": {
+      "en": "Is the asset so specialised that only the lessee can use it without major modification?",
+      "ms": "Adakah aset begitu khusus hingga hanya lessee boleh guna tanpa ubah suai besar?"
+     },
+     "y": "rFin",
+     "n": "rOp"
+    }
+   },
+   "results": {
+    "rFin": {
+     "c": "good",
+     "t": {
+      "en": "Finance lease (substantially all risks and rewards transfer)",
+      "ms": "Pajakan kewangan (hampir semua risiko dan ganjaran berpindah)"
+     },
+     "d": {
+      "en": "Lessor: derecognise asset, lease receivable. Lessee: asset + liability.",
+      "ms": "Lessor: nyahiktiraf aset, belum terima pajakan. Lessee: aset + liabiliti."
+     }
+    },
+    "rOp": {
+     "c": "warn",
+     "t": {
+      "en": "Operating lease",
+      "ms": "Pajakan operasi"
+     },
+     "d": {
+      "en": "Lessor keeps the asset and recognises straight-line rental income.",
+      "ms": "Lessor kekalkan aset dan iktiraf pendapatan sewa garis lurus."
+     }
+    }
+   }
+  },
+  {
+   "id": "lessee",
+   "icon": "🧑‍💼",
+   "title": {
+    "en": "Lessee: ROU asset or expense?",
+    "ms": "Lessee: aset ROU atau belanja?"
+   },
+   "sub": {
+    "en": "MFRS 16 exemptions",
+    "ms": "Pengecualian MFRS 16"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is the lease term 12 months or less (with no purchase option)?",
+      "ms": "Adakah tempoh pajakan 12 bulan atau kurang (tanpa opsyen belian)?"
+     },
+     "y": "rExp",
+     "n": "n2"
+    },
+    "n2": {
+     "q": {
+      "en": "Is the underlying asset of low value (e.g. a tablet or small office equipment)?",
+      "ms": "Adakah aset asas bernilai rendah (cth tablet atau peralatan pejabat kecil)?"
+     },
+     "y": "rExp",
+     "n": "rROU"
+    }
+   },
+   "results": {
+    "rROU": {
+     "c": "good",
+     "t": {
+      "en": "Recognise a right-of-use asset and a lease liability",
+      "ms": "Iktiraf aset hak guna dan liabiliti pajakan"
+     },
+     "d": {
+      "en": "Depreciate the ROU asset; unwind interest on the liability.",
+      "ms": "Susutnilaikan aset ROU; iktiraf faedah atas liabiliti."
+     }
+    },
+    "rExp": {
+     "c": "info",
+     "t": {
+      "en": "Optional exemption: expense straight-line",
+      "ms": "Pengecualian pilihan: belanja garis lurus"
+     },
+     "d": {
+      "en": "Recognise lease payments as an expense over the lease term.",
+      "ms": "Iktiraf bayaran pajakan sebagai belanja sepanjang tempoh pajakan."
+     }
+    }
+   }
+  }
+ ]
+}

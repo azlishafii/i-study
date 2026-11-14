@@ -1,0 +1,2012 @@
+{
+ "subject": {
+  "id": "far2",
+  "code": "FAR2",
+  "name": {
+   "en": "Financial Reporting 2",
+   "ms": "Pelaporan Kewangan 2"
+  }
+ },
+ "id": "ch1",
+ "num": 1,
+ "title": {
+  "en": "Property, Plant and Equipment",
+  "ms": "Hartanah, Loji dan Peralatan"
+ },
+ "standard": "MFRS 116",
+ "outcomes": {
+  "en": [
+   "Identify PPE for specific industries based on the standard and the conceptual framework",
+   "Discuss why an item is classified as PPE",
+   "Analyze when an item shall not be classified as PPE and find the more applicable standard",
+   "Ascertain initial and subsequent measurement for PPE",
+   "Ascertain the derecognition of PPE",
+   "Explain the disclosure requirements for PPE",
+   "Synthesize the provisions and requirements for PPE and apply them in full case analysis"
+  ],
+  "ms": [
+   "Kenal pasti PPE untuk industri tertentu berdasarkan piawaian dan kerangka konseptual",
+   "Bincangkan mengapa sesuatu item diklasifikasi sebagai PPE",
+   "Analisis bila item tidak patut diklasifikasi sebagai PPE dan cari piawaian yang lebih sesuai",
+   "Pastikan pengukuran awal dan selepas pengiktirafan PPE",
+   "Pastikan nyahpengiktirafan PPE",
+   "Terangkan keperluan pendedahan PPE",
+   "Sintesis peruntukan dan keperluan PPE dan aplikasikan dalam analisis kes penuh"
+  ]
+ },
+ "sections": [
+  {
+   "id": "intro",
+   "icon": "🏗️",
+   "title": {
+    "en": "Introduction & Definition of PPE",
+    "ms": "Pengenalan & Definisi PPE"
+   },
+   "ref": "MFRS 116 para 6",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "**Property, Plant and Equipment (PPE)** is an important non-monetary asset. It lets an entity run its business efficiently, add value, improve future cash flows and reduce business risk.",
+     "ms": "**Property, Plant and Equipment (PPE)** ialah aset bukan kewangan yang penting. Ia membolehkan entiti menjalankan perniagaan dengan cekap, menambah nilai, memperbaiki aliran tunai masa depan dan mengurangkan risiko."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "PPE are **tangible** assets.",
+      "**Held for use** in the production or supply of goods/services, for **rental** to others, or for **administrative** purposes.",
+      "Expected to be used for **more than one period**."
+     ],
+     "ms": [
+      "PPE ialah aset **ketara** (ada fizikal).",
+      "**Dipegang untuk digunakan** dalam pengeluaran atau bekalan barang/perkhidmatan, untuk **disewakan**, atau untuk tujuan **pentadbiran**.",
+      "Dijangka digunakan untuk **lebih daripada satu tempoh**."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: PPE = Tangible + Use (not for sale) + More than 1 year.",
+     "ms": "Cara ingat: PPE = Ketara + Guna sendiri (bukan untuk jual) + Lebih setahun."
+    }
+   ],
+   "big": {
+    "en": "PPE = tangible assets held for use (production, supply, rental, administration) for more than one period.",
+    "ms": "PPE = aset ketara yang dipegang untuk digunakan (pengeluaran, bekalan, sewa, pentadbiran) lebih daripada satu tempoh."
+   }
+  },
+  {
+   "id": "scope",
+   "icon": "🚫",
+   "title": {
+    "en": "Scope: What MFRS 116 Does Not Cover",
+    "ms": "Skop: Apa yang Bukan MFRS 116"
+   },
+   "ref": "MFRS 116 para 2–5",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "MFRS 116 does **not** cover assets dealt with in other specific standards:",
+     "ms": "MFRS 116 **tidak** meliputi aset yang diuruskan oleh piawaian khusus lain:"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Goes to"
+      ],
+      "ms": [
+       "Item",
+       "Pergi ke"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "PPE held for sale",
+        "MFRS 5 Non-Current Assets Held for Sale and Discontinued Operations"
+       ],
+       "ms": [
+        "PPE dipegang untuk dijual",
+        "MFRS 5 Non-Current Assets Held for Sale and Discontinued Operations"
+       ]
+      },
+      {
+       "en": [
+        "Biological assets",
+        "MFRS 141 Agriculture"
+       ],
+       "ms": [
+        "Aset biologi",
+        "MFRS 141 Agriculture"
+       ]
+      },
+      {
+       "en": [
+        "Exploration and evaluation assets",
+        "MFRS 6"
+       ],
+       "ms": [
+        "Aset penerokaan dan penilaian",
+        "MFRS 6"
+       ]
+      },
+      {
+       "en": [
+        "Mineral rights and reserves (oil, natural gas)",
+        "Specific mineral standards (not MFRS 116)"
+       ],
+       "ms": [
+        "Hak dan rizab mineral (minyak, gas asli)",
+        "Piawaian khusus mineral (bukan MFRS 116)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra: property held to earn rentals/capital appreciation = investment property (MFRS 140, Chapter 4). Bearer plants (e.g. oil palm trees) ARE in MFRS 116 (Chapter 5).",
+     "ms": "Tambahan: hartanah dipegang untuk sewa/peningkatan modal = hartanah pelaburan (MFRS 140, Bab 4). Bearer plants (cth pokok sawit) ADA dalam MFRS 116 (Bab 5)."
+    }
+   ]
+  },
+  {
+   "id": "recog",
+   "icon": "✅",
+   "title": {
+    "en": "Initial Recognition",
+    "ms": "Pengiktirafan Awal"
+   },
+   "ref": "MFRS 116 para 7",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Besides meeting the PPE definition (para 6), the general recognition criteria must be satisfied:",
+     "ms": "Selain memenuhi definisi PPE (para 6), kriteria pengiktirafan am mesti dipenuhi:"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "The entity **expects to obtain economic benefits** from using the asset; AND",
+      "The **cost can be measured reliably**."
+     ],
+     "ms": [
+      "Entiti **menjangka mendapat manfaat ekonomi** daripada penggunaan aset; DAN",
+      "**Kos boleh diukur dengan pasti**."
+     ]
+    },
+    {
+     "k": "p",
+     "en": "**Unit of measure:** follows the entity's specific circumstances; **judgement is needed** (e.g. recognise small items such as tools as one aggregate).",
+     "ms": "**Unit pengukuran:** ikut keadaan khusus entiti; **pertimbangan (judgement) diperlukan** (cth iktiraf item kecil seperti alatan sebagai satu agregat)."
+    }
+   ]
+  },
+  {
+   "id": "cost",
+   "icon": "🧾",
+   "title": {
+    "en": "Initial Measurement: Cost",
+    "ms": "Pengukuran Awal: Kos"
+   },
+   "ref": "MFRS 116 para 15–22",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "PPE is initially measured at **cost**. For a purchased asset, cost = purchase price + all costs directly attributable to bringing it to the location and condition for its intended use.",
+     "ms": "PPE diukur pada **kos** semasa pengiktirafan awal. Untuk aset yang dibeli, kos = harga belian + semua kos yang boleh dikaitkan terus untuk membawa aset ke lokasi dan keadaan yang diperlukan."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Include: purchase price, import duties and non-refundable taxes, delivery, installation, site preparation, professional fees.",
+      "Deduct: trade discounts and rebates.",
+      "Exclude: general administration overheads, start-up/training costs, abnormal waste."
+     ],
+     "ms": [
+      "Masuk: harga belian, duti import dan cukai tidak boleh dituntut balik, penghantaran, pemasangan, penyediaan tapak, yuran profesional.",
+      "Tolak: diskaun perdagangan dan rebat.",
+      "Kecualikan: overhed pentadbiran am, kos permulaan/latihan, pembaziran luar biasa."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The list above is the standard rule (extra, not spelled out in the slides). Slides cover self-constructed assets, borrowing costs and exchanges below.",
+     "ms": "Senarai di atas ialah peraturan piawaian (tambahan, tidak dihuraikan dalam slide). Slide meliputi aset bina sendiri, kos pinjaman dan pertukaran di bawah."
+    },
+    {
+     "k": "h",
+     "en": "Self-constructed assets",
+     "ms": "Aset bina sendiri"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Cost = materials, labour, contractor costs and related technical overheads.",
+      "**Exclude internal profits/savings** (e.g. only RM48,000 of RM50,000 materials were used).",
+      "**Deduct inefficiencies** (e.g. abnormal wastage or lost labour from a strike/disease)."
+     ],
+     "ms": [
+      "Kos = bahan, buruh, kos kontraktor dan overhed teknikal berkaitan.",
+      "**Kecualikan keuntungan/penjimatan dalaman** (cth hanya RM48,000 daripada bahan RM50,000 digunakan).",
+      "**Tolak ketidakcekapan** (cth pembaziran luar biasa atau buruh hilang kerana mogok/penyakit)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "selfc",
+   "icon": "🧪",
+   "title": {
+    "en": "Example 1.5: Self-constructed Asset",
+    "ms": "Contoh 1.5: Aset Bina Sendiri"
+   },
+   "ref": "Slides 7–9 (textbook Example 1.5)",
+   "blocks": [
+    {
+     "k": "ex",
+     "en": "A storage company built a small building. Costs: contractors RM300,000; direct materials and labour RM50,000; technical overheads RM12,000; general admin overheads RM8,000; interest on construction financing RM3,000 (total RM373,000). The company bought RM50,000 of materials but only RM48,000 was used; a disease disrupted foreign labour costing a further RM15,000. Determine the cost to capitalise.",
+     "ms": "Syarikat penyimpanan membina sebuah bangunan kecil. Kos: kontraktor RM300,000; bahan dan buruh langsung RM50,000; overhed teknikal RM12,000; overhed pentadbiran am RM8,000; faedah pembiayaan pembinaan RM3,000 (jumlah RM373,000). Syarikat beli bahan RM50,000 tetapi hanya RM48,000 digunakan; penyakit mengganggu buruh asing dengan kos tambahan RM15,000. Tentukan kos untuk dikapitalkan."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "",
+       "RM"
+      ],
+      "ms": [
+       "",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Contractors' costs",
+        "300,000"
+       ],
+       "ms": [
+        "Kos kontraktor",
+        "300,000"
+       ]
+      },
+      {
+       "en": [
+        "Direct materials and labour",
+        "50,000"
+       ],
+       "ms": [
+        "Bahan dan buruh langsung",
+        "50,000"
+       ]
+      },
+      {
+       "en": [
+        "Less: internal profit (50,000 − 48,000)",
+        "(2,000)"
+       ],
+       "ms": [
+        "Tolak: keuntungan dalaman (50,000 − 48,000)",
+        "(2,000)"
+       ]
+      },
+      {
+       "en": [
+        "Less: labour inefficiencies",
+        "(15,000)"
+       ],
+       "ms": [
+        "Tolak: ketidakcekapan buruh",
+        "(15,000)"
+       ]
+      },
+      {
+       "en": [
+        "Technical overheads",
+        "12,000"
+       ],
+       "ms": [
+        "Overhed teknikal",
+        "12,000"
+       ]
+      },
+      {
+       "en": [
+        "Interest on financing the construction",
+        "3,000"
+       ],
+       "ms": [
+        "Faedah pembiayaan pembinaan",
+        "3,000"
+       ]
+      },
+      {
+       "en": [
+        "Cost of the building",
+        "348,000"
+       ],
+       "ms": [
+        "Kos bangunan",
+        "348,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "300,000 + (50,000 − 2,000 − 15,000) + 12,000 + 3,000 = RM348,000. General admin overheads (RM8,000) are not capitalised.",
+     "ms": "300,000 + (50,000 − 2,000 − 15,000) + 12,000 + 3,000 = RM348,000. Overhed pentadbiran am (RM8,000) tidak dikapitalkan."
+    },
+    {
+     "k": "tip",
+     "en": "Exam trap: the RM8,000 admin overhead does not appear in the solution table: it is simply left out.",
+     "ms": "Perangkap exam: overhed admin RM8,000 tidak muncul dalam jadual jawapan: ia hanya ditinggalkan."
+    }
+   ]
+  },
+  {
+   "id": "borrow",
+   "icon": "🏦",
+   "title": {
+    "en": "Capitalisation of Borrowing Costs",
+    "ms": "Pengkapitalan Kos Pinjaman"
+   },
+   "ref": "MFRS 123 · Example 1.6",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Borrowing costs **directly attributable** to acquiring, constructing or producing a **qualifying asset** are **capitalised** as part of its cost.",
+      "The capitalisation rate (for general borrowings: the weighted average rate) **must not make capitalised interest exceed actual interest incurred**.",
+      "Purpose: do not overstate assets or understate liabilities (prudence)."
+     ],
+     "ms": [
+      "Kos pinjaman yang **boleh dikaitkan terus** dengan perolehan, pembinaan atau pengeluaran **aset layak** **dikapitalkan** sebagai sebahagian kos aset.",
+      "Kadar pengkapitalan (untuk pinjaman am: kadar purata wajaran) **tidak boleh menyebabkan faedah dikapitalkan melebihi faedah sebenar**.",
+      "Tujuan: jangan lebihkan aset atau kurangkan liabiliti (berhemat)."
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Precious Metal built manufacturing equipment for its own use from 2 Jan 2018, completed 30 Jun 2019. It borrowed RM1,000,000 at 10% on 1 Jan 2016 to finance the project. Payments to contractors: 2 Jan 2018 RM150,000; 30 Apr 2018 RM600,000; 1 Sep 2018 RM300,000; 28 Feb 2019 RM360,000; 30 Apr 2019 RM150,000. Other debt: RM1,000,000 9% notes; RM2,000,000 12% bonds. Year-end 31 December. Required: interest capitalised for 2018 and 2019.",
+     "ms": "Precious Metal membina peralatan pengilangan untuk guna sendiri dari 2 Jan 2018, siap 30 Jun 2019. Ia pinjam RM1,000,000 pada 10% pada 1 Jan 2016 untuk membiayai projek. Bayaran kepada kontraktor: 2 Jan 2018 RM150,000; 30 Apr 2018 RM600,000; 1 Sep 2018 RM300,000; 28 Feb 2019 RM360,000; 30 Apr 2019 RM150,000. Hutang lain: nota 9% RM1,000,000; bon 12% RM2,000,000. Tahun kewangan berakhir 31 Disember. Dikehendaki: faedah dikapitalkan bagi 2018 dan 2019."
+    },
+    {
+     "k": "h",
+     "en": "2018: weighted-average expenditure (from the slide)",
+     "ms": "2018: perbelanjaan purata wajaran (daripada slide)"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Date",
+       "Calculation",
+       "RM"
+      ],
+      "ms": [
+       "Tarikh",
+       "Pengiraan",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2 Jan 2018",
+        "150,000 × 12/12",
+        "150,000"
+       ],
+       "ms": [
+        "2 Jan 2018",
+        "150,000 × 12/12",
+        "150,000"
+       ]
+      },
+      {
+       "en": [
+        "30 Apr 2018",
+        "600,000 × 8/12",
+        "400,000"
+       ],
+       "ms": [
+        "30 Apr 2018",
+        "600,000 × 8/12",
+        "400,000"
+       ]
+      },
+      {
+       "en": [
+        "1 Sep 2018",
+        "300,000 × 4/12",
+        "100,000"
+       ],
+       "ms": [
+        "1 Sep 2018",
+        "300,000 × 4/12",
+        "100,000"
+       ]
+      },
+      {
+       "en": [
+        "Weighted-average expenditure 2018",
+        "",
+        "650,000"
+       ],
+       "ms": [
+        "Perbelanjaan purata wajaran 2018",
+        "",
+        "650,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "2018 interest capitalised = 650,000 × 10% (specific loan) = RM65,000. Dr PPE (construction in progress) 65,000; Cr Interest expense 65,000.",
+     "ms": "Faedah dikapitalkan 2018 = 650,000 × 10% (pinjaman khusus) = RM65,000. Dr PPE (kerja dalam pelaksanaan) 65,000; Cr Belanja faedah 65,000."
+    },
+    {
+     "k": "note",
+     "en": "The slide image cuts off before the answer; the RM65,000 is calculated here by the standard method (weighted average < specific loan, so use the specific rate). The 2019 part also uses accumulated 2018 expenditure and the general-borrowings rate (9% and 12% weighted = 11%): check the textbook solution.",
+     "ms": "Imej slide terpotong sebelum jawapan; RM65,000 dikira di sini dengan kaedah piawai (purata wajaran < pinjaman khusus, jadi guna kadar khusus). Bahagian 2019 juga guna perbelanjaan terkumpul 2018 dan kadar pinjaman am (9% dan 12% berwajaran = 11%): semak penyelesaian buku teks."
+    }
+   ]
+  },
+  {
+   "id": "exch",
+   "icon": "🔁",
+   "title": {
+    "en": "Exchange of Assets",
+    "ms": "Pertukaran Aset"
+   },
+   "ref": "MFRS 116 para 24–26 · Example 1.7",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Cost of an asset acquired in an exchange = **fair value of the asset given up**, unless the fair value of the asset received is clearly more evident.",
+      "**Judgement** is needed (e.g. whether the exchange has commercial substance)."
+     ],
+     "ms": [
+      "Kos aset yang diperoleh melalui pertukaran = **nilai saksama aset yang diserahkan**, kecuali nilai saksama aset yang diterima lebih jelas.",
+      "**Pertimbangan** diperlukan (cth sama ada pertukaran mempunyai substansi komersial)."
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Excellent Eyes trades in laser equipment (cost RM500,000, accumulated depreciation RM300,000, fair value RM250,000) for newer equipment and pays RM30,000 cash. (a) Does the exchange have commercial substance? (b) Cost of the new equipment? (c) Journal entry.",
+     "ms": "Excellent Eyes menukar peralatan laser (kos RM500,000, susut nilai terkumpul RM300,000, nilai saksama RM250,000) dengan peralatan lebih baharu dan bayar tunai RM30,000. (a) Adakah pertukaran ada substansi komersial? (b) Kos peralatan baharu? (c) Jurnal."
+    },
+    {
+     "k": "calc",
+     "en": "Book value given up = 500,000 − 300,000 = 200,000. Cost of new = FV given up 250,000 + cash 30,000 = RM280,000. Gain = 250,000 − 200,000 = RM50,000.",
+     "ms": "Nilai buku diserahkan = 500,000 − 300,000 = 200,000. Kos baharu = FV diserahkan 250,000 + tunai 30,000 = RM280,000. Untung = 250,000 − 200,000 = RM50,000."
+    },
+    {
+     "k": "je",
+     "title": "Journal entry (lecturer's working, slide 15)",
+     "lines": [
+      [
+       "Dr",
+       "New equipment",
+       "280,000"
+      ],
+      [
+       "Dr",
+       "Accumulated depreciation (old equipment)",
+       "300,000"
+      ],
+      [
+       "Cr",
+       "Bank",
+       "30,000"
+      ],
+      [
+       "Cr",
+       "Old equipment (cost)",
+       "500,000"
+      ],
+      [
+       "Cr",
+       "Gain on exchange (P/L)",
+       "50,000"
+      ]
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Check: Dr 580,000 = Cr 580,000. The gain is the FV of the old asset (250,000) over its book value (200,000).",
+     "ms": "Semak: Dr 580,000 = Cr 580,000. Untung ialah FV aset lama (250,000) melebihi nilai bukunya (200,000)."
+    },
+    {
+     "k": "note",
+     "en": "Extra: if the exchange lacks commercial substance, the new asset is measured at the carrying amount of the asset given up (no gain).",
+     "ms": "Tambahan: jika pertukaran tiada substansi komersial, aset baharu diukur pada amaun dibawa aset yang diserahkan (tiada untung)."
+    }
+   ]
+  },
+  {
+   "id": "depn",
+   "icon": "📉",
+   "title": {
+    "en": "Depreciation (Extra)",
+    "ms": "Susut Nilai (Tambahan)"
+   },
+   "ref": "MFRS 116 para 43–62 · not in slides",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "The slides mention depreciation but do not explain it. This is the standard rule; check the depth your lecturer expects.",
+     "ms": "Slide sebut susut nilai tetapi tidak menerangkannya. Ini peraturan piawai; semak kedalaman yang pensyarah jangka."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Depreciate **systematically over the useful life**; start when the asset is available for use.",
+      "Depreciate **each significant component** separately.",
+      "**Land** is normally not depreciated (unlimited life).",
+      "Review **residual value, useful life and method** at least at each financial year-end; a change is a **change in estimate** (applied prospectively, MFRS 108)."
+     ],
+     "ms": [
+      "Susut nilai **secara sistematik sepanjang hayat berguna**; mula apabila aset sedia digunakan.",
+      "Susut nilai **setiap komponen penting** secara berasingan.",
+      "**Tanah** biasanya tidak disusutnilai (hayat tidak terhad).",
+      "Semak **nilai sisa, hayat berguna dan kaedah** sekurang-kurangnya pada setiap hujung tahun kewangan; perubahan ialah **perubahan anggaran** (dilaksana secara prospektif, MFRS 108)."
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Straight-line: (Cost − Residual value) ÷ Useful life",
+     "ms": "Garis lurus: (Kos − Nilai sisa) ÷ Hayat berguna"
+    }
+   ]
+  },
+  {
+   "id": "costm",
+   "icon": "💰",
+   "title": {
+    "en": "Subsequent Measurement: Cost Model",
+    "ms": "Pengukuran Selepas: Model Kos"
+   },
+   "ref": "MFRS 116 para 30 · Example 1.8",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Carried at **cost less accumulated depreciation and accumulated impairment losses** (book value).",
+      "**Impairment loss** is recognised **immediately in profit or loss**, and the PPE carrying amount is reduced in the statement of financial position."
+     ],
+     "ms": [
+      "Dibawa pada **kos tolak susut nilai terkumpul dan kerugian rosot nilai terkumpul** (nilai buku).",
+      "**Kerugian rosot nilai** diiktiraf **serta-merta dalam untung atau rugi**, dan amaun dibawa PPE dikurangkan dalam penyata kedudukan kewangan."
+     ]
+    },
+    {
+     "k": "je",
+     "title": "Impairment",
+     "lines": [
+      [
+       "Dr",
+       "Impairment loss (P/L)",
+       "xxx"
+      ],
+      [
+       "Cr",
+       "Accumulated impairment loss",
+       "xxx"
+      ]
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide says impairment is when \"fair value less selling costs is more than its carrying value\". That wording is garbled. Correct rule (MFRS 136): impairment exists when the carrying amount EXCEEDS the recoverable amount (the higher of fair value less costs of disposal and value in use). Use this in the exam.",
+     "ms": "Slide kata rosot nilai ialah bila \"nilai saksama tolak kos jualan lebih daripada nilai dibawa\". Ayat itu tidak betul. Peraturan betul (MFRS 136): rosot nilai wujud bila amaun dibawa MELEBIHI amaun boleh pulih (yang lebih tinggi antara nilai saksama tolak kos pelupusan dan nilai guna). Guna ini dalam exam."
+    },
+    {
+     "k": "ex",
+     "en": "Example 1.8: Suave Manufacturing uses the cost model. A plant (original cost RM200,000, accumulated depreciation RM70,000) has an impairment loss of RM50,000. (a) Journal entry. (b) Carrying value after impairment.",
+     "ms": "Contoh 1.8: Suave Manufacturing guna model kos. Sebuah loji (kos asal RM200,000, susut nilai terkumpul RM70,000) ada kerugian rosot nilai RM50,000. (a) Jurnal. (b) Nilai dibawa selepas rosot nilai."
+    },
+    {
+     "k": "je",
+     "title": "(a) Impairment entry",
+     "lines": [
+      [
+       "Dr",
+       "Impairment loss (P/L)",
+       "50,000"
+      ],
+      [
+       "Cr",
+       "Accumulated impairment loss",
+       "50,000"
+      ]
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "(b) Carrying value",
+       "RM"
+      ],
+      "ms": [
+       "(b) Nilai dibawa",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Cost",
+        "200,000"
+       ],
+       "ms": [
+        "Kos",
+        "200,000"
+       ]
+      },
+      {
+       "en": [
+        "Less: accumulated depreciation",
+        "(70,000)"
+       ],
+       "ms": [
+        "Tolak: susut nilai terkumpul",
+        "(70,000)"
+       ]
+      },
+      {
+       "en": [
+        "Book value before impairment",
+        "130,000"
+       ],
+       "ms": [
+        "Nilai buku sebelum rosot nilai",
+        "130,000"
+       ]
+      },
+      {
+       "en": [
+        "Less: accumulated impairment loss",
+        "(50,000)"
+       ],
+       "ms": [
+        "Tolak: rosot nilai terkumpul",
+        "(50,000)"
+       ]
+      },
+      {
+       "en": [
+        "Carrying value",
+        "80,000"
+       ],
+       "ms": [
+        "Nilai dibawa",
+        "80,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "After impairment, depreciation is based on the new (lower) carrying amount over the remaining life (MFRS 136).",
+     "ms": "Selepas rosot nilai, susut nilai berdasarkan amaun dibawa baharu (lebih rendah) sepanjang baki hayat (MFRS 136)."
+    }
+   ]
+  },
+  {
+   "id": "reval",
+   "icon": "📈",
+   "title": {
+    "en": "Subsequent Measurement: Revaluation Model",
+    "ms": "Pengukuran Selepas: Model Penilaian Semula"
+   },
+   "ref": "MFRS 116 para 31–42 · Example 1.9",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Carried at **revalued amount** = **fair value** at revaluation date **less subsequent accumulated depreciation and impairment losses**.",
+      "Revalue **frequently enough** that carrying amount does not differ materially from fair value.",
+      "If one item is revalued, the **whole class** of PPE must be revalued.",
+      "**Upward** revaluation → gain in **other comprehensive income (OCI)** and **revaluation surplus** in equity.",
+      "**Downward** revaluation → loss in OCI, reducing the revaluation surplus."
+     ],
+     "ms": [
+      "Dibawa pada **amaun dinilai semula** = **nilai saksama** pada tarikh penilaian semula **tolak susut nilai dan rosot nilai terkumpul seterusnya**.",
+      "Nilai semula **cukup kerap** supaya amaun dibawa tidak jauh berbeza daripada nilai saksama.",
+      "Jika satu item dinilai semula, **keseluruhan kelas** PPE mesti dinilai semula.",
+      "Penilaian semula **ke atas** → untung dalam **pendapatan komprehensif lain (OCI)** dan **lebihan penilaian semula** dalam ekuiti.",
+      "Penilaian semula **ke bawah** → rugi dalam OCI, mengurangkan lebihan penilaian semula."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra (para 39–40): a downward revaluation is set against any existing surplus for that same asset first; the excess goes to profit or loss. A later upward revaluation first reverses a previous P/L loss, then goes to OCI.",
+     "ms": "Tambahan (para 39–40): penilaian semula ke bawah ditolak daripada lebihan sedia ada bagi aset yang sama dahulu; lebihan melebihi itu ke untung atau rugi. Penilaian semula ke atas kemudian membalikkan rugi P/L terdahulu dahulu, baki ke OCI."
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers): a building has cost RM500,000 and accumulated depreciation RM100,000 (carrying amount RM400,000). Fair value is RM450,000.",
+     "ms": "Latihan (nombor sendiri): sebuah bangunan kos RM500,000 dan susut nilai terkumpul RM100,000 (amaun dibawa RM400,000). Nilai saksama RM450,000."
+    },
+    {
+     "k": "calc",
+     "en": "Revaluation surplus = 450,000 − 400,000 = RM50,000 (OCI). Dr Building 50,000; Cr Revaluation surplus (OCI) 50,000.",
+     "ms": "Lebihan penilaian semula = 450,000 − 400,000 = RM50,000 (OCI). Dr Bangunan 50,000; Cr Lebihan penilaian semula (OCI) 50,000."
+    },
+    {
+     "k": "tip",
+     "en": "Lecturer's sketch (slide 30): in the SFP equity section you see Share capital, Revaluation reserve (RR) and Retained earnings. The RR is a separate equity line.",
+     "ms": "Lakaran pensyarah (slide 30): dalam bahagian ekuiti SFP ada Modal saham, Rizab penilaian semula (RR) dan Pendapatan tertahan. RR ialah baris ekuiti berasingan."
+    }
+   ]
+  },
+  {
+   "id": "derec",
+   "icon": "🗑️",
+   "title": {
+    "en": "Derecognition",
+    "ms": "Nyahpengiktirafan"
+   },
+   "ref": "MFRS 116 para 67–72",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Derecognise PPE when it is **disposed of**, or when **no future economic benefits** are expected from its use or disposal.",
+      "Disposal examples: **sale**, **sale and leaseback**, entering a **finance lease as lessor**, or **donation**.",
+      "**Revaluation surplus** of the disposed asset is **transferred to retained earnings**.",
+      "A fully depreciated asset still in use stays in the books at its carrying amount (and is disclosed)."
+     ],
+     "ms": [
+      "Nyahiktiraf PPE bila ia **dilupuskan**, atau bila **tiada manfaat ekonomi masa depan** dijangka daripada penggunaan atau pelupusannya.",
+      "Contoh pelupusan: **jualan**, **jual dan pajak balik**, membuat **pajakan kewangan sebagai pemberi pajak**, atau **derma**.",
+      "**Lebihan penilaian semula** aset yang dilupuskan **dipindahkan ke pendapatan tertahan**.",
+      "Aset yang sudah habis disusutnilai tetapi masih digunakan kekal dalam rekod pada amaun dibawa (dan didedahkan)."
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Gain/loss on disposal (extra) = Net disposal proceeds − Carrying amount → profit or loss.",
+     "ms": "Untung/rugi pelupusan (tambahan) = Hasil pelupusan bersih − Amaun dibawa → untung atau rugi."
+    }
+   ]
+  },
+  {
+   "id": "discl",
+   "icon": "📝",
+   "title": {
+    "en": "Disclosure Requirements",
+    "ms": "Keperluan Pendedahan"
+   },
+   "ref": "MFRS 116 para 73–79",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "In general",
+     "ms": "Secara am"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Gross carrying amount** of the PPE.",
+      "**Accumulated depreciation** including impairment loss at the beginning and end of the period.",
+      "**Impairment losses** and their reversal.",
+      "Details of **expenditure on construction** (self-constructed assets), amounts and **contractual commitments**."
+     ],
+     "ms": [
+      "**Amaun dibawa kasar** PPE.",
+      "**Susut nilai terkumpul** termasuk kerugian rosot nilai pada awal dan akhir tempoh.",
+      "**Kerugian rosot nilai** dan pembalikannya.",
+      "Butiran **perbelanjaan pembinaan** (aset bina sendiri), amaun dan **komitmen kontrak**."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "If the revaluation model is used",
+     "ms": "Jika model penilaian semula digunakan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Date** of revaluation.",
+      "Whether an **independent valuer** was engaged.",
+      "**How fair value was determined** and the assumptions.",
+      "**Revalued amount** for each class.",
+      "Information on the **revaluation surplus**."
+     ],
+     "ms": [
+      "**Tarikh** penilaian semula.",
+      "Sama ada **penilai bebas** dilantik.",
+      "**Cara nilai saksama ditentukan** dan andaian.",
+      "**Amaun dinilai semula** bagi setiap kelas.",
+      "Maklumat **lebihan penilaian semula**."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "issues",
+   "icon": "🧠",
+   "title": {
+    "en": "Issues in Accounting for PPE",
+    "ms": "Isu Perakaunan PPE"
+   },
+   "ref": "Slides 33–35",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Focus has shifted from \"income\" (income statement) to \"entity's worth\" (statement of financial position), so **determining fair value**, the basis used and practical compliance are issues.",
+      "**Indirect costs** of self-constructed assets: what is a fair basis to allocate them?",
+      "In Malaysia, markets for some assets are still developing and **not clearly observable**, so measuring fair value is a challenge.",
+      "Always revisit the **qualitative characteristics** in the Conceptual Framework when exercising professional judgement, so information remains useful to users."
+     ],
+     "ms": [
+      "Fokus beralih daripada \"pendapatan\" (penyata pendapatan) kepada \"nilai entiti\" (penyata kedudukan kewangan), jadi **menentukan nilai saksama**, asas yang digunakan dan pematuhan praktikal ialah isu.",
+      "**Kos tidak langsung** aset bina sendiri: apakah asas adil untuk mengagihkannya?",
+      "Di Malaysia, pasaran untuk sesetengah aset masih membangun dan **tidak jelas boleh diperhatikan**, jadi mengukur nilai saksama ialah cabaran.",
+      "Sentiasa rujuk semula **ciri kualitatif** dalam Kerangka Konseptual semasa membuat pertimbangan profesional supaya maklumat kekal berguna kepada pengguna."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Exam answer shape: issue → why it is a problem (Malaysian market, judgement) → link to the Conceptual Framework (relevance, faithful representation).",
+     "ms": "Bentuk jawapan exam: isu → kenapa jadi masalah (pasaran Malaysia, judgement) → kaitkan dengan Kerangka Konseptual (relevan, perwakilan saksama)."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "intro",
+   "q": {
+    "en": "Define PPE (MFRS 116)",
+    "ms": "Takrifkan PPE (MFRS 116)"
+   },
+   "a": {
+    "en": "Tangible assets held for use in production/supply of goods or services, rental or administration, expected to be used for more than one period.",
+    "ms": "Aset ketara yang dipegang untuk pengeluaran/bekalan barang atau perkhidmatan, sewa atau pentadbiran, dijangka digunakan lebih daripada satu tempoh."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "scope",
+   "q": {
+    "en": "PPE held for sale: which standard?",
+    "ms": "PPE dipegang untuk dijual: piawaian mana?"
+   },
+   "a": {
+    "en": "MFRS 5 Non-Current Assets Held for Sale and Discontinued Operations.",
+    "ms": "MFRS 5 Non-Current Assets Held for Sale and Discontinued Operations."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "scope",
+   "q": {
+    "en": "Name three assets outside MFRS 116",
+    "ms": "Namakan tiga aset di luar MFRS 116"
+   },
+   "a": {
+    "en": "Held-for-sale assets (MFRS 5), biological assets (MFRS 141), exploration and evaluation assets (MFRS 6), mineral rights/reserves.",
+    "ms": "Aset dipegang untuk jual (MFRS 5), aset biologi (MFRS 141), aset penerokaan dan penilaian (MFRS 6), hak/rizab mineral."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "recog",
+   "q": {
+    "en": "Recognition criteria for PPE",
+    "ms": "Kriteria pengiktirafan PPE"
+   },
+   "a": {
+    "en": "Probable economic benefits from using the asset AND cost can be measured reliably (plus the PPE definition).",
+    "ms": "Manfaat ekonomi berkemungkinan daripada penggunaan aset DAN kos boleh diukur dengan pasti (serta definisi PPE)."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "cost",
+   "q": {
+    "en": "Initial measurement of PPE",
+    "ms": "Pengukuran awal PPE"
+   },
+   "a": {
+    "en": "At cost: purchase price + directly attributable costs of getting it ready for use.",
+    "ms": "Pada kos: harga belian + kos yang boleh dikaitkan terus untuk sedia digunakan."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "cost",
+   "q": {
+    "en": "Self-constructed asset: what to exclude",
+    "ms": "Aset bina sendiri: apa dikecualikan"
+   },
+   "a": {
+    "en": "Internal profits/savings, inefficiencies (abnormal waste, lost labour) and general admin overheads.",
+    "ms": "Keuntungan/penjimatan dalaman, ketidakcekapan (pembaziran luar biasa, buruh hilang) dan overhed pentadbiran am."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "borrow",
+   "q": {
+    "en": "Borrowing costs on a qualifying asset",
+    "ms": "Kos pinjaman atas aset layak"
+   },
+   "a": {
+    "en": "Capitalise directly attributable borrowing costs as part of cost (MFRS 123); capitalised interest cannot exceed actual interest.",
+    "ms": "Kapitalkan kos pinjaman yang boleh dikaitkan terus sebagai sebahagian kos (MFRS 123); faedah dikapitalkan tidak boleh melebihi faedah sebenar."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "borrow",
+   "q": {
+    "en": "Weighted-average expenditure formula",
+    "ms": "Formula perbelanjaan purata wajaran"
+   },
+   "a": {
+    "en": "Expenditure × (months outstanding in the year ÷ 12), summed for all payments.",
+    "ms": "Perbelanjaan × (bulan belum selesai dalam tahun ÷ 12), dijumlahkan untuk semua bayaran."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "exch",
+   "q": {
+    "en": "Cost of an asset acquired by exchange",
+    "ms": "Kos aset diperoleh melalui pertukaran"
+   },
+   "a": {
+    "en": "Fair value of the asset given up (+ cash paid), unless the FV of the asset received is clearer.",
+    "ms": "Nilai saksama aset diserahkan (+ tunai dibayar), kecuali FV aset diterima lebih jelas."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "exch",
+   "q": {
+    "en": "Gain on exchange",
+    "ms": "Untung atas pertukaran"
+   },
+   "a": {
+    "en": "FV of the asset given up − its book value (e.g. 250,000 − 200,000 = 50,000).",
+    "ms": "FV aset diserahkan − nilai bukunya (cth 250,000 − 200,000 = 50,000)."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "depn",
+   "q": {
+    "en": "Straight-line depreciation",
+    "ms": "Susut nilai garis lurus"
+   },
+   "a": {
+    "en": "(Cost − residual value) ÷ useful life.",
+    "ms": "(Kos − nilai sisa) ÷ hayat berguna."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "depn",
+   "q": {
+    "en": "Is land depreciated?",
+    "ms": "Adakah tanah disusutnilai?"
+   },
+   "a": {
+    "en": "Normally no: it has an unlimited life.",
+    "ms": "Biasanya tidak: ia mempunyai hayat tidak terhad."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "costm",
+   "q": {
+    "en": "Cost model: carrying amount",
+    "ms": "Model kos: amaun dibawa"
+   },
+   "a": {
+    "en": "Cost − accumulated depreciation − accumulated impairment losses.",
+    "ms": "Kos − susut nilai terkumpul − rosot nilai terkumpul."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "costm",
+   "q": {
+    "en": "Where does an impairment loss go (cost model)?",
+    "ms": "Rosot nilai (model kos) pergi ke mana?"
+   },
+   "a": {
+    "en": "Immediately to profit or loss: Dr Impairment loss, Cr Accumulated impairment loss.",
+    "ms": "Serta-merta ke untung atau rugi: Dr Kerugian rosot nilai, Cr Rosot nilai terkumpul."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "costm",
+   "q": {
+    "en": "When is an asset impaired?",
+    "ms": "Bila aset rosot nilai?"
+   },
+   "a": {
+    "en": "When carrying amount > recoverable amount (higher of FV less costs of disposal and value in use).",
+    "ms": "Bila amaun dibawa > amaun boleh pulih (yang lebih tinggi antara FV tolak kos pelupusan dan nilai guna)."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "reval",
+   "q": {
+    "en": "Revaluation model: carrying amount",
+    "ms": "Model penilaian semula: amaun dibawa"
+   },
+   "a": {
+    "en": "Fair value at revaluation date − subsequent accumulated depreciation and impairment losses.",
+    "ms": "Nilai saksama pada tarikh penilaian semula − susut nilai dan rosot nilai terkumpul seterusnya."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "reval",
+   "q": {
+    "en": "Upward revaluation: where does the gain go?",
+    "ms": "Penilaian semula ke atas: untung ke mana?"
+   },
+   "a": {
+    "en": "OCI and revaluation surplus in equity.",
+    "ms": "OCI dan lebihan penilaian semula dalam ekuiti."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "reval",
+   "q": {
+    "en": "Revalue one item: what else?",
+    "ms": "Nilai semula satu item: apa lagi?"
+   },
+   "a": {
+    "en": "Revalue the whole class of PPE.",
+    "ms": "Nilai semula keseluruhan kelas PPE."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "reval",
+   "q": {
+    "en": "Downward revaluation (extra)",
+    "ms": "Penilaian semula ke bawah (tambahan)"
+   },
+   "a": {
+    "en": "Against the existing surplus first (OCI); any excess to profit or loss.",
+    "ms": "Tolak lebihan sedia ada dahulu (OCI); baki melebihi itu ke untung atau rugi."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "derec",
+   "q": {
+    "en": "When is PPE derecognised?",
+    "ms": "Bila PPE dinyahiktiraf?"
+   },
+   "a": {
+    "en": "On disposal, or when no future economic benefits are expected.",
+    "ms": "Semasa pelupusan, atau bila tiada manfaat ekonomi masa depan dijangka."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "derec",
+   "q": {
+    "en": "Revaluation surplus on derecognition",
+    "ms": "Lebihan penilaian semula semasa nyahiktiraf"
+   },
+   "a": {
+    "en": "Transferred to retained earnings.",
+    "ms": "Dipindah ke pendapatan tertahan."
+   }
+  },
+  {
+   "id": "c22",
+   "t": "discl",
+   "q": {
+    "en": "Disclosures for revalued PPE",
+    "ms": "Pendedahan PPE dinilai semula"
+   },
+   "a": {
+    "en": "Date, independent valuer?, FV method and assumptions, revalued amount per class, revaluation surplus.",
+    "ms": "Tarikh, penilai bebas?, kaedah dan andaian FV, amaun dinilai semula setiap kelas, lebihan penilaian semula."
+   }
+  },
+  {
+   "id": "c23",
+   "t": "discl",
+   "q": {
+    "en": "General disclosures for PPE",
+    "ms": "Pendedahan am PPE"
+   },
+   "a": {
+    "en": "Gross carrying amount; accumulated depreciation and impairment (opening/closing); impairment losses and reversals; construction expenditure and commitments.",
+    "ms": "Amaun dibawa kasar; susut nilai dan rosot nilai terkumpul (awal/akhir); kerugian rosot nilai dan pembalikan; perbelanjaan pembinaan dan komitmen."
+   }
+  },
+  {
+   "id": "c24",
+   "t": "issues",
+   "q": {
+    "en": "Why is fair value an issue in Malaysia?",
+    "ms": "Kenapa nilai saksama jadi isu di Malaysia?"
+   },
+   "a": {
+    "en": "Markets for some assets are still developing and not clearly observable.",
+    "ms": "Pasaran untuk sesetengah aset masih membangun dan tidak jelas boleh diperhatikan."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "intro",
+   "q": {
+    "en": "Which of the following is PPE?",
+    "ms": "Yang manakah PPE?"
+   },
+   "o": [
+    "A delivery van used by the company for 5 years",
+    "Goods held for resale",
+    "Land held for capital appreciation",
+    "Raw materials used within 2 months"
+   ],
+   "a": 0,
+   "e": {
+    "en": "A van is tangible, used in operations for more than one period. Goods and raw materials are inventory; land held for capital appreciation is investment property.",
+    "ms": "Van ialah ketara, digunakan dalam operasi lebih satu tempoh. Barang dan bahan mentah ialah inventori; tanah untuk peningkatan modal ialah hartanah pelaburan."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "scope",
+   "q": {
+    "en": "PPE classified as held for sale is dealt with under:",
+    "ms": "PPE diklasifikasi sebagai dipegang untuk jual diuruskan di bawah:"
+   },
+   "o": [
+    "MFRS 116",
+    "MFRS 5",
+    "MFRS 140",
+    "MFRS 138"
+   ],
+   "a": 1,
+   "e": {
+    "en": "MFRS 5 covers non-current assets held for sale.",
+    "ms": "MFRS 5 meliputi aset bukan semasa dipegang untuk jual."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "scope",
+   "q": {
+    "en": "Which is outside the scope of MFRS 116?",
+    "ms": "Yang manakah di luar skop MFRS 116?"
+   },
+   "o": [
+    "Factory machinery",
+    "Office building used by management",
+    "Biological assets (e.g. livestock)",
+    "Delivery trucks"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Biological assets are under MFRS 141.",
+    "ms": "Aset biologi di bawah MFRS 141."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "recog",
+   "q": {
+    "en": "Which pair are the general recognition criteria for PPE?",
+    "ms": "Pasangan manakah kriteria pengiktirafan am PPE?"
+   },
+   "o": [
+    "Fair value is available and exceeds cost",
+    "Asset is owned and insured",
+    "Asset is purchased for cash and used immediately",
+    "Entity expects economic benefits and cost can be measured reliably"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Probable benefits and reliable cost measurement.",
+    "ms": "Manfaat berkemungkinan dan kos boleh diukur dengan pasti."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "selfc",
+   "q": {
+    "en": "A company constructs its own building. Contractors RM200,000; direct materials and labour RM80,000 (including RM5,000 of abnormal wastage); technical overheads RM15,000; general admin overheads RM10,000. Cost to capitalise?",
+    "ms": "Syarikat membina bangunan sendiri. Kontraktor RM200,000; bahan dan buruh langsung RM80,000 (termasuk RM5,000 pembaziran luar biasa); overhed teknikal RM15,000; overhed pentadbiran am RM10,000. Kos dikapitalkan?"
+   },
+   "o": [
+    "RM290,000",
+    "RM300,000",
+    "RM305,000",
+    "RM295,000"
+   ],
+   "a": 0,
+   "e": {
+    "en": "200,000 + (80,000 − 5,000) + 15,000 = 290,000. Wastage and general admin overheads are excluded.",
+    "ms": "200,000 + (80,000 − 5,000) + 15,000 = 290,000. Pembaziran dan overhed pentadbiran am dikecualikan."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "selfc",
+   "q": {
+    "en": "In the textbook example (Example 1.5) the cost of the self-constructed building is RM348,000. Which cost was NOT included?",
+    "ms": "Dalam contoh buku teks (Contoh 1.5) kos bangunan bina sendiri ialah RM348,000. Kos mana TIDAK dimasukkan?"
+   },
+   "o": [
+    "Contractors' costs",
+    "General administrative overheads",
+    "Interest on construction financing",
+    "Technical overheads"
+   ],
+   "a": 1,
+   "e": {
+    "en": "General admin overheads (RM8,000) are excluded; interest of RM3,000 is capitalised.",
+    "ms": "Overhed pentadbiran am (RM8,000) dikecualikan; faedah RM3,000 dikapitalkan."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "borrow",
+   "q": {
+    "en": "Borrowing costs directly attributable to a qualifying asset are:",
+    "ms": "Kos pinjaman yang boleh dikaitkan terus dengan aset layak:"
+   },
+   "o": [
+    "Always expensed",
+    "Deferred as a liability",
+    "Capitalised as part of the asset's cost",
+    "Recognised in OCI"
+   ],
+   "a": 2,
+   "e": {
+    "en": "MFRS 123: capitalise.",
+    "ms": "MFRS 123: kapitalkan."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "borrow",
+   "q": {
+    "en": "A company pays RM120,000 on 1 January and RM240,000 on 1 July for a qualifying asset (year-end 31 December). Weighted-average expenditure for the year is:",
+    "ms": "Syarikat bayar RM120,000 pada 1 Januari dan RM240,000 pada 1 Julai untuk aset layak (hujung tahun 31 Disember). Perbelanjaan purata wajaran bagi tahun itu:"
+   },
+   "o": [
+    "RM360,000",
+    "RM300,000",
+    "RM180,000",
+    "RM240,000"
+   ],
+   "a": 3,
+   "e": {
+    "en": "120,000 × 12/12 + 240,000 × 6/12 = 120,000 + 120,000 = 240,000.",
+    "ms": "120,000 × 12/12 + 240,000 × 6/12 = 120,000 + 120,000 = 240,000."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "borrow",
+   "q": {
+    "en": "The weighted-average expenditure for 2018 in Example 1.6 (payments RM150,000 on 2 Jan, RM600,000 on 30 Apr, RM300,000 on 1 Sep) is:",
+    "ms": "Perbelanjaan purata wajaran 2018 dalam Contoh 1.6 (bayaran RM150,000 pada 2 Jan, RM600,000 pada 30 Apr, RM300,000 pada 1 Sep):"
+   },
+   "o": [
+    "RM650,000",
+    "RM1,050,000",
+    "RM525,000",
+    "RM450,000"
+   ],
+   "a": 0,
+   "e": {
+    "en": "150,000 + 600,000 × 8/12 + 300,000 × 4/12 = 150,000 + 400,000 + 100,000.",
+    "ms": "150,000 + 600,000 × 8/12 + 300,000 × 4/12 = 150,000 + 400,000 + 100,000."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "exch",
+   "q": {
+    "en": "Old equipment (book value RM100,000, fair value RM120,000) is traded for new equipment plus RM10,000 cash; the exchange has commercial substance. Cost of the new equipment is:",
+    "ms": "Peralatan lama (nilai buku RM100,000, nilai saksama RM120,000) ditukar dengan peralatan baharu dan tunai RM10,000; pertukaran ada substansi komersial. Kos peralatan baharu:"
+   },
+   "o": [
+    "RM110,000",
+    "RM130,000",
+    "RM120,000",
+    "RM100,000"
+   ],
+   "a": 1,
+   "e": {
+    "en": "FV given up 120,000 + cash 10,000 = 130,000.",
+    "ms": "FV diserahkan 120,000 + tunai 10,000 = 130,000."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "exch",
+   "q": {
+    "en": "Same facts as the previous question. The gain on exchange is:",
+    "ms": "Fakta sama dengan soalan sebelum ini. Untung atas pertukaran:"
+   },
+   "o": [
+    "RM10,000",
+    "RM30,000",
+    "RM20,000",
+    "Nil"
+   ],
+   "a": 2,
+   "e": {
+    "en": "FV given up 120,000 − book value 100,000 = 20,000.",
+    "ms": "FV diserahkan 120,000 − nilai buku 100,000 = 20,000."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "exch",
+   "q": {
+    "en": "In the Excellent Eyes exchange (FV given up RM250,000, cash RM30,000), the cost of the new laser equipment is:",
+    "ms": "Dalam pertukaran Excellent Eyes (FV diserahkan RM250,000, tunai RM30,000), kos peralatan laser baharu:"
+   },
+   "o": [
+    "RM200,000",
+    "RM230,000",
+    "RM250,000",
+    "RM280,000"
+   ],
+   "a": 3,
+   "e": {
+    "en": "250,000 + 30,000 = 280,000.",
+    "ms": "250,000 + 30,000 = 280,000."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "depn",
+   "q": {
+    "en": "Machine cost RM60,000, residual value RM6,000, useful life 9 years. Annual straight-line depreciation is:",
+    "ms": "Mesin kos RM60,000, nilai sisa RM6,000, hayat 9 tahun. Susut nilai garis lurus tahunan:"
+   },
+   "o": [
+    "RM6,000",
+    "RM6,667",
+    "RM5,400",
+    "RM7,000"
+   ],
+   "a": 0,
+   "e": {
+    "en": "(60,000 − 6,000) ÷ 9 = 6,000.",
+    "ms": "(60,000 − 6,000) ÷ 9 = 6,000."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "costm",
+   "q": {
+    "en": "Under the cost model PPE is carried at:",
+    "ms": "Di bawah model kos PPE dibawa pada:"
+   },
+   "o": [
+    "Fair value",
+    "Cost less accumulated depreciation and impairment losses",
+    "Replacement cost",
+    "Net realisable value"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Cost model = cost − accumulated depreciation − accumulated impairment.",
+    "ms": "Model kos = kos − susut nilai terkumpul − rosot nilai terkumpul."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "costm",
+   "q": {
+    "en": "Under the cost model an impairment loss is recognised in:",
+    "ms": "Di bawah model kos kerugian rosot nilai diiktiraf dalam:"
+   },
+   "o": [
+    "OCI",
+    "Equity directly",
+    "Profit or loss immediately",
+    "Deferred over useful life"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Impairment loss goes to profit or loss immediately.",
+    "ms": "Kerugian rosot nilai terus ke untung atau rugi."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "costm",
+   "q": {
+    "en": "A plant has cost RM200,000, accumulated depreciation RM70,000 and an impairment loss of RM50,000. Its carrying value afterwards is:",
+    "ms": "Sebuah loji kos RM200,000, susut nilai terkumpul RM70,000 dan kerugian rosot nilai RM50,000. Nilai dibawa selepas itu:"
+   },
+   "o": [
+    "RM130,000",
+    "RM150,000",
+    "RM120,000",
+    "RM80,000"
+   ],
+   "a": 3,
+   "e": {
+    "en": "200,000 − 70,000 − 50,000 = 80,000.",
+    "ms": "200,000 − 70,000 − 50,000 = 80,000."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "costm",
+   "q": {
+    "en": "An asset is impaired when its carrying amount exceeds its:",
+    "ms": "Aset rosot nilai bila amaun dibawanya melebihi:"
+   },
+   "o": [
+    "Recoverable amount",
+    "Original cost",
+    "Residual value",
+    "Insured value"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Recoverable amount = higher of fair value less costs of disposal and value in use.",
+    "ms": "Amaun boleh pulih = lebih tinggi antara nilai saksama tolak kos pelupusan dan nilai guna."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "reval",
+   "q": {
+    "en": "Under the revaluation model, if one PPE item is revalued:",
+    "ms": "Di bawah model penilaian semula, jika satu item PPE dinilai semula:"
+   },
+   "o": [
+    "Only that item is revalued",
+    "The whole class of PPE is revalued",
+    "All PPE of the company is revalued",
+    "No other items are affected"
+   ],
+   "a": 1,
+   "e": {
+    "en": "The entire class must be revalued.",
+    "ms": "Keseluruhan kelas mesti dinilai semula."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "reval",
+   "q": {
+    "en": "An upward revaluation of PPE is recognised in:",
+    "ms": "Penilaian semula PPE ke atas diiktiraf dalam:"
+   },
+   "o": [
+    "Profit or loss",
+    "Retained earnings directly",
+    "OCI as a revaluation surplus",
+    "Share capital"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Gain → OCI and revaluation surplus in equity.",
+    "ms": "Untung → OCI dan lebihan penilaian semula dalam ekuiti."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "reval",
+   "q": {
+    "en": "A building has a carrying amount of RM400,000 and is revalued to a fair value of RM450,000. The revaluation surplus is:",
+    "ms": "Sebuah bangunan amaun dibawa RM400,000 dinilai semula kepada nilai saksama RM450,000. Lebihan penilaian semula:"
+   },
+   "o": [
+    "RM100,000",
+    "RM450,000",
+    "RM400,000",
+    "RM50,000"
+   ],
+   "a": 3,
+   "e": {
+    "en": "450,000 − 400,000 = 50,000.",
+    "ms": "450,000 − 400,000 = 50,000."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "reval",
+   "q": {
+    "en": "An asset has a revaluation surplus of RM30,000 from an earlier revaluation. It is now revalued down by RM50,000. What is recognised?",
+    "ms": "Aset ada lebihan penilaian semula RM30,000 daripada penilaian terdahulu. Kini ia dinilai semula ke bawah sebanyak RM50,000. Apa diiktiraf?"
+   },
+   "o": [
+    "RM30,000 in OCI against the surplus and RM20,000 loss in profit or loss",
+    "RM50,000 loss in profit or loss",
+    "RM50,000 in OCI",
+    "RM20,000 in OCI"
+   ],
+   "a": 0,
+   "e": {
+    "en": "The decrease first reduces the existing surplus (30,000, OCI); the excess 20,000 is a loss in profit or loss.",
+    "ms": "Penurunan mula-mula mengurangkan lebihan sedia ada (30,000, OCI); lebihan 20,000 ialah rugi dalam untung atau rugi."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "derec",
+   "q": {
+    "en": "Which is a way PPE may be derecognised?",
+    "ms": "Yang manakah cara PPE boleh dinyahiktiraf?"
+   },
+   "o": [
+    "Revaluation",
+    "Donation",
+    "Depreciation",
+    "Impairment"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Disposal, including sale, sale and leaseback, finance lease as lessor, or donation.",
+    "ms": "Pelupusan, termasuk jualan, jual dan pajak balik, pajakan kewangan sebagai pemberi pajak, atau derma."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "derec",
+   "q": {
+    "en": "When a revalued asset is derecognised, its revaluation surplus is:",
+    "ms": "Bila aset dinilai semula dinyahiktiraf, lebihan penilaian semulanya:"
+   },
+   "o": [
+    "Taken to profit or loss",
+    "Kept in OCI forever",
+    "Transferred to retained earnings",
+    "Used to reduce share capital"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Transferred to retained earnings.",
+    "ms": "Dipindah ke pendapatan tertahan."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "derec",
+   "q": {
+    "en": "Asset carrying amount RM95,000 is sold for net proceeds of RM100,000. The result is:",
+    "ms": "Aset amaun dibawa RM95,000 dijual dengan hasil bersih RM100,000. Keputusan:"
+   },
+   "o": [
+    "Nil",
+    "Gain RM5,000 in OCI",
+    "Loss RM5,000",
+    "Gain RM5,000 in profit or loss"
+   ],
+   "a": 3,
+   "e": {
+    "en": "100,000 − 95,000 = gain 5,000 in P/L.",
+    "ms": "100,000 − 95,000 = untung 5,000 dalam P/L."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "discl",
+   "q": {
+    "en": "Which is required only when the revaluation model is used?",
+    "ms": "Yang manakah diperlukan hanya bila model penilaian semula digunakan?"
+   },
+   "o": [
+    "Date of revaluation and whether an independent valuer was engaged",
+    "Gross carrying amount",
+    "Accumulated depreciation",
+    "Impairment losses"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Revaluation disclosures: date, valuer, FV method, revalued amounts, surplus.",
+    "ms": "Pendedahan penilaian semula: tarikh, penilai, kaedah FV, amaun dinilai semula, lebihan."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "issues",
+   "q": {
+    "en": "Which is cited as an issue for fair value measurement in Malaysia?",
+    "ms": "Yang manakah disebut sebagai isu pengukuran nilai saksama di Malaysia?"
+   },
+   "o": [
+    "Too many observable markets",
+    "Markets for some assets are still developing and not clearly observable",
+    "Fair value is always lower than cost",
+    "Valuers are unnecessary"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Developing markets mean fair value is hard to determine.",
+    "ms": "Pasaran sedang membangun bermakna nilai saksama sukar ditentukan."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "intro",
+   "marks": 5,
+   "q": {
+    "en": "Define PPE and explain which assets MFRS 116 does not cover.",
+    "ms": "Takrifkan PPE dan terangkan aset yang tidak diliputi MFRS 116."
+   },
+   "pts": {
+    "en": [
+     "PPE = tangible assets (1)",
+     "Held for production/supply/rental/administration (1)",
+     "Expected to be used for more than one period (1)",
+     "Not covered: held for sale (MFRS 5), biological assets (MFRS 141) (1)",
+     "Not covered: exploration and evaluation assets (MFRS 6) and mineral rights/reserves (1)"
+    ],
+    "ms": [
+     "PPE = aset ketara (1)",
+     "Dipegang untuk pengeluaran/bekalan/sewa/pentadbiran (1)",
+     "Dijangka digunakan lebih satu tempoh (1)",
+     "Tidak diliputi: dipegang untuk jual (MFRS 5), aset biologi (MFRS 141) (1)",
+     "Tidak diliputi: aset penerokaan dan penilaian (MFRS 6) dan hak/rizab mineral (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "selfc",
+   "marks": 8,
+   "q": {
+    "en": "Beta Bhd built a warehouse for its own use. Contractors RM400,000; direct materials and labour RM90,000 (RM6,000 of materials was wasted abnormally); technical overheads RM20,000; general admin overheads RM12,000; interest on construction loan RM8,000. Determine the cost of the warehouse and explain each exclusion.",
+    "ms": "Beta Bhd membina gudang untuk guna sendiri. Kontraktor RM400,000; bahan dan buruh langsung RM90,000 (RM6,000 bahan dibazirkan luar biasa); overhed teknikal RM20,000; overhed pentadbiran am RM12,000; faedah pinjaman pembinaan RM8,000. Tentukan kos gudang dan terangkan setiap pengecualian."
+   },
+   "pts": {
+    "en": [
+     "Contractors 400,000 included (1)",
+     "Direct materials/labour 90,000 − abnormal waste 6,000 = 84,000 (2)",
+     "Technical overheads 20,000 included (1)",
+     "General admin overheads 12,000 excluded (1)",
+     "Borrowing costs 8,000 capitalised as a qualifying asset (MFRS 123) (1)",
+     "Cost = 400,000 + 84,000 + 20,000 + 8,000 = RM512,000 (2)"
+    ],
+    "ms": [
+     "Kontraktor 400,000 dimasukkan (1)",
+     "Bahan/buruh langsung 90,000 − pembaziran luar biasa 6,000 = 84,000 (2)",
+     "Overhed teknikal 20,000 dimasukkan (1)",
+     "Overhed pentadbiran am 12,000 dikecualikan (1)",
+     "Kos pinjaman 8,000 dikapitalkan sebagai aset layak (MFRS 123) (1)",
+     "Kos = 400,000 + 84,000 + 20,000 + 8,000 = RM512,000 (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "exch",
+   "marks": 7,
+   "q": {
+    "en": "Gamma Bhd exchanges an old machine (cost RM300,000, accumulated depreciation RM180,000, fair value RM150,000) for a new machine and pays RM20,000 cash. The exchange has commercial substance. Compute the cost of the new machine, the gain or loss, and give the journal entry.",
+    "ms": "Gamma Bhd menukar mesin lama (kos RM300,000, susut nilai terkumpul RM180,000, nilai saksama RM150,000) dengan mesin baharu dan bayar tunai RM20,000. Pertukaran ada substansi komersial. Kira kos mesin baharu, untung atau rugi, dan beri jurnal."
+   },
+   "pts": {
+    "en": [
+     "Book value of old machine = 300,000 − 180,000 = 120,000 (1)",
+     "Cost of new machine = FV given up 150,000 + cash 20,000 = 170,000 (2)",
+     "Gain = 150,000 − 120,000 = 30,000 (1)",
+     "Dr New machine 170,000 (1)",
+     "Dr Accumulated depreciation 180,000 (1)",
+     "Cr Old machine 300,000; Cr Bank 20,000; Cr Gain 30,000 (1)"
+    ],
+    "ms": [
+     "Nilai buku mesin lama = 300,000 − 180,000 = 120,000 (1)",
+     "Kos mesin baharu = FV diserahkan 150,000 + tunai 20,000 = 170,000 (2)",
+     "Untung = 150,000 − 120,000 = 30,000 (1)",
+     "Dr Mesin baharu 170,000 (1)",
+     "Dr Susut nilai terkumpul 180,000 (1)",
+     "Cr Mesin lama 300,000; Cr Bank 20,000; Cr Untung 30,000 (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "costm",
+   "marks": 6,
+   "q": {
+    "en": "Compare the cost model and the revaluation model for PPE, including the accounting for an impairment loss and an upward revaluation.",
+    "ms": "Bandingkan model kos dan model penilaian semula untuk PPE, termasuk perakaunan kerugian rosot nilai dan penilaian semula ke atas."
+   },
+   "pts": {
+    "en": [
+     "Cost model: cost less accumulated depreciation and impairment (1)",
+     "Revaluation model: fair value less subsequent depreciation and impairment (1)",
+     "Revalue regularly so carrying amount ≈ fair value; whole class revalued (2)",
+     "Cost model impairment loss: immediately in profit or loss (1)",
+     "Upward revaluation: OCI and revaluation surplus in equity (1)"
+    ],
+    "ms": [
+     "Model kos: kos tolak susut nilai dan rosot nilai terkumpul (1)",
+     "Model penilaian semula: nilai saksama tolak susut nilai dan rosot nilai seterusnya (1)",
+     "Nilai semula secara berkala supaya amaun dibawa ≈ nilai saksama; keseluruhan kelas (2)",
+     "Kerugian rosot nilai model kos: serta-merta dalam untung atau rugi (1)",
+     "Penilaian semula ke atas: OCI dan lebihan penilaian semula dalam ekuiti (1)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "issues",
+   "marks": 6,
+   "q": {
+    "en": "Discuss two issues in accounting for PPE in the Malaysian context.",
+    "ms": "Bincangkan dua isu perakaunan PPE dalam konteks Malaysia."
+   },
+   "pts": {
+    "en": [
+     "Shift from income focus to entity's worth makes fair value central (1)",
+     "Determining fair value and its basis is difficult (1)",
+     "Malaysian markets are still developing; assets not clearly observable (1)",
+     "Indirect costs of self-constructed assets: basis for allocation (2)",
+     "Link to Conceptual Framework qualitative characteristics and professional judgement (1)"
+    ],
+    "ms": [
+     "Peralihan dari fokus pendapatan ke nilai entiti menjadikan nilai saksama penting (1)",
+     "Menentukan nilai saksama dan asasnya sukar (1)",
+     "Pasaran Malaysia masih membangun; aset tidak jelas boleh diperhatikan (1)",
+     "Kos tidak langsung aset bina sendiri: asas pengagihan (2)",
+     "Kaitkan dengan ciri kualitatif Kerangka Konseptual dan pertimbangan profesional (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Property, plant and equipment (PPE)",
+   "Hartanah, loji dan peralatan"
+  ],
+  [
+   "Tangible asset",
+   "Aset ketara"
+  ],
+  [
+   "Useful life",
+   "Hayat berguna"
+  ],
+  [
+   "Residual value",
+   "Nilai sisa"
+  ],
+  [
+   "Cost",
+   "Kos"
+  ],
+  [
+   "Directly attributable cost",
+   "Kos yang boleh dikaitkan terus"
+  ],
+  [
+   "Self-constructed asset",
+   "Aset bina sendiri"
+  ],
+  [
+   "Technical overheads",
+   "Overhed teknikal"
+  ],
+  [
+   "Administrative overheads",
+   "Overhed pentadbiran"
+  ],
+  [
+   "Abnormal wastage",
+   "Pembaziran luar biasa"
+  ],
+  [
+   "Borrowing costs",
+   "Kos pinjaman"
+  ],
+  [
+   "Qualifying asset",
+   "Aset layak"
+  ],
+  [
+   "Capitalise",
+   "Kapitalkan"
+  ],
+  [
+   "Weighted-average expenditure",
+   "Perbelanjaan purata wajaran"
+  ],
+  [
+   "Exchange of assets",
+   "Pertukaran aset"
+  ],
+  [
+   "Commercial substance",
+   "Substansi komersial"
+  ],
+  [
+   "Depreciation",
+   "Susut nilai"
+  ],
+  [
+   "Accumulated depreciation",
+   "Susut nilai terkumpul"
+  ],
+  [
+   "Cost model",
+   "Model kos"
+  ],
+  [
+   "Revaluation model",
+   "Model penilaian semula"
+  ],
+  [
+   "Revaluation surplus",
+   "Lebihan penilaian semula"
+  ],
+  [
+   "Impairment loss",
+   "Kerugian rosot nilai"
+  ],
+  [
+   "Recoverable amount",
+   "Amaun boleh pulih"
+  ],
+  [
+   "Carrying amount",
+   "Amaun dibawa"
+  ],
+  [
+   "Fair value",
+   "Nilai saksama"
+  ],
+  [
+   "Class of assets",
+   "Kelas aset"
+  ],
+  [
+   "Derecognition",
+   "Nyahpengiktirafan"
+  ],
+  [
+   "Disposal",
+   "Pelupusan"
+  ],
+  [
+   "Independent valuer",
+   "Penilai bebas"
+  ],
+  [
+   "Disclosure",
+   "Pendedahan"
+  ],
+  [
+   "Substance over form",
+   "Substansi mengatasi bentuk"
+  ]
+ ],
+ "flows": [
+  {
+   "id": "ppe",
+   "icon": "🧭",
+   "title": {
+    "en": "Is it PPE?",
+    "ms": "Adakah ia PPE?"
+   },
+   "sub": {
+    "en": "Recognition flowchart",
+    "ms": "Carta pengiktirafan"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is it a tangible item held for use in production/supply of goods or services, for rental to others, or for administrative purposes?",
+      "ms": "Adakah ia item ketara yang dipegang untuk pengeluaran/bekalan barang atau perkhidmatan, sewa kepada pihak lain, atau pentadbiran?"
+     },
+     "y": "n2",
+     "n": "rNot"
+    },
+    "n2": {
+     "q": {
+      "en": "Is it expected to be used for more than one period?",
+      "ms": "Adakah ia dijangka digunakan lebih daripada satu tempoh?"
+     },
+     "y": "n3",
+     "n": "rInv"
+    },
+    "n3": {
+     "q": {
+      "en": "Is it covered by another standard (held for sale MFRS 5; biological assets MFRS 141; exploration and evaluation assets MFRS 6; mineral rights)?",
+      "ms": "Adakah ia diliputi piawaian lain (dipegang untuk jual MFRS 5; aset biologi MFRS 141; aset penerokaan dan penilaian MFRS 6; hak mineral)?"
+     },
+     "y": "rOther",
+     "n": "n4"
+    },
+    "n4": {
+     "q": {
+      "en": "Are future economic benefits probable AND is the cost reliably measurable?",
+      "ms": "Adakah manfaat ekonomi masa depan berkemungkinan DAN kos boleh diukur dengan pasti?"
+     },
+     "y": "rPPE",
+     "n": "rExp"
+    }
+   },
+   "results": {
+    "rPPE": {
+     "c": "good",
+     "t": {
+      "en": "Recognise as PPE (MFRS 116)",
+      "ms": "Iktiraf sebagai PPE (MFRS 116)"
+     },
+     "d": {
+      "en": "Measure at cost; then cost model or revaluation model.",
+      "ms": "Ukur pada kos; kemudian model kos atau penilaian semula."
+     }
+    },
+    "rNot": {
+     "c": "warn",
+     "t": {
+      "en": "Not PPE",
+      "ms": "Bukan PPE"
+     },
+     "d": {
+      "en": "Maybe inventory (for sale), investment property (rental/appreciation) or an intangible.",
+      "ms": "Mungkin inventori (untuk jual), hartanah pelaburan (sewa/peningkatan nilai) atau aset tak ketara."
+     }
+    },
+    "rInv": {
+     "c": "warn",
+     "t": {
+      "en": "Likely inventory or an expense",
+      "ms": "Mungkin inventori atau belanja"
+     },
+     "d": {
+      "en": "Used up within one period: not a non-current asset.",
+      "ms": "Habis digunakan dalam satu tempoh: bukan aset bukan semasa."
+     }
+    },
+    "rOther": {
+     "c": "info",
+     "t": {
+      "en": "Use the other standard",
+      "ms": "Guna piawaian lain"
+     },
+     "d": {
+      "en": "MFRS 116 does not apply.",
+      "ms": "MFRS 116 tidak terpakai."
+     }
+    },
+    "rExp": {
+     "c": "warn",
+     "t": {
+      "en": "Do not recognise as an asset: expense it",
+      "ms": "Jangan iktiraf sebagai aset: belanjakan"
+     },
+     "d": {
+      "en": "Recognition criteria are not met.",
+      "ms": "Kriteria pengiktirafan tidak dipenuhi."
+     }
+    }
+   }
+  }
+ ]
+}

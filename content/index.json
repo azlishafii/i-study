@@ -1,10 +1,151 @@
 {
-  "subjects": [
-    {
-      "id": "far2",
-      "code": "FAR2",
-      "name": { "en": "Financial Reporting 2", "ms": "Pelaporan Kewangan 2" },
-      "chapters": ["far2/ch4.json", "far2/ch5.json"]
-    }
-  ]
+ "subjects": [
+  {
+   "id": "far2",
+   "code": "FAR2",
+   "name": {
+    "en": "Financial Reporting 2",
+    "ms": "Pelaporan Kewangan 2"
+   },
+   "chapters": [
+    "far2/ch1.json",
+    "far2/ch3.json",
+    "far2/ch4.json",
+    "far2/ch5.json",
+    "far2/ch7.json"
+   ],
+   "info": {
+    "assessment": [
+     {
+      "t": {
+       "en": "Quizzes",
+       "ms": "Kuiz"
+      },
+      "pct": 5
+     },
+     {
+      "t": {
+       "en": "Mid-term test",
+       "ms": "Ujian pertengahan semester"
+      },
+      "pct": 20
+     },
+     {
+      "t": {
+       "en": "Individual assignment 1",
+       "ms": "Tugasan individu 1"
+      },
+      "pct": 12.5
+     },
+     {
+      "t": {
+       "en": "Individual assignment 2",
+       "ms": "Tugasan individu 2"
+      },
+      "pct": 12.5
+     },
+     {
+      "t": {
+       "en": "Final exam",
+       "ms": "Peperiksaan akhir"
+      },
+      "pct": 50
+     }
+    ],
+    "plan": [
+     {
+      "wk": "1",
+      "t": {
+       "en": "PPE (MFRS 116): recognition, measurement, subsequent measurement, derecognition",
+       "ms": "PPE (MFRS 116): pengiktirafan, pengukuran, pengukuran selepas, nyahpengiktirafan"
+      },
+      "ch": "ch1"
+     },
+     {
+      "wk": "2",
+      "t": {
+       "en": "PPE: presentation, disclosure, OCI; Held for Sale and Discontinued Operations (MFRS 5)",
+       "ms": "PPE: pembentangan, pendedahan, OCI; Dipegang untuk Jual dan Operasi Dihentikan (MFRS 5)"
+      },
+      "ch": "ch1"
+     },
+     {
+      "wk": "3",
+      "t": {
+       "en": "Impairment of Assets (MFRS 136)",
+       "ms": "Rosot Nilai Aset (MFRS 136)"
+      }
+     },
+     {
+      "wk": "4",
+      "t": {
+       "en": "Investment Property (MFRS 140)",
+       "ms": "Hartanah Pelaburan (MFRS 140)"
+      },
+      "ch": "ch4"
+     },
+     {
+      "wk": "5",
+      "t": {
+       "en": "Leases (MFRS 16)",
+       "ms": "Pajakan (MFRS 16)"
+      },
+      "ch": "ch7"
+     },
+     {
+      "wk": "6",
+      "t": {
+       "en": "Intangible Assets (MFRS 138)",
+       "ms": "Aset Tak Ketara (MFRS 138)"
+      },
+      "ch": "ch3"
+     },
+     {
+      "wk": "7",
+      "t": {
+       "en": "Biological Assets (MFRS 141)",
+       "ms": "Aset Biologi (MFRS 141)"
+      },
+      "ch": "ch5"
+     },
+     {
+      "wk": "8",
+      "t": {
+       "en": "Mid-semester break",
+       "ms": "Cuti pertengahan semester"
+      },
+      "brk": true
+     },
+     {
+      "wk": "9",
+      "t": {
+       "en": "Provisions, Contingent Liabilities and Contingent Assets (MFRS 137)",
+       "ms": "Peruntukan, Liabiliti Luar Jangka dan Aset Luar Jangka (MFRS 137)"
+      }
+     },
+     {
+      "wk": "10–11",
+      "t": {
+       "en": "Financial Instruments: assets and liabilities",
+       "ms": "Instrumen Kewangan: aset dan liabiliti"
+      }
+     },
+     {
+      "wk": "12–13",
+      "t": {
+       "en": "Deferred Tax: assets and liabilities",
+       "ms": "Cukai Tertunda: aset dan liabiliti"
+      }
+     },
+     {
+      "wk": "14–15",
+      "t": {
+       "en": "Statement of Cash Flows: format, preparation, analysis",
+       "ms": "Penyata Aliran Tunai: format, penyediaan, analisis"
+      }
+     }
+    ]
+   }
+  }
+ ]
 }

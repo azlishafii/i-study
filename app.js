@@ -48,7 +48,7 @@ function addChapter(subj, raw, builtin) {
 }
 function getSubject(info, builtin) {
   let sj = LIB.subjects.find(s => s.id === info.id);
-  if (!sj) { sj = { id: info.id, code: info.code, name: info.name, builtin: !!builtin, chapters: [] }; fillLang(sj.name); LIB.subjects.push(sj); }
+  if (!sj) { sj = { id: info.id, code: info.code, name: info.name, info: info.info || null, builtin: !!builtin, chapters: [] }; fillLang(sj.name); LIB.subjects.push(sj); }
   return sj;
 }
 const userStore = () => { try { const o = JSON.parse(localStorage.getItem(UKEY) || '{}'); return Array.isArray(o.chapters) ? o.chapters : []; } catch (e) { return []; } };
@@ -297,12 +297,25 @@ routes.home = function (v) {
 
   ${toolList(c).length ? `<section class="card"><h2>${S.lang === 'en' ? 'Quick tools' : 'Alat pantas'}</h2><div class="grid2">${toolList(c).map(t => toolTile(t, false)).join('')}</div></section>` : ''}
 
+  ${coursePlan(c)}
   <section class="card">
     <h2>${esc(c.subj.code)} · ${S.lang === 'ms' ? esc(c.subj.name.ms) : esc(c.subj.name.en)}</h2>
     <div class="chips">${others.map(x => `<a class="chip ${x.uid === c.uid ? 'sel' : ''}" href="#/home" data-ch="${esc(x.uid)}">${x.num < 999 ? 'Ch ' + x.num + ' · ' : ''}${esc(S.lang === 'ms' ? x.title.ms : x.title.en)}</a>`).join('')}<a class="chip" href="#/lib">＋ ${T('Add / manage', 'Tambah / urus')}</a></div>
   </section>`;
   v.querySelectorAll('[data-ch]').forEach(a => a.onclick = (e) => { e.preventDefault(); S.ch = a.dataset.ch; save(); render(); });
 };
+
+function coursePlan(c) {
+  const I = c.subj.info; if (!I) return '';
+  const have = (id) => c.subj.chapters.find(x => x.id === id);
+  const as = (I.assessment || []).map(x => `<div class="row"><span>${B(x.t, 'span')}</span><b>${x.pct}%</b></div><div class="bar"><i style="width:${x.pct}%"></i></div>`).join('');
+  const plan = (I.plan || []).map(w => {
+    const ch = w.ch && have(w.ch);
+    const st = w.brk ? '' : ch ? `<a class="chip ${ch.uid === c.uid ? 'sel' : ''}" href="#/home" data-ch="${esc(ch.uid)}">Ch ${ch.num}</a>` : `<span class="muted"><small>${T('not added yet', 'belum ditambah')}</small></span>`;
+    return `<div class="plan-row ${w.brk ? 'brk' : ''}"><b class="wk">${T('Wk', 'Mgg')} ${esc(w.wk)}</b><span class="grow">${B(w.t, 'span')}</span>${st}</div>`;
+  }).join('');
+  return `<section class="card"><h2>📅 ${T('Course plan', 'Pelan kursus')}</h2>${as ? `<h3>${T('Assessment', 'Penilaian')}</h3>${as}` : ''}${plan ? `<h3>${T('Weekly topics', 'Topik mingguan')}</h3>${plan}` : ''}</section>`;
+}
 
 /* ----------------------------------------------------------------- NOTES */
 function renderBlock(b) {
