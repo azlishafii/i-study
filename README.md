@@ -2,6 +2,8 @@
 
 App belajar (PWA) dwibahasa **BM + English** untuk pelbagai subjek: nota, kad ingatan (ulangan berjarak), kuiz MCQ, soalan esei, mod exam bermasa dan alat khas. Berfungsi **tanpa internet** selepas dibuka sekali. Tiada pelayan, tiada akaun; kemajuan disimpan dalam pelayar.
 
+Subjek: **SBSC2093** Perakaunan Kewangan dan Pelaporan 2 (FAR2), **SBSC3153** Komunikasi Perniagaan dan **SBSC3183** Percukaian 2 (dua yang terakhir belum ada chapter; tambah melalui Pustaka).
+
 Kandungan sedia ada: **FAR2** (Financial Reporting 2): Bab 1 *PPE*, Bab 3 *Intangible Assets*, Bab 4 *Investment Property*, Bab 5 *Biological Assets* dan Bab 7 *Leases*, serta pelan kursus 15 minggu dan pecahan penilaian.
 
 ## Hoskan di GitHub Pages
@@ -41,11 +43,24 @@ python3 -m http.server 8000
 
 (Jangan buka `index.html` terus; PWA dan `fetch` perlukan alamat web.)
 
+## Ubah rupa (Tailwind)
+
+UI guna [Tailwind CSS](https://tailwindcss.com) v3. Selepas mengubah kelas dalam `index.html`/`app.js` atau komponen dalam `src/input.css`, bina semula CSS:
+
+```bash
+npm install
+npm run build:css
+```
+
+Commit `tailwind.css` yang dihasilkan dan naikkan nombor `CACHE` dalam `sw.js`.
+
 ## Struktur
 
 | Fail | Fungsi |
 |---|---|
-| `index.html`, `style.css`, `app.js` | App generik (UI, pengesahan format, import, SRS, kuiz) |
+| `index.html`, `app.js` | App generik (sidebar, dashboard, pengesahan format, import, SRS, kuiz) |
+| `tailwind.css` | CSS Tailwind yang sudah dikompil (dicommit; tiada langkah build semasa deploy) |
+| `src/input.css`, `tailwind.config.js`, `package.json` | Sumber Tailwind untuk membina semula `tailwind.css` |
 | `tools-far2.js` | Alat khas FAR2 (kalkulator, pembantu pemindahan) |
 | `content/index.json` | Senarai subjek & chapter rasmi |
 | `content/<subjek>/<chapter>.json` | Kandungan chapter |

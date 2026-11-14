@@ -1,6 +1,6 @@
 /* i-Study service worker: precache app shell + built-in content; network-first so updates arrive. */
-const CACHE = 'istudy-v5';
-const CORE = ['./', 'index.html', 'style.css', 'app.js', 'tools-far2.js', 'manifest.webmanifest', 'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'content/index.json', 'content/ai-prompt.txt', 'content/template.json'];
+const CACHE = 'istudy-v6';
+const CORE = ['./', 'index.html', 'tailwind.css', 'app.js', 'tools-far2.js', 'manifest.webmanifest', 'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'content/index.json', 'content/ai-prompt.txt', 'content/template.json'];
 self.addEventListener('install', e => {
   e.waitUntil((async () => {
     const c = await caches.open(CACHE);

@@ -6,7 +6,7 @@
 
 /* ---------------------------------------------------------------- state */
 const KEY = 'istudy.v1', UKEY = 'istudy.user.v1';
-const defaults = { ch: '', lang: 'dual', theme: 'auto', read: {}, cards: {}, q: {}, sa: {}, exams: [], day: {}, goal: 20 };
+const defaults = { ch: '', subj: '', lang: 'dual', theme: 'auto', read: {}, cards: {}, q: {}, sa: {}, exams: [], day: {}, goal: 20 };
 const S = Object.assign({}, defaults);
 try { Object.assign(S, JSON.parse(localStorage.getItem(KEY) || '{}')); } catch (e) {}
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); return true; } catch (e) { return false; } };
@@ -48,7 +48,7 @@ function addChapter(subj, raw, builtin) {
 }
 function getSubject(info, builtin) {
   let sj = LIB.subjects.find(s => s.id === info.id);
-  if (!sj) { sj = { id: info.id, code: info.code, name: info.name, info: info.info || null, builtin: !!builtin, chapters: [] }; fillLang(sj.name); LIB.subjects.push(sj); }
+  if (!sj) { sj = { id: info.id, code: info.code, short: info.short || '', color: info.color || '', name: info.name, info: info.info || null, builtin: !!builtin, chapters: [] }; fillLang(sj.name); LIB.subjects.push(sj); }
   return sj;
 }
 const userStore = () => { try { const o = JSON.parse(localStorage.getItem(UKEY) || '{}'); return Array.isArray(o.chapters) ? o.chapters : []; } catch (e) { return []; } };
@@ -194,26 +194,78 @@ const toolTile = (t, sub) => `<a class="tile" href="#/tools/${t.href}">${t.icon}
 
 /* --------------------------------------------------------------- router */
 const routes = {};
+const CHAPTER_ROUTES = ['home', 'notes', 'cards', 'quiz', 'exam', 'tools'];
+let ROUTE = 'dashboard';
 function go(path) { location.hash = '#' + path; }
+function openChapter(uid, to) {
+  const c = CH().find(x => x.uid === uid); if (!c) return;
+  S.ch = uid; S.subj = c.subj.id; save();
+  const h = '#' + (to || '/home'); if (location.hash === h) render(); else location.hash = h;
+}
+const ACCENTS = ['#0d9488', '#7c3aed', '#d97706', '#0284c7', '#e11d48', '#4f46e5'];
+const accent = (sj) => sj.color || ACCENTS[Math.abs([...sj.id].reduce((a, ch) => a * 31 + ch.charCodeAt(0), 0)) % ACCENTS.length];
+const shortOf = (sj) => sj.short || sj.code.replace(/^SBSC/, '').slice(0, 4);
+const subjName = (sj) => S.lang === 'ms' ? sj.name.ms : sj.name.en;
+function curSubject() { return LIB.subjects.find(x => x.id === S.subj) || (curCh() && curCh().subj) || LIB.subjects[0]; }
+const pct = (x, t) => t ? Math.round(100 * x / t) : 0;
+function statsOf(c) { // c: chapter or pseudo scope
+  const read = c.sections.filter(x => S.read[x.id]).length;
+  return { read, sections: c.sections.length, readPct: pct(read, c.sections.length), mastery: mastery(c), acc: quizAcc(c), due: dueCards(c).due.length, fresh: dueCards(c).fresh.length };
+}
+const subjStats = (sj) => statsOf(scopeOf({ subj: sj }));
 function render() {
-  const p = (location.hash.slice(1) || '/home').split('/').filter(Boolean);
-  const r = routes[p[0]] || routes.home;
-  document.body.dataset.route = p[0] || 'home';
-  document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.dataset.r === (p[0] === 'exam' ? 'quiz' : p[0])));
+  const p = (location.hash.slice(1) || '/dashboard').split('/').filter(Boolean);
+  ROUTE = p[0] || 'dashboard';
+  const isCh = CHAPTER_ROUTES.includes(ROUTE);
+  const r = routes[ROUTE] || routes.dashboard;
+  if (isCh && !curCh()) { go('/dashboard'); return; }
+  const c = curCh();
+  if (isCh && c && S.subj !== c.subj.id) { S.subj = c.subj.id; save(); }
+  closeDrawer();
   const v = view(); v.innerHTML = '';
-  if (!CH().length && p[0] !== 'lib') { go('/lib'); return; }
   r(v, p.slice(1).map(decodeURIComponent));
+  chapterHeader(isCh ? c : null);
+  renderCrumb(isCh ? c : null, p);
+  renderSidebar(isCh ? c : null);
   window.scrollTo(0, 0);
   document.querySelectorAll('[data-lang]').forEach(b => b.classList.toggle('on', b.dataset.lang === S.lang));
-  fillChapterSelect();
-  const lbl = document.getElementById('navlabels');
-  if (lbl) lbl.querySelectorAll('[data-k]').forEach(a => a.innerHTML = u(a.dataset.k));
+  const nl = $('#navlibtxt'); if (nl) nl.innerHTML = u('lib');
+  const nlk = $('#navlib'); if (nlk) nlk.classList.toggle('on', ROUTE === 'lib');
 }
-function fillChapterSelect() {
-  const cs = $('#chsel'); if (!cs) return;
-  cs.innerHTML = LIB.subjects.map(s => `<optgroup label="${esc(s.code)} · ${esc(s.name.en)}">${s.chapters.map(c => `<option value="${esc(c.uid)}">${c.num < 999 ? 'Ch ' + c.num + ' · ' : ''}${esc(c.title.en)}</option>`).join('')}</optgroup>`).join('');
-  const c = curCh(); if (c) cs.value = c.uid;
+function chapterHeader(c) {
+  const h = $('#chhead'); if (!h) return;
+  if (!c) { h.innerHTML = ''; return; }
+  const ac = accent(c.subj), cur = ROUTE === 'exam' ? 'quiz' : ROUTE;
+  const tabs = [['home', '🏠', 'Overview', 'Ringkasan'], ['notes', '📘', 'Notes', 'Nota'], ['cards', '🃏', 'Cards', 'Kad'], ['quiz', '✅', 'Quiz', 'Kuiz'], ['tools', '🧰', 'Tools', 'Alat']];
+  h.innerHTML = `<div class="mb-5">
+    <div class="mb-2 flex items-center gap-2 text-xs font-semibold text-slate-500 dark:text-slate-400"><span class="h-2.5 w-2.5 rounded-full" style="background:${ac}"></span><a class="no-underline !text-slate-500 hover:underline dark:!text-slate-400" href="#/subject/${esc(c.subj.id)}">${esc(c.subj.code)}</a><span>›</span><span class="truncate">${c.num < 999 ? 'Ch ' + c.num + ' · ' : ''}${esc(S.lang === 'ms' ? c.title.ms : c.title.en)}</span></div>
+    <div class="tabs">${tabs.map(t => `<a class="tab ${cur === t[0] ? 'on' : ''}" href="#/${t[0]}"><span>${t[1]}</span>${S.lang === 'ms' ? t[3] : S.lang === 'en' ? t[2] : t[3] + ' · ' + t[2]}</a>`).join('')}</div></div>`;
 }
+function renderCrumb(c, p) {
+  const el = $('#crumb'); if (!el) return;
+  let t = 'Dashboard';
+  if (ROUTE === 'subject') { const sj = LIB.subjects.find(x => x.id === (p && p[1])) || curSubject(); t = sj ? `${esc(sj.code)} · ${esc(subjName(sj))}` : t; }
+  else if (ROUTE === 'lib') t = '📚 ' + u('lib');
+  else if (c) t = `${esc(c.subj.code)} › ${c.num < 999 ? 'Ch ' + c.num + ' · ' : ''}${esc(S.lang === 'ms' ? c.title.ms : c.title.en)}`;
+  el.innerHTML = t;
+}
+function renderSidebar(c) {
+  const nav = $('#sidenav'); if (!nav) return;
+  const cur = curSubject(), onSubject = ROUTE === 'subject';
+  const item = (sj) => {
+    const st = subjStats(sj), ac = accent(sj), open = cur && sj.id === cur.id;
+    const chs = sj.chapters.map(x => `<a href="#/home" data-ch="${esc(x.uid)}" class="nav-chap ${c && ROUTE !== 'subject' && x.uid === c.uid ? 'on' : ''}"><span class="w-9 flex-none text-[11px] font-semibold opacity-70">${x.num < 999 ? 'Ch ' + x.num : '★'}</span><span class="truncate">${esc(S.lang === 'ms' ? x.title.ms : x.title.en)}</span></a>`).join('');
+    return `<div class="pt-1"><a href="#/subject/${esc(sj.id)}" class="nav-link ${open && onSubject ? 'on' : ''}">
+      <span class="grid h-8 w-10 flex-none place-items-center rounded-lg text-[10px] font-bold text-white" style="background:${ac}">${esc(shortOf(sj))}</span>
+      <span class="min-w-0 flex-1"><span class="block truncate text-[11px] font-semibold uppercase tracking-wide text-slate-400">${esc(sj.code)}</span><span class="block truncate leading-tight">${esc(subjName(sj))}</span></span>
+      <span class="text-[11px] text-slate-400">${st.readPct}%</span></a>
+      ${open ? `<div class="mt-1 space-y-0.5">${chs || `<div class="py-1.5 pl-9 pr-2 text-[13px] italic text-slate-500">${T('No chapters yet', 'Belum ada chapter')}</div>`}<a href="#/lib/${esc(sj.id)}" class="nav-chap !text-teal-300"><span class="w-9 flex-none text-center">＋</span><span>${T('Add chapter', 'Tambah chapter')}</span></a></div>` : ''}</div>`;
+  };
+  nav.innerHTML = `<a href="#/dashboard" class="nav-link ${ROUTE === 'dashboard' ? 'on' : ''}"><span class="text-lg">🏠</span><span class="grow">Dashboard</span></a>
+    <p class="px-3 pb-1 pt-4 text-[11px] font-semibold uppercase tracking-wider text-slate-500">${T('Subjects', 'Subjek')}</p>${LIB.subjects.map(item).join('')}`;
+}
+const drawer = { open: () => { $('#sidebar').classList.remove('-translate-x-full'); $('#backdrop').classList.remove('hidden'); }, };
+function closeDrawer() { const sb = $('#sidebar'), bd = $('#backdrop'); if (sb) sb.classList.add('-translate-x-full'); if (bd) bd.classList.add('hidden'); }
 
 /* ----------------------------------------------------------- SRS helpers */
 const INTERVALS = [0, 1, 2, 4, 8, 16, 32];
@@ -252,70 +304,133 @@ function streak() {
   return n;
 }
 
-/* ------------------------------------------------------------------ HOME */
-routes.home = function (v) {
-  const c = curCh();
-  const { due, fresh } = dueCards(c);
-  const readN = c.sections.filter(s => S.read[s.id]).length;
-  const acc = quizAcc(c), weak = weakTopics(c);
-  const todayN = S.day[today()] || 0;
-  const others = c.subj.chapters;
+/* ------------------------------------------------------- DASHBOARD / SUBJECT / CHAPTER HOME */
+const bar2 = (label, val, ac) => `<div class="mt-3"><div class="flex items-center justify-between text-xs font-medium text-slate-500 dark:text-slate-400"><span>${label}</span><span class="font-semibold text-slate-700 dark:text-slate-200">${val === null ? '–' : val + '%'}</span></div><div class="bar !my-1"><i style="width:${val || 0}%;background:${ac}"></i></div></div>`;
+function weekBars() {
+  const out = []; for (let k = 6; k >= 0; k--) { const d = new Date(Date.now() - k * DAY), key = d.toISOString().slice(0, 10); out.push({ key, n: S.day[key] || 0, lab: d.toLocaleDateString(S.lang === 'ms' ? 'ms-MY' : 'en-GB', { weekday: 'short' }) }); }
+  const mx = Math.max(S.goal, ...out.map(x => x.n));
+  return `<div class="flex items-end gap-2">${out.map(x => `<div class="flex flex-1 flex-col items-center gap-1.5"><span class="text-[11px] font-semibold text-slate-500">${x.n || ''}</span><div class="flex h-24 w-full items-end"><div class="w-full rounded-t-lg ${x.key === today() ? 'bg-teal-500' : 'bg-teal-200 dark:bg-teal-900'}" style="height:${Math.max(4, x.n / mx * 100)}%"></div></div><span class="text-[11px] text-slate-400">${esc(x.lab)}</span></div>`).join('')}</div>`;
+}
+routes.dashboard = function (v) {
+  const all = scopeOf({ subj: { id: '*', name: { en: 'All', ms: 'Semua' }, code: 'ALL', chapters: CH() } });
+  const st = statsOf(all), todayN = S.day[today()] || 0, goalPct = Math.min(100, pct(todayN, S.goal)), cur = curCh();
+  const dateStr = new Date().toLocaleDateString(S.lang === 'ms' ? 'ms-MY' : 'en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+  const subCard = (sj) => {
+    const ac = accent(sj), s2 = subjStats(sj);
+    return `<a href="#/subject/${esc(sj.id)}" class="group relative block overflow-hidden rounded-2xl bg-white p-5 no-underline shadow-soft ring-1 ring-slate-200 transition hover:-translate-y-0.5 dark:bg-slate-900 dark:ring-slate-800">
+      <div class="absolute inset-x-0 top-0 h-1.5" style="background:${ac}"></div>
+      <div class="flex items-start gap-3"><span class="grid h-12 w-12 flex-none place-items-center rounded-xl text-xs font-bold text-white" style="background:${ac}">${esc(shortOf(sj))}</span>
+        <div class="min-w-0"><p class="text-xs font-semibold text-slate-500">${esc(sj.code)}</p><p class="font-semibold leading-snug text-slate-900 dark:text-white">${esc(S.lang === 'ms' ? sj.name.ms : sj.name.en)}</p>${S.lang === 'dual' ? `<p class="text-xs text-violet-600 dark:text-violet-300">${esc(sj.name.ms)}</p>` : ''}</div></div>
+      ${sj.chapters.length ? `<div class="mt-4 flex items-center gap-2 text-xs text-slate-500"><span class="rounded-full bg-slate-100 px-2 py-0.5 font-semibold dark:bg-slate-800">${sj.chapters.length} ${T('chapters', 'chapter')}</span>${s2.due ? `<span class="rounded-full bg-amber-100 px-2 py-0.5 font-semibold text-amber-800 dark:bg-amber-900/40 dark:text-amber-200">${s2.due} ${T('due', 'perlu ulang')}</span>` : ''}</div>
+      ${bar2(T('Notes read', 'Nota dibaca'), s2.readPct, ac)}${bar2(T('Card mastery', 'Penguasaan kad'), s2.mastery, ac)}${bar2(T('Quiz accuracy', 'Ketepatan kuiz'), s2.acc, ac)}`
+      : `<div class="mt-4 rounded-xl border border-dashed border-slate-300 p-4 text-center text-sm text-slate-500 dark:border-slate-700">${T('No chapters yet. Add the first one.', 'Belum ada chapter. Tambah yang pertama.')}</div>`}
+      <p class="mt-4 text-sm font-semibold" style="color:${ac}">${T('Open subject', 'Buka subjek')} →</p></a>`;
+  };
   v.innerHTML = `
-  <section class="hero">
-    <div class="eyebrow">${esc(c.subj.code)}${c.standard ? ' · ' + esc(c.standard) : ''}</div>
-    <h1>${B(c.title, 'span')}</h1>
-    <p class="muted">${T('Study in two languages, answer in English.', 'Belajar dwibahasa, jawab dalam English.')}</p>
-    <div class="stats">
-      <div class="stat"><b>${streak()}</b><span>🔥 ${S.lang === 'en' ? 'day streak' : 'hari berturut'}</span></div>
-      <div class="stat"><b>${todayN}<small>/${S.goal}</small></b><span>${S.lang === 'en' ? 'today' : 'hari ini'}</span></div>
-      <div class="stat"><b>${acc === null ? '–' : acc + '%'}</b><span>${S.lang === 'en' ? 'quiz accuracy' : 'ketepatan kuiz'}</span></div>
-    </div>
+  <section class="hero relative overflow-hidden rounded-3xl bg-gradient-to-br from-slate-900 via-slate-800 to-teal-900 p-6 text-white shadow-soft sm:p-8">
+    <div class="pointer-events-none absolute -right-10 -top-10 h-48 w-48 rounded-full bg-teal-400/20 blur-3xl"></div>
+    <p class="text-sm font-medium text-teal-200">${esc(dateStr)}</p>
+    <h1 class="mt-1 !text-white">${T('Welcome back', 'Selamat kembali')} 👋</h1>
+    <p class="mt-1 max-w-xl text-slate-300">${T('Study in two languages, answer in English.', 'Belajar dwibahasa, jawab dalam English.')}</p>
+    <div class="mt-5 flex flex-wrap gap-3">
+      ${cur ? `<a class="btn !bg-white !text-slate-900 hover:!bg-slate-100" href="#/home" data-ch="${esc(cur.uid)}">▶ ${T('Continue', 'Sambung')}: ${cur.num < 999 ? 'Ch ' + cur.num : esc(cur.subj.code)}</a>` : ''}
+      <a class="btn ghost !text-white !ring-white/40 hover:!bg-white/10" href="#/lib">＋ ${T('Add chapter', 'Tambah chapter')}</a></div>
   </section>
 
-  <section class="card">
-    <h2>${S.lang === 'en' ? 'Today' : 'Hari ini'}</h2>
-    <div class="row"><div><b>${due.length}</b> ${u('due')}<br><small class="muted">+ ${fresh.length} ${S.lang === 'en' ? 'new cards' : 'kad baru'}</small></div>
-    <a class="btn" href="#/cards/all">${u('cards')} →</a></div>
-    <div class="bar"><i style="width:${mastery(c)}%"></i></div><small class="muted">${S.lang === 'en' ? 'Card mastery' : 'Penguasaan kad'} ${mastery(c)}%</small>
-    <hr>
-    <div class="row"><div><b>${readN}/${c.sections.length}</b> ${S.lang === 'en' ? 'sections read' : 'seksyen sudah dibaca'}</div><a class="btn ghost" href="#/notes">${u('notes')} →</a></div>
-    <div class="bar"><i style="width:${readN / Math.max(1, c.sections.length) * 100}%"></i></div>
-    ${weak.length ? `<hr><div><b>${S.lang === 'en' ? 'Weak topics' : 'Topik lemah'}:</b> ${weak.map(w => `<a class="chip warn" href="#/quiz/run/${encodeURIComponent(w.t)}">${esc(topicName(c, w.t)[S.lang === 'ms' ? 'ms' : 'en'])}</a>`).join(' ')}</div>` : ''}
-  </section>
+  <div class="mt-5 grid grid-cols-2 gap-3 lg:grid-cols-4">
+    <div class="stat"><span>🔥 ${T('Day streak', 'Hari berturut')}</span><b>${streak()}</b></div>
+    <div class="stat"><span>🎯 ${T('Today', 'Hari ini')}</span><b>${todayN}<small> / ${S.goal}</small></b><div class="bar !mb-0"><i style="width:${goalPct}%"></i></div></div>
+    <div class="stat"><span>🃏 ${T('Cards due', 'Kad perlu ulang')}</span><b>${st.due}</b></div>
+    <div class="stat"><span>✅ ${T('Quiz accuracy', 'Ketepatan kuiz')}</span><b>${st.acc === null ? '–' : st.acc + '%'}</b></div>
+  </div>
 
-  ${c.outcomes ? `<section class="card"><h2>${S.lang === 'en' ? 'Learning outcomes' : 'Hasil pembelajaran'}</h2>${BL(c.outcomes)}</section>` : ''}
+  <div class="mt-6 grid gap-6 lg:grid-cols-3">
+    <section class="card !my-0 lg:col-span-2"><h2>${T('Activity this week', 'Aktiviti minggu ini')}</h2>${weekBars()}</section>
+    <section class="card !my-0"><h2>${T('Review due', 'Ulang kaji')}</h2>
+      ${LIB.subjects.filter(sj => sj.chapters.length).map(sj => { const s2 = subjStats(sj), ac = accent(sj); return `<a href="#/home" data-act data-ch="${esc(sj.chapters[0].uid)}" data-to="/cards/sall" class="mb-2 flex items-center gap-3 rounded-xl p-2.5 no-underline ring-1 ring-slate-200 transition hover:bg-slate-50 dark:ring-slate-800 dark:hover:bg-slate-800"><span class="h-8 w-1.5 rounded-full" style="background:${ac}"></span><span class="grow"><span class="block text-sm font-semibold text-slate-800 dark:text-slate-100">${esc(shortOf(sj))}</span><span class="block text-xs text-slate-500">${s2.due} ${T('due', 'perlu ulang')} · ${s2.fresh} ${T('new', 'baru')}</span></span><span class="text-slate-400">→</span></a>`; }).join('') || `<p class="muted text-sm">–</p>`}
+    </section>
+  </div>
 
-  <section class="card">
-    <h2>${S.lang === 'en' ? 'Suggested study plan' : 'Cadangan pelan belajar'}</h2>
-    <ol class="plan">
-      <li><b>${T('Read', 'Baca')}</b> – ${T('Notes in dual mode, 1–2 sections per sitting', 'Nota dalam mod dwibahasa, 1–2 seksyen setiap kali')}</li>
-      <li><b>${T('Recall', 'Ingat')}</b> – ${T('Flashcards daily (spaced repetition)', 'Kad ingatan setiap hari (ulangan berjarak)')}</li>
-      <li><b>${T('Practise', 'Latih')}</b> – ${T('Quiz by topic and use the Tools tab', 'Kuiz ikut topik dan guna tab Alat')}</li>
-      <li><b>${T('Test', 'Uji')}</b> – ${T('Switch to English only, then Exam mode + essay questions', 'Tukar ke English sahaja, kemudian Mod exam + soalan esei')}</li>
-    </ol>
-  </section>
-
-  ${toolList(c).length ? `<section class="card"><h2>${S.lang === 'en' ? 'Quick tools' : 'Alat pantas'}</h2><div class="grid2">${toolList(c).map(t => toolTile(t, false)).join('')}</div></section>` : ''}
-
-  ${coursePlan(c)}
-  <section class="card">
-    <h2>${esc(c.subj.code)} · ${S.lang === 'ms' ? esc(c.subj.name.ms) : esc(c.subj.name.en)}</h2>
-    <div class="chips">${others.map(x => `<a class="chip ${x.uid === c.uid ? 'sel' : ''}" href="#/home" data-ch="${esc(x.uid)}">${x.num < 999 ? 'Ch ' + x.num + ' · ' : ''}${esc(S.lang === 'ms' ? x.title.ms : x.title.en)}</a>`).join('')}<a class="chip" href="#/lib">＋ ${T('Add / manage', 'Tambah / urus')}</a></div>
-  </section>`;
-  v.querySelectorAll('[data-ch]').forEach(a => a.onclick = (e) => { e.preventDefault(); S.ch = a.dataset.ch; save(); render(); });
+  <h2 class="mb-3 mt-8">${T('Subjects', 'Subjek')}</h2>
+  <div class="grid gap-4 md:grid-cols-2 xl:grid-cols-3">${LIB.subjects.map(subCard).join('')}</div>`;
 };
 
-function coursePlan(c) {
-  const I = c.subj.info; if (!I) return '';
-  const have = (id) => c.subj.chapters.find(x => x.id === id);
+function coursePlan(sj) {
+  const I = sj.info; if (!I) return '';
+  const have = (id) => sj.chapters.find(x => x.id === id);
   const as = (I.assessment || []).map(x => `<div class="row"><span>${B(x.t, 'span')}</span><b>${x.pct}%</b></div><div class="bar"><i style="width:${x.pct}%"></i></div>`).join('');
   const plan = (I.plan || []).map(w => {
     const ch = w.ch && have(w.ch);
-    const st = w.brk ? '' : ch ? `<a class="chip ${ch.uid === c.uid ? 'sel' : ''}" href="#/home" data-ch="${esc(ch.uid)}">Ch ${ch.num}</a>` : `<span class="muted"><small>${T('not added yet', 'belum ditambah')}</small></span>`;
+    const st = w.brk ? '' : ch ? `<a class="chip ${ch.uid === S.ch ? 'sel' : ''}" href="#/home" data-ch="${esc(ch.uid)}">Ch ${ch.num}</a>` : `<span class="muted"><small>${T('not added yet', 'belum ditambah')}</small></span>`;
     return `<div class="plan-row ${w.brk ? 'brk' : ''}"><b class="wk">${T('Wk', 'Mgg')} ${esc(w.wk)}</b><span class="grow">${B(w.t, 'span')}</span>${st}</div>`;
   }).join('');
-  return `<section class="card"><h2>📅 ${T('Course plan', 'Pelan kursus')}</h2>${as ? `<h3>${T('Assessment', 'Penilaian')}</h3>${as}` : ''}${plan ? `<h3>${T('Weekly topics', 'Topik mingguan')}</h3>${plan}` : ''}</section>`;
+  return `<section class="card"><h2>📅 ${T('Course plan', 'Pelan kursus')}</h2><div class="grid gap-x-8 lg:grid-cols-2"><div>${as ? `<h3>${T('Assessment', 'Penilaian')}</h3>${as}` : ''}</div><div>${plan ? `<h3>${T('Weekly topics', 'Topik mingguan')}</h3>${plan}` : ''}</div></div></section>`;
 }
+
+routes.subject = function (v, a) {
+  const sj = LIB.subjects.find(x => x.id === a[0]) || curSubject(); if (!sj) return go('/dashboard');
+  S.subj = sj.id; save();
+  const ac = accent(sj), st = subjStats(sj), cs = sj.chapters;
+  const chCard = (c) => { const s2 = statsOf(c); return `<div class="card !my-0 flex flex-col">
+    <div class="flex items-start gap-3"><span class="grid h-10 w-10 flex-none place-items-center rounded-xl text-sm font-bold text-white" style="background:${ac}">${c.num < 999 ? c.num : '★'}</span>
+      <div class="min-w-0"><p class="font-semibold leading-snug text-slate-900 dark:text-white [&>span]:block [&>span.ms]:border-l-0 [&>span.ms]:pl-0 [&>span.ms]:text-sm">${B(c.title, 'span')}</p><p class="text-xs text-slate-500">${esc(c.standard || '')}${c.standard ? ' · ' : ''}${c.sections.length} ${T('sections', 'seksyen')} · ${c.cards.length} ${T('cards', 'kad')} · ${c.quiz.length} MCQ</p></div></div>
+    ${bar2(T('Notes read', 'Nota dibaca'), s2.readPct, ac)}${bar2(T('Card mastery', 'Penguasaan kad'), s2.mastery, ac)}${bar2(T('Quiz accuracy', 'Ketepatan kuiz'), s2.acc, ac)}
+    <div class="mt-4 flex flex-wrap gap-2"><a class="btn sm" data-ch="${esc(c.uid)}" href="#/home">${T('Open', 'Buka')}</a><a class="btn ghost sm" data-act data-ch="${esc(c.uid)}" data-to="/notes" href="#/notes">📘 ${u('notes')}</a><a class="btn ghost sm" data-act data-ch="${esc(c.uid)}" data-to="/quiz" href="#/quiz">✅ ${u('quiz')}</a>${s2.due ? `<span class="chip warn !py-1">${s2.due} ${T('due', 'ulang')}</span>` : ''}</div></div>`; };
+  v.innerHTML = `
+  <section class="hero relative overflow-hidden rounded-3xl p-6 text-white shadow-soft sm:p-8" style="background:linear-gradient(135deg,${ac},#0f172a 85%)">
+    <div class="pointer-events-none absolute -right-8 -top-8 h-44 w-44 rounded-full bg-white/10 blur-2xl"></div>
+    <p class="text-xs font-semibold uppercase tracking-wider text-white/70">${esc(sj.code)}${sj.short ? ' · ' + esc(sj.short) : ''}</p>
+    <h1 class="mt-1 !text-white">${esc(sj.name.en)}</h1>
+    <p class="mt-0.5 text-lg font-semibold text-white/80">${esc(sj.name.ms)}</p>
+    ${cs.length ? `<div class="mt-5 grid grid-cols-2 gap-2 sm:grid-cols-4">${[[cs.length, T('Chapters', 'Chapter')], [st.readPct + '%', T('Notes read', 'Nota dibaca')], [st.mastery + '%', T('Card mastery', 'Penguasaan kad')], [st.acc === null ? '–' : st.acc + '%', T('Quiz accuracy', 'Ketepatan kuiz')]].map(x => `<div class="rounded-xl bg-white/10 p-3 ring-1 ring-white/15"><b class="block text-xl">${x[0]}</b><span class="text-xs text-white/70">${x[1]}</span></div>`).join('')}</div>` : ''}
+  </section>
+  ${cs.length ? `
+  <h2 class="mb-3 mt-6">${T('Revise the whole subject', 'Ulang kaji seluruh subjek')}</h2>
+  <div class="grid gap-3 sm:grid-cols-3">
+    <a href="#/quiz/srun/all" data-act data-ch="${esc(cs[0].uid)}" data-to="/quiz/srun/all" class="tile !text-xl">✅<b>${T('Mixed practice', 'Latihan campuran')}</b><small>${scopeOf({ subj: sj }).quiz.length} MCQ</small></a>
+    <a href="#/exam" data-act data-ch="${esc(cs[0].uid)}" data-to="/exam" class="tile !text-xl">📝<b>${u('exam')}</b><small>${T('timed, English only', 'bermasa, English sahaja')}</small></a>
+    <a href="#/cards/sall" data-act data-ch="${esc(cs[0].uid)}" data-to="/cards/sall" class="tile !text-xl">🃏<b>${u('cards')}</b><small>${st.due} ${T('due', 'perlu ulang')} · ${st.fresh} ${T('new', 'baru')}</small></a></div>
+  <h2 class="mb-3 mt-8">${T('Chapters', 'Chapter')}</h2>
+  <div class="grid gap-4 md:grid-cols-2">${cs.map(chCard).join('')}</div>` : `
+  <div class="card mt-6 text-center"><p class="text-4xl">🗂️</p><h2 class="mt-2">${T('No chapters yet', 'Belum ada chapter')}</h2><p class="muted mx-auto max-w-md text-sm">${T('Add your first chapter: copy the AI prompt, give it your slides, then import the JSON file in the Library.', 'Tambah chapter pertama: salin prompt AI, beri slide anda, kemudian import fail JSON di Pustaka.')}</p><div class="actions justify-center"><a class="btn" href="#/lib/${esc(sj.id)}">＋ ${T('Add chapter', 'Tambah chapter')}</a></div></div>`}
+  ${coursePlan(sj)}`;
+};
+
+routes.home = function (v) {
+  const c = curCh(), ac = accent(c.subj), st = statsOf(c), weak = weakTopics(c);
+  const next = c.sections.find(x => !S.read[x.id]);
+  const act = (href, icon, en, ms, sub) => `<a href="${href}" class="tile !flex-row !items-center !gap-3 !text-xl"><span class="grid h-11 w-11 flex-none place-items-center rounded-xl text-xl" style="background:${ac}22">${icon}</span><span class="grow"><b class="block">${T(en, ms)}</b><small class="muted">${sub}</small></span><span class="text-slate-400">→</span></a>`;
+  v.innerHTML = `
+  <section class="hero relative overflow-hidden rounded-3xl p-6 text-white shadow-soft sm:p-8" style="background:linear-gradient(135deg,${ac},#0f172a 85%)">
+    <div class="pointer-events-none absolute -right-8 -top-8 h-44 w-44 rounded-full bg-white/10 blur-2xl"></div>
+    <p class="text-xs font-semibold uppercase tracking-wider text-white/70">${esc(c.subj.code)}${c.standard ? ' · ' + esc(c.standard) : ''}</p>
+    <h1 class="mt-1 !text-white">${B(c.title, 'span')}</h1>
+    <div class="mt-5 grid grid-cols-2 gap-2 sm:grid-cols-4">${[[st.read + '/' + st.sections, T('Sections read', 'Seksyen dibaca')], [st.mastery + '%', T('Card mastery', 'Penguasaan kad')], [st.acc === null ? '–' : st.acc + '%', T('Quiz accuracy', 'Ketepatan kuiz')], [st.due, T('Cards due', 'Kad perlu ulang')]].map(x => `<div class="rounded-xl bg-white/10 p-3 ring-1 ring-white/15"><b class="block text-xl">${x[0]}</b><span class="text-xs text-white/70">${x[1]}</span></div>`).join('')}</div>
+  </section>
+
+  <div class="mt-6 grid gap-6 lg:grid-cols-3">
+    <div class="lg:col-span-2">
+      <div class="grid gap-3 sm:grid-cols-2">
+        ${act(next ? '#/notes/' + encodeURIComponent(next.id) : '#/notes', '📘', next ? 'Continue reading' : 'Notes', next ? 'Sambung baca' : 'Nota', next ? esc(S.lang === 'ms' ? next.title.ms : next.title.en) : T('All sections read', 'Semua seksyen dibaca'))}
+        ${act('#/cards/all', '🃏', 'Flashcards', 'Kad ingatan', `${st.due} ${T('due', 'perlu ulang')} · ${st.fresh} ${T('new', 'baru')}`)}
+        ${act('#/quiz/run/all', '✅', 'Practice quiz', 'Kuiz latihan', `${c.quiz.length} MCQ`)}
+        ${act('#/exam', '📝', 'Exam mode', 'Mod exam', T('timed, English only', 'bermasa, English sahaja'))}
+      </div>
+      ${weak.length ? `<section class="card"><h2>${T('Weak topics', 'Topik lemah')}</h2><div class="chips">${weak.map(w => `<a class="chip warn" href="#/quiz/run/${encodeURIComponent(w.t)}">${esc(topicName(c, w.t)[S.lang === 'ms' ? 'ms' : 'en'])}</a>`).join('')}</div></section>` : ''}
+      ${c.outcomes ? `<section class="card"><h2>${T('Learning outcomes', 'Hasil pembelajaran')}</h2>${BL(c.outcomes)}</section>` : ''}
+    </div>
+    <div>
+      <section class="card !mt-0"><h2>${T('Suggested study plan', 'Cadangan pelan belajar')}</h2>
+        <ol class="plan text-sm">
+          <li><b>${T('Read', 'Baca')}</b>: ${T('Notes in dual mode, 1–2 sections per sitting', 'Nota dwibahasa, 1–2 seksyen setiap kali')}</li>
+          <li><b>${T('Recall', 'Ingat')}</b>: ${T('Flashcards daily (spaced repetition)', 'Kad ingatan setiap hari (ulangan berjarak)')}</li>
+          <li><b>${T('Practise', 'Latih')}</b>: ${T('Quiz by topic and the Tools tab', 'Kuiz ikut topik dan tab Alat')}</li>
+          <li><b>${T('Test', 'Uji')}</b>: ${T('English only, then Exam mode + essays', 'English sahaja, kemudian Mod exam + esei')}</li>
+        </ol></section>
+      ${toolList(c).length ? `<section class="card"><h2>${T('Quick tools', 'Alat pantas')}</h2><div class="grid grid-cols-1 gap-3">${toolList(c).map(t => toolTile(t, false)).join('')}</div></section>` : ''}
+    </div>
+  </div>`;
+};
 
 /* ----------------------------------------------------------------- NOTES */
 function renderBlock(b) {
@@ -587,8 +702,8 @@ function removeFromLib(uid) {
   LIB.subjects.forEach(s => { s.chapters = s.chapters.filter(c => c.uid !== uid); });
   LIB.subjects = LIB.subjects.filter(s => s.builtin || s.chapters.length);
 }
-routes.lib = function (v) {
-  const c = curCh(), sj = c ? c.subj : null;
+routes.lib = function (v, a) {
+  const sj = LIB.subjects.find(x => x.id === (a && a[0])) || curSubject();
   const subjHtml = LIB.subjects.map(s => `<div class="card"><h2>${esc(s.code)} · ${esc(S.lang === 'ms' ? s.name.ms : s.name.en)}</h2><div class="list">${s.chapters.map(x => `<div class="item"><span class="grow"><b>${x.num < 999 ? 'Ch ' + x.num + ' · ' : ''}${esc(S.lang === 'ms' ? x.title.ms : x.title.en)}</b><small class="muted">${x.sections.length} ${T('sections', 'seksyen')} · ${x.cards.length} ${T('cards', 'kad')} · ${x.quiz.length} MCQ · ${x.essay.length} ${T('essay', 'esei')} ${x.builtin ? '' : '· ' + T('imported', 'diimport')}</small></span><button class="btn ghost sm" data-open="${esc(x.uid)}">${T('Open', 'Buka')}</button>${x.builtin ? '' : `<button class="btn ghost sm danger" data-del="${esc(x.uid)}">${T('Delete', 'Padam')}</button>`}</div>`).join('') || `<p class="muted">–</p>`}</div></div>`).join('');
   v.innerHTML = `<h1>📚 ${u('lib')}</h1>
   ${subjHtml || `<div class="card"><p>${T('No content yet. Import a chapter file below.', 'Belum ada kandungan. Import fail chapter di bawah.')}</p></div>`}
@@ -596,7 +711,7 @@ routes.lib = function (v) {
   <div class="card">
     <h2>⬆️ ${T('Add a chapter', 'Tambah chapter')}</h2>
     <ol class="plan"><li>${T('Fill in the subject, then copy the AI prompt.', 'Isi maklumat subjek, kemudian salin prompt AI.')}</li><li>${T('Give the prompt + your slides/notes to Claude (or any AI). It returns a .json file.', 'Beri prompt + slide/nota anda kepada Claude (atau AI lain). Ia pulangkan fail .json.')}</li><li>${T('Import the file here.', 'Import fail itu di sini.')}</li></ol>
-    <div class="form"><div class="two"><label>ID<input id="sid" value="${esc(sj ? sj.id : '')}" placeholder="far2"></label><label>${T('Code', 'Kod')}<input id="scode" value="${esc(sj ? sj.code : '')}" placeholder="FAR2"></label></div>
+    <div class="form"><label>${T('Subject', 'Subjek')}<select id="selsubj">${LIB.subjects.map(x => `<option value="${esc(x.id)}" ${sj && x.id === sj.id ? 'selected' : ''}>${esc(x.code)} · ${esc(x.name.en)}</option>`).join('')}<option value="__new">＋ ${T('New subject', 'Subjek baharu')}</option></select></label><div class="two"><label>ID<input id="sid" value="${esc(sj ? sj.id : '')}" placeholder="far2"></label><label>${T('Code', 'Kod')}<input id="scode" value="${esc(sj ? sj.code : '')}" placeholder="FAR2"></label></div>
     <label>${T('Subject name (English)', 'Nama subjek (English)')}<input id="sen" value="${esc(sj ? sj.name.en : '')}" placeholder="Financial Reporting 2"></label>
     <label>${T('Subject name (Malay)', 'Nama subjek (BM)')}<input id="sms" value="${esc(sj ? sj.name.ms : '')}" placeholder="Pelaporan Kewangan 2"></label></div>
     <div class="actions"><button class="btn" id="cp">${T('Copy AI prompt', 'Salin prompt AI')}</button><a class="btn ghost" href="content/template.json" download="template.json">${T('Download template', 'Muat turun templat')}</a></div>
@@ -624,7 +739,7 @@ routes.lib = function (v) {
     msg.innerHTML = (res.ok.length ? `<div class="callout good"><span class="ico">✅</span><div>${T('Imported', 'Berjaya import')}: <b>${res.ok.map(esc).join(', ')}</b></div></div>` : '') +
       (res.errors.length ? `<div class="callout bad"><span class="ico">❌</span><div><b>${T('Could not import', 'Tidak dapat import')}</b><pre class="errs">${esc(res.errors.join('\n\n'))}</pre><button class="btn ghost sm" id="ce">${T('Copy errors (paste to the AI to fix)', 'Salin ralat (tampal kepada AI untuk betulkan)')}</button></div></div>` : '');
     if ($('#ce')) $('#ce').onclick = () => copyText(res.errors.join('\n\n'), $('#fb'));
-    if (res.ok.length) { const last = res.ok[res.ok.length - 1]; if (!res.errors.length) { S.ch = last; save(); } fillChapterSelect(); setTimeout(() => { if (!res.errors.length) go('/home'); }, 900); }
+    if (res.ok.length) { const last = res.ok[res.ok.length - 1]; if (!res.errors.length) { S.ch = last; save(); } renderSidebar(); setTimeout(() => { if (!res.errors.length) go('/home'); }, 900); }
   };
   $('#imp').onclick = () => { const t = $('#paste').value.trim(); if (!t) { msg.innerHTML = `<p class="muted">${T('Paste JSON first, or choose a file.', 'Tampal JSON dahulu, atau pilih fail.')}</p>`; return; } show(importText(t, 'pasted JSON')); };
   $('#file').onchange = async (e) => {
@@ -640,6 +755,7 @@ routes.lib = function (v) {
     const ok = await copyText(t, $('#fb'));
     msg.innerHTML = `<div class="callout good"><span class="ico">${ok ? '✅' : 'ℹ️'}</span><div>${ok ? T('Prompt copied. Paste it into Claude together with your slides.', 'Prompt disalin. Tampal dalam Claude bersama slide anda.') : T('Copy manually from the box above.', 'Salin secara manual dari kotak di atas.')}</div></div>`;
   };
+  $('#selsubj').onchange = (e) => { const x = LIB.subjects.find(q => q.id === e.target.value); $('#sid').value = x ? x.id : ''; $('#scode').value = x ? x.code : ''; $('#sen').value = x ? x.name.en : ''; $('#sms').value = x ? x.name.ms : ''; };
   $('#xp').onclick = () => dl('i-study-progress-' + today() + '.json', JSON.stringify({ istudy: 1, progress: S }));
   $('#xc').onclick = () => { const u2 = userStore(); if (!u2.length) { msg.innerHTML = `<p class="muted">${T('No imported chapters to export.', 'Tiada chapter import untuk dieksport.')}</p>`; return; } dl('i-study-my-chapters-' + today() + '.json', JSON.stringify({ chapters: u2 })); };
   $('#ip').onchange = async (e) => {
@@ -652,19 +768,27 @@ routes.lib = function (v) {
 
 /* ------------------------------------------------------------- chrome */
 function applyTheme() {
-  const t = S.theme; document.documentElement.dataset.theme = t === 'auto' ? '' : t;
-  const m = document.querySelector('meta[name=theme-color]'); if (m) m.content = (t === 'dark' || (t === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches)) ? '#0f1720' : '#0f766e';
+  const t = S.theme, dark = t === 'dark' || (t === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
+  document.documentElement.classList.toggle('dark', dark);
+  const m = document.querySelector('meta[name=theme-color]'); if (m) m.content = dark ? '#020617' : '#0f172a';
   const b = $('#theme'); if (b) b.textContent = { dark: '🌙', light: '☀️', auto: '🌓' }[t];
 }
-window.IS = { S, u, T, fmt, $, B, esc, go, md };
+window.IS = { S, u, T, fmt, $, B, esc, go, md, openChapter };
 async function init() {
   applyTheme();
   document.querySelectorAll('[data-lang]').forEach(b => b.onclick = () => { S.lang = b.dataset.lang; save(); render(); });
   $('#theme').onclick = () => { S.theme = S.theme === 'dark' ? 'light' : S.theme === 'light' ? 'auto' : 'dark'; save(); applyTheme(); };
-  $('#chsel').onchange = (e) => { S.ch = e.target.value; save(); if (location.hash === '#/home' || !location.hash) render(); else go('/home'); };
+  $('#menuBtn').onclick = () => drawer.open();
+  $('#backdrop').onclick = closeDrawer;
+  document.addEventListener('click', (e) => {
+    const a = e.target.closest('[data-ch]');
+    if (a) { e.preventDefault(); openChapter(a.dataset.ch, a.dataset.to); return; }
+    if (e.target.closest('#sidebar a')) closeDrawer();
+  });
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (S.theme === 'auto') applyTheme(); });
   view().innerHTML = '<p class="muted">Loading…</p>';
   try { await loadLib(); }
-  catch (e) { view().innerHTML = `<div class="card"><h2>⚠️ Could not load content</h2><p>${esc(e.message)}</p><p class="muted"><small>i-Study must be opened from a web address (e.g. GitHub Pages or a local server), not by double-clicking index.html. If you are offline, open the app once online first so it can save itself.</small></p></div>`; }
+  catch (e) { view().innerHTML = `<div class="card"><h2>⚠️ Could not load content</h2><p>${esc(e.message)}</p><p class="muted"><small>i-Study must be opened from a web address (e.g. Netlify or a local server), not by double-clicking index.html. If you are offline, open the app once online first so it can save itself.</small></p></div>`; }
   window.addEventListener('hashchange', render);
   render();
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});

@@ -1,0 +1,12 @@
+{
+  "name": "i-study",
+  "private": true,
+  "description": "i-Study PWA. Tailwind CSS is compiled to tailwind.css and committed; no build step is needed to deploy.",
+  "scripts": {
+    "build:css": "tailwindcss -c tailwind.config.js -i src/input.css -o tailwind.css --minify",
+    "watch:css": "tailwindcss -c tailwind.config.js -i src/input.css -o tailwind.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.4.17"
+  }
+}

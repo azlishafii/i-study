@@ -6,33 +6,53 @@
 <title>i-Study</title>
 <meta name="description" content="Belajar dwibahasa (BM + English): nota, kad ingatan, kuiz, mod exam untuk pelbagai subjek.">
 <meta name="robots" content="noindex, nofollow">
-<meta name="theme-color" content="#0f766e">
+<meta name="theme-color" content="#0f172a">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="tailwind.css">
+<script>
+  /* apply the saved theme before first paint (no flash) */
+  try {
+    var s = JSON.parse(localStorage.getItem('istudy.v1') || '{}'), t = s.theme || 'auto';
+    if (t === 'dark' || (t === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark');
+  } catch (e) {}
+</script>
 </head>
-<body>
-<header>
-  <a class="brand" href="#/home"><span class="logo">iS</span><span class="bn">i-Study</span></a>
-  <div class="ctl">
-    <div class="seg" role="group" aria-label="Language">
-      <button data-lang="en">EN</button><button data-lang="dual">EN+BM</button><button data-lang="ms">BM</button>
-    </div>
-    <button id="theme" class="ico-btn" aria-label="Theme">🌓</button>
+<body class="font-sans">
+<div id="backdrop" class="fixed inset-0 z-40 hidden bg-slate-900/60 backdrop-blur-sm lg:hidden"></div>
+
+<aside id="sidebar" class="fixed inset-y-0 left-0 z-50 flex w-72 -translate-x-full flex-col bg-slate-900 text-slate-200 shadow-2xl transition-transform duration-200 lg:translate-x-0 lg:shadow-none" aria-label="Sidebar">
+  <a href="#/dashboard" class="flex items-center gap-3 px-5 pb-4 pt-5 no-underline">
+    <span class="grid h-10 w-10 place-items-center rounded-xl bg-gradient-to-br from-teal-400 to-emerald-600 text-sm font-extrabold text-white shadow-lg shadow-teal-900/40">iS</span>
+    <span class="leading-tight"><span class="block text-lg font-bold text-white">i-Study</span><span class="block text-[11px] font-medium uppercase tracking-wider text-slate-400">BM · English</span></span>
+  </a>
+  <nav id="sidenav" class="flex-1 space-y-1 overflow-y-auto px-3 pb-4"></nav>
+  <div class="border-t border-white/10 p-3">
+    <a href="#/lib" id="navlib" class="nav-link"><span class="text-lg">📚</span><span class="grow" id="navlibtxt">Pustaka</span></a>
   </div>
-</header>
-<div class="chbar"><select id="chsel" aria-label="Subject and chapter"></select><a href="#/lib" class="ico-btn" aria-label="Library" title="Library">📚</a></div>
-<main id="view"></main>
-<nav id="navlabels">
-  <a href="#/home" data-r="home"><i>🏠</i><span data-k="home"></span></a>
-  <a href="#/notes" data-r="notes"><i>📘</i><span data-k="notes"></span></a>
-  <a href="#/cards" data-r="cards"><i>🃏</i><span data-k="cards"></span></a>
-  <a href="#/quiz" data-r="quiz"><i>✅</i><span data-k="quiz"></span></a>
-  <a href="#/tools" data-r="tools"><i>🧰</i><span data-k="tools"></span></a>
-</nav>
+</aside>
+
+<div class="lg:pl-72">
+  <header class="sticky top-0 z-30 border-b border-slate-200 bg-white/80 backdrop-blur dark:border-slate-800 dark:bg-slate-950/80" style="padding-top:env(safe-area-inset-top)">
+    <div class="flex h-14 items-center gap-3 px-4 sm:px-6 lg:px-8">
+      <button id="menuBtn" class="grid h-9 w-9 place-items-center rounded-lg text-slate-600 ring-1 ring-slate-200 hover:bg-slate-100 dark:text-slate-300 dark:ring-slate-700 dark:hover:bg-slate-800 lg:hidden" aria-label="Menu">
+        <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+      <div id="crumb" class="min-w-0 flex-1 truncate text-sm font-semibold text-slate-700 dark:text-slate-200"></div>
+      <div class="seg" role="group" aria-label="Language">
+        <button data-lang="en">EN</button><button data-lang="dual">EN+BM</button><button data-lang="ms">BM</button>
+      </div>
+      <button id="theme" class="grid h-9 w-9 place-items-center rounded-lg text-base ring-1 ring-slate-200 hover:bg-slate-100 dark:ring-slate-700 dark:hover:bg-slate-800" aria-label="Theme">🌓</button>
+    </div>
+  </header>
+  <div class="mx-auto w-full max-w-5xl px-4 pb-24 pt-6 sm:px-6 lg:px-8 lg:pb-12">
+    <div id="chhead"></div>
+    <main id="view"></main>
+  </div>
+</div>
 <script src="app.js"></script>
 <script src="tools-far2.js"></script>
 </body>
