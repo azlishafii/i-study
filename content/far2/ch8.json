@@ -1,0 +1,2191 @@
+{
+ "subject": {
+  "id": "far2",
+  "code": "FAR2",
+  "name": {
+   "en": "Financial Reporting 2",
+   "ms": "Pelaporan Kewangan 2"
+  }
+ },
+ "id": "ch8",
+ "num": 8,
+ "title": {
+  "en": "Deferred Tax",
+  "ms": "Cukai Tertunda"
+ },
+ "standard": "MFRS 112",
+ "outcomes": {
+  "en": [
+   "Define deferred taxes and differentiate between temporary differences and permanent differences",
+   "Identify and describe the types of temporary differences that cause deferred tax liabilities or deferred tax assets",
+   "Identify the recognition of deferred tax liabilities and assets, and measure the amounts for periodic income taxes",
+   "Explain and apply the differences in recognition for deferred tax liabilities and deferred tax assets",
+   "Discuss the disclosure requirements of accounting for deferred taxes",
+   "Analyze, critically evaluate and interpret issues in accounting for deferred taxes"
+  ],
+  "ms": [
+   "Takrif cukai tertunda dan bezakan perbezaan sementara dengan perbezaan kekal",
+   "Kenal pasti dan huraikan jenis perbezaan sementara yang menyebabkan liabiliti atau aset cukai tertunda",
+   "Kenal pasti pengiktirafan liabiliti dan aset cukai tertunda, dan ukur amaun untuk cukai pendapatan berkala",
+   "Terangkan dan aplikasikan perbezaan pengiktirafan liabiliti dan aset cukai tertunda",
+   "Bincangkan keperluan pendedahan perakaunan cukai tertunda",
+   "Analisis, nilai secara kritikal dan tafsir isu perakaunan cukai tertunda"
+  ]
+ },
+ "sections": [
+  {
+   "id": "intro",
+   "icon": "🧾",
+   "title": {
+    "en": "Introduction: Tax Expense vs Tax Payable",
+    "ms": "Pengenalan: Belanja Cukai vs Cukai Kena Bayar"
+   },
+   "ref": "MFRS 112 · Slides 4–5",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Accounting:** tax expense is estimated from **profit before tax**, following MFRS.",
+      "**Tax law:** tax payable is computed from **taxable income**, following tax rules.",
+      "The **two calculations differ**. The differences create a **liability or an asset: deferred tax**."
+     ],
+     "ms": [
+      "**Perakaunan:** belanja cukai dianggar daripada **untung sebelum cukai**, mengikut MFRS.",
+      "**Undang-undang cukai:** cukai kena bayar dikira daripada **pendapatan boleh cukai**, mengikut peraturan cukai.",
+      "**Dua pengiraan berbeza**. Perbezaan itu mewujudkan **liabiliti atau aset: cukai tertunda**."
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Total tax expense (P/L) = Current tax + Deferred tax",
+     "ms": "Jumlah belanja cukai (P/L) = Cukai semasa + Cukai tertunda"
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: Current tax = what you pay now. Deferred tax = what you will pay (DTL) or get back (DTA) later because of timing.",
+     "ms": "Cara ingat: Cukai semasa = apa yang dibayar sekarang. Cukai tertunda = apa yang akan dibayar (DTL) atau dituntut balik (DTA) kemudian kerana masa."
+    }
+   ]
+  },
+  {
+   "id": "diff",
+   "icon": "⚖️",
+   "title": {
+    "en": "Permanent vs Temporary Differences",
+    "ms": "Perbezaan Kekal vs Sementara"
+   },
+   "ref": "Slides 6–8",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Permanent differences",
+     "ms": "Perbezaan kekal"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Items **not allowable or not taxable** for tax purposes: included in accounting income but **never** in taxable income (or the reverse).",
+      "They **never reverse**, so they have **no deferred tax consequences**."
+     ],
+     "ms": [
+      "Item **tidak dibenarkan atau tidak dicukai**: masuk pendapatan perakaunan tetapi **tidak pernah** masuk pendapatan boleh cukai (atau sebaliknya).",
+      "Ia **tidak pernah berbalik**, jadi **tiada kesan cukai tertunda**."
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Non-taxable items",
+       "Non-deductible items"
+      ],
+      "ms": [
+       "Item tidak dicukai",
+       "Item tidak boleh ditolak"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Tax-exempt interest",
+        "Expenses due to violations of laws (fines and penalties)"
+       ],
+       "ms": [
+        "Faedah dikecualikan cukai",
+        "Belanja akibat pelanggaran undang-undang (denda dan penalti)"
+       ]
+      },
+      {
+       "en": [
+        "Life insurance proceeds on the death of an insured executive",
+        "Donations to unapproved charities"
+       ],
+       "ms": [
+        "Hasil insurans hayat atas kematian eksekutif diinsuranskan",
+        "Derma kepada badan kebajikan tidak diluluskan"
+       ]
+      },
+      {
+       "en": [
+        "Tax-exempt dividend",
+        "Meals and entertainment expense"
+       ],
+       "ms": [
+        "Dividen dikecualikan cukai",
+        "Belanja makanan dan hiburan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Temporary differences",
+     "ms": "Perbezaan sementara"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Items treated **differently** for tax and accounting that **reverse** over time.",
+      "Arise from **timing differences** and from circumstances **not related to timing**.",
+      "They **have deferred tax consequences**, depending on whether they are **taxable** or **deductible**."
+     ],
+     "ms": [
+      "Item yang dilayan **berbeza** untuk cukai dan perakaunan dan **berbalik** dari masa ke masa.",
+      "Timbul daripada **perbezaan masa** dan keadaan **tidak berkaitan masa**.",
+      "Ia **ada kesan cukai tertunda**, bergantung sama ada **boleh dicukai** atau **boleh ditolak**."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Test: \"Will this difference reverse?\" Yes → temporary → deferred tax. No → permanent → no deferred tax (it only changes the effective tax rate).",
+     "ms": "Ujian: \"Adakah perbezaan ini akan berbalik?\" Ya → sementara → cukai tertunda. Tidak → kekal → tiada cukai tertunda (hanya mengubah kadar cukai efektif)."
+    }
+   ]
+  },
+  {
+   "id": "temp",
+   "icon": "🔀",
+   "title": {
+    "en": "Taxable vs Deductible Temporary Differences",
+    "ms": "Perbezaan Sementara Boleh Dicukai vs Boleh Ditolak"
+   },
+   "ref": "Slides 9–12 · MFRS 112 para 5",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "Extra: the **tax base** of an asset = the amount deductible for tax against future taxable economic benefits when the carrying amount is recovered. The **tax base of a liability** = carrying amount − amounts deductible in future (+ future taxable amounts). Temporary difference = carrying amount − tax base.",
+     "ms": "Tambahan: **asas cukai** aset = amaun yang boleh ditolak untuk cukai terhadap manfaat ekonomi boleh dicukai masa depan bila amaun dibawa dipulihkan. **Asas cukai liabiliti** = amaun dibawa − amaun boleh ditolak masa depan (+ amaun boleh dicukai masa depan). Perbezaan sementara = amaun dibawa − asas cukai."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "",
+       "Taxable temporary difference",
+       "Deductible temporary difference"
+      ],
+      "ms": [
+       "",
+       "Perbezaan sementara boleh dicukai",
+       "Perbezaan sementara boleh ditolak"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Effect",
+        "Accounting income > taxable income (when it arises); future **taxable** amount",
+        "Accounting income < taxable income (when it arises); future **deductible** amount"
+       ],
+       "ms": [
+        "Kesan",
+        "Pendapatan perakaunan > pendapatan boleh cukai (semasa timbul); amaun **boleh dicukai** masa depan",
+        "Pendapatan perakaunan < pendapatan boleh cukai (semasa timbul); amaun **boleh ditolak** masa depan"
+       ]
+      },
+      {
+       "en": [
+        "Asset",
+        "Carrying amount **>** tax base",
+        "Carrying amount **<** tax base"
+       ],
+       "ms": [
+        "Aset",
+        "Amaun dibawa **>** asas cukai",
+        "Amaun dibawa **<** asas cukai"
+       ]
+      },
+      {
+       "en": [
+        "Liability",
+        "Carrying amount **<** tax base",
+        "Carrying amount **>** tax base"
+       ],
+       "ms": [
+        "Liabiliti",
+        "Amaun dibawa **<** asas cukai",
+        "Amaun dibawa **>** asas cukai"
+       ]
+      },
+      {
+       "en": [
+        "Result",
+        "**Deferred tax LIABILITY** (tax payable in future)",
+        "**Deferred tax ASSET** (tax recoverable in future)"
+       ],
+       "ms": [
+        "Hasil",
+        "**LIABILITI cukai tertunda** (cukai kena bayar masa depan)",
+        "**ASET cukai tertunda** (cukai boleh dituntut masa depan)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: Asset carrying amount ABOVE tax base → DTL. Liability carrying amount ABOVE tax base → DTA. (Asset and liability are opposites.)",
+     "ms": "Cara ingat: Amaun dibawa aset DI ATAS asas cukai → DTL. Amaun dibawa liabiliti DI ATAS asas cukai → DTA. (Aset dan liabiliti bertentangan.)"
+    },
+    {
+     "k": "note",
+     "en": "The slide says a deductible temporary difference \"creates deferred tax assets for the taxes to be paid on the future taxable amounts\". That is wrong; the correct statement is: DTA = tax **recoverable** on future **deductible** amounts.",
+     "ms": "Slide kata perbezaan sementara boleh ditolak \"mewujudkan aset cukai tertunda untuk cukai yang akan dibayar atas amaun boleh dicukai masa depan\". Itu salah; pernyataan betul: DTA = cukai **boleh dituntut** atas amaun **boleh ditolak** masa depan."
+    }
+   ]
+  },
+  {
+   "id": "method",
+   "icon": "📐",
+   "title": {
+    "en": "The Full Provision (Balance Sheet Liability) Method",
+    "ms": "Kaedah Peruntukan Penuh (Liabiliti Kunci Kira-kira)"
+   },
+   "ref": "MFRS 112 · Slides 13–14",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "MFRS 112 requires the **full provision method**: deferred tax on **all temporary differences**, using the **balance sheet liability method**.",
+      "Provide **in full**, whether or not future reversals will be offset by others.",
+      "The tax effect is recognised as **income tax expense** in profit or loss (statement of comprehensive income) and as an **asset or liability** in the statement of financial position.",
+      "Extra: if the item relating to the temporary difference was recognised in **OCI or equity**, the deferred tax is also recognised **in OCI or equity** (e.g. revaluation surplus)."
+     ],
+     "ms": [
+      "MFRS 112 memerlukan **kaedah peruntukan penuh**: cukai tertunda atas **semua perbezaan sementara**, menggunakan **kaedah liabiliti kunci kira-kira**.",
+      "Peruntukkan **sepenuhnya**, sama ada pembalikan masa depan akan diimbangi oleh yang lain atau tidak.",
+      "Kesan cukai diiktiraf sebagai **belanja cukai pendapatan** dalam untung atau rugi (penyata pendapatan komprehensif) dan sebagai **aset atau liabiliti** dalam penyata kedudukan kewangan.",
+      "Tambahan: jika item berkaitan perbezaan sementara diiktiraf dalam **OCI atau ekuiti**, cukai tertunda juga diiktiraf **dalam OCI atau ekuiti** (cth lebihan penilaian semula)."
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Deferred tax balance = Temporary difference × Tax rate (the rate expected when it reverses)",
+     "ms": "Baki cukai tertunda = Perbezaan sementara × Kadar cukai (kadar dijangka semasa berbalik)"
+    }
+   ]
+  },
+  {
+   "id": "dtl",
+   "icon": "📈",
+   "title": {
+    "en": "Deferred Tax Liability & Asset: Worked Examples",
+    "ms": "Liabiliti & Aset Cukai Tertunda: Contoh Kerja"
+   },
+   "ref": "Slides 15–18 · own numbers",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "The slides give no figures (Examples 8.1–8.7 are class exercises). The numbers below are invented for practice. Tax rate 24%.",
+     "ms": "Slide tiada angka (Contoh 8.1–8.7 ialah latihan kelas). Nombor di bawah direka untuk latihan. Kadar cukai 24%."
+    },
+    {
+     "k": "h",
+     "en": "A. Taxable temporary difference → DTL",
+     "ms": "A. Perbezaan sementara boleh dicukai → DTL"
+    },
+    {
+     "k": "ex",
+     "en": "A machine costs RM100,000. Accounting depreciation is RM20,000 a year. Capital allowances (tax depreciation) in year 1 are RM40,000. Profit before tax is RM200,000, with no other differences.",
+     "ms": "Mesin kos RM100,000. Susut nilai perakaunan RM20,000 setahun. Elaun modal (susut nilai cukai) tahun 1 ialah RM40,000. Untung sebelum cukai RM200,000, tiada perbezaan lain."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "",
+       "RM"
+      ],
+      "ms": [
+       "",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Carrying amount (100,000 − 20,000)",
+        "80,000"
+       ],
+       "ms": [
+        "Amaun dibawa (100,000 − 20,000)",
+        "80,000"
+       ]
+      },
+      {
+       "en": [
+        "Tax base (100,000 − 40,000)",
+        "60,000"
+       ],
+       "ms": [
+        "Asas cukai (100,000 − 40,000)",
+        "60,000"
+       ]
+      },
+      {
+       "en": [
+        "Taxable temporary difference",
+        "20,000"
+       ],
+       "ms": [
+        "Perbezaan sementara boleh dicukai",
+        "20,000"
+       ]
+      },
+      {
+       "en": [
+        "Deferred tax liability (20,000 × 24%)",
+        "4,800"
+       ],
+       "ms": [
+        "Liabiliti cukai tertunda (20,000 × 24%)",
+        "4,800"
+       ]
+      },
+      {
+       "en": [
+        "Taxable income: 200,000 + 20,000 − 40,000",
+        "180,000"
+       ],
+       "ms": [
+        "Pendapatan boleh cukai: 200,000 + 20,000 − 40,000",
+        "180,000"
+       ]
+      },
+      {
+       "en": [
+        "Current tax (180,000 × 24%)",
+        "43,200"
+       ],
+       "ms": [
+        "Cukai semasa (180,000 × 24%)",
+        "43,200"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "je",
+     "title": "Tax entries, year 1",
+     "lines": [
+      [
+       "Dr",
+       "Income tax expense (current 43,200 + deferred 4,800)",
+       "48,000"
+      ],
+      [
+       "Cr",
+       "Income tax payable",
+       "43,200"
+      ],
+      [
+       "Cr",
+       "Deferred tax liability",
+       "4,800"
+      ]
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Check: total tax expense 48,000 = 24% × accounting profit 200,000, because there are no permanent differences.",
+     "ms": "Semak: jumlah belanja cukai 48,000 = 24% × untung perakaunan 200,000, kerana tiada perbezaan kekal."
+    },
+    {
+     "k": "h",
+     "en": "B. Deductible temporary difference → DTA",
+     "ms": "B. Perbezaan sementara boleh ditolak → DTA"
+    },
+    {
+     "k": "ex",
+     "en": "A RM50,000 warranty provision is expensed this year but is tax-deductible only when paid.",
+     "ms": "Peruntukan waranti RM50,000 dibelanjakan tahun ini tetapi boleh ditolak cukai hanya apabila dibayar."
+    },
+    {
+     "k": "calc",
+     "en": "Carrying amount of liability 50,000; tax base 0 (50,000 − 50,000 future deductible); deductible temporary difference 50,000; DTA = 50,000 × 24% = RM12,000.",
+     "ms": "Amaun dibawa liabiliti 50,000; asas cukai 0 (50,000 − 50,000 boleh ditolak masa depan); perbezaan sementara boleh ditolak 50,000; DTA = 50,000 × 24% = RM12,000."
+    },
+    {
+     "k": "je",
+     "title": "Recognise the DTA",
+     "lines": [
+      [
+       "Dr",
+       "Deferred tax asset",
+       "12,000"
+      ],
+      [
+       "Cr",
+       "Income tax expense (deferred)",
+       "12,000"
+      ]
+     ]
+    },
+    {
+     "k": "h",
+     "en": "C. Permanent difference: no deferred tax",
+     "ms": "C. Perbezaan kekal: tiada cukai tertunda"
+    },
+    {
+     "k": "calc",
+     "en": "Fines of RM5,000 are never deductible: taxable income is higher by 5,000 (extra current tax 1,200) but there is no deferred tax. The effective tax rate rises above 24%.",
+     "ms": "Denda RM5,000 tidak pernah boleh ditolak: pendapatan boleh cukai lebih tinggi 5,000 (cukai semasa tambahan 1,200) tetapi tiada cukai tertunda. Kadar cukai efektif naik melebihi 24%."
+    }
+   ]
+  },
+  {
+   "id": "recog",
+   "icon": "✅",
+   "title": {
+    "en": "Recognition Conditions & Unrecognised DTA",
+    "ms": "Syarat Pengiktirafan & DTA Tidak Diiktiraf"
+   },
+   "ref": "MFRS 112 para 15–36 · Slides 30–31",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**DTL:** recognise for **all taxable temporary differences**, with exceptions (below).",
+      "**DTA:** recognise **only when it is probable that taxable profit will be available** against which the deductible temporary difference can be used.",
+      "Where there is **no such evidence**, the benefit is **unrecognised**. Examples: **unutilised tax losses** and **unabsorbed capital allowances**.",
+      "**Disclose** the amount of deductible temporary differences, unused tax losses and credits for which **no DTA is recognised**.",
+      "Review the carrying amount of recognised DTAs **at each reporting date** (extra, para 56)."
+     ],
+     "ms": [
+      "**DTL:** iktiraf untuk **semua perbezaan sementara boleh dicukai**, dengan pengecualian (di bawah).",
+      "**DTA:** iktiraf **hanya bila berkemungkinan besar untung boleh cukai akan ada** untuk digunakan terhadap perbezaan sementara boleh ditolak.",
+      "Jika **tiada bukti** sedemikian, manfaat **tidak diiktiraf**. Contoh: **kerugian cukai tidak digunakan** dan **elaun modal tidak diserap**.",
+      "**Dedah** amaun perbezaan sementara boleh ditolak, kerugian dan kredit cukai tidak digunakan yang **tiada DTA diiktiraf**.",
+      "Semak amaun dibawa DTA diiktiraf **pada setiap tarikh pelaporan** (tambahan, para 56)."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Exceptions and measurement (extra)",
+     "ms": "Pengecualian dan pengukuran (tambahan)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**No DTL** on the **initial recognition of goodwill** (para 15(a)).",
+      "**No deferred tax** on initial recognition of an asset/liability in a transaction that is **not a business combination** and affects **neither accounting nor taxable profit**.",
+      "Measure at the tax rate **enacted or substantively enacted** at the reporting date that is expected to apply when the asset is realised/liability settled.",
+      "Deferred tax is **not discounted**."
+     ],
+     "ms": [
+      "**Tiada DTL** atas **pengiktirafan awal muhibah (goodwill)** (para 15(a)).",
+      "**Tiada cukai tertunda** atas pengiktirafan awal aset/liabiliti dalam transaksi yang **bukan penggabungan perniagaan** dan tidak menjejaskan **untung perakaunan mahupun boleh cukai**.",
+      "Ukur pada kadar cukai yang **dikuatkuasakan atau hampir dikuatkuasakan** pada tarikh pelaporan yang dijangka terpakai bila aset direalisasi/liabiliti diselesaikan.",
+      "Cukai tertunda **tidak didiskaun**."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "loss",
+   "icon": "📉",
+   "title": {
+    "en": "Tax Losses",
+    "ms": "Kerugian Cukai"
+   },
+   "ref": "Slides 19–20 · Example 8.3",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "A **tax loss** arises when tax-deductible expenses **exceed** taxable revenues (negative taxable income). **No tax** is paid that year.",
+      "Depending on the jurisdiction, the loss may be used against taxable income of **earlier years (carryback)** or **later years (carry forward)**. The choice depends on expected tax rates and past taxable income.",
+      "A **DTA** is recognised for the unused loss **only if** future taxable profit is probable."
+     ],
+     "ms": [
+      "**Kerugian cukai** timbul bila perbelanjaan boleh tolak cukai **melebihi** hasil boleh cukai (pendapatan boleh cukai negatif). **Tiada cukai** dibayar tahun itu.",
+      "Bergantung bidang kuasa, kerugian boleh digunakan terhadap pendapatan boleh cukai **tahun terdahulu (carryback)** atau **tahun kemudian (carry forward)**. Pilihan bergantung pada kadar cukai dijangka dan pendapatan boleh cukai lalu.",
+      "**DTA** diiktiraf untuk kerugian tidak digunakan **hanya jika** untung boleh cukai masa depan berkemungkinan besar."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra: in Malaysia, unused business losses are generally carried forward (not carried back), subject to a time limit set by the Income Tax Act. Check the current limit with your lecturer.",
+     "ms": "Tambahan: di Malaysia, kerugian perniagaan tidak digunakan biasanya dibawa ke hadapan (bukan ke belakang), tertakluk kepada had masa dalam Akta Cukai Pendapatan. Semak had semasa dengan pensyarah."
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers): tax loss RM100,000; rate 24%; future profits are probable.",
+     "ms": "Latihan (nombor sendiri): kerugian cukai RM100,000; kadar 24%; untung masa depan berkemungkinan besar."
+    },
+    {
+     "k": "je",
+     "title": "Recognise the DTA on the tax loss",
+     "lines": [
+      [
+       "Dr",
+       "Deferred tax asset (100,000 × 24%)",
+       "24,000"
+      ],
+      [
+       "Cr",
+       "Income tax expense (deferred)",
+       "24,000"
+      ]
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "If future profits are NOT probable, record nothing and disclose the unrecognised amount.",
+     "ms": "Jika untung masa depan TIDAK berkemungkinan besar, tiada rekod dan dedah amaun tidak diiktiraf."
+    }
+   ]
+  },
+  {
+   "id": "compound",
+   "icon": "🧬",
+   "title": {
+    "en": "Compound Instruments",
+    "ms": "Instrumen Majmuk"
+   },
+   "ref": "Slides 21–23 · Example 8.4",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Compound (hybrid) instruments** have both **debt and equity** features (e.g. convertible bonds).",
+      "**Financial reporting:** separate the **liability** and **equity** components at initial recognition (MFRS 132).",
+      "**Tax:** the split creates a **temporary difference** between the **carrying amount of the liability component** and its **tax base**: this has deferred tax implications.",
+      "**Tax base of a liability = Carrying amount − Future deductible amounts + Future taxable amounts.**"
+     ],
+     "ms": [
+      "**Instrumen majmuk (hibrid)** mempunyai ciri **hutang dan ekuiti** (cth bon boleh tukar).",
+      "**Pelaporan kewangan:** asingkan komponen **liabiliti** dan **ekuiti** semasa pengiktirafan awal (MFRS 132).",
+      "**Cukai:** pemisahan mewujudkan **perbezaan sementara** antara **amaun dibawa komponen liabiliti** dan **asas cukai**nya: ini ada kesan cukai tertunda.",
+      "**Asas cukai liabiliti = Amaun dibawa − Amaun boleh ditolak masa depan + Amaun boleh dicukai masa depan.**"
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers, extra): a convertible bond raises RM1,000,000. The liability component is RM900,000 and equity RM100,000. The tax authority treats the whole RM1,000,000 as debt (tax base RM1,000,000). Rate 24%.",
+     "ms": "Latihan (nombor sendiri, tambahan): bon boleh tukar menaikkan RM1,000,000. Komponen liabiliti RM900,000 dan ekuiti RM100,000. Pihak berkuasa cukai melayan keseluruhan RM1,000,000 sebagai hutang (asas cukai RM1,000,000). Kadar 24%."
+    },
+    {
+     "k": "calc",
+     "en": "Carrying amount 900,000 < tax base 1,000,000 → taxable temporary difference 100,000 → DTL = 100,000 × 24% = RM24,000, charged to the equity component (equity 100,000 → 76,000), per MFRS 112 para 23.",
+     "ms": "Amaun dibawa 900,000 < asas cukai 1,000,000 → perbezaan sementara boleh dicukai 100,000 → DTL = 100,000 × 24% = RM24,000, dicajkan kepada komponen ekuiti (ekuiti 100,000 → 76,000), menurut MFRS 112 para 23."
+    },
+    {
+     "k": "note",
+     "en": "This compound-instrument calculation goes beyond the slides: confirm the expected depth with your lecturer.",
+     "ms": "Pengiraan instrumen majmuk ini melangkaui slide: sahkan kedalaman dijangka dengan pensyarah."
+    }
+   ]
+  },
+  {
+   "id": "sbp",
+   "icon": "🎯",
+   "title": {
+    "en": "Share-based Payments",
+    "ms": "Bayaran Berasaskan Saham"
+   },
+   "ref": "Slides 24–26 · Example 8.5",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Share-based payments:** payments by issuing equity instruments or cash payments based on share price (**MFRS 2**).",
+      "The expense is charged **over the vesting period**.",
+      "For tax, the **deduction** is usually allowed **only when the options are exercised** (later).",
+      "So a **temporary difference** arises. As the slide states, the **tax base** of the share-based payment is **nil**; a **DTA** arises on the expense already recognised."
+     ],
+     "ms": [
+      "**Bayaran berasaskan saham:** bayaran dengan mengeluarkan instrumen ekuiti atau bayaran tunai berasaskan harga saham (**MFRS 2**).",
+      "Belanja dicajkan **sepanjang tempoh vesting**.",
+      "Untuk cukai, **potongan** biasanya dibenarkan **hanya apabila opsyen dilaksanakan** (kemudian).",
+      "Jadi **perbezaan sementara** timbul. Seperti slide, **asas cukai** bayaran berasaskan saham ialah **sifar**; **DTA** timbul atas belanja yang telah diiktiraf."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra (MFRS 112 para 68A–68C): the DTA is measured on the estimated future tax deduction (based on the intrinsic value at the reporting date). If that deduction exceeds the cumulative expense recognised, the tax on the excess is recognised in equity.",
+     "ms": "Tambahan (MFRS 112 para 68A–68C): DTA diukur atas anggaran potongan cukai masa depan (berdasarkan nilai intrinsik pada tarikh pelaporan). Jika potongan itu melebihi belanja terkumpul diiktiraf, cukai atas lebihan diiktiraf dalam ekuiti."
+    }
+   ]
+  },
+  {
+   "id": "rates",
+   "icon": "🏷️",
+   "title": {
+    "en": "Tax Rate Considerations",
+    "ms": "Pertimbangan Kadar Cukai"
+   },
+   "ref": "Slide 27 · Example 8.6",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Scenario",
+       "Accounting treatment"
+      ],
+      "ms": [
+       "Senario",
+       "Layanan perakaunan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Tax rates differ in the years the temporary difference will reverse",
+        "Match the tax rate for each year with the future taxable/deductible amount for that year. Deferred tax = total tax effect over those years."
+       ],
+       "ms": [
+        "Kadar cukai berbeza pada tahun perbezaan sementara akan berbalik",
+        "Padankan kadar cukai setiap tahun dengan amaun boleh dicukai/ditolak masa depan tahun itu. Cukai tertunda = jumlah kesan cukai sepanjang tahun-tahun itu."
+       ]
+      },
+      {
+       "en": [
+        "Changes are made to tax rates and laws",
+        "Apply the new rate to current tax and to deferred tax balances; adjust the deferred tax accounts during the year; the effect goes to income in the year of change, except for items previously charged to equity (MFRS 112 para 60)."
+       ],
+       "ms": [
+        "Perubahan dibuat pada kadar dan undang-undang cukai",
+        "Guna kadar baharu pada cukai semasa dan baki cukai tertunda; laras akaun cukai tertunda dalam tahun itu; kesan ke pendapatan dalam tahun perubahan, kecuali item yang sebelum ini dicajkan kepada ekuiti (MFRS 112 para 60)."
+       ]
+      }
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers): DTL RM4,800 (temporary difference RM20,000 at 24%). The enacted rate falls to 22%.",
+     "ms": "Latihan (nombor sendiri): DTL RM4,800 (perbezaan sementara RM20,000 pada 24%). Kadar dikuatkuasakan jatuh kepada 22%."
+    },
+    {
+     "k": "calc",
+     "en": "New DTL = 20,000 × 22% = 4,400. Reduce the DTL by 400: Dr Deferred tax liability 400; Cr Income tax expense 400.",
+     "ms": "DTL baharu = 20,000 × 22% = 4,400. Kurangkan DTL sebanyak 400: Dr Liabiliti cukai tertunda 400; Cr Belanja cukai pendapatan 400."
+    }
+   ]
+  },
+  {
+   "id": "multi",
+   "icon": "🧮",
+   "title": {
+    "en": "Multiple Temporary Differences",
+    "ms": "Banyak Perbezaan Sementara"
+   },
+   "ref": "Slides 28–29 · Example 8.7",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "A company usually has **several** temporary differences, taxable and deductible.",
+      "**Total future taxable amounts × future tax rate** = balance of the **deferred tax liability**.",
+      "**Total future deductible amounts × future tax rate** = balance of the **deferred tax asset**."
+     ],
+     "ms": [
+      "Syarikat biasanya ada **beberapa** perbezaan sementara, boleh dicukai dan boleh ditolak.",
+      "**Jumlah amaun boleh dicukai masa depan × kadar cukai masa depan** = baki **liabiliti cukai tertunda**.",
+      "**Jumlah amaun boleh ditolak masa depan × kadar cukai masa depan** = baki **aset cukai tertunda**."
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers, rate 24%): taxable temporary differences — accelerated capital allowances RM20,000 and revaluation of land RM30,000. Deductible temporary differences — warranty provision RM50,000 and doubtful debts allowance RM10,000.",
+     "ms": "Latihan (nombor sendiri, kadar 24%): perbezaan sementara boleh dicukai — elaun modal dipercepat RM20,000 dan penilaian semula tanah RM30,000. Perbezaan sementara boleh ditolak — peruntukan waranti RM50,000 dan elaun hutang ragu RM10,000."
+    },
+    {
+     "k": "calc",
+     "en": "DTL = (20,000 + 30,000) × 24% = RM12,000. DTA = (50,000 + 10,000) × 24% = RM14,400. Net DTA = RM2,400 if offsetting is allowed.",
+     "ms": "DTL = (20,000 + 30,000) × 24% = RM12,000. DTA = (50,000 + 10,000) × 24% = RM14,400. DTA bersih = RM2,400 jika pelarasan dibenarkan."
+    },
+    {
+     "k": "note",
+     "en": "Extra (para 74): offset DTA and DTL only if the entity has a legally enforceable right to offset current tax and both relate to taxes levied by the same authority.",
+     "ms": "Tambahan (para 74): imbangkan (offset) DTA dan DTL hanya jika entiti ada hak sah untuk mengimbangi cukai semasa dan kedua-duanya berkaitan cukai yang dikenakan oleh pihak berkuasa sama."
+    }
+   ]
+  },
+  {
+   "id": "discl",
+   "icon": "📝",
+   "title": {
+    "en": "Disclosure Requirements",
+    "ms": "Keperluan Pendedahan"
+   },
+   "ref": "MFRS 112 para 79–88 · Slides 32–33",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Current** tax expense/income.",
+      "**Deferred** tax expense/income relating to the **origination and reversal** of temporary differences.",
+      "Income tax taken to **profit or loss, OCI and equity**.",
+      "**Tax effect of each type** of temporary difference, unused tax losses and unused tax credits.",
+      "Amount of **deductible temporary differences, unused tax losses and unused tax credits for which no deferred tax is recognised**."
+     ],
+     "ms": [
+      "Belanja/pendapatan cukai **semasa**.",
+      "Belanja/pendapatan cukai **tertunda** berkaitan **permulaan dan pembalikan** perbezaan sementara.",
+      "Cukai pendapatan dibawa ke **untung atau rugi, OCI dan ekuiti**.",
+      "**Kesan cukai setiap jenis** perbezaan sementara, kerugian cukai tidak digunakan dan kredit cukai tidak digunakan.",
+      "Amaun **perbezaan sementara boleh ditolak, kerugian cukai dan kredit cukai tidak digunakan yang tiada cukai tertunda diiktiraf**."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "issues",
+   "icon": "💬",
+   "title": {
+    "en": "Issues in Accounting for Deferred Tax",
+    "ms": "Isu Perakaunan Cukai Tertunda"
+   },
+   "ref": "Slides 34–37 (Case Studies 1–2)",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Business combinations",
+     "ms": "Penggabungan perniagaan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Identifiable assets and liabilities are measured at **fair value**; the **tax base** often stays at the old cost, so **temporary differences** arise at acquisition.",
+      "**No DTL** on the **initial recognition of goodwill** (MFRS 112 para 15(a)).",
+      "New information about facts at the acquisition date can change the **probability of realising a pre-acquisition DTA**."
+     ],
+     "ms": [
+      "Aset dan liabiliti boleh dikenal pasti diukur pada **nilai saksama**; **asas cukai** sering kekal pada kos lama, jadi **perbezaan sementara** timbul semasa perolehan.",
+      "**Tiada DTL** atas **pengiktirafan awal muhibah** (MFRS 112 para 15(a)).",
+      "Maklumat baharu tentang fakta pada tarikh perolehan boleh mengubah **kebarangkalian merealisasi DTA pra-perolehan**."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Consolidated financial statements",
+     "ms": "Penyata kewangan disatukan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Recognise deferred tax on **unrealised intra-group profits**: on the difference between the inventory's **carrying amount** (after eliminating the profit) and its **tax base** (cost to the buying company).",
+      "**Complexity:** group companies may pay tax at **different rates**; the rate and tax base must be consistent (use the buyer's rate)."
+     ],
+     "ms": [
+      "Iktiraf cukai tertunda atas **untung dalam kumpulan belum direalisasi**: atas beza antara **amaun dibawa** inventori (selepas menghapus untung) dan **asas cukai**nya (kos kepada syarikat pembeli).",
+      "**Kerumitan:** syarikat kumpulan mungkin membayar cukai pada **kadar berbeza**; kadar dan asas cukai mesti konsisten (guna kadar pembeli)."
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers): unrealised intra-group profit in closing inventory is RM20,000; the buyer's tax rate is 24%.",
+     "ms": "Latihan (nombor sendiri): untung dalam kumpulan belum direalisasi dalam inventori akhir ialah RM20,000; kadar cukai pembeli 24%."
+    },
+    {
+     "k": "calc",
+     "en": "Carrying amount (group) is RM20,000 lower than the tax base (buyer's cost) → deductible temporary difference 20,000 → DTA = 20,000 × 24% = RM4,800 (Dr Deferred tax asset; Cr Income tax expense, consolidation adjustment).",
+     "ms": "Amaun dibawa (kumpulan) RM20,000 lebih rendah daripada asas cukai (kos pembeli) → perbezaan sementara boleh ditolak 20,000 → DTA = 20,000 × 24% = RM4,800 (Dr Aset cukai tertunda; Cr Belanja cukai pendapatan, pelarasan penyatuan)."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "intro",
+   "q": {
+    "en": "Why does deferred tax arise?",
+    "ms": "Kenapa cukai tertunda timbul?"
+   },
+   "a": {
+    "en": "Accounting profit (MFRS) and taxable income (tax law) are calculated differently.",
+    "ms": "Untung perakaunan (MFRS) dan pendapatan boleh cukai (undang-undang cukai) dikira secara berbeza."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "intro",
+   "q": {
+    "en": "Total tax expense formula",
+    "ms": "Formula jumlah belanja cukai"
+   },
+   "a": {
+    "en": "Current tax + deferred tax.",
+    "ms": "Cukai semasa + cukai tertunda."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "diff",
+   "q": {
+    "en": "Permanent difference: definition and effect",
+    "ms": "Perbezaan kekal: takrif dan kesan"
+   },
+   "a": {
+    "en": "Item never taxable or never deductible; it never reverses; no deferred tax.",
+    "ms": "Item tidak pernah dicukai atau tidak pernah boleh ditolak; tidak berbalik; tiada cukai tertunda."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "diff",
+   "q": {
+    "en": "Examples of non-deductible items",
+    "ms": "Contoh item tidak boleh ditolak"
+   },
+   "a": {
+    "en": "Fines and penalties; donations to unapproved charities; meals and entertainment.",
+    "ms": "Denda dan penalti; derma kepada badan kebajikan tidak diluluskan; makanan dan hiburan."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "diff",
+   "q": {
+    "en": "Examples of non-taxable items",
+    "ms": "Contoh item tidak dicukai"
+   },
+   "a": {
+    "en": "Tax-exempt interest; life insurance proceeds on an insured executive's death; tax-exempt dividends.",
+    "ms": "Faedah dikecualikan cukai; hasil insurans hayat atas kematian eksekutif; dividen dikecualikan cukai."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "diff",
+   "q": {
+    "en": "Temporary difference: definition",
+    "ms": "Perbezaan sementara: takrif"
+   },
+   "a": {
+    "en": "Item treated differently for tax and accounting that reverses over time; has deferred tax consequences.",
+    "ms": "Item dilayan berbeza untuk cukai dan perakaunan yang berbalik dari masa ke masa; ada kesan cukai tertunda."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "temp",
+   "q": {
+    "en": "Tax base (asset) and temporary difference formula",
+    "ms": "Asas cukai (aset) dan formula perbezaan sementara"
+   },
+   "a": {
+    "en": "Temporary difference = carrying amount − tax base.",
+    "ms": "Perbezaan sementara = amaun dibawa − asas cukai."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "temp",
+   "q": {
+    "en": "Taxable temporary difference: asset/liability condition",
+    "ms": "Perbezaan sementara boleh dicukai: syarat aset/liabiliti"
+   },
+   "a": {
+    "en": "Asset: CA > tax base. Liability: CA < tax base. Result: DTL.",
+    "ms": "Aset: CA > asas cukai. Liabiliti: CA < asas cukai. Hasil: DTL."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "temp",
+   "q": {
+    "en": "Deductible temporary difference: asset/liability condition",
+    "ms": "Perbezaan sementara boleh ditolak: syarat aset/liabiliti"
+   },
+   "a": {
+    "en": "Asset: CA < tax base. Liability: CA > tax base. Result: DTA.",
+    "ms": "Aset: CA < asas cukai. Liabiliti: CA > asas cukai. Hasil: DTA."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "temp",
+   "q": {
+    "en": "DTL vs DTA in one line",
+    "ms": "DTL vs DTA dalam satu baris"
+   },
+   "a": {
+    "en": "DTL = tax payable on future taxable amounts; DTA = tax recoverable on future deductible amounts.",
+    "ms": "DTL = cukai kena bayar atas amaun boleh dicukai masa depan; DTA = cukai boleh dituntut atas amaun boleh ditolak masa depan."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "method",
+   "q": {
+    "en": "Which method does MFRS 112 require?",
+    "ms": "Kaedah mana MFRS 112 minta?"
+   },
+   "a": {
+    "en": "Full provision method, balance sheet liability method, on all temporary differences.",
+    "ms": "Kaedah peruntukan penuh, kaedah liabiliti kunci kira-kira, atas semua perbezaan sementara."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "method",
+   "q": {
+    "en": "Formula for deferred tax balance",
+    "ms": "Formula baki cukai tertunda"
+   },
+   "a": {
+    "en": "Temporary difference × tax rate expected on reversal.",
+    "ms": "Perbezaan sementara × kadar cukai dijangka semasa berbalik."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "dtl",
+   "q": {
+    "en": "Accelerated capital allowance → ?",
+    "ms": "Elaun modal dipercepat → ?"
+   },
+   "a": {
+    "en": "Tax base falls below carrying amount → taxable temporary difference → DTL.",
+    "ms": "Asas cukai jatuh di bawah amaun dibawa → perbezaan sementara boleh dicukai → DTL."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "dtl",
+   "q": {
+    "en": "Warranty provision not yet deductible → ?",
+    "ms": "Peruntukan waranti belum boleh ditolak → ?"
+   },
+   "a": {
+    "en": "Liability CA > tax base (0) → deductible temporary difference → DTA.",
+    "ms": "Liabiliti CA > asas cukai (0) → perbezaan sementara boleh ditolak → DTA."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "dtl",
+   "q": {
+    "en": "Do fines create deferred tax?",
+    "ms": "Adakah denda mewujudkan cukai tertunda?"
+   },
+   "a": {
+    "en": "No: a permanent difference; it only changes the effective tax rate.",
+    "ms": "Tidak: perbezaan kekal; ia hanya mengubah kadar cukai efektif."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "recog",
+   "q": {
+    "en": "When is a DTA recognised?",
+    "ms": "Bila DTA diiktiraf?"
+   },
+   "a": {
+    "en": "Only when it is probable that taxable profit will be available to use the deductible difference.",
+    "ms": "Hanya bila berkemungkinan besar untung boleh cukai ada untuk guna perbezaan boleh ditolak."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "recog",
+   "q": {
+    "en": "Unrecognised DTA: examples and disclosure",
+    "ms": "DTA tidak diiktiraf: contoh dan pendedahan"
+   },
+   "a": {
+    "en": "Unutilised tax losses; unabsorbed capital allowances. Disclose the amounts.",
+    "ms": "Kerugian cukai tidak digunakan; elaun modal tidak diserap. Dedah amaunnya."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "recog",
+   "q": {
+    "en": "Goodwill and deferred tax",
+    "ms": "Muhibah dan cukai tertunda"
+   },
+   "a": {
+    "en": "No DTL on initial recognition of goodwill (para 15(a)).",
+    "ms": "Tiada DTL atas pengiktirafan awal muhibah (para 15(a))."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "recog",
+   "q": {
+    "en": "Which tax rate is used?",
+    "ms": "Kadar cukai mana digunakan?"
+   },
+   "a": {
+    "en": "Enacted or substantively enacted rate expected when the asset is realised or liability settled; no discounting.",
+    "ms": "Kadar dikuatkuasakan atau hampir dikuatkuasakan dijangka bila aset direalisasi atau liabiliti diselesaikan; tiada diskaun."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "loss",
+   "q": {
+    "en": "Tax loss and DTA",
+    "ms": "Kerugian cukai dan DTA"
+   },
+   "a": {
+    "en": "DTA = unused loss × tax rate, only if future taxable profit is probable.",
+    "ms": "DTA = kerugian tidak digunakan × kadar cukai, hanya jika untung boleh cukai masa depan berkemungkinan besar."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "loss",
+   "q": {
+    "en": "Carryback vs carry forward",
+    "ms": "Carryback vs carry forward"
+   },
+   "a": {
+    "en": "Use the loss against earlier years (carryback) or later years (carry forward). In Malaysia generally carry forward.",
+    "ms": "Guna kerugian terhadap tahun terdahulu (carryback) atau tahun kemudian (carry forward). Di Malaysia biasanya carry forward."
+   }
+  },
+  {
+   "id": "c22",
+   "t": "compound",
+   "q": {
+    "en": "Compound instrument: tax base of the liability",
+    "ms": "Instrumen majmuk: asas cukai liabiliti"
+   },
+   "a": {
+    "en": "Carrying amount − future deductible amounts + future taxable amounts.",
+    "ms": "Amaun dibawa − amaun boleh ditolak masa depan + amaun boleh dicukai masa depan."
+   }
+  },
+  {
+   "id": "c23",
+   "t": "compound",
+   "q": {
+    "en": "Why do compound instruments create temporary differences?",
+    "ms": "Kenapa instrumen majmuk mewujudkan perbezaan sementara?"
+   },
+   "a": {
+    "en": "Accounting splits liability and equity; tax may treat the whole as debt, so carrying amount differs from tax base.",
+    "ms": "Perakaunan memisah liabiliti dan ekuiti; cukai mungkin layan keseluruhan sebagai hutang, jadi amaun dibawa berbeza daripada asas cukai."
+   }
+  },
+  {
+   "id": "c24",
+   "t": "sbp",
+   "q": {
+    "en": "Share-based payment: why a temporary difference?",
+    "ms": "Bayaran berasaskan saham: kenapa perbezaan sementara?"
+   },
+   "a": {
+    "en": "Expense over vesting period, but tax deduction only on exercise; tax base nil → DTA.",
+    "ms": "Belanja sepanjang tempoh vesting, tetapi potongan cukai hanya semasa laksana; asas cukai sifar → DTA."
+   }
+  },
+  {
+   "id": "c25",
+   "t": "rates",
+   "q": {
+    "en": "Rates differ across reversal years",
+    "ms": "Kadar berbeza antara tahun pembalikan"
+   },
+   "a": {
+    "en": "Match each year's rate with that year's taxable/deductible amount.",
+    "ms": "Padankan kadar setiap tahun dengan amaun boleh dicukai/ditolak tahun itu."
+   }
+  },
+  {
+   "id": "c26",
+   "t": "rates",
+   "q": {
+    "en": "Tax rate change: where does the adjustment go?",
+    "ms": "Perubahan kadar cukai: pelarasan ke mana?"
+   },
+   "a": {
+    "en": "Income (P/L) in the year of change, except items previously charged to equity.",
+    "ms": "Pendapatan (P/L) dalam tahun perubahan, kecuali item yang sebelum ini dicajkan ke ekuiti."
+   }
+  },
+  {
+   "id": "c27",
+   "t": "multi",
+   "q": {
+    "en": "Multiple temporary differences",
+    "ms": "Banyak perbezaan sementara"
+   },
+   "a": {
+    "en": "Total taxable amounts × rate = DTL; total deductible amounts × rate = DTA.",
+    "ms": "Jumlah amaun boleh dicukai × kadar = DTL; jumlah amaun boleh ditolak × kadar = DTA."
+   }
+  },
+  {
+   "id": "c28",
+   "t": "discl",
+   "q": {
+    "en": "Key deferred tax disclosures",
+    "ms": "Pendedahan utama cukai tertunda"
+   },
+   "a": {
+    "en": "Current and deferred tax expense; tax in OCI/equity; tax effect per type of difference; unrecognised amounts.",
+    "ms": "Belanja cukai semasa dan tertunda; cukai dalam OCI/ekuiti; kesan cukai setiap jenis perbezaan; amaun tidak diiktiraf."
+   }
+  },
+  {
+   "id": "c29",
+   "t": "issues",
+   "q": {
+    "en": "Business combination and deferred tax",
+    "ms": "Penggabungan perniagaan dan cukai tertunda"
+   },
+   "a": {
+    "en": "Fair-value adjustments create temporary differences; no DTL on initial goodwill.",
+    "ms": "Pelarasan nilai saksama mewujudkan perbezaan sementara; tiada DTL atas muhibah awal."
+   }
+  },
+  {
+   "id": "c30",
+   "t": "issues",
+   "q": {
+    "en": "Intra-group unrealised profit and deferred tax",
+    "ms": "Untung dalam kumpulan belum direalisasi dan cukai tertunda"
+   },
+   "a": {
+    "en": "Inventory CA (after elimination) < tax base → deductible difference → DTA at the buyer's tax rate.",
+    "ms": "CA inventori (selepas penghapusan) < asas cukai → perbezaan boleh ditolak → DTA pada kadar cukai pembeli."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "intro",
+   "q": {
+    "en": "Total income tax expense in profit or loss equals:",
+    "ms": "Jumlah belanja cukai pendapatan dalam untung atau rugi sama dengan:"
+   },
+   "o": [
+    "Current tax + deferred tax",
+    "Tax payable only",
+    "Deferred tax only",
+    "Profit before tax × 100%"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Total tax expense = current tax + deferred tax.",
+    "ms": "Jumlah belanja cukai = cukai semasa + cukai tertunda."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "diff",
+   "q": {
+    "en": "A permanent difference:",
+    "ms": "Perbezaan kekal:"
+   },
+   "o": [
+    "Reverses in a later period",
+    "Never reverses and gives no deferred tax",
+    "Always creates a DTA",
+    "Always creates a DTL"
+   ],
+   "a": 1,
+   "e": {
+    "en": "It never reverses, so no deferred tax.",
+    "ms": "Ia tidak berbalik, jadi tiada cukai tertunda."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "diff",
+   "q": {
+    "en": "Which is a non-deductible item?",
+    "ms": "Yang manakah item tidak boleh ditolak?"
+   },
+   "o": [
+    "Salaries",
+    "Depreciation",
+    "Fines and penalties",
+    "Rent"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Fines and penalties are not deductible.",
+    "ms": "Denda dan penalti tidak boleh ditolak."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "diff",
+   "q": {
+    "en": "Which is a non-taxable item?",
+    "ms": "Yang manakah item tidak dicukai?"
+   },
+   "o": [
+    "Interest on a taxable loan",
+    "Sales revenue",
+    "Rental income",
+    "Tax-exempt dividend"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Tax-exempt dividends are not taxable.",
+    "ms": "Dividen dikecualikan cukai tidak dicukai."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "diff",
+   "q": {
+    "en": "Temporary differences:",
+    "ms": "Perbezaan sementara:"
+   },
+   "o": [
+    "Have deferred tax consequences",
+    "Never reverse",
+    "Have no tax effect",
+    "Only relate to fines"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Temporary differences give deferred tax.",
+    "ms": "Perbezaan sementara memberi cukai tertunda."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "temp",
+   "q": {
+    "en": "An asset has a carrying amount of RM80,000 and a tax base of RM60,000. The temporary difference is:",
+    "ms": "Aset amaun dibawa RM80,000 dan asas cukai RM60,000. Perbezaan sementara ialah:"
+   },
+   "o": [
+    "Deductible (DTA)",
+    "Taxable (DTL)",
+    "Permanent",
+    "None"
+   ],
+   "a": 1,
+   "e": {
+    "en": "CA > tax base for an asset → taxable → DTL.",
+    "ms": "CA > asas cukai bagi aset → boleh dicukai → DTL."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "temp",
+   "q": {
+    "en": "A liability has a carrying amount of RM50,000 and a tax base of RM0. The temporary difference is:",
+    "ms": "Liabiliti amaun dibawa RM50,000 dan asas cukai RM0. Perbezaan sementara ialah:"
+   },
+   "o": [
+    "Taxable (DTL)",
+    "Permanent",
+    "Deductible (DTA)",
+    "None"
+   ],
+   "a": 2,
+   "e": {
+    "en": "CA > tax base for a liability → deductible → DTA.",
+    "ms": "CA > asas cukai bagi liabiliti → boleh ditolak → DTA."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "temp",
+   "q": {
+    "en": "A deductible temporary difference gives rise to:",
+    "ms": "Perbezaan sementara boleh ditolak menimbulkan:"
+   },
+   "o": [
+    "Revenue",
+    "A deferred tax liability",
+    "Permanent tax",
+    "A deferred tax asset"
+   ],
+   "a": 3,
+   "e": {
+    "en": "DTA: tax recoverable on future deductible amounts.",
+    "ms": "DTA: cukai boleh dituntut atas amaun boleh ditolak masa depan."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "temp",
+   "q": {
+    "en": "Accounting income is greater than taxable income when a temporary difference arises. It is a:",
+    "ms": "Pendapatan perakaunan lebih besar daripada pendapatan boleh cukai semasa perbezaan sementara timbul. Ia ialah:"
+   },
+   "o": [
+    "Taxable temporary difference",
+    "Deductible temporary difference",
+    "Permanent difference",
+    "Tax loss"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Taxable temporary difference (creates a DTL).",
+    "ms": "Perbezaan sementara boleh dicukai (mewujudkan DTL)."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "method",
+   "q": {
+    "en": "MFRS 112 requires deferred tax to be calculated using:",
+    "ms": "MFRS 112 memerlukan cukai tertunda dikira menggunakan:"
+   },
+   "o": [
+    "The partial provision method",
+    "The full provision (balance sheet liability) method",
+    "The income statement method",
+    "The cash method"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Full provision, balance sheet liability method.",
+    "ms": "Peruntukan penuh, kaedah liabiliti kunci kira-kira."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "dtl",
+   "q": {
+    "en": "Machine: carrying amount RM80,000; tax base RM60,000; rate 24%. The deferred tax liability is:",
+    "ms": "Mesin: amaun dibawa RM80,000; asas cukai RM60,000; kadar 24%. Liabiliti cukai tertunda:"
+   },
+   "o": [
+    "RM19,200",
+    "RM14,400",
+    "RM4,800",
+    "RM1,200"
+   ],
+   "a": 2,
+   "e": {
+    "en": "(80,000 − 60,000) × 24% = 4,800.",
+    "ms": "(80,000 − 60,000) × 24% = 4,800."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "dtl",
+   "q": {
+    "en": "Profit before tax RM200,000; depreciation RM20,000; capital allowance RM40,000; rate 24%. Current tax is:",
+    "ms": "Untung sebelum cukai RM200,000; susut nilai RM20,000; elaun modal RM40,000; kadar 24%. Cukai semasa:"
+   },
+   "o": [
+    "RM38,400",
+    "RM48,000",
+    "RM4,800",
+    "RM43,200"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Taxable income 200,000 + 20,000 − 40,000 = 180,000; × 24% = 43,200.",
+    "ms": "Pendapatan boleh cukai 200,000 + 20,000 − 40,000 = 180,000; × 24% = 43,200."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "dtl",
+   "q": {
+    "en": "In the same case, total tax expense is:",
+    "ms": "Dalam kes sama, jumlah belanja cukai:"
+   },
+   "o": [
+    "RM48,000",
+    "RM43,200",
+    "RM4,800",
+    "RM52,800"
+   ],
+   "a": 0,
+   "e": {
+    "en": "43,200 + 4,800 = 48,000 (= 24% × 200,000).",
+    "ms": "43,200 + 4,800 = 48,000 (= 24% × 200,000)."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "dtl",
+   "q": {
+    "en": "A RM50,000 warranty provision is deductible only when paid; rate 24%. The DTA is:",
+    "ms": "Peruntukan waranti RM50,000 boleh ditolak hanya bila dibayar; kadar 24%. DTA:"
+   },
+   "o": [
+    "RM50,000",
+    "RM12,000",
+    "RM26,000",
+    "RM6,000"
+   ],
+   "a": 1,
+   "e": {
+    "en": "50,000 × 24% = 12,000.",
+    "ms": "50,000 × 24% = 12,000."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "dtl",
+   "q": {
+    "en": "Fines of RM5,000 are non-deductible. The deferred tax effect is:",
+    "ms": "Denda RM5,000 tidak boleh ditolak. Kesan cukai tertunda:"
+   },
+   "o": [
+    "A DTL of RM1,200",
+    "A DTA of RM1,200",
+    "Nil: a permanent difference",
+    "A DTA of RM5,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Permanent differences have no deferred tax.",
+    "ms": "Perbezaan kekal tiada cukai tertunda."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "recog",
+   "q": {
+    "en": "A DTA is recognised only when:",
+    "ms": "DTA diiktiraf hanya bila:"
+   },
+   "o": [
+    "Rates are rising",
+    "The company is listed",
+    "There is a tax audit",
+    "Taxable profit is probable in the future"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Probable future taxable profit is required.",
+    "ms": "Untung boleh cukai masa depan berkemungkinan besar diperlukan."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "recog",
+   "q": {
+    "en": "Which creates an unrecognised DTA if no future profits are probable?",
+    "ms": "Yang manakah mewujudkan DTA tidak diiktiraf jika tiada untung masa depan berkemungkinan?"
+   },
+   "o": [
+    "Unutilised tax losses",
+    "Depreciation",
+    "Share capital",
+    "Fines"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Unused tax losses and unabsorbed capital allowances.",
+    "ms": "Kerugian cukai tidak digunakan dan elaun modal tidak diserap."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "recog",
+   "q": {
+    "en": "MFRS 112 para 15(a) prohibits recognising a deferred tax liability on:",
+    "ms": "MFRS 112 para 15(a) melarang pengiktirafan liabiliti cukai tertunda atas:"
+   },
+   "o": [
+    "Revaluation of land",
+    "Initial recognition of goodwill",
+    "Capital allowances",
+    "Provisions"
+   ],
+   "a": 1,
+   "e": {
+    "en": "No DTL on initial recognition of goodwill.",
+    "ms": "Tiada DTL atas pengiktirafan awal muhibah."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "loss",
+   "q": {
+    "en": "A tax loss of RM100,000 at 24% with probable future profits gives a DTA of:",
+    "ms": "Kerugian cukai RM100,000 pada 24% dengan untung masa depan berkemungkinan memberi DTA:"
+   },
+   "o": [
+    "RM76,000",
+    "RM100,000",
+    "RM24,000",
+    "Nil"
+   ],
+   "a": 2,
+   "e": {
+    "en": "100,000 × 24% = 24,000.",
+    "ms": "100,000 × 24% = 24,000."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "loss",
+   "q": {
+    "en": "If future taxable profit is NOT probable, the DTA on a tax loss is:",
+    "ms": "Jika untung boleh cukai masa depan TIDAK berkemungkinan, DTA atas kerugian cukai:"
+   },
+   "o": [
+    "Written off against equity",
+    "Recognised in full",
+    "Recognised at half",
+    "Not recognised, but disclosed"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Unrecognised and disclosed.",
+    "ms": "Tidak diiktiraf tetapi didedahkan."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "compound",
+   "q": {
+    "en": "The tax base of a liability equals:",
+    "ms": "Asas cukai liabiliti sama dengan:"
+   },
+   "o": [
+    "Carrying amount − future deductible amounts + future taxable amounts",
+    "Carrying amount + future deductible amounts",
+    "Fair value",
+    "Original cost"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Formula in MFRS 112.",
+    "ms": "Formula dalam MFRS 112."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "compound",
+   "q": {
+    "en": "A compound instrument is one that has:",
+    "ms": "Instrumen majmuk ialah yang mempunyai:"
+   },
+   "o": [
+    "Only equity features",
+    "Both debt and equity features",
+    "Only debt features",
+    "No cash flows"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Hybrid debt/equity instrument (e.g. convertible bond).",
+    "ms": "Instrumen hibrid hutang/ekuiti (cth bon boleh tukar)."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "sbp",
+   "q": {
+    "en": "For share-based payments the tax deduction is generally allowed:",
+    "ms": "Bagi bayaran berasaskan saham, potongan cukai biasanya dibenarkan:"
+   },
+   "o": [
+    "At grant date",
+    "Over the vesting period",
+    "When the options are exercised",
+    "Never"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Deduction on exercise, expense over vesting: temporary difference.",
+    "ms": "Potongan semasa laksana, belanja sepanjang vesting: perbezaan sementara."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "rates",
+   "q": {
+    "en": "DTL RM4,800 (difference RM20,000 at 24%). The rate falls to 22%. The DTL becomes:",
+    "ms": "DTL RM4,800 (beza RM20,000 pada 24%). Kadar jatuh kepada 22%. DTL jadi:"
+   },
+   "o": [
+    "RM3,600",
+    "RM4,800",
+    "RM5,200",
+    "RM4,400"
+   ],
+   "a": 3,
+   "e": {
+    "en": "20,000 × 22% = 4,400.",
+    "ms": "20,000 × 22% = 4,400."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "rates",
+   "q": {
+    "en": "The effect of a change in tax rate on deferred tax is normally recognised in:",
+    "ms": "Kesan perubahan kadar cukai pada cukai tertunda biasanya diiktiraf dalam:"
+   },
+   "o": [
+    "Profit or loss in the year of change",
+    "Retained earnings only",
+    "Share capital",
+    "The following year"
+   ],
+   "a": 0,
+   "e": {
+    "en": "In income in the year of change (except items charged to equity).",
+    "ms": "Dalam pendapatan tahun perubahan (kecuali item dicajkan ke ekuiti)."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "multi",
+   "q": {
+    "en": "Taxable temporary differences RM50,000; deductible RM60,000; rate 24%. The DTL and DTA are:",
+    "ms": "Perbezaan sementara boleh dicukai RM50,000; boleh ditolak RM60,000; kadar 24%. DTL dan DTA:"
+   },
+   "o": [
+    "DTL 14,400; DTA 12,000",
+    "DTL 12,000; DTA 14,400",
+    "DTL 26,400; DTA 0",
+    "DTL 0; DTA 26,400"
+   ],
+   "a": 1,
+   "e": {
+    "en": "50,000 × 24% = 12,000; 60,000 × 24% = 14,400.",
+    "ms": "50,000 × 24% = 12,000; 60,000 × 24% = 14,400."
+   }
+  },
+  {
+   "id": "q27",
+   "t": "discl",
+   "q": {
+    "en": "Which is a required disclosure?",
+    "ms": "Yang manakah pendedahan diperlukan?"
+   },
+   "o": [
+    "Customer names",
+    "The CEO's salary",
+    "Deductible differences and losses for which no deferred tax is recognised",
+    "Supplier prices"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Unrecognised amounts must be disclosed.",
+    "ms": "Amaun tidak diiktiraf mesti didedah."
+   }
+  },
+  {
+   "id": "q28",
+   "t": "issues",
+   "q": {
+    "en": "In consolidated statements, unrealised intra-group profit in inventory gives:",
+    "ms": "Dalam penyata disatukan, untung dalam kumpulan belum direalisasi dalam inventori memberi:"
+   },
+   "o": [
+    "A permanent difference",
+    "A taxable difference (DTL)",
+    "No tax effect",
+    "A deductible temporary difference (DTA)"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Group carrying amount is below the buyer's tax base → DTA.",
+    "ms": "Amaun dibawa kumpulan di bawah asas cukai pembeli → DTA."
+   }
+  },
+  {
+   "id": "q29",
+   "t": "issues",
+   "q": {
+    "en": "Intra-group profit of RM20,000 and buyer's rate 24%. The DTA is:",
+    "ms": "Untung dalam kumpulan RM20,000 dan kadar pembeli 24%. DTA:"
+   },
+   "o": [
+    "RM4,800",
+    "RM20,000",
+    "RM24,000",
+    "RM2,400"
+   ],
+   "a": 0,
+   "e": {
+    "en": "20,000 × 24% = 4,800.",
+    "ms": "20,000 × 24% = 4,800."
+   }
+  },
+  {
+   "id": "q30",
+   "t": "issues",
+   "q": {
+    "en": "Fair-value adjustments in a business combination usually:",
+    "ms": "Pelarasan nilai saksama dalam penggabungan perniagaan biasanya:"
+   },
+   "o": [
+    "Remove all tax effects",
+    "Create temporary differences because tax bases stay at old cost",
+    "Create permanent differences",
+    "Apply only to goodwill"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Carrying amounts rise to fair value, tax bases do not.",
+    "ms": "Amaun dibawa naik ke nilai saksama, asas cukai tidak."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "diff",
+   "marks": 6,
+   "q": {
+    "en": "Distinguish between permanent and temporary differences, with examples, and explain why only temporary differences give rise to deferred tax.",
+    "ms": "Bezakan perbezaan kekal dan sementara, dengan contoh, dan terangkan kenapa hanya perbezaan sementara menimbulkan cukai tertunda."
+   },
+   "pts": {
+    "en": [
+     "Permanent: never taxable/deductible, never reverses (1)",
+     "Examples: fines, unapproved donations, meals and entertainment, tax-exempt income (2)",
+     "Temporary: treated differently but reverses over time (1)",
+     "Temporary differences create future taxable/deductible amounts → DTL/DTA (1)",
+     "Permanent differences only change the effective tax rate (1)"
+    ],
+    "ms": [
+     "Kekal: tidak pernah dicukai/ditolak, tidak berbalik (1)",
+     "Contoh: denda, derma tidak diluluskan, makanan dan hiburan, pendapatan dikecualikan cukai (2)",
+     "Sementara: dilayan berbeza tetapi berbalik dari masa ke masa (1)",
+     "Perbezaan sementara mewujudkan amaun boleh dicukai/ditolak masa depan → DTL/DTA (1)",
+     "Perbezaan kekal hanya mengubah kadar cukai efektif (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "dtl",
+   "marks": 10,
+   "q": {
+    "en": "A company bought a machine for RM150,000. Accounting depreciation is RM30,000 a year. Capital allowance in year 1 is RM60,000. Profit before tax is RM300,000; tax rate 24%. (a) Compute the carrying amount, tax base and deferred tax at the end of year 1. (b) Compute current tax and total tax expense. (c) Give the journal.",
+    "ms": "Syarikat membeli mesin RM150,000. Susut nilai perakaunan RM30,000 setahun. Elaun modal tahun 1 ialah RM60,000. Untung sebelum cukai RM300,000; kadar cukai 24%. (a) Kira amaun dibawa, asas cukai dan cukai tertunda pada akhir tahun 1. (b) Kira cukai semasa dan jumlah belanja cukai. (c) Beri jurnal."
+   },
+   "pts": {
+    "en": [
+     "Carrying amount 150,000 − 30,000 = 120,000 (1)",
+     "Tax base 150,000 − 60,000 = 90,000 (1)",
+     "Taxable temporary difference 30,000; DTL = 30,000 × 24% = 7,200 (2)",
+     "Taxable income 300,000 + 30,000 − 60,000 = 270,000 (2)",
+     "Current tax 270,000 × 24% = 64,800 (1)",
+     "Total tax expense 64,800 + 7,200 = 72,000 = 24% × 300,000 (1)",
+     "Dr Income tax expense 72,000; Cr Tax payable 64,800; Cr DTL 7,200 (2)"
+    ],
+    "ms": [
+     "Amaun dibawa 150,000 − 30,000 = 120,000 (1)",
+     "Asas cukai 150,000 − 60,000 = 90,000 (1)",
+     "Perbezaan sementara boleh dicukai 30,000; DTL = 30,000 × 24% = 7,200 (2)",
+     "Pendapatan boleh cukai 300,000 + 30,000 − 60,000 = 270,000 (2)",
+     "Cukai semasa 270,000 × 24% = 64,800 (1)",
+     "Jumlah belanja cukai 64,800 + 7,200 = 72,000 = 24% × 300,000 (1)",
+     "Dr Belanja cukai 72,000; Cr Cukai kena bayar 64,800; Cr DTL 7,200 (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "recog",
+   "marks": 6,
+   "q": {
+    "en": "Explain when a deferred tax asset can be recognised, and how unutilised tax losses are treated.",
+    "ms": "Terangkan bila aset cukai tertunda boleh diiktiraf, dan bagaimana kerugian cukai tidak digunakan dilayan."
+   },
+   "pts": {
+    "en": [
+     "DTA arises from deductible temporary differences (1)",
+     "Recognise only if taxable profit is probable in the future (2)",
+     "Unutilised tax losses/unabsorbed capital allowances: recognise a DTA only if probable profits (1)",
+     "Otherwise unrecognised, but disclosed (1)",
+     "Reassess at each reporting date (1)"
+    ],
+    "ms": [
+     "DTA timbul daripada perbezaan sementara boleh ditolak (1)",
+     "Iktiraf hanya jika untung boleh cukai berkemungkinan pada masa depan (2)",
+     "Kerugian cukai tidak digunakan/elaun modal tidak diserap: iktiraf DTA hanya jika untung berkemungkinan (1)",
+     "Jika tidak, tidak diiktiraf, tetapi didedahkan (1)",
+     "Nilai semula setiap tarikh pelaporan (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "multi",
+   "marks": 8,
+   "q": {
+    "en": "A company has taxable temporary differences of RM80,000 and deductible temporary differences of RM50,000. The tax rate is 24% and will fall to 22% next year (enacted). Compute the closing DTL and DTA at 22% and the adjustment arising from the rate change on the DTL if it was previously measured at 24%.",
+    "ms": "Syarikat ada perbezaan sementara boleh dicukai RM80,000 dan boleh ditolak RM50,000. Kadar cukai 24% dan akan jatuh kepada 22% tahun depan (dikuatkuasakan). Kira DTL dan DTA penutup pada 22% dan pelarasan akibat perubahan kadar atas DTL jika sebelum ini diukur pada 24%."
+   },
+   "pts": {
+    "en": [
+     "DTL at 22% = 80,000 × 22% = 17,600 (2)",
+     "DTA at 22% = 50,000 × 22% = 11,000 (2)",
+     "DTL previously at 24% = 19,200 (1)",
+     "Reduction in DTL = 19,200 − 17,600 = 1,600 (1)",
+     "Dr DTL 1,600; Cr Income tax expense 1,600 (profit or loss) (2)"
+    ],
+    "ms": [
+     "DTL pada 22% = 80,000 × 22% = 17,600 (2)",
+     "DTA pada 22% = 50,000 × 22% = 11,000 (2)",
+     "DTL sebelum ini pada 24% = 19,200 (1)",
+     "Pengurangan DTL = 19,200 − 17,600 = 1,600 (1)",
+     "Dr DTL 1,600; Cr Belanja cukai 1,600 (untung atau rugi) (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "issues",
+   "marks": 6,
+   "q": {
+    "en": "Discuss two issues in accounting for deferred tax in business combinations and consolidated financial statements.",
+    "ms": "Bincangkan dua isu perakaunan cukai tertunda dalam penggabungan perniagaan dan penyata kewangan disatukan."
+   },
+   "pts": {
+    "en": [
+     "Fair-value adjustments create temporary differences because tax bases stay at old cost (2)",
+     "No DTL on initial recognition of goodwill (MFRS 112 para 15(a)) (1)",
+     "Unrealised intra-group profit: deferred tax on difference between group carrying amount and buyer's tax base (2)",
+     "Different tax rates within the group: use consistent rate and tax base (1)"
+    ],
+    "ms": [
+     "Pelarasan nilai saksama mewujudkan perbezaan sementara kerana asas cukai kekal pada kos lama (2)",
+     "Tiada DTL atas pengiktirafan awal muhibah (MFRS 112 para 15(a)) (1)",
+     "Untung dalam kumpulan belum direalisasi: cukai tertunda atas beza amaun dibawa kumpulan dan asas cukai pembeli (2)",
+     "Kadar cukai berbeza dalam kumpulan: guna kadar dan asas cukai konsisten (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Deferred tax",
+   "Cukai tertunda"
+  ],
+  [
+   "Current tax",
+   "Cukai semasa"
+  ],
+  [
+   "Tax expense",
+   "Belanja cukai"
+  ],
+  [
+   "Taxable income",
+   "Pendapatan boleh cukai"
+  ],
+  [
+   "Permanent difference",
+   "Perbezaan kekal"
+  ],
+  [
+   "Temporary difference",
+   "Perbezaan sementara"
+  ],
+  [
+   "Taxable temporary difference",
+   "Perbezaan sementara boleh dicukai"
+  ],
+  [
+   "Deductible temporary difference",
+   "Perbezaan sementara boleh ditolak"
+  ],
+  [
+   "Deferred tax liability (DTL)",
+   "Liabiliti cukai tertunda (DTL)"
+  ],
+  [
+   "Deferred tax asset (DTA)",
+   "Aset cukai tertunda (DTA)"
+  ],
+  [
+   "Tax base",
+   "Asas cukai"
+  ],
+  [
+   "Carrying amount",
+   "Amaun dibawa"
+  ],
+  [
+   "Capital allowance",
+   "Elaun modal"
+  ],
+  [
+   "Full provision method",
+   "Kaedah peruntukan penuh"
+  ],
+  [
+   "Balance sheet liability method",
+   "Kaedah liabiliti kunci kira-kira"
+  ],
+  [
+   "Tax loss",
+   "Kerugian cukai"
+  ],
+  [
+   "Carryback / Carry forward",
+   "Bawa ke belakang / Bawa ke hadapan"
+  ],
+  [
+   "Unabsorbed capital allowance",
+   "Elaun modal tidak diserap"
+  ],
+  [
+   "Unrecognised deferred tax asset",
+   "Aset cukai tertunda tidak diiktiraf"
+  ],
+  [
+   "Compound instrument",
+   "Instrumen majmuk"
+  ],
+  [
+   "Share-based payment",
+   "Bayaran berasaskan saham"
+  ],
+  [
+   "Vesting period",
+   "Tempoh vesting"
+  ],
+  [
+   "Enacted tax rate",
+   "Kadar cukai dikuatkuasakan"
+  ],
+  [
+   "Offset",
+   "Imbangan (offset)"
+  ],
+  [
+   "Intra-group profit",
+   "Untung dalam kumpulan"
+  ],
+  [
+   "Goodwill",
+   "Muhibah (goodwill)"
+  ],
+  [
+   "Effective tax rate",
+   "Kadar cukai efektif"
+  ],
+  [
+   "Disclosure",
+   "Pendedahan"
+  ]
+ ],
+ "flows": [
+  {
+   "id": "type",
+   "icon": "🧭",
+   "title": {
+    "en": "DTL, DTA or none?",
+    "ms": "DTL, DTA atau tiada?"
+   },
+   "sub": {
+    "en": "Compare carrying amount with tax base",
+    "ms": "Banding amaun dibawa dengan asas cukai"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is the item an ASSET?",
+      "ms": "Adakah item itu ASET?"
+     },
+     "y": "n2",
+     "n": "n5"
+    },
+    "n2": {
+     "q": {
+      "en": "Is the carrying amount GREATER than the tax base?",
+      "ms": "Adakah amaun dibawa LEBIH BESAR daripada asas cukai?"
+     },
+     "y": "rDTL",
+     "n": "n3"
+    },
+    "n3": {
+     "q": {
+      "en": "Is the carrying amount LESS than the tax base?",
+      "ms": "Adakah amaun dibawa LEBIH KECIL daripada asas cukai?"
+     },
+     "y": "rDTA",
+     "n": "rNone"
+    },
+    "n5": {
+     "q": {
+      "en": "Liability: is the carrying amount GREATER than the tax base?",
+      "ms": "Liabiliti: adakah amaun dibawa LEBIH BESAR daripada asas cukai?"
+     },
+     "y": "rDTA",
+     "n": "n6"
+    },
+    "n6": {
+     "q": {
+      "en": "Liability: is the carrying amount LESS than the tax base?",
+      "ms": "Liabiliti: adakah amaun dibawa LEBIH KECIL daripada asas cukai?"
+     },
+     "y": "rDTL",
+     "n": "rNone"
+    }
+   },
+   "results": {
+    "rDTL": {
+     "c": "warn",
+     "t": {
+      "en": "Taxable temporary difference → Deferred tax LIABILITY",
+      "ms": "Perbezaan sementara boleh dicukai → LIABILITI cukai tertunda"
+     },
+     "d": {
+      "en": "DTL = temporary difference × tax rate.",
+      "ms": "DTL = perbezaan sementara × kadar cukai."
+     }
+    },
+    "rDTA": {
+     "c": "good",
+     "t": {
+      "en": "Deductible temporary difference → Deferred tax ASSET (if probable profits)",
+      "ms": "Perbezaan sementara boleh ditolak → ASET cukai tertunda (jika untung berkemungkinan)"
+     },
+     "d": {
+      "en": "DTA = temporary difference × tax rate, recognised only if taxable profit is probable.",
+      "ms": "DTA = perbezaan sementara × kadar cukai, diiktiraf hanya jika untung boleh cukai berkemungkinan."
+     }
+    },
+    "rNone": {
+     "c": "info",
+     "t": {
+      "en": "No temporary difference",
+      "ms": "Tiada perbezaan sementara"
+     },
+     "d": {
+      "en": "Carrying amount equals the tax base: no deferred tax.",
+      "ms": "Amaun dibawa sama dengan asas cukai: tiada cukai tertunda."
+     }
+    }
+   }
+  },
+  {
+   "id": "perm",
+   "icon": "⚖️",
+   "title": {
+    "en": "Permanent or temporary?",
+    "ms": "Kekal atau sementara?"
+   },
+   "sub": {
+    "en": "Does it reverse?",
+    "ms": "Adakah ia berbalik?"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Will the difference reverse in a future period (the item will eventually be taxed or deducted in a different period)?",
+      "ms": "Adakah perbezaan itu akan berbalik pada tempoh akan datang (item akhirnya dicukai atau ditolak pada tempoh berbeza)?"
+     },
+     "y": "rTemp",
+     "n": "rPerm"
+    }
+   },
+   "results": {
+    "rTemp": {
+     "c": "good",
+     "t": {
+      "en": "Temporary difference",
+      "ms": "Perbezaan sementara"
+     },
+     "d": {
+      "en": "Deferred tax is recognised (DTL or DTA).",
+      "ms": "Cukai tertunda diiktiraf (DTL atau DTA)."
+     }
+    },
+    "rPerm": {
+     "c": "warn",
+     "t": {
+      "en": "Permanent difference",
+      "ms": "Perbezaan kekal"
+     },
+     "d": {
+      "en": "No deferred tax; it only changes the effective tax rate (e.g. fines, entertainment, tax-exempt income).",
+      "ms": "Tiada cukai tertunda; ia hanya mengubah kadar cukai efektif (cth denda, hiburan, pendapatan dikecualikan cukai)."
+     }
+    }
+   }
+  },
+  {
+   "id": "dta",
+   "icon": "✅",
+   "title": {
+    "en": "Recognise the DTA?",
+    "ms": "Iktiraf DTA?"
+   },
+   "sub": {
+    "en": "Probable taxable profit test",
+    "ms": "Ujian untung boleh cukai berkemungkinan"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is it a deductible temporary difference, or an unused tax loss/credit?",
+      "ms": "Adakah ia perbezaan sementara boleh ditolak, atau kerugian/kredit cukai tidak digunakan?"
+     },
+     "y": "n2",
+     "n": "rNo"
+    },
+    "n2": {
+     "q": {
+      "en": "Is it probable that taxable profit will be available against which it can be used?",
+      "ms": "Adakah berkemungkinan besar untung boleh cukai akan ada untuk menggunakannya?"
+     },
+     "y": "rYes",
+     "n": "rUn"
+    }
+   },
+   "results": {
+    "rYes": {
+     "c": "good",
+     "t": {
+      "en": "Recognise a deferred tax asset",
+      "ms": "Iktiraf aset cukai tertunda"
+     },
+     "d": {
+      "en": "DTA = amount × enacted tax rate; review at each reporting date.",
+      "ms": "DTA = amaun × kadar cukai dikuatkuasakan; semak setiap tarikh pelaporan."
+     }
+    },
+    "rUn": {
+     "c": "warn",
+     "t": {
+      "en": "Do not recognise: disclose the unrecognised amount",
+      "ms": "Jangan iktiraf: dedah amaun tidak diiktiraf"
+     },
+     "d": {
+      "en": "Reassess at each reporting date.",
+      "ms": "Nilai semula setiap tarikh pelaporan."
+     }
+    },
+    "rNo": {
+     "c": "info",
+     "t": {
+      "en": "Not a DTA candidate",
+      "ms": "Bukan calon DTA"
+     },
+     "d": {
+      "en": "Check whether it is a taxable temporary difference (DTL) or a permanent difference.",
+      "ms": "Semak sama ada perbezaan sementara boleh dicukai (DTL) atau perbezaan kekal."
+     }
+    }
+   }
+  }
+ ]
+}

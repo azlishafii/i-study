@@ -13,6 +13,8 @@
     "far2/ch4.json",
     "far2/ch5.json",
     "far2/ch7.json",
+    "far2/ch8.json",
+    "far2/ch10.json",
     "far2/asg1.json"
    ],
    "info": {
@@ -75,7 +77,8 @@
       "t": {
        "en": "Impairment of Assets (MFRS 136)",
        "ms": "Rosot Nilai Aset (MFRS 136)"
-      }
+      },
+      "ch": "ch10"
      },
      {
       "wk": "4",
@@ -136,7 +139,8 @@
       "t": {
        "en": "Deferred Tax: assets and liabilities",
        "ms": "Cukai Tertunda: aset dan liabiliti"
-      }
+      },
+      "ch": "ch8"
      },
      {
       "wk": "14–15",

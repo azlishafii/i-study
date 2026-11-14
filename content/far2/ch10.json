@@ -1,0 +1,2324 @@
+{
+ "subject": {
+  "id": "far2",
+  "code": "FAR2",
+  "name": {
+   "en": "Financial Reporting 2",
+   "ms": "Pelaporan Kewangan 2"
+  }
+ },
+ "id": "ch10",
+ "num": 10,
+ "title": {
+  "en": "Impairment of Assets",
+  "ms": "Rosot Nilai Aset"
+ },
+ "standard": "MFRS 136",
+ "outcomes": {
+  "en": [
+   "Identify an asset that may be impaired",
+   "Explain the different measurements of the recoverable amount",
+   "Explain the recognition of an impairment loss",
+   "Discuss the reversal of an impairment loss",
+   "Discuss the disclosure for impairment"
+  ],
+  "ms": [
+   "Kenal pasti aset yang mungkin rosot nilai",
+   "Terangkan pengukuran berbeza amaun boleh pulih",
+   "Terangkan pengiktirafan kerugian rosot nilai",
+   "Bincangkan pembalikan kerugian rosot nilai",
+   "Bincangkan pendedahan rosot nilai"
+  ]
+ },
+ "sections": [
+  {
+   "id": "intro",
+   "icon": "📉",
+   "title": {
+    "en": "Introduction & Objective of MFRS 136",
+    "ms": "Pengenalan & Objektif MFRS 136"
+   },
+   "ref": "MFRS 136 · Slides 4–6",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Impairment** = a **loss or reduction in the economic benefits** that can be derived from an asset.",
+      "An asset is **impaired** when its **carrying amount exceeds its recoverable amount** (the amount to be recovered through **use or sale**).",
+      "**MFRS 136 Impairment of Assets** (based on IAS 36) sets the procedures to ensure assets are carried at **no more than their recoverable amount**.",
+      "When impaired, the entity recognises an **impairment loss**."
+     ],
+     "ms": [
+      "**Rosot nilai** = **kerugian atau pengurangan manfaat ekonomi** yang boleh diperoleh daripada aset.",
+      "Aset **rosot nilai** bila **amaun dibawanya melebihi amaun boleh pulih** (amaun yang akan dipulihkan melalui **penggunaan atau jualan**).",
+      "**MFRS 136 Rosot Nilai Aset** (berasaskan IAS 36) menetapkan prosedur supaya aset dibawa pada **tidak lebih daripada amaun boleh pulih**.",
+      "Bila rosot nilai, entiti mengiktiraf **kerugian rosot nilai**."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slides say the standard ensures assets are carried \"at a value less than\" the recoverable amount and that a carrying amount larger than recoverable \"suggests an indication\" of impairment. The correct statements are: carried at no MORE than recoverable amount; and carrying amount > recoverable amount IS impairment (an \"indication\" is only the trigger to test).",
+     "ms": "Slide kata piawaian memastikan aset dibawa \"pada nilai kurang daripada\" amaun boleh pulih dan amaun dibawa lebih besar \"mencadangkan petunjuk\" rosot nilai. Pernyataan betul: dibawa pada TIDAK LEBIH daripada amaun boleh pulih; dan amaun dibawa > amaun boleh pulih ADALAH rosot nilai (\"petunjuk\" hanya pencetus untuk menguji)."
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: Impaired when Carrying amount > Recoverable amount. Loss = CA − RA.",
+     "ms": "Cara ingat: Rosot nilai bila Amaun dibawa > Amaun boleh pulih. Kerugian = CA − RA."
+    }
+   ],
+   "big": {
+    "en": "Impairment loss = Carrying amount − Recoverable amount (when CA > RA). Recoverable amount = the HIGHER of FVLCD and VIU.",
+    "ms": "Kerugian rosot nilai = Amaun dibawa − Amaun boleh pulih (bila CA > RA). Amaun boleh pulih = yang LEBIH TINGGI antara FVLCD dan VIU."
+   }
+  },
+  {
+   "id": "scope",
+   "icon": "🗂️",
+   "title": {
+    "en": "Scope: What MFRS 136 Covers",
+    "ms": "Skop: Apa yang MFRS 136 Liputi"
+   },
+   "ref": "MFRS 136 para 2–5 · Slides 7–12",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "MFRS 136 applies to **all assets** except those covered by other standards:",
+     "ms": "MFRS 136 terpakai kepada **semua aset** kecuali yang diliputi piawaian lain:"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Excluded asset",
+       "Standard (slide)",
+       "Current standard"
+      ],
+      "ms": [
+       "Aset dikecualikan",
+       "Piawaian (slide)",
+       "Piawaian semasa"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Inventories",
+        "MFRS 102",
+        "MFRS 102"
+       ],
+       "ms": [
+        "Inventori",
+        "MFRS 102",
+        "MFRS 102"
+       ]
+      },
+      {
+       "en": [
+        "Contract assets / construction contracts",
+        "MFRS 11 Construction Contracts",
+        "MFRS 15 Revenue from Contracts with Customers"
+       ],
+       "ms": [
+        "Aset kontrak / kontrak pembinaan",
+        "MFRS 11 Construction Contracts",
+        "MFRS 15 Hasil daripada Kontrak dengan Pelanggan"
+       ]
+      },
+      {
+       "en": [
+        "Deferred tax assets",
+        "MFRS 112",
+        "MFRS 112"
+       ],
+       "ms": [
+        "Aset cukai tertunda",
+        "MFRS 112",
+        "MFRS 112"
+       ]
+      },
+      {
+       "en": [
+        "Employee benefit assets",
+        "MFRS 119",
+        "MFRS 119"
+       ],
+       "ms": [
+        "Aset faedah pekerja",
+        "MFRS 119",
+        "MFRS 119"
+       ]
+      },
+      {
+       "en": [
+        "Financial assets",
+        "MFRS 139",
+        "MFRS 9 (expected credit losses)"
+       ],
+       "ms": [
+        "Aset kewangan",
+        "MFRS 139",
+        "MFRS 9 (kerugian kredit dijangka)"
+       ]
+      },
+      {
+       "en": [
+        "Investment property at fair value",
+        "MFRS 140",
+        "MFRS 140"
+       ],
+       "ms": [
+        "Hartanah pelaburan pada nilai saksama",
+        "MFRS 140",
+        "MFRS 140"
+       ]
+      },
+      {
+       "en": [
+        "Biological assets at fair value less costs to sell",
+        "MFRS 141",
+        "MFRS 141"
+       ],
+       "ms": [
+        "Aset biologi pada nilai saksama tolak kos menjual",
+        "MFRS 141",
+        "MFRS 141"
+       ]
+      },
+      {
+       "en": [
+        "Insurance contract assets",
+        "MFRS 4",
+        "MFRS 17"
+       ],
+       "ms": [
+        "Aset kontrak insurans",
+        "MFRS 4",
+        "MFRS 17"
+       ]
+      },
+      {
+       "en": [
+        "Non-current assets held for sale",
+        "MFRS 5",
+        "MFRS 5"
+       ],
+       "ms": [
+        "Aset bukan semasa dipegang untuk jual",
+        "MFRS 5",
+        "MFRS 5"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slides use older standard names (MFRS 139, 11, 4). The current replacements are shown in the right column. Use the current ones in the exam unless your lecturer says otherwise.",
+     "ms": "Slide guna nama piawaian lama (MFRS 139, 11, 4). Pengganti semasa ditunjuk di lajur kanan. Guna yang semasa dalam exam kecuali pensyarah kata lain."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "MFRS 136 **does apply** to investments in **subsidiaries, associates and joint ventures** (impairment of the investment itself).",
+      "MFRS 136 also applies to assets at **revalued amount** (e.g. the revaluation model in MFRS 116); whether a revalued asset is impaired depends on how its fair value was determined."
+     ],
+     "ms": [
+      "MFRS 136 **terpakai** kepada pelaburan dalam **subsidiari, syarikat bersekutu dan usaha sama** (rosot nilai pelaburan itu sendiri).",
+      "MFRS 136 juga terpakai kepada aset pada **amaun dinilai semula** (cth model penilaian semula MFRS 116); sama ada aset dinilai semula rosot nilai bergantung bagaimana nilai saksamanya ditentukan."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "indic",
+   "icon": "🚩",
+   "title": {
+    "en": "Indications of Impairment",
+    "ms": "Petunjuk Rosot Nilai"
+   },
+   "ref": "MFRS 136 para 9–14 · Slides 13–16",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Assess **at the end of each reporting period** whether there is **any indication** that an asset may be impaired.",
+      "The list of indicators is **not exhaustive**. Look at **external** and **internal** sources of information.",
+      "If there is an indication, **estimate the recoverable amount**.",
+      "Assessment is normally done for an **individual asset** (machinery, equipment, property)."
+     ],
+     "ms": [
+      "Nilai **pada akhir setiap tempoh pelaporan** sama ada ada **sebarang petunjuk** aset mungkin rosot nilai.",
+      "Senarai petunjuk **tidak lengkap**. Lihat sumber maklumat **luaran** dan **dalaman**.",
+      "Jika ada petunjuk, **anggar amaun boleh pulih**.",
+      "Penilaian biasanya dibuat untuk **aset individu** (jentera, peralatan, hartanah)."
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "External sources",
+       "Internal sources"
+      ],
+      "ms": [
+       "Sumber luaran",
+       "Sumber dalaman"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Decline in the asset's market value during the year",
+        "Evidence of obsolescence or physical damage (e.g. natural disaster)"
+       ],
+       "ms": [
+        "Kejatuhan nilai pasaran aset sepanjang tahun",
+        "Bukti keusangan atau kerosakan fizikal (cth bencana alam)"
+       ]
+      },
+      {
+       "en": [
+        "Adverse change in technological, market, economic or legal environment",
+        "Adverse change in the use of the asset"
+       ],
+       "ms": [
+        "Perubahan buruk dalam persekitaran teknologi, pasaran, ekonomi atau undang-undang",
+        "Perubahan buruk dalam penggunaan aset"
+       ]
+      },
+      {
+       "en": [
+        "Increase in market interest rates",
+        "Worse-than-expected economic performance of the asset"
+       ],
+       "ms": [
+        "Kenaikan kadar faedah pasaran",
+        "Prestasi ekonomi aset lebih teruk daripada dijangka"
+       ]
+      },
+      {
+       "en": [
+        "Carrying amount of net assets exceeds market capitalisation",
+        ""
+       ],
+       "ms": [
+        "Amaun dibawa aset bersih melebihi permodalan pasaran",
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Exam answer: always say \"external\" and \"internal\" and give at least two examples of each.",
+     "ms": "Jawapan exam: sentiasa sebut \"luaran\" dan \"dalaman\" dan beri sekurang-kurangnya dua contoh setiap satu."
+    }
+   ]
+  },
+  {
+   "id": "annual",
+   "icon": "📅",
+   "title": {
+    "en": "Annual Impairment Tests",
+    "ms": "Ujian Rosot Nilai Tahunan"
+   },
+   "ref": "MFRS 136 para 10 · Slides 17–19, 36–39",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Normally an impairment test is done **only when there is an indication**. But these must be tested **every year, even without an indication**:",
+     "ms": "Biasanya ujian rosot nilai dibuat **hanya bila ada petunjuk**. Tetapi ini mesti diuji **setiap tahun, walaupun tiada petunjuk**:"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "An **intangible asset with an indefinite useful life**.",
+      "An **intangible asset not yet available for use**.",
+      "**Goodwill** acquired in a business combination."
+     ],
+     "ms": [
+      "**Aset tak ketara hayat tidak terhad**.",
+      "**Aset tak ketara belum sedia digunakan**.",
+      "**Muhibah (goodwill)** yang diperoleh dalam penggabungan perniagaan."
+     ]
+    },
+    {
+     "k": "ul",
+     "en": [
+      "The annual test can be done **at any time in the year**, provided it is done **at the same time every year**.",
+      "Different intangibles may be tested at **different times**; an intangible **first recognised in the current period** must be tested **before the end of that period**.",
+      "When an asset shows an indication of impairment, its **useful life, depreciation method or residual value** may also need to be reviewed and adjusted."
+     ],
+     "ms": [
+      "Ujian tahunan boleh dibuat **pada bila-bila masa dalam tahun**, asalkan dibuat **pada masa sama setiap tahun**.",
+      "Aset tak ketara berbeza boleh diuji pada **masa berbeza**; aset tak ketara **diiktiraf pertama kali dalam tempoh semasa** mesti diuji **sebelum akhir tempoh itu**.",
+      "Bila aset ada petunjuk rosot nilai, **hayat berguna, kaedah susut nilai atau nilai sisa**nya juga mungkin perlu disemak dan dilaraskan."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide says \"unlike the other assets, impairment review is made when there is presence of impairment\" for goodwill and intangibles. That is garbled: the correct point is the opposite: they are tested annually REGARDLESS of indications.",
+     "ms": "Slide kata \"tidak seperti aset lain, semakan rosot nilai dibuat bila ada petunjuk\" untuk muhibah dan aset tak ketara. Itu kabur: yang betul sebaliknya: ia diuji setiap tahun TANPA MENGIRA petunjuk."
+    }
+   ]
+  },
+  {
+   "id": "proc",
+   "icon": "🔎",
+   "title": {
+    "en": "Impairment Review Process & Recoverable Amount",
+    "ms": "Proses Semakan & Amaun Boleh Pulih"
+   },
+   "ref": "MFRS 136 para 18–57 · Slides 20–25",
+   "blocks": [
+    {
+     "k": "flow",
+     "en": [
+      "Identify the **recoverable amount (RA)**.",
+      "If **CA > RA** → reduce the carrying amount to RA and recognise an **impairment loss**.",
+      "If **RA ≥ CA** → **no write-down**."
+     ],
+     "ms": [
+      "Kenal pasti **amaun boleh pulih (RA)**.",
+      "Jika **CA > RA** → kurangkan amaun dibawa kepada RA dan iktiraf **kerugian rosot nilai**.",
+      "Jika **RA ≥ CA** → **tiada tulis turun**."
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Recoverable amount = HIGHER of (Fair value less costs of disposal, FVLCD) and (Value in use, VIU)",
+     "ms": "Amaun boleh pulih = YANG LEBIH TINGGI antara (Nilai saksama tolak kos pelupusan, FVLCD) dan (Nilai guna, VIU)"
+    },
+    {
+     "k": "h",
+     "en": "Fair value less costs of disposal (FVLCD)",
+     "ms": "Nilai saksama tolak kos pelupusan (FVLCD)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "The price from a **binding sale agreement** in an **arm's length transaction** between knowledgeable, willing parties, **less costs of disposal**.",
+      "Earlier called \"fair value less costs to sell\". **Fair value** is determined under **MFRS 13** (periods from 1 January 2013)."
+     ],
+     "ms": [
+      "Harga daripada **perjanjian jualan mengikat** dalam **transaksi arm's length** antara pihak berpengetahuan dan sanggup, **tolak kos pelupusan**.",
+      "Dahulu dipanggil \"nilai saksama tolak kos jualan\". **Nilai saksama** ditentukan di bawah **MFRS 13** (tempoh bermula 1 Januari 2013)."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Value in use (VIU)",
+     "ms": "Nilai guna (VIU)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Present value of the future cash flows** expected from the asset, normally from its **cash-generating unit (CGU)**.",
+      "A **CGU** is the **smallest identifiable group of assets** that generates cash inflows **largely independent** of other assets or groups of assets.",
+      "Two inputs: **cash flow projections** (estimates of future cash flows, including variations in amount or timing) and the **discount rate** (reflects current market assessment of the **time value of money** and **asset-specific risks**, and the return investors would require)."
+     ],
+     "ms": [
+      "**Nilai kini aliran tunai masa depan** yang dijangka daripada aset, biasanya daripada **unit penjana tunai (CGU)**nya.",
+      "**CGU** ialah **kumpulan aset terkecil yang boleh dikenal pasti** yang menjana aliran tunai masuk **hampir bebas** daripada aset atau kumpulan aset lain.",
+      "Dua input: **unjuran aliran tunai** (anggaran aliran tunai masa depan, termasuk variasi amaun atau masa) dan **kadar diskaun** (mencerminkan penilaian pasaran semasa **nilai masa wang** dan **risiko khusus aset**, serta pulangan yang pelabur mahu)."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra: if EITHER FVLCD or VIU is higher than the carrying amount, the asset is not impaired and you need not estimate the other. The discount rate used in VIU is a pre-tax rate.",
+     "ms": "Tambahan: jika SALAH SATU FVLCD atau VIU lebih tinggi daripada amaun dibawa, aset tidak rosot nilai dan anda tak perlu anggar yang lain. Kadar diskaun dalam VIU ialah kadar sebelum cukai."
+    }
+   ]
+  },
+  {
+   "id": "hmd",
+   "icon": "🏛️",
+   "title": {
+    "en": "Example: Property Impairment (HMD)",
+    "ms": "Contoh: Rosot Nilai Hartanah (HMD)"
+   },
+   "ref": "Slides 26–29",
+   "blocks": [
+    {
+     "k": "ex",
+     "en": "HMD Company built a property in 2015 for RM1.2 million. Its carrying amount at 31 December 2017 (after revaluation) was RM1.8 million. At 31 December 2019: fair value less costs of disposal RM1 million; value in use RM800,000.",
+     "ms": "HMD Company membina hartanah pada 2015 dengan kos RM1.2 juta. Amaun dibawa pada 31 Disember 2017 (selepas penilaian semula) ialah RM1.8 juta. Pada 31 Disember 2019: nilai saksama tolak kos pelupusan RM1 juta; nilai guna RM800,000."
+    },
+    {
+     "k": "calc",
+     "en": "RA = higher of 1,000,000 and 800,000 = RM1,000,000. CA 1,800,000 > RA → impairment loss = RM800,000.",
+     "ms": "RA = lebih tinggi antara 1,000,000 dan 800,000 = RM1,000,000. CA 1,800,000 > RA → kerugian rosot nilai = RM800,000."
+    },
+    {
+     "k": "je",
+     "title": "2015: purchase",
+     "lines": [
+      [
+       "Dr",
+       "Property",
+       "1,200,000"
+      ],
+      [
+       "Cr",
+       "Bank",
+       "1,200,000"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "2017: revaluation",
+     "lines": [
+      [
+       "Dr",
+       "Property",
+       "600,000"
+      ],
+      [
+       "Cr",
+       "Revaluation surplus (OCI)",
+       "600,000"
+      ]
+     ]
+    },
+    {
+     "k": "je",
+     "title": "2019: impairment of a revalued asset",
+     "lines": [
+      [
+       "Dr",
+       "Revaluation surplus",
+       "600,000"
+      ],
+      [
+       "Dr",
+       "Impairment loss (P/L)",
+       "200,000"
+      ],
+      [
+       "Cr",
+       "Property",
+       "800,000"
+      ]
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "For a revalued asset the loss first reduces the revaluation surplus (OCI): RM600,000. Only the excess, RM200,000, goes to profit or loss (shown as \"Impairment loss (200,000)\" in the profit or loss extract).",
+     "ms": "Bagi aset dinilai semula kerugian mula-mula mengurangkan lebihan penilaian semula (OCI): RM600,000. Hanya lebihan, RM200,000, ke untung atau rugi (ditunjuk sebagai \"Kerugian rosot nilai (200,000)\" dalam petikan untung atau rugi)."
+    },
+    {
+     "k": "note",
+     "en": "The slide ignores depreciation between 2017 and 2019 for simplicity.",
+     "ms": "Slide mengabaikan susut nilai antara 2017 dan 2019 untuk memudahkan."
+    }
+   ]
+  },
+  {
+   "id": "noloss",
+   "icon": "🛠️",
+   "title": {
+    "en": "Examples: No Loss and Value in Use",
+    "ms": "Contoh: Tiada Kerugian dan Nilai Guna"
+   },
+   "ref": "Slides 30–35",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "No impairment",
+     "ms": "Tiada rosot nilai"
+    },
+    {
+     "k": "ex",
+     "en": "ABG Limited: equipment carrying amount RM200,000; fair value less costs to sell RM210,000.",
+     "ms": "ABG Limited: peralatan amaun dibawa RM200,000; nilai saksama tolak kos jualan RM210,000."
+    },
+    {
+     "k": "calc",
+     "en": "RA is at least 210,000 > CA 200,000 → no impairment write-down (no need to compute VIU).",
+     "ms": "RA sekurang-kurangnya 210,000 > CA 200,000 → tiada tulis turun rosot nilai (tak perlu kira VIU)."
+    },
+    {
+     "k": "h",
+     "en": "Impairment using value in use",
+     "ms": "Rosot nilai menggunakan nilai guna"
+    },
+    {
+     "k": "ex",
+     "en": "ABI Company: machinery carrying amount RM200,000; FVLCD RM150,000. Annual cash inflows RM40,000 for 5 years; disposal value RM20,000 at the end; discount rate 7%.",
+     "ms": "ABI Company: jentera amaun dibawa RM200,000; FVLCD RM150,000. Aliran tunai masuk tahunan RM40,000 selama 5 tahun; nilai pelupusan RM20,000 pada akhir; kadar diskaun 7%."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Step",
+       "Calculation",
+       "RM"
+      ],
+      "ms": [
+       "Langkah",
+       "Pengiraan",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "VIU",
+        "(40,000 × 4.1) + (20,000 × 0.713)",
+        "178,260"
+       ],
+       "ms": [
+        "VIU",
+        "(40,000 × 4.1) + (20,000 × 0.713)",
+        "178,260"
+       ]
+      },
+      {
+       "en": [
+        "FVLCD",
+        "Given",
+        "150,000"
+       ],
+       "ms": [
+        "FVLCD",
+        "Diberi",
+        "150,000"
+       ]
+      },
+      {
+       "en": [
+        "Recoverable amount",
+        "Higher of 178,260 and 150,000",
+        "178,260"
+       ],
+       "ms": [
+        "Amaun boleh pulih",
+        "Lebih tinggi antara 178,260 dan 150,000",
+        "178,260"
+       ]
+      },
+      {
+       "en": [
+        "Impairment loss",
+        "200,000 − 178,260",
+        "21,740"
+       ],
+       "ms": [
+        "Kerugian rosot nilai",
+        "200,000 − 178,260",
+        "21,740"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "je",
+     "title": "Impairment (cost model)",
+     "lines": [
+      [
+       "Dr",
+       "Impairment loss (P/L)",
+       "21,740"
+      ],
+      [
+       "Cr",
+       "Accumulated impairment loss",
+       "21,740"
+      ]
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide uses the 7% borrowing cost as the discount rate. The standard asks for a pre-tax rate reflecting the market's assessment of time value and the asset's specific risks. After impairment, depreciate the new carrying amount over the remaining life.",
+     "ms": "Slide guna kos pinjaman 7% sebagai kadar diskaun. Piawaian meminta kadar sebelum cukai yang mencerminkan penilaian pasaran nilai masa dan risiko khusus aset. Selepas rosot nilai, susutnilaikan amaun dibawa baharu sepanjang baki hayat."
+    }
+   ]
+  },
+  {
+   "id": "gw",
+   "icon": "🏷️",
+   "title": {
+    "en": "Goodwill & CGU Allocation",
+    "ms": "Muhibah & Peruntukan CGU"
+   },
+   "ref": "MFRS 136 para 80–99 · Slides 38–46",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Goodwill** represents future benefits from assets that cannot be identified and recognised separately. It is **tested for impairment at least annually**, by testing the **CGU** to which it is allocated.",
+      "From the **acquisition date**, goodwill is **allocated to each of the acquirer's CGUs (or groups)** expected to benefit from the combination.",
+      "Each unit to which goodwill is allocated must be the **lowest level at which goodwill is monitored for internal management** and **not larger than an operating segment** (MFRS 8) before aggregation.",
+      "Compare the **carrying amount of the unit, including goodwill**, with the **recoverable amount of the unit**: if RA > CA no goodwill impairment; if CA > RA recognise an impairment loss.",
+      "A **previous period's RA calculation may be reused** only if the unit's assets and liabilities have not changed significantly, the last RA exceeded the carrying amount by a wide margin, and, given current events, it is remote that the current RA is below the carrying amount."
+     ],
+     "ms": [
+      "**Muhibah** mewakili manfaat masa depan daripada aset yang tidak boleh dikenal pasti dan diiktiraf berasingan. Ia **diuji rosot nilai sekurang-kurangnya setahun sekali**, dengan menguji **CGU** tempat ia diperuntukkan.",
+      "Dari **tarikh perolehan**, muhibah **diperuntukkan kepada setiap CGU (atau kumpulan) pemerolehan** yang dijangka mendapat manfaat daripada penggabungan.",
+      "Setiap unit yang diperuntukkan muhibah mesti **tahap terendah muhibah dipantau untuk pengurusan dalaman** dan **tidak lebih besar daripada segmen operasi** (MFRS 8) sebelum pengagregatan.",
+      "Banding **amaun dibawa unit, termasuk muhibah**, dengan **amaun boleh pulih unit**: jika RA > CA tiada rosot nilai muhibah; jika CA > RA iktiraf kerugian rosot nilai.",
+      "**Pengiraan RA tempoh lalu boleh digunakan semula** hanya jika aset dan liabiliti unit tidak berubah ketara, RA terakhir melebihi amaun dibawa dengan jauh, dan, mengikut peristiwa semasa, amat jarang RA semasa di bawah amaun dibawa."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide cites \"MFRS 138 para 90\" for testing a CGU with goodwill; the correct reference is MFRS 136 para 90.",
+     "ms": "Slide petik \"MFRS 138 para 90\" untuk menguji CGU dengan muhibah; rujukan betul ialah MFRS 136 para 90."
+    }
+   ]
+  },
+  {
+   "id": "cgu",
+   "icon": "🧮",
+   "title": {
+    "en": "CGU Impairment Loss: Allocation",
+    "ms": "Kerugian Rosot Nilai CGU: Peruntukan"
+   },
+   "ref": "MFRS 136 para 104–105 · Slides 47–55",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "If the **unit's RA is below its carrying amount**, allocate the loss in this order:",
+     "ms": "Jika **RA unit di bawah amaun dibawanya**, peruntukkan kerugian mengikut susunan ini:"
+    },
+    {
+     "k": "flow",
+     "en": [
+      "First, reduce the carrying amount of **any goodwill** allocated to the unit.",
+      "Then reduce the **other assets** of the unit **pro rata** to their carrying amounts.",
+      "The reductions are **impairment losses on individual assets**, recognised in **profit or loss**."
+     ],
+     "ms": [
+      "Pertama, kurangkan amaun dibawa **sebarang muhibah** yang diperuntukkan kepada unit.",
+      "Kemudian kurangkan **aset lain** unit **secara pro rata** mengikut amaun dibawanya.",
+      "Pengurangan ialah **kerugian rosot nilai pada aset individu**, diiktiraf dalam **untung atau rugi**."
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Extra: no asset is written down below the highest of its FVLCD, its VIU (if determinable) and zero.",
+     "ms": "Tambahan: tiada aset ditulis turun di bawah yang tertinggi antara FVLCD, VIU (jika boleh ditentukan) dan sifar."
+    },
+    {
+     "k": "ex",
+     "en": "IJ Corporation bought 100% of SP Limited in 2015 for RM500 million; SP's net assets had a fair value of RM400 million, so goodwill was RM100 million. SP is a CGU. At the end of 2018 SP's net assets have a book value of RM380 million and the CGU's recoverable amount is RM350 million.",
+     "ms": "IJ Corporation membeli 100% SP Limited pada 2015 dengan RM500 juta; aset bersih SP bernilai saksama RM400 juta, jadi muhibah RM100 juta. SP ialah CGU. Pada akhir 2018 aset bersih SP bernilai buku RM380 juta dan amaun boleh pulih CGU ialah RM350 juta."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "(RM million)",
+       "Goodwill",
+       "Identifiable assets",
+       "Total"
+      ],
+      "ms": [
+       "(RM juta)",
+       "Muhibah",
+       "Aset boleh dikenal pasti",
+       "Jumlah"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Carrying amount",
+        "100",
+        "380",
+        "480"
+       ],
+       "ms": [
+        "Amaun dibawa",
+        "100",
+        "380",
+        "480"
+       ]
+      },
+      {
+       "en": [
+        "Recoverable amount",
+        "",
+        "",
+        "350"
+       ],
+       "ms": [
+        "Amaun boleh pulih",
+        "",
+        "",
+        "350"
+       ]
+      },
+      {
+       "en": [
+        "Impairment loss",
+        "(100)",
+        "(30)",
+        "(130)"
+       ],
+       "ms": [
+        "Kerugian rosot nilai",
+        "(100)",
+        "(30)",
+        "(130)"
+       ]
+      },
+      {
+       "en": [
+        "After impairment",
+        "0",
+        "350",
+        "350"
+       ],
+       "ms": [
+        "Selepas rosot nilai",
+        "0",
+        "350",
+        "350"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "je",
+     "title": "Entry (RM million)",
+     "lines": [
+      [
+       "Dr",
+       "Impairment loss (P/L)",
+       "130"
+      ],
+      [
+       "Cr",
+       "Goodwill",
+       "100"
+      ],
+      [
+       "Cr",
+       "Assets (pro rata)",
+       "30"
+      ]
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers): a CGU has goodwill RM50, asset A RM300 and asset B RM200 (RM million). The CGU's recoverable amount is RM450.",
+     "ms": "Latihan (nombor sendiri): CGU ada muhibah RM50, aset A RM300 dan aset B RM200 (RM juta). Amaun boleh pulih CGU ialah RM450."
+    },
+    {
+     "k": "calc",
+     "en": "Total CA 550 − RA 450 = loss 100. Goodwill absorbs 50 (to 0). The remaining 50 is shared pro rata: A = 50 × 300/500 = 30; B = 50 × 200/500 = 20. After: A 270, B 180 (total 450).",
+     "ms": "Jumlah CA 550 − RA 450 = kerugian 100. Muhibah menyerap 50 (kepada 0). Baki 50 dikongsi pro rata: A = 50 × 300/500 = 30; B = 50 × 200/500 = 20. Selepas: A 270, B 180 (jumlah 450)."
+    }
+   ]
+  },
+  {
+   "id": "rev",
+   "icon": "↩️",
+   "title": {
+    "en": "Reversal of an Impairment Loss",
+    "ms": "Pembalikan Kerugian Rosot Nilai"
+   },
+   "ref": "MFRS 136 para 110–125 · Slides 56–59",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "At the **end of each reporting period** assess whether an impairment loss **may have decreased or no longer exists**. If so, estimate the **recoverable amount**.",
+      "The reversal is recognised in **profit or loss**, **unless it relates to a revalued asset** (then treated as a revaluation increase).",
+      "The reversal is **limited**: the carrying amount cannot rise above what it **would have been (net of depreciation) had no impairment loss been recognised**.",
+      "Extra: an impairment loss on **goodwill is never reversed**. For a CGU, a reversal is allocated pro rata to assets **other than goodwill**."
+     ],
+     "ms": [
+      "Pada **akhir setiap tempoh pelaporan** nilai sama ada kerugian rosot nilai **mungkin telah berkurang atau tidak lagi wujud**. Jika ya, anggar **amaun boleh pulih**.",
+      "Pembalikan diiktiraf dalam **untung atau rugi**, **kecuali berkaitan aset dinilai semula** (kemudian dilayan sebagai kenaikan penilaian semula).",
+      "Pembalikan **dihadkan**: amaun dibawa tidak boleh naik melebihi apa yang **sepatutnya (bersih daripada susut nilai) jika tiada kerugian rosot nilai diiktiraf**.",
+      "Tambahan: kerugian rosot nilai **muhibah tidak pernah dibalikkan**. Bagi CGU, pembalikan diperuntukkan pro rata kepada aset **selain muhibah**."
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Continuing HMD: at 31 December 2020 the recoverable amount of the property is RM1.5 million (carrying amount RM1 million after the 2019 impairment).",
+     "ms": "Sambung HMD: pada 31 Disember 2020 amaun boleh pulih hartanah ialah RM1.5 juta (amaun dibawa RM1 juta selepas rosot nilai 2019)."
+    },
+    {
+     "k": "calc",
+     "en": "Increase = 1,500,000 − 1,000,000 = 500,000. The reversal in profit or loss cannot exceed the earlier P/L charge of RM200,000; the other RM300,000 goes to the revaluation surplus.",
+     "ms": "Kenaikan = 1,500,000 − 1,000,000 = 500,000. Pembalikan dalam untung atau rugi tidak boleh melebihi caj P/L terdahulu RM200,000; baki RM300,000 ke lebihan penilaian semula."
+    },
+    {
+     "k": "je",
+     "title": "Reversal (revalued asset)",
+     "lines": [
+      [
+       "Dr",
+       "Property",
+       "500,000"
+      ],
+      [
+       "Cr",
+       "Reversal of impairment loss (P/L)",
+       "200,000"
+      ],
+      [
+       "Cr",
+       "Revaluation surplus (OCI)",
+       "300,000"
+      ]
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "Practice (own numbers, cost model): cost RM100,000, 5-year straight-line. At the end of year 2 (CA 60,000) RA is 40,000: loss 20,000. Depreciation then = 40,000 ÷ 3 = 13,333 a year. At the end of year 3 (CA 26,667) RA is 50,000.",
+     "ms": "Latihan (nombor sendiri, model kos): kos RM100,000, garis lurus 5 tahun. Pada akhir tahun 2 (CA 60,000) RA ialah 40,000: kerugian 20,000. Susut nilai kemudian = 40,000 ÷ 3 = 13,333 setahun. Pada akhir tahun 3 (CA 26,667) RA ialah 50,000."
+    },
+    {
+     "k": "calc",
+     "en": "Ceiling: CA without impairment at end of year 3 = 100,000 − 3 × 20,000 = 40,000. Reversal = 40,000 − 26,667 = RM13,333 (not 50,000 − 26,667).",
+     "ms": "Had: CA tanpa rosot nilai pada akhir tahun 3 = 100,000 − 3 × 20,000 = 40,000. Pembalikan = 40,000 − 26,667 = RM13,333 (bukan 50,000 − 26,667)."
+    },
+    {
+     "k": "note",
+     "en": "The slide says (slide 49) that \"no reversal of an impairment is allowed\". That applies to goodwill only; reversals are allowed for other assets (slide 56).",
+     "ms": "Slide (slide 49) kata \"tiada pembalikan rosot nilai dibenarkan\". Itu hanya untuk muhibah; pembalikan dibenarkan untuk aset lain (slide 56)."
+    }
+   ]
+  },
+  {
+   "id": "discl",
+   "icon": "📝",
+   "title": {
+    "en": "Disclosure Requirements",
+    "ms": "Keperluan Pendedahan"
+   },
+   "ref": "MFRS 136 para 126–137 · Slides 68–71",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "For each class of assets (para 126)",
+     "ms": "Bagi setiap kelas aset (para 126)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Impairment losses** recognised in **profit or loss** and the **line item(s)** in which they are included.",
+      "**Reversals** of impairment losses recognised in profit or loss and their line item(s).",
+      "Impairment losses on **revalued assets** recognised in **OCI**, and their **reversals** in OCI."
+     ],
+     "ms": [
+      "**Kerugian rosot nilai** diiktiraf dalam **untung atau rugi** dan **baris item** yang memasukkannya.",
+      "**Pembalikan** kerugian rosot nilai diiktiraf dalam untung atau rugi dan baris item.",
+      "Kerugian rosot nilai **aset dinilai semula** diiktiraf dalam **OCI**, dan **pembalikannya** dalam OCI."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Per reportable segment (para 129, MFRS 8)",
+     "ms": "Setiap segmen boleh lapor (para 129, MFRS 8)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Impairment losses and reversals recognised in profit or loss and in OCI."
+     ],
+     "ms": [
+      "Kerugian rosot nilai dan pembalikan diiktiraf dalam untung atau rugi dan dalam OCI."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Each material impairment loss or reversal",
+     "ms": "Setiap kerugian rosot nilai atau pembalikan material"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "The **events and circumstances** that led to the recognition or reversal.",
+      "The **amount** of the loss or reversal."
+     ],
+     "ms": [
+      "**Peristiwa dan keadaan** yang membawa kepada pengiktirafan atau pembalikan.",
+      "**Amaun** kerugian atau pembalikan."
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "intro",
+   "q": {
+    "en": "When is an asset impaired?",
+    "ms": "Bila aset rosot nilai?"
+   },
+   "a": {
+    "en": "When its carrying amount exceeds its recoverable amount.",
+    "ms": "Bila amaun dibawanya melebihi amaun boleh pulih."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "intro",
+   "q": {
+    "en": "Impairment loss formula",
+    "ms": "Formula kerugian rosot nilai"
+   },
+   "a": {
+    "en": "Carrying amount − recoverable amount.",
+    "ms": "Amaun dibawa − amaun boleh pulih."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "scope",
+   "q": {
+    "en": "Is a financial asset tested under MFRS 136?",
+    "ms": "Adakah aset kewangan diuji di bawah MFRS 136?"
+   },
+   "a": {
+    "en": "No: financial assets are under MFRS 9 (slides say MFRS 139).",
+    "ms": "Tidak: aset kewangan di bawah MFRS 9 (slide kata MFRS 139)."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "scope",
+   "q": {
+    "en": "Name four assets excluded from MFRS 136",
+    "ms": "Namakan empat aset dikecualikan daripada MFRS 136"
+   },
+   "a": {
+    "en": "Inventories; deferred tax assets; employee benefit assets; investment property at FV; biological assets at FVLCTS; held for sale assets; financial assets.",
+    "ms": "Inventori; aset cukai tertunda; aset faedah pekerja; hartanah pelaburan pada FV; aset biologi pada FVLCTS; aset dipegang untuk jual; aset kewangan."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "scope",
+   "q": {
+    "en": "Does MFRS 136 cover investments in subsidiaries/associates?",
+    "ms": "Adakah MFRS 136 meliputi pelaburan dalam subsidiari/syarikat bersekutu?"
+   },
+   "a": {
+    "en": "Yes: impairment of the investment itself.",
+    "ms": "Ya: rosot nilai pelaburan itu sendiri."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "indic",
+   "q": {
+    "en": "When to assess for impairment indications",
+    "ms": "Bila menilai petunjuk rosot nilai"
+   },
+   "a": {
+    "en": "At the end of each reporting period.",
+    "ms": "Pada akhir setiap tempoh pelaporan."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "indic",
+   "q": {
+    "en": "External indicators (4)",
+    "ms": "Petunjuk luaran (4)"
+   },
+   "a": {
+    "en": "Market value decline; adverse technological/market/economic/legal change; higher market interest rates; net assets above market capitalisation.",
+    "ms": "Nilai pasaran jatuh; perubahan buruk teknologi/pasaran/ekonomi/undang-undang; kadar faedah pasaran naik; aset bersih melebihi permodalan pasaran."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "indic",
+   "q": {
+    "en": "Internal indicators (3)",
+    "ms": "Petunjuk dalaman (3)"
+   },
+   "a": {
+    "en": "Obsolescence or physical damage; adverse change in use; worse-than-expected performance.",
+    "ms": "Keusangan atau kerosakan fizikal; perubahan buruk dalam penggunaan; prestasi lebih teruk daripada dijangka."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "annual",
+   "q": {
+    "en": "Which assets need an annual impairment test regardless of indications?",
+    "ms": "Aset mana perlu ujian rosot nilai tahunan tanpa mengira petunjuk?"
+   },
+   "a": {
+    "en": "Indefinite-life intangibles; intangibles not yet available for use; goodwill.",
+    "ms": "Aset tak ketara hayat tidak terhad; aset tak ketara belum sedia digunakan; muhibah."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "annual",
+   "q": {
+    "en": "Timing rule for the annual test",
+    "ms": "Peraturan masa ujian tahunan"
+   },
+   "a": {
+    "en": "Any time in the year, provided it is at the same time every year.",
+    "ms": "Bila-bila masa dalam tahun, asalkan pada masa sama setiap tahun."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "proc",
+   "q": {
+    "en": "Recoverable amount definition",
+    "ms": "Takrif amaun boleh pulih"
+   },
+   "a": {
+    "en": "The higher of fair value less costs of disposal and value in use.",
+    "ms": "Yang lebih tinggi antara nilai saksama tolak kos pelupusan dan nilai guna."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "proc",
+   "q": {
+    "en": "FVLCD: what is it and which standard?",
+    "ms": "FVLCD: apa dan piawaian mana?"
+   },
+   "a": {
+    "en": "Arm's length sale price less costs of disposal; fair value per MFRS 13.",
+    "ms": "Harga jualan arm's length tolak kos pelupusan; nilai saksama menurut MFRS 13."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "proc",
+   "q": {
+    "en": "Value in use: what is it?",
+    "ms": "Nilai guna: apa itu?"
+   },
+   "a": {
+    "en": "PV of future cash flows expected from the asset (or CGU).",
+    "ms": "PV aliran tunai masa depan dijangka daripada aset (atau CGU)."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "proc",
+   "q": {
+    "en": "What is a cash-generating unit?",
+    "ms": "Apa itu unit penjana tunai?"
+   },
+   "a": {
+    "en": "The smallest identifiable group of assets generating cash inflows largely independent of other assets.",
+    "ms": "Kumpulan aset terkecil boleh dikenal pasti yang menjana aliran tunai masuk hampir bebas daripada aset lain."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "proc",
+   "q": {
+    "en": "Two inputs to VIU",
+    "ms": "Dua input VIU"
+   },
+   "a": {
+    "en": "Cash flow projections and the discount rate (time value of money and asset-specific risk).",
+    "ms": "Unjuran aliran tunai dan kadar diskaun (nilai masa wang dan risiko khusus aset)."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "proc",
+   "q": {
+    "en": "If FVLCD already exceeds carrying amount?",
+    "ms": "Jika FVLCD sudah melebihi amaun dibawa?"
+   },
+   "a": {
+    "en": "No impairment; no need to compute VIU.",
+    "ms": "Tiada rosot nilai; tak perlu kira VIU."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "hmd",
+   "q": {
+    "en": "Impairment of a revalued asset: where does the loss go?",
+    "ms": "Rosot nilai aset dinilai semula: kerugian ke mana?"
+   },
+   "a": {
+    "en": "First against the revaluation surplus (OCI); the excess to profit or loss.",
+    "ms": "Mula-mula terhadap lebihan penilaian semula (OCI); lebihan ke untung atau rugi."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "hmd",
+   "q": {
+    "en": "HMD example: loss and split",
+    "ms": "Contoh HMD: kerugian dan pecahan"
+   },
+   "a": {
+    "en": "CA 1.8m vs RA 1.0m → loss 800,000: 600,000 revaluation surplus + 200,000 P/L.",
+    "ms": "CA 1.8j vs RA 1.0j → kerugian 800,000: 600,000 lebihan penilaian semula + 200,000 P/L."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "noloss",
+   "q": {
+    "en": "Machinery example: VIU",
+    "ms": "Contoh jentera: VIU"
+   },
+   "a": {
+    "en": "(40,000 × 4.1) + (20,000 × 0.713) = 178,260; loss 200,000 − 178,260 = 21,740.",
+    "ms": "(40,000 × 4.1) + (20,000 × 0.713) = 178,260; kerugian 200,000 − 178,260 = 21,740."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "noloss",
+   "q": {
+    "en": "Cost-model impairment journal",
+    "ms": "Jurnal rosot nilai model kos"
+   },
+   "a": {
+    "en": "Dr Impairment loss (P/L); Cr Accumulated impairment loss.",
+    "ms": "Dr Kerugian rosot nilai (P/L); Cr Rosot nilai terkumpul."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "gw",
+   "q": {
+    "en": "Goodwill impairment: how is it tested?",
+    "ms": "Rosot nilai muhibah: bagaimana diuji?"
+   },
+   "a": {
+    "en": "Annually, by comparing the CGU's carrying amount (including goodwill) with its recoverable amount.",
+    "ms": "Setiap tahun, dengan membanding amaun dibawa CGU (termasuk muhibah) dengan amaun boleh pulihnya."
+   }
+  },
+  {
+   "id": "c22",
+   "t": "gw",
+   "q": {
+    "en": "Level of a CGU for goodwill",
+    "ms": "Tahap CGU untuk muhibah"
+   },
+   "a": {
+    "en": "Lowest level goodwill is monitored internally; not larger than an operating segment.",
+    "ms": "Tahap terendah muhibah dipantau dalaman; tidak lebih besar daripada segmen operasi."
+   }
+  },
+  {
+   "id": "c23",
+   "t": "gw",
+   "q": {
+    "en": "Reusing last year's recoverable amount",
+    "ms": "Guna semula amaun boleh pulih tahun lalu"
+   },
+   "a": {
+    "en": "Only if assets/liabilities unchanged, last RA exceeded CA by a wide margin, and a shortfall is remote.",
+    "ms": "Hanya jika aset/liabiliti tidak berubah, RA lalu melebihi CA dengan jauh, dan kekurangan amat jarang."
+   }
+  },
+  {
+   "id": "c24",
+   "t": "cgu",
+   "q": {
+    "en": "Order of allocating a CGU impairment loss",
+    "ms": "Susunan peruntukan kerugian rosot nilai CGU"
+   },
+   "a": {
+    "en": "1) Goodwill first; 2) other assets pro rata to carrying amounts.",
+    "ms": "1) Muhibah dahulu; 2) aset lain pro rata mengikut amaun dibawa."
+   }
+  },
+  {
+   "id": "c25",
+   "t": "cgu",
+   "q": {
+    "en": "IJ/SP example",
+    "ms": "Contoh IJ/SP"
+   },
+   "a": {
+    "en": "CA 480 (goodwill 100 + net assets 380) vs RA 350 → loss 130: goodwill 100, assets 30.",
+    "ms": "CA 480 (muhibah 100 + aset bersih 380) vs RA 350 → kerugian 130: muhibah 100, aset 30."
+   }
+  },
+  {
+   "id": "c26",
+   "t": "cgu",
+   "q": {
+    "en": "Floor for write-down of an individual asset (extra)",
+    "ms": "Had bawah tulis turun aset individu (tambahan)"
+   },
+   "a": {
+    "en": "Not below the highest of FVLCD, VIU and zero.",
+    "ms": "Tidak di bawah yang tertinggi antara FVLCD, VIU dan sifar."
+   }
+  },
+  {
+   "id": "c27",
+   "t": "rev",
+   "q": {
+    "en": "Where is a reversal recognised?",
+    "ms": "Pembalikan diiktiraf di mana?"
+   },
+   "a": {
+    "en": "Profit or loss, unless it relates to a revalued asset (treated as a revaluation increase).",
+    "ms": "Untung atau rugi, kecuali berkaitan aset dinilai semula (dilayan sebagai kenaikan penilaian semula)."
+   }
+  },
+  {
+   "id": "c28",
+   "t": "rev",
+   "q": {
+    "en": "Ceiling on a reversal",
+    "ms": "Had pembalikan"
+   },
+   "a": {
+    "en": "Carrying amount cannot exceed what it would have been (net of depreciation) without impairment.",
+    "ms": "Amaun dibawa tidak boleh melebihi apa yang sepatutnya (bersih susut nilai) tanpa rosot nilai."
+   }
+  },
+  {
+   "id": "c29",
+   "t": "rev",
+   "q": {
+    "en": "Can goodwill impairment be reversed?",
+    "ms": "Bolehkah rosot nilai muhibah dibalikkan?"
+   },
+   "a": {
+    "en": "Never.",
+    "ms": "Tidak sekali-kali."
+   }
+  },
+  {
+   "id": "c30",
+   "t": "discl",
+   "q": {
+    "en": "Key impairment disclosures",
+    "ms": "Pendedahan utama rosot nilai"
+   },
+   "a": {
+    "en": "Losses and reversals (P/L and OCI) per class and line item; per segment; events and circumstances and amount of each material loss/reversal.",
+    "ms": "Kerugian dan pembalikan (P/L dan OCI) setiap kelas dan baris item; setiap segmen; peristiwa dan keadaan serta amaun setiap kerugian/pembalikan material."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "intro",
+   "q": {
+    "en": "An asset is impaired when:",
+    "ms": "Aset rosot nilai bila:"
+   },
+   "o": [
+    "Its carrying amount exceeds its recoverable amount",
+    "Its fair value exceeds cost",
+    "It is fully depreciated",
+    "Its market price falls once"
+   ],
+   "a": 0,
+   "e": {
+    "en": "CA > RA.",
+    "ms": "CA > RA."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "intro",
+   "q": {
+    "en": "Impairment loss equals:",
+    "ms": "Kerugian rosot nilai sama dengan:"
+   },
+   "o": [
+    "Recoverable amount − carrying amount",
+    "Carrying amount − recoverable amount",
+    "Cost − fair value",
+    "Fair value − VIU"
+   ],
+   "a": 1,
+   "e": {
+    "en": "CA − RA.",
+    "ms": "CA − RA."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "scope",
+   "q": {
+    "en": "Which asset is outside the scope of MFRS 136?",
+    "ms": "Aset mana di luar skop MFRS 136?"
+   },
+   "o": [
+    "Goodwill",
+    "Machinery",
+    "Inventories",
+    "Investment in a subsidiary"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Inventories are under MFRS 102.",
+    "ms": "Inventori di bawah MFRS 102."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "scope",
+   "q": {
+    "en": "Impairment of most financial assets is covered by:",
+    "ms": "Rosot nilai kebanyakan aset kewangan diliputi oleh:"
+   },
+   "o": [
+    "MFRS 102",
+    "MFRS 136",
+    "MFRS 116",
+    "MFRS 9"
+   ],
+   "a": 3,
+   "e": {
+    "en": "MFRS 9 (the slides still say MFRS 139).",
+    "ms": "MFRS 9 (slide masih kata MFRS 139)."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "indic",
+   "q": {
+    "en": "Which is an EXTERNAL indicator of impairment?",
+    "ms": "Yang manakah petunjuk rosot nilai LUARAN?"
+   },
+   "o": [
+    "A decline in the asset's market value",
+    "Physical damage",
+    "Worse-than-expected performance",
+    "Obsolescence"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Market value decline is external.",
+    "ms": "Kejatuhan nilai pasaran ialah luaran."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "indic",
+   "q": {
+    "en": "Which is an INTERNAL indicator?",
+    "ms": "Yang manakah petunjuk DALAMAN?"
+   },
+   "o": [
+    "Rise in market interest rates",
+    "Evidence of physical damage",
+    "Adverse legal change",
+    "Net assets above market capitalisation"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Damage/obsolescence are internal.",
+    "ms": "Kerosakan/keusangan ialah dalaman."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "indic",
+   "q": {
+    "en": "Indications of impairment are assessed:",
+    "ms": "Petunjuk rosot nilai dinilai:"
+   },
+   "o": [
+    "Only on disposal",
+    "Only once a decade",
+    "At the end of each reporting period",
+    "Only for goodwill"
+   ],
+   "a": 2,
+   "e": {
+    "en": "At each reporting date.",
+    "ms": "Pada setiap tarikh pelaporan."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "annual",
+   "q": {
+    "en": "Which must be tested for impairment annually even without an indication?",
+    "ms": "Yang manakah mesti diuji rosot nilai setiap tahun walaupun tiada petunjuk?"
+   },
+   "o": [
+    "Delivery vans",
+    "Machinery",
+    "Office furniture",
+    "Goodwill"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Goodwill, indefinite-life and not-yet-available intangibles.",
+    "ms": "Muhibah, aset tak ketara hayat tidak terhad dan belum sedia digunakan."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "annual",
+   "q": {
+    "en": "The annual goodwill test may be performed:",
+    "ms": "Ujian muhibah tahunan boleh dibuat:"
+   },
+   "o": [
+    "At any time in the year, at the same time each year",
+    "Only on 31 December",
+    "Only in the first month",
+    "Whenever management decides"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Same time every year.",
+    "ms": "Masa sama setiap tahun."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "proc",
+   "q": {
+    "en": "Recoverable amount is:",
+    "ms": "Amaun boleh pulih ialah:"
+   },
+   "o": [
+    "The lower of FVLCD and value in use",
+    "The higher of FVLCD and value in use",
+    "Cost less depreciation",
+    "Replacement cost"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Higher of FVLCD and VIU.",
+    "ms": "Lebih tinggi antara FVLCD dan VIU."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "proc",
+   "q": {
+    "en": "Value in use is:",
+    "ms": "Nilai guna ialah:"
+   },
+   "o": [
+    "Its insured value",
+    "Its market price",
+    "The PV of future cash flows expected from the asset",
+    "Its book value"
+   ],
+   "a": 2,
+   "e": {
+    "en": "PV of expected cash flows.",
+    "ms": "PV aliran tunai dijangka."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "proc",
+   "q": {
+    "en": "Fair value in FVLCD is determined under:",
+    "ms": "Nilai saksama dalam FVLCD ditentukan di bawah:"
+   },
+   "o": [
+    "MFRS 124",
+    "MFRS 138",
+    "MFRS 8",
+    "MFRS 13"
+   ],
+   "a": 3,
+   "e": {
+    "en": "MFRS 13 Fair Value Measurement.",
+    "ms": "MFRS 13 Pengukuran Nilai Saksama."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "proc",
+   "q": {
+    "en": "A cash-generating unit is:",
+    "ms": "Unit penjana tunai ialah:"
+   },
+   "o": [
+    "The smallest identifiable group of assets generating largely independent cash inflows",
+    "Any single asset",
+    "The whole company always",
+    "A department with no cash flows"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Smallest group with independent cash inflows.",
+    "ms": "Kumpulan terkecil dengan aliran tunai masuk bebas."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "hmd",
+   "q": {
+    "en": "Property CA RM1.8m; FVLCD RM1.0m; VIU RM0.8m. The impairment loss is:",
+    "ms": "Hartanah CA RM1.8j; FVLCD RM1.0j; VIU RM0.8j. Kerugian rosot nilai:"
+   },
+   "o": [
+    "RM1,000,000",
+    "RM800,000",
+    "RM200,000",
+    "RM1,800,000"
+   ],
+   "a": 1,
+   "e": {
+    "en": "RA 1.0m; 1.8m − 1.0m = 0.8m.",
+    "ms": "RA 1.0j; 1.8j − 1.0j = 0.8j."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "hmd",
+   "q": {
+    "en": "If the property was revalued upward by RM600,000 earlier, the P/L charge is:",
+    "ms": "Jika hartanah dinilai semula ke atas RM600,000 sebelum ini, caj P/L:"
+   },
+   "o": [
+    "RM600,000",
+    "RM800,000",
+    "RM200,000",
+    "Nil"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Loss 800,000 − surplus 600,000 = 200,000 to P/L.",
+    "ms": "Kerugian 800,000 − lebihan 600,000 = 200,000 ke P/L."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "noloss",
+   "q": {
+    "en": "Equipment CA RM200,000; FVLCD RM210,000. The treatment is:",
+    "ms": "Peralatan CA RM200,000; FVLCD RM210,000. Layanan:"
+   },
+   "o": [
+    "Revaluation",
+    "Impairment RM10,000",
+    "Impairment RM200,000",
+    "No impairment"
+   ],
+   "a": 3,
+   "e": {
+    "en": "RA ≥ 210,000 > CA.",
+    "ms": "RA ≥ 210,000 > CA."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "noloss",
+   "q": {
+    "en": "Machinery: annual inflow RM40,000 for 5 years at 7% (factor 4.1) plus RM20,000 disposal (factor 0.713). Value in use is:",
+    "ms": "Jentera: aliran masuk tahunan RM40,000 selama 5 tahun pada 7% (faktor 4.1) tambah pelupusan RM20,000 (faktor 0.713). Nilai guna:"
+   },
+   "o": [
+    "RM178,260",
+    "RM164,000",
+    "RM200,000",
+    "RM214,260"
+   ],
+   "a": 0,
+   "e": {
+    "en": "164,000 + 14,260 = 178,260.",
+    "ms": "164,000 + 14,260 = 178,260."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "noloss",
+   "q": {
+    "en": "Same machinery: CA RM200,000; FVLCD RM150,000; VIU RM178,260. The impairment loss is:",
+    "ms": "Jentera sama: CA RM200,000; FVLCD RM150,000; VIU RM178,260. Kerugian rosot nilai:"
+   },
+   "o": [
+    "RM50,000",
+    "RM21,740",
+    "RM28,260",
+    "Nil"
+   ],
+   "a": 1,
+   "e": {
+    "en": "200,000 − 178,260 = 21,740.",
+    "ms": "200,000 − 178,260 = 21,740."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "gw",
+   "q": {
+    "en": "Goodwill is tested through:",
+    "ms": "Muhibah diuji melalui:"
+   },
+   "o": [
+    "Its market price",
+    "Its own cash flows only",
+    "The CGU to which it is allocated",
+    "Its amortisation"
+   ],
+   "a": 2,
+   "e": {
+    "en": "CGU carrying amount including goodwill vs RA.",
+    "ms": "Amaun dibawa CGU termasuk muhibah vs RA."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "gw",
+   "q": {
+    "en": "A CGU with goodwill can be no larger than:",
+    "ms": "CGU dengan muhibah tidak boleh lebih besar daripada:"
+   },
+   "o": [
+    "Two segments",
+    "The whole group",
+    "A geographic region",
+    "An operating segment (before aggregation)"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Not larger than an operating segment.",
+    "ms": "Tidak lebih besar daripada segmen operasi."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "cgu",
+   "q": {
+    "en": "The order of allocating a CGU impairment loss is:",
+    "ms": "Susunan peruntukan kerugian rosot nilai CGU:"
+   },
+   "o": [
+    "Goodwill first, then other assets pro rata",
+    "Other assets first, then goodwill",
+    "Equally to all assets",
+    "Only to goodwill"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Goodwill first.",
+    "ms": "Muhibah dahulu."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "cgu",
+   "q": {
+    "en": "CGU: goodwill 100 + net assets 380 = 480; RA 350. The loss allocated to goodwill is:",
+    "ms": "CGU: muhibah 100 + aset bersih 380 = 480; RA 350. Kerugian diperuntukkan kepada muhibah:"
+   },
+   "o": [
+    "130",
+    "100",
+    "30",
+    "350"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Loss 130: goodwill 100 first, 30 to assets.",
+    "ms": "Kerugian 130: muhibah 100 dahulu, 30 ke aset."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "cgu",
+   "q": {
+    "en": "CGU: goodwill 50, A 300, B 200; RA 450. The impairment loss allocated to asset A is:",
+    "ms": "CGU: muhibah 50, A 300, B 200; RA 450. Kerugian rosot nilai diperuntukkan kepada aset A:"
+   },
+   "o": [
+    "20",
+    "50",
+    "30",
+    "60"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Loss 100: goodwill 50; remaining 50 × 300/500 = 30.",
+    "ms": "Kerugian 100: muhibah 50; baki 50 × 300/500 = 30."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "cgu",
+   "q": {
+    "en": "Impairment losses allocated to individual assets of a CGU are recognised in:",
+    "ms": "Kerugian rosot nilai diperuntukkan kepada aset individu CGU diiktiraf dalam:"
+   },
+   "o": [
+    "Deferred revenue",
+    "Equity directly",
+    "Retained earnings",
+    "Profit or loss"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Profit or loss.",
+    "ms": "Untung atau rugi."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "rev",
+   "q": {
+    "en": "A reversal of an impairment loss on a cost-model asset is recognised in:",
+    "ms": "Pembalikan kerugian rosot nilai aset model kos diiktiraf dalam:"
+   },
+   "o": [
+    "Profit or loss",
+    "OCI",
+    "Equity",
+    "Not allowed"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Profit or loss (unless revalued asset).",
+    "ms": "Untung atau rugi (kecuali aset dinilai semula)."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "rev",
+   "q": {
+    "en": "Goodwill impairment losses can be reversed.",
+    "ms": "Kerugian rosot nilai muhibah boleh dibalikkan."
+   },
+   "o": [
+    "True, within 12 months",
+    "False: never reversed",
+    "True, up to 50%",
+    "True, if market recovers"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Goodwill impairment is never reversed.",
+    "ms": "Rosot nilai muhibah tidak pernah dibalikkan."
+   }
+  },
+  {
+   "id": "q27",
+   "t": "rev",
+   "q": {
+    "en": "HMD: RA rises to RM1.5m (CA RM1.0m after earlier loss of RM0.6m OCI + RM0.2m P/L). The P/L reversal is:",
+    "ms": "HMD: RA naik kepada RM1.5j (CA RM1.0j selepas kerugian terdahulu RM0.6j OCI + RM0.2j P/L). Pembalikan P/L:"
+   },
+   "o": [
+    "RM300,000",
+    "RM500,000",
+    "RM200,000",
+    "RM800,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Limited to the earlier P/L charge; RM300,000 to revaluation surplus.",
+    "ms": "Dihadkan kepada caj P/L terdahulu; RM300,000 ke lebihan penilaian semula."
+   }
+  },
+  {
+   "id": "q28",
+   "t": "rev",
+   "q": {
+    "en": "Cost RM100,000, 5-year SL. Year 2 end: loss to RA 40,000. Year 3 end: CA 26,667; RA 50,000. The reversal is:",
+    "ms": "Kos RM100,000, GL 5 tahun. Akhir tahun 2: rosot ke RA 40,000. Akhir tahun 3: CA 26,667; RA 50,000. Pembalikan:"
+   },
+   "o": [
+    "RM40,000",
+    "RM23,333",
+    "RM20,000",
+    "RM13,333"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Ceiling CA 40,000 (no impairment) − 26,667 = 13,333.",
+    "ms": "Had CA 40,000 (tanpa rosot nilai) − 26,667 = 13,333."
+   }
+  },
+  {
+   "id": "q29",
+   "t": "discl",
+   "q": {
+    "en": "Which is a required disclosure?",
+    "ms": "Yang manakah pendedahan diperlukan?"
+   },
+   "o": [
+    "Events and circumstances leading to a material impairment loss",
+    "The CEO's age",
+    "Supplier names",
+    "Tax rates"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Events and amount of each material loss or reversal.",
+    "ms": "Peristiwa dan amaun setiap kerugian atau pembalikan material."
+   }
+  },
+  {
+   "id": "q30",
+   "t": "discl",
+   "q": {
+    "en": "Impairment losses on revalued assets recognised in OCI must be disclosed:",
+    "ms": "Kerugian rosot nilai aset dinilai semula diiktiraf dalam OCI mesti didedah:"
+   },
+   "o": [
+    "Only in total",
+    "By class of asset",
+    "Never",
+    "Only for subsidiaries"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Per class (para 126).",
+    "ms": "Setiap kelas (para 126)."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "proc",
+   "marks": 6,
+   "q": {
+    "en": "Explain recoverable amount and how fair value less costs of disposal and value in use are determined.",
+    "ms": "Terangkan amaun boleh pulih dan bagaimana nilai saksama tolak kos pelupusan dan nilai guna ditentukan."
+   },
+   "pts": {
+    "en": [
+     "Recoverable amount = higher of FVLCD and VIU (1)",
+     "FVLCD: arm's length sale price between willing parties less costs of disposal; MFRS 13 (2)",
+     "VIU: PV of future cash flows from the asset/CGU (1)",
+     "Inputs: cash flow projections and discount rate (time value and asset-specific risk) (1)",
+     "If either exceeds CA, no impairment (1)"
+    ],
+    "ms": [
+     "Amaun boleh pulih = lebih tinggi antara FVLCD dan VIU (1)",
+     "FVLCD: harga jualan arm's length antara pihak sanggup tolak kos pelupusan; MFRS 13 (2)",
+     "VIU: PV aliran tunai masa depan daripada aset/CGU (1)",
+     "Input: unjuran aliran tunai dan kadar diskaun (nilai masa dan risiko khusus aset) (1)",
+     "Jika salah satu melebihi CA, tiada rosot nilai (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "noloss",
+   "marks": 8,
+   "q": {
+    "en": "A machine has a carrying amount of RM120,000 and FVLCD of RM100,000. It is expected to generate RM30,000 a year for 4 years with a disposal value of RM10,000 at the end. The discount rate is 8% (annuity factor 3.3121; PV factor 0.7350). Determine whether it is impaired and give the journal.",
+    "ms": "Mesin amaun dibawa RM120,000 dan FVLCD RM100,000. Ia dijangka menjana RM30,000 setahun selama 4 tahun dengan nilai pelupusan RM10,000 pada akhir. Kadar diskaun 8% (faktor anuiti 3.3121; faktor PV 0.7350). Tentukan sama ada ia rosot nilai dan beri jurnal."
+   },
+   "pts": {
+    "en": [
+     "FVLCD 100,000 < CA 120,000, so compute VIU (1)",
+     "PV of inflows 30,000 × 3.3121 = 99,363 (2)",
+     "PV of disposal 10,000 × 0.7350 = 7,350 (1)",
+     "VIU = 106,713 (1)",
+     "RA = higher of 100,000 and 106,713 = 106,713 (1)",
+     "Impairment loss = 120,000 − 106,713 = 13,287 (1)",
+     "Dr Impairment loss 13,287; Cr Accumulated impairment loss 13,287 (1)"
+    ],
+    "ms": [
+     "FVLCD 100,000 < CA 120,000, jadi kira VIU (1)",
+     "PV aliran masuk 30,000 × 3.3121 = 99,363 (2)",
+     "PV pelupusan 10,000 × 0.7350 = 7,350 (1)",
+     "VIU = 106,713 (1)",
+     "RA = lebih tinggi antara 100,000 dan 106,713 = 106,713 (1)",
+     "Kerugian rosot nilai = 120,000 − 106,713 = 13,287 (1)",
+     "Dr Kerugian rosot nilai 13,287; Cr Rosot nilai terkumpul 13,287 (1)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "cgu",
+   "marks": 8,
+   "q": {
+    "en": "A CGU has goodwill RM50 million, asset A RM300 million and asset B RM200 million. Its recoverable amount is RM450 million. Allocate the impairment loss and show the entry.",
+    "ms": "CGU ada muhibah RM50 juta, aset A RM300 juta dan aset B RM200 juta. Amaun boleh pulihnya RM450 juta. Peruntukkan kerugian rosot nilai dan tunjuk jurnal."
+   },
+   "pts": {
+    "en": [
+     "Total CA 550; loss 550 − 450 = 100 (2)",
+     "Goodwill is reduced first by 50 to nil (2)",
+     "Remaining 50 allocated pro rata to A and B (1)",
+     "A = 50 × 300/500 = 30; B = 50 × 200/500 = 20 (2)",
+     "Dr Impairment loss 100; Cr Goodwill 50; Cr A 30; Cr B 20 (1)"
+    ],
+    "ms": [
+     "Jumlah CA 550; kerugian 550 − 450 = 100 (2)",
+     "Muhibah dikurangkan dahulu sebanyak 50 kepada sifar (2)",
+     "Baki 50 diperuntukkan pro rata kepada A dan B (1)",
+     "A = 50 × 300/500 = 30; B = 50 × 200/500 = 20 (2)",
+     "Dr Kerugian rosot nilai 100; Cr Muhibah 50; Cr A 30; Cr B 20 (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "rev",
+   "marks": 8,
+   "q": {
+    "en": "Explain when and how an impairment loss may be reversed, with reference to a revalued property whose recoverable amount rises from RM1.0 million to RM1.5 million after an impairment of RM0.6 million (OCI) and RM0.2 million (P/L).",
+    "ms": "Terangkan bila dan bagaimana kerugian rosot nilai boleh dibalikkan, dengan rujukan hartanah dinilai semula yang amaun boleh pulihnya naik dari RM1.0 juta kepada RM1.5 juta selepas rosot nilai RM0.6 juta (OCI) dan RM0.2 juta (P/L)."
+   },
+   "pts": {
+    "en": [
+     "Assess each reporting date for a decrease/disappearance of loss (1)",
+     "Reversal limited to carrying amount without impairment (net of depreciation) (1)",
+     "Goodwill impairment never reversed (1)",
+     "Increase 500,000 (1)",
+     "P/L reversal limited to earlier P/L charge 200,000 (2)",
+     "Balance 300,000 to revaluation surplus; Dr Property 500,000 (2)"
+    ],
+    "ms": [
+     "Nilai setiap tarikh pelaporan untuk pengurangan/ketiadaan kerugian (1)",
+     "Pembalikan dihadkan kepada amaun dibawa tanpa rosot nilai (bersih susut nilai) (1)",
+     "Rosot nilai muhibah tidak pernah dibalikkan (1)",
+     "Kenaikan 500,000 (1)",
+     "Pembalikan P/L dihadkan kepada caj P/L terdahulu 200,000 (2)",
+     "Baki 300,000 ke lebihan penilaian semula; Dr Hartanah 500,000 (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "discl",
+   "marks": 6,
+   "q": {
+    "en": "Discuss the indications of impairment and the disclosure requirements of MFRS 136.",
+    "ms": "Bincangkan petunjuk rosot nilai dan keperluan pendedahan MFRS 136."
+   },
+   "pts": {
+    "en": [
+     "External indicators: market value decline, adverse environment changes, higher interest rates, net assets above market capitalisation (2)",
+     "Internal indicators: obsolescence/damage, adverse change in use, poor performance (2)",
+     "Disclose losses and reversals per class in P/L and OCI, with line items (1)",
+     "Disclose events and circumstances and amounts of material losses/reversals (1)"
+    ],
+    "ms": [
+     "Petunjuk luaran: nilai pasaran jatuh, perubahan persekitaran buruk, kadar faedah naik, aset bersih melebihi permodalan pasaran (2)",
+     "Petunjuk dalaman: keusangan/kerosakan, perubahan buruk penggunaan, prestasi lemah (2)",
+     "Dedah kerugian dan pembalikan setiap kelas dalam P/L dan OCI, dengan baris item (1)",
+     "Dedah peristiwa dan keadaan serta amaun kerugian/pembalikan material (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Impairment",
+   "Rosot nilai"
+  ],
+  [
+   "Impairment loss",
+   "Kerugian rosot nilai"
+  ],
+  [
+   "Recoverable amount",
+   "Amaun boleh pulih"
+  ],
+  [
+   "Carrying amount",
+   "Amaun dibawa"
+  ],
+  [
+   "Fair value less costs of disposal (FVLCD)",
+   "Nilai saksama tolak kos pelupusan (FVLCD)"
+  ],
+  [
+   "Value in use (VIU)",
+   "Nilai guna (VIU)"
+  ],
+  [
+   "Cash-generating unit (CGU)",
+   "Unit penjana tunai (CGU)"
+  ],
+  [
+   "Discount rate",
+   "Kadar diskaun"
+  ],
+  [
+   "Cash flow projection",
+   "Unjuran aliran tunai"
+  ],
+  [
+   "Indication of impairment",
+   "Petunjuk rosot nilai"
+  ],
+  [
+   "External / Internal source",
+   "Sumber luaran / dalaman"
+  ],
+  [
+   "Obsolescence",
+   "Keusangan"
+  ],
+  [
+   "Market capitalisation",
+   "Permodalan pasaran"
+  ],
+  [
+   "Goodwill",
+   "Muhibah (goodwill)"
+  ],
+  [
+   "Indefinite useful life",
+   "Hayat berguna tidak terhad"
+  ],
+  [
+   "Operating segment",
+   "Segmen operasi"
+  ],
+  [
+   "Pro rata",
+   "Pro rata (mengikut kadar)"
+  ],
+  [
+   "Revaluation surplus",
+   "Lebihan penilaian semula"
+  ],
+  [
+   "Accumulated impairment loss",
+   "Rosot nilai terkumpul"
+  ],
+  [
+   "Reversal of impairment",
+   "Pembalikan rosot nilai"
+  ],
+  [
+   "Write-down",
+   "Tulis turun"
+  ],
+  [
+   "Annuity factor",
+   "Faktor anuiti"
+  ],
+  [
+   "Present value",
+   "Nilai kini"
+  ],
+  [
+   "Disclosure",
+   "Pendedahan"
+  ],
+  [
+   "Class of assets",
+   "Kelas aset"
+  ],
+  [
+   "Reportable segment",
+   "Segmen boleh lapor"
+  ]
+ ],
+ "flows": [
+  {
+   "id": "test",
+   "icon": "🧭",
+   "title": {
+    "en": "Do I test this asset?",
+    "ms": "Perlukah saya uji aset ini?"
+   },
+   "sub": {
+    "en": "Impairment test flow",
+    "ms": "Carta ujian rosot nilai"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is it goodwill, an indefinite-life intangible, or an intangible not yet available for use?",
+      "ms": "Adakah ia muhibah, aset tak ketara hayat tidak terhad, atau aset tak ketara belum sedia digunakan?"
+     },
+     "y": "n3",
+     "n": "n2"
+    },
+    "n2": {
+     "q": {
+      "en": "Is there any indication of impairment (external or internal) at the reporting date?",
+      "ms": "Adakah ada sebarang petunjuk rosot nilai (luaran atau dalaman) pada tarikh pelaporan?"
+     },
+     "y": "n3",
+     "n": "rNo"
+    },
+    "n3": {
+     "q": {
+      "en": "Is fair value less costs of disposal higher than the carrying amount?",
+      "ms": "Adakah nilai saksama tolak kos pelupusan lebih tinggi daripada amaun dibawa?"
+     },
+     "y": "rOk",
+     "n": "n4"
+    },
+    "n4": {
+     "q": {
+      "en": "Is value in use higher than the carrying amount?",
+      "ms": "Adakah nilai guna lebih tinggi daripada amaun dibawa?"
+     },
+     "y": "rOk",
+     "n": "rImp"
+    }
+   },
+   "results": {
+    "rNo": {
+     "c": "info",
+     "t": {
+      "en": "No impairment test needed now",
+      "ms": "Tiada ujian rosot nilai diperlukan sekarang"
+     },
+     "d": {
+      "en": "No indication and not an annual-test asset.",
+      "ms": "Tiada petunjuk dan bukan aset ujian tahunan."
+     }
+    },
+    "rOk": {
+     "c": "good",
+     "t": {
+      "en": "Not impaired",
+      "ms": "Tidak rosot nilai"
+     },
+     "d": {
+      "en": "Recoverable amount ≥ carrying amount: no write-down.",
+      "ms": "Amaun boleh pulih ≥ amaun dibawa: tiada tulis turun."
+     }
+    },
+    "rImp": {
+     "c": "warn",
+     "t": {
+      "en": "Impaired: recognise a loss",
+      "ms": "Rosot nilai: iktiraf kerugian"
+     },
+     "d": {
+      "en": "Loss = carrying amount − recoverable amount (the higher of FVLCD and VIU).",
+      "ms": "Kerugian = amaun dibawa − amaun boleh pulih (yang lebih tinggi antara FVLCD dan VIU)."
+     }
+    }
+   }
+  },
+  {
+   "id": "where",
+   "icon": "📍",
+   "title": {
+    "en": "Where does the loss go?",
+    "ms": "Kerugian ke mana?"
+   },
+   "sub": {
+    "en": "P/L or OCI",
+    "ms": "P/L atau OCI"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is the asset carried at a revalued amount?",
+      "ms": "Adakah aset dibawa pada amaun dinilai semula?"
+     },
+     "y": "n2",
+     "n": "rPL"
+    },
+    "n2": {
+     "q": {
+      "en": "Is there a revaluation surplus for this asset?",
+      "ms": "Adakah ada lebihan penilaian semula untuk aset ini?"
+     },
+     "y": "rOCI",
+     "n": "rPL"
+    }
+   },
+   "results": {
+    "rOCI": {
+     "c": "info",
+     "t": {
+      "en": "OCI first (against the surplus), excess to P/L",
+      "ms": "OCI dahulu (terhadap lebihan), lebihan ke P/L"
+     },
+     "d": {
+      "en": "Debit the revaluation surplus up to its balance; the rest is an impairment loss in profit or loss.",
+      "ms": "Debit lebihan penilaian semula sehingga bakinya; selebihnya kerugian rosot nilai dalam untung atau rugi."
+     }
+    },
+    "rPL": {
+     "c": "warn",
+     "t": {
+      "en": "Profit or loss",
+      "ms": "Untung atau rugi"
+     },
+     "d": {
+      "en": "Recognise the impairment loss immediately in profit or loss.",
+      "ms": "Iktiraf kerugian rosot nilai serta-merta dalam untung atau rugi."
+     }
+    }
+   }
+  },
+  {
+   "id": "cgu",
+   "icon": "🧮",
+   "title": {
+    "en": "Allocate a CGU loss",
+    "ms": "Peruntuk kerugian CGU"
+   },
+   "sub": {
+    "en": "Goodwill first, then pro rata",
+    "ms": "Muhibah dahulu, kemudian pro rata"
+   },
+   "start": "n1",
+   "nodes": {
+    "n1": {
+     "q": {
+      "en": "Is the CGU's recoverable amount LESS than its carrying amount (including goodwill)?",
+      "ms": "Adakah amaun boleh pulih CGU LEBIH RENDAH daripada amaun dibawanya (termasuk muhibah)?"
+     },
+     "y": "n2",
+     "n": "rNone"
+    },
+    "n2": {
+     "q": {
+      "en": "Does the CGU include goodwill?",
+      "ms": "Adakah CGU termasuk muhibah?"
+     },
+     "y": "rGW",
+     "n": "rPro"
+    }
+   },
+   "results": {
+    "rNone": {
+     "c": "good",
+     "t": {
+      "en": "No impairment loss",
+      "ms": "Tiada kerugian rosot nilai"
+     },
+     "d": {
+      "en": "Recoverable amount ≥ carrying amount.",
+      "ms": "Amaun boleh pulih ≥ amaun dibawa."
+     }
+    },
+    "rGW": {
+     "c": "warn",
+     "t": {
+      "en": "Reduce goodwill first, then other assets pro rata",
+      "ms": "Kurangkan muhibah dahulu, kemudian aset lain pro rata"
+     },
+     "d": {
+      "en": "Not below the higher of FVLCD, VIU and zero for any asset.",
+      "ms": "Tidak di bawah yang lebih tinggi antara FVLCD, VIU dan sifar bagi mana-mana aset."
+     }
+    },
+    "rPro": {
+     "c": "warn",
+     "t": {
+      "en": "Allocate to the unit's assets pro rata",
+      "ms": "Peruntuk kepada aset unit secara pro rata"
+     },
+     "d": {
+      "en": "By carrying amount of each asset.",
+      "ms": "Mengikut amaun dibawa setiap aset."
+     }
+    }
+   }
+  }
+ ]
+}
