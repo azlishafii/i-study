@@ -485,7 +485,7 @@
     },
     {
      "k": "je",
-     "title": "Journal entry (lecturer's working, slide 15)",
+     "title": "Journal entry",
      "lines": [
       [
        "Dr",
@@ -575,12 +575,21 @@
      "k": "ul",
      "en": [
       "Carried at **cost less accumulated depreciation and accumulated impairment losses** (book value).",
-      "**Impairment loss** is recognised **immediately in profit or loss**, and the PPE carrying amount is reduced in the statement of financial position."
+      "An asset is **impaired** when its **carrying amount exceeds its recoverable amount**.",
+      "**Recoverable amount** = the **higher of** fair value less costs of disposal and value in use (MFRS 136).",
+      "The **impairment loss** (carrying amount − recoverable amount) is recognised **immediately in profit or loss**, and the PPE carrying amount is reduced in the statement of financial position."
      ],
      "ms": [
       "Dibawa pada **kos tolak susut nilai terkumpul dan kerugian rosot nilai terkumpul** (nilai buku).",
-      "**Kerugian rosot nilai** diiktiraf **serta-merta dalam untung atau rugi**, dan amaun dibawa PPE dikurangkan dalam penyata kedudukan kewangan."
+      "Aset **rosot nilai** apabila **amaun dibawanya melebihi amaun boleh pulih**.",
+      "**Amaun boleh pulih** = **yang lebih tinggi** antara nilai saksama tolak kos pelupusan dan nilai guna (MFRS 136).",
+      "**Kerugian rosot nilai** (amaun dibawa − amaun boleh pulih) diiktiraf **serta-merta dalam untung atau rugi**, dan amaun dibawa PPE dikurangkan dalam penyata kedudukan kewangan."
      ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: Impaired when Carrying amount > Recoverable amount (the HIGHER of FVLCD and VIU).",
+     "ms": "Cara ingat: Rosot nilai bila Amaun dibawa > Amaun boleh pulih (yang LEBIH TINGGI antara FVLCD dan VIU)."
     },
     {
      "k": "je",
@@ -597,11 +606,6 @@
        "xxx"
       ]
      ]
-    },
-    {
-     "k": "note",
-     "en": "The slide says impairment is when \"fair value less selling costs is more than its carrying value\". That wording is garbled. Correct rule (MFRS 136): impairment exists when the carrying amount EXCEEDS the recoverable amount (the higher of fair value less costs of disposal and value in use). Use this in the exam.",
-     "ms": "Slide kata rosot nilai ialah bila \"nilai saksama tolak kos jualan lebih daripada nilai dibawa\". Ayat itu tidak betul. Peraturan betul (MFRS 136): rosot nilai wujud bila amaun dibawa MELEBIHI amaun boleh pulih (yang lebih tinggi antara nilai saksama tolak kos pelupusan dan nilai guna). Guna ini dalam exam."
     },
     {
      "k": "ex",
@@ -739,8 +743,8 @@
     },
     {
      "k": "tip",
-     "en": "Lecturer's sketch (slide 30): in the SFP equity section you see Share capital, Revaluation reserve (RR) and Retained earnings. The RR is a separate equity line.",
-     "ms": "Lakaran pensyarah (slide 30): dalam bahagian ekuiti SFP ada Modal saham, Rizab penilaian semula (RR) dan Pendapatan tertahan. RR ialah baris ekuiti berasingan."
+     "en": "The revaluation surplus is shown as a separate component of equity, alongside share capital and retained earnings.",
+     "ms": "Lebihan penilaian semula ditunjuk sebagai komponen ekuiti berasingan, bersama modal saham dan pendapatan tertahan."
     }
    ]
   },
