@@ -65,7 +65,7 @@ async function loadLib() {
 }
 
 /* ----------------------------------------------------------- validation */
-const KINDS = { p: 's', h: 's', tip: 's', note: 's', ex: 's', calc: 's', ul: 'a', flow: 'a', table: 't', je: 'j' };
+const KINDS = { p: 's', h: 's', h2: 's', tip: 's', note: 's', ex: 's', calc: 's', ul: 'a', flow: 'a', table: 't', je: 'j' };
 const ID_RE = /^[a-z0-9][a-z0-9-]{0,23}$/;
 function validate(o) {
   const E = [], err = (p, m) => E.push(p + ': ' + m);
@@ -437,6 +437,7 @@ function renderBlock(b) {
   switch (b.k) {
     case 'p': return `<div class="blk">${B(b)}</div>`;
     case 'h': return `<h3>${B(b, 'span')}</h3>`;
+    case 'h2': return `<h2 class="mb-2 mt-8 border-b border-slate-200 pb-2 text-xl dark:border-slate-700">${B(b, 'span')}</h2>`;
     case 'ul': return `<div class="blk">${BL(b)}</div>`;
     case 'tip': return `<div class="callout tip"><span class="ico">💡</span><div>${B(b)}</div></div>`;
     case 'note': return `<div class="callout note"><span class="ico">ℹ️</span><div>${B(b)}</div></div>`;
