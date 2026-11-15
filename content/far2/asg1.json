@@ -318,8 +318,8 @@
    "blocks": [
     {
      "k": "note",
-     "en": "Essay-style model answer (about 1,400 words; a 6-page limit allows roughly 2,500 to 3,000, so you can expand with more examples), organised as an Introduction, Part A (asset impairment) and Part B (liquidity), each with Criteria, Condition, Cause and Effect paragraphs, and a Conclusion. The section labels are for study only: remove them in your submission. Facts and figures are as reported in news coverage of the RCI report: verify them, and rewrite in your own words.",
-     "ms": "Jawapan model gaya esei (kira-kira 1,400 perkataan; had 6 muka surat membenarkan kira-kira 2,500 hingga 3,000, jadi anda boleh kembangkan dengan lebih banyak contoh), disusun sebagai Pengenalan, Bahagian A (rosot nilai aset) dan Bahagian B (kecairan), setiap satu dengan perenggan Kriteria, Keadaan, Punca dan Kesan, serta Kesimpulan. Label bahagian hanya untuk belajar: buangkannya dalam penyerahan anda. Fakta dan angka seperti dilaporkan dalam liputan berita laporan RCI: sahkan, dan tulis semula dengan perkataan sendiri."
+     "en": "Essay-style model answer (about 1,300 words; a 6-page limit allows roughly 2,500 to 3,000, so you can expand with more examples), organised as 8 paragraphs: 1 Introduction; 2 to 4 Issue 1 (asset impairment); 5 to 7 Issue 2 (liquidity); 8 Conclusion. Every body paragraph contains Criteria, Condition, Cause and Effect. The section labels are for study only: remove them in your submission. Facts and figures are as reported in news coverage of the RCI report: verify them, and rewrite in your own words.",
+     "ms": "Jawapan model gaya esei (kira-kira 1,300 perkataan; had 6 muka surat membenarkan kira-kira 2,500 hingga 3,000, jadi anda boleh kembangkan dengan lebih banyak contoh), disusun sebagai 8 perenggan: 1 Pengenalan; 2 hingga 4 Isu 1 (rosot nilai aset); 5 hingga 7 Isu 2 (kecairan); 8 Kesimpulan. Setiap perenggan isi mengandungi Kriteria, Keadaan, Punca dan Kesan. Label bahagian hanya untuk belajar: buangkannya dalam penyerahan anda. Fakta dan angka seperti dilaporkan dalam liputan berita laporan RCI: sahkan, dan tulis semula dengan perkataan sendiri."
     },
     {
      "k": "h2",
@@ -328,93 +328,75 @@
     },
     {
      "k": "h2",
-     "en": "Introduction",
-     "ms": "Introduction"
+     "en": "Paragraph 1: Introduction",
+     "ms": "Paragraph 1: Introduction"
     },
     {
      "k": "p",
-     "en": "Lembaga Tabung Haji (TH) is a statutory fund that helps Malaysian Muslims save for the Hajj pilgrimage. Between 2014 and 2018, news coverage of the Royal Commission of Inquiry (RCI) report describes a fund that paid generous hibah (profit distributions) while its investments lost value, its audited position showed a deficit, and its cash position eventually required a rescue linked to the government. This essay discusses the root causes of TH's asset impairment and liquidity problems. It examines each problem in turn using four elements: the criteria (what the standards and the law required), the condition (what actually happened), the cause (why the gap arose) and the effect (its consequences). It argues that the two problems share one root: weak governance and non-compliant accounting hid the impairment, and payouts and illiquid assets then drained cash until TH could no longer pay hibah lawfully without help."
+     "en": "Lembaga Tabung Haji (TH) is a statutory fund that helps Malaysian Muslims save for the Hajj pilgrimage. Between 2014 and 2018, news coverage of the Royal Commission of Inquiry (RCI) report describes a fund that paid generous hibah (profit distributions) while its investments lost value, its audited position showed a deficit, and its cash position eventually required a rescue linked to the government. This essay discusses the root causes of two issues: asset impairment and liquidity. Each issue is analysed in three paragraphs, and every paragraph moves through four elements: the criteria (what the standards and the law required), the condition (what actually happened), the cause (why the gap arose) and the effect (its consequences). It argues that both issues share one root: weak governance and non-compliant accounting hid the impairment, and payouts and illiquid assets then drained cash until TH could no longer pay hibah lawfully without help."
     },
     {
      "k": "h2",
-     "en": "Part A, Asset impairment: Criteria",
-     "ms": "Part A, Asset impairment: Criteria"
+     "en": "Paragraph 2 (Issue 1, Asset impairment): Impairment not recognised and policy changed",
+     "ms": "Paragraph 2 (Issue 1, Asset impairment): Impairment not recognised and policy changed"
     },
     {
      "k": "p",
-     "en": "Several requirements set the benchmark for how TH should have reported its assets. MFRS 136 Impairment of Assets requires an entity to assess at every reporting date whether an asset, including an investment in a subsidiary or associate, may be impaired (para 9), and to reduce the carrying amount to the recoverable amount, recognising the loss immediately in profit or loss (paras 59 to 60). MFRS 108 allows a change in accounting policy only when a standard requires it or when it gives reliable and more relevant information (para 14), which protects comparability. Where fair values are used, MFRS 13 requires valuation techniques that maximise observable inputs (paras 61 and 67), and MFRS 116 notes that the fair value of land and buildings is usually determined by professionally qualified valuers (para 32). Governance and audit criteria also apply: the Malaysian Code on Corporate Governance expects competent and independent boards, and ISA 200 requires auditors to apply professional scepticism. Together with the Conceptual Framework's requirement of faithful representation, these mean that reported assets and profit should reflect the recoverable value of TH's investments, not management's expectations."
+     "en": "The first cause of impairment concerned how losses were recognised. The criteria were clear: MFRS 136 requires an entity to assess at each reporting date whether an asset, including an investment in a subsidiary or associate, may be impaired (para 9) and to reduce it to the recoverable amount, recognising the loss in profit or loss (paras 59 to 60), while MFRS 108 allows a change in accounting policy only when a standard requires it or when it gives reliable and more relevant information (para 14). The condition fell short: the Auditor-General reportedly found RM227.81 million of impairment unrecognised in 2017 on three subsidiaries and three associates, including RM164.58 million on TH Heavy Engineering, the RCI found that no impairment was made for investments that had fallen below cost, and the impairment policy was changed twice in 2017. The cause was reliance on a Realisable Asset Value (RAV) approach instead of audited carrying amounts, together with what the RCI described as \"creative accounting\". The effect was that the reported 2017 profit of RM3.4 billion should have been a RM1.4 billion loss, so profit and net assets were overstated and comparability across years was lost."
     },
     {
      "k": "h2",
-     "en": "Part A, Asset impairment: Condition",
-     "ms": "Part A, Asset impairment: Condition"
+     "en": "Paragraph 3 (Issue 1, Asset impairment): Unreliable valuations",
+     "ms": "Paragraph 3 (Issue 1, Asset impairment): Unreliable valuations"
     },
     {
      "k": "p",
-     "en": "The reported condition fell well short of these criteria. The Auditor-General reportedly found that TH had not recognised RM227.81 million of impairment in 2017 on three subsidiaries and three associates, including RM164.58 million on TH Heavy Engineering, and that it had changed its impairment policy twice in that year. The RCI reportedly found that no impairment was made for investments that had fallen below cost, and that TH relied on a Realisable Asset Value (RAV) approach rather than the carrying amounts in its audited accounts. Of a RM4.6 billion property valuation used in RAV, only RM0.56 billion came from professional valuers, while RM4.04 billion was management's own estimate. Later impairments reported include RM278 million on Alam Maritim/TH Marine and RM170 million on TH Plantations, and the RCI recommended forensic audits of 14 troubled investments. Even so, TH's 2014 to 2017 financial statements received unqualified audit opinions, with a Matter of Emphasis in 2017."
+     "en": "The second cause of impairment concerned how assets were valued. The criteria required valuation techniques that maximise observable inputs (MFRS 13 paras 61 and 67), and noted that the fair value of land and buildings is usually determined by professionally qualified valuers (MFRS 116 para 32). The condition did not meet this: of a RM4.6 billion property valuation used in RAV, only RM0.56 billion came from professional valuers, while RM4.04 billion was management's own estimate. The cause was that RAV is not an MFRS measure and depended on internal estimates; it is a reasonable inference that most of the uplift was not independently verified. The effect was an inflated asset base. On RAV, 2017 assets were RM74.7 billion against liabilities of RM74.4 billion, a RM373 million surplus, whereas figures based on PwC's analysis show assets of RM70.3 billion, a difference of about RM4.4 billion between the two bases. Later impairments reported on Alam Maritim/TH Marine (RM278 million) and TH Plantations (RM170 million) are consistent with values having been overstated."
     },
     {
      "k": "h2",
-     "en": "Part A, Asset impairment: Cause",
-     "ms": "Part A, Asset impairment: Cause"
+     "en": "Paragraph 4 (Issue 1, Asset impairment): Weak governance and oversight",
+     "ms": "Paragraph 4 (Issue 1, Asset impairment): Weak governance and oversight"
     },
     {
      "k": "p",
-     "en": "The root causes begin with governance. The Tabung Haji Act 1995 allows the Minister to appoint the chairman and board with no qualification beyond being a Muslim and a Malaysian citizen, and the RCI reportedly found political interference and concentrated control, with one former board member and chief executive holding positions in seven subsidiaries and three more after his tenure ended in June 2016. A board that lacks independence is less likely to challenge risky investments. This weak oversight then interacted with accounting choices: the RCI described \"creative accounting\" that propped up high hibah payouts, and the use of RAV, repeated policy changes and management-estimated valuations all delayed the recognition of losses. The reports do not state management's intentions, so any motive of avoiding visible losses is an inference. Finally, the unqualified audit opinions suggest that these choices were not challenged strongly enough, although the available reports do not explain the auditors' reasoning."
+     "en": "The third cause of impairment, and the deepest, was weak governance and oversight. The criteria were that the board should be competent and independent and manage risk (Malaysian Code on Corporate Governance), that board appointments should follow the Tabung Haji Act 1995, and that auditors should apply professional scepticism (ISA 200). The condition fell short: the Act allows the Minister to appoint the chairman and board with no qualification beyond being a Muslim and a Malaysian citizen, the RCI reportedly found political interference, one former board member and chief executive held positions in seven subsidiaries and three more after June 2016, 14 investments needed forensic audits, and the 2014 to 2017 accounts received unqualified opinions with only a Matter of Emphasis in 2017. The cause was minimal statutory criteria and concentrated control, which meant risky investments faced little independent challenge; any weakness in audit scepticism is an inference, because the available reports do not explain the auditors' reasoning. The effect was losses and impairments on poorly supervised investments, late detection of the problems, and calls for reform such as barring active politicians from boards."
     },
     {
      "k": "h2",
-     "en": "Part A, Asset impairment: Effect",
-     "ms": "Part A, Asset impairment: Effect"
+     "en": "Paragraph 5 (Issue 2, Liquidity): Hibah paid beyond capacity",
+     "ms": "Paragraph 5 (Issue 2, Liquidity): Hibah paid beyond capacity"
     },
     {
      "k": "p",
-     "en": "The effects of non-recognition were material. Profit and net assets were overstated: the RCI concluded that, under full application of the standards, the reported 2017 profit of RM3.4 billion should have been a RM1.4 billion loss, a swing of RM4.8 billion. When the losses could no longer be hidden they were large. Estimates cited in coverage put losses at about RM2.8 billion on investments TH retained and RM10.2 billion on assets later moved to Urusharta Jamaah, although the figures differ between sources. The episode also undermined the credibility of TH's financial reporting and of the audit and governance framework around it, and it led to calls for reform, including barring active politicians from boards and carrying out forensic audits of troubled investments."
+     "en": "The first cause of the liquidity problem was that hibah was paid beyond the fund's capacity. The criteria were that distributions had to be supportable by the fund's position, and news reports of the RCI describe Section 22 of the Tabung Haji Act 1995 as the compliance test, while MFRS 101 requires fair presentation (para 15). The condition fell short: total payouts (hibah plus Hajj bonus) were reported at 8.25% in 2014, 8.00% in 2015, 5.75% in 2016 and 6.25% in 2017, and the RCI reportedly found that the 2014 and 2015 distributions exceeded actual profits and that, in 2016 and 2017, liabilities exceeded assets yet hibah was still paid. The cause was that RAV was used to show compliance with the legal test, and the governance weaknesses above meant that this was not challenged; pressure to keep returns competitive is a possible reason but is not stated in the available reports. The effect was that cash left the fund without matching earnings, so reserves were depleted and the asset-liability deficit deepened."
     },
     {
      "k": "h2",
-     "en": "Part B, Liquidity: Criteria",
-     "ms": "Part B, Liquidity: Criteria"
+     "en": "Paragraph 6 (Issue 2, Liquidity): Asset-liability deficit and maturity mismatch",
+     "ms": "Paragraph 6 (Issue 2, Liquidity): Asset-liability deficit and maturity mismatch"
     },
     {
      "k": "p",
-     "en": "Liquidity and distributions were governed by a second set of criteria. News reports of the RCI describe Section 22 of the Tabung Haji Act 1995 as the compliance test for paying hibah, so distributions had to be supportable by the fund's financial position. MFRS 101 requires fair presentation (para 15) and an assessment of the entity's ability to continue as a going concern (paras 25 to 26). MFRS 7 requires disclosure of a maturity analysis of liabilities and management of liquidity risk (para 39), which reflects that a deposit-taking fund must match its assets to likely withdrawals. In substance, TH was expected to pay hibah only from real and sustainable profit and to hold enough liquid assets to meet depositors' demands."
+     "en": "The second cause of the liquidity problem was the structure of the balance sheet. The criteria required management to assess going concern (MFRS 101 paras 25 to 26) and to manage liquidity risk, including a maturity analysis of liabilities (MFRS 7 para 39), which means that a fund holding savings must match its assets to likely withdrawals. The condition was weak: figures based on PwC's analysis show 2017 assets of RM70.3 billion against liabilities of RM74.4 billion, and by the end of 2018 TH said the gap exceeded RM10 billion, although sources differ on exactly when the deficit began. The cause, in my analysis, was a maturity mismatch: depositors' savings can be withdrawn on demand, whereas property, plantation assets and stakes in subsidiaries are slow to sell and impaired investments generate little cash, and the fund depended on continued inflows and confidence to keep paying. These two points are inferences, not quoted findings. The effect was that TH could not pay hibah lawfully or meet all claims without external support."
     },
     {
      "k": "h2",
-     "en": "Part B, Liquidity: Condition",
-     "ms": "Part B, Liquidity: Condition"
+     "en": "Paragraph 7 (Issue 2, Liquidity): The 2018 rescue and its consequences",
+     "ms": "Paragraph 7 (Issue 2, Liquidity): The 2018 rescue and its consequences"
     },
     {
      "k": "p",
-     "en": "The distribution and liquidity condition was equally concerning. Total payouts (hibah plus Hajj bonus) were reported at 8.25% in 2014, 8.00% in 2015, 5.75% in 2016 and 6.25% in 2017. The RCI reportedly found that the 2014 and 2015 distributions exceeded actual profits and that, in 2016 and 2017, liabilities exceeded assets yet hibah was still paid. For 2017, figures based on PwC's analysis show assets of RM70.3 billion against liabilities of RM74.4 billion, whereas TH's RAV basis showed a RM373 million surplus; sources differ on exactly when the deficit began. By December 2018 TH said the asset-liability gap exceeded RM10 billion, and underperforming assets with a transfer value of RM19.9 billion, but a market value of about RM9.7 billion, were moved to a Ministry of Finance special purpose vehicle, Urusharta Jamaah."
+     "en": "The third cause of the liquidity problem was how it was finally resolved. The criteria were that TH should meet its obligations and distribute only when the Act's test was met, so a rescue should not have been necessary. The condition was that in December 2018 a Ministry of Finance special purpose vehicle, Urusharta Jamaah, took over underperforming assets with a transfer value of RM19.9 billion but a market value of about RM9.7 billion; reported financing details differ by source (for example RM10 billion of sukuk plus RM9.9 billion of preference shares, or RM19.6 billion of sukuk plus RM300 million in cash). The cause, as TH explained it, was that without action it would breach the Act and be unable to declare a 2018 hibah. The effect was that TH exchanged illiquid assets for sukuk rather than cash, the government committed to payments of about RM1.73 billion a year until the sukuk are redeemed, the 2018 hibah fell to 1.25%, the lowest in TH's history, and public confidence was damaged."
     },
     {
      "k": "h2",
-     "en": "Part B, Liquidity: Cause",
-     "ms": "Part B, Liquidity: Cause"
+     "en": "Paragraph 8: Conclusion",
+     "ms": "Paragraph 8: Conclusion"
     },
     {
      "k": "p",
-     "en": "The liquidity problem had causes that were separate from, but linked to, impairment. First, payouts were set above what earnings and reserves could support, so cash left the fund without matching profit. The reliance on RAV allowed management to show compliance with the legal test for distributions, and the governance weaknesses described above meant that this was not challenged. Second, this suggests a maturity mismatch: depositors' savings can be withdrawn on demand, whereas property, plantation assets and stakes in subsidiaries are slow to sell, and impaired investments generate little cash. Third, high hibah may have encouraged deposits, leaving the fund dependent on continued inflows and confidence to keep paying. The second and third points are analytical inferences rather than quoted findings, but they are consistent with the facts: an overstated asset base led the fund to believe it could afford distributions that it could not."
-    },
-    {
-     "k": "h2",
-     "en": "Part B, Liquidity: Effect",
-     "ms": "Part B, Liquidity: Effect"
-    },
-    {
-     "k": "p",
-     "en": "The effects on liquidity were severe. Because hibah was in effect paid from capital and reserves rather than earnings, reserves were depleted and the asset-liability deficit deepened. The December 2018 transfer meant that TH exchanged illiquid assets for sukuk rather than cash, and the government committed to annual payments of about RM1.73 billion until the sukuk are redeemed. The 2018 hibah fell to 1.25%, the lowest in TH's history, so savers who had earlier received 6% to 8% received far less. Public confidence in the fund was damaged, and the RCI's recommendations, which include giving the Investment Panel and the Syariah and Haj committees a statutory footing, show that the liquidity crisis was treated as a governance failure and not only a financial one."
-    },
-    {
-     "k": "h2",
-     "en": "Conclusion",
-     "ms": "Conclusion"
-    },
-    {
-     "k": "p",
-     "en": "In conclusion, TH's asset impairment and liquidity problems came from the same root: weak governance. For impairment, the criteria were clear, but the condition fell short because losses were not recognised, policies were changed and valuations relied on management estimates; the causes were weak board independence, oversight and accounting measures outside the standards, and the effect was overstated profit. For liquidity, hibah was paid beyond the fund's capacity against illiquid assets, which led to a deficit, a RM19.9 billion asset transfer and the lowest hibah in TH's history. The lessons are to apply MFRS 136, 108 and 13 fully, to pay hibah only from real and sustainable profit, to match assets to withdrawal demand, to appoint boards on competence rather than politics, and to strengthen audit scepticism."
+     "en": "In conclusion, TH's asset impairment and liquidity problems came from the same root: weak governance. Impairment arose because losses were not recognised, valuations relied on management estimates and oversight was weak; liquidity problems arose because hibah was paid beyond capacity against illiquid assets, which led to a deficit and a RM19.9 billion asset transfer. In each case the criteria were clear but the condition fell short, the cause was governance and accounting choices outside the standards, and the effect was overstated profit, depleted reserves and lost confidence. The lessons are to apply MFRS 136, 108 and 13 fully, to pay hibah only from real and sustainable profit, to match assets to withdrawal demand, to appoint boards on competence rather than politics, and to strengthen audit scepticism."
     },
     {
      "k": "h2",
@@ -441,28 +423,24 @@
     {
      "k": "ul",
      "en": [
-      "Pengenalan: TH ialah dana statutori simpanan Haji; 2014 hingga 2018 hibah tinggi, pelaburan rosot nilai, defisit, penyelamatan; tesis: dua masalah berkongsi satu punca, tadbir urus lemah dan perakaunan tidak patuh.",
-      "A Kriteria: MFRS 136 (para 9, 59–60), MFRS 108 (para 14), MFRS 13 (para 61, 67), MFRS 116 (para 32), MCCG, ISA 200.",
-      "A Keadaan: RM227.81 juta rosot nilai tidak diiktiraf, dasar ditukar dua kali, RAV, penilaian RM4.6 bilion (hanya RM0.56 bilion oleh penilai), pendapat audit bersih.",
-      "A Punca: Menteri lantik lembaga tanpa kriteria, campur tangan politik, perakaunan kreatif, RAV, penilaian pengurusan, audit kurang mencabar.",
-      "A Kesan: untung RM3.4 bilion sepatutnya rugi RM1.4 bilion, kerugian besar kemudian, kredibiliti pelaporan terjejas.",
-      "B Kriteria: Akta TH s.22, MFRS 101 (para 15, 25–26), MFRS 7 (para 39).",
-      "B Keadaan: hibah 8.25%, 8.00%, 5.75%, 6.25%; agihan melebihi untung 2014–2015; liabiliti melebihi aset 2016–2017; jurang lebih RM10 bilion; aset RM19.9 bilion dipindah 2018.",
-      "B Punca: bayaran melebihi keupayaan, RAV menunjukkan pematuhan, ketakpadanan tempoh matang (analisis), bergantung pada deposit (analisis).",
-      "B Kesan: rizab susut, defisit mendalam, penyelamatan SPV dengan sukuk, kerajaan RM1.73 bilion setahun, hibah 2018 hanya 1.25%, keyakinan awam terjejas.",
-      "Kesimpulan: punca sama (tadbir urus); pelajaran: guna MFRS sepenuhnya, hibah daripada untung sebenar, padan aset dengan pengeluaran, lantik lembaga berdasarkan kecekapan, kukuhkan skeptisisme audit."
+      "P1 Pengenalan: TH ialah dana statutori simpanan Haji; 2014 hingga 2018 hibah tinggi, pelaburan rosot nilai, defisit, penyelamatan; tesis: dua isu berkongsi satu punca, tadbir urus lemah dan perakaunan tidak patuh.",
+      "P2 Rosot nilai tidak diiktiraf: Kriteria MFRS 136 (para 9, 59–60), MFRS 108 (para 14); Keadaan RM227.81 juta tidak diiktiraf, dasar ditukar dua kali; Punca RAV dan perakaunan kreatif; Kesan untung RM3.4 bilion sepatutnya rugi RM1.4 bilion.",
+      "P3 Penilaian tidak boleh dipercayai: Kriteria MFRS 13 (para 61, 67), MFRS 116 (para 32); Keadaan RM4.6 bilion (hanya RM0.56 bilion oleh penilai); Punca RAV bergantung anggaran dalaman; Kesan aset terlebih nyata (RAV RM74.7 bilion vs PwC RM70.3 bilion), rosot nilai kemudian.",
+      "P4 Tadbir urus dan pengawasan lemah: Kriteria MCCG, Akta TH, ISA 200; Keadaan Menteri lantik lembaga tanpa kriteria, campur tangan politik, 14 pelaburan audit forensik, pendapat tanpa kelayakan; Punca kriteria minimum dan kuasa tertumpu; Kesan kerugian, pengesanan lewat, tuntutan reformasi.",
+      "P5 Hibah melebihi keupayaan: Kriteria Akta TH s.22, MFRS 101 (para 15); Keadaan hibah 8.25%, 8.00%, 5.75%, 6.25%, melebihi untung 2014–2015, liabiliti melebihi aset 2016–2017; Punca RAV menunjukkan pematuhan; Kesan rizab susut, defisit mendalam.",
+      "P6 Defisit dan ketakpadanan tempoh matang: Kriteria MFRS 101 (para 25–26), MFRS 7 (para 39); Keadaan aset RM70.3 bilion vs liabiliti RM74.4 bilion, jurang lebih RM10 bilion pada 2018; Punca aset tidak cair vs simpanan boleh dikeluarkan (analisis); Kesan tak boleh bayar hibah atau tuntutan tanpa sokongan luar.",
+      "P7 Penyelamatan 2018: Kriteria TH patut memenuhi obligasi dan agih hanya bila ujian Akta dipenuhi; Keadaan aset RM19.9 bilion (pasaran kira-kira RM9.7 bilion) dipindah kepada UJSB; Punca tanpa tindakan TH melanggar Akta dan tak boleh agih hibah; Kesan sukuk bukan tunai, kerajaan RM1.73 bilion setahun, hibah 1.25%, keyakinan terjejas.",
+      "P8 Kesimpulan: punca sama (tadbir urus); pelajaran: guna MFRS sepenuhnya, hibah daripada untung sebenar, padan aset dengan pengeluaran, lantik lembaga berdasarkan kecekapan, kukuhkan skeptisisme audit."
      ],
      "ms": [
-      "Pengenalan: TH ialah dana statutori simpanan Haji; 2014 hingga 2018 hibah tinggi, pelaburan rosot nilai, defisit, penyelamatan; tesis: dua masalah berkongsi satu punca, tadbir urus lemah dan perakaunan tidak patuh.",
-      "A Kriteria: MFRS 136 (para 9, 59–60), MFRS 108 (para 14), MFRS 13 (para 61, 67), MFRS 116 (para 32), MCCG, ISA 200.",
-      "A Keadaan: RM227.81 juta rosot nilai tidak diiktiraf, dasar ditukar dua kali, RAV, penilaian RM4.6 bilion (hanya RM0.56 bilion oleh penilai), pendapat audit bersih.",
-      "A Punca: Menteri lantik lembaga tanpa kriteria, campur tangan politik, perakaunan kreatif, RAV, penilaian pengurusan, audit kurang mencabar.",
-      "A Kesan: untung RM3.4 bilion sepatutnya rugi RM1.4 bilion, kerugian besar kemudian, kredibiliti pelaporan terjejas.",
-      "B Kriteria: Akta TH s.22, MFRS 101 (para 15, 25–26), MFRS 7 (para 39).",
-      "B Keadaan: hibah 8.25%, 8.00%, 5.75%, 6.25%; agihan melebihi untung 2014–2015; liabiliti melebihi aset 2016–2017; jurang lebih RM10 bilion; aset RM19.9 bilion dipindah 2018.",
-      "B Punca: bayaran melebihi keupayaan, RAV menunjukkan pematuhan, ketakpadanan tempoh matang (analisis), bergantung pada deposit (analisis).",
-      "B Kesan: rizab susut, defisit mendalam, penyelamatan SPV dengan sukuk, kerajaan RM1.73 bilion setahun, hibah 2018 hanya 1.25%, keyakinan awam terjejas.",
-      "Kesimpulan: punca sama (tadbir urus); pelajaran: guna MFRS sepenuhnya, hibah daripada untung sebenar, padan aset dengan pengeluaran, lantik lembaga berdasarkan kecekapan, kukuhkan skeptisisme audit."
+      "P1 Pengenalan: TH ialah dana statutori simpanan Haji; 2014 hingga 2018 hibah tinggi, pelaburan rosot nilai, defisit, penyelamatan; tesis: dua isu berkongsi satu punca, tadbir urus lemah dan perakaunan tidak patuh.",
+      "P2 Rosot nilai tidak diiktiraf: Kriteria MFRS 136 (para 9, 59–60), MFRS 108 (para 14); Keadaan RM227.81 juta tidak diiktiraf, dasar ditukar dua kali; Punca RAV dan perakaunan kreatif; Kesan untung RM3.4 bilion sepatutnya rugi RM1.4 bilion.",
+      "P3 Penilaian tidak boleh dipercayai: Kriteria MFRS 13 (para 61, 67), MFRS 116 (para 32); Keadaan RM4.6 bilion (hanya RM0.56 bilion oleh penilai); Punca RAV bergantung anggaran dalaman; Kesan aset terlebih nyata (RAV RM74.7 bilion vs PwC RM70.3 bilion), rosot nilai kemudian.",
+      "P4 Tadbir urus dan pengawasan lemah: Kriteria MCCG, Akta TH, ISA 200; Keadaan Menteri lantik lembaga tanpa kriteria, campur tangan politik, 14 pelaburan audit forensik, pendapat tanpa kelayakan; Punca kriteria minimum dan kuasa tertumpu; Kesan kerugian, pengesanan lewat, tuntutan reformasi.",
+      "P5 Hibah melebihi keupayaan: Kriteria Akta TH s.22, MFRS 101 (para 15); Keadaan hibah 8.25%, 8.00%, 5.75%, 6.25%, melebihi untung 2014–2015, liabiliti melebihi aset 2016–2017; Punca RAV menunjukkan pematuhan; Kesan rizab susut, defisit mendalam.",
+      "P6 Defisit dan ketakpadanan tempoh matang: Kriteria MFRS 101 (para 25–26), MFRS 7 (para 39); Keadaan aset RM70.3 bilion vs liabiliti RM74.4 bilion, jurang lebih RM10 bilion pada 2018; Punca aset tidak cair vs simpanan boleh dikeluarkan (analisis); Kesan tak boleh bayar hibah atau tuntutan tanpa sokongan luar.",
+      "P7 Penyelamatan 2018: Kriteria TH patut memenuhi obligasi dan agih hanya bila ujian Akta dipenuhi; Keadaan aset RM19.9 bilion (pasaran kira-kira RM9.7 bilion) dipindah kepada UJSB; Punca tanpa tindakan TH melanggar Akta dan tak boleh agih hibah; Kesan sukuk bukan tunai, kerajaan RM1.73 bilion setahun, hibah 1.25%, keyakinan terjejas.",
+      "P8 Kesimpulan: punca sama (tadbir urus); pelajaran: guna MFRS sepenuhnya, hibah daripada untung sebenar, padan aset dengan pengeluaran, lantik lembaga berdasarkan kecekapan, kukuhkan skeptisisme audit."
      ]
     }
    ]
@@ -471,72 +449,174 @@
    "id": "fourc",
    "icon": "🧩",
    "title": {
-    "en": "Essay Plan: Criteria, Condition, Cause, Effect",
-    "ms": "Pelan Esei: Kriteria, Keadaan, Punca, Kesan"
+    "en": "Essay Plan: 8 Paragraphs",
+    "ms": "Pelan Esei: 8 Perenggan"
    },
-   "ref": "How to write the body paragraphs",
+   "ref": "Criteria · Condition · Cause · Effect in every body paragraph",
    "blocks": [
     {
      "k": "table",
      "head": {
       "en": [
-       "Body paragraph",
-       "Question it answers",
-       "What to write in this case"
+       "Para",
+       "Sub-issue",
+       "Criteria",
+       "Condition",
+       "Cause",
+       "Effect"
       ],
       "ms": [
-       "Perenggan isi",
-       "Soalan yang dijawab",
-       "Apa ditulis dalam kes ini"
+       "Per.",
+       "Sub-isu",
+       "Kriteria",
+       "Keadaan",
+       "Punca",
+       "Kesan"
       ]
      },
      "rows": [
       {
        "en": [
-        "Criteria",
-        "What SHOULD have happened? (standard, law)",
-        "MFRS 136, 108, 13, 116, 101, 7; TH Act s.22; MCCG; ISA 200"
+        "1",
+        "Introduction",
+        "",
+        "",
+        "",
+        ""
        ],
        "ms": [
-        "Kriteria",
-        "Apa yang SEPATUTNYA berlaku? (standard, undang-undang)",
-        "MFRS 136, 108, 13, 116, 101, 7; Akta TH s.22; MCCG; ISA 200"
+        "1",
+        "Pengenalan",
+        "",
+        "",
+        "",
+        ""
        ]
       },
       {
        "en": [
-        "Condition",
-        "What DID happen? (facts, figures)",
-        "Hibah rates, RM227.81 million, RM3.4 billion vs RM1.4 billion loss, 2018 transfer"
+        "2",
+        "Impairment not recognised",
+        "MFRS 136, 108",
+        "RM227.81m; policy changed twice",
+        "RAV; creative accounting",
+        "Profit RM3.4bn vs RM1.4bn loss"
        ],
        "ms": [
-        "Keadaan",
-        "Apa yang BERLAKU? (fakta, angka)",
-        "Kadar hibah, RM227.81 juta, untung RM3.4 bilion vs rugi RM1.4 bilion, pemindahan 2018"
+        "2",
+        "Rosot nilai tidak diiktiraf",
+        "MFRS 136, 108",
+        "RM227.81j; dasar ditukar dua kali",
+        "RAV; perakaunan kreatif",
+        "Untung RM3.4b vs rugi RM1.4b"
        ]
       },
       {
        "en": [
-        "Cause",
-        "WHY did the gap arise?",
-        "Governance, RAV, policy changes, valuations, payouts, maturity mismatch"
+        "3",
+        "Unreliable valuations",
+        "MFRS 13, 116",
+        "RM4.6bn; RM0.56bn by valuers",
+        "Management estimates",
+        "Assets overstated (~RM4.4bn)"
        ],
        "ms": [
-        "Punca",
-        "KENAPA jurang timbul?",
-        "Tadbir urus, RAV, perubahan dasar, penilaian, bayaran, ketakpadanan tempoh matang"
+        "3",
+        "Penilaian tidak boleh dipercayai",
+        "MFRS 13, 116",
+        "RM4.6b; RM0.56b oleh penilai",
+        "Anggaran pengurusan",
+        "Aset terlebih nyata (~RM4.4b)"
        ]
       },
       {
        "en": [
-        "Effect",
-        "So WHAT? (impact)",
-        "Overstated profit, depleted reserves, rescue, 1.25% hibah, lost trust"
+        "4",
+        "Weak governance and oversight",
+        "TH Act, MCCG, ISA 200",
+        "Minister appoints; politics; 14 investments",
+        "Minimal criteria; concentrated control",
+        "Losses; late detection; reform"
        ],
        "ms": [
-        "Kesan",
-        "Jadi APA? (impak)",
-        "Untung terlebih nyata, rizab susut, penyelamatan, hibah 1.25%, keyakinan hilang"
+        "4",
+        "Tadbir urus dan pengawasan lemah",
+        "Akta TH, MCCG, ISA 200",
+        "Menteri lantik; politik; 14 pelaburan",
+        "Kriteria minimum; kawalan tertumpu",
+        "Kerugian; pengesanan lewat; reformasi"
+       ]
+      },
+      {
+       "en": [
+        "5",
+        "Hibah beyond capacity",
+        "TH Act s.22; MFRS 101",
+        "8.25%, 8.00%, 5.75%, 6.25%",
+        "RAV used to show compliance",
+        "Reserves depleted"
+       ],
+       "ms": [
+        "5",
+        "Hibah melebihi keupayaan",
+        "Akta TH s.22; MFRS 101",
+        "8.25%, 8.00%, 5.75%, 6.25%",
+        "RAV tunjuk pematuhan",
+        "Rizab susut"
+       ]
+      },
+      {
+       "en": [
+        "6",
+        "Deficit and maturity mismatch",
+        "MFRS 101, MFRS 7",
+        "RM70.3bn vs RM74.4bn",
+        "Illiquid assets vs on-demand savings (analysis)",
+        "Cannot pay without support"
+       ],
+       "ms": [
+        "6",
+        "Defisit dan ketakpadanan tempoh matang",
+        "MFRS 101, MFRS 7",
+        "RM70.3b vs RM74.4b",
+        "Aset tidak cair vs simpanan boleh dikeluarkan (analisis)",
+        "Tak boleh bayar tanpa sokongan"
+       ]
+      },
+      {
+       "en": [
+        "7",
+        "2018 rescue",
+        "Meet obligations; Act test",
+        "RM19.9bn (market RM9.7bn) to UJSB",
+        "Otherwise breach the Act",
+        "Sukuk not cash; RM1.73bn a year; 1.25% hibah"
+       ],
+       "ms": [
+        "7",
+        "Penyelamatan 2018",
+        "Penuhi obligasi; ujian Akta",
+        "RM19.9b (pasaran RM9.7b) ke UJSB",
+        "Jika tidak melanggar Akta",
+        "Sukuk bukan tunai; RM1.73b setahun; hibah 1.25%"
+       ]
+      },
+      {
+       "en": [
+        "8",
+        "Conclusion",
+        "",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "8",
+        "Kesimpulan",
+        "",
+        "",
+        "",
+        ""
        ]
       }
      ]
@@ -544,14 +624,14 @@
     {
      "k": "ul",
      "en": [
-      "Write TWO blocks: Part A asset impairment and Part B liquidity, each with four paragraphs (Criteria, Condition, Cause, Effect). Open each paragraph with a topic sentence naming the element, e.g. \"Several requirements set the benchmark…\" (criteria), \"The reported condition fell short…\" (condition), \"The root causes begin with governance…\" (cause), \"The effects were financial first…\" (effect).",
-      "Link Part B back to Part A (e.g. RAV and governance explain both problems).",
-      "Link paragraphs with the thesis: both problems share one root, governance."
+      "Each body paragraph (2 to 7) is one mini-argument that contains all four elements, in order: criteria, condition, cause, effect.",
+      "Use linking phrases: \"The criteria were…\", \"The condition fell short…\", \"The cause was…\", \"The effect was…\".",
+      "Link the two issues in the introduction and conclusion: governance is the shared root."
      ],
      "ms": [
-      "Tulis DUA blok: Bahagian A rosot nilai aset dan Bahagian B kecairan, setiap satu dengan empat perenggan (Kriteria, Keadaan, Punca, Kesan). Mulakan setiap perenggan dengan ayat topik yang menamakan unsur, cth \"Beberapa keperluan menjadi penanda aras…\" (kriteria), \"Keadaan yang dilaporkan tidak menepati…\" (keadaan), \"Punca utama bermula dengan tadbir urus…\" (punca), \"Kesan bermula dengan kewangan…\" (kesan).",
-      "Kaitkan Bahagian B dengan Bahagian A (cth RAV dan tadbir urus menerangkan kedua-dua masalah).",
-      "Kaitkan perenggan dengan tesis: kedua-dua masalah berkongsi satu punca, tadbir urus."
+      "Setiap perenggan isi (2 hingga 7) ialah satu hujah mini yang mengandungi keempat-empat unsur, mengikut turutan: kriteria, keadaan, punca, kesan.",
+      "Guna frasa penghubung: \"Kriteria ialah…\", \"Keadaan tidak menepati…\", \"Puncanya ialah…\", \"Kesannya ialah…\".",
+      "Kaitkan dua isu dalam pengenalan dan kesimpulan: tadbir urus ialah punca bersama."
      ]
     },
     {
@@ -1462,33 +1542,29 @@
    "t": "answer",
    "marks": 20,
    "q": {
-    "en": "\"Lembaga Tabung Haji faced a severe financial and governance crisis between 2014 and 2018, characterized by asset-liability deficits, inflated profit distributions (hibah), and high-risk investments.\" Discuss the root causes of Tabung Haji's asset impairment and liquidity issues. Write an essay with an introduction, Part A (asset impairment) and Part B (liquidity) each with paragraphs on criteria, condition, cause and effect, and a conclusion.",
-    "ms": "\"Lembaga Tabung Haji menghadapi krisis kewangan dan tadbir urus yang teruk antara 2014 dan 2018, dicirikan oleh defisit aset-liabiliti, pengagihan keuntungan (hibah) yang dibesarkan, dan pelaburan berisiko tinggi.\" Bincangkan punca utama rosot nilai aset dan isu kecairan Tabung Haji. Tulis esei dengan pengenalan, Bahagian A (rosot nilai aset) dan Bahagian B (kecairan) masing-masing dengan perenggan kriteria, keadaan, punca dan kesan, dan kesimpulan."
+    "en": "\"Lembaga Tabung Haji faced a severe financial and governance crisis between 2014 and 2018, characterized by asset-liability deficits, inflated profit distributions (hibah), and high-risk investments.\" Discuss the root causes of Tabung Haji's asset impairment and liquidity issues. Write an 8-paragraph essay: an introduction; three paragraphs on asset impairment and three on liquidity, each using criteria, condition, cause and effect; and a conclusion.",
+    "ms": "\"Lembaga Tabung Haji menghadapi krisis kewangan dan tadbir urus yang teruk antara 2014 dan 2018, dicirikan oleh defisit aset-liabiliti, pengagihan keuntungan (hibah) yang dibesarkan, dan pelaburan berisiko tinggi.\" Bincangkan punca utama rosot nilai aset dan isu kecairan Tabung Haji. Tulis esei 8 perenggan: pengenalan; tiga perenggan tentang rosot nilai aset dan tiga tentang kecairan, masing-masing menggunakan kriteria, keadaan, punca dan kesan; dan kesimpulan."
    },
    "pts": {
     "en": [
-     "Introduction with context and a clear thesis (2)",
-     "Part A criteria: MFRS 136 para 9 and 59–60, MFRS 108 para 14, MFRS 13, MFRS 116 para 32, governance and audit criteria (2)",
-     "Part A condition: unrecognised impairment, policy changes, RAV and valuations, unqualified opinions (2)",
-     "Part A cause: governance and political interference, accounting choices, weak oversight (2)",
-     "Part A effect: overstated profit (RM3.4 billion vs RM1.4 billion loss), later losses, lost credibility (2)",
-     "Part B criteria: TH Act s.22, MFRS 101 para 15 and 25–26, MFRS 7 para 39 (2)",
-     "Part B condition: hibah rates, distributions beyond profit, deficit, 2018 transfer (2)",
-     "Part B cause: payouts above capacity, maturity mismatch, reliance on RAV (2)",
-     "Part B effect: depleted reserves, rescue, 1.25% hibah, lost confidence (2)",
-     "Conclusion with lessons and recommendations (2)"
+     "Paragraph 1: introduction with context and a clear thesis (2)",
+     "Paragraph 2: impairment not recognised and policy changed, with criteria, condition, cause and effect (3)",
+     "Paragraph 3: unreliable valuations, with criteria, condition, cause and effect (3)",
+     "Paragraph 4: weak governance and oversight, with criteria, condition, cause and effect (3)",
+     "Paragraph 5: hibah beyond capacity, with criteria, condition, cause and effect (3)",
+     "Paragraph 6: deficit and maturity mismatch, with criteria, condition, cause and effect (2)",
+     "Paragraph 7: the 2018 rescue, with criteria, condition, cause and effect (2)",
+     "Paragraph 8: conclusion with lessons and recommendations (2)"
     ],
     "ms": [
-     "Pengenalan dengan konteks dan tesis jelas (2)",
-     "Bahagian A kriteria: MFRS 136 para 9 dan 59–60, MFRS 108 para 14, MFRS 13, MFRS 116 para 32, kriteria tadbir urus dan audit (2)",
-     "Bahagian A keadaan: rosot nilai tidak diiktiraf, perubahan dasar, RAV dan penilaian, pendapat tanpa kelayakan (2)",
-     "Bahagian A punca: tadbir urus dan campur tangan politik, pilihan perakaunan, pengawasan lemah (2)",
-     "Bahagian A kesan: untung terlebih nyata (RM3.4 bilion vs rugi RM1.4 bilion), kerugian kemudian, kredibiliti hilang (2)",
-     "Bahagian B kriteria: Akta TH s.22, MFRS 101 para 15 dan 25–26, MFRS 7 para 39 (2)",
-     "Bahagian B keadaan: kadar hibah, agihan melebihi untung, defisit, pemindahan 2018 (2)",
-     "Bahagian B punca: bayaran melebihi keupayaan, ketakpadanan tempoh matang, bergantung pada RAV (2)",
-     "Bahagian B kesan: rizab susut, penyelamatan, hibah 1.25%, keyakinan hilang (2)",
-     "Kesimpulan dengan pengajaran dan cadangan (2)"
+     "Perenggan 1: pengenalan dengan konteks dan tesis jelas (2)",
+     "Perenggan 2: rosot nilai tidak diiktiraf dan dasar ditukar, dengan kriteria, keadaan, punca dan kesan (3)",
+     "Perenggan 3: penilaian tidak boleh dipercayai, dengan kriteria, keadaan, punca dan kesan (3)",
+     "Perenggan 4: tadbir urus dan pengawasan lemah, dengan kriteria, keadaan, punca dan kesan (3)",
+     "Perenggan 5: hibah melebihi keupayaan, dengan kriteria, keadaan, punca dan kesan (3)",
+     "Perenggan 6: defisit dan ketakpadanan tempoh matang, dengan kriteria, keadaan, punca dan kesan (2)",
+     "Perenggan 7: penyelamatan 2018, dengan kriteria, keadaan, punca dan kesan (2)",
+     "Perenggan 8: kesimpulan dengan pengajaran dan cadangan (2)"
     ]
    }
   },
