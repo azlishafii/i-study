@@ -1,0 +1,1426 @@
+{
+ "subject": {
+  "id": "sbsc3183",
+  "code": "SBSC3183",
+  "name": {
+   "en": "Taxation 2",
+   "ms": "Percukaian 2"
+  }
+ },
+ "id": "ch1",
+ "num": 1,
+ "title": {
+  "en": "Basis Period for Companies",
+  "ms": "Tempoh Asas bagi Syarikat"
+ },
+ "standard": "Chapter 1",
+ "outcomes": {
+  "en": [
+   "Explain why the basis period matters for compliance, tax estimation and tax liability",
+   "Determine the basis period of a company that has just commenced operations",
+   "Apply the CP204 rules: estimates, 85% minimum, instalments, revisions and the 10% penalty",
+   "Determine basis periods when a company changes its accounting date",
+   "State the notification rules (CP204B) for a change of accounting period"
+  ],
+  "ms": [
+   "Terangkan kepentingan tempoh asas untuk pematuhan, anggaran cukai dan liabiliti cukai",
+   "Tentukan tempoh asas syarikat yang baru memulakan operasi",
+   "Gunakan peraturan CP204: anggaran, minimum 85%, ansuran, semakan semula dan penalti 10%",
+   "Tentukan tempoh asas apabila syarikat menukar tarikh perakaunan",
+   "Nyatakan peraturan pemberitahuan (CP204B) bagi pertukaran tempoh perakaunan"
+  ]
+ },
+ "sections": [
+  {
+   "id": "why",
+   "icon": "🎯",
+   "title": {
+    "en": "Why the Basis Period Matters",
+    "ms": "Kenapa Tempoh Asas Penting"
+   },
+   "ref": "Slides 2–4",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "The basis period is the period whose income is taxed in a given Year of Assessment (YA). Getting it right affects three areas of tax management.",
+     "ms": "Tempoh asas ialah tempoh yang pendapatannya dicukai dalam sesuatu Tahun Taksiran (YA). Ketepatannya memberi kesan kepada tiga bidang pengurusan cukai."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Aspect",
+       "What it does"
+      ],
+      "ms": [
+       "Aspek",
+       "Fungsi"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Compliance responsibilities",
+        "Identifies reporting duties, deadlines and accuracy for each YA"
+       ],
+       "ms": [
+        "Tanggungjawab pematuhan",
+        "Mengenal pasti kewajipan pelaporan, tarikh akhir dan ketepatan bagi setiap YA"
+       ]
+      },
+      {
+       "en": [
+        "Tax estimation",
+        "Gives the basis for estimating tax chargeable"
+       ],
+       "ms": [
+        "Anggaran cukai",
+        "Menjadi asas untuk menganggar cukai yang dikenakan"
+       ]
+      },
+      {
+       "en": [
+        "Tax liability",
+        "Fixes adjusted income, the correct capital allowance claim, chargeable income and tax for the YA"
+       ],
+       "ms": [
+        "Liabiliti cukai",
+        "Menentukan pendapatan diselaraskan, tuntutan elaun modal yang betul, pendapatan bercukai dan cukai bagi YA"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 3 has no readable text (a figure). Slide 4 content is read from the extracted text and may lose its original layout.",
+     "ms": "Slaid 3 tiada teks yang boleh dibaca (rajah). Kandungan slaid 4 dibaca daripada teks yang diekstrak dan susun atur asal mungkin hilang."
+    }
+   ]
+  },
+  {
+   "id": "commence",
+   "icon": "🚀",
+   "title": {
+    "en": "Commencement of Operation",
+    "ms": "Permulaan Operasi"
+   },
+   "ref": "Slides 5–6",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Commencement is the date the core or integral activity of the business begins [s21A(8)].",
+     "ms": "Permulaan ialah tarikh aktiviti teras atau penting perniagaan bermula [s21A(8)]."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Business",
+       "Deemed to commence when…"
+      ],
+      "ms": [
+       "Perniagaan",
+       "Dianggap bermula apabila…"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Manufacturing",
+        "Plant and machinery are in place and inventory (stock) has arrived"
+       ],
+       "ms": [
+        "Pembuatan",
+        "Loji dan jentera sedia dan inventori (stok) telah tiba"
+       ]
+      },
+      {
+       "en": [
+        "Retail",
+        "The business is first open to the public with its goods"
+       ],
+       "ms": [
+        "Runcit",
+        "Perniagaan mula dibuka kepada orang awam dengan barangannya"
+       ]
+      },
+      {
+       "en": [
+        "Hotel",
+        "It can offer food, beverage and accommodation to the public"
+       ],
+       "ms": [
+        "Hotel",
+        "Ia boleh menawarkan makanan, minuman dan penginapan kepada orang awam"
+       ]
+      },
+      {
+       "en": [
+        "Investment",
+        "Shares bought, money deposited to earn interest, loans made for interest, or investment property acquired"
+       ],
+       "ms": [
+        "Pelaburan",
+        "Saham dibeli, wang didepositkan untuk faedah, pinjaman diberi untuk faedah, atau hartanah pelaburan diperoleh"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Four situations covered",
+     "ms": "Empat situasi yang dibincangkan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Basis period on commencement of operation [s21A(4)]",
+      "An entity in operation that changes its accounting period",
+      "A company with existing operations that starts a new operation",
+      "A company that joins a partnership"
+     ],
+     "ms": [
+      "Tempoh asas semasa permulaan operasi [s21A(4)]",
+      "Entiti beroperasi yang menukar tempoh perakaunan",
+      "Syarikat sedia ada yang memulakan operasi baharu",
+      "Syarikat yang menyertai perkongsian"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "first",
+   "icon": "1️⃣",
+   "title": {
+    "en": "Basis Period for the First Accounts",
+    "ms": "Tempoh Asas bagi Akaun Pertama"
+   },
+   "ref": "Slides 7–11",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Look at the calendar year in which the first accounts end (a company’s YA follows the calendar year). My reading of slide 7:",
+     "ms": "Lihat tahun kalendar akaun pertama berakhir (YA syarikat mengikut tahun kalendar). Bacaan saya bagi slaid 7:"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "First accounts end in…",
+       "Basis periods"
+      ],
+      "ms": [
+       "Akaun pertama berakhir dalam…",
+       "Tempoh asas"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "The same year as commencement (under 12 months)",
+        "That YA’s basis period is the whole period from commencement to the account date"
+       ],
+       "ms": [
+        "Tahun yang sama dengan permulaan (kurang 12 bulan)",
+        "Tempoh asas YA itu ialah seluruh tempoh dari permulaan hingga tarikh akaun"
+       ]
+      },
+      {
+       "en": [
+        "The second year",
+        "No basis period for the first YA; the second YA takes the whole first accounting period"
+       ],
+       "ms": [
+        "Tahun kedua",
+        "Tiada tempoh asas bagi YA pertama; YA kedua mengambil seluruh tempoh perakaunan pertama"
+       ]
+      },
+      {
+       "en": [
+        "The third year (more than 12 months)",
+        "No basis period for the first and second YAs; the third YA takes the whole period"
+       ],
+       "ms": [
+        "Tahun ketiga (lebih 12 bulan)",
+        "Tiada tempoh asas bagi YA pertama dan kedua; YA ketiga mengambil seluruh tempoh"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Worked examples from the slides",
+     "ms": "Contoh kerja daripada slaid"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Entity / first accounts",
+       "Result"
+      ],
+      "ms": [
+       "Entiti / akaun pertama",
+       "Keputusan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Riang Segar: 1.2.2025–30.9.2025 (8 months)",
+        "YA2025 = 1.2.25–30.9.25; YA2026 = 1.10.25–30.9.26"
+       ],
+       "ms": [
+        "Riang Segar: 1.2.2025–30.9.2025 (8 bulan)",
+        "YA2025 = 1.2.25–30.9.25; YA2026 = 1.10.25–30.9.26"
+       ]
+      },
+      {
+       "en": [
+        "Amanah ABC: 1.5.2024–31.3.2025 (11 months)",
+        "YA2025 = 1.5.24–31.3.25; YA2026 = 1.4.25–31.3.26"
+       ],
+       "ms": [
+        "Amanah ABC: 1.5.2024–31.3.2025 (11 bulan)",
+        "YA2025 = 1.5.24–31.3.25; YA2026 = 1.4.25–31.3.26"
+       ]
+      },
+      {
+       "en": [
+        "Koperasi Bukit Singa: 1.2.2024–30.4.2025 (15 months)",
+        "YA2025 = 1.2.24–30.4.25 (15 months); YA2026 = 1.5.25–30.4.26"
+       ],
+       "ms": [
+        "Koperasi Bukit Singa: 1.2.2024–30.4.2025 (15 bulan)",
+        "YA2025 = 1.2.24–30.4.25 (15 bulan); YA2026 = 1.5.25–30.4.26"
+       ]
+      },
+      {
+       "en": [
+        "Sani Gemilang PLT: 1.11.2024–30.4.2026 (18 months)",
+        "YA2026 = 1.11.24–30.4.26 (18 months); YA2027 = 1.5.26–30.4.27"
+       ],
+       "ms": [
+        "Sani Gemilang PLT: 1.11.2024–30.4.2026 (18 bulan)",
+        "YA2026 = 1.11.24–30.4.26 (18 bulan); YA2027 = 1.5.26–30.4.27"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 7 is a loosely worded summary; the table above is my reading, checked against slides 8–11 and the lecturer’s exercise 2 (FunTastic: commenced 1.4.2022, first accounts to 30.6.2023 → no basis period for YA2022, YA2023 = 1.4.22–30.6.23).",
+     "ms": "Slaid 7 ialah ringkasan yang longgar; jadual di atas ialah bacaan saya, disemak dengan slaid 8–11 dan latihan 2 pensyarah (FunTastic: mula 1.4.2022, akaun pertama hingga 30.6.2023 → tiada tempoh asas YA2022, YA2023 = 1.4.22–30.6.23)."
+    }
+   ]
+  },
+  {
+   "id": "cp204",
+   "icon": "🧾",
+   "title": {
+    "en": "Tax Estimates (CP204)",
+    "ms": "Anggaran Cukai (CP204)"
+   },
+   "ref": "Slides 12–16",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "When to submit the first estimate",
+     "ms": "Bila menghantar anggaran pertama"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Case",
+       "Rule"
+      ],
+      "ms": [
+       "Kes",
+       "Peraturan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "New company, basis period more than 6 months",
+        "Submit e-CP204 within 3 months of commencing operations [s107C(4)(a)]"
+       ],
+       "ms": [
+        "Syarikat baru, tempoh asas lebih 6 bulan",
+        "Hantar e-CP204 dalam 3 bulan selepas operasi bermula [s107C(4)(a)]"
+       ]
+      },
+      {
+       "en": [
+        "New company, basis period less than 6 months",
+        "Exempt from furnishing an estimate for that YA"
+       ],
+       "ms": [
+        "Syarikat baru, tempoh asas kurang 6 bulan",
+        "Dikecualikan daripada mengemukakan anggaran bagi YA itu"
+       ]
+      },
+      {
+       "en": [
+        "Paid-up capital over RM2.5m",
+        "Slide 12 lists an exemption from CP204 for two assessment years (the heading is split across columns, so see the note below)"
+       ],
+       "ms": [
+        "Modal berbayar melebihi RM2.5j",
+        "Slaid 12 menyenaraikan pengecualian CP204 untuk dua tahun taksiran (tajuk terpisah antara lajur, lihat nota di bawah)"
+       ]
+      },
+      {
+       "en": [
+        "Company already operating (year 2+)",
+        "Submit no later than 30 days before the start of the basis period [s107C(2)]"
+       ],
+       "ms": [
+        "Syarikat sudah beroperasi (tahun ke-2+)",
+        "Hantar selewat-lewatnya 30 hari sebelum permulaan tempoh asas [s107C(2)]"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "On slide 12 the exemption (two assessment years) and the paid-up capital headings (above/below RM2.5m SMEs) sit in separate columns, so I could not pair them reliably. The commonly stated rule is that SMEs (paid-up capital RM2.5m or less) are exempt for the first two YAs, but confirm this with your lecturer. This is Extra (not clearly in slides).",
+     "ms": "Pada slaid 12 pengecualian (dua tahun taksiran) dan tajuk modal berbayar (atas/bawah RM2.5j, PKS) berada dalam lajur berasingan, jadi saya tidak dapat memadankannya dengan pasti. Peraturan lazim ialah PKS (modal berbayar RM2.5j ke bawah) dikecualikan bagi dua YA pertama, tetapi sahkan dengan pensyarah. Ini Extra (tidak jelas dalam slaid)."
+    },
+    {
+     "k": "h",
+     "en": "Minimum estimate",
+     "ms": "Anggaran minimum"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Year 1: a new entity estimates from projected profits",
+      "Year 2 onwards: at least 85% of the prior year’s estimate [s107C(3)]"
+     ],
+     "ms": [
+      "Tahun 1: entiti baru menganggar daripada unjuran keuntungan",
+      "Tahun ke-2 dan seterusnya: sekurang-kurangnya 85% daripada anggaran tahun sebelumnya [s107C(3)]"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Instalments",
+     "ms": "Ansuran"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Equal monthly instalments, each due on the 15th day of the calendar month [s107C(12)]",
+      "Already-operating entities start from the 2nd month of the basis period; newly established ones start from the 6th month"
+     ],
+     "ms": [
+      "Ansuran bulanan sama, setiap satu perlu dibayar pada hari ke-15 bulan kalendar [s107C(12)]",
+      "Entiti yang sudah beroperasi bermula dari bulan ke-2 tempoh asas; yang baru ditubuhkan bermula dari bulan ke-6"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 15 lists ‘2nd month’ and ‘6th month’ and the two entity types in separate boxes; I paired them as above (existing = 2nd month, new = 6th month), which matches the usual rule. This pairing is my reading.",
+     "ms": "Slaid 15 menyenaraikan ‘bulan ke-2’ dan ‘bulan ke-6’ serta dua jenis entiti dalam kotak berasingan; saya padankan seperti di atas (sedia ada = bulan ke-2, baru = bulan ke-6), selaras dengan peraturan lazim. Pemadanan ini bacaan saya."
+    },
+    {
+     "k": "h",
+     "en": "Revising the estimate (e-CP204A) [s107C(7)]",
+     "ms": "Menyemak semula anggaran (e-CP204A) [s107C(7)]"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Revise in month",
+       "New instalment takes effect from"
+      ],
+      "ms": [
+       "Bulan semakan",
+       "Ansuran baru berkuat kuasa dari"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "6th",
+        "5th or 6th instalment"
+       ],
+       "ms": [
+        "Ke-6",
+        "Ansuran ke-5 atau ke-6"
+       ]
+      },
+      {
+       "en": [
+        "9th",
+        "8th or 9th instalment"
+       ],
+       "ms": [
+        "Ke-9",
+        "Ansuran ke-8 atau ke-9"
+       ]
+      },
+      {
+       "en": [
+        "11th",
+        "11th instalment"
+       ],
+       "ms": [
+        "Ke-11",
+        "Ansuran ke-11"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Penalty for an under-estimate",
+     "ms": "Penalti kerana anggaran kurang"
+    },
+    {
+     "k": "p",
+     "en": "If actual tax payable (AT) exceeds the estimate (ET) by more than 30% of AT, a 10% increase applies to the excess.",
+     "ms": "Jika cukai sebenar (AT) melebihi anggaran (ET) lebih 30% daripada AT, kenaan 10% dikenakan ke atas lebihan itu."
+    },
+    {
+     "k": "flow",
+     "en": [
+      "Difference = AT − ET",
+      "Safe margin = 30% × AT",
+      "Penalty = (difference − safe margin) × 10%"
+     ],
+     "ms": [
+      "Beza = AT − ET",
+      "Had selamat = 30% × AT",
+      "Penalti = (beza − had selamat) × 10%"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Lecturer’s exercise 4: ET (revised) RM600,000, AT RM890,000. Difference 290,000; 30% × 890,000 = 267,000; excess 23,000; penalty = 10% × 23,000 = RM2,300, so the amount due is RM890,000 + RM2,300.",
+     "ms": "Latihan 4 pensyarah: ET (disemak) RM600,000, AT RM890,000. Beza 290,000; 30% × 890,000 = 267,000; lebihan 23,000; penalti = 10% × 23,000 = RM2,300, jadi amaun perlu dibayar RM890,000 + RM2,300."
+    }
+   ]
+  },
+  {
+   "id": "change",
+   "icon": "🔄",
+   "title": {
+    "en": "Change of Accounting Period",
+    "ms": "Pertukaran Tempoh Perakaunan"
+   },
+   "ref": "Slides 17–25",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "The first year a company fails to close its accounts on the normal date is the ‘failure year’. The Director General (DG) sets the basis periods for the failure year and the year after, under two rules: (a) no YA is missing; (b) no two accounts close in the same YA.",
+     "ms": "Tahun pertama syarikat gagal menutup akaun pada tarikh biasa ialah ‘tahun kegagalan’. Ketua Pengarah (DG) menetapkan tempoh asas bagi tahun kegagalan dan tahun selepasnya, di bawah dua peraturan: (a) tiada YA tertinggal; (b) tiada dua akaun ditutup dalam YA yang sama."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Case",
+       "Treatment",
+       "Slide example"
+      ],
+      "ms": [
+       "Kes",
+       "Layanan",
+       "Contoh slaid"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Under 12 months, ends in the same year",
+        "Combine accounts for the entire period",
+        "Hidup Keras (normal 28 Feb → 31 Dec): YA2024 = 1.3.23–28.2.24; YA2025 = 1.3.24–31.12.25 (22 months); YA2026 = 1.1.26–31.12.26"
+       ],
+       "ms": [
+        "Kurang 12 bulan, berakhir dalam tahun sama",
+        "Gabungkan akaun bagi seluruh tempoh",
+        "Hidup Keras (biasa 28 Feb → 31 Dis): YA2024 = 1.3.23–28.2.24; YA2025 = 1.3.24–31.12.25 (22 bulan); YA2026 = 1.1.26–31.12.26"
+       ]
+      },
+      {
+       "en": [
+        "Under 12 months, ends in the following year",
+        "Accept the accounting period of the failure year",
+        "Ahmad Albab (normal 31 Dec → 30 Apr): YA2025 = 1.1.25–30.4.25 (4 months); YA2026 = 1.5.25–30.4.26"
+       ],
+       "ms": [
+        "Kurang 12 bulan, berakhir tahun berikutnya",
+        "Terima tempoh perakaunan tahun kegagalan",
+        "Ahmad Albab (biasa 31 Dis → 30 Apr): YA2025 = 1.1.25–30.4.25 (4 bulan); YA2026 = 1.5.25–30.4.26"
+       ]
+      },
+      {
+       "en": [
+        "More than 12 months, ends in the following year",
+        "Accept the accounting period of the failure year",
+        "Aizah Wahab (normal 31 Jul → 31 Oct): YA2025 = 1.8.24–31.10.25 (15 months); YA2026 = 1.11.25–31.10.26"
+       ],
+       "ms": [
+        "Lebih 12 bulan, berakhir tahun berikutnya",
+        "Terima tempoh perakaunan tahun kegagalan",
+        "Aizah Wahab (biasa 31 Jul → 31 Okt): YA2025 = 1.8.24–31.10.25 (15 bulan); YA2026 = 1.11.25–31.10.26"
+       ]
+      },
+      {
+       "en": [
+        "More than 12 months, ends in the third year",
+        "Divide the accounting period into two periods",
+        "Koperasi Rania Emas (normal 31 Dec → 31 Jan, 13 months): YA2024 = 1.1.24–31.7.24 (7 months); YA2025 = 1.8.24–31.1.25 (6 months); YA2026 = 1.2.25–31.1.26"
+       ],
+       "ms": [
+        "Lebih 12 bulan, berakhir tahun ketiga",
+        "Bahagikan tempoh perakaunan kepada dua tempoh",
+        "Koperasi Rania Emas (biasa 31 Dis → 31 Jan, 13 bulan): YA2024 = 1.1.24–31.7.24 (7 bulan); YA2025 = 1.8.24–31.1.25 (6 bulan); YA2026 = 1.2.25–31.1.26"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slides do not state how the DG chooses where to split the period; the 7/6-month split is simply the slide’s example. Slide 19’s two tables are also laid out confusingly; I report the basis-period table. The ‘ends in the third year’ label is the slide’s wording.",
+     "ms": "Slaid tidak menyatakan bagaimana DG memilih titik pembahagian; pecahan 7/6 bulan hanyalah contoh slaid. Dua jadual slaid 19 juga disusun mengelirukan; saya laporkan jadual tempoh asas. Label ‘berakhir tahun ketiga’ ialah perkataan slaid."
+    },
+    {
+     "k": "tip",
+     "en": "Lecturer’s exercise 1 (Teraju Dagang): commenced 1.4.2022, first accounts to 30.6.2023, then 1.7.2023–31.3.2024 (9 months, a change to 31 March; the exercise misprints the year). Applying the ‘under 12 months, following year’ rule: YA2022 none; YA2023 = 1.4.22–30.6.23; YA2024 = 1.7.23–31.3.24; YA2025 = 1.4.24–31.3.25; YA2026 = 1.4.25–31.3.26. My application, not an official answer key.",
+     "ms": "Latihan 1 pensyarah (Teraju Dagang): mula 1.4.2022, akaun pertama hingga 30.6.2023, kemudian 1.7.2023–31.3.2024 (9 bulan, pertukaran ke 31 Mac; latihan tersalah cetak tahun). Dengan peraturan ‘kurang 12 bulan, tahun berikutnya’: YA2022 tiada; YA2023 = 1.4.22–30.6.23; YA2024 = 1.7.23–31.3.24; YA2025 = 1.4.24–31.3.25; YA2026 = 1.4.25–31.3.26. Aplikasi saya, bukan kunci jawapan rasmi."
+    }
+   ]
+  },
+  {
+   "id": "notify",
+   "icon": "📨",
+   "title": {
+    "en": "Notification (CP204B) and Other Cases",
+    "ms": "Pemberitahuan (CP204B) dan Kes Lain"
+   },
+   "ref": "Slides 26–29",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "The company must notify the IRBM of the change using Form CP204B",
+      "Under s107C(8) the DGIR may issue a Notice of Instalment Payments (CP205) if Form CP204 was not furnished on time, or a change of accounting period is notified via CP204B"
+     ],
+     "ms": [
+      "Syarikat mesti memaklumkan LHDN tentang perubahan menggunakan Borang CP204B",
+      "Di bawah s107C(8) KPHDN boleh mengeluarkan Notis Bayaran Ansuran (CP205) jika Borang CP204 tidak dikemukakan tepat pada masanya, atau pertukaran tempoh perakaunan dimaklumkan melalui CP204B"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Situation",
+       "Notify the DGIR via CP204B…"
+      ],
+      "ms": [
+       "Situasi",
+       "Maklumkan KPHDN melalui CP204B…"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Accounting period shortened (under 12 months and new accounts close before the end of the original period)",
+        "30 days before the end of the new accounting period"
+       ],
+       "ms": [
+        "Tempoh perakaunan dipendekkan (kurang 12 bulan dan akaun baru ditutup sebelum tamat tempoh asal)",
+        "30 hari sebelum akhir tempoh perakaunan baru"
+       ]
+      },
+      {
+       "en": [
+        "Accounting period extended (over 12 months and new accounts close after the end of the original period)",
+        "30 days before the end of the original accounting period"
+       ],
+       "ms": [
+        "Tempoh perakaunan dilanjutkan (lebih 12 bulan dan akaun baru ditutup selepas tamat tempoh asal)",
+        "30 hari sebelum akhir tempoh perakaunan asal"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "New operation or partnership",
+     "ms": "Operasi baharu atau perkongsian"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "A company with existing operations that starts a new operation: the new operation’s basis period equals that of the existing operation",
+      "A company that joins a partnership: the basis period for the partnership business equals that of the existing operation"
+     ],
+     "ms": [
+      "Syarikat sedia ada yang memulakan operasi baharu: tempoh asas operasi baharu sama dengan operasi sedia ada",
+      "Syarikat yang menyertai perkongsian: tempoh asas perniagaan perkongsian sama dengan operasi sedia ada"
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "why",
+   "q": {
+    "en": "Three reasons why basis period matters?",
+    "ms": "Tiga sebab tempoh asas penting?"
+   },
+   "a": {
+    "en": "Compliance responsibilities, tax estimation, tax liability.",
+    "ms": "Tanggungjawab pematuhan, anggaran cukai, liabiliti cukai."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "commence",
+   "q": {
+    "en": "When does a manufacturing business commence operations?",
+    "ms": "Bila perniagaan pembuatan memulakan operasi?"
+   },
+   "a": {
+    "en": "When plant and machinery are in place and inventory has arrived.",
+    "ms": "Apabila loji dan jentera sedia dan inventori telah tiba."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "commence",
+   "q": {
+    "en": "When does a hotel commence operations?",
+    "ms": "Bila hotel memulakan operasi?"
+   },
+   "a": {
+    "en": "When it can offer food, beverage and accommodation to the public.",
+    "ms": "Apabila boleh menawarkan makanan, minuman dan penginapan kepada orang awam."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "commence",
+   "q": {
+    "en": "Which section covers basis period on commencement?",
+    "ms": "Seksyen mana meliputi tempoh asas semasa permulaan?"
+   },
+   "a": {
+    "en": "s21A(4); commencement of operation is in s21A(8).",
+    "ms": "s21A(4); permulaan operasi dalam s21A(8)."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "first",
+   "q": {
+    "en": "First accounts of 15 months from 1.2.2024 to 30.4.2025: which YA, which period?",
+    "ms": "Akaun pertama 15 bulan dari 1.2.2024 hingga 30.4.2025: YA mana, tempoh mana?"
+   },
+   "a": {
+    "en": "YA2025 takes the whole 15 months (1.2.24–30.4.25); there is no basis period for YA2024.",
+    "ms": "YA2025 mengambil seluruh 15 bulan (1.2.24–30.4.25); tiada tempoh asas bagi YA2024."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "first",
+   "q": {
+    "en": "First accounts of 18 months from 1.11.2024 to 30.4.2026: basis period?",
+    "ms": "Akaun pertama 18 bulan 1.11.2024 hingga 30.4.2026: tempoh asas?"
+   },
+   "a": {
+    "en": "YA2026 = 1.11.24–30.4.26 (18 months); none for YA2024 and YA2025.",
+    "ms": "YA2026 = 1.11.24–30.4.26 (18 bulan); tiada bagi YA2024 dan YA2025."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "cp204",
+   "q": {
+    "en": "Deadline for a new company’s e-CP204 if its basis period exceeds 6 months?",
+    "ms": "Tarikh akhir e-CP204 syarikat baru jika tempoh asas melebihi 6 bulan?"
+   },
+   "a": {
+    "en": "Within 3 months of commencing operations [s107C(4)(a)].",
+    "ms": "Dalam 3 bulan selepas memulakan operasi [s107C(4)(a)]."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "cp204",
+   "q": {
+    "en": "Deadline for an operating company’s e-CP204?",
+    "ms": "Tarikh akhir e-CP204 syarikat yang sedang beroperasi?"
+   },
+   "a": {
+    "en": "No later than 30 days before the start of the basis period [s107C(2)].",
+    "ms": "Selewat-lewatnya 30 hari sebelum permulaan tempoh asas [s107C(2)]."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "cp204",
+   "q": {
+    "en": "Minimum estimate from year 2?",
+    "ms": "Anggaran minimum dari tahun ke-2?"
+   },
+   "a": {
+    "en": "85% of the prior year’s estimate [s107C(3)].",
+    "ms": "85% daripada anggaran tahun sebelumnya [s107C(3)]."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "cp204",
+   "q": {
+    "en": "Instalment due date?",
+    "ms": "Tarikh ansuran perlu dibayar?"
+   },
+   "a": {
+    "en": "The 15th day of the calendar month [s107C(12)].",
+    "ms": "Hari ke-15 bulan kalendar [s107C(12)]."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "cp204",
+   "q": {
+    "en": "In which months can the estimate be revised?",
+    "ms": "Dalam bulan mana anggaran boleh disemak?"
+   },
+   "a": {
+    "en": "6th, 9th or 11th month (or all three) of the basis period, via e-CP204A.",
+    "ms": "Bulan ke-6, ke-9 atau ke-11 (atau ketiga-tiganya) tempoh asas, melalui e-CP204A."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "cp204",
+   "q": {
+    "en": "Penalty formula for under-estimate?",
+    "ms": "Formula penalti anggaran kurang?"
+   },
+   "a": {
+    "en": "[(AT − ET) − (30% × AT)] × 10%.",
+    "ms": "[(AT − ET) − (30% × AT)] × 10%."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "change",
+   "q": {
+    "en": "Two rules the DG follows for the failure year?",
+    "ms": "Dua peraturan DG bagi tahun kegagalan?"
+   },
+   "a": {
+    "en": "No missing YA; no two accounts closed in the same YA.",
+    "ms": "Tiada YA tertinggal; tiada dua akaun ditutup dalam YA yang sama."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "change",
+   "q": {
+    "en": "Under 12 months, ending in the same year: treatment?",
+    "ms": "Kurang 12 bulan, berakhir tahun sama: layanan?"
+   },
+   "a": {
+    "en": "Combine accounts for the entire period.",
+    "ms": "Gabungkan akaun bagi seluruh tempoh."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "change",
+   "q": {
+    "en": "More than 12 months, ending in the third year: treatment?",
+    "ms": "Lebih 12 bulan, berakhir tahun ketiga: layanan?"
+   },
+   "a": {
+    "en": "Divide the accounting period into two periods.",
+    "ms": "Bahagikan tempoh perakaunan kepada dua tempoh."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "notify",
+   "q": {
+    "en": "Which form notifies a change of accounting period?",
+    "ms": "Borang mana memaklumkan pertukaran tempoh perakaunan?"
+   },
+   "a": {
+    "en": "Form CP204B.",
+    "ms": "Borang CP204B."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "notify",
+   "q": {
+    "en": "When must CP204B be filed if the period is shortened?",
+    "ms": "Bila CP204B perlu difailkan jika tempoh dipendekkan?"
+   },
+   "a": {
+    "en": "30 days before the end of the new accounting period.",
+    "ms": "30 hari sebelum akhir tempoh perakaunan baru."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "notify",
+   "q": {
+    "en": "Basis period of a new operation of an existing company?",
+    "ms": "Tempoh asas operasi baharu syarikat sedia ada?"
+   },
+   "a": {
+    "en": "Same as the existing operation’s basis period.",
+    "ms": "Sama dengan tempoh asas operasi sedia ada."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "why",
+   "q": {
+    "en": "Which is NOT listed as a reason basis period matters?",
+    "ms": "Yang mana BUKAN sebab tempoh asas penting?"
+   },
+   "o": [
+    "Compliance responsibilities",
+    "Choosing the company’s name",
+    "Tax estimation",
+    "Tax liability"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 4 lists compliance, tax estimation and tax liability.",
+    "ms": "Slaid 4 menyenaraikan pematuhan, anggaran cukai dan liabiliti cukai."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "commence",
+   "q": {
+    "en": "A retail business commences when it:",
+    "ms": "Perniagaan runcit bermula apabila ia:"
+   },
+   "o": [
+    "Signs its lease",
+    "First opens to the public with its goods",
+    "Orders stock",
+    "Hires staff"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "commence",
+   "q": {
+    "en": "An investment business commences with:",
+    "ms": "Perniagaan pelaburan bermula dengan:"
+   },
+   "o": [
+    "Renting an office",
+    "Registering a name",
+    "Hiring staff",
+    "Buying shares or depositing money to earn interest"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "first",
+   "q": {
+    "en": "Riang Segar: first accounts 1.2.2025–30.9.2025. YA2025 basis period is:",
+    "ms": "Riang Segar: akaun pertama 1.2.2025–30.9.2025. Tempoh asas YA2025 ialah:"
+   },
+   "o": [
+    "1.2.25–30.9.25 (8 months)",
+    "1.1.25–31.12.25",
+    "No basis period",
+    "1.10.25–30.9.26"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "first",
+   "q": {
+    "en": "Amanah ABC: accounts 1.5.2024–31.3.2025. The basis period falls in:",
+    "ms": "Amanah ABC: akaun 1.5.2024–31.3.2025. Tempoh asas jatuh dalam:"
+   },
+   "o": [
+    "YA2026",
+    "YA2024",
+    "YA2025",
+    "YA2023"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "first",
+   "q": {
+    "en": "Sani Gemilang: commenced 1.11.2024; first accounts 18 months to 30.4.2026. Which YA has no basis period?",
+    "ms": "Sani Gemilang: mula 1.11.2024; akaun pertama 18 bulan hingga 30.4.2026. YA mana tiada tempoh asas?"
+   },
+   "o": [
+    "YA2027",
+    "YA2026",
+    "YA2024 and YA2025",
+    "None"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 11: the whole 18 months fall in YA2026.",
+    "ms": "Slaid 11: seluruh 18 bulan jatuh dalam YA2026."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "first",
+   "q": {
+    "en": "FunTastic: commenced 1.4.2022; first accounts to 30.6.2023. YA2023 basis period:",
+    "ms": "FunTastic: mula 1.4.2022; akaun pertama hingga 30.6.2023. Tempoh asas YA2023:"
+   },
+   "o": [
+    "1.4.22–30.6.23",
+    "1.7.22–30.6.23",
+    "1.1.23–31.12.23",
+    "None"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Lecturer’s exercise 2; YA2022 has no basis period.",
+    "ms": "Latihan 2 pensyarah; YA2022 tiada tempoh asas."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "cp204",
+   "q": {
+    "en": "Minimum e-CP204 estimate in year 2 is:",
+    "ms": "Anggaran minimum e-CP204 tahun ke-2 ialah:"
+   },
+   "o": [
+    "30% of AT",
+    "100% of prior year’s tax",
+    "50% of profit",
+    "85% of prior year’s estimate"
+   ],
+   "a": 3,
+   "e": {
+    "en": "s107C(3).",
+    "ms": "s107C(3)."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "cp204",
+   "q": {
+    "en": "An operating company must furnish e-CP204 no later than:",
+    "ms": "Syarikat beroperasi mesti kemukakan e-CP204 selewat-lewatnya:"
+   },
+   "o": [
+    "3 months after year end",
+    "30 days before the basis period starts",
+    "The 15th of each month",
+    "Year end"
+   ],
+   "a": 1,
+   "e": {
+    "en": "s107C(2).",
+    "ms": "s107C(2)."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "cp204",
+   "q": {
+    "en": "A revision made in the 9th month can take effect from the:",
+    "ms": "Semakan dibuat pada bulan ke-9 boleh berkuat kuasa dari ansuran:"
+   },
+   "o": [
+    "5th or 6th instalment",
+    "8th or 9th instalment",
+    "11th instalment only",
+    "1st instalment"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "cp204",
+   "q": {
+    "en": "The 10% increase applies when AT exceeds ET by more than:",
+    "ms": "Kenaan 10% terpakai apabila AT melebihi ET lebih daripada:"
+   },
+   "o": [
+    "RM30,000",
+    "10% of AT",
+    "50% of ET",
+    "30% of AT"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "cp204",
+   "q": {
+    "en": "ET RM600,000, AT RM890,000. The penalty is:",
+    "ms": "ET RM600,000, AT RM890,000. Penaltinya:"
+   },
+   "o": [
+    "RM2,300",
+    "RM29,000",
+    "RM23,000",
+    "RM26,700"
+   ],
+   "a": 0,
+   "e": {
+    "en": "(290,000 − 267,000) × 10% = 2,300.",
+    "ms": "(290,000 − 267,000) × 10% = 2,300."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "cp204",
+   "q": {
+    "en": "ET RM100,000, AT RM120,000: penalty?",
+    "ms": "ET RM100,000, AT RM120,000: penalti?"
+   },
+   "o": [
+    "RM1,200",
+    "RM2,000",
+    "Nil",
+    "RM20,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Difference 20,000 is below 30% × 120,000 = 36,000, so no increase.",
+    "ms": "Beza 20,000 di bawah 30% × 120,000 = 36,000, jadi tiada kenaan."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "change",
+   "q": {
+    "en": "Hidup Keras changes 28 Feb to 31 Dec (22 months combined). Which YA takes 1.3.24–31.12.25?",
+    "ms": "Hidup Keras tukar 28 Feb ke 31 Dis (22 bulan gabungan). YA mana ambil 1.3.24–31.12.25?"
+   },
+   "o": [
+    "YA2026",
+    "YA2024",
+    "YA2025",
+    "YA2027"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 19.",
+    "ms": "Slaid 19."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "change",
+   "q": {
+    "en": "Ahmad Albab changes 31 Dec to 30 Apr (4 months). YA2025 basis period:",
+    "ms": "Ahmad Albab tukar 31 Dis ke 30 Apr (4 bulan). Tempoh asas YA2025:"
+   },
+   "o": [
+    "1.1.25–30.4.25",
+    "1.1.25–31.12.25",
+    "1.5.25–30.4.26",
+    "None"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 21.",
+    "ms": "Slaid 21."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "change",
+   "q": {
+    "en": "Aizah Wahab changes 31 Jul to 31 Oct (15 months). YA2026 basis period:",
+    "ms": "Aizah Wahab tukar 31 Jul ke 31 Okt (15 bulan). Tempoh asas YA2026:"
+   },
+   "o": [
+    "None",
+    "1.8.25–31.7.26",
+    "1.8.24–31.10.25",
+    "1.11.25–31.10.26"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "change",
+   "q": {
+    "en": "Which case requires dividing the accounting period into two?",
+    "ms": "Kes mana memerlukan tempoh perakaunan dibahagi dua?"
+   },
+   "o": [
+    "Under 12 months same year",
+    "More than 12 months ending in the third year",
+    "Under 12 months following year",
+    "More than 12 months following year"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "notify",
+   "q": {
+    "en": "CP204B for an extended period is due:",
+    "ms": "CP204B untuk tempoh dilanjutkan perlu:"
+   },
+   "o": [
+    "30 days after the new year end",
+    "30 days before the end of the original period",
+    "With the tax return",
+    "At commencement"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "notify",
+   "q": {
+    "en": "CP204B for a shortened period is due:",
+    "ms": "CP204B untuk tempoh dipendekkan perlu:"
+   },
+   "o": [
+    "Never",
+    "30 days before the end of the original period",
+    "After 6 months",
+    "30 days before the end of the new period"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "notify",
+   "q": {
+    "en": "Under s107C(8) the DGIR may issue:",
+    "ms": "Di bawah s107C(8) KPHDN boleh mengeluarkan:"
+   },
+   "o": [
+    "Notice of instalment payments (CP205)",
+    "CP204A",
+    "CP204B",
+    "A tax return"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 26.",
+    "ms": "Slaid 26."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "notify",
+   "q": {
+    "en": "A company joins a partnership. The basis period for that business is:",
+    "ms": "Syarikat menyertai perkongsian. Tempoh asas perniagaan itu:"
+   },
+   "o": [
+    "Set by the partners",
+    "Always 12 months",
+    "Same as the company’s existing operation",
+    "Calendar year"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 29.",
+    "ms": "Slaid 29."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "first",
+   "marks": 6,
+   "q": {
+    "en": "Explain how the basis period for the first accounts is determined, with an example.",
+    "ms": "Terangkan bagaimana tempoh asas akaun pertama ditentukan, dengan contoh."
+   },
+   "pts": {
+    "en": [
+     "Commencement date (2)",
+     "Year in which first accounts end decides the YA (2)",
+     "A worked example e.g. 18 months to 30.4.2026 (2)"
+    ],
+    "ms": [
+     "Tarikh permulaan (2)",
+     "Tahun akaun pertama berakhir menentukan YA (2)",
+     "Contoh kerja cth. 18 bulan hingga 30.4.2026 (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "cp204",
+   "marks": 8,
+   "q": {
+    "en": "Explain the CP204 estimate, instalment and revision rules, including the penalty.",
+    "ms": "Terangkan peraturan anggaran, ansuran dan semakan CP204, termasuk penalti."
+   },
+   "pts": {
+    "en": [
+     "Timing of first estimate (2)",
+     "85% minimum (2)",
+     "Instalments and revision months (2)",
+     "Penalty formula (2)"
+    ],
+    "ms": [
+     "Masa anggaran pertama (2)",
+     "Minimum 85% (2)",
+     "Ansuran dan bulan semakan (2)",
+     "Formula penalti (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "change",
+   "marks": 8,
+   "q": {
+    "en": "Describe the four cases of a change in accounting period.",
+    "ms": "Huraikan empat kes pertukaran tempoh perakaunan."
+   },
+   "pts": {
+    "en": [
+     "DG’s two rules (2)",
+     "Under 12 months: same year / following year (2)",
+     "More than 12 months: following year (2)",
+     "More than 12 months: third year (2)"
+    ],
+    "ms": [
+     "Dua peraturan DG (2)",
+     "Kurang 12 bulan: tahun sama / berikutnya (2)",
+     "Lebih 12 bulan: tahun berikutnya (2)",
+     "Lebih 12 bulan: tahun ketiga (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "notify",
+   "marks": 4,
+   "q": {
+    "en": "When and how must a change of accounting period be notified?",
+    "ms": "Bila dan bagaimana pertukaran tempoh perakaunan dimaklumkan?"
+   },
+   "pts": {
+    "en": [
+     "Form CP204B (1)",
+     "Shortened: 30 days before new period ends (1)",
+     "Extended: 30 days before original period ends (1)",
+     "CP205 may be issued (1)"
+    ],
+    "ms": [
+     "Borang CP204B (1)",
+     "Dipendekkan: 30 hari sebelum tempoh baru tamat (1)",
+     "Dilanjutkan: 30 hari sebelum tempoh asal tamat (1)",
+     "CP205 boleh dikeluarkan (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Basis period",
+   "Tempoh asas"
+  ],
+  [
+   "Year of Assessment (YA)",
+   "Tahun Taksiran (YA)"
+  ],
+  [
+   "Failure year",
+   "Tahun kegagalan"
+  ],
+  [
+   "CP204",
+   "CP204 (anggaran cukai)"
+  ],
+  [
+   "CP204A",
+   "CP204A (semakan anggaran)"
+  ],
+  [
+   "CP204B",
+   "CP204B (pertukaran tempoh perakaunan)"
+  ],
+  [
+   "CP205",
+   "CP205 (notis ansuran)"
+  ],
+  [
+   "DGIR",
+   "Ketua Pengarah Hasil Dalam Negeri"
+  ],
+  [
+   "Instalment",
+   "Ansuran"
+  ],
+  [
+   "Estimate of tax payable",
+   "Anggaran cukai kena bayar"
+  ]
+ ]
+}

@@ -1,0 +1,1498 @@
+{
+ "subject": {
+  "id": "sbsc3183",
+  "code": "SBSC3183",
+  "name": {
+   "en": "Taxation 2",
+   "ms": "Percukaian 2"
+  }
+ },
+ "id": "ch2",
+ "num": 2,
+ "title": {
+  "en": "Industrial Building Allowance",
+  "ms": "Elaun Bangunan Industri"
+ },
+ "standard": "Chapter 2",
+ "outcomes": {
+  "en": [
+   "Identify buildings that qualify as industrial buildings (IB)",
+   "Apply the 10% rule and the 75% rule",
+   "Determine qualifying building expenditure (QBE)",
+   "Compute initial and annual allowances and the residual expenditure",
+   "Compute balancing allowances and charges on disposal"
+  ],
+  "ms": [
+   "Kenal pasti bangunan yang layak sebagai bangunan industri (IB)",
+   "Gunakan peraturan 10% dan peraturan 75%",
+   "Tentukan perbelanjaan bangunan layak (QBE)",
+   "Hitung elaun permulaan dan elaun tahunan serta perbelanjaan baki",
+   "Hitung elaun dan caj imbangan semasa pelupusan"
+  ]
+ },
+ "sections": [
+  {
+   "id": "gen",
+   "icon": "🏭",
+   "title": {
+    "en": "General and Eligible Buildings",
+    "ms": "Umum dan Bangunan Layak"
+   },
+   "ref": "Slides 2–10",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Allowances for industrial buildings and structures are given by reference to a basis period",
+      "No allowance on the cost of land or incidental costs connected with the land",
+      "The allowance is deducted against adjusted income"
+     ],
+     "ms": [
+      "Elaun bagi bangunan dan struktur industri diberi merujuk tempoh asas",
+      "Tiada elaun bagi kos tanah atau kos sampingan berkaitan tanah",
+      "Elaun ditolak daripada pendapatan diselaraskan"
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Paragraphs 63–66 of Schedule 3 ITA define an industrial building; the building must be used for a specified purpose.",
+     "ms": "Perenggan 63–66 Jadual 3 ITA mentakrifkan bangunan industri; bangunan mesti digunakan untuk tujuan yang ditetapkan."
+    },
+    {
+     "k": "h",
+     "en": "Core buildings",
+     "ms": "Bangunan teras"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "A factory equipped with plant and machinery to carry out manufacturing",
+      "Another building housing machinery or plant for manufacturing, or generating power for manufacturing",
+      "A workshop for repair or servicing of goods, if not done in conjunction with, or incidental to, selling those goods",
+      "A building in the same compound (same curtilage) used to store raw materials, fuel or stores for manufacture, or to store processed goods before sale"
+     ],
+     "ms": [
+      "Kilang yang dilengkapi loji dan jentera untuk pembuatan",
+      "Bangunan lain yang menempatkan jentera atau loji untuk pembuatan, atau menjana kuasa untuk pembuatan",
+      "Bengkel untuk membaiki atau menservis barangan, jika tidak dilakukan bersama atau sampingan kepada penjualan barangan itu",
+      "Bangunan dalam kawasan yang sama (curtilage sama) untuk menyimpan bahan mentah, bahan api atau stor untuk pembuatan, atau menyimpan barangan siap diproses sebelum dijual"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "‘Within the same curtilage’ means a building adjoining or adjacent to, or in the land immediately surrounding, a building used as a factory.",
+     "ms": "‘Dalam curtilage yang sama’ bermaksud bangunan bersebelahan atau berhampiran, atau dalam tanah yang mengelilingi, bangunan yang digunakan sebagai kilang."
+    },
+    {
+     "k": "h",
+     "en": "Other qualifying uses",
+     "ms": "Kegunaan layak lain"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Building",
+       "Detail"
+      ],
+      "ms": [
+       "Bangunan",
+       "Butiran"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Dock, wharf, depot, jetty",
+        "Dock = repairing ships; wharf = ships load/unload cargo; depot or jetty = where boats and ships anchor"
+       ],
+       "ms": [
+        "Dok, jeti, depot",
+        "Dok = membaiki kapal; jeti kargo = kapal memunggah/memuat; depot atau jeti = tempat bot dan kapal berlabuh"
+       ]
+      },
+      {
+       "en": [
+        "Warehouse",
+        "Business consists mainly of hiring storage space to the public"
+       ],
+       "ms": [
+        "Gudang",
+        "Perniagaan terutamanya menyewakan ruang simpanan kepada orang awam"
+       ]
+      },
+      {
+       "en": [
+        "Utilities",
+        "Supplying water or electricity to the public, or providing telecommunication services to the public"
+       ],
+       "ms": [
+        "Utiliti",
+        "Membekal air atau elektrik kepada orang awam, atau perkhidmatan telekomunikasi kepada orang awam"
+       ]
+      },
+      {
+       "en": [
+        "Farm or mine",
+        "Used in working a farm / mine, provided no claim is made for qualifying agriculture / mining expenditure"
+       ],
+       "ms": [
+        "Ladang atau lombong",
+        "Digunakan untuk mengusahakan ladang / lombong, dengan syarat tiada tuntutan perbelanjaan pertanian / perlombongan layak"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Employee facilities (para 65 Schedule 3)",
+     "ms": "Kemudahan pekerja (para 65 Jadual 3)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "If a building is an IB, a canteen, restroom, recreation room, lavatory, bathhouse, bathroom or washroom for employees is also treated as IB",
+      "A building for the welfare of farm workers, of little value except for the farm, is treated as IB",
+      "Living accommodation for employees who are not a director, an individual controlling the business, or management/administration/clerical staff (slide 10 text is cut off after this)"
+     ],
+     "ms": [
+      "Jika bangunan ialah IB, kantin, bilik rehat, bilik rekreasi, tandas, rumah mandi atau bilik air untuk pekerja juga dianggap IB",
+      "Bangunan untuk kebajikan pekerja ladang, yang bernilai kecil kecuali untuk ladang, dianggap IB",
+      "Tempat tinggal pekerja yang bukan pengarah, individu yang mengawal perniagaan, atau kakitangan pengurusan/pentadbiran/perkeranian (teks slaid 10 terpotong selepas ini)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deemed",
+   "icon": "🏗️",
+   "title": {
+    "en": "Buildings Treated as IB",
+    "ms": "Bangunan Dianggap IB"
+   },
+   "ref": "Slides 11–16",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Building",
+       "Reference"
+      ],
+      "ms": [
+       "Bangunan",
+       "Rujukan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Licensed private hospital, maternity home, nursing home",
+        "Para 37A"
+       ],
+       "ms": [
+        "Hospital swasta berlesen, rumah bersalin, rumah jagaan",
+        "Para 37A"
+       ]
+      },
+      {
+       "en": [
+        "Research building (approved research, or R&D / contract R&D company)",
+        "Para 37B"
+       ],
+       "ms": [
+        "Bangunan penyelidikan (penyelidikan diluluskan, atau syarikat R&D / R&D kontrak)",
+        "Para 37B"
+       ]
+      },
+      {
+       "en": [
+        "Warehouse solely for storing goods for export, or imported goods for processing/distribution/re-export",
+        "Para 37C"
+       ],
+       "ms": [
+        "Gudang semata-mata untuk menyimpan barangan eksport, atau barangan import untuk diproses/diedar/dieksport semula",
+        "Para 37C"
+       ]
+      },
+      {
+       "en": [
+        "Approved service project",
+        "Para 37E"
+       ],
+       "ms": [
+        "Projek perkhidmatan diluluskan",
+        "Para 37E"
+       ]
+      },
+      {
+       "en": [
+        "Hotel",
+        "Para 37F"
+       ],
+       "ms": [
+        "Hotel",
+        "Para 37F"
+       ]
+      },
+      {
+       "en": [
+        "Airport",
+        "Para 37G"
+       ],
+       "ms": [
+        "Lapangan terbang",
+        "Para 37G"
+       ]
+      },
+      {
+       "en": [
+        "Motor racing circuit",
+        "Para 37H"
+       ],
+       "ms": [
+        "Litar lumba motor",
+        "Para 37H"
+       ]
+      },
+      {
+       "en": [
+        "Child care centre",
+        "Para 42A(2)"
+       ],
+       "ms": [
+        "Pusat jagaan kanak-kanak",
+        "Para 42A(2)"
+       ]
+      },
+      {
+       "en": [
+        "School building / educational institution",
+        "Para 42B"
+       ],
+       "ms": [
+        "Bangunan sekolah / institusi pendidikan",
+        "Para 42B"
+       ]
+      },
+      {
+       "en": [
+        "Building for industrial, technical or vocational training",
+        "Para 42C"
+       ],
+       "ms": [
+        "Bangunan latihan perindustrian, teknikal atau vokasional",
+        "Para 42C"
+       ]
+      },
+      {
+       "en": [
+        "Public roads under privatisation",
+        "Para 67A"
+       ],
+       "ms": [
+        "Jalan awam di bawah penswastaan",
+        "Para 67A"
+       ]
+      },
+      {
+       "en": [
+        "Building on a build-lease-transfer basis",
+        "Para 67B"
+       ],
+       "ms": [
+        "Bangunan secara bina-pajak-pindah",
+        "Para 67B"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slides 21 and 22 contain no readable text (figures).",
+     "ms": "Slaid 21 dan 22 tiada teks yang boleh dibaca (rajah)."
+    }
+   ]
+  },
+  {
+   "id": "rules",
+   "icon": "📐",
+   "title": {
+    "en": "Non-Industrial Use: Rule 10% and Rule 75%",
+    "ms": "Kegunaan Bukan Industri: Peraturan 10% dan 75%"
+   },
+   "ref": "Slides 17–20",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Dwelling houses, retail shops, showrooms and offices are not IBs. But under para 66 Schedule 3 (Rule 10%), if the office or any area not used as an IB (or rented out) is less than 10% of the QE for constructing or buying the building, allowance is given on the entire building.",
+     "ms": "Rumah kediaman, kedai runcit, bilik pameran dan pejabat bukan IB. Namun di bawah para 66 Jadual 3 (Peraturan 10%), jika pejabat atau kawasan bukan IB (atau disewakan) kurang 10% daripada QE pembinaan atau pembelian bangunan, elaun diberi ke atas keseluruhan bangunan."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Non-IB portion",
+       "Result"
+      ],
+      "ms": [
+       "Bahagian bukan IB",
+       "Keputusan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Less than 10%",
+        "Allowance on the entire building"
+       ],
+       "ms": [
+        "Kurang 10%",
+        "Elaun atas seluruh bangunan"
+       ]
+      },
+      {
+       "en": [
+        "10% or more",
+        "Allowance only on the IB portion (examples: 80% IB when 20% office/showroom)"
+       ],
+       "ms": [
+        "10% atau lebih",
+        "Elaun hanya atas bahagian IB (contoh: 80% IB apabila 20% pejabat/bilik pameran)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Rule 75%",
+     "ms": "Peraturan 75%"
+    },
+    {
+     "k": "p",
+     "en": "If expenditure on preparing, cutting, tunnelling or levelling land to install plant and machinery exceeds 75% of the aggregate of the plant and machinery cost and its installation cost, the total (plant, machinery and installation) is treated as expenditure on a building. If that building is an IB it qualifies for IBA, and the plant and machinery then do not qualify for capital allowance.",
+     "ms": "Jika perbelanjaan menyediakan, memotong, menerowong atau meratakan tanah untuk memasang loji dan jentera melebihi 75% daripada jumlah kos loji dan jentera serta kos pemasangannya, keseluruhan (loji, jentera dan pemasangan) dianggap perbelanjaan bangunan. Jika bangunan itu IB, ia layak IBA, dan loji serta jentera tidak layak elaun modal."
+    },
+    {
+     "k": "tip",
+     "en": "Worked check (lecturer’s Q4, Sunrise): machinery 110,060 + installation 45,000 = 155,060; land preparation 30,000. Ratio = 30,000 ÷ (155,060 + 30,000) = 16% which is below 75%, so the machinery is claimed under capital allowances. Showroom + office = 2 of 12 parts = 17% (above 10%) so only the IB share (10/12) qualifies.",
+     "ms": "Semakan kerja (S4 pensyarah, Sunrise): jentera 110,060 + pemasangan 45,000 = 155,060; penyediaan tanah 30,000. Nisbah = 30,000 ÷ (155,060 + 30,000) = 16% iaitu di bawah 75%, jadi jentera dituntut di bawah elaun modal. Bilik pameran + pejabat = 2 daripada 12 bahagian = 17% (melebihi 10%) jadi hanya bahagian IB (10/12) layak."
+    }
+   ]
+  },
+  {
+   "id": "qbe",
+   "icon": "💰",
+   "title": {
+    "en": "Qualifying Building Expenditure (QBE)",
+    "ms": "Perbelanjaan Bangunan Layak (QBE)"
+   },
+   "ref": "Slides 23–26",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "QBE?"
+      ],
+      "ms": [
+       "Item",
+       "QBE?"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Cost of constructing buildings or structures used as IB",
+        "Yes"
+       ],
+       "ms": [
+        "Kos membina bangunan atau struktur untuk IB",
+        "Ya"
+       ]
+      },
+      {
+       "en": [
+        "Purchased building: purchase price",
+        "Yes"
+       ],
+       "ms": [
+        "Bangunan dibeli: harga belian",
+        "Ya"
+       ]
+      },
+      {
+       "en": [
+        "Cost of land and other costs related to land",
+        "Excluded"
+       ],
+       "ms": [
+        "Kos tanah dan kos lain berkaitan tanah",
+        "Dikecualikan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Also qualifying",
+     "ms": "Turut layak"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Architect’s fees",
+      "Digging and laying foundations for drains, water pipes and electric cables",
+      "Cost of preparing plans for local authority approval",
+      "Cost of clearing the old site where the old building was not an IB",
+      "Labour, materials, haulage, management, supervision and other overheads",
+      "Incidental work such as drainage, water and electricity installation; fittings forming part of the building",
+      "Legal charges and stamp duty related to the building or structure",
+      "Capital expenditure on additions, renovations (including structural changes and improvements) and alterations (an overall change of the original structure)"
+     ],
+     "ms": [
+      "Yuran arkitek",
+      "Menggali dan meletakkan asas untuk longkang, paip air dan kabel elektrik",
+      "Kos menyediakan pelan untuk kelulusan pihak berkuasa tempatan",
+      "Kos membersihkan tapak lama jika bangunan lama bukan IB",
+      "Buruh, bahan, pengangkutan, pengurusan, penyeliaan dan overhed lain",
+      "Kerja sampingan seperti saliran, pemasangan air dan elektrik; lekapan yang menjadi sebahagian bangunan",
+      "Fi guaman dan duti setem berkaitan bangunan atau struktur",
+      "Perbelanjaan modal ke atas tambahan, pengubahsuaian (termasuk perubahan struktur dan penambahbaikan) dan ubahan (perubahan menyeluruh struktur asal)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calc",
+   "icon": "🧮",
+   "title": {
+    "en": "Computing the Allowances",
+    "ms": "Mengira Elaun"
+   },
+   "ref": "Lecturer’s Example & Exercise (Q1, Q4, Q6, Q7)",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "The slides do not state the rates. The lecturer’s worked answers use an Initial Allowance (IA) of 10% and an Annual Allowance (AA) of 3% of QBE, with residual expenditure (RE) = QBE − allowances given.",
+     "ms": "Slaid tidak menyatakan kadar. Jawapan kerja pensyarah menggunakan Elaun Permulaan (IA) 10% dan Elaun Tahunan (AA) 3% daripada QBE, dengan perbelanjaan baki (RE) = QBE − elaun diberi."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Step",
+       "Eco Bhd (lecturer’s Q1)",
+       "RM"
+      ],
+      "ms": [
+       "Langkah",
+       "Eco Bhd (S1 pensyarah)",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Qualifying costs (excl. land RM1.2m, RM3,600 land legal fees, RM300,000 demolition of old factory)",
+        "Total of stamp duty/legal 10,800 + architect 18,600 + levelling 480,000 + piling 288,000 + wiring 105,600 + internal roads 64,800 + construction 360,000",
+        "1,327,800"
+       ],
+       "ms": [
+        "Kos layak (tolak tanah RM1.2j, fi guaman tanah RM3,600, perobohan kilang lama RM300,000)",
+        "Jumlah duti setem/guaman 10,800 + arkitek 18,600 + perataan 480,000 + cerucuk 288,000 + pendawaian 105,600 + jalan dalaman 64,800 + pembinaan 360,000",
+        "1,327,800"
+       ]
+      },
+      {
+       "en": [
+        "20% office/showroom is more than 10%",
+        "QBE = 80% × 1,327,800",
+        "1,062,240"
+       ],
+       "ms": [
+        "20% pejabat/bilik pameran melebihi 10%",
+        "QBE = 80% × 1,327,800",
+        "1,062,240"
+       ]
+      },
+      {
+       "en": [
+        "YA2025: IA 10%",
+        "",
+        "(106,224)"
+       ],
+       "ms": [
+        "YA2025: IA 10%",
+        "",
+        "(106,224)"
+       ]
+      },
+      {
+       "en": [
+        "YA2025: AA 3%",
+        "",
+        "(31,867)"
+       ],
+       "ms": [
+        "YA2025: AA 3%",
+        "",
+        "(31,867)"
+       ]
+      },
+      {
+       "en": [
+        "Residual expenditure c/f",
+        "",
+        "924,149"
+       ],
+       "ms": [
+        "Perbelanjaan baki c/h",
+        "",
+        "924,149"
+       ]
+      },
+      {
+       "en": [
+        "YA2026 and 2027: AA 3% each",
+        "2 × 31,867",
+        "(63,734) → RE 860,415"
+       ],
+       "ms": [
+        "YA2026 dan 2027: AA 3% setiap tahun",
+        "2 × 31,867",
+        "(63,734) → RE 860,415"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "In the lecturer’s answer the demolition of an old factory (RM300,000) is excluded, which is consistent with slide 24 (site clearing qualifies only if the old building was not an IB). The answer sheet gives no reasoning for this, so that explanation is my reading.",
+     "ms": "Dalam jawapan pensyarah, perobohan kilang lama (RM300,000) dikecualikan, selaras dengan slaid 24 (pembersihan tapak layak hanya jika bangunan lama bukan IB). Lembaran jawapan tidak memberi sebab, jadi penjelasan itu bacaan saya."
+    },
+    {
+     "k": "h",
+     "en": "Purchase of a used building",
+     "ms": "Pembelian bangunan terpakai"
+    },
+    {
+     "k": "p",
+     "en": "In the answers the buyer of a building from another IB owner is given QBE = purchase price (land excluded) and, for the buyer, IA is nil with AA 10% (Hikari Sdn Bhd: 135,000 on RM1,350,000; Nangka Bhd: 235,000 on RM2,350,000).",
+     "ms": "Dalam jawapan, pembeli bangunan daripada pemilik IB lain diberi QBE = harga belian (tanah dikecualikan) dan, bagi pembeli, IA ialah sifar dengan AA 10% (Hikari Sdn Bhd: 135,000 atas RM1,350,000; Nangka Bhd: 235,000 atas RM2,350,000)."
+    },
+    {
+     "k": "note",
+     "en": "The answer sheet is inconsistent here: Care Maternity Home (a buyer from Remedy Hospital) is given IA 10% and AA 3%, and Nangka’s YA2026 line is labelled 3% but shows 235,000. Treat the 10% purchaser rate as the sheet’s majority approach and confirm with your lecturer before relying on it.",
+     "ms": "Lembaran jawapan tidak konsisten di sini: Care Maternity Home (pembeli daripada Remedy Hospital) diberi IA 10% dan AA 3%, dan baris YA2026 Nangka berlabel 3% tetapi menunjukkan 235,000. Anggap kadar pembeli 10% sebagai pendekatan majoriti lembaran, dan sahkan dengan pensyarah sebelum bergantung padanya."
+    }
+   ]
+  },
+  {
+   "id": "disp",
+   "icon": "🔁",
+   "title": {
+    "en": "Disposal, Balancing Adjustments and Special Cases",
+    "ms": "Pelupusan, Pelarasan Imbangan dan Kes Khas"
+   },
+   "ref": "Slides 27–32",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Disposal is deemed when",
+     "ms": "Pelupusan dianggap berlaku apabila"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "The building is sold, transferred or assigned",
+      "In a concession, the concession comes to an end",
+      "The building is demolished or destroyed",
+      "The building ceases to be used as an IB"
+     ],
+     "ms": [
+      "Bangunan dijual, dipindah milik atau diserah hak",
+      "Dalam konsesi, konsesi tamat",
+      "Bangunan dirobohkan atau musnah",
+      "Bangunan tidak lagi digunakan sebagai IB"
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Disposal value is the market value on the date of sale, transfer or assignment, or the proceeds of sale.",
+     "ms": "Nilai pelupusan ialah nilai pasaran pada tarikh jualan, pindah milik atau serah hak, atau hasil jualan."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Disposal value vs residual expenditure",
+       "Result"
+      ],
+      "ms": [
+       "Nilai pelupusan lwn perbelanjaan baki",
+       "Keputusan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Disposal value < RE",
+        "Balancing allowance"
+       ],
+       "ms": [
+        "Nilai pelupusan < RE",
+        "Elaun imbangan"
+       ]
+      },
+      {
+       "en": [
+        "Disposal value > RE",
+        "Balancing charge, but cannot exceed total allowances actually given"
+       ],
+       "ms": [
+        "Nilai pelupusan > RE",
+        "Caj imbangan, tetapi tidak boleh melebihi jumlah elaun yang sebenarnya diberi"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Cempedak Bhd (lecturer’s Q6): QBE 1,600,000 (2,800,000 − land 1,200,000; the 1/11 office is under 10% so the whole building qualifies). IA 160,000 + AA 48,000 in YA2020, then 4 × 48,000 (YA2021–24); RE 1,200,000. Sold in YA2025 for 3,750,000 − land 1,400,000 = 2,350,000. Excess 1,150,000, but the charge is limited to allowances given: 160,000 + 48,000 + 192,000 = RM400,000.",
+     "ms": "Cempedak Bhd (S6 pensyarah): QBE 1,600,000 (2,800,000 − tanah 1,200,000; pejabat 1/11 di bawah 10% jadi seluruh bangunan layak). IA 160,000 + AA 48,000 dalam YA2020, kemudian 4 × 48,000 (YA2021–24); RE 1,200,000. Dijual dalam YA2025 pada 3,750,000 − tanah 1,400,000 = 2,350,000. Lebihan 1,150,000, tetapi caj dihadkan kepada elaun diberi: 160,000 + 48,000 + 192,000 = RM400,000."
+    },
+    {
+     "k": "h",
+     "en": "Temporary disuse (paras 55 and 57)",
+     "ms": "Tidak digunakan sementara (para 55 dan 57)"
+    },
+    {
+     "k": "p",
+     "en": "An IB temporarily not used for the qualifying trade is deemed to be in use, and annual allowances continue, if it was used for the business immediately before, is kept properly maintained ready for use, and the disuse is only temporary.",
+     "ms": "IB yang sementara tidak digunakan untuk perdagangan layak dianggap digunakan, dan elaun tahunan diteruskan, jika ia digunakan untuk perniagaan sejurus sebelumnya, diselenggara sedia untuk digunakan, dan tidak digunakan hanya sementara."
+    },
+    {
+     "k": "h",
+     "en": "Owned for less than 2 years (para 71)",
+     "ms": "Dimiliki kurang 2 tahun (para 71)"
+    },
+    {
+     "k": "p",
+     "en": "If a qualifying IB is disposed of within two years of its construction or purchase, allowances given earlier are withdrawn.",
+     "ms": "Jika IB layak dilupuskan dalam dua tahun selepas pembinaan atau pembelian, elaun yang diberi sebelumnya ditarik balik."
+    },
+    {
+     "k": "note",
+     "en": "Slides 21, 22 and 30 have no readable text; the rates, the 75%/10% worked ratios and the used-building treatment come from the lecturer’s example sheet and not from the slides.",
+     "ms": "Slaid 21, 22 dan 30 tiada teks yang boleh dibaca; kadar, nisbah 75%/10% dan layanan bangunan terpakai datang daripada lembaran contoh pensyarah dan bukan slaid."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "gen",
+   "q": {
+    "en": "Is land cost eligible for IBA?",
+    "ms": "Adakah kos tanah layak IBA?"
+   },
+   "a": {
+    "en": "No. Land and incidental land costs are excluded.",
+    "ms": "Tidak. Tanah dan kos sampingan tanah dikecualikan."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "gen",
+   "q": {
+    "en": "What does ‘same curtilage’ mean?",
+    "ms": "Apakah maksud ‘curtilage sama’?"
+   },
+   "a": {
+    "en": "A building adjoining or adjacent to, or in the land immediately surrounding, a factory building.",
+    "ms": "Bangunan bersebelahan atau berhampiran, atau dalam tanah yang mengelilingi, bangunan kilang."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "gen",
+   "q": {
+    "en": "Define dock, wharf, jetty/depot.",
+    "ms": "Takrif dok, jeti kargo, jeti/depot."
+   },
+   "a": {
+    "en": "Dock: repair ships; wharf: cargo ships load/unload; depot/jetty: boats and ships anchor.",
+    "ms": "Dok: membaiki kapal; wharf: kapal kargo muat/turun; depot/jeti: bot dan kapal berlabuh."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "gen",
+   "q": {
+    "en": "Which employee facilities are treated as IB?",
+    "ms": "Kemudahan pekerja mana dianggap IB?"
+   },
+   "a": {
+    "en": "Canteen, restroom, recreation room, lavatory, bathhouse, bathroom, washroom for employees of an IB.",
+    "ms": "Kantin, bilik rehat, bilik rekreasi, tandas, rumah mandi, bilik air untuk pekerja IB."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "deemed",
+   "q": {
+    "en": "Which paragraph covers hotels and airports?",
+    "ms": "Para mana meliputi hotel dan lapangan terbang?"
+   },
+   "a": {
+    "en": "Hotel: 37F; airport: 37G.",
+    "ms": "Hotel: 37F; lapangan terbang: 37G."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "deemed",
+   "q": {
+    "en": "Which paragraph covers private hospitals?",
+    "ms": "Para mana meliputi hospital swasta?"
+   },
+   "a": {
+    "en": "Para 37A (licensed private hospital, maternity home, nursing home).",
+    "ms": "Para 37A (hospital swasta berlesen, rumah bersalin, rumah jagaan)."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "deemed",
+   "q": {
+    "en": "Paragraphs for child care centre, school, training building?",
+    "ms": "Para bagi pusat jagaan, sekolah, bangunan latihan?"
+   },
+   "a": {
+    "en": "42A(2), 42B, 42C.",
+    "ms": "42A(2), 42B, 42C."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "rules",
+   "q": {
+    "en": "State Rule 10%.",
+    "ms": "Nyatakan Peraturan 10%."
+   },
+   "a": {
+    "en": "If the non-IB area (office etc.) is less than 10% of the QE, allowance is given on the entire building.",
+    "ms": "Jika kawasan bukan IB (pejabat dll.) kurang 10% daripada QE, elaun diberi atas seluruh bangunan."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "rules",
+   "q": {
+    "en": "State Rule 75%.",
+    "ms": "Nyatakan Peraturan 75%."
+   },
+   "a": {
+    "en": "If land preparation exceeds 75% of plant & machinery cost plus installation, the total is treated as building expenditure.",
+    "ms": "Jika penyediaan tanah melebihi 75% kos loji & jentera serta pemasangan, jumlahnya dianggap perbelanjaan bangunan."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "rules",
+   "q": {
+    "en": "Under Rule 75%, do the plant and machinery get capital allowance?",
+    "ms": "Di bawah Peraturan 75%, adakah loji dan jentera dapat elaun modal?"
+   },
+   "a": {
+    "en": "No.",
+    "ms": "Tidak."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "qbe",
+   "q": {
+    "en": "Is demolition cost of an old IB site clearing a QBE?",
+    "ms": "Adakah kos pembersihan tapak lama (bangunan lama IB) QBE?"
+   },
+   "a": {
+    "en": "Site clearing qualifies only if the old building was not an IB (slide 24).",
+    "ms": "Pembersihan tapak layak hanya jika bangunan lama bukan IB (slaid 24)."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "qbe",
+   "q": {
+    "en": "Name five items that qualify as QBE.",
+    "ms": "Namakan lima item QBE."
+   },
+   "a": {
+    "en": "Architect’s fees, foundations for drains/pipes/cables, plans for approval, overheads, legal charges and stamp duty (also additions, renovations, alterations).",
+    "ms": "Yuran arkitek, asas untuk longkang/paip/kabel, pelan kelulusan, overhed, fi guaman dan duti setem (juga tambahan, pengubahsuaian, ubahan)."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "calc",
+   "q": {
+    "en": "Rates used in the lecturer’s answers for IA and AA?",
+    "ms": "Kadar IA dan AA dalam jawapan pensyarah?"
+   },
+   "a": {
+    "en": "IA 10% and AA 3% of QBE.",
+    "ms": "IA 10% dan AA 3% daripada QBE."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "calc",
+   "q": {
+    "en": "Eco Bhd: QBE after the 80% proportion?",
+    "ms": "Eco Bhd: QBE selepas bahagian 80%?"
+   },
+   "a": {
+    "en": "RM1,062,240 (80% × 1,327,800).",
+    "ms": "RM1,062,240 (80% × 1,327,800)."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "calc",
+   "q": {
+    "en": "Eco Bhd YA2025 RE after IA and AA?",
+    "ms": "Eco Bhd RE YA2025 selepas IA dan AA?"
+   },
+   "a": {
+    "en": "RM924,149 (1,062,240 − 106,224 − 31,867).",
+    "ms": "RM924,149 (1,062,240 − 106,224 − 31,867)."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "disp",
+   "q": {
+    "en": "When is disposal deemed to occur?",
+    "ms": "Bila pelupusan dianggap berlaku?"
+   },
+   "a": {
+    "en": "Sold/transferred/assigned, concession ends, demolished/destroyed, or ceases to be used as IB.",
+    "ms": "Dijual/dipindah/diserah hak, konsesi tamat, dirobohkan/musnah, atau tidak lagi digunakan sebagai IB."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "disp",
+   "q": {
+    "en": "When does a balancing allowance arise?",
+    "ms": "Bila elaun imbangan timbul?"
+   },
+   "a": {
+    "en": "When disposal value is less than residual expenditure.",
+    "ms": "Apabila nilai pelupusan kurang daripada perbelanjaan baki."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "disp",
+   "q": {
+    "en": "Limit of a balancing charge?",
+    "ms": "Had caj imbangan?"
+   },
+   "a": {
+    "en": "It cannot exceed total allowances actually given.",
+    "ms": "Tidak boleh melebihi jumlah elaun yang sebenarnya diberi."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "disp",
+   "q": {
+    "en": "Temporary disuse: conditions?",
+    "ms": "Tidak guna sementara: syarat?"
+   },
+   "a": {
+    "en": "Used for the business just before, kept maintained ready for use, and disuse is temporary.",
+    "ms": "Digunakan untuk perniagaan sebelumnya, diselenggara sedia digunakan, dan tidak digunakan hanya sementara."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "disp",
+   "q": {
+    "en": "What if an IB is disposed of within two years (para 71)?",
+    "ms": "Bagaimana jika IB dilupuskan dalam dua tahun (para 71)?"
+   },
+   "a": {
+    "en": "Earlier allowances are withdrawn.",
+    "ms": "Elaun terdahulu ditarik balik."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "gen",
+   "q": {
+    "en": "Which is NOT part of IBA qualifying cost?",
+    "ms": "Yang mana BUKAN kos layak IBA?"
+   },
+   "o": [
+    "Cost of constructing a factory",
+    "Cost of land",
+    "Architect’s fees",
+    "Legal fees for the building"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Land is excluded.",
+    "ms": "Tanah dikecualikan."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "gen",
+   "q": {
+    "en": "A workshop qualifies as IB if it is for repair or servicing of goods:",
+    "ms": "Bengkel layak sebagai IB jika untuk membaiki atau menservis barangan:"
+   },
+   "o": [
+    "Sold by the same business",
+    "Not in conjunction with selling those goods",
+    "Only electronics",
+    "Owned by an individual"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 3.",
+    "ms": "Slaid 3."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "gen",
+   "q": {
+    "en": "A wharf is a place where:",
+    "ms": "Wharf ialah tempat:"
+   },
+   "o": [
+    "Fish are sold",
+    "Ships are repaired",
+    "Boats are stored on land",
+    "Cargo ships load and unload"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "gen",
+   "q": {
+    "en": "A dock is a place for:",
+    "ms": "Dok ialah tempat untuk:"
+   },
+   "o": [
+    "Repairing ships",
+    "Loading cargo",
+    "Storing grain",
+    "Selling boats"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "gen",
+   "q": {
+    "en": "A warehouse qualifies as IB under slide 7 if its business:",
+    "ms": "Gudang layak sebagai IB di bawah slaid 7 jika perniagaannya:"
+   },
+   "o": [
+    "Is used as an office",
+    "Stores own stock only",
+    "Mainly hires storage space to the public",
+    "Sells goods"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 7.",
+    "ms": "Slaid 7."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "deemed",
+   "q": {
+    "en": "A hotel is covered by paragraph:",
+    "ms": "Hotel dilindungi oleh para:"
+   },
+   "o": [
+    "42B",
+    "37A",
+    "37F",
+    "67A"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "deemed",
+   "q": {
+    "en": "A school or educational institution is covered by:",
+    "ms": "Sekolah atau institusi pendidikan dilindungi oleh:"
+   },
+   "o": [
+    "42B",
+    "42A(2)",
+    "42C",
+    "37G"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "deemed",
+   "q": {
+    "en": "A building on a build-lease-transfer basis is covered by:",
+    "ms": "Bangunan secara bina-pajak-pindah dilindungi oleh:"
+   },
+   "o": [
+    "37H",
+    "67A",
+    "37E",
+    "67B"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "rules",
+   "q": {
+    "en": "Office area is 8% of QE. IBA is given on:",
+    "ms": "Kawasan pejabat 8% daripada QE. IBA diberi atas:"
+   },
+   "o": [
+    "Only 92%",
+    "The entire building",
+    "Only the office",
+    "Nothing"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Rule 10%: below 10% means entire building.",
+    "ms": "Peraturan 10%: bawah 10% bermaksud seluruh bangunan."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "rules",
+   "q": {
+    "en": "Showroom/office is 20% of a building. QBE is:",
+    "ms": "Bilik pameran/pejabat 20% bangunan. QBE ialah:"
+   },
+   "o": [
+    "100%",
+    "80% of the qualifying cost",
+    "20%",
+    "Nil"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Eco Bhd example.",
+    "ms": "Contoh Eco Bhd."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "rules",
+   "q": {
+    "en": "Land preparation 30,000; machinery 110,060; installation 45,000. Is Rule 75% triggered?",
+    "ms": "Penyediaan tanah 30,000; jentera 110,060; pemasangan 45,000. Adakah Peraturan 75% terpakai?"
+   },
+   "o": [
+    "Cannot tell",
+    "Yes, ratio is 75%",
+    "Yes, ratio is 100%",
+    "No, ratio is about 16%"
+   ],
+   "a": 3,
+   "e": {
+    "en": "30,000 ÷ 185,060 ≈ 16%.",
+    "ms": "30,000 ÷ 185,060 ≈ 16%."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "rules",
+   "q": {
+    "en": "When Rule 75% applies, plant and machinery:",
+    "ms": "Apabila Peraturan 75% terpakai, loji dan jentera:"
+   },
+   "o": [
+    "Do not qualify for capital allowance",
+    "Get double allowance",
+    "Qualify for IBA only",
+    "Are exempt"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 20.",
+    "ms": "Slaid 20."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "qbe",
+   "q": {
+    "en": "Legal fees RM14,400, of which RM3,600 relate to land. Qualifying legal fees:",
+    "ms": "Fi guaman RM14,400, RM3,600 berkaitan tanah. Fi guaman layak:"
+   },
+   "o": [
+    "RM3,600",
+    "RM14,400",
+    "RM10,800",
+    "Nil"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Eco Bhd example.",
+    "ms": "Contoh Eco Bhd."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "qbe",
+   "q": {
+    "en": "Which of these is QBE?",
+    "ms": "Yang mana QBE?"
+   },
+   "o": [
+    "Purchase of private car",
+    "Land cost",
+    "Architect’s fees",
+    "Interest on land loan"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "calc",
+   "q": {
+    "en": "QBE RM1,000,000. IA 10% and AA 3% in the first year. Allowance is:",
+    "ms": "QBE RM1,000,000. IA 10% dan AA 3% tahun pertama. Elaun ialah:"
+   },
+   "o": [
+    "RM130,000",
+    "RM100,000",
+    "RM30,000",
+    "RM300,000"
+   ],
+   "a": 0,
+   "e": {
+    "en": "100,000 + 30,000.",
+    "ms": "100,000 + 30,000."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "calc",
+   "q": {
+    "en": "Eco Bhd residual expenditure after YA2025 is:",
+    "ms": "Perbelanjaan baki Eco Bhd selepas YA2025:"
+   },
+   "o": [
+    "RM1,327,800",
+    "RM1,062,240",
+    "RM860,415",
+    "RM924,149"
+   ],
+   "a": 3,
+   "e": {
+    "en": "1,062,240 − 106,224 − 31,867.",
+    "ms": "1,062,240 − 106,224 − 31,867."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "calc",
+   "q": {
+    "en": "Hikari buys a building for RM1,350,000 (AA 10%). First-year allowance:",
+    "ms": "Hikari beli bangunan RM1,350,000 (AA 10%). Elaun tahun pertama:"
+   },
+   "o": [
+    "RM40,500",
+    "RM135,000",
+    "RM1,350,000",
+    "RM13,500"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Per the answer sheet.",
+    "ms": "Mengikut lembaran jawapan."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "disp",
+   "q": {
+    "en": "RE RM1,200,000; disposal value RM2,350,000; allowances given RM400,000. Balancing charge is:",
+    "ms": "RE RM1,200,000; nilai pelupusan RM2,350,000; elaun diberi RM400,000. Caj imbangan ialah:"
+   },
+   "o": [
+    "RM1,150,000",
+    "RM400,000",
+    "RM2,350,000",
+    "Nil"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Excess 1,150,000 but capped at allowances given.",
+    "ms": "Lebihan 1,150,000 tetapi dihadkan kepada elaun diberi."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "disp",
+   "q": {
+    "en": "Disposal value below residual expenditure gives:",
+    "ms": "Nilai pelupusan di bawah perbelanjaan baki memberi:"
+   },
+   "o": [
+    "No adjustment",
+    "Balancing charge",
+    "Initial allowance",
+    "Balancing allowance"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 29.",
+    "ms": "Slaid 29."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "disp",
+   "q": {
+    "en": "Which is NOT a deemed disposal?",
+    "ms": "Yang mana BUKAN pelupusan dianggap?"
+   },
+   "o": [
+    "Building is repainted",
+    "Building is sold",
+    "Building is demolished",
+    "Building ceases to be IB"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "disp",
+   "q": {
+    "en": "Disposal within 2 years of construction or purchase leads to:",
+    "ms": "Pelupusan dalam 2 tahun pembinaan atau pembelian membawa kepada:"
+   },
+   "o": [
+    "Tax exemption",
+    "Double allowance",
+    "Withdrawal of earlier allowances",
+    "IA 20%"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Para 71.",
+    "ms": "Para 71."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "disp",
+   "q": {
+    "en": "Temporary disuse of an IB, properly maintained:",
+    "ms": "IB tidak digunakan sementara, diselenggara dengan baik:"
+   },
+   "o": [
+    "Balancing charge arises",
+    "No allowance",
+    "Deemed in use; annual allowance continues",
+    "IA is withdrawn"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Paras 55 and 57.",
+    "ms": "Para 55 dan 57."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "gen",
+   "marks": 6,
+   "q": {
+    "en": "Explain which buildings qualify as industrial buildings.",
+    "ms": "Terangkan bangunan yang layak sebagai bangunan industri."
+   },
+   "pts": {
+    "en": [
+     "Factory and machinery buildings (2)",
+     "Storage, docks, wharves, warehouses, utilities (2)",
+     "Employee facilities and farm/mine buildings (2)"
+    ],
+    "ms": [
+     "Kilang dan bangunan jentera (2)",
+     "Simpanan, dok, jeti, gudang, utiliti (2)",
+     "Kemudahan pekerja dan bangunan ladang/lombong (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "rules",
+   "marks": 6,
+   "q": {
+    "en": "Explain Rule 10% and Rule 75% with an example of each.",
+    "ms": "Terangkan Peraturan 10% dan 75% dengan satu contoh bagi setiap satu."
+   },
+   "pts": {
+    "en": [
+     "Rule 10% statement (1)",
+     "Rule 10% example (2)",
+     "Rule 75% statement (2)",
+     "Rule 75% example and effect on capital allowance (1)"
+    ],
+    "ms": [
+     "Pernyataan Peraturan 10% (1)",
+     "Contoh Peraturan 10% (2)",
+     "Pernyataan Peraturan 75% (2)",
+     "Contoh Peraturan 75% dan kesan pada elaun modal (1)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "calc",
+   "marks": 6,
+   "q": {
+    "en": "Describe qualifying building expenditure and compute allowances using Eco Bhd’s facts.",
+    "ms": "Huraikan perbelanjaan bangunan layak dan hitung elaun menggunakan fakta Eco Bhd."
+   },
+   "pts": {
+    "en": [
+     "Items included and excluded (2)",
+     "80% proportion (1)",
+     "IA and AA (2)",
+     "Residual expenditure (1)"
+    ],
+    "ms": [
+     "Item termasuk dan dikecualikan (2)",
+     "Bahagian 80% (1)",
+     "IA dan AA (2)",
+     "Perbelanjaan baki (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "disp",
+   "marks": 6,
+   "q": {
+    "en": "Explain balancing adjustments when an industrial building is disposed of.",
+    "ms": "Terangkan pelarasan imbangan apabila bangunan industri dilupuskan."
+   },
+   "pts": {
+    "en": [
+     "Events deemed disposal (2)",
+     "Disposal value (1)",
+     "Balancing allowance vs charge (2)",
+     "Cap on balancing charge (1)"
+    ],
+    "ms": [
+     "Peristiwa dianggap pelupusan (2)",
+     "Nilai pelupusan (1)",
+     "Elaun lwn caj imbangan (2)",
+     "Had caj imbangan (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Industrial building (IB)",
+   "Bangunan industri (IB)"
+  ],
+  [
+   "Qualifying building expenditure (QBE)",
+   "Perbelanjaan bangunan layak (QBE)"
+  ],
+  [
+   "Initial allowance (IA)",
+   "Elaun permulaan (IA)"
+  ],
+  [
+   "Annual allowance (AA)",
+   "Elaun tahunan (AA)"
+  ],
+  [
+   "Residual expenditure (RE)",
+   "Perbelanjaan baki (RE)"
+  ],
+  [
+   "Balancing allowance",
+   "Elaun imbangan"
+  ],
+  [
+   "Balancing charge",
+   "Caj imbangan"
+  ],
+  [
+   "Disposal value",
+   "Nilai pelupusan"
+  ],
+  [
+   "Curtilage",
+   "Curtilage (kawasan sekitar)"
+  ],
+  [
+   "Rule 10%",
+   "Peraturan 10%"
+  ],
+  [
+   "Rule 75%",
+   "Peraturan 75%"
+  ],
+  [
+   "Temporary disuse",
+   "Tidak digunakan sementara"
+  ]
+ ]
+}

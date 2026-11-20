@@ -1,0 +1,1443 @@
+{
+ "subject": {
+  "id": "sbsc3183",
+  "code": "SBSC3183",
+  "name": {
+   "en": "Taxation 2",
+   "ms": "Percukaian 2"
+  }
+ },
+ "id": "ch3",
+ "num": 4,
+ "title": {
+  "en": "Corporate Taxation",
+  "ms": "Percukaian Korporat"
+ },
+ "standard": "Chapter 3",
+ "outcomes": {
+  "en": [
+   "Determine a company’s tax residence and scope of income",
+   "Compute chargeable income from profit before tax",
+   "Identify gross business income and allowable, specific, double and prohibited deductions",
+   "Apply the carry-forward limits for capital allowances and losses",
+   "Apply approved donation rules and the corporate tax rates"
+  ],
+  "ms": [
+   "Tentukan residen cukai syarikat dan skop pendapatan",
+   "Hitung pendapatan bercukai daripada keuntungan sebelum cukai",
+   "Kenal pasti pendapatan kasar perniagaan serta potongan dibenarkan, khusus, berganda dan dilarang",
+   "Gunakan had bawa ke hadapan bagi elaun modal dan kerugian",
+   "Gunakan peraturan derma diluluskan dan kadar cukai korporat"
+  ]
+ },
+ "sections": [
+  {
+   "id": "res",
+   "icon": "🏢",
+   "title": {
+    "en": "Residence and Scope",
+    "ms": "Residen dan Skop"
+   },
+   "ref": "Slides 2–6",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Corporate tax is imposed on resident companies (private and public limited) that earn income in Malaysia and from outside Malaysia.",
+     "ms": "Cukai korporat dikenakan ke atas syarikat residen (berhad dan sendirian berhad) yang memperoleh pendapatan di Malaysia dan dari luar Malaysia."
+    },
+    {
+     "k": "p",
+     "en": "A company is tax resident in Malaysia if its management and control are exercised in Malaysia, normally where the directors’ meetings on management and control are held.",
+     "ms": "Syarikat ialah residen cukai Malaysia jika pengurusan dan kawalannya dijalankan di Malaysia, lazimnya di tempat mesyuarat pengarah mengenai pengurusan dan kawalan diadakan."
+    },
+    {
+     "k": "h",
+     "en": "Foreign-source income",
+     "ms": "Pendapatan sumber luar negara"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "From 1 January 2022, income derived from foreign sources and received in Malaysia is taxed in the hands of Malaysian residents",
+      "The Schedule 6 para 28 exemption applies only to non-residents",
+      "Foreign dividend income received in Malaysia by a resident company is among the eligible exemptions [P.U.(A) 235/2022]"
+     ],
+     "ms": [
+      "Dari 1 Januari 2022, pendapatan sumber luar negara yang diterima di Malaysia dicukai ke atas residen Malaysia",
+      "Pengecualian Jadual 6 para 28 hanya terpakai kepada bukan residen",
+      "Pendapatan dividen luar negara yang diterima di Malaysia oleh syarikat residen ialah antara pengecualian yang layak [P.U.(A) 235/2022]"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 5 is partly garbled. The exemption wording is read as given; the conditions for the foreign-dividend exemption are not on the slide, so check them in the P.U.(A) before relying on it. Slide 6 has no readable text.",
+     "ms": "Slaid 5 sebahagiannya kelam. Perkataan pengecualian dibaca seperti diberi; syarat pengecualian dividen luar negara tiada pada slaid, jadi semak dalam P.U.(A) sebelum bergantung padanya. Slaid 6 tiada teks boleh dibaca."
+    },
+    {
+     "k": "tip",
+     "en": "Lecturer’s Eco Furniture answer (b): advantages of residence status include access to the SME rates of 15% and 17% (non-residents pay 24%), and tax incentives under the ITA and Promotion of Investments Act (not available to non-residents).",
+     "ms": "Jawapan Eco Furniture pensyarah (b): kelebihan status residen termasuk akses kepada kadar PKS 15% dan 17% (bukan residen bayar 24%), dan insentif cukai di bawah ITA dan Akta Penggalakan Pelaburan (tidak tersedia kepada bukan residen)."
+    }
+   ]
+  },
+  {
+   "id": "format",
+   "icon": "🧮",
+   "title": {
+    "en": "Computing Chargeable Income",
+    "ms": "Mengira Pendapatan Bercukai"
+   },
+   "ref": "Slide 4; Example Q4",
+   "blocks": [
+    {
+     "k": "flow",
+     "en": [
+      "Start: net profit before tax",
+      "Add non-allowable expenses; deduct non-business income, double deduction and special deduction",
+      "Add balancing charges; deduct capital allowance / balancing allowances = adjusted income",
+      "Deduct brought-forward business losses; add other statutory income = aggregate income (after statutory income)",
+      "Deduct current-year business loss, pre-operational expenditure, approved donations, zakat (business) = total / chargeable income"
+     ],
+     "ms": [
+      "Mula: keuntungan bersih sebelum cukai",
+      "Tambah perbelanjaan tidak dibenarkan; tolak pendapatan bukan perniagaan, potongan berganda dan potongan khas",
+      "Tambah caj imbangan; tolak elaun modal / elaun imbangan = pendapatan diselaraskan",
+      "Tolak kerugian perniagaan dibawa ke hadapan; tambah pendapatan berkanun lain = pendapatan agregat (selepas pendapatan berkanun)",
+      "Tolak kerugian perniagaan tahun semasa, perbelanjaan pra-operasi, derma diluluskan, zakat (perniagaan) = jumlah / pendapatan bercukai"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 4 shows these items in several jumbled boxes. I arranged them to match the order used in the lecturer’s worked answers (adjusted income → statutory income → aggregate income → chargeable income). Treat my ordering as a study aid.",
+     "ms": "Slaid 4 menunjukkan item ini dalam beberapa kotak bercampur. Saya susun mengikut urutan jawapan kerja pensyarah (pendapatan diselaraskan → pendapatan berkanun → pendapatan agregat → pendapatan bercukai). Anggap susunan saya sebagai bahan bantu belajar."
+    },
+    {
+     "k": "tip",
+     "en": "Eco Furniture (lecturer’s Q4): adjusted income RM15,540,600 − capital allowance b/f 25,000 − current 120,000 = statutory business income 15,395,600; − losses b/f 20,000 = 15,375,600; + interest 795,000 (dividend exempt) = aggregate income 16,170,600; − donation 15,000 = chargeable income 16,155,600; tax at 24% = RM3,877,344.",
+     "ms": "Eco Furniture (S4 pensyarah): pendapatan diselaraskan RM15,540,600 − elaun modal b/h 25,000 − semasa 120,000 = pendapatan berkanun perniagaan 15,395,600; − kerugian b/h 20,000 = 15,375,600; + faedah 795,000 (dividen dikecualikan) = pendapatan agregat 16,170,600; − derma 15,000 = pendapatan bercukai 16,155,600; cukai pada 24% = RM3,877,344."
+    }
+   ]
+  },
+  {
+   "id": "gross",
+   "icon": "📥",
+   "title": {
+    "en": "Gross Income from a Business Source",
+    "ms": "Pendapatan Kasar daripada Sumber Perniagaan"
+   },
+   "ref": "Slides 7–9",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Gross income is under sections 22–32 ITA. Business gross income includes:",
+     "ms": "Pendapatan kasar di bawah seksyen 22–32 ITA. Pendapatan kasar perniagaan termasuk:"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Debts for goods sold or services rendered, or property dealt with, in the course of business",
+      "Advance payments received for services to be rendered or use of property to be dealt with",
+      "Stock in trade withdrawn",
+      "Recovery of debts written off where a deduction was made in the adjusted income",
+      "Receipts in cash for goods sold or services rendered",
+      "Recoveries of business losses (insurance, employee agreement, legal action, other recovery) that were allowed in computing adjusted income (PR 4/2012)",
+      "Debts released where a deduction was made in an earlier YA"
+     ],
+     "ms": [
+      "Hutang bagi barangan dijual atau perkhidmatan diberi, atau harta diurus, dalam perjalanan perniagaan",
+      "Bayaran pendahuluan diterima bagi perkhidmatan yang akan diberi atau penggunaan harta yang akan diurus",
+      "Stok dagangan yang dikeluarkan",
+      "Perolehan semula hutang yang dihapus kira apabila potongan telah dibuat dalam pendapatan diselaraskan",
+      "Penerimaan tunai bagi barangan dijual atau perkhidmatan diberi",
+      "Perolehan semula kerugian perniagaan (insurans, perjanjian pekerja, tindakan undang-undang, perolehan lain) yang dibenarkan dalam pendapatan diselaraskan (PR 4/2012)",
+      "Hutang dilepaskan apabila potongan dibuat dalam YA terdahulu"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ded",
+   "icon": "✂️",
+   "title": {
+    "en": "Deductions: S33, S34 and Double Deduction",
+    "ms": "Potongan: S33, S34 dan Potongan Berganda"
+   },
+   "ref": "Slides 10–15",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "General provision (S33(1))",
+     "ms": "Peruntukan am (S33(1))"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Wages and salaries of employees",
+      "Interest on loans or overdrafts used solely for business or to buy business assets",
+      "Rent of land or buildings occupied for the business",
+      "Repairs of premises, plant, machinery or fixtures, and renewal, repair or alteration of implements, excluding the cost of reconstructing or rebuilding premises of a permanent nature"
+     ],
+     "ms": [
+      "Gaji dan upah pekerja",
+      "Faedah pinjaman atau overdraf yang digunakan semata-mata untuk perniagaan atau membeli aset perniagaan",
+      "Sewa tanah atau bangunan yang diduduki untuk perniagaan",
+      "Pembaikan premis, loji, jentera atau lekapan, dan pembaharuan, pembaikan atau ubahan perkakas, tidak termasuk kos membina semula premis yang bersifat kekal"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Specific deductions (S34)",
+     "ms": "Potongan khusus (S34)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Translation into or publication in the national language",
+      "Provision of library facilities accessible to the public, up to RM100,000",
+      "Irrecoverable bad debts written off and specific doubtful trade debts",
+      "Employer’s contributions to approved funds or schemes, up to 19% of the employee’s remuneration",
+      "Equipment or renovation to assist disabled employees",
+      "Revenue R&D related to the business",
+      "Child care centre for employees",
+      "Musical or cultural group approved by the Minister of Finance",
+      "Sponsorship of arts, cultural and heritage activities up to RM1,000,000 (foreign activities up to RM300,000 a year)",
+      "Practical training for a resident individual who is not an employee"
+     ],
+     "ms": [
+      "Terjemahan ke atau penerbitan dalam bahasa kebangsaan",
+      "Penyediaan kemudahan perpustakaan yang boleh diakses orang awam, sehingga RM100,000",
+      "Hutang lapuk tidak boleh dipungut yang dihapus kira dan hutang ragu khusus perdagangan",
+      "Caruman majikan kepada dana atau skim diluluskan, sehingga 19% daripada saraan pekerja",
+      "Peralatan atau pengubahsuaian untuk membantu pekerja kurang upaya",
+      "R&D hasil berkaitan perniagaan",
+      "Pusat jagaan kanak-kanak untuk pekerja",
+      "Kumpulan muzik atau kebudayaan diluluskan Menteri Kewangan",
+      "Tajaan aktiviti seni, budaya dan warisan sehingga RM1,000,000 (aktiviti luar negara sehingga RM300,000 setahun)",
+      "Latihan amali bagi individu residen yang bukan pekerja"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slides 13–14 list public-ruling references next to these items, but the labels have been separated from the bullets in the extracted text, so I have not pinned a PR to each item.",
+     "ms": "Slaid 13–14 menyenaraikan rujukan pandangan umum di sebelah item ini, tetapi label terpisah daripada butiran dalam teks yang diekstrak, jadi saya tidak memadankan PR kepada setiap item."
+    },
+    {
+     "k": "h",
+     "en": "Double deduction (S34, 34A, 34B)",
+     "ms": "Potongan berganda (S34, 34A, 34B)"
+    },
+    {
+     "k": "p",
+     "en": "Revenue R&D expenditure approved by the Minister of Finance gets a double deduction. A double deduction is also allowed for a resident’s revenue expenditure on a cash contribution to an approved research institute, payment for the services of an approved research institute or approved research company, or payment for the services of an R&D company or contract R&D company (PR 5/2020).",
+     "ms": "Perbelanjaan hasil R&D yang diluluskan Menteri Kewangan mendapat potongan berganda. Potongan berganda juga dibenarkan bagi perbelanjaan hasil residen untuk sumbangan tunai kepada institusi penyelidikan diluluskan, bayaran bagi perkhidmatan institusi atau syarikat penyelidikan diluluskan, atau bayaran bagi perkhidmatan syarikat R&D atau syarikat R&D kontrak (PR 5/2020)."
+    },
+    {
+     "k": "note",
+     "en": "Slide 15 places the labels ‘S34 & S34A’ and ‘S34B’ apart from the text, so I could not tell which sub-item belongs to which section.",
+     "ms": "Slaid 15 meletakkan label ‘S34 & S34A’ dan ‘S34B’ berasingan daripada teks, jadi saya tidak dapat pastikan sub-item mana milik seksyen mana."
+    }
+   ]
+  },
+  {
+   "id": "proh",
+   "icon": "⛔",
+   "title": {
+    "en": "Prohibited Deductions (S39(1))",
+    "ms": "Potongan Dilarang (S39(1))"
+   },
+   "ref": "Slides 16–17",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Prohibited",
+       "Detail"
+      ],
+      "ms": [
+       "Dilarang",
+       "Butiran"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(a) Domestic or private expenses",
+        ""
+       ],
+       "ms": [
+        "(a) Perbelanjaan domestik atau persendirian",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "(b) Not wholly and exclusively incurred to earn income",
+        ""
+       ],
+       "ms": [
+        "(b) Tidak ditanggung sepenuhnya dan semata-mata untuk memperoleh pendapatan",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "(c) Capital withdrawn or sums used as capital",
+        "e.g. purchase of fixed assets, private residence, cars, shares"
+       ],
+       "ms": [
+        "(c) Modal yang dikeluarkan atau jumlah digunakan sebagai modal",
+        "cth. pembelian aset tetap, rumah persendirian, kereta, saham"
+       ]
+      },
+      {
+       "en": [
+        "(d) Payments to a non-approved pension / provident fund",
+        ""
+       ],
+       "ms": [
+        "(d) Bayaran kepada dana pencen / simpanan tidak diluluskan",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "(e), (g) Qualifying expenditure for Schedule 2, 3 or 4",
+        "Claimed through allowances instead"
+       ],
+       "ms": [
+        "(e), (g) Perbelanjaan layak bagi Jadual 2, 3 atau 4",
+        "Dituntut melalui elaun"
+       ]
+      },
+      {
+       "en": [
+        "(f) Interest or royalty subject to s109 paid to a non-resident without withholding tax paid on time",
+        "Also payments under ss109B / 109F without tax deducted and paid in time"
+       ],
+       "ms": [
+        "(f) Faedah atau royalti tertakluk s109 dibayar kepada bukan residen tanpa cukai pegangan dibayar tepat masa",
+        "Juga bayaran di bawah s109B / 109F tanpa cukai ditolak dan dibayar tepat masa"
+       ]
+      },
+      {
+       "en": [
+        "(i) Sums paid to a government for a licence to extract timber from a forest in Malaysia",
+        ""
+       ],
+       "ms": [
+        "(i) Jumlah dibayar kepada kerajaan untuk lesen mengeluarkan balak dari hutan di Malaysia",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "(j) Contract payment where s107A withholding tax and penalty has not been paid",
+        ""
+       ],
+       "ms": [
+        "(j) Bayaran kontrak apabila cukai pegangan s107A dan penalti belum dibayar",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "(k) Motor vehicle rentals above RM50,000",
+        "Above RM100,000 if the vehicle is brand new and costs not more than RM150,000; commercial transport vehicles excluded"
+       ],
+       "ms": [
+        "(k) Sewa kenderaan bermotor melebihi RM50,000",
+        "Melebihi RM100,000 jika kenderaan baru dan kosnya tidak melebihi RM150,000; kenderaan pengangkutan komersial dikecualikan"
+       ]
+      },
+      {
+       "en": [
+        "(l) 50% of entertainment expenses",
+        "Including sums paid to employees for entertainment"
+       ],
+       "ms": [
+        "(l) 50% perbelanjaan keraian",
+        "Termasuk jumlah dibayar kepada pekerja untuk keraian"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slides list (e) and (g) with identical wording, and skip (h). I show them as given.",
+     "ms": "Slaid menyenaraikan (e) dan (g) dengan perkataan sama, dan melangkau (h). Saya tunjuk seperti diberi."
+    }
+   ]
+  },
+  {
+   "id": "carry",
+   "icon": "↪️",
+   "title": {
+    "en": "Capital Allowances and Losses",
+    "ms": "Elaun Modal dan Kerugian"
+   },
+   "ref": "Slides 18–19",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Unabsorbed capital allowances (from YA2019) can be carried forward for a maximum of 10 consecutive YAs against income from the same business source",
+      "Business losses can be set off against all sources in the current year; unutilised losses can be carried forward against income from any business source"
+     ],
+     "ms": [
+      "Elaun modal tidak terserap (dari YA2019) boleh dibawa ke hadapan maksimum 10 YA berturut-turut terhadap pendapatan sumber perniagaan yang sama",
+      "Kerugian perniagaan boleh ditolak daripada semua sumber dalam tahun semasa; kerugian tidak terguna boleh dibawa ke hadapan terhadap pendapatan sumber perniagaan mana-mana"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 19 says unutilised losses can be carried forward ‘a maximum period of 7 consecutive YAs (10 years)’, which is internally inconsistent. The lecturer’s file PR 1/2022 states that the period was extended from 7 to 10 consecutive YAs, so use 10.",
+     "ms": "Slaid 19 menyatakan kerugian tidak terguna boleh dibawa ke hadapan ‘maksimum 7 YA berturut-turut (10 tahun)’, yang tidak konsisten. Fail PR 1/2022 pensyarah menyatakan tempoh dilanjutkan daripada 7 kepada 10 YA berturut-turut, jadi gunakan 10."
+    }
+   ]
+  },
+  {
+   "id": "don",
+   "icon": "🎁",
+   "title": {
+    "en": "Approved Donations",
+    "ms": "Derma Diluluskan"
+   },
+   "ref": "Slides 20–23",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "From YA2009 the company limit is 10% of aggregate income.",
+     "ms": "Dari YA2009 had untuk syarikat ialah 10% daripada pendapatan agregat."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Gift",
+       "Reference"
+      ],
+      "ms": [
+       "Hadiah",
+       "Rujukan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Money to institutions / organisations / funds approved by the DGIR",
+        "s44(6) and proviso"
+       ],
+       "ms": [
+        "Wang kepada institusi / organisasi / dana diluluskan KPHDN",
+        "s44(6) dan proviso"
+       ]
+      },
+      {
+       "en": [
+        "Money to the Government, a State Government or a local authority",
+        "s44(6)"
+       ],
+       "ms": [
+        "Wang kepada Kerajaan, Kerajaan Negeri atau pihak berkuasa tempatan",
+        "s44(6)"
+       ]
+      },
+      {
+       "en": [
+        "Gift of money for sports approved by the Minister of Finance",
+        "s44(11B) and proviso"
+       ],
+       "ms": [
+        "Hadiah wang untuk sukan diluluskan Menteri Kewangan",
+        "s44(11B) dan proviso"
+       ]
+      },
+      {
+       "en": [
+        "Gift of money or contribution in kind for a project of national interest approved by the Minister",
+        "s44(11C) and proviso"
+       ],
+       "ms": [
+        "Hadiah wang atau sumbangan dalam bentuk barangan untuk projek kepentingan negara diluluskan Menteri",
+        "s44(11C) dan proviso"
+       ]
+      },
+      {
+       "en": [
+        "Gift of artefacts, manuscripts, paintings to the Government or State Government (valued by Department of Museums / National Archives)",
+        "s44(6A)"
+       ],
+       "ms": [
+        "Hadiah artifak, manuskrip, lukisan kepada Kerajaan atau Kerajaan Negeri (dinilai Jabatan Muzium / Arkib Negara)",
+        "s44(6A)"
+       ]
+      },
+      {
+       "en": [
+        "Gift of money up to RM20,000 for public libraries and libraries of schools and higher education institutions (no claim under s34(6)(g) for the same expense)",
+        "s44(8)"
+       ],
+       "ms": [
+        "Hadiah wang sehingga RM20,000 untuk perpustakaan awam dan perpustakaan sekolah dan institusi pengajian tinggi (tiada tuntutan di bawah s34(6)(g) bagi perbelanjaan sama)",
+        "s44(8)"
+       ]
+      },
+      {
+       "en": [
+        "Gift of paintings valued by the National Art Gallery or a state art gallery",
+        "s44(11)"
+       ],
+       "ms": [
+        "Hadiah lukisan dinilai Galeri Seni Negara atau galeri seni negeri",
+        "s44(11)"
+       ]
+      },
+      {
+       "en": [
+        "Wakaf to a religious authority, or endowment to a public university, for its establishment purpose",
+        "s44(11D) and proviso"
+       ],
+       "ms": [
+        "Wakaf kepada pihak berkuasa agama, atau endowmen kepada universiti awam, untuk tujuan penubuhannya",
+        "s44(11D) dan proviso"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Gifts numbered 2, 3, 4 and 5 on the slides are restricted to 10% of aggregate income.",
+     "ms": "Hadiah bernombor 2, 3, 4 dan 5 pada slaid dihadkan kepada 10% daripada pendapatan agregat."
+    },
+    {
+     "k": "note",
+     "en": "Slides 21–22 number the gifts 01–08 in separate boxes, and slide 23 refers to gifts ‘2, 3, 4 and 5’; the numbering does not map clearly to my table, so I could not say which gifts are excluded from the limit. Check this with your lecturer.",
+     "ms": "Slaid 21–22 menomborkan hadiah 01–08 dalam kotak berasingan, dan slaid 23 merujuk hadiah ‘2, 3, 4 dan 5’; penomboran tidak jelas dipadankan dengan jadual saya, jadi saya tidak dapat menyatakan hadiah mana dikecualikan daripada had. Semak dengan pensyarah."
+    }
+   ]
+  },
+  {
+   "id": "rate",
+   "icon": "💹",
+   "title": {
+    "en": "Tax Rates",
+    "ms": "Kadar Cukai"
+   },
+   "ref": "Slide 24; Example Q3",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Company",
+       "Rate"
+      ],
+      "ms": [
+       "Syarikat",
+       "Kadar"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Resident company with paid-up capital of RM2.5m or more",
+        "24%"
+       ],
+       "ms": [
+        "Syarikat residen dengan modal berbayar RM2.5j atau lebih",
+        "24%"
+       ]
+      },
+      {
+       "en": [
+        "Resident company with paid-up capital below RM2.5m and annual gross income of RM50m or less: first RM150,000",
+        "15%"
+       ],
+       "ms": [
+        "Syarikat residen dengan modal berbayar bawah RM2.5j dan pendapatan kasar tahunan RM50j atau kurang: RM150,000 pertama",
+        "15%"
+       ]
+      },
+      {
+       "en": [
+        "RM150,001 to RM600,000",
+        "17%"
+       ],
+       "ms": [
+        "RM150,001 hingga RM600,000",
+        "17%"
+       ]
+      },
+      {
+       "en": [
+        "In excess of RM600,000",
+        "24%"
+       ],
+       "ms": [
+        "Melebihi RM600,000",
+        "24%"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "The SME company must not be part of a group in which a related company has paid-up capital above RM2.5m, and from YA2024 no more than 20% of its paid-up capital may be owned (directly or indirectly) by companies incorporated outside Malaysia or non-Malaysian citizens.",
+     "ms": "Syarikat PKS tidak boleh menjadi sebahagian kumpulan yang mana syarikat berkaitan mempunyai modal berbayar melebihi RM2.5j, dan dari YA2024 tidak lebih 20% modal berbayarnya dimiliki (secara langsung atau tidak langsung) oleh syarikat diperbadankan di luar Malaysia atau bukan warganegara Malaysia."
+    },
+    {
+     "k": "tip",
+     "en": "Chargeable income RM2,000,000: large company 24% = RM480,000. SME: 150,000 × 15% = 22,500; 450,000 × 17% = 76,500; 1,400,000 × 24% = 336,000; total RM435,000 (lecturer’s Health Best answer).",
+     "ms": "Pendapatan bercukai RM2,000,000: syarikat besar 24% = RM480,000. PKS: 150,000 × 15% = 22,500; 450,000 × 17% = 76,500; 1,400,000 × 24% = 336,000; jumlah RM435,000 (jawapan Health Best pensyarah)."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "res",
+   "q": {
+    "en": "When is a company tax resident in Malaysia?",
+    "ms": "Bila syarikat residen cukai Malaysia?"
+   },
+   "a": {
+    "en": "When its management and control are exercised in Malaysia, normally where directors’ meetings are held.",
+    "ms": "Apabila pengurusan dan kawalannya dijalankan di Malaysia, lazimnya di tempat mesyuarat pengarah diadakan."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "res",
+   "q": {
+    "en": "Foreign-source income received in Malaysia from 2022?",
+    "ms": "Pendapatan sumber luar negara diterima di Malaysia dari 2022?"
+   },
+   "a": {
+    "en": "Taxed in the hands of Malaysian residents.",
+    "ms": "Dicukai ke atas residen Malaysia."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "res",
+   "q": {
+    "en": "Who can use the Schedule 6 para 28 exemption?",
+    "ms": "Siapa boleh guna pengecualian Jadual 6 para 28?"
+   },
+   "a": {
+    "en": "Only persons not resident in Malaysia.",
+    "ms": "Hanya orang bukan residen di Malaysia."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "format",
+   "q": {
+    "en": "Chargeable income route?",
+    "ms": "Laluan pendapatan bercukai?"
+   },
+   "a": {
+    "en": "Net profit → adjusted income → statutory income → aggregate income → chargeable income.",
+    "ms": "Keuntungan bersih → pendapatan diselaraskan → pendapatan berkanun → pendapatan agregat → pendapatan bercukai."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "format",
+   "q": {
+    "en": "Adjustments to net profit?",
+    "ms": "Pelarasan kepada keuntungan bersih?"
+   },
+   "a": {
+    "en": "Add non-allowable expenses; deduct double and special deductions.",
+    "ms": "Tambah perbelanjaan tidak dibenarkan; tolak potongan berganda dan khas."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "gross",
+   "q": {
+    "en": "Name three business gross income items.",
+    "ms": "Namakan tiga item pendapatan kasar perniagaan."
+   },
+   "a": {
+    "en": "Debts for goods/services, advance payments, stock withdrawn, recovery of written-off debts, cash receipts.",
+    "ms": "Hutang barangan/perkhidmatan, bayaran pendahuluan, stok dikeluarkan, perolehan semula hutang dihapus kira, penerimaan tunai."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "ded",
+   "q": {
+    "en": "Name four S33(1) deductions.",
+    "ms": "Namakan empat potongan S33(1)."
+   },
+   "a": {
+    "en": "Wages and salaries; business loan interest; rent; repairs (excluding rebuilding of a permanent nature).",
+    "ms": "Gaji; faedah pinjaman perniagaan; sewa; pembaikan (tidak termasuk pembinaan semula kekal)."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "ded",
+   "q": {
+    "en": "Ceiling for employer’s contributions to approved funds?",
+    "ms": "Had caruman majikan kepada dana diluluskan?"
+   },
+   "a": {
+    "en": "19% of the employee’s remuneration.",
+    "ms": "19% daripada saraan pekerja."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "ded",
+   "q": {
+    "en": "Ceiling for library facilities under S34?",
+    "ms": "Had kemudahan perpustakaan di bawah S34?"
+   },
+   "a": {
+    "en": "RM100,000.",
+    "ms": "RM100,000."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "ded",
+   "q": {
+    "en": "Ceiling for arts, cultural and heritage sponsorship?",
+    "ms": "Had tajaan seni, budaya dan warisan?"
+   },
+   "a": {
+    "en": "RM1,000,000; foreign activities up to RM300,000 a year.",
+    "ms": "RM1,000,000; aktiviti luar negara sehingga RM300,000 setahun."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "ded",
+   "q": {
+    "en": "Which R&D expenditure gets double deduction?",
+    "ms": "R&D mana mendapat potongan berganda?"
+   },
+   "a": {
+    "en": "Approved revenue R&D, and payments to approved institutes / R&D companies.",
+    "ms": "R&D hasil diluluskan, dan bayaran kepada institut / syarikat R&D diluluskan."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "proh",
+   "q": {
+    "en": "How much entertainment expense is disallowed?",
+    "ms": "Berapa perbelanjaan keraian tidak dibenarkan?"
+   },
+   "a": {
+    "en": "50% (S39(1)(l)).",
+    "ms": "50% (S39(1)(l))."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "proh",
+   "q": {
+    "en": "Motor vehicle rental limit?",
+    "ms": "Had sewa kenderaan bermotor?"
+   },
+   "a": {
+    "en": "Rentals above RM50,000 disallowed; RM100,000 if the vehicle is brand new and costs up to RM150,000.",
+    "ms": "Sewa melebihi RM50,000 tidak dibenarkan; RM100,000 jika kenderaan baru dan kos sehingga RM150,000."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "proh",
+   "q": {
+    "en": "Interest or royalty to a non-resident with no WHT paid?",
+    "ms": "Faedah atau royalti kepada bukan residen tanpa WHT dibayar?"
+   },
+   "a": {
+    "en": "Prohibited deduction (s39(1)(f)).",
+    "ms": "Potongan dilarang (s39(1)(f))."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "carry",
+   "q": {
+    "en": "Carry-forward period for unabsorbed capital allowance?",
+    "ms": "Tempoh bawa ke hadapan elaun modal tidak terserap?"
+   },
+   "a": {
+    "en": "Maximum 10 consecutive YAs, same business source.",
+    "ms": "Maksimum 10 YA berturut-turut, sumber perniagaan sama."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "carry",
+   "q": {
+    "en": "Carry-forward period for business losses?",
+    "ms": "Tempoh bawa ke hadapan kerugian perniagaan?"
+   },
+   "a": {
+    "en": "10 consecutive YAs (extended from 7 by PR 1/2022).",
+    "ms": "10 YA berturut-turut (dilanjutkan daripada 7 oleh PR 1/2022)."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "don",
+   "q": {
+    "en": "Limit on donations for companies?",
+    "ms": "Had derma untuk syarikat?"
+   },
+   "a": {
+    "en": "10% of aggregate income.",
+    "ms": "10% daripada pendapatan agregat."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "don",
+   "q": {
+    "en": "Public library gift limit under s44(8)?",
+    "ms": "Had hadiah perpustakaan awam di bawah s44(8)?"
+   },
+   "a": {
+    "en": "RM20,000, with no s34(6)(g) claim on the same expense.",
+    "ms": "RM20,000, tanpa tuntutan s34(6)(g) bagi perbelanjaan sama."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "rate",
+   "q": {
+    "en": "Standard company tax rate?",
+    "ms": "Kadar cukai syarikat standard?"
+   },
+   "a": {
+    "en": "24%.",
+    "ms": "24%."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "rate",
+   "q": {
+    "en": "SME tax bands?",
+    "ms": "Kadar PKS?"
+   },
+   "a": {
+    "en": "First RM150,000 at 15%; RM150,001–RM600,000 at 17%; above RM600,000 at 24%.",
+    "ms": "RM150,000 pertama 15%; RM150,001–RM600,000 17%; melebihi RM600,000 24%."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "rate",
+   "q": {
+    "en": "Tax on RM2m for an SME?",
+    "ms": "Cukai ke atas RM2j untuk PKS?"
+   },
+   "a": {
+    "en": "RM435,000.",
+    "ms": "RM435,000."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "res",
+   "q": {
+    "en": "Tax residence of a company depends on:",
+    "ms": "Residen cukai syarikat bergantung pada:"
+   },
+   "o": [
+    "Where it was incorporated only",
+    "Where management and control are exercised",
+    "Where its shareholders live",
+    "Where it banks"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 3.",
+    "ms": "Slaid 3."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "res",
+   "q": {
+    "en": "Management and control is normally where:",
+    "ms": "Pengurusan dan kawalan lazimnya di tempat:"
+   },
+   "o": [
+    "Sales are made",
+    "Directors’ meetings are held",
+    "Raw materials are bought",
+    "Staff live"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 3.",
+    "ms": "Slaid 3."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "res",
+   "q": {
+    "en": "Foreign-source income received in Malaysia by a resident is taxable from:",
+    "ms": "Pendapatan sumber luar negara diterima di Malaysia oleh residen dikenakan cukai dari:"
+   },
+   "o": [
+    "1 January 2009",
+    "1 January 2018",
+    "1 January 2025",
+    "1 January 2022"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "format",
+   "q": {
+    "en": "Which is added back to net profit?",
+    "ms": "Yang mana ditambah semula kepada keuntungan bersih?"
+   },
+   "o": [
+    "Non-allowable expenses",
+    "Double deduction",
+    "Special deduction",
+    "Capital allowance"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 4.",
+    "ms": "Slaid 4."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "format",
+   "q": {
+    "en": "Statutory income comes after:",
+    "ms": "Pendapatan berkanun datang selepas:"
+   },
+   "o": [
+    "Donations",
+    "Tax is paid",
+    "Capital allowance is deducted from adjusted income",
+    "Zakat"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 4 and worked answers.",
+    "ms": "Slaid 4 dan jawapan kerja."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "gross",
+   "q": {
+    "en": "Which is business gross income?",
+    "ms": "Yang mana pendapatan kasar perniagaan?"
+   },
+   "o": [
+    "Loan principal received",
+    "Capital injection",
+    "Recovery of a bad debt previously deducted",
+    "Owner’s drawings"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "gross",
+   "q": {
+    "en": "Recovery of business losses by insurance is gross income when:",
+    "ms": "Perolehan semula kerugian perniagaan melalui insurans ialah pendapatan kasar apabila:"
+   },
+   "o": [
+    "The losses had been allowed in adjusted income",
+    "The loss was private",
+    "The loss was capital",
+    "Never"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 9, PR 4/2012.",
+    "ms": "Slaid 9, PR 4/2012."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "ded",
+   "q": {
+    "en": "Which is an S33(1) deduction?",
+    "ms": "Yang mana potongan S33(1)?"
+   },
+   "o": [
+    "Fine for a traffic offence",
+    "Cost of buying a factory",
+    "Private expenses",
+    "Wages of an employee"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 12.",
+    "ms": "Slaid 12."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "ded",
+   "q": {
+    "en": "Employer’s contribution to approved schemes is capped at:",
+    "ms": "Caruman majikan kepada skim diluluskan dihadkan kepada:"
+   },
+   "o": [
+    "10% of profit",
+    "19% of remuneration",
+    "RM100,000",
+    "24%"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "ded",
+   "q": {
+    "en": "Library facilities for the public under S34 is limited to:",
+    "ms": "Kemudahan perpustakaan awam di bawah S34 dihadkan kepada:"
+   },
+   "o": [
+    "RM20,000",
+    "RM100,000",
+    "RM1,000,000",
+    "RM300,000"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "ded",
+   "q": {
+    "en": "Sponsorship of foreign arts activities is limited to:",
+    "ms": "Tajaan aktiviti seni luar negara dihadkan kepada:"
+   },
+   "o": [
+    "No limit",
+    "RM1,000,000",
+    "RM100,000",
+    "RM300,000 a year"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "ded",
+   "q": {
+    "en": "A cash contribution to an approved research institute gets:",
+    "ms": "Sumbangan tunai kepada institut penyelidikan diluluskan mendapat:"
+   },
+   "o": [
+    "Double deduction",
+    "No deduction",
+    "Single deduction only",
+    "Exemption"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "proh",
+   "q": {
+    "en": "What fraction of entertainment expense is disallowed?",
+    "ms": "Berapa pecahan perbelanjaan keraian tidak dibenarkan?"
+   },
+   "o": [
+    "25%",
+    "100%",
+    "50%",
+    "10%"
+   ],
+   "a": 2,
+   "e": {
+    "en": "S39(1)(l).",
+    "ms": "S39(1)(l)."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "proh",
+   "q": {
+    "en": "Motor vehicle rental above this is disallowed (ordinary case):",
+    "ms": "Sewa kenderaan bermotor melebihi ini tidak dibenarkan (kes biasa):"
+   },
+   "o": [
+    "RM150,000",
+    "RM100,000",
+    "RM50,000",
+    "RM20,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 17.",
+    "ms": "Slaid 17."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "proh",
+   "q": {
+    "en": "Interest to a non-resident with no WHT paid within time is:",
+    "ms": "Faedah kepada bukan residen tanpa WHT dibayar tepat masa ialah:"
+   },
+   "o": [
+    "Prohibited",
+    "Allowed",
+    "Double deductible",
+    "Exempt"
+   ],
+   "a": 0,
+   "e": {
+    "en": "S39(1)(f).",
+    "ms": "S39(1)(f)."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "carry",
+   "q": {
+    "en": "Unabsorbed capital allowances can be carried forward for up to:",
+    "ms": "Elaun modal tidak terserap boleh dibawa ke hadapan sehingga:"
+   },
+   "o": [
+    "Indefinitely",
+    "3 YAs",
+    "5 YAs",
+    "10 consecutive YAs"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 18.",
+    "ms": "Slaid 18."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "carry",
+   "q": {
+    "en": "Unutilised business losses may be carried forward for up to:",
+    "ms": "Kerugian perniagaan tidak terguna boleh dibawa ke hadapan sehingga:"
+   },
+   "o": [
+    "2 YAs",
+    "10 consecutive YAs (per PR 1/2022)",
+    "5 YAs",
+    "Not allowed"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 19 states 7; PR 1/2022 extended to 10.",
+    "ms": "Slaid 19 menyatakan 7; PR 1/2022 melanjutkan kepada 10."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "don",
+   "q": {
+    "en": "The donation limit for companies is:",
+    "ms": "Had derma untuk syarikat:"
+   },
+   "o": [
+    "7% of aggregate income",
+    "10% of aggregate income",
+    "5% of gross income",
+    "RM20,000"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 20.",
+    "ms": "Slaid 20."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "don",
+   "q": {
+    "en": "A gift of money to the Government is under:",
+    "ms": "Hadiah wang kepada Kerajaan di bawah:"
+   },
+   "o": [
+    "s39(1)(l)",
+    "s44(8)",
+    "s34(6)(g)",
+    "s44(6)"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 21.",
+    "ms": "Slaid 21."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "rate",
+   "q": {
+    "en": "A resident company with RM5m paid-up capital pays:",
+    "ms": "Syarikat residen dengan modal berbayar RM5j membayar:"
+   },
+   "o": [
+    "24%",
+    "15%",
+    "17%",
+    "20%"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "rate",
+   "q": {
+    "en": "SME: tax on the first RM150,000 of chargeable income:",
+    "ms": "PKS: cukai atas RM150,000 pertama pendapatan bercukai:"
+   },
+   "o": [
+    "24%",
+    "17%",
+    "15%",
+    "10%"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "rate",
+   "q": {
+    "en": "SME chargeable income RM2,000,000. Tax is:",
+    "ms": "PKS pendapatan bercukai RM2,000,000. Cukai ialah:"
+   },
+   "o": [
+    "RM340,000",
+    "RM480,000",
+    "RM435,000",
+    "RM500,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "22,500 + 76,500 + 336,000.",
+    "ms": "22,500 + 76,500 + 336,000."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "rate",
+   "q": {
+    "en": "Chargeable income RM16,155,600 at 24% gives:",
+    "ms": "Pendapatan bercukai RM16,155,600 pada 24% memberi:"
+   },
+   "o": [
+    "RM3,877,344",
+    "RM2,423,340",
+    "RM4,000,000",
+    "RM3,231,120"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Eco Furniture: 16,155,600 × 24%.",
+    "ms": "Eco Furniture: 16,155,600 × 24%."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "res",
+   "marks": 4,
+   "q": {
+    "en": "Explain how a company’s tax residence is determined and two advantages of resident status.",
+    "ms": "Terangkan bagaimana residen cukai syarikat ditentukan dan dua kelebihan status residen."
+   },
+   "pts": {
+    "en": [
+     "Management and control test (2)",
+     "SME rates for residents only (1)",
+     "Incentives available to residents (1)"
+    ],
+    "ms": [
+     "Ujian pengurusan dan kawalan (2)",
+     "Kadar PKS hanya untuk residen (1)",
+     "Insentif tersedia untuk residen (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "format",
+   "marks": 6,
+   "q": {
+    "en": "Describe how chargeable income is derived from net profit before tax.",
+    "ms": "Huraikan bagaimana pendapatan bercukai diperoleh daripada keuntungan bersih sebelum cukai."
+   },
+   "pts": {
+    "en": [
+     "Net profit adjustments (2)",
+     "Adjusted income and capital allowance (2)",
+     "Statutory, aggregate and chargeable income (2)"
+    ],
+    "ms": [
+     "Pelarasan keuntungan bersih (2)",
+     "Pendapatan diselaraskan dan elaun modal (2)",
+     "Pendapatan berkanun, agregat dan bercukai (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "ded",
+   "marks": 6,
+   "q": {
+    "en": "Distinguish general (S33), specific (S34) and double deductions, giving examples.",
+    "ms": "Bezakan potongan am (S33), khusus (S34) dan berganda, dengan contoh."
+   },
+   "pts": {
+    "en": [
+     "S33 examples (2)",
+     "S34 examples with ceilings (2)",
+     "Double deduction R&D (2)"
+    ],
+    "ms": [
+     "Contoh S33 (2)",
+     "Contoh S34 dengan had (2)",
+     "R&D potongan berganda (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "proh",
+   "marks": 6,
+   "q": {
+    "en": "List six prohibited deductions under S39(1).",
+    "ms": "Senaraikan enam potongan dilarang di bawah S39(1)."
+   },
+   "pts": {
+    "en": [
+     "Any six items correctly stated (6 × 1) (6)"
+    ],
+    "ms": [
+     "Mana-mana enam item dinyatakan dengan betul (6 × 1) (6)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "rate",
+   "marks": 6,
+   "q": {
+    "en": "State the corporate tax rates and compute tax on RM2,000,000 for a large company and an SME.",
+    "ms": "Nyatakan kadar cukai korporat dan hitung cukai ke atas RM2,000,000 bagi syarikat besar dan PKS."
+   },
+   "pts": {
+    "en": [
+     "Large company rate and tax (2)",
+     "SME bands (2)",
+     "SME tax computation (2)"
+    ],
+    "ms": [
+     "Kadar dan cukai syarikat besar (2)",
+     "Kadar PKS (2)",
+     "Pengiraan cukai PKS (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Resident company",
+   "Syarikat residen"
+  ],
+  [
+   "Management and control",
+   "Pengurusan dan kawalan"
+  ],
+  [
+   "Adjusted income",
+   "Pendapatan diselaraskan"
+  ],
+  [
+   "Statutory income",
+   "Pendapatan berkanun"
+  ],
+  [
+   "Aggregate income",
+   "Pendapatan agregat"
+  ],
+  [
+   "Chargeable income",
+   "Pendapatan bercukai"
+  ],
+  [
+   "Non-allowable expense",
+   "Perbelanjaan tidak dibenarkan"
+  ],
+  [
+   "Double deduction",
+   "Potongan berganda"
+  ],
+  [
+   "Capital allowance",
+   "Elaun modal"
+  ],
+  [
+   "Approved donation",
+   "Derma diluluskan"
+  ],
+  [
+   "SME",
+   "PKS"
+  ],
+  [
+   "Prohibited deduction",
+   "Potongan dilarang"
+  ]
+ ]
+}

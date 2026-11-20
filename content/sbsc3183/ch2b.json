@@ -1,0 +1,1095 @@
+{
+ "subject": {
+  "id": "sbsc3183",
+  "code": "SBSC3183",
+  "name": {
+   "en": "Taxation 2",
+   "ms": "Percukaian 2"
+  }
+ },
+ "id": "ch2b",
+ "num": 3,
+ "title": {
+  "en": "Agriculture Allowance",
+  "ms": "Elaun Pertanian"
+ },
+ "standard": "Chapter 2B",
+ "outcomes": {
+  "en": [
+   "Define agriculture and identify qualifying agriculture expenditure",
+   "State what is not qualifying (land, plant and machinery, non-qualifying activity)",
+   "Explain eligibility to claim agriculture allowance",
+   "Apportion allowances between transmitter and recipient on disposal",
+   "Compute agriculture charges and apply the election to spread"
+  ],
+  "ms": [
+   "Takrifkan pertanian dan kenal pasti perbelanjaan pertanian layak",
+   "Nyatakan apa yang tidak layak (tanah, loji dan jentera, aktiviti tidak layak)",
+   "Terangkan kelayakan menuntut elaun pertanian",
+   "Agihkan elaun antara pemindah dan penerima semasa pelupusan",
+   "Hitung caj pertanian dan gunakan pilihan untuk menyebar"
+  ]
+ },
+ "sections": [
+  {
+   "id": "intro",
+   "icon": "🌱",
+   "title": {
+    "en": "Introduction and Definition",
+    "ms": "Pengenalan dan Takrif"
+   },
+   "ref": "Slides 2–4",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "A person who incurs qualifying agriculture expenditure for an agriculture business is given agriculture allowance, set off against adjusted income from that agriculture business to arrive at statutory income.",
+     "ms": "Orang yang menanggung perbelanjaan pertanian layak untuk perniagaan pertanian diberi elaun pertanian, ditolak daripada pendapatan diselaraskan perniagaan pertanian itu untuk mendapat pendapatan berkanun."
+    },
+    {
+     "k": "p",
+     "en": "Agriculture means any form of cultivation of crops, animal farming, aquaculture, inland fishing and any other agricultural or pastoral pursuit, including reafforestation of timber.",
+     "ms": "Pertanian bermaksud sebarang bentuk penanaman tanaman, penternakan haiwan, akuakultur, perikanan darat dan sebarang kegiatan pertanian atau pastoral lain, termasuk penghutanan semula balak."
+    },
+    {
+     "k": "note",
+     "en": "Slide 4 has no readable text (a figure). It probably listed the qualifying expenditure and rates, so the rates below are taken from the lecturer’s worked answers, not the slides.",
+     "ms": "Slaid 4 tiada teks yang boleh dibaca (rajah). Ia mungkin menyenaraikan perbelanjaan layak dan kadar, jadi kadar di bawah diambil daripada jawapan kerja pensyarah, bukan slaid."
+    }
+   ]
+  },
+  {
+   "id": "nqe",
+   "icon": "🚫",
+   "title": {
+    "en": "Non-Qualifying Expenditure and Eligibility",
+    "ms": "Perbelanjaan Tidak Layak dan Kelayakan"
+   },
+   "ref": "Slides 5–6",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Non-qualifying",
+       "Why"
+      ],
+      "ms": [
+       "Tidak layak",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Cost of land",
+        "Cost of acquiring plantation land is not qualifying agriculture expenditure"
+       ],
+       "ms": [
+        "Kos tanah",
+        "Kos memperoleh tanah ladang bukan perbelanjaan pertanian layak"
+       ]
+      },
+      {
+       "en": [
+        "Plant and machinery",
+        "Machinery used on the farm is claimed under capital allowance for plant and machinery"
+       ],
+       "ms": [
+        "Loji dan jentera",
+        "Jentera di ladang dituntut di bawah elaun modal loji dan jentera"
+       ]
+      },
+      {
+       "en": [
+        "Non-qualifying activity",
+        "Something that is not a farm or plantation, such as a nursery"
+       ],
+       "ms": [
+        "Aktiviti tidak layak",
+        "Sesuatu yang bukan ladang atau estet, seperti taman semaian"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Eligibility",
+     "ms": "Kelayakan"
+    },
+    {
+     "k": "p",
+     "en": "At the end of the basis period the person must be the owner of the asset, and the asset must be in use for the business.",
+     "ms": "Pada akhir tempoh asas, orang itu mesti pemilik aset, dan aset mesti digunakan untuk perniagaan."
+    }
+   ]
+  },
+  {
+   "id": "rates",
+   "icon": "📊",
+   "title": {
+    "en": "Rates Seen in the Worked Answers",
+    "ms": "Kadar dalam Jawapan Kerja"
+   },
+   "ref": "Lecturer’s Example Q1, Q4",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Expenditure",
+       "Rate",
+       "Status"
+      ],
+      "ms": [
+       "Perbelanjaan",
+       "Kadar",
+       "Status"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Clearing land for cultivation",
+        "50%",
+        "Qualifies"
+       ],
+       "ms": [
+        "Membersihkan tanah untuk penanaman",
+        "50%",
+        "Layak"
+       ]
+      },
+      {
+       "en": [
+        "First planting of seedlings",
+        "50%",
+        "Qualifies"
+       ],
+       "ms": [
+        "Penanaman pertama anak benih",
+        "50%",
+        "Layak"
+       ]
+      },
+      {
+       "en": [
+        "Construction of a bridge",
+        "50%",
+        "Qualifies"
+       ],
+       "ms": [
+        "Pembinaan jambatan",
+        "50%",
+        "Layak"
+       ]
+      },
+      {
+       "en": [
+        "Mill; shed for farm tools; office container",
+        "10%",
+        "Qualifies"
+       ],
+       "ms": [
+        "Kilang (mill); bangsal alat ladang; kontena pejabat",
+        "10%",
+        "Layak"
+       ]
+      },
+      {
+       "en": [
+        "Worker accommodation on the farm",
+        "20%",
+        "Qualifies"
+       ],
+       "ms": [
+        "Penginapan pekerja di ladang",
+        "20%",
+        "Layak"
+       ]
+      },
+      {
+       "en": [
+        "Land",
+        "—",
+        "Nil (non-qualifying)"
+       ],
+       "ms": [
+        "Tanah",
+        "—",
+        "Sifar (tidak layak)"
+       ]
+      },
+      {
+       "en": [
+        "Residential house of a senior manager in town, 10 km from the farm",
+        "—",
+        "Nil (not on the farm)"
+       ],
+       "ms": [
+        "Rumah kediaman pengurus kanan di bandar, 10 km dari ladang",
+        "—",
+        "Sifar (bukan di ladang)"
+       ]
+      },
+      {
+       "en": [
+        "Replanting of seedlings",
+        "—",
+        "Nil in the answer (shown as non-qualifying)"
+       ],
+       "ms": [
+        "Penanaman semula anak benih",
+        "—",
+        "Sifar dalam jawapan (ditunjuk tidak layak)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Rates and the treatment of replanting and the senior manager’s house are inferred from the lecturer’s answer to BioBloom Farm; no reasons are written in the answer sheet. Rates are also not printed on the slides we could read.",
+     "ms": "Kadar dan layanan penanaman semula serta rumah pengurus kanan disimpulkan daripada jawapan pensyarah bagi BioBloom Farm; tiada sebab ditulis pada lembaran jawapan. Kadar juga tidak tercetak pada slaid yang dapat dibaca."
+    },
+    {
+     "k": "tip",
+     "en": "BioBloom Farm: YA2023 = mill 30,000 + clearing 5,000 + planting 4,000 = RM39,000. YA2024 adds bridge 30,000, shed 1,200 and worker accommodation 28,000, so the total is RM98,200 (the mill, clearing and planting continue at the same amounts).",
+     "ms": "BioBloom Farm: YA2023 = kilang 30,000 + pembersihan 5,000 + penanaman 4,000 = RM39,000. YA2024 menambah jambatan 30,000, bangsal 1,200 dan penginapan pekerja 28,000, jadi jumlahnya RM98,200 (kilang, pembersihan dan penanaman diteruskan pada amaun sama)."
+    }
+   ]
+  },
+  {
+   "id": "disp",
+   "icon": "🔀",
+   "title": {
+    "en": "Disposal: Transmitter and Recipient",
+    "ms": "Pelupusan: Pemindah dan Penerima"
+   },
+   "ref": "Slide 7; Example Q9",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Party",
+       "Treatment"
+      ],
+      "ms": [
+       "Pihak",
+       "Layanan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Transmitter (seller)",
+        "Claims agriculture allowance up to the date of disposal in the YA of disposal, if the asset was in use 1 month before disposal; apportioned = days owned before transfer ÷ 365 × allowance"
+       ],
+       "ms": [
+        "Pemindah (penjual)",
+        "Menuntut elaun pertanian hingga tarikh pelupusan dalam YA pelupusan, jika aset digunakan 1 bulan sebelum pelupusan; agihan = hari dimiliki sebelum pindah ÷ 365 × elaun"
+       ]
+      },
+      {
+       "en": [
+        "Recipient (buyer)",
+        "Entitled to the remaining allowance that the transmitter would have had; must claim in respect of the same YA as the transmitter’s apportioned claim"
+       ],
+       "ms": [
+        "Penerima (pembeli)",
+        "Berhak ke atas baki elaun yang akan dimiliki pemindah; mesti menuntut bagi YA yang sama dengan tuntutan agihan pemindah"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Hijau Sdn Bhd (lecturer’s Q9): 3 of 6 worker quarters (20% of RM40,000 = RM8,000 a year) sold on 30.9.2026, year end 31 Dec. Days from 1 Jan to 30 Sep = 273, so transmitter’s YA2026 allowance on those units = 273/365 × 8,000 = RM5,984, leaving RM2,016 for the buyer if the buyer’s year-end gives the remainder in that YA.",
+     "ms": "Hijau Sdn Bhd (S9 pensyarah): 3 daripada 6 kuarters pekerja (20% × RM40,000 = RM8,000 setahun) dijual pada 30.9.2026, akhir tahun 31 Dis. Hari dari 1 Jan hingga 30 Sep = 273, jadi elaun YA2026 pemindah atas unit itu = 273/365 × 8,000 = RM5,984, meninggalkan RM2,016 untuk pembeli jika akhir tahun pembeli memberi baki dalam YA itu."
+    },
+    {
+     "k": "note",
+     "en": "The answer sheet shows the buyer’s RM2,016 against the transmitter’s year-end 31 Dec case and separately a 92-day split (RM2,016 allowance) for a 30 June year-end. I could not reconcile which figure belongs to which case, so treat the RM5,984 / RM2,016 split as an illustration of the formula and confirm the exact buyer figure with your lecturer.",
+     "ms": "Lembaran jawapan menunjukkan RM2,016 pembeli bagi kes akhir tahun pemindah 31 Dis dan berasingan pembahagian 92 hari (elaun RM2,016) bagi akhir tahun 30 Jun. Saya tidak dapat menyelaraskan angka mana milik kes mana, jadi anggap pembahagian RM5,984 / RM2,016 sebagai gambaran formula dan sahkan angka pembeli yang tepat dengan pensyarah."
+    }
+   ]
+  },
+  {
+   "id": "charge",
+   "icon": "⚠️",
+   "title": {
+    "en": "Agriculture Charge and Election to Spread",
+    "ms": "Caj Pertanian dan Pilihan Menyebar"
+   },
+   "ref": "Slides 8–9; Example Q1, Q6",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "An agriculture charge arises when an asset on which agriculture allowance has been claimed is disposed of within 5 years, or when it is disposed of after the business ceases.",
+     "ms": "Caj pertanian timbul apabila aset yang telah dituntut elaun pertanian dilupuskan dalam tempoh 5 tahun, atau dilupuskan selepas perniagaan berhenti."
+    },
+    {
+     "k": "p",
+     "en": "Under para 27 Schedule 3 ITA a person may elect to have the charge spread evenly over the years in which the allowances were claimed.",
+     "ms": "Di bawah para 27 Jadual 3 ITA seseorang boleh memilih supaya caj disebar sama rata ke atas tahun-tahun elaun dituntut."
+    },
+    {
+     "k": "flow",
+     "en": [
+      "Add all allowances claimed, including the part-year apportioned allowance in the disposal year",
+      "No election: the whole charge falls in the YA of disposal",
+      "Election: divide the total by the number of YAs in which allowances were claimed"
+     ],
+     "ms": [
+      "Tambah semua elaun yang dituntut, termasuk elaun agihan separa tahun dalam tahun pelupusan",
+      "Tiada pilihan: seluruh caj jatuh dalam YA pelupusan",
+      "Pilihan: bahagikan jumlah dengan bilangan YA elaun dituntut"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Example",
+       "Working",
+       "Charge"
+      ],
+      "ms": [
+       "Contoh",
+       "Pengiraan",
+       "Caj"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "BioBloom Farm: mill (RM300,000 at 10%) sold 10 Jan 2026",
+        "30,000 × 3 (YA2023–25) + 10/365 × 30,000 (822)",
+        "RM90,822"
+       ],
+       "ms": [
+        "BioBloom Farm: kilang (RM300,000 pada 10%) dijual 10 Jan 2026",
+        "30,000 × 3 (YA2023–25) + 10/365 × 30,000 (822)",
+        "RM90,822"
+       ]
+      },
+      {
+       "en": [
+        "Same mill sold in 2030",
+        "Disposal after 5 years",
+        "No charge"
+       ],
+       "ms": [
+        "Kilang yang sama dijual pada 2030",
+        "Pelupusan selepas 5 tahun",
+        "Tiada caj"
+       ]
+      },
+      {
+       "en": [
+        "Hibiscus Sdn Bhd (Q6): 6 units, RM80,000, 20% = 16,000 a year; sold 30.9.2026",
+        "Allowances 16,000 × 3 + 273/365 × 16,000 = 59,967.12 (no election)",
+        "RM59,967.12"
+       ],
+       "ms": [
+        "Hibiscus Sdn Bhd (S6): 6 unit, RM80,000, 20% = 16,000 setahun; dijual 30.9.2026",
+        "Elaun 16,000 × 3 + 273/365 × 16,000 = 59,967.12 (tiada pilihan)",
+        "RM59,967.12"
+       ]
+      },
+      {
+       "en": [
+        "Same, with election",
+        "59,967.12 ÷ 4 YAs",
+        "RM14,991.78 a year"
+       ],
+       "ms": [
+        "Sama, dengan pilihan",
+        "59,967.12 ÷ 4 YA",
+        "RM14,991.78 setahun"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The 273 days (1 Jan–30 Sep) assume Hibiscus’s 31 December year-end. The answer sheet also works the buyer’s allowance for 30 June and 30 November year-ends; I have not reproduced those.",
+     "ms": "273 hari (1 Jan–30 Sep) mengandaikan akhir tahun Hibiscus 31 Disember. Lembaran jawapan juga mengira elaun pembeli bagi akhir tahun 30 Jun dan 30 Nov; saya tidak mengulanginya."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "intro",
+   "q": {
+    "en": "What is agriculture allowance set against?",
+    "ms": "Elaun pertanian ditolak daripada apa?"
+   },
+   "a": {
+    "en": "Adjusted income from the agriculture business, to arrive at statutory income.",
+    "ms": "Pendapatan diselaraskan perniagaan pertanian, untuk mendapat pendapatan berkanun."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "intro",
+   "q": {
+    "en": "Define agriculture.",
+    "ms": "Takrifkan pertanian."
+   },
+   "a": {
+    "en": "Cultivation of crops, animal farming, aquaculture, inland fishing, any other agricultural/pastoral pursuit, including reafforestation of timber.",
+    "ms": "Penanaman tanaman, penternakan haiwan, akuakultur, perikanan darat, kegiatan pertanian/pastoral lain, termasuk penghutanan semula balak."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "nqe",
+   "q": {
+    "en": "Three kinds of non-qualifying agriculture expenditure?",
+    "ms": "Tiga jenis perbelanjaan pertanian tidak layak?"
+   },
+   "a": {
+    "en": "Cost of land; plant and machinery; non-qualifying activity such as a nursery.",
+    "ms": "Kos tanah; loji dan jentera; aktiviti tidak layak seperti taman semaian."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "nqe",
+   "q": {
+    "en": "Which allowance covers machinery on a farm?",
+    "ms": "Elaun mana meliputi jentera di ladang?"
+   },
+   "a": {
+    "en": "Capital allowance for plant and machinery.",
+    "ms": "Elaun modal loji dan jentera."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "nqe",
+   "q": {
+    "en": "Eligibility to claim?",
+    "ms": "Kelayakan menuntut?"
+   },
+   "a": {
+    "en": "Owner at the end of the basis period and the asset in use for the business.",
+    "ms": "Pemilik pada akhir tempoh asas dan aset digunakan untuk perniagaan."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "rates",
+   "q": {
+    "en": "Rate for land clearing and first planting in the answers?",
+    "ms": "Kadar pembersihan tanah dan penanaman pertama dalam jawapan?"
+   },
+   "a": {
+    "en": "50%.",
+    "ms": "50%."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "rates",
+   "q": {
+    "en": "Rate for worker accommodation on the farm?",
+    "ms": "Kadar penginapan pekerja di ladang?"
+   },
+   "a": {
+    "en": "20%.",
+    "ms": "20%."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "rates",
+   "q": {
+    "en": "Rate for a mill or farm tool shed?",
+    "ms": "Kadar kilang atau bangsal alat ladang?"
+   },
+   "a": {
+    "en": "10%.",
+    "ms": "10%."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "rates",
+   "q": {
+    "en": "BioBloom YA2023 total allowance?",
+    "ms": "Jumlah elaun BioBloom YA2023?"
+   },
+   "a": {
+    "en": "RM39,000 (mill 30,000, clearing 5,000, planting 4,000).",
+    "ms": "RM39,000 (kilang 30,000, pembersihan 5,000, penanaman 4,000)."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "rates",
+   "q": {
+    "en": "BioBloom YA2024 total allowance?",
+    "ms": "Jumlah elaun BioBloom YA2024?"
+   },
+   "a": {
+    "en": "RM98,200.",
+    "ms": "RM98,200."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "disp",
+   "q": {
+    "en": "Transmitter’s allowance in the disposal YA?",
+    "ms": "Elaun pemindah dalam YA pelupusan?"
+   },
+   "a": {
+    "en": "Claimed to date of disposal if in use 1 month before; days owned ÷ 365 × allowance.",
+    "ms": "Dituntut hingga tarikh pelupusan jika digunakan 1 bulan sebelum; hari dimiliki ÷ 365 × elaun."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "disp",
+   "q": {
+    "en": "What may the recipient claim?",
+    "ms": "Apa yang boleh dituntut penerima?"
+   },
+   "a": {
+    "en": "The remaining allowance the transmitter would have had, in the same YA as the transmitter’s claim.",
+    "ms": "Baki elaun yang akan dimiliki pemindah, dalam YA yang sama dengan tuntutan pemindah."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "charge",
+   "q": {
+    "en": "When does an agriculture charge arise?",
+    "ms": "Bila caj pertanian timbul?"
+   },
+   "a": {
+    "en": "Disposal within 5 years, or disposal after the business ceases.",
+    "ms": "Pelupusan dalam 5 tahun, atau pelupusan selepas perniagaan berhenti."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "charge",
+   "q": {
+    "en": "What does the para 27 election do?",
+    "ms": "Apa yang dilakukan pilihan para 27?"
+   },
+   "a": {
+    "en": "Spreads the charge evenly over the years in which allowances were claimed.",
+    "ms": "Menyebar caj sama rata ke atas tahun elaun dituntut."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "charge",
+   "q": {
+    "en": "BioBloom mill sold 10 Jan 2026: charge?",
+    "ms": "Kilang BioBloom dijual 10 Jan 2026: caj?"
+   },
+   "a": {
+    "en": "RM90,822 (30,000 × 3 + 822).",
+    "ms": "RM90,822 (30,000 × 3 + 822)."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "charge",
+   "q": {
+    "en": "Mill sold in 2030 (claimed from 2023)?",
+    "ms": "Kilang dijual 2030 (dituntut dari 2023)?"
+   },
+   "a": {
+    "en": "No charge: more than 5 years.",
+    "ms": "Tiada caj: lebih 5 tahun."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "charge",
+   "q": {
+    "en": "Hibiscus: charge with election?",
+    "ms": "Hibiscus: caj dengan pilihan?"
+   },
+   "a": {
+    "en": "RM59,967.12 ÷ 4 = RM14,991.78 a year.",
+    "ms": "RM59,967.12 ÷ 4 = RM14,991.78 setahun."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "intro",
+   "q": {
+    "en": "Agriculture allowance is set against:",
+    "ms": "Elaun pertanian ditolak daripada:"
+   },
+   "o": [
+    "Gross income",
+    "Adjusted income from the agriculture business",
+    "Dividend income only",
+    "Rental income"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 2.",
+    "ms": "Slaid 2."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "intro",
+   "q": {
+    "en": "Which is included in the definition of agriculture?",
+    "ms": "Yang mana termasuk dalam takrif pertanian?"
+   },
+   "o": [
+    "Banking",
+    "Retail trading",
+    "Manufacturing",
+    "Aquaculture"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 3.",
+    "ms": "Slaid 3."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "nqe",
+   "q": {
+    "en": "Which is NOT qualifying agriculture expenditure?",
+    "ms": "Yang mana BUKAN perbelanjaan pertanian layak?"
+   },
+   "o": [
+    "Cost of land",
+    "Clearing land",
+    "Planting",
+    "Worker accommodation"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "nqe",
+   "q": {
+    "en": "Machinery on a plantation is claimed under:",
+    "ms": "Jentera di estet dituntut di bawah:"
+   },
+   "o": [
+    "IBA",
+    "Agriculture allowance",
+    "Capital allowance",
+    "Double deduction"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "nqe",
+   "q": {
+    "en": "A nursery is:",
+    "ms": "Taman semaian ialah:"
+   },
+   "o": [
+    "Always IB",
+    "A qualifying farm",
+    "A non-qualifying activity",
+    "Exempt"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "nqe",
+   "q": {
+    "en": "To claim, the person must at the end of the basis period:",
+    "ms": "Untuk menuntut, orang itu pada akhir tempoh asas mesti:"
+   },
+   "o": [
+    "Own the asset and have it in use",
+    "Have sold it",
+    "Have leased it out",
+    "Have fully depreciated it"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 6.",
+    "ms": "Slaid 6."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "rates",
+   "q": {
+    "en": "BioBloom YA2023 allowance is:",
+    "ms": "Elaun BioBloom YA2023:"
+   },
+   "o": [
+    "RM30,000",
+    "RM98,200",
+    "RM64,000",
+    "RM39,000"
+   ],
+   "a": 3,
+   "e": {
+    "en": "30,000 + 5,000 + 4,000.",
+    "ms": "30,000 + 5,000 + 4,000."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "rates",
+   "q": {
+    "en": "Worker accommodation of RM140,000 at 20% gives:",
+    "ms": "Penginapan pekerja RM140,000 pada 20% memberi:"
+   },
+   "o": [
+    "RM14,000",
+    "RM28,000",
+    "RM70,000",
+    "RM1,400"
+   ],
+   "a": 1,
+   "e": {
+    "en": "140,000 × 20%.",
+    "ms": "140,000 × 20%."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "rates",
+   "q": {
+    "en": "A residential house for a senior manager 10 km from the farm gives:",
+    "ms": "Rumah kediaman pengurus kanan 10 km dari ladang memberi:"
+   },
+   "o": [
+    "20% allowance",
+    "Nil allowance",
+    "50% allowance",
+    "10% allowance"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Not on the farm: nil in the answer.",
+    "ms": "Bukan di ladang: sifar dalam jawapan."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "disp",
+   "q": {
+    "en": "Transmitter’s days-owned apportionment uses:",
+    "ms": "Pengagihan hari dimiliki pemindah menggunakan:"
+   },
+   "o": [
+    "Cost ÷ 5",
+    "Months ÷ 12 × cost",
+    "Disposal value × 10%",
+    "Days owned ÷ 365 × allowance"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 7.",
+    "ms": "Slaid 7."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "disp",
+   "q": {
+    "en": "A transmitter may claim up to the disposal date if the asset was in use:",
+    "ms": "Pemindah boleh menuntut hingga tarikh pelupusan jika aset digunakan:"
+   },
+   "o": [
+    "1 month before disposal",
+    "1 year before",
+    "6 months before",
+    "On the last day only"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 7.",
+    "ms": "Slaid 7."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "disp",
+   "q": {
+    "en": "Which YA does the recipient claim in?",
+    "ms": "Penerima menuntut dalam YA mana?"
+   },
+   "o": [
+    "Any YA",
+    "Next YA",
+    "Same YA as the transmitter’s apportioned claim",
+    "None"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 7.",
+    "ms": "Slaid 7."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "charge",
+   "q": {
+    "en": "An agriculture charge arises on disposal within:",
+    "ms": "Caj pertanian timbul atas pelupusan dalam:"
+   },
+   "o": [
+    "10 years",
+    "2 years",
+    "5 years",
+    "1 year"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "charge",
+   "q": {
+    "en": "Disposal after 5 years (business continuing):",
+    "ms": "Pelupusan selepas 5 tahun (perniagaan diteruskan):"
+   },
+   "o": [
+    "No agriculture charge",
+    "Charge of 50%",
+    "Full charge",
+    "Double charge"
+   ],
+   "a": 0,
+   "e": {
+    "en": "BioBloom Q1(c).",
+    "ms": "BioBloom S1(c)."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "charge",
+   "q": {
+    "en": "The para 27 election lets the taxpayer:",
+    "ms": "Pilihan para 27 membolehkan pembayar cukai:"
+   },
+   "o": [
+    "Delay the sale",
+    "Avoid the charge",
+    "Double the allowance",
+    "Spread the charge over the years allowances were claimed"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "charge",
+   "q": {
+    "en": "BioBloom’s mill charge is:",
+    "ms": "Caj kilang BioBloom:"
+   },
+   "o": [
+    "RM120,000",
+    "RM90,822",
+    "RM30,000",
+    "RM180,000"
+   ],
+   "a": 1,
+   "e": {
+    "en": "30,000 × 3 + 822.",
+    "ms": "30,000 × 3 + 822."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "charge",
+   "q": {
+    "en": "Hibiscus total allowances of RM59,967.12 spread over 4 years:",
+    "ms": "Jumlah elaun Hibiscus RM59,967.12 disebar 4 tahun:"
+   },
+   "o": [
+    "RM59,967.12",
+    "RM14,991.78",
+    "RM19,989.04",
+    "RM11,967.12"
+   ],
+   "a": 1,
+   "e": {
+    "en": "59,967.12 ÷ 4.",
+    "ms": "59,967.12 ÷ 4."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "charge",
+   "q": {
+    "en": "Maroon’s total of 8,000 + 8,000 + 636 = 16,636 spread over 3 years is about:",
+    "ms": "Jumlah Maroon 8,000 + 8,000 + 636 = 16,636 disebar 3 tahun lebih kurang:"
+   },
+   "o": [
+    "RM4,159",
+    "RM8,318",
+    "RM16,636",
+    "RM5,545"
+   ],
+   "a": 3,
+   "e": {
+    "en": "16,636 ÷ 3.",
+    "ms": "16,636 ÷ 3."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "nqe",
+   "marks": 4,
+   "q": {
+    "en": "Explain what is not qualifying agriculture expenditure and the eligibility to claim.",
+    "ms": "Terangkan perbelanjaan pertanian tidak layak dan kelayakan menuntut."
+   },
+   "pts": {
+    "en": [
+     "Cost of land (1)",
+     "Plant and machinery under capital allowance (1)",
+     "Non-qualifying activity (1)",
+     "Ownership and use at end of basis period (1)"
+    ],
+    "ms": [
+     "Kos tanah (1)",
+     "Loji dan jentera di bawah elaun modal (1)",
+     "Aktiviti tidak layak (1)",
+     "Pemilikan dan penggunaan pada akhir tempoh asas (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "rates",
+   "marks": 6,
+   "q": {
+    "en": "Compute BioBloom Farm’s agriculture allowances for YA2023 and YA2024 (items listed in the table of rates).",
+    "ms": "Hitung elaun pertanian BioBloom Farm bagi YA2023 dan YA2024 (item dalam jadual kadar)."
+   },
+   "pts": {
+    "en": [
+     "Identify non-qualifying items (2)",
+     "YA2023 computation (2)",
+     "YA2024 computation (2)"
+    ],
+    "ms": [
+     "Kenal pasti item tidak layak (2)",
+     "Pengiraan YA2023 (2)",
+     "Pengiraan YA2024 (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "disp",
+   "marks": 4,
+   "q": {
+    "en": "Explain how allowances are apportioned between the transmitter and the recipient.",
+    "ms": "Terangkan bagaimana elaun diagihkan antara pemindah dan penerima."
+   },
+   "pts": {
+    "en": [
+     "Transmitter formula (2)",
+     "One-month use condition (1)",
+     "Recipient’s remaining allowance (1)"
+    ],
+    "ms": [
+     "Formula pemindah (2)",
+     "Syarat guna sebulan (1)",
+     "Baki elaun penerima (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "charge",
+   "marks": 6,
+   "q": {
+    "en": "Explain the agriculture charge, the 5-year rule and the election to spread, with the BioBloom mill example.",
+    "ms": "Terangkan caj pertanian, peraturan 5 tahun dan pilihan menyebar, dengan contoh kilang BioBloom."
+   },
+   "pts": {
+    "en": [
+     "When a charge arises (2)",
+     "Computation RM90,822 (2)",
+     "Effect of election (1)",
+     "No charge after 5 years (1)"
+    ],
+    "ms": [
+     "Bila caj timbul (2)",
+     "Pengiraan RM90,822 (2)",
+     "Kesan pilihan (1)",
+     "Tiada caj selepas 5 tahun (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Agriculture allowance",
+   "Elaun pertanian"
+  ],
+  [
+   "Qualifying agriculture expenditure",
+   "Perbelanjaan pertanian layak"
+  ],
+  [
+   "Agriculture charge",
+   "Caj pertanian"
+  ],
+  [
+   "Transmitter",
+   "Pemindah"
+  ],
+  [
+   "Recipient",
+   "Penerima"
+  ],
+  [
+   "Apportionment",
+   "Pengagihan"
+  ],
+  [
+   "Election to spread",
+   "Pilihan menyebar"
+  ],
+  [
+   "Reafforestation",
+   "Penghutanan semula"
+  ]
+ ]
+}
