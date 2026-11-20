@@ -1,0 +1,1226 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch15",
+ "num": 15,
+ "title": {
+  "en": "Writing and Completing Reports and Proposals",
+  "ms": "Menulis dan Melengkapkan Laporan dan Cadangan"
+ },
+ "standard": "Bovee Ch 15",
+ "outcomes": {
+  "en": [
+   "Explain how to adapt to your audiences when writing reports and proposals",
+   "Name five characteristics of effective report content and list topics in the introduction, body and close",
+   "List six strategies to strengthen a proposal and topics in the introduction, body and close of proposals",
+   "Summarise the four tasks in completing business reports and proposals",
+   "Identify the elements to include in a request for proposals (RFP)"
+  ],
+  "ms": [
+   "Terangkan cara menyesuaikan dengan audiens semasa menulis laporan dan cadangan",
+   "Namakan lima ciri kandungan laporan berkesan dan topik dalam pengenalan, isi dan penutup",
+   "Senaraikan enam strategi memperkukuh cadangan dan topik dalam pengenalan, isi dan penutup cadangan",
+   "Ringkaskan empat tugas melengkapkan laporan dan cadangan perniagaan",
+   "Kenal pasti elemen dalam permintaan cadangan (RFP)"
+  ]
+ },
+ "sections": [
+  {
+   "id": "adapt",
+   "icon": "🧑‍💼",
+   "title": {
+    "en": "Adapting to Your Audience",
+    "ms": "Menyesuaikan dengan Audiens"
+   },
+   "ref": "Slides 4–8",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Being sensitive to audience needs",
+     "ms": "Peka terhadap keperluan audiens"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "The “you” attitude",
+      "Maintaining etiquette",
+      "Emphasising the positive",
+      "Using bias-free language"
+     ],
+     "ms": [
+      "Sikap “you”",
+      "Mengekalkan etiket",
+      "Menekankan yang positif",
+      "Menggunakan bahasa bebas bias"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Guiding your readers",
+     "ms": "Membimbing pembaca"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Headings",
+      "Transitions",
+      "Preview sections",
+      "Review sections"
+     ],
+     "ms": [
+      "Tajuk",
+      "Peralihan",
+      "Bahagian pratonton",
+      "Bahagian ulang kaji"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Style and tone",
+     "ms": "Gaya dan nada"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Informal tone",
+       "Formal tone"
+      ],
+      "ms": [
+       "Nada tidak formal",
+       "Nada formal"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Known audience; message meets audience’s approval; use first- and third-person style",
+        "Complex and longer reports; message sent to outsiders; use objective journalism style"
+       ],
+       "ms": [
+        "Audiens dikenali; mesej diterima audiens; gaya orang pertama dan ketiga",
+        "Laporan kompleks dan panjang; mesej kepada pihak luar; gaya kewartawanan objektif"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 8 lays these out in columns without clear pairing. The grouping above is my reading.",
+     "ms": "Slaid 8 menyusun dalam lajur tanpa pasangan jelas. Pengelompokan di atas ialah bacaan saya."
+    }
+   ]
+  },
+  {
+   "id": "report",
+   "icon": "📊",
+   "title": {
+    "en": "Drafting Report Content",
+    "ms": "Merangka Kandungan Laporan"
+   },
+   "ref": "Slides 10–14",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Formal reports have **three main sections**: the **introduction**, the **body** and the **close**.",
+     "ms": "Laporan formal ada **tiga bahagian utama**: **pengenalan**, **isi** dan **penutup**."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Section",
+       "Role"
+      ],
+      "ms": [
+       "Bahagian",
+       "Peranan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Introduction",
+        "Helps the reader understand the context; introduces the subject and why it is important; previews the main idea; establishes tone and the writer’s relationship to the audience"
+       ],
+       "ms": [
+        "Pengenalan",
+        "Bantu pembaca fahami konteks; perkenal subjek dan kepentingannya; pratonton idea utama; tetapkan nada dan hubungan penulis dengan audiens"
+       ]
+      },
+      {
+       "en": [
+        "Body",
+        "Presents, analyses, interprets and supports"
+       ],
+       "ms": [
+        "Isi",
+        "Membentang, menganalisis, mentafsir dan menyokong"
+       ]
+      },
+      {
+       "en": [
+        "Close",
+        "Summarises key points; emphasises benefits; brings all action items together"
+       ],
+       "ms": [
+        "Penutup",
+        "Ringkas poin utama; tekankan manfaat; himpun semua item tindakan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Five characteristics of effective report content",
+     "ms": "Lima ciri kandungan laporan berkesan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Accurate",
+      "Complete",
+      "Balanced",
+      "Clear and logical",
+      "Documented properly"
+     ],
+     "ms": [
+      "Tepat",
+      "Lengkap",
+      "Seimbang",
+      "Jelas dan logik",
+      "Didokumenkan dengan betul"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proposal",
+   "icon": "📝",
+   "title": {
+    "en": "Drafting Proposal Content",
+    "ms": "Merangka Kandungan Cadangan"
+   },
+   "ref": "Slides 16–20",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Six strategies for a successful proposal",
+     "ms": "Enam strategi cadangan berjaya"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Demonstrate your knowledge",
+      "Provide concrete information and examples",
+      "Research the competition",
+      "Prove that the proposal is workable",
+      "Adopt the “you” attitude",
+      "Package the proposal attractively"
+     ],
+     "ms": [
+      "Tunjuk pengetahuan anda",
+      "Beri maklumat dan contoh konkrit",
+      "Kaji pesaing",
+      "Buktikan cadangan boleh dilaksana",
+      "Guna sikap “you”",
+      "Bungkus cadangan dengan menarik"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Section",
+       "Role"
+      ],
+      "ms": [
+       "Bahagian",
+       "Peranan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Introduction",
+        "Follow instructions for a solicited proposal; present and summarise the problem; propose a solution; refer to the RFP or what led you to submit"
+       ],
+       "ms": [
+        "Pengenalan",
+        "Ikut arahan untuk cadangan solicited; bentang dan ringkas masalah; cadangkan penyelesaian; rujuk RFP atau sebab anda menghantar"
+       ]
+      },
+      {
+       "en": [
+        "Body",
+        "Gives details on the proposed solution; specifies anticipated results; promotes the offering persuasively; maintains an objective tone; avoids overselling"
+       ],
+       "ms": [
+        "Isi",
+        "Beri butiran penyelesaian; nyatakan hasil dijangka; promosi tawaran secara memujuk; nada objektif; elak terlalu menjual"
+       ]
+      },
+      {
+       "en": [
+        "Close",
+        "Summarises key points; emphasises benefits; summarises merits of your approach; restates why you should do the job; asks for a decision; last chance to persuade"
+       ],
+       "ms": [
+        "Penutup",
+        "Ringkas poin utama; tekankan manfaat; ringkas kelebihan pendekatan; ulang kenapa anda patut buat kerja; minta keputusan; peluang akhir memujuk"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 20 is titled “The Body of a Proposal (2 of 2)” but its content describes the close. I treated it as the close.",
+     "ms": "Slaid 20 bertajuk “The Body of a Proposal (2 of 2)” tetapi kandungannya menerangkan penutup. Saya anggap ia penutup."
+    }
+   ]
+  },
+  {
+   "id": "complete",
+   "icon": "✅",
+   "title": {
+    "en": "Completing Reports and Proposals",
+    "ms": "Melengkapkan Laporan dan Cadangan"
+   },
+   "ref": "Slides 22–25",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Four tasks",
+     "ms": "Empat tugas"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Revise",
+      "Produce",
+      "Proofread",
+      "Distribute"
+     ],
+     "ms": [
+      "Semak semula",
+      "Hasilkan",
+      "Semak bukti",
+      "Edarkan"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slides show: revising, producing, distributing, and the LO says four tasks. The textbook’s four tasks are revise, produce, proofread, distribute; “proofread” is not on the slide text, so confirm.",
+     "ms": "Slaid tunjuk: semakan semula, penghasilan, pengedaran, dan LO kata empat tugas. Empat tugas buku teks ialah revise, produce, proofread, distribute; “proofread” tiada dalam teks slaid, jadi sahkan."
+    },
+    {
+     "k": "h",
+     "en": "Revising",
+     "ms": "Menyemak semula"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Evaluate organisation, style and tone",
+      "Ensure content is clear, logical and reader-oriented",
+      "Improve readability",
+      "Review online content carefully"
+     ],
+     "ms": [
+      "Nilai organisasi, gaya dan nada",
+      "Pastikan kandungan jelas, logik dan berorientasikan pembaca",
+      "Tingkat kebolehbacaan",
+      "Semak kandungan dalam talian dengan teliti"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Producing formal reports and proposals (Table 15.2)",
+     "ms": "Menghasilkan laporan dan cadangan formal (Jadual 15.2)"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Prefatory elements",
+       "Supplementary elements"
+      ],
+      "ms": [
+       "Elemen prakata",
+       "Elemen tambahan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Cover; title page; letter of transmittal; table of contents; synopsis or executive summary",
+        "Appendixes; bibliography; indexes; résumés or CVs of key players"
+       ],
+       "ms": [
+        "Kulit; muka judul; surat penghantaran; jadual kandungan; sinopsis atau ringkasan eksekutif",
+        "Lampiran; bibliografi; indeks; resume atau CV pemain utama"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Distributing",
+     "ms": "Mengedar"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Physical: professional courier, in-person delivery",
+      "Digital: PDF for general use, specialised format by request",
+      "Online: web-based CMS, shared workspace"
+     ],
+     "ms": [
+      "Fizikal: kurier profesional, penghantaran secara peribadi",
+      "Digital: PDF untuk kegunaan umum, format khusus atas permintaan",
+      "Dalam talian: CMS berasaskan web, ruang kerja dikongsi"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 24 (Figure 15.2 Executive Summary) is an image.",
+     "ms": "Slaid 24 (Rajah 15.2 Ringkasan Eksekutif) ialah imej."
+    }
+   ]
+  },
+  {
+   "id": "rfp",
+   "icon": "📨",
+   "title": {
+    "en": "Requests for Proposals (RFP)",
+    "ms": "Permintaan Cadangan (RFP)"
+   },
+   "ref": "Slides 27–28",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Elements of an RFP",
+     "ms": "Elemen RFP"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Company background",
+      "Project description",
+      "Requirements",
+      "Decision criteria",
+      "Proposal requirements",
+      "Submission and contact information"
+     ],
+     "ms": [
+      "Latar belakang syarikat",
+      "Huraian projek",
+      "Keperluan",
+      "Kriteria keputusan",
+      "Keperluan cadangan",
+      "Maklumat penghantaran dan hubungan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Managing RFPs",
+     "ms": "Mengurus RFP"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Identify decision criteria",
+      "Allow sufficient response time",
+      "Establish an online tracking system"
+     ],
+     "ms": [
+      "Kenal pasti kriteria keputusan",
+      "Beri masa respons mencukupi",
+      "Wujudkan sistem penjejakan dalam talian"
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "adapt",
+   "q": {
+    "en": "Four ways to be sensitive to audience needs?",
+    "ms": "Empat cara peka terhadap keperluan audiens?"
+   },
+   "a": {
+    "en": "“You” attitude, etiquette, emphasise the positive, bias-free language.",
+    "ms": "Sikap “you”, etiket, tekankan positif, bahasa bebas bias."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "adapt",
+   "q": {
+    "en": "Four ways to guide readers?",
+    "ms": "Empat cara membimbing pembaca?"
+   },
+   "a": {
+    "en": "Headings, transitions, preview sections, review sections.",
+    "ms": "Tajuk, peralihan, bahagian pratonton, bahagian ulang kaji."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "adapt",
+   "q": {
+    "en": "When use an informal tone?",
+    "ms": "Bila guna nada tidak formal?"
+   },
+   "a": {
+    "en": "Known audience and message meets with approval.",
+    "ms": "Audiens dikenali dan mesej diterima."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "adapt",
+   "q": {
+    "en": "When use a formal tone?",
+    "ms": "Bila guna nada formal?"
+   },
+   "a": {
+    "en": "Complex or longer reports and messages sent to outsiders.",
+    "ms": "Laporan kompleks atau panjang dan mesej kepada pihak luar."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "report",
+   "q": {
+    "en": "Three main sections of a formal report?",
+    "ms": "Tiga bahagian utama laporan formal?"
+   },
+   "a": {
+    "en": "Introduction, body, close.",
+    "ms": "Pengenalan, isi, penutup."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "report",
+   "q": {
+    "en": "What does a report introduction do?",
+    "ms": "Apa fungsi pengenalan laporan?"
+   },
+   "a": {
+    "en": "Gives context, introduces the subject and why it matters, previews the main idea, sets tone and relationship.",
+    "ms": "Beri konteks, perkenal subjek dan kepentingan, pratonton idea utama, tetapkan nada."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "report",
+   "q": {
+    "en": "What does the body of a report do?",
+    "ms": "Apa fungsi isi laporan?"
+   },
+   "a": {
+    "en": "Presents, analyses, interprets and supports.",
+    "ms": "Membentang, menganalisis, mentafsir, menyokong."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "report",
+   "q": {
+    "en": "What does the close of a report do?",
+    "ms": "Apa fungsi penutup laporan?"
+   },
+   "a": {
+    "en": "Summarises key points, emphasises benefits, brings action items together.",
+    "ms": "Ringkas poin, tekankan manfaat, himpun item tindakan."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "report",
+   "q": {
+    "en": "Five characteristics of effective report content?",
+    "ms": "Lima ciri kandungan laporan berkesan?"
+   },
+   "a": {
+    "en": "Accurate, complete, balanced, clear and logical, documented properly.",
+    "ms": "Tepat, lengkap, seimbang, jelas dan logik, didokumenkan."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "proposal",
+   "q": {
+    "en": "Six strategies for a proposal argument?",
+    "ms": "Enam strategi hujah cadangan?"
+   },
+   "a": {
+    "en": "Demonstrate knowledge, concrete information, research competition, prove workable, “you” attitude, attractive package.",
+    "ms": "Tunjuk pengetahuan, maklumat konkrit, kaji pesaing, buktikan boleh dilaksana, sikap “you”, bungkus menarik."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "proposal",
+   "q": {
+    "en": "What goes into a proposal introduction?",
+    "ms": "Apa dalam pengenalan cadangan?"
+   },
+   "a": {
+    "en": "Follow instructions, present the problem, propose a solution, refer to the RFP or what led to the proposal.",
+    "ms": "Ikut arahan, bentang masalah, cadang penyelesaian, rujuk RFP."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "proposal",
+   "q": {
+    "en": "What goes in the body of a proposal?",
+    "ms": "Apa dalam isi cadangan?"
+   },
+   "a": {
+    "en": "Details of the solution, anticipated results, persuasive promotion, objective tone, avoid overselling.",
+    "ms": "Butiran penyelesaian, hasil dijangka, promosi memujuk, nada objektif, elak terlalu menjual."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "proposal",
+   "q": {
+    "en": "What goes in the close of a proposal?",
+    "ms": "Apa dalam penutup cadangan?"
+   },
+   "a": {
+    "en": "Summarise key points, emphasise benefits, summarise merits, restate why you, ask for a decision.",
+    "ms": "Ringkas poin, tekankan manfaat, kelebihan, ulang kenapa anda, minta keputusan."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "complete",
+   "q": {
+    "en": "How do you revise reports and proposals?",
+    "ms": "Bagaimana menyemak semula laporan dan cadangan?"
+   },
+   "a": {
+    "en": "Evaluate organisation, style and tone; ensure clear, logical, reader-oriented content; improve readability; review online content.",
+    "ms": "Nilai organisasi, gaya, nada; kandungan jelas, logik; kebolehbacaan; semak kandungan dalam talian."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "complete",
+   "q": {
+    "en": "Prefatory elements of formal reports?",
+    "ms": "Elemen prakata laporan formal?"
+   },
+   "a": {
+    "en": "Cover, title page, letter of transmittal, table of contents, synopsis or executive summary.",
+    "ms": "Kulit, muka judul, surat penghantaran, jadual kandungan, ringkasan eksekutif."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "complete",
+   "q": {
+    "en": "Supplementary elements?",
+    "ms": "Elemen tambahan?"
+   },
+   "a": {
+    "en": "Appendixes, bibliography, indexes, résumés or CVs of key players.",
+    "ms": "Lampiran, bibliografi, indeks, resume/CV pemain utama."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "complete",
+   "q": {
+    "en": "How are reports distributed?",
+    "ms": "Bagaimana laporan diedarkan?"
+   },
+   "a": {
+    "en": "Physical (courier, in person), digital (PDF, specialised format), online (CMS, shared workspace).",
+    "ms": "Fizikal (kurier, peribadi), digital (PDF, format khusus), dalam talian (CMS, ruang kerja)."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "rfp",
+   "q": {
+    "en": "Six elements of an RFP?",
+    "ms": "Enam elemen RFP?"
+   },
+   "a": {
+    "en": "Company background, project description, requirements, decision criteria, proposal requirements, submission and contact information.",
+    "ms": "Latar belakang, huraian projek, keperluan, kriteria keputusan, keperluan cadangan, penghantaran dan hubungan."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "rfp",
+   "q": {
+    "en": "Three RFP management tips?",
+    "ms": "Tiga tip mengurus RFP?"
+   },
+   "a": {
+    "en": "Identify decision criteria, allow sufficient response time, establish online tracking.",
+    "ms": "Kenal pasti kriteria keputusan, masa respons cukup, penjejakan dalam talian."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "adapt",
+   "q": {
+    "en": "Headings and transitions help to:",
+    "ms": "Tajuk dan peralihan membantu:"
+   },
+   "o": [
+    "Hide content",
+    "Guide readers",
+    "Confuse readers",
+    "Shorten report"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 6.",
+    "ms": "Slaid 6."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "adapt",
+   "q": {
+    "en": "A formal tone suits:",
+    "ms": "Nada formal sesuai untuk:"
+   },
+   "o": [
+    "Memes",
+    "Friends",
+    "Quick chats",
+    "Complex and longer reports"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "adapt",
+   "q": {
+    "en": "An informal tone suits:",
+    "ms": "Nada tidak formal sesuai untuk:"
+   },
+   "o": [
+    "A known audience",
+    "Outsiders",
+    "Complex reports",
+    "Legal contracts"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "report",
+   "q": {
+    "en": "A report introduction should:",
+    "ms": "Pengenalan laporan patut:"
+   },
+   "o": [
+    "Hide the subject",
+    "End the report",
+    "Preview the main idea",
+    "Skip context"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 11.",
+    "ms": "Slaid 11."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "report",
+   "q": {
+    "en": "The body of a report:",
+    "ms": "Isi laporan:"
+   },
+   "o": [
+    "Only summarises",
+    "Only thanks",
+    "Presents, analyses, interprets and supports",
+    "Only introduces"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 12.",
+    "ms": "Slaid 12."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "report",
+   "q": {
+    "en": "The close of a report:",
+    "ms": "Penutup laporan:"
+   },
+   "o": [
+    "Brings all action items together",
+    "Introduces",
+    "Hides action",
+    "Adds new data"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "report",
+   "q": {
+    "en": "Which is NOT a characteristic of effective report content?",
+    "ms": "Yang mana BUKAN ciri kandungan laporan berkesan?"
+   },
+   "o": [
+    "Balanced",
+    "Accurate",
+    "Complete",
+    "Biased"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "proposal",
+   "q": {
+    "en": "How many strategies to strengthen a proposal?",
+    "ms": "Berapa strategi memperkukuh cadangan?"
+   },
+   "o": [
+    "Four",
+    "Six",
+    "Eight",
+    "Ten"
+   ],
+   "a": 1,
+   "e": {
+    "en": "LO 15.3.",
+    "ms": "LO 15.3."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "proposal",
+   "q": {
+    "en": "Which strengthens a proposal?",
+    "ms": "Yang mana memperkukuh cadangan?"
+   },
+   "o": [
+    "Hide risks",
+    "Research the competition",
+    "Avoid examples",
+    "Ignore the reader"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "proposal",
+   "q": {
+    "en": "A proposal introduction should refer to:",
+    "ms": "Pengenalan cadangan patut rujuk:"
+   },
+   "o": [
+    "A gift",
+    "A rumour",
+    "A recipe",
+    "The RFP"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 18.",
+    "ms": "Slaid 18."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "proposal",
+   "q": {
+    "en": "A proposal body should avoid:",
+    "ms": "Isi cadangan patut elak:"
+   },
+   "o": [
+    "Overselling",
+    "Details",
+    "Results",
+    "Objectivity"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 19.",
+    "ms": "Slaid 19."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "proposal",
+   "q": {
+    "en": "The close of a proposal should:",
+    "ms": "Penutup cadangan patut:"
+   },
+   "o": [
+    "Apologise",
+    "Give no ask",
+    "Ask for a decision",
+    "Change topic"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 20.",
+    "ms": "Slaid 20."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "complete",
+   "q": {
+    "en": "A cover and title page are:",
+    "ms": "Kulit dan muka judul ialah:"
+   },
+   "o": [
+    "RFP elements",
+    "Supplementary elements",
+    "Prefatory elements",
+    "Appendixes"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "complete",
+   "q": {
+    "en": "Appendixes and bibliography are:",
+    "ms": "Lampiran dan bibliografi ialah:"
+   },
+   "o": [
+    "Supplementary elements",
+    "Prefatory elements",
+    "Titles",
+    "Covers"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "complete",
+   "q": {
+    "en": "A letter of transmittal is:",
+    "ms": "Surat penghantaran ialah elemen:"
+   },
+   "o": [
+    "An index",
+    "Supplementary",
+    "An RFP part",
+    "Prefatory"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "complete",
+   "q": {
+    "en": "PDF is for:",
+    "ms": "PDF untuk:"
+   },
+   "o": [
+    "Never",
+    "General use",
+    "Couriers only",
+    "Printing only"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 25.",
+    "ms": "Slaid 25."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "complete",
+   "q": {
+    "en": "Revising reports includes:",
+    "ms": "Menyemak semula laporan termasuk:"
+   },
+   "o": [
+    "Adding errors",
+    "Improving readability",
+    "Removing structure",
+    "Hiding data"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "rfp",
+   "q": {
+    "en": "Which is an RFP element?",
+    "ms": "Yang mana elemen RFP?"
+   },
+   "o": [
+    "Poems",
+    "Cooking tips",
+    "Holiday plans",
+    "Decision criteria"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "rfp",
+   "q": {
+    "en": "Managing RFPs includes:",
+    "ms": "Mengurus RFP termasuk:"
+   },
+   "o": [
+    "Establishing an online tracking system",
+    "Short deadlines only",
+    "Hiding criteria",
+    "Skipping contact"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 28.",
+    "ms": "Slaid 28."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "rfp",
+   "q": {
+    "en": "RFPs should allow:",
+    "ms": "RFP patut beri:"
+   },
+   "o": [
+    "One hour",
+    "No time",
+    "Sufficient response time",
+    "Unlimited time"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 28.",
+    "ms": "Slaid 28."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "adapt",
+   "marks": 6,
+   "q": {
+    "en": "Explain how to adapt reports and proposals to your audience.",
+    "ms": "Terangkan cara menyesuaikan laporan dan cadangan dengan audiens."
+   },
+   "pts": {
+    "en": [
+     "Sensitivity: “you” attitude, etiquette, positive, bias-free (2)",
+     "Guiding readers: headings, transitions, previews, reviews (2)",
+     "Style and tone: informal vs formal (2)"
+    ],
+    "ms": [
+     "Kepekaan: sikap “you”, etiket, positif, bebas bias (2)",
+     "Membimbing pembaca: tajuk, peralihan, pratonton, ulang kaji (2)",
+     "Gaya dan nada: tidak formal lwn formal (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "report",
+   "marks": 8,
+   "q": {
+    "en": "Describe the introduction, body and close of a formal report and five characteristics of effective content.",
+    "ms": "Huraikan pengenalan, isi dan penutup laporan formal dan lima ciri kandungan berkesan."
+   },
+   "pts": {
+    "en": [
+     "Introduction (2)",
+     "Body (2)",
+     "Close (1)",
+     "Five characteristics (3)"
+    ],
+    "ms": [
+     "Pengenalan (2)",
+     "Isi (2)",
+     "Penutup (1)",
+     "Lima ciri (3)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "proposal",
+   "marks": 8,
+   "q": {
+    "en": "Explain six strategies to strengthen a proposal and the structure of a proposal.",
+    "ms": "Terangkan enam strategi memperkukuh cadangan dan struktur cadangan."
+   },
+   "pts": {
+    "en": [
+     "Six strategies (3)",
+     "Introduction (2)",
+     "Body (2)",
+     "Close (1)"
+    ],
+    "ms": [
+     "Enam strategi (3)",
+     "Pengenalan (2)",
+     "Isi (2)",
+     "Penutup (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "complete",
+   "marks": 8,
+   "q": {
+    "en": "Summarise tasks involved in completing business reports and proposals.",
+    "ms": "Ringkaskan tugas melengkapkan laporan dan cadangan perniagaan."
+   },
+   "pts": {
+    "en": [
+     "Revising (2)",
+     "Producing: prefatory elements (2)",
+     "Producing: supplementary elements (2)",
+     "Distributing (2)"
+    ],
+    "ms": [
+     "Menyemak semula (2)",
+     "Menghasilkan: elemen prakata (2)",
+     "Menghasilkan: elemen tambahan (2)",
+     "Mengedar (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "rfp",
+   "marks": 6,
+   "q": {
+    "en": "Identify the elements to include in an RFP and how to manage RFPs.",
+    "ms": "Kenal pasti elemen dalam RFP dan cara mengurus RFP."
+   },
+   "pts": {
+    "en": [
+     "Six elements (3)",
+     "Decision criteria and response time (2)",
+     "Online tracking (1)"
+    ],
+    "ms": [
+     "Enam elemen (3)",
+     "Kriteria keputusan dan masa respons (2)",
+     "Penjejakan dalam talian (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Report",
+   "Laporan"
+  ],
+  [
+   "Proposal",
+   "Cadangan (proposal)"
+  ],
+  [
+   "RFP",
+   "Permintaan cadangan (RFP)"
+  ],
+  [
+   "Executive summary",
+   "Ringkasan eksekutif"
+  ],
+  [
+   "Letter of transmittal",
+   "Surat penghantaran"
+  ],
+  [
+   "Prefatory elements",
+   "Elemen prakata"
+  ],
+  [
+   "Supplementary elements",
+   "Elemen tambahan"
+  ],
+  [
+   "Appendix",
+   "Lampiran"
+  ],
+  [
+   "Bibliography",
+   "Bibliografi"
+  ],
+  [
+   "Decision criteria",
+   "Kriteria keputusan"
+  ],
+  [
+   "Synopsis",
+   "Sinopsis"
+  ],
+  [
+   "Overselling",
+   "Terlalu menjual"
+  ]
+ ]
+}

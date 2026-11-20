@@ -1,0 +1,1556 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch4",
+ "num": 4,
+ "title": {
+  "en": "Planning Business Messages",
+  "ms": "Merancang Mesej Perniagaan"
+ },
+ "standard": "Bovee Ch 4",
+ "outcomes": {
+  "en": [
+   "Describe the three-step writing process",
+   "Explain why analysing the situation to define purpose and profile the audience matters",
+   "Discuss information-gathering options and three attributes of quality information",
+   "List factors to consider when choosing a medium",
+   "Explain why good organisation matters and list the tasks in organising a message"
+  ],
+  "ms": [
+   "Huraikan proses penulisan tiga langkah",
+   "Terangkan kenapa menganalisis situasi untuk menentukan tujuan dan profil audiens penting",
+   "Bincangkan pilihan mengumpul maklumat dan tiga sifat maklumat berkualiti",
+   "Senaraikan faktor memilih medium",
+   "Terangkan kenapa organisasi baik penting dan senaraikan tugas menyusun mesej"
+  ]
+ },
+ "sections": [
+  {
+   "id": "three",
+   "icon": "🪜",
+   "title": {
+    "en": "The Three-Step Writing Process",
+    "ms": "Proses Penulisan Tiga Langkah"
+   },
+   "ref": "Slides 4–10",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Step",
+       "Tasks"
+      ],
+      "ms": [
+       "Langkah",
+       "Tugas"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1. Plan",
+        "Analyse the situation; gather the information; select the best combination of media and channels; organise the information"
+       ],
+       "ms": [
+        "1. Rancang",
+        "Analisis situasi; kumpul maklumat; pilih gabungan media dan saluran terbaik; susun maklumat"
+       ]
+      },
+      {
+       "en": [
+        "2. Write",
+        "Adapt to your audience (sensitivity, relationship skills, appropriate style); compose your message (strong words, effective sentences, coherent paragraphs)"
+       ],
+       "ms": [
+        "2. Tulis",
+        "Sesuaikan dengan audiens (kepekaan, kemahiran hubungan, gaya sesuai); karang mesej (perkataan kuat, ayat berkesan, perenggan koheren)"
+       ]
+      },
+      {
+       "en": [
+        "3. Complete",
+        "Revise, produce, proofread, distribute"
+       ],
+       "ms": [
+        "3. Lengkapkan",
+        "Semak semula, hasilkan, semak bukti, edarkan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Optimising your writing time",
+     "ms": "Mengoptimumkan masa menulis"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Step",
+       "Share of time"
+      ],
+      "ms": [
+       "Langkah",
+       "Bahagian masa"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Planning",
+        "50%"
+       ],
+       "ms": [
+        "Perancangan",
+        "50%"
+       ]
+      },
+      {
+       "en": [
+        "Writing",
+        "25%"
+       ],
+       "ms": [
+        "Penulisan",
+        "25%"
+       ]
+      },
+      {
+       "en": [
+        "Completing",
+        "25%"
+       ],
+       "ms": [
+        "Melengkapkan",
+        "25%"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Planning effectively helps you",
+     "ms": "Perancangan berkesan membantu anda"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Provide the right information to the right people",
+      "Deliver the information concisely",
+      "Write more efficiently",
+      "Avoid embarrassing blunders"
+     ],
+     "ms": [
+      "Beri maklumat betul kepada orang betul",
+      "Sampaikan maklumat dengan ringkas",
+      "Menulis dengan lebih cekap",
+      "Elak kesilapan memalukan"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: 50-25-25. Half your time goes to planning.",
+     "ms": "Cara ingat: 50-25-25. Separuh masa untuk perancangan."
+    }
+   ]
+  },
+  {
+   "id": "analyze",
+   "icon": "🎯",
+   "title": {
+    "en": "Analysing the Situation",
+    "ms": "Menganalisis Situasi"
+   },
+   "ref": "Slides 12–15",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Defining your purpose",
+     "ms": "Menentukan tujuan"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "General purpose",
+       "Specific purpose"
+      ],
+      "ms": [
+       "Tujuan umum",
+       "Tujuan spesifik"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Inform",
+        "What you hope to accomplish"
+       ],
+       "ms": [
+        "Memaklumkan",
+        "Apa yang anda harap capai"
+       ]
+      },
+      {
+       "en": [
+        "Persuade",
+        "What the audience will do"
+       ],
+       "ms": [
+        "Memujuk",
+        "Apa yang audiens akan buat"
+       ]
+      },
+      {
+       "en": [
+        "Collaborate",
+        "What the audience will think"
+       ],
+       "ms": [
+        "Berkolaborasi",
+        "Apa yang audiens akan fikir"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide shows the specific-purpose phrases beside the three general purposes in a layout that is not clearly paired. The pairing above is reading order only; confirm in your textbook.",
+     "ms": "Slaid menunjukkan frasa tujuan spesifik bersebelahan tiga tujuan umum tanpa pasangan jelas. Pasangan di atas hanya ikut susunan bacaan; sahkan dalam buku teks."
+    },
+    {
+     "k": "h",
+     "en": "Analysing your purpose: four questions",
+     "ms": "Menganalisis tujuan: empat soalan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Will anything change as a result of your message?",
+      "Is your purpose realistic?",
+      "Is the time right?",
+      "Is your purpose acceptable to your organisation?"
+     ],
+     "ms": [
+      "Adakah apa-apa akan berubah hasil mesej anda?",
+      "Adakah tujuan realistik?",
+      "Adakah masanya sesuai?",
+      "Adakah tujuan diterima organisasi?"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Audience profile (six tasks)",
+     "ms": "Profil audiens (enam tugas)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Identify your primary audience",
+      "Determine audience size and geographic distribution",
+      "Determine audience composition",
+      "Gauge audience members’ level of understanding",
+      "Understand audience expectations and preferences",
+      "Forecast probable audience reaction"
+     ],
+     "ms": [
+      "Kenal pasti audiens utama",
+      "Tentukan saiz dan taburan geografi audiens",
+      "Tentukan komposisi audiens",
+      "Nilai tahap kefahaman audiens",
+      "Fahami jangkaan dan keutamaan audiens",
+      "Jangka reaksi audiens"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gather",
+   "icon": "🔦",
+   "title": {
+    "en": "Gathering Information",
+    "ms": "Mengumpul Maklumat"
+   },
+   "ref": "Slides 17–21",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Informal techniques",
+     "ms": "Teknik tidak formal"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Consider the audience’s perspective",
+      "Listen to the community",
+      "Read reports and other company documents",
+      "Talk with supervisors, colleagues or customers",
+      "Ask your audience for input"
+     ],
+     "ms": [
+      "Pertimbang perspektif audiens",
+      "Dengar komuniti",
+      "Baca laporan dan dokumen syarikat",
+      "Bercakap dengan penyelia, rakan sekerja atau pelanggan",
+      "Minta input audiens"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Uncovering audience needs",
+     "ms": "Mengesan keperluan audiens"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Listen for apparent needs",
+      "Uncover hidden needs"
+     ],
+     "ms": [
+      "Dengar keperluan ketara",
+      "Kesan keperluan tersembunyi"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Finding your focus: discovery techniques",
+     "ms": "Mencari fokus: teknik penemuan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Free writing: express ideas as they come",
+      "Sketching: think visually"
+     ],
+     "ms": [
+      "Penulisan bebas: nyatakan idea sebaik terlintas",
+      "Lakaran: berfikir secara visual"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Journalistic approach (6 questions)",
+     "ms": "Pendekatan kewartawanan (6 soalan)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Who?",
+      "What?",
+      "When?",
+      "Where?",
+      "Why?",
+      "How?"
+     ],
+     "ms": [
+      "Siapa?",
+      "Apa?",
+      "Bila?",
+      "Di mana?",
+      "Kenapa?",
+      "Bagaimana?"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Ensuring information quality (3 attributes)",
+     "ms": "Memastikan kualiti maklumat (3 sifat)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Is it **accurate**?",
+      "Is it **ethical**?",
+      "Is it **pertinent**?"
+     ],
+     "ms": [
+      "Adakah **tepat**?",
+      "Adakah **beretika**?",
+      "Adakah **berkaitan**?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "media",
+   "icon": "📡",
+   "title": {
+    "en": "Choosing Media and Channels",
+    "ms": "Memilih Media dan Saluran"
+   },
+   "ref": "Slides 22–29",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Medium",
+       "In-person / print",
+       "Digital"
+      ],
+      "ms": [
+       "Medium",
+       "Bersemuka / cetak",
+       "Digital"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Oral",
+        "One-on-one conversations, informal lunches, speeches or presentations",
+        "Telephone calls, podcasts, voicemail"
+       ],
+       "ms": [
+        "Lisan",
+        "Perbualan satu-satu, makan tengah hari tidak formal, ucapan atau pembentangan",
+        "Panggilan telefon, podcast, peti suara"
+       ]
+      },
+      {
+       "en": [
+        "Written",
+        "Routine memos, business letters, reports and proposals",
+        "Tweets and text messages, website content, book-length reports in PDF"
+       ],
+       "ms": [
+        "Bertulis",
+        "Memo rutin, surat perniagaan, laporan dan cadangan",
+        "Tweet dan teks, kandungan web, laporan panjang dalam PDF"
+       ]
+      },
+      {
+       "en": [
+        "Visual",
+        "Photographs, diagrams, charts and graphs",
+        "Infographics, interactive diagrams and animation, digital video"
+       ],
+       "ms": [
+        "Visual",
+        "Gambar, rajah, carta dan graf",
+        "Infografik, rajah interaktif dan animasi, video digital"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Mobile challenges",
+     "ms": "Cabaran mudah alih"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Screen size and resolution",
+      "Input technologies",
+      "Bandwidth, speed and connectivity limits",
+      "Data usage and operational costs"
+     ],
+     "ms": [
+      "Saiz dan resolusi skrin",
+      "Teknologi input",
+      "Had lebar jalur, kelajuan dan sambungan",
+      "Penggunaan data dan kos operasi"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Factors in choosing a medium (7)",
+     "ms": "Faktor memilih medium (7)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Richness",
+      "Formality",
+      "Media and channel limitations",
+      "Urgency",
+      "Cost",
+      "Audience preferences",
+      "Security and privacy"
+     ],
+     "ms": [
+      "Kekayaan (richness)",
+      "Formaliti",
+      "Had media dan saluran",
+      "Kesegeraan",
+      "Kos",
+      "Keutamaan audiens",
+      "Keselamatan dan privasi"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slides 23–26 show channel lists in columns; the in-person/print vs digital split is read from layout and is a study aid.",
+     "ms": "Slaid 23–26 menunjukkan senarai saluran dalam lajur; pembahagian bersemuka/cetak lwn digital dibaca daripada susun atur dan ialah bantuan belajar."
+    }
+   ]
+  },
+  {
+   "id": "organize",
+   "icon": "🧩",
+   "title": {
+    "en": "Organising Your Information",
+    "ms": "Menyusun Maklumat"
+   },
+   "ref": "Slides 31–38",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Helps readers",
+       "Helps writers"
+      ],
+      "ms": [
+       "Membantu pembaca",
+       "Membantu penulis"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Understand the message",
+        "Use clear logic"
+       ],
+       "ms": [
+        "Memahami mesej",
+        "Guna logik jelas"
+       ]
+      },
+      {
+       "en": [
+        "Increased acceptance of the message",
+        "Write succinctly and clearly"
+       ],
+       "ms": [
+        "Penerimaan mesej meningkat",
+        "Menulis ringkas dan jelas"
+       ]
+      },
+      {
+       "en": [
+        "Saves time",
+        "Build reputation"
+       ],
+       "ms": [
+        "Jimat masa",
+        "Bina reputasi"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide lists these benefits in two columns. Pairing across rows is layout only.",
+     "ms": "Slaid menyenaraikan manfaat dalam dua lajur. Pasangan merentas baris hanya susun atur."
+    },
+    {
+     "k": "h",
+     "en": "Main idea versus topic (Table 4.2)",
+     "ms": "Idea utama lwn topik (Jadual 4.2)"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "General purpose",
+       "Topic",
+       "Main idea"
+      ],
+      "ms": [
+       "Tujuan umum",
+       "Topik",
+       "Idea utama"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "To inform",
+        "Technical support wiki",
+        "Careful, thorough edits help the department provide better customer support"
+       ],
+       "ms": [
+        "Memaklumkan",
+        "Wiki sokongan teknikal",
+        "Suntingan teliti membantu jabatan beri sokongan pelanggan lebih baik"
+       ]
+      },
+      {
+       "en": [
+        "To persuade",
+        "Funding for research and development",
+        "Competitors spend more than we do, enabling more innovative products"
+       ],
+       "ms": [
+        "Memujuk",
+        "Pembiayaan penyelidikan dan pembangunan",
+        "Pesaing berbelanja lebih, membolehkan produk lebih inovatif"
+       ]
+      },
+      {
+       "en": [
+        "To collaborate",
+        "Incentive pay",
+        "Tying wages to profits motivates employees and reduces compensation costs in tough years"
+       ],
+       "ms": [
+        "Berkolaborasi",
+        "Gaji insentif",
+        "Mengaitkan gaji dengan keuntungan memotivasi pekerja dan kurangkan kos pampasan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Generating creative ideas",
+     "ms": "Menjana idea kreatif"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Brainstorming",
+      "Journalistic approach",
+      "Question-and-answer chain",
+      "Storyteller’s tour",
+      "Mind mapping"
+     ],
+     "ms": [
+      "Sumbang saran",
+      "Pendekatan kewartawanan",
+      "Rantai soal-jawab",
+      "Lawatan pencerita",
+      "Peta minda"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Limiting your scope",
+     "ms": "Menghadkan skop"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Information you present",
+      "Overall length",
+      "Level of detail"
+     ],
+     "ms": [
+      "Maklumat yang dibentang",
+      "Panjang keseluruhan",
+      "Tahap perincian"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Outlining and structuring",
+     "ms": "Membuat rangka dan menstruktur"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Outline: major points, supporting details, visualise relationships; alternatives: organisational chart, mind mapping",
+      "Structure: main idea, major points, examples and evidence"
+     ],
+     "ms": [
+      "Rangka: poin utama, butiran sokongan, visualkan hubungan; alternatif: carta organisasi, peta minda",
+      "Struktur: idea utama, poin utama, contoh dan bukti"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Storytelling structure",
+     "ms": "Struktur penceritaan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Beginning: identify with the audience",
+      "Middle: pursue the goal or solve the problem",
+      "End: answer the question or offer a lesson"
+     ],
+     "ms": [
+      "Permulaan: berhubung dengan audiens",
+      "Tengah: kejar matlamat atau selesaikan masalah",
+      "Penghujung: jawab soalan atau beri pengajaran"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 35 (Choosing Between Direct and Indirect Approaches) is a figure with no text.",
+     "ms": "Slaid 35 (Choosing Between Direct and Indirect Approaches) ialah rajah tanpa teks."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "three",
+   "q": {
+    "en": "Name the three steps of the writing process.",
+    "ms": "Namakan tiga langkah proses penulisan."
+   },
+   "a": {
+    "en": "Plan, write, complete.",
+    "ms": "Rancang, tulis, lengkapkan."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "three",
+   "q": {
+    "en": "How should writing time be split?",
+    "ms": "Bagaimana masa penulisan dibahagi?"
+   },
+   "a": {
+    "en": "Planning 50%, writing 25%, completing 25%.",
+    "ms": "Perancangan 50%, penulisan 25%, melengkapkan 25%."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "three",
+   "q": {
+    "en": "Four tasks in planning?",
+    "ms": "Empat tugas perancangan?"
+   },
+   "a": {
+    "en": "Analyse situation, gather information, select media/channels, organise information.",
+    "ms": "Analisis situasi, kumpul maklumat, pilih media/saluran, susun maklumat."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "three",
+   "q": {
+    "en": "Four tasks in completing?",
+    "ms": "Empat tugas melengkapkan?"
+   },
+   "a": {
+    "en": "Revise, produce, proofread, distribute.",
+    "ms": "Semak semula, hasilkan, semak bukti, edarkan."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "analyze",
+   "q": {
+    "en": "Three general purposes?",
+    "ms": "Tiga tujuan umum?"
+   },
+   "a": {
+    "en": "Inform, persuade, collaborate.",
+    "ms": "Memaklumkan, memujuk, berkolaborasi."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "analyze",
+   "q": {
+    "en": "Four questions for analysing your purpose?",
+    "ms": "Empat soalan menganalisis tujuan?"
+   },
+   "a": {
+    "en": "Will anything change? Is it realistic? Is the time right? Acceptable to your organisation?",
+    "ms": "Akan berubah? Realistik? Masa sesuai? Diterima organisasi?"
+   }
+  },
+  {
+   "id": "c7",
+   "t": "analyze",
+   "q": {
+    "en": "Six tasks of an audience profile?",
+    "ms": "Enam tugas profil audiens?"
+   },
+   "a": {
+    "en": "Primary audience; size and distribution; composition; level of understanding; expectations and preferences; forecast reaction.",
+    "ms": "Audiens utama; saiz dan taburan; komposisi; tahap kefahaman; jangkaan; jangka reaksi."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "gather",
+   "q": {
+    "en": "Five informal information-gathering techniques?",
+    "ms": "Lima teknik mengumpul maklumat tidak formal?"
+   },
+   "a": {
+    "en": "Consider audience perspective, listen to community, read reports, talk to supervisors/colleagues/customers, ask audience for input.",
+    "ms": "Pertimbang perspektif, dengar komuniti, baca laporan, bercakap dengan penyelia/rakan/pelanggan, minta input."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "gather",
+   "q": {
+    "en": "Two kinds of audience needs?",
+    "ms": "Dua jenis keperluan audiens?"
+   },
+   "a": {
+    "en": "Apparent needs and hidden needs.",
+    "ms": "Keperluan ketara dan tersembunyi."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "gather",
+   "q": {
+    "en": "Two discovery techniques?",
+    "ms": "Dua teknik penemuan?"
+   },
+   "a": {
+    "en": "Free writing and sketching.",
+    "ms": "Penulisan bebas dan lakaran."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "gather",
+   "q": {
+    "en": "The journalistic approach asks which six questions?",
+    "ms": "Pendekatan kewartawanan tanya enam soalan apa?"
+   },
+   "a": {
+    "en": "Who, what, when, where, why, how.",
+    "ms": "Siapa, apa, bila, di mana, kenapa, bagaimana."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "gather",
+   "q": {
+    "en": "Three attributes of quality information?",
+    "ms": "Tiga sifat maklumat berkualiti?"
+   },
+   "a": {
+    "en": "Accurate, ethical, pertinent.",
+    "ms": "Tepat, beretika, berkaitan."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "media",
+   "q": {
+    "en": "Three media types?",
+    "ms": "Tiga jenis media?"
+   },
+   "a": {
+    "en": "Oral, written, visual.",
+    "ms": "Lisan, bertulis, visual."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "media",
+   "q": {
+    "en": "Seven factors for choosing media?",
+    "ms": "Tujuh faktor memilih media?"
+   },
+   "a": {
+    "en": "Richness, formality, limitations, urgency, cost, audience preferences, security and privacy.",
+    "ms": "Kekayaan, formaliti, had, kesegeraan, kos, keutamaan audiens, keselamatan dan privasi."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "media",
+   "q": {
+    "en": "Mobile communication challenges?",
+    "ms": "Cabaran komunikasi mudah alih?"
+   },
+   "a": {
+    "en": "Screen size, input technologies, bandwidth/speed/connectivity, data usage and costs.",
+    "ms": "Saiz skrin, teknologi input, lebar jalur/kelajuan/sambungan, penggunaan data dan kos."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "organize",
+   "q": {
+    "en": "Benefits of organisation for readers?",
+    "ms": "Manfaat organisasi kepada pembaca?"
+   },
+   "a": {
+    "en": "Understand the message, increased acceptance, saves time.",
+    "ms": "Faham mesej, penerimaan meningkat, jimat masa."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "organize",
+   "q": {
+    "en": "Benefits of organisation for writers?",
+    "ms": "Manfaat organisasi kepada penulis?"
+   },
+   "a": {
+    "en": "Use clear logic, write succinctly and clearly, build reputation.",
+    "ms": "Logik jelas, menulis ringkas dan jelas, bina reputasi."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "organize",
+   "q": {
+    "en": "Five techniques for generating creative ideas?",
+    "ms": "Lima teknik menjana idea kreatif?"
+   },
+   "a": {
+    "en": "Brainstorming, journalistic approach, Q&A chain, storyteller’s tour, mind mapping.",
+    "ms": "Sumbang saran, kewartawanan, rantai soal-jawab, lawatan pencerita, peta minda."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "organize",
+   "q": {
+    "en": "Three ways to limit scope?",
+    "ms": "Tiga cara menghadkan skop?"
+   },
+   "a": {
+    "en": "Information you present, overall length, level of detail.",
+    "ms": "Maklumat dibentang, panjang keseluruhan, tahap perincian."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "organize",
+   "q": {
+    "en": "Storytelling structure?",
+    "ms": "Struktur penceritaan?"
+   },
+   "a": {
+    "en": "Beginning: identify with audience; middle: pursue goal/solve problem; end: answer question/offer lesson.",
+    "ms": "Permulaan: berhubung audiens; tengah: kejar matlamat; penghujung: jawab soalan/beri pengajaran."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "three",
+   "q": {
+    "en": "Which step uses the largest share of time?",
+    "ms": "Langkah mana guna bahagian masa terbesar?"
+   },
+   "o": [
+    "Writing",
+    "Planning",
+    "Completing",
+    "Distributing"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Planning is 50%.",
+    "ms": "Perancangan 50%."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "three",
+   "q": {
+    "en": "Proofreading belongs to:",
+    "ms": "Semakan bukti tergolong dalam:"
+   },
+   "o": [
+    "Planning",
+    "Completing",
+    "Writing",
+    "Analysing"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Revise, produce, proofread, distribute.",
+    "ms": "Semak semula, hasilkan, semak bukti, edarkan."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "three",
+   "q": {
+    "en": "Adapting to your audience belongs to:",
+    "ms": "Menyesuaikan dengan audiens tergolong dalam:"
+   },
+   "o": [
+    "Planning",
+    "None",
+    "Completing",
+    "Writing"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Step 2: write.",
+    "ms": "Langkah 2: tulis."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "three",
+   "q": {
+    "en": "Writing time split is:",
+    "ms": "Pembahagian masa penulisan ialah:"
+   },
+   "o": [
+    "50-25-25",
+    "25-50-25",
+    "33-33-33",
+    "60-20-20"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "analyze",
+   "q": {
+    "en": "Which is a general purpose?",
+    "ms": "Yang mana tujuan umum?"
+   },
+   "o": [
+    "Sell",
+    "Entertain",
+    "Inform",
+    "Hide"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Inform, persuade, collaborate.",
+    "ms": "Memaklumkan, memujuk, berkolaborasi."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "analyze",
+   "q": {
+    "en": "“Is the time right?” belongs to:",
+    "ms": "“Adakah masanya sesuai?” tergolong dalam:"
+   },
+   "o": [
+    "Outlining",
+    "Media selection",
+    "Analysing your purpose",
+    "Proofreading"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "analyze",
+   "q": {
+    "en": "Which is part of an audience profile?",
+    "ms": "Yang mana sebahagian profil audiens?"
+   },
+   "o": [
+    "Forecast probable audience reaction",
+    "Font size",
+    "Printer type",
+    "Postage"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "gather",
+   "q": {
+    "en": "Reading company reports is an:",
+    "ms": "Membaca laporan syarikat ialah:"
+   },
+   "o": [
+    "Outline",
+    "Ethical dilemma",
+    "Medium",
+    "Informal technique"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 17.",
+    "ms": "Slaid 17."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "gather",
+   "q": {
+    "en": "Which is NOT a journalistic question?",
+    "ms": "Yang mana BUKAN soalan kewartawanan?"
+   },
+   "o": [
+    "Who",
+    "Whom to blame",
+    "How",
+    "Why"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Who, what, when, where, why, how.",
+    "ms": "Siapa, apa, bila, di mana, kenapa, bagaimana."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "gather",
+   "q": {
+    "en": "Information that is correct has which attribute?",
+    "ms": "Maklumat yang betul mempunyai sifat:"
+   },
+   "o": [
+    "Pertinent",
+    "Accurate",
+    "Ethical",
+    "Rich"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Accurate, ethical, pertinent.",
+    "ms": "Tepat, beretika, berkaitan."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "gather",
+   "q": {
+    "en": "Information relevant to the audience is:",
+    "ms": "Maklumat relevan kepada audiens ialah:"
+   },
+   "o": [
+    "Apparent",
+    "Free writing",
+    "Mind map",
+    "Pertinent"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Pertinent.",
+    "ms": "Pertinent."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "gather",
+   "q": {
+    "en": "Writing ideas as they come is:",
+    "ms": "Menulis idea sebaik terlintas ialah:"
+   },
+   "o": [
+    "Free writing",
+    "Sketching",
+    "Brainstorming",
+    "Outlining"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 19.",
+    "ms": "Slaid 19."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "media",
+   "q": {
+    "en": "A podcast is:",
+    "ms": "Podcast ialah:"
+   },
+   "o": [
+    "Visual print",
+    "Written print",
+    "Oral digital",
+    "Oral in-person"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "media",
+   "q": {
+    "en": "A business letter is:",
+    "ms": "Surat perniagaan ialah:"
+   },
+   "o": [
+    "Visual digital",
+    "Oral",
+    "Written print",
+    "Podcast"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 25.",
+    "ms": "Slaid 25."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "media",
+   "q": {
+    "en": "Which is NOT a factor when choosing media?",
+    "ms": "Yang mana BUKAN faktor memilih media?"
+   },
+   "o": [
+    "Moon phase",
+    "Cost",
+    "Security and privacy",
+    "Urgency"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Seven factors on slides 28–29.",
+    "ms": "Tujuh faktor slaid 28–29."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "media",
+   "q": {
+    "en": "Which is a mobile challenge?",
+    "ms": "Yang mana cabaran mudah alih?"
+   },
+   "o": [
+    "Free data",
+    "Unlimited bandwidth",
+    "Large keyboards",
+    "Screen size and resolution"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "organize",
+   "q": {
+    "en": "Organisation helps readers by:",
+    "ms": "Organisasi membantu pembaca dengan:"
+   },
+   "o": [
+    "Hiding logic",
+    "Increasing acceptance",
+    "Adding delay",
+    "Reducing clarity"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 31.",
+    "ms": "Slaid 31."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "organize",
+   "q": {
+    "en": "Which helps WRITERS?",
+    "ms": "Yang mana membantu PENULIS?"
+   },
+   "o": [
+    "Understand message",
+    "Build reputation",
+    "Increased acceptance",
+    "Reading speed"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Writers: logic, succinct, reputation.",
+    "ms": "Penulis: logik, ringkas, reputasi."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "organize",
+   "q": {
+    "en": "A topic is:",
+    "ms": "Topik ialah:"
+   },
+   "o": [
+    "A main idea",
+    "A hyperlink",
+    "A conclusion",
+    "The general subject"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Table 4.2: topic vs main idea.",
+    "ms": "Jadual 4.2: topik lwn idea utama."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "organize",
+   "q": {
+    "en": "Mind mapping is:",
+    "ms": "Peta minda ialah:"
+   },
+   "o": [
+    "A creative idea technique and an outlining alternative",
+    "A medium",
+    "A purpose",
+    "A proofreading step"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slides 33 and 36.",
+    "ms": "Slaid 33 dan 36."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "organize",
+   "q": {
+    "en": "The middle of a story should:",
+    "ms": "Bahagian tengah cerita patut:"
+   },
+   "o": [
+    "Offer the lesson",
+    "Identify with the audience",
+    "Pursue the goal or solve the problem",
+    "Be skipped"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 38.",
+    "ms": "Slaid 38."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "organize",
+   "q": {
+    "en": "Limiting scope involves:",
+    "ms": "Menghadkan skop melibatkan:"
+   },
+   "o": [
+    "Removing the main idea",
+    "Adding extra topics",
+    "Overall length and level of detail",
+    "Changing medium"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 34.",
+    "ms": "Slaid 34."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "analyze",
+   "q": {
+    "en": "Which is NOT a question for analysing purpose?",
+    "ms": "Yang mana BUKAN soalan menganalisis tujuan?"
+   },
+   "o": [
+    "Is the printer connected?",
+    "Is the time right?",
+    "Is your purpose realistic?",
+    "Will anything change?"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "three",
+   "marks": 8,
+   "q": {
+    "en": "Describe the three-step writing process and how time should be allocated.",
+    "ms": "Huraikan proses penulisan tiga langkah dan bagaimana masa diperuntukkan."
+   },
+   "pts": {
+    "en": [
+     "Plan: analyse, gather, select media, organise (2)",
+     "Write: adapt to audience and compose (2)",
+     "Complete: revise, produce, proofread, distribute (2)",
+     "Time: planning 50%, writing 25%, completing 25% (2)"
+    ],
+    "ms": [
+     "Rancang: analisis, kumpul, pilih media, susun (2)",
+     "Tulis: sesuaikan dengan audiens dan karang (2)",
+     "Lengkapkan: semak semula, hasil, semak bukti, edar (2)",
+     "Masa: perancangan 50%, penulisan 25%, melengkapkan 25% (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "analyze",
+   "marks": 8,
+   "q": {
+    "en": "Explain how to define your purpose and profile your audience.",
+    "ms": "Terangkan cara menentukan tujuan dan memprofil audiens."
+   },
+   "pts": {
+    "en": [
+     "General purposes: inform, persuade, collaborate (2)",
+     "Analyse purpose: change, realistic, time, acceptable (2)",
+     "Audience: primary, size, composition (2)",
+     "Understanding, expectations, forecast reaction (2)"
+    ],
+    "ms": [
+     "Tujuan umum: memaklumkan, memujuk, berkolaborasi (2)",
+     "Analisis tujuan: perubahan, realistik, masa, diterima (2)",
+     "Audiens: utama, saiz, komposisi (2)",
+     "Kefahaman, jangkaan, jangka reaksi (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "gather",
+   "marks": 6,
+   "q": {
+    "en": "Discuss how to gather information and ensure its quality.",
+    "ms": "Bincangkan cara mengumpul maklumat dan memastikan kualitinya."
+   },
+   "pts": {
+    "en": [
+     "Informal techniques: listen, read reports, talk to people, ask input (2)",
+     "Apparent and hidden needs (1)",
+     "Journalistic questions (1)",
+     "Quality: accurate, ethical, pertinent (2)"
+    ],
+    "ms": [
+     "Teknik tidak formal: dengar, baca laporan, bercakap, minta input (2)",
+     "Keperluan ketara dan tersembunyi (1)",
+     "Soalan kewartawanan (1)",
+     "Kualiti: tepat, beretika, berkaitan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "media",
+   "marks": 8,
+   "q": {
+    "en": "Discuss factors for choosing media and channels.",
+    "ms": "Bincangkan faktor memilih media dan saluran."
+   },
+   "pts": {
+    "en": [
+     "Three media: oral, written, visual (2)",
+     "Richness and formality (2)",
+     "Limitations and urgency (2)",
+     "Cost, audience preferences, security and privacy (2)"
+    ],
+    "ms": [
+     "Tiga media: lisan, bertulis, visual (2)",
+     "Kekayaan dan formaliti (2)",
+     "Had dan kesegeraan (2)",
+     "Kos, keutamaan audiens, keselamatan dan privasi (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "organize",
+   "marks": 8,
+   "q": {
+    "en": "Explain why good organisation matters and the tasks in organising a message.",
+    "ms": "Terangkan kenapa organisasi baik penting dan tugas menyusun mesej."
+   },
+   "pts": {
+    "en": [
+     "Helps readers: understand, acceptance, saves time (2)",
+     "Helps writers: logic, succinct, reputation (2)",
+     "Define main idea; limit scope (2)",
+     "Outline, structure, storytelling (2)"
+    ],
+    "ms": [
+     "Membantu pembaca: faham, penerimaan, jimat masa (2)",
+     "Membantu penulis: logik, ringkas, reputasi (2)",
+     "Tentukan idea utama; hadkan skop (2)",
+     "Rangka, struktur, penceritaan (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Writing process",
+   "Proses penulisan"
+  ],
+  [
+   "General purpose",
+   "Tujuan umum"
+  ],
+  [
+   "Specific purpose",
+   "Tujuan spesifik"
+  ],
+  [
+   "Audience profile",
+   "Profil audiens"
+  ],
+  [
+   "Free writing",
+   "Penulisan bebas"
+  ],
+  [
+   "Sketching",
+   "Lakaran"
+  ],
+  [
+   "Brainstorming",
+   "Sumbang saran"
+  ],
+  [
+   "Mind mapping",
+   "Peta minda"
+  ],
+  [
+   "Medium",
+   "Medium"
+  ],
+  [
+   "Channel",
+   "Saluran"
+  ],
+  [
+   "Richness",
+   "Kekayaan media"
+  ],
+  [
+   "Pertinent",
+   "Berkaitan"
+  ],
+  [
+   "Main idea",
+   "Idea utama"
+  ],
+  [
+   "Scope",
+   "Skop"
+  ],
+  [
+   "Outline",
+   "Rangka"
+  ]
+ ]
+}

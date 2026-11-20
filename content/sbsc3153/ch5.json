@@ -1,0 +1,1438 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch5",
+ "num": 5,
+ "title": {
+  "en": "Writing Business Messages",
+  "ms": "Menulis Mesej Perniagaan"
+ },
+ "standard": "Bovee Ch 5",
+ "outcomes": {
+  "en": [
+   "Identify four aspects of being sensitive to audience needs",
+   "Explain credibility and company image in building relationships",
+   "Achieve a conversational but businesslike tone, use plain language, and define active and passive voice",
+   "Select words that are correct and effective",
+   "Define four sentence types and how style affects emphasis",
+   "Define three paragraph elements and five ways to develop paragraphs",
+   "List five techniques for writing for mobile readers"
+  ],
+  "ms": [
+   "Kenal pasti empat aspek peka terhadap keperluan audiens",
+   "Terangkan kredibiliti dan imej syarikat dalam membina hubungan",
+   "Capai nada berbual tetapi profesional, guna bahasa mudah, dan takrif ayat aktif dan pasif",
+   "Pilih perkataan yang betul dan berkesan",
+   "Takrif empat jenis ayat dan bagaimana gaya mempengaruhi penekanan",
+   "Takrif tiga elemen perenggan dan lima cara membina perenggan",
+   "Senaraikan lima teknik menulis untuk pembaca mudah alih"
+  ]
+ },
+ "sections": [
+  {
+   "id": "sensitive",
+   "icon": "🤲",
+   "title": {
+    "en": "Being Sensitive to Audience Needs",
+    "ms": "Peka terhadap Keperluan Audiens"
+   },
+   "ref": "Slides 4–8",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Four aspects: the **“you” attitude**, **etiquette**, **emphasising the positive** and **bias-free language**.",
+     "ms": "Empat aspek: **sikap “you”**, **etiket**, **menekankan yang positif** dan **bahasa bebas bias**."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Aspect",
+       "Key points"
+      ],
+      "ms": [
+       "Aspek",
+       "Poin utama"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "“You” attitude",
+        "Use second-person pronouns; show interest in your audience; respect cultural preferences; adhere to organisational policies"
+       ],
+       "ms": [
+        "Sikap “you”",
+        "Guna kata ganti nama kedua; tunjuk minat; hormati budaya; patuhi dasar organisasi"
+       ]
+      },
+      {
+       "en": [
+        "Etiquette",
+        "Respect audience; minimise negative emotional reactions; diplomacy and tact; correct level of formality; choose the best medium"
+       ],
+       "ms": [
+        "Etiket",
+        "Hormati audiens; minimumkan reaksi emosi negatif; diplomasi dan bijaksana; tahap formaliti betul; pilih medium terbaik"
+       ]
+      },
+      {
+       "en": [
+        "Emphasise the positive",
+        "Avoid negative language; use euphemisms appropriately; focus on opportunities for improvement; ease the emotional burden; emphasise audience benefits; soften the blow: honest, not harsh"
+       ],
+       "ms": [
+        "Tekankan yang positif",
+        "Elak bahasa negatif; guna eufemisme sesuai; fokus peluang penambahbaikan; ringankan beban emosi; tekankan manfaat audiens; lembutkan: jujur, bukan kasar"
+       ]
+      },
+      {
+       "en": [
+        "Bias-free language",
+        "Gender, racial and ethnic, age and disability bias"
+       ],
+       "ms": [
+        "Bahasa bebas bias",
+        "Bias jantina, kaum dan etnik, umur dan kecacatan"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "relation",
+   "icon": "🤝",
+   "title": {
+    "en": "Credibility and Company Image",
+    "ms": "Kredibiliti dan Imej Syarikat"
+   },
+   "ref": "Slides 10–12",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Establishing credibility",
+     "ms": "Membina kredibiliti"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Honesty",
+      "Objectivity",
+      "Awareness of audience needs",
+      "Credentials, knowledge and expertise",
+      "Endorsements",
+      "Performance",
+      "Sincerity"
+     ],
+     "ms": [
+      "Kejujuran",
+      "Objektiviti",
+      "Kesedaran keperluan audiens",
+      "Kelayakan, pengetahuan dan kepakaran",
+      "Sokongan (endorsement)",
+      "Prestasi",
+      "Keikhlasan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Projecting your company’s image",
+     "ms": "Memancarkan imej syarikat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Communication style",
+      "Communication guidelines"
+     ],
+     "ms": [
+      "Gaya komunikasi",
+      "Garis panduan komunikasi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tone",
+   "icon": "🗣️",
+   "title": {
+    "en": "Style, Tone and Voice",
+    "ms": "Gaya, Nada dan Suara"
+   },
+   "ref": "Slides 14–16",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Conversational tone",
+     "ms": "Nada berbual"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Understand the difference between texting and writing",
+      "Avoid preaching and bragging",
+      "Be careful with intimacy",
+      "Be careful with humour"
+     ],
+     "ms": [
+      "Fahami beza menghantar teks dan menulis",
+      "Elak berkhutbah dan bermegah",
+      "Berhati-hati dengan keakraban",
+      "Berhati-hati dengan jenaka"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Plain language: why",
+     "ms": "Bahasa mudah: kenapa"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Helps the audience grasp meaning easily",
+      "Supports the “you” attitude",
+      "Shows respect for the audience",
+      "Increases productivity",
+      "Helps diverse, global audiences"
+     ],
+     "ms": [
+      "Bantu audiens faham mudah",
+      "Sokong sikap “you”",
+      "Tunjuk hormat kepada audiens",
+      "Tingkatkan produktiviti",
+      "Bantu audiens global yang pelbagai"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Active vs passive voice (Table 5.4)",
+     "ms": "Ayat aktif lwn pasif (Jadual 5.4)"
+    },
+    {
+     "k": "p",
+     "en": "In general, **avoid passive voice** to be lively and direct. Use passive when you need to be **diplomatic** or focus on **problems or solutions rather than people**.",
+     "ms": "Secara umum, **elak ayat pasif** supaya lincah dan terus. Guna pasif bila perlu **diplomatik** atau fokus pada **masalah atau penyelesaian, bukan orang**."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Passive",
+       "Active"
+      ],
+      "ms": [
+       "Pasif",
+       "Aktif"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "The new procedure was developed by the operations team.",
+        "The operations team developed the new procedure."
+       ],
+       "ms": [
+        "The new procedure was developed by the operations team.",
+        "The operations team developed the new procedure."
+       ]
+      },
+      {
+       "en": [
+        "Legal problems are created by this contract.",
+        "This contract creates legal problems."
+       ],
+       "ms": [
+        "Legal problems are created by this contract.",
+        "This contract creates legal problems."
+       ]
+      }
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Active (accusatory)",
+       "Passive (diplomatic)"
+      ],
+      "ms": [
+       "Aktif (menuduh)",
+       "Pasif (diplomatik)"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "You lost the shipment.",
+        "The shipment was lost."
+       ],
+       "ms": [
+        "You lost the shipment.",
+        "The shipment was lost."
+       ]
+      },
+      {
+       "en": [
+        "I recruited seven engineers last month.",
+        "Seven engineers were recruited last month."
+       ],
+       "ms": [
+        "I recruited seven engineers last month.",
+        "Seven engineers were recruited last month."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "words",
+   "icon": "🔤",
+   "title": {
+    "en": "Choosing Powerful Words",
+    "ms": "Memilih Perkataan Berkuasa"
+   },
+   "ref": "Slides 18–21",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Writing has **three levels**: strong **words**, effective **sentences** and coherent **paragraphs**.",
+     "ms": "Penulisan ada **tiga tahap**: **perkataan** kuat, **ayat** berkesan dan **perenggan** koheren."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Denotative words",
+       "Connotative words"
+      ],
+      "ms": [
+       "Perkataan denotatif",
+       "Perkataan konotatif"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Explicit; literal or dictionary meaning",
+        "Implicit; includes all associations and feelings evoked by the word"
+       ],
+       "ms": [
+        "Eksplisit; makna literal atau kamus",
+        "Implisit; termasuk semua asosiasi dan perasaan yang ditimbulkan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Abstract words",
+       "Concrete words"
+      ],
+      "ms": [
+       "Perkataan abstrak",
+       "Perkataan konkrit"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Concepts, quality, characteristic",
+        "Can touch, see, visualise"
+       ],
+       "ms": [
+        "Konsep, kualiti, ciri",
+        "Boleh disentuh, dilihat, divisualkan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Finding words that communicate well",
+     "ms": "Mencari perkataan yang berkomunikasi dengan baik"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Choose strong, precise words",
+      "Choose familiar words",
+      "Avoid clichés and buzzwords",
+      "Use jargon carefully"
+     ],
+     "ms": [
+      "Pilih perkataan kuat dan tepat",
+      "Pilih perkataan biasa",
+      "Elak klise dan buzzword",
+      "Guna jargon dengan berhati-hati"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sentence",
+   "icon": "🧱",
+   "title": {
+    "en": "Sentences",
+    "ms": "Ayat"
+   },
+   "ref": "Slides 23–25",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Sentence type",
+       "Structure"
+      ],
+      "ms": [
+       "Jenis ayat",
+       "Struktur"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Simple",
+        "One main clause; objects and phrases"
+       ],
+       "ms": [
+        "Mudah",
+        "Satu klausa utama; objek dan frasa"
+       ]
+      },
+      {
+       "en": [
+        "Compound",
+        "Two main clauses joined by a conjunction"
+       ],
+       "ms": [
+        "Majmuk",
+        "Dua klausa utama dicantum konjungsi"
+       ]
+      },
+      {
+       "en": [
+        "Complex",
+        "One main (independent) clause plus one or more subordinate (dependent) clauses"
+       ],
+       "ms": [
+        "Kompleks",
+        "Satu klausa utama (bebas) dan satu atau lebih klausa subordinat (bergantung)"
+       ]
+      },
+      {
+       "en": [
+        "Compound-complex",
+        "Two main clauses, at least one containing a subordinate clause"
+       ],
+       "ms": [
+        "Majmuk-kompleks",
+        "Dua klausa utama, sekurang-kurangnya satu mengandungi klausa subordinat"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Emphasising key thoughts",
+     "ms": "Menekankan fikiran utama"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Devote more words to key thoughts",
+      "Place key ideas at the beginning or end of a sentence",
+      "Make key thoughts the subject",
+      "Put minor ideas in dependent clauses (to de-emphasise)"
+     ],
+     "ms": [
+      "Guna lebih banyak perkataan untuk fikiran utama",
+      "Letak idea utama di awal atau akhir ayat",
+      "Jadikan fikiran utama sebagai subjek",
+      "Letak idea kecil dalam klausa bergantung (untuk kurangkan penekanan)"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The last bullet reflects the slide’s “In Dependent Clauses”, which is about where a key idea is placed; the “de-emphasise” interpretation follows the textbook idea, so confirm with your notes.",
+     "ms": "Poin terakhir mencerminkan “In Dependent Clauses” slaid; tafsiran “kurangkan penekanan” ikut idea buku teks, jadi sahkan dengan nota anda."
+    }
+   ]
+  },
+  {
+   "id": "para",
+   "icon": "📄",
+   "title": {
+    "en": "Paragraphs and Mobile Writing",
+    "ms": "Perenggan dan Penulisan Mudah Alih"
+   },
+   "ref": "Slides 27–30",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Element",
+       "Role"
+      ],
+      "ms": [
+       "Elemen",
+       "Peranan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Topic sentence",
+        "Summary of the general idea; reminds reader of the purpose of each paragraph"
+       ],
+       "ms": [
+        "Ayat topik",
+        "Ringkasan idea umum; ingatkan pembaca tujuan setiap perenggan"
+       ]
+      },
+      {
+       "en": [
+        "Support sentences",
+        "Support and expand the topic; clarify and justify it"
+       ],
+       "ms": [
+        "Ayat sokongan",
+        "Sokong dan kembangkan topik; jelaskan dan wajarkan"
+       ]
+      },
+      {
+       "en": [
+        "Transitions",
+        "Help readers move between sentences and paragraphs; create a smooth, even flow"
+       ],
+       "ms": [
+        "Peralihan",
+        "Bantu pembaca bergerak antara ayat dan perenggan; aliran lancar dan sekata"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Five ways to develop paragraphs",
+     "ms": "Lima cara membina perenggan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Illustration",
+      "Comparison or contrast",
+      "Cause and effect",
+      "Classification",
+      "Problem and solution"
+     ],
+     "ms": [
+      "Ilustrasi",
+      "Perbandingan atau perbezaan",
+      "Sebab dan akibat",
+      "Pengelasan",
+      "Masalah dan penyelesaian"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Mobile writing: five techniques",
+     "ms": "Penulisan mudah alih: lima teknik"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Use linear organisation",
+      "Prioritise information",
+      "Write shorter, more focused messages",
+      "Use shorter subject lines and headings",
+      "Use shorter paragraphs"
+     ],
+     "ms": [
+      "Guna organisasi linear",
+      "Utamakan maklumat",
+      "Tulis mesej lebih pendek dan fokus",
+      "Guna baris subjek dan tajuk lebih pendek",
+      "Guna perenggan lebih pendek"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook for paragraph elements: T-S-T (Topic, Support, Transitions).",
+     "ms": "Cara ingat elemen perenggan: T-S-T (Topic, Support, Transitions)."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "sensitive",
+   "q": {
+    "en": "Four aspects of being sensitive to audience needs?",
+    "ms": "Empat aspek peka terhadap keperluan audiens?"
+   },
+   "a": {
+    "en": "“You” attitude, etiquette, emphasising the positive, bias-free language.",
+    "ms": "Sikap “you”, etiket, tekankan positif, bahasa bebas bias."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "sensitive",
+   "q": {
+    "en": "Four kinds of bias to avoid?",
+    "ms": "Empat jenis bias untuk dielak?"
+   },
+   "a": {
+    "en": "Gender, racial and ethnic, age, disability.",
+    "ms": "Jantina, kaum dan etnik, umur, kecacatan."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "sensitive",
+   "q": {
+    "en": "Four ways to use the “you” attitude?",
+    "ms": "Empat cara menggunakan sikap “you”?"
+   },
+   "a": {
+    "en": "Second-person pronouns, show interest, respect cultural preferences, adhere to policies.",
+    "ms": "Kata ganti kedua, tunjuk minat, hormati budaya, patuhi dasar."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "sensitive",
+   "q": {
+    "en": "How do you soften the blow?",
+    "ms": "Bagaimana melembutkan kesan buruk?"
+   },
+   "a": {
+    "en": "Be honest, not harsh.",
+    "ms": "Jujur, bukan kasar."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "relation",
+   "q": {
+    "en": "Seven ways to establish credibility?",
+    "ms": "Tujuh cara membina kredibiliti?"
+   },
+   "a": {
+    "en": "Honesty, objectivity, awareness of audience needs, credentials/expertise, endorsements, performance, sincerity.",
+    "ms": "Kejujuran, objektiviti, kesedaran keperluan, kelayakan/kepakaran, sokongan, prestasi, keikhlasan."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "tone",
+   "q": {
+    "en": "Four tips for a conversational tone?",
+    "ms": "Empat tip nada berbual?"
+   },
+   "a": {
+    "en": "Know texting vs writing, avoid preaching/bragging, careful with intimacy, careful with humour.",
+    "ms": "Beza teks dan penulisan, elak berkhutbah/bermegah, hati-hati keakraban, hati-hati jenaka."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "tone",
+   "q": {
+    "en": "Five benefits of plain language?",
+    "ms": "Lima manfaat bahasa mudah?"
+   },
+   "a": {
+    "en": "Easy meaning, supports “you” attitude, respect, productivity, helps global audiences.",
+    "ms": "Makna mudah, sokong sikap “you”, hormat, produktiviti, bantu audiens global."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "tone",
+   "q": {
+    "en": "When use passive voice?",
+    "ms": "Bila guna ayat pasif?"
+   },
+   "a": {
+    "en": "When being diplomatic or focusing on problems or solutions rather than people.",
+    "ms": "Bila diplomatik atau fokus pada masalah/penyelesaian, bukan orang."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "tone",
+   "q": {
+    "en": "Active voice example?",
+    "ms": "Contoh ayat aktif?"
+   },
+   "a": {
+    "en": "“The operations team developed the new procedure.”",
+    "ms": "“The operations team developed the new procedure.”"
+   }
+  },
+  {
+   "id": "c10",
+   "t": "words",
+   "q": {
+    "en": "Three levels of writing?",
+    "ms": "Tiga tahap penulisan?"
+   },
+   "a": {
+    "en": "Strong words, effective sentences, coherent paragraphs.",
+    "ms": "Perkataan kuat, ayat berkesan, perenggan koheren."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "words",
+   "q": {
+    "en": "Denotation vs connotation?",
+    "ms": "Denotasi lwn konotasi?"
+   },
+   "a": {
+    "en": "Denotation: explicit, literal dictionary meaning. Connotation: implicit associations and feelings.",
+    "ms": "Denotasi: makna kamus eksplisit. Konotasi: asosiasi dan perasaan implisit."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "words",
+   "q": {
+    "en": "Abstract vs concrete words?",
+    "ms": "Perkataan abstrak lwn konkrit?"
+   },
+   "a": {
+    "en": "Abstract: concepts, quality, characteristic. Concrete: can be touched, seen, visualised.",
+    "ms": "Abstrak: konsep, kualiti, ciri. Konkrit: boleh disentuh, dilihat, divisualkan."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "words",
+   "q": {
+    "en": "Four tips for choosing words?",
+    "ms": "Empat tip memilih perkataan?"
+   },
+   "a": {
+    "en": "Strong precise words, familiar words, avoid clichés and buzzwords, use jargon carefully.",
+    "ms": "Perkataan kuat dan tepat, biasa, elak klise dan buzzword, jargon hati-hati."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "sentence",
+   "q": {
+    "en": "Four sentence types?",
+    "ms": "Empat jenis ayat?"
+   },
+   "a": {
+    "en": "Simple, compound, complex, compound-complex.",
+    "ms": "Mudah, majmuk, kompleks, majmuk-kompleks."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "sentence",
+   "q": {
+    "en": "What is a compound sentence?",
+    "ms": "Apakah ayat majmuk?"
+   },
+   "a": {
+    "en": "Two main clauses joined by a conjunction.",
+    "ms": "Dua klausa utama dicantum konjungsi."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "sentence",
+   "q": {
+    "en": "What is a complex sentence?",
+    "ms": "Apakah ayat kompleks?"
+   },
+   "a": {
+    "en": "One main clause plus one or more subordinate clauses.",
+    "ms": "Satu klausa utama dan satu atau lebih klausa subordinat."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "sentence",
+   "q": {
+    "en": "Ways to emphasise key thoughts?",
+    "ms": "Cara menekankan fikiran utama?"
+   },
+   "a": {
+    "en": "More words, place at beginning or end, make it the subject.",
+    "ms": "Lebih banyak perkataan, letak di awal/akhir, jadikan subjek."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "para",
+   "q": {
+    "en": "Three paragraph elements?",
+    "ms": "Tiga elemen perenggan?"
+   },
+   "a": {
+    "en": "Topic sentence, support sentences, transitions.",
+    "ms": "Ayat topik, ayat sokongan, peralihan."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "para",
+   "q": {
+    "en": "Five ways to develop paragraphs?",
+    "ms": "Lima cara membina perenggan?"
+   },
+   "a": {
+    "en": "Illustration, comparison/contrast, cause and effect, classification, problem and solution.",
+    "ms": "Ilustrasi, perbandingan/perbezaan, sebab dan akibat, pengelasan, masalah dan penyelesaian."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "para",
+   "q": {
+    "en": "Five mobile writing techniques?",
+    "ms": "Lima teknik penulisan mudah alih?"
+   },
+   "a": {
+    "en": "Linear organisation, prioritise information, shorter focused messages, shorter subject lines/headings, shorter paragraphs.",
+    "ms": "Organisasi linear, utamakan maklumat, mesej pendek dan fokus, subjek/tajuk pendek, perenggan pendek."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "sensitive",
+   "q": {
+    "en": "Using “you” and “your” shows:",
+    "ms": "Menggunakan “you” dan “your” menunjukkan:"
+   },
+   "o": [
+    "Bias",
+    "The “you” attitude",
+    "Jargon",
+    "Passive voice"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Second-person pronouns support the “you” attitude.",
+    "ms": "Kata ganti kedua menyokong sikap “you”."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "sensitive",
+   "q": {
+    "en": "Which is NOT a bias type listed?",
+    "ms": "Yang mana BUKAN jenis bias disenaraikan?"
+   },
+   "o": [
+    "Gender",
+    "Hair colour",
+    "Disability",
+    "Age"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Gender, racial/ethnic, age, disability.",
+    "ms": "Jantina, kaum/etnik, umur, kecacatan."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "sensitive",
+   "q": {
+    "en": "“Be honest, not harsh” relates to:",
+    "ms": "“Jujur, bukan kasar” berkait dengan:"
+   },
+   "o": [
+    "Mobile writing",
+    "Jargon",
+    "Sentence types",
+    "Emphasising the positive"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Soften the blow.",
+    "ms": "Lembutkan kesan buruk."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "sensitive",
+   "q": {
+    "en": "Adhering to organisational policies belongs to:",
+    "ms": "Mematuhi dasar organisasi tergolong dalam:"
+   },
+   "o": [
+    "“You” attitude",
+    "Plain language",
+    "Paragraphs",
+    "Proofreading"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "relation",
+   "q": {
+    "en": "Which helps establish credibility?",
+    "ms": "Yang mana membantu kredibiliti?"
+   },
+   "o": [
+    "Secrecy",
+    "Exaggeration",
+    "Honesty",
+    "Jargon"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Honesty, objectivity, sincerity, etc.",
+    "ms": "Kejujuran, objektiviti, keikhlasan, dll."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "relation",
+   "q": {
+    "en": "Which is NOT a credibility element?",
+    "ms": "Yang mana BUKAN elemen kredibiliti?"
+   },
+   "o": [
+    "Endorsements",
+    "Performance",
+    "Exaggeration",
+    "Sincerity"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slides 10–11.",
+    "ms": "Slaid 10–11."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "tone",
+   "q": {
+    "en": "Which is advised for a conversational tone?",
+    "ms": "Yang mana dinasihatkan untuk nada berbual?"
+   },
+   "o": [
+    "Understand texting vs writing",
+    "Brag",
+    "Preach",
+    "Overuse humour"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Also be careful with intimacy and humour.",
+    "ms": "Juga hati-hati keakraban dan jenaka."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "tone",
+   "q": {
+    "en": "Plain language helps because it:",
+    "ms": "Bahasa mudah membantu kerana ia:"
+   },
+   "o": [
+    "Uses jargon",
+    "Confuses readers",
+    "Slows work",
+    "Shows respect and helps global audiences"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "tone",
+   "q": {
+    "en": "Which sentence is active?",
+    "ms": "Yang mana ayat aktif?"
+   },
+   "o": [
+    "The contract was signed.",
+    "This contract creates legal problems.",
+    "Mistakes were made.",
+    "The shipment was lost."
+   ],
+   "a": 1,
+   "e": {
+    "en": "Subject does the action.",
+    "ms": "Subjek melakukan tindakan."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "tone",
+   "q": {
+    "en": "“You lost the shipment.” is:",
+    "ms": "“You lost the shipment.” ialah:"
+   },
+   "o": [
+    "Diplomatic passive",
+    "Accusatory active",
+    "Neutral",
+    "Plain"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Table 5.4.",
+    "ms": "Jadual 5.4."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "tone",
+   "q": {
+    "en": "Passive is useful when you need to be:",
+    "ms": "Pasif berguna apabila anda perlu:"
+   },
+   "o": [
+    "Vague always",
+    "Accusatory",
+    "Long",
+    "Diplomatic"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "words",
+   "q": {
+    "en": "The literal dictionary meaning is:",
+    "ms": "Makna literal kamus ialah:"
+   },
+   "o": [
+    "Denotation",
+    "Connotation",
+    "Jargon",
+    "Buzzword"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Denotative words are explicit.",
+    "ms": "Perkataan denotatif eksplisit."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "words",
+   "q": {
+    "en": "Words that evoke feelings and associations are:",
+    "ms": "Perkataan yang menimbulkan perasaan dan asosiasi ialah:"
+   },
+   "o": [
+    "Denotative",
+    "Concrete",
+    "Connotative",
+    "Literal"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Connotative.",
+    "ms": "Konotatif."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "words",
+   "q": {
+    "en": "Concrete words are those you can:",
+    "ms": "Perkataan konkrit ialah yang anda boleh:"
+   },
+   "o": [
+    "Avoid",
+    "Only think about",
+    "Touch, see, visualise",
+    "Define abstractly"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 20.",
+    "ms": "Slaid 20."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "words",
+   "q": {
+    "en": "Which should you avoid?",
+    "ms": "Yang mana patut dielak?"
+   },
+   "o": [
+    "Clichés and buzzwords",
+    "Familiar words",
+    "Precise words",
+    "Strong words"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 21.",
+    "ms": "Slaid 21."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "sentence",
+   "q": {
+    "en": "Two main clauses joined by a conjunction is:",
+    "ms": "Dua klausa utama dicantum konjungsi ialah:"
+   },
+   "o": [
+    "Simple",
+    "Fragment",
+    "Complex",
+    "Compound"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Compound sentence.",
+    "ms": "Ayat majmuk."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "sentence",
+   "q": {
+    "en": "One main clause plus a subordinate clause is:",
+    "ms": "Satu klausa utama dan klausa subordinat ialah:"
+   },
+   "o": [
+    "Simple",
+    "Complex",
+    "Compound",
+    "Compound-complex"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Complex sentence.",
+    "ms": "Ayat kompleks."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "sentence",
+   "q": {
+    "en": "To emphasise a key idea, place it:",
+    "ms": "Untuk menekankan idea utama, letak di:"
+   },
+   "o": [
+    "In the middle always",
+    "At the beginning or end",
+    "In a footnote",
+    "In parentheses"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 25.",
+    "ms": "Slaid 25."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "sentence",
+   "q": {
+    "en": "A simple sentence has:",
+    "ms": "Ayat mudah mempunyai:"
+   },
+   "o": [
+    "Two main clauses",
+    "No clause",
+    "Three clauses",
+    "One main clause"
+   ],
+   "a": 3,
+   "e": {
+    "en": "One main clause with objects and phrases.",
+    "ms": "Satu klausa utama dengan objek dan frasa."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "para",
+   "q": {
+    "en": "Which is NOT a paragraph element?",
+    "ms": "Yang mana BUKAN elemen perenggan?"
+   },
+   "o": [
+    "Footer",
+    "Support sentences",
+    "Transitions",
+    "Topic sentence"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "para",
+   "q": {
+    "en": "A summary of the general idea is the:",
+    "ms": "Ringkasan idea umum ialah:"
+   },
+   "o": [
+    "Support sentence",
+    "Transition",
+    "Topic sentence",
+    "Heading"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Topic sentence.",
+    "ms": "Ayat topik."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "para",
+   "q": {
+    "en": "Which is a way to develop a paragraph?",
+    "ms": "Yang mana cara membina perenggan?"
+   },
+   "o": [
+    "Repetition",
+    "Random order",
+    "Cause and effect",
+    "Hyperlinks"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Illustration, comparison, cause and effect, classification, problem and solution.",
+    "ms": "Ilustrasi, perbandingan, sebab dan akibat, pengelasan, masalah dan penyelesaian."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "para",
+   "q": {
+    "en": "For mobile readers you should:",
+    "ms": "Untuk pembaca mudah alih anda patut:"
+   },
+   "o": [
+    "Write shorter messages",
+    "Write longer subject lines",
+    "Use long paragraphs",
+    "Use random order"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 30.",
+    "ms": "Slaid 30."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "sensitive",
+   "marks": 8,
+   "q": {
+    "en": "Explain four aspects of being sensitive to audience needs.",
+    "ms": "Terangkan empat aspek peka terhadap keperluan audiens."
+   },
+   "pts": {
+    "en": [
+     "“You” attitude with examples (2)",
+     "Etiquette: respect, tact, formality (2)",
+     "Emphasise the positive: avoid negative language, benefits, soften the blow (2)",
+     "Bias-free language: gender, race, age, disability (2)"
+    ],
+    "ms": [
+     "Sikap “you” dengan contoh (2)",
+     "Etiket: hormat, bijaksana, formaliti (2)",
+     "Tekankan positif: elak bahasa negatif, manfaat, lembutkan (2)",
+     "Bahasa bebas bias: jantina, kaum, umur, kecacatan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "tone",
+   "marks": 8,
+   "q": {
+    "en": "Discuss conversational tone, plain language and the choice between active and passive voice.",
+    "ms": "Bincangkan nada berbual, bahasa mudah dan pilihan antara ayat aktif dan pasif."
+   },
+   "pts": {
+    "en": [
+     "Conversational tone: avoid preaching and bragging (2)",
+     "Careful with intimacy and humour (1)",
+     "Plain language benefits (2)",
+     "Active voice is lively and direct (1)",
+     "Passive for diplomacy or focus on problems (2)"
+    ],
+    "ms": [
+     "Nada berbual: elak berkhutbah dan bermegah (2)",
+     "Hati-hati keakraban dan jenaka (1)",
+     "Manfaat bahasa mudah (2)",
+     "Ayat aktif lincah dan terus (1)",
+     "Pasif untuk diplomasi atau fokus masalah (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "words",
+   "marks": 6,
+   "q": {
+    "en": "Explain how to choose words that are correct and effective.",
+    "ms": "Terangkan cara memilih perkataan yang betul dan berkesan."
+   },
+   "pts": {
+    "en": [
+     "Denotation and connotation (2)",
+     "Abstract and concrete balance (2)",
+     "Strong precise familiar words, avoid clichés, jargon carefully (2)"
+    ],
+    "ms": [
+     "Denotasi dan konotasi (2)",
+     "Keseimbangan abstrak dan konkrit (2)",
+     "Perkataan kuat tepat biasa, elak klise, jargon hati-hati (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "sentence",
+   "marks": 6,
+   "q": {
+    "en": "Define the four sentence types and explain how to emphasise key ideas.",
+    "ms": "Takrif empat jenis ayat dan terangkan cara menekankan idea utama."
+   },
+   "pts": {
+    "en": [
+     "Simple and compound (2)",
+     "Complex and compound-complex (2)",
+     "Emphasis: more words, position, subject (2)"
+    ],
+    "ms": [
+     "Mudah dan majmuk (2)",
+     "Kompleks dan majmuk-kompleks (2)",
+     "Penekanan: lebih perkataan, kedudukan, subjek (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "para",
+   "marks": 8,
+   "q": {
+    "en": "Explain the paragraph elements, five ways to develop paragraphs, and five mobile writing techniques.",
+    "ms": "Terangkan elemen perenggan, lima cara membina perenggan dan lima teknik penulisan mudah alih."
+   },
+   "pts": {
+    "en": [
+     "Topic sentence, support sentences, transitions (3)",
+     "Five development methods (3)",
+     "Mobile techniques (2)"
+    ],
+    "ms": [
+     "Ayat topik, ayat sokongan, peralihan (3)",
+     "Lima cara pembinaan (3)",
+     "Teknik mudah alih (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "“You” attitude",
+   "Sikap “you”"
+  ],
+  [
+   "Etiquette",
+   "Etiket"
+  ],
+  [
+   "Euphemism",
+   "Eufemisme"
+  ],
+  [
+   "Bias-free language",
+   "Bahasa bebas bias"
+  ],
+  [
+   "Credibility",
+   "Kredibiliti"
+  ],
+  [
+   "Plain language",
+   "Bahasa mudah"
+  ],
+  [
+   "Active voice",
+   "Ayat aktif"
+  ],
+  [
+   "Passive voice",
+   "Ayat pasif"
+  ],
+  [
+   "Denotation",
+   "Denotasi"
+  ],
+  [
+   "Connotation",
+   "Konotasi"
+  ],
+  [
+   "Abstract word",
+   "Perkataan abstrak"
+  ],
+  [
+   "Concrete word",
+   "Perkataan konkrit"
+  ],
+  [
+   "Cliché",
+   "Klise"
+  ],
+  [
+   "Jargon",
+   "Jargon"
+  ],
+  [
+   "Topic sentence",
+   "Ayat topik"
+  ],
+  [
+   "Transition",
+   "Peralihan"
+  ]
+ ]
+}

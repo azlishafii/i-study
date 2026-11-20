@@ -1236,11 +1236,11 @@
    },
    "o": [
     "Higher performance",
-    "Groupthink",
+    "Diverse views",
     "More knowledge",
-    "Diverse views"
+    "Groupthink"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Groupthink, hidden agendas, cost and overload are disadvantages.",
     "ms": "Groupthink, agenda tersembunyi, kos dan beban ialah kekurangan."
@@ -1254,12 +1254,12 @@
     "ms": "Yang mana KELEBIHAN pasukan?"
    },
    "o": [
-    "Hidden agendas",
-    "Overload",
     "Increased acceptance of a solution",
+    "Overload",
+    "Hidden agendas",
     "Cost"
    ],
-   "a": 2,
+   "a": 0,
    "e": {
     "en": "Others are disadvantages.",
     "ms": "Yang lain ialah kekurangan."
@@ -1274,11 +1274,11 @@
    },
    "o": [
     "Unclear purpose",
-    "Consensus-based decision making",
     "Avoiding conflict",
+    "Consensus-based decision making",
     "Authoritarian control"
    ],
-   "a": 1,
+   "a": 2,
    "e": {
     "en": "Effective teams use consensus and resolve conflict effectively.",
     "ms": "Pasukan berkesan guna konsensus dan selesai konflik dengan berkesan."
@@ -1292,12 +1292,12 @@
     "ms": "“Mendominasi orang dengan menunjukkan kelebihan” ialah peranan:"
    },
    "o": [
-    "Controlling",
-    "Encouraging",
     "Harmonizing",
+    "Encouraging",
+    "Controlling",
     "Coordinating"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "Controlling is a dysfunctional, self-oriented role.",
     "ms": "Controlling ialah peranan tidak fungsian berorientasikan diri."
@@ -1311,12 +1311,12 @@
     "ms": "Menggunakan humor meredakan ketegangan dan mengantara perbezaan ialah:"
    },
    "o": [
-    "Diverting",
     "Harmonizing",
+    "Diverting",
     "Withdrawing",
     "Attention seeking"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Harmonizing is a team-maintenance role.",
     "ms": "Harmonizing ialah peranan penyelenggaraan pasukan."
@@ -1331,11 +1331,11 @@
    },
    "o": [
     "Compromising",
-    "Withdrawing",
+    "Procedure setting",
     "Initiating",
-    "Procedure setting"
+    "Withdrawing"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Withdrawing is dysfunctional.",
     "ms": "Withdrawing tidak fungsian."
@@ -1349,12 +1349,12 @@
     "ms": "Mencadangkan prosedur membuat keputusan ke arah matlamat ialah:"
    },
    "o": [
-    "Procedure setting",
     "Controlling",
+    "Procedure setting",
     "Diverting",
     "Encouraging"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Procedure setting is a task-oriented functional role.",
     "ms": "Procedure setting ialah peranan fungsian berorientasikan tugas."
@@ -1369,11 +1369,11 @@
    },
    "o": [
     "Roles assumed",
-    "Phase of team development",
     "Office colour",
+    "Phase of team development",
     "Conflict resolution skills"
    ],
-   "a": 2,
+   "a": 1,
    "e": {
     "en": "The four factors are roles, phase, conflict skills and overcoming resistance.",
     "ms": "Empat faktor ialah peranan, fasa, kemahiran konflik dan mengatasi tentangan."
@@ -1388,11 +1388,11 @@
    },
    "o": [
     "Ignore objections",
-    "Actively listen",
+    "Dominate",
     "Delay forever",
-    "Dominate"
+    "Actively listen"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Listen, express interest, ask questions, collaborate.",
     "ms": "Dengar, tunjuk minat, tanya, bekerjasama."
@@ -1406,12 +1406,12 @@
     "ms": "Yang mana dinasihatkan dalam penulisan kolaboratif?"
    },
    "o": [
-    "Compose together as a group",
     "Clarify individual responsibilities",
+    "Compose together as a group",
     "Skip goal setting",
     "Use incompatible tools"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Clarify responsibilities; avoid composing as a group.",
     "ms": "Jelaskan tanggungjawab; elak mengarang sebagai kumpulan."
@@ -1445,11 +1445,11 @@
    },
    "o": [
     "The person",
-    "Controllable behaviour",
     "Flaws only",
+    "Controllable behaviour",
     "Vague impressions"
    ],
-   "a": 1,
+   "a": 2,
    "e": {
     "en": "Focus on what the writer can control.",
     "ms": "Fokus pada apa yang penulis boleh kawal."
@@ -1483,11 +1483,11 @@
    },
    "o": [
     "Close effectively",
-    "Set the agenda",
+    "Keep discussion on track",
     "Encourage participation",
-    "Keep discussion on track"
+    "Set the agenda"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Preparing: purpose, participants, time and venue, agenda.",
     "ms": "Persediaan: tujuan, peserta, masa dan tempat, agenda."
@@ -1501,12 +1501,12 @@
     "ms": "Yang mana teknologi mesyuarat maya?"
    },
    "o": [
-    "Telepresence",
     "Face-to-face",
+    "Telepresence",
     "Memo",
     "Brochure"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Instant messaging, teleconferencing, telepresence and webinars.",
     "ms": "Pesanan segera, telesidang, telepresence dan webinar."
@@ -1521,11 +1521,11 @@
    },
    "o": [
     "Plan less",
-    "Ignore tech limits",
     "Give participants chances to participate",
+    "Ignore tech limits",
     "Skip preparation"
    ],
-   "a": 2,
+   "a": 1,
    "e": {
     "en": "Plan extra, know limits, engage participants.",
     "ms": "Rancang lebih, tahu had, libatkan peserta."
@@ -1540,11 +1540,11 @@
    },
    "o": [
     "Decoding",
-    "Receiving",
+    "Responding",
     "Evaluating",
-    "Responding"
+    "Receiving"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Receiving, decoding, remembering, evaluating, responding.",
     "ms": "Menerima, menyahkod, mengingat, menilai, bertindak balas."
@@ -1558,12 +1558,12 @@
     "ms": "Pendengar berkesan:"
    },
    "o": [
-    "Interrupt when they disagree",
     "Mentally paraphrase key points",
+    "Interrupt when they disagree",
     "Take no notes",
     "Listen passively"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Paraphrasing helps attention and comprehension.",
     "ms": "Parafrasa membantu perhatian dan kefahaman."
@@ -1598,10 +1598,10 @@
    "o": [
     "Touch",
     "Time and space",
-    "Personal appearance",
-    "Email attachments"
+    "Email attachments",
+    "Personal appearance"
    ],
-   "a": 3,
+   "a": 2,
    "e": {
     "en": "Six categories: facial expression, gesture/posture, vocal characteristics, appearance, touch, time/space.",
     "ms": "Enam kategori: ekspresi muka, gerak isyarat/postur, vokal, penampilan, sentuhan, masa/ruang."
@@ -1615,12 +1615,12 @@
     "ms": "Nada, kelangsingan dan kelantangan tergolong dalam:"
    },
    "o": [
-    "Gesture and posture",
     "Vocal characteristics",
+    "Gesture and posture",
     "Touch",
     "Personal appearance"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Vocal characteristics.",
     "ms": "Ciri vokal."
@@ -1635,11 +1635,11 @@
    },
    "o": [
     "Order messy foods",
-    "Avoid alcohol",
+    "Order the most expensive item",
     "Talk about controversial topics",
-    "Order the most expensive item"
+    "Avoid alcohol"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Choose easy-to-eat foods and avoid alcohol.",
     "ms": "Pilih makanan mudah dimakan dan elak alkohol."
@@ -1654,11 +1654,11 @@
    },
    "o": [
     "Assume privacy",
-    "Use Reply All for everything",
     "Don’t present opinions as facts",
+    "Use Reply All for everything",
     "Use profanity"
    ],
-   "a": 2,
+   "a": 1,
    "e": {
     "en": "Never assume privacy; avoid Reply All; avoid profanity.",
     "ms": "Jangan anggap privasi; elak Reply All; elak carutan."
@@ -1672,12 +1672,12 @@
     "ms": "Etiket telefon baik termasuk:"
    },
    "o": [
-    "Ending calls with courtesy and clarity",
     "Ignoring voicemail",
+    "Ending calls with courtesy and clarity",
     "Leaving unclear messages",
     "Sounding bored"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "From slide 40.",
     "ms": "Daripada slaid 40."
@@ -1692,11 +1692,11 @@
    },
    "o": [
     "Start immediately",
-    "Ask if it is a good time",
+    "Multitask",
     "Use emoticons",
-    "Multitask"
+    "Ask if it is a good time"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Slide 43.",
     "ms": "Slaid 43."

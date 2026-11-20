@@ -697,11 +697,11 @@
    },
    "o": [
     "Prezis",
-    "Flip charts",
+    "Telegrams",
     "Whiteboards",
-    "Telegrams"
+    "Flip charts"
    ],
-   "a": 3,
+   "a": 1,
    "e": {
     "en": "Slide 5 list.",
     "ms": "Senarai slaid 5."
@@ -715,12 +715,12 @@
     "ms": "Mengesahkan pelan reka bentuk termasuk:"
    },
    "o": [
-    "Double-check cultural assumptions",
+    "Use every effect",
     "Add more text",
     "Avoid reviewing",
-    "Use every effect"
+    "Double-check cultural assumptions"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "Slide 6.",
     "ms": "Slaid 6."
@@ -772,12 +772,12 @@
     "ms": "“Slideument” ialah:"
    },
    "o": [
-    "A slide-document hybrid",
-    "A type of animation",
     "A chart",
+    "A type of animation",
+    "A slide-document hybrid",
     "A handout"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "Too much text for a slide.",
     "ms": "Terlalu banyak teks untuk slaid."
@@ -810,12 +810,12 @@
     "ms": "Mereka bentuk sekitar visual utama membantu:"
    },
    "o": [
-    "Structuring, organising, explaining",
+    "Typing",
     "Printing",
     "Billing",
-    "Typing"
+    "Structuring, organising, explaining"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "Slide 11.",
     "ms": "Slaid 11."
@@ -829,12 +829,12 @@
     "ms": "Slide master membantu mengekalkan:"
    },
    "o": [
-    "Design consistency",
     "Animation only",
+    "Design consistency",
     "Handouts",
     "Hyperlinks"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Slide 13.",
     "ms": "Slaid 13."
@@ -867,12 +867,12 @@
     "ms": "Setiap slaid sepatutnya ada:"
    },
    "o": [
-    "One idea",
+    "No title",
     "Five ideas",
     "As many as possible",
-    "No title"
+    "One idea"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "One thought, concept or idea.",
     "ms": "Satu fikiran, konsep atau idea."
@@ -886,12 +886,12 @@
     "ms": "Yang mana perkataan slaid betul?"
    },
    "o": [
-    "Long sentences",
     "Short parallel bulleted phrases",
+    "Long sentences",
     "Full paragraphs",
     "Passive voice"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Short bulleted phrases, parallel form, active voice.",
     "ms": "Frasa pendek berpoin, selari, ayat aktif."
@@ -906,11 +906,11 @@
    },
    "o": [
     "Add all data",
-    "Limit data and shorten numbers",
     "Use tiny fonts",
+    "Limit data and shorten numbers",
     "Hide key points"
    ],
-   "a": 1,
+   "a": 2,
    "e": {
     "en": "Slide 17.",
     "ms": "Slaid 17."
@@ -926,10 +926,10 @@
    "o": [
     "Functional animation",
     "Hyperlinks",
-    "Multimedia",
-    "Footnotes"
+    "Footnotes",
+    "Multimedia"
    ],
-   "a": 3,
+   "a": 2,
    "e": {
     "en": "Four categories: functional, transitions/builds, hyperlinks, multimedia.",
     "ms": "Empat kategori: fungsian, transisi/build, hiperpautan, multimedia."
@@ -964,10 +964,10 @@
    "o": [
     "Four",
     "Six",
-    "Eight",
-    "Ten"
+    "Ten",
+    "Eight"
    ],
-   "a": 2,
+   "a": 3,
    "e": {
     "en": "Readable to fully operational: eight.",
     "ms": "Mudah dibaca hingga berfungsi: lapan."
@@ -981,12 +981,12 @@
     "ms": "Slaid tajuk mencipta:"
    },
    "o": [
-    "A first impression",
     "A handout",
+    "A first impression",
     "An animation",
     "A hyperlink"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Slide 23.",
     "ms": "Slaid 23."
@@ -1000,12 +1000,12 @@
     "ms": "Slaid navigasi:"
    },
    "o": [
-    "Guide the audience through your outline",
     "Replace the speaker",
+    "Guide the audience through your outline",
     "Contain all details",
     "Are optional decoration"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Slide 23.",
     "ms": "Slaid 23."
@@ -1019,12 +1019,12 @@
     "ms": "Yang mana kandungan handout baik?"
    },
    "o": [
-    "Case studies",
+    "Nothing",
     "Passwords",
     "Random images",
-    "Nothing"
+    "Case studies"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "Slide 24.",
     "ms": "Slaid 24."
@@ -1038,12 +1038,12 @@
     "ms": "Yang mana BUKAN faktor mengedar handout?"
    },
    "o": [
-    "Timing",
+    "Slide colour",
     "Nature of content",
     "Personal preference",
-    "Slide colour"
+    "Timing"
    ],
-   "a": 3,
+   "a": 0,
    "e": {
     "en": "Timing, nature of content, personal preference.",
     "ms": "Masa, jenis kandungan, keutamaan peribadi."
@@ -1058,11 +1058,11 @@
    },
    "o": [
     "Focused",
-    "Fully operational",
     "Simple",
+    "Fully operational",
     "Clear"
    ],
-   "a": 1,
+   "a": 2,
    "e": {
     "en": "Fully operational.",
     "ms": "Berfungsi sepenuhnya."
@@ -1076,12 +1076,12 @@
     "ms": "Menggunakan “active voice” pada slaid menjadikan teks:"
    },
    "o": [
-    "More direct",
-    "Longer",
     "More passive",
+    "Longer",
+    "More direct",
     "Less readable"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "Slide 16.",
     "ms": "Slaid 16."

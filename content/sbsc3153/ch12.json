@@ -1,0 +1,1385 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch12",
+ "num": 12,
+ "title": {
+  "en": "Writing Persuasive Messages",
+  "ms": "Menulis Mesej Memujuk"
+ },
+ "standard": "Bovee Ch 12",
+ "outcomes": {
+  "en": [
+   "Apply the three-step writing process to persuasive messages",
+   "Describe a strategy for persuasive business messages and the three most common categories",
+   "Describe a strategy for marketing and sales messages and adapt for social media",
+   "Identify steps to avoid ethical lapses in marketing and sales messages"
+  ],
+  "ms": [
+   "Gunakan proses penulisan tiga langkah untuk mesej memujuk",
+   "Huraikan strategi mesej perniagaan memujuk dan tiga kategori paling lazim",
+   "Huraikan strategi mesej pemasaran dan jualan dan sesuaikan untuk media sosial",
+   "Kenal pasti langkah mengelak kecuaian etika dalam mesej pemasaran dan jualan"
+  ]
+ },
+ "sections": [
+  {
+   "id": "process",
+   "icon": "🪜",
+   "title": {
+    "en": "Three-Step Process for Persuasion",
+    "ms": "Proses Tiga Langkah untuk Pujukan"
+   },
+   "ref": "Slides 3–11",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Step 1: Plan",
+     "ms": "Langkah 1: Rancang"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Analyse the situation: audience desires, needs and culture; refer to demographics, psychographics, motivation",
+      "Gather information for persuasive business, marketing and sales messages",
+      "Select the right media: analyse options, choose a cost-effective combination, employ multiple media and channels",
+      "Organise: audience-centred “you” attitude, limited scope, explain reason, build interest, ask for a decision or action, choose approach"
+     ],
+     "ms": [
+      "Analisis situasi: kehendak, keperluan dan budaya audiens; rujuk demografi, psikografi, motivasi",
+      "Kumpul maklumat untuk mesej perniagaan memujuk, pemasaran dan jualan",
+      "Pilih media: analisis pilihan, gabungan kos efektif, guna pelbagai media dan saluran",
+      "Susun: sikap “you”, skop terhad, terangkan sebab, bina minat, minta keputusan atau tindakan, pilih pendekatan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Step 2: Write",
+     "ms": "Langkah 2: Tulis"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Use positive and polite language",
+      "Respect cultural differences",
+      "Be sensitive to organisational cultures",
+      "Establish your credibility"
+     ],
+     "ms": [
+      "Guna bahasa positif dan sopan",
+      "Hormati perbezaan budaya",
+      "Peka terhadap budaya organisasi",
+      "Bina kredibiliti anda"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Building credibility",
+     "ms": "Membina kredibiliti"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Use simple language; provide objective evidence; identify information sources",
+      "Establish common ground; emphasise common beliefs, attitudes and experiences",
+      "Be objective; present fair and logical arguments; focus on audience’s best interests",
+      "Persuade with logic; build credibility before presenting the proposal"
+     ],
+     "ms": [
+      "Guna bahasa mudah; beri bukti objektif; nyatakan sumber maklumat",
+      "Bina titik persamaan; tekankan kepercayaan, sikap dan pengalaman sama",
+      "Objektif; hujah adil dan logik; fokus kepentingan terbaik audiens",
+      "Memujuk dengan logik; bina kredibiliti sebelum membentang cadangan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strategy",
+   "icon": "🧠",
+   "title": {
+    "en": "Four Essential Strategies",
+    "ms": "Empat Strategi Penting"
+   },
+   "ref": "Slides 13–20",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Framing your arguments (AIDA model)",
+      "Balancing emotional and logical appeals",
+      "Reinforcing your position",
+      "Anticipating objections"
+     ],
+     "ms": [
+      "Membingkai hujah (model AIDA)",
+      "Mengimbangi rayuan emosi dan logik",
+      "Menguatkan pendirian",
+      "Menjangka bantahan"
+     ]
+    },
+    {
+     "k": "flow",
+     "en": [
+      "Attention",
+      "Interest",
+      "Desire",
+      "Action"
+     ],
+     "ms": [
+      "Perhatian (Attention)",
+      "Minat (Interest)",
+      "Keinginan (Desire)",
+      "Tindakan (Action)"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Balancing appeals: four factors",
+     "ms": "Mengimbangi rayuan: empat faktor"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Actions you hope to motivate",
+      "Readers’ expectations",
+      "Degree of resistance",
+      "Position in the power structure of the organisation"
+     ],
+     "ms": [
+      "Tindakan yang ingin dimotivasi",
+      "Jangkaan pembaca",
+      "Tahap tentangan",
+      "Kedudukan dalam struktur kuasa organisasi"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Emotional appeals",
+       "Logical appeals"
+      ],
+      "ms": [
+       "Rayuan emosi",
+       "Rayuan logik"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Feelings, emotions, sympathies",
+        "Analogy, induction, deduction"
+       ],
+       "ms": [
+        "Perasaan, emosi, simpati",
+        "Analogi, induksi, deduksi"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Avoiding faulty logic (7)",
+     "ms": "Mengelak logik cacat (7)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Hasty generalisations",
+      "Circular reasoning",
+      "Attacking an opponent",
+      "Oversimplifying a complex issue",
+      "Mistaken assumptions of cause and effect",
+      "Faulty analogies",
+      "Illogical support"
+     ],
+     "ms": [
+      "Generalisasi tergesa-gesa",
+      "Penaakulan bulatan",
+      "Menyerang lawan",
+      "Memudahkan isu kompleks secara berlebihan",
+      "Andaian sebab-akibat yang salah",
+      "Analogi cacat",
+      "Sokongan tidak logik"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Reinforcing your position",
+     "ms": "Menguatkan pendirian"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Believable evidence",
+      "Examine your language",
+      "Use metaphors and analogies",
+      "Audience benefits"
+     ],
+     "ms": [
+      "Bukti boleh dipercayai",
+      "Periksa bahasa anda",
+      "Guna metafora dan analogi",
+      "Manfaat audiens"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Anticipating objections",
+     "ms": "Menjangka bantahan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Identify areas of potential resistance",
+      "Find solutions to potential objections",
+      "Present all sides of the story",
+      "Explain pros and cons"
+     ],
+     "ms": [
+      "Kenal pasti kawasan tentangan",
+      "Cari penyelesaian kepada bantahan",
+      "Bentang semua sisi cerita",
+      "Terangkan kebaikan dan keburukan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Common mistakes to avoid",
+     "ms": "Kesilapan lazim untuk dielak"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Using a hard sell",
+      "Resisting compromise",
+      "Relying solely on great arguments",
+      "Using a “one-shot” approach"
+     ],
+     "ms": [
+      "Jualan agresif (hard sell)",
+      "Menolak kompromi",
+      "Bergantung hanya pada hujah hebat",
+      "Pendekatan “sekali cuba”"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "types",
+   "icon": "📣",
+   "title": {
+    "en": "Three Categories of Persuasive Business Messages",
+    "ms": "Tiga Kategori Mesej Perniagaan Memujuk"
+   },
+   "ref": "Slides 21–24",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Category",
+       "Key points"
+      ],
+      "ms": [
+       "Kategori",
+       "Poin utama"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Requests for action",
+        "Direct approach for anticipated requests; indirect approach or AIDA for unanticipated requests; open with an attention-getting device; goals: gain credibility and convince readers you will help solve a problem"
+       ],
+       "ms": [
+        "Permintaan tindakan",
+        "Pendekatan terus untuk permintaan dijangka; tidak terus atau AIDA untuk tidak dijangka; buka dengan penarik perhatian; matlamat: bina kredibiliti dan yakinkan anda bantu selesaikan masalah"
+       ]
+      },
+      {
+       "en": [
+        "Presentations of ideas",
+        "Change attitudes or beliefs; consider a new idea; reexamine options; reconsider ways of thinking"
+       ],
+       "ms": [
+        "Pembentangan idea",
+        "Ubah sikap atau kepercayaan; pertimbang idea baru; semak semula pilihan; fikir semula cara berfikir"
+       ]
+      },
+      {
+       "en": [
+        "Claims and requests for adjustment",
+        "Review facts in a positive tone; outline problem and status; be specific about the resolution sought; give a good reason; close on a respectful note"
+       ],
+       "ms": [
+        "Tuntutan dan permintaan pelarasan",
+        "Semak fakta dengan nada positif; garis masalah dan status; spesifik tentang penyelesaian; beri sebab baik; tutup dengan hormat"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "market",
+   "icon": "🛒",
+   "title": {
+    "en": "Marketing and Sales Messages",
+    "ms": "Mesej Pemasaran dan Jualan"
+   },
+   "ref": "Slides 26–30",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Marketing messages",
+       "Sales messages"
+      ],
+      "ms": [
+       "Mesej pemasaran",
+       "Mesej jualan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Don’t ask for an immediate decision",
+        "Ask the prospect to make an immediate decision"
+       ],
+       "ms": [
+        "Tidak minta keputusan segera",
+        "Minta prospek buat keputusan segera"
+       ]
+      },
+      {
+       "en": [
+        "Introduce new products",
+        "Request to buy a specific product or service"
+       ],
+       "ms": [
+        "Memperkenalkan produk baru",
+        "Minta beli produk atau perkhidmatan tertentu"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Planning",
+     "ms": "Perancangan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Assess audience needs",
+      "Analyse your competition",
+      "Determine key selling points and benefits",
+      "Anticipate purchase options"
+     ],
+     "ms": [
+      "Nilai keperluan audiens",
+      "Analisis pesaing",
+      "Tentukan poin jualan dan manfaat utama",
+      "Jangka pilihan pembelian"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "AIDA in conventional messages",
+     "ms": "AIDA dalam mesej konvensional"
+    },
+    {
+     "k": "flow",
+     "en": [
+      "Get the reader’s attention",
+      "Build interest",
+      "Increase desire",
+      "Motivate action"
+     ],
+     "ms": [
+      "Tarik perhatian pembaca",
+      "Bina minat",
+      "Tingkat keinginan",
+      "Motivasi tindakan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Social media promotion",
+     "ms": "Promosi media sosial"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Facilitate community building",
+      "Listen at least as much as you talk",
+      "Initiate and respond to community conversations",
+      "Provide information people want",
+      "Identify and support your champions",
+      "Be real",
+      "Integrate conventional marketing and sales strategies"
+     ],
+     "ms": [
+      "Mudahkan pembinaan komuniti",
+      "Dengar sekurang-kurangnya sebanyak bercakap",
+      "Mulakan dan balas perbualan komuniti",
+      "Beri maklumat yang orang mahu",
+      "Kenal pasti dan sokong juara anda",
+      "Jadilah tulen",
+      "Integrasi strategi pemasaran dan jualan konvensional"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Mobile",
+     "ms": "Mudah alih"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Mobile advertising: short, simple text ads; mobile-optimised video; fast and straightforward",
+      "Mobile commerce: searching for product reviews and stores; finding coupons and promotions; making purchases"
+     ],
+     "ms": [
+      "Iklan mudah alih: iklan teks pendek dan ringkas; video dioptimumkan; pantas dan terus",
+      "Dagang mudah alih: cari ulasan produk dan kedai; cari kupon dan promosi; membuat pembelian"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ethics",
+   "icon": "⚖️",
+   "title": {
+    "en": "Ethics, Legal Compliance and Etiquette",
+    "ms": "Etika, Pematuhan Undang-undang dan Etiket"
+   },
+   "ref": "Slides 32–34",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Promotional messages are subject to **federal, state and international** laws and regulations.",
+     "ms": "Mesej promosi tertakluk kepada undang-undang dan peraturan **persekutuan, negeri dan antarabangsa**."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Messages must be **truthful and non-deceptive**",
+      "Claims must be **backed by evidence**",
+      "**“Bait-and-switch”** advertising is illegal",
+      "Children’s messages are subject to special rules",
+      "Can be **binding contracts** in many states",
+      "You must have **permission** to use a person’s identity"
+     ],
+     "ms": [
+      "Mesej mesti **benar dan tidak mengelirukan**",
+      "Tuntutan mesti **disokong bukti**",
+      "Iklan **“bait-and-switch”** adalah haram",
+      "Mesej kanak-kanak tertakluk peraturan khas",
+      "Boleh jadi **kontrak mengikat** di banyak negeri",
+      "Mesti ada **kebenaran** menggunakan identiti seseorang"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Maintaining etiquette",
+     "ms": "Mengekalkan etiket"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Audience-centred approach",
+      "Use technology to demonstrate sensitivity to user needs",
+      "Opt-in email newsletters"
+     ],
+     "ms": [
+      "Pendekatan berpusatkan audiens",
+      "Guna teknologi untuk tunjuk kepekaan terhadap keperluan pengguna",
+      "Surat berita e-mel opt-in"
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "process",
+   "q": {
+    "en": "What do you refer to when analysing an audience in persuasion?",
+    "ms": "Apa dirujuk semasa menganalisis audiens dalam pujukan?"
+   },
+   "a": {
+    "en": "Demographics, psychographics, motivation.",
+    "ms": "Demografi, psikografi, motivasi."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "process",
+   "q": {
+    "en": "How do you organise a persuasive message?",
+    "ms": "Bagaimana menyusun mesej memujuk?"
+   },
+   "a": {
+    "en": "“You” attitude, limited scope, explain reason, build interest, ask for decision/action, choose approach.",
+    "ms": "Sikap “you”, skop terhad, terangkan sebab, bina minat, minta keputusan/tindakan, pilih pendekatan."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "process",
+   "q": {
+    "en": "Four ways to encourage a positive response?",
+    "ms": "Empat cara menggalakkan respons positif?"
+   },
+   "a": {
+    "en": "Positive polite language, respect cultural differences, sensitivity to organisational cultures, establish credibility.",
+    "ms": "Bahasa positif sopan, hormati budaya, peka budaya organisasi, bina kredibiliti."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "process",
+   "q": {
+    "en": "Ways to build credibility?",
+    "ms": "Cara membina kredibiliti?"
+   },
+   "a": {
+    "en": "Simple language, objective evidence, identify sources, common ground, objectivity, fair arguments, audience’s best interests, logic.",
+    "ms": "Bahasa mudah, bukti objektif, nyata sumber, titik persamaan, objektif, hujah adil, kepentingan audiens, logik."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "strategy",
+   "q": {
+    "en": "Four essential strategies for persuasion?",
+    "ms": "Empat strategi penting pujukan?"
+   },
+   "a": {
+    "en": "Framing arguments, balancing emotional and logical appeals, reinforcing position, anticipating objections.",
+    "ms": "Bingkai hujah, imbang rayuan emosi dan logik, kuatkan pendirian, jangka bantahan."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "strategy",
+   "q": {
+    "en": "What does AIDA stand for?",
+    "ms": "AIDA bermaksud apa?"
+   },
+   "a": {
+    "en": "Attention, Interest, Desire, Action.",
+    "ms": "Attention, Interest, Desire, Action."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "strategy",
+   "q": {
+    "en": "Four factors in balancing emotional and logical appeals?",
+    "ms": "Empat faktor mengimbangi rayuan emosi dan logik?"
+   },
+   "a": {
+    "en": "Action to motivate, readers’ expectations, degree of resistance, position in power structure.",
+    "ms": "Tindakan, jangkaan pembaca, tahap tentangan, kedudukan dalam struktur kuasa."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "strategy",
+   "q": {
+    "en": "Logical appeals include?",
+    "ms": "Rayuan logik termasuk?"
+   },
+   "a": {
+    "en": "Analogy, induction, deduction.",
+    "ms": "Analogi, induksi, deduksi."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "strategy",
+   "q": {
+    "en": "List seven faulty-logic mistakes.",
+    "ms": "Senaraikan tujuh kesilapan logik cacat."
+   },
+   "a": {
+    "en": "Hasty generalisations, circular reasoning, attacking an opponent, oversimplifying, mistaken cause and effect, faulty analogies, illogical support.",
+    "ms": "Generalisasi tergesa-gesa, penaakulan bulatan, menyerang lawan, memudahkan berlebihan, sebab-akibat salah, analogi cacat, sokongan tidak logik."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "strategy",
+   "q": {
+    "en": "How do you reinforce your position?",
+    "ms": "Bagaimana menguatkan pendirian?"
+   },
+   "a": {
+    "en": "Believable evidence, examine language, metaphors and analogies, audience benefits.",
+    "ms": "Bukti boleh dipercayai, periksa bahasa, metafora dan analogi, manfaat audiens."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "strategy",
+   "q": {
+    "en": "How do you anticipate objections?",
+    "ms": "Bagaimana menjangka bantahan?"
+   },
+   "a": {
+    "en": "Identify resistance, find solutions, present all sides, explain pros and cons.",
+    "ms": "Kenal pasti tentangan, cari penyelesaian, bentang semua sisi, terangkan kebaikan dan keburukan."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "strategy",
+   "q": {
+    "en": "Four common mistakes in persuasion?",
+    "ms": "Empat kesilapan lazim dalam pujukan?"
+   },
+   "a": {
+    "en": "Hard sell, resisting compromise, relying solely on great arguments, one-shot approach.",
+    "ms": "Hard sell, menolak kompromi, bergantung hujah hebat sahaja, pendekatan sekali cuba."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "types",
+   "q": {
+    "en": "Three common persuasive business message categories?",
+    "ms": "Tiga kategori mesej perniagaan memujuk?"
+   },
+   "a": {
+    "en": "Requests for action, presentations of ideas, claims and requests for adjustment.",
+    "ms": "Permintaan tindakan, pembentangan idea, tuntutan dan permintaan pelarasan."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "types",
+   "q": {
+    "en": "Direct or indirect for unanticipated requests?",
+    "ms": "Terus atau tidak terus untuk permintaan tidak dijangka?"
+   },
+   "a": {
+    "en": "Indirect approach or AIDA.",
+    "ms": "Pendekatan tidak terus atau AIDA."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "types",
+   "q": {
+    "en": "Steps for a persuasive claim?",
+    "ms": "Langkah tuntutan memujuk?"
+   },
+   "a": {
+    "en": "Review facts positively, outline problem and status, specific resolution, good reason, respectful close.",
+    "ms": "Semak fakta positif, garis masalah dan status, penyelesaian spesifik, sebab baik, tutup hormat."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "market",
+   "q": {
+    "en": "Marketing vs sales messages?",
+    "ms": "Mesej pemasaran lwn jualan?"
+   },
+   "a": {
+    "en": "Marketing: no immediate decision, introduces new products. Sales: asks for an immediate decision, requests to buy a specific product.",
+    "ms": "Pemasaran: tiada keputusan segera, perkenal produk baru. Jualan: keputusan segera, minta beli produk tertentu."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "market",
+   "q": {
+    "en": "Four planning steps for marketing and sales messages?",
+    "ms": "Empat langkah merancang mesej pemasaran dan jualan?"
+   },
+   "a": {
+    "en": "Assess audience needs, analyse competition, determine key selling points and benefits, anticipate purchase options.",
+    "ms": "Nilai keperluan, analisis pesaing, poin jualan dan manfaat, jangka pilihan pembelian."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "market",
+   "q": {
+    "en": "Name seven social media promotion tips.",
+    "ms": "Namakan tujuh tip promosi media sosial."
+   },
+   "a": {
+    "en": "Community building, listen as much as talk, join conversations, give wanted information, support champions, be real, integrate conventional strategies.",
+    "ms": "Bina komuniti, dengar sebanyak bercakap, sertai perbualan, beri maklumat dikehendaki, sokong juara, tulen, integrasi strategi konvensional."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "ethics",
+   "q": {
+    "en": "Legal rules for marketing messages?",
+    "ms": "Peraturan undang-undang mesej pemasaran?"
+   },
+   "a": {
+    "en": "Truthful and non-deceptive; claims backed by evidence; bait-and-switch illegal; special rules for children; may be binding contracts; permission to use a person’s identity.",
+    "ms": "Benar dan tidak mengelirukan; tuntutan bukti; bait-and-switch haram; peraturan kanak-kanak; kontrak mengikat; kebenaran identiti."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "ethics",
+   "q": {
+    "en": "What is bait-and-switch?",
+    "ms": "Apakah bait-and-switch?"
+   },
+   "a": {
+    "en": "An illegal advertising practice: advertising one offer to attract buyers then pushing another. (Definition from textbook idea; slides only say it is illegal.)",
+    "ms": "Amalan iklan haram: iklankan satu tawaran untuk tarik pembeli kemudian tolak yang lain. (Takrif dari buku teks; slaid hanya kata ia haram.)"
+   }
+  },
+  {
+   "id": "c21",
+   "t": "ethics",
+   "q": {
+    "en": "What does opt-in email mean for etiquette?",
+    "ms": "Apa maksud opt-in e-mel dalam etiket?"
+   },
+   "a": {
+    "en": "Recipients choose to subscribe to newsletters.",
+    "ms": "Penerima memilih melanggan surat berita."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "process",
+   "q": {
+    "en": "Demographics and psychographics help you:",
+    "ms": "Demografi dan psikografi membantu anda:"
+   },
+   "o": [
+    "Proofread",
+    "Analyse the audience",
+    "Choose font",
+    "Distribute"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "process",
+   "q": {
+    "en": "Which is NOT a way to build credibility?",
+    "ms": "Yang mana BUKAN cara membina kredibiliti?"
+   },
+   "o": [
+    "Objective evidence",
+    "Identify sources",
+    "Establish common ground",
+    "Use complex jargon"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Use simple language.",
+    "ms": "Guna bahasa mudah."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "process",
+   "q": {
+    "en": "Which should come first in a persuasive proposal?",
+    "ms": "Apa patut dahulu dalam cadangan memujuk?"
+   },
+   "o": [
+    "Build credibility",
+    "Ask for money",
+    "Hard sell",
+    "Ignore objections"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Build credibility before presenting the proposal.",
+    "ms": "Bina kredibiliti sebelum membentang cadangan."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "strategy",
+   "q": {
+    "en": "AIDA stands for:",
+    "ms": "AIDA bermaksud:"
+   },
+   "o": [
+    "Ask, Interest, Decide, Answer",
+    "Aim, Inform, Decide, Act",
+    "Attention, Interest, Desire, Action",
+    "Attention, Idea, Data, Action"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "strategy",
+   "q": {
+    "en": "Which is an emotional appeal?",
+    "ms": "Yang mana rayuan emosi?"
+   },
+   "o": [
+    "Deduction",
+    "Induction",
+    "Sympathies",
+    "Analogy"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Emotional: feelings, emotions, sympathies.",
+    "ms": "Emosi: perasaan, emosi, simpati."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "strategy",
+   "q": {
+    "en": "Which is a logical appeal?",
+    "ms": "Yang mana rayuan logik?"
+   },
+   "o": [
+    "Deduction",
+    "Feelings",
+    "Sympathies",
+    "Emotions"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Logical: analogy, induction, deduction.",
+    "ms": "Logik: analogi, induksi, deduksi."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "strategy",
+   "q": {
+    "en": "Concluding from one example that all are the same is a:",
+    "ms": "Merumuskan semua sama dari satu contoh ialah:"
+   },
+   "o": [
+    "Illogical support",
+    "Circular reasoning",
+    "Faulty analogy",
+    "Hasty generalisation"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Hasty generalisation.",
+    "ms": "Generalisasi tergesa-gesa."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "strategy",
+   "q": {
+    "en": "“It is true because it is true” is:",
+    "ms": "“Ia benar kerana ia benar” ialah:"
+   },
+   "o": [
+    "Induction",
+    "Circular reasoning",
+    "AIDA",
+    "Deduction"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Circular reasoning.",
+    "ms": "Penaakulan bulatan."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "strategy",
+   "q": {
+    "en": "Which is NOT one of the four essential strategies?",
+    "ms": "Yang mana BUKAN empat strategi penting?"
+   },
+   "o": [
+    "Framing arguments",
+    "Hard selling",
+    "Reinforcing position",
+    "Anticipating objections"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Hard sell is a mistake.",
+    "ms": "Hard sell ialah kesilapan."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "strategy",
+   "q": {
+    "en": "Which is a persuasion mistake?",
+    "ms": "Yang mana kesilapan pujukan?"
+   },
+   "o": [
+    "Explaining pros and cons",
+    "Presenting all sides",
+    "Finding solutions",
+    "Using a “one-shot” approach"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 20.",
+    "ms": "Slaid 20."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "strategy",
+   "q": {
+    "en": "Anticipating objections means:",
+    "ms": "Menjangka bantahan bermaksud:"
+   },
+   "o": [
+    "Presenting all sides and explaining pros and cons",
+    "Hiding disadvantages",
+    "Avoiding resistance",
+    "Ignoring readers"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 19.",
+    "ms": "Slaid 19."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "types",
+   "q": {
+    "en": "Which is a persuasive message category?",
+    "ms": "Yang mana kategori mesej memujuk?"
+   },
+   "o": [
+    "Condolences",
+    "Thank-you notes",
+    "Claims and requests for adjustment",
+    "Newsletters"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 21.",
+    "ms": "Slaid 21."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "types",
+   "q": {
+    "en": "For unanticipated requests use:",
+    "ms": "Untuk permintaan tidak dijangka guna:"
+   },
+   "o": [
+    "Direct approach",
+    "No opening",
+    "Indirect approach or AIDA",
+    "Threats"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "types",
+   "q": {
+    "en": "A persuasive claim should close:",
+    "ms": "Tuntutan memujuk patut ditutup:"
+   },
+   "o": [
+    "On a respectful note",
+    "With a threat",
+    "With sarcasm",
+    "Without detail"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "market",
+   "q": {
+    "en": "Which asks for an immediate decision?",
+    "ms": "Yang mana minta keputusan segera?"
+   },
+   "o": [
+    "Neither",
+    "Marketing messages",
+    "Both never",
+    "Sales messages"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Sales messages.",
+    "ms": "Mesej jualan."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "market",
+   "q": {
+    "en": "Which introduces new products?",
+    "ms": "Yang mana memperkenalkan produk baru?"
+   },
+   "o": [
+    "Sales messages",
+    "Marketing messages",
+    "Claims",
+    "Condolences"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Marketing messages.",
+    "ms": "Mesej pemasaran."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "market",
+   "q": {
+    "en": "On social media you should:",
+    "ms": "Di media sosial anda patut:"
+   },
+   "o": [
+    "Only broadcast",
+    "Listen at least as much as you talk",
+    "Avoid conversations",
+    "Be fake"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 29.",
+    "ms": "Slaid 29."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "market",
+   "q": {
+    "en": "Mobile ads should be:",
+    "ms": "Iklan mudah alih patut:"
+   },
+   "o": [
+    "Complex",
+    "Long and detailed",
+    "Text-heavy",
+    "Short, simple"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 30.",
+    "ms": "Slaid 30."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "market",
+   "q": {
+    "en": "Planning marketing messages includes:",
+    "ms": "Merancang mesej pemasaran termasuk:"
+   },
+   "o": [
+    "Analysing your competition",
+    "Ignoring needs",
+    "Hiding benefits",
+    "Avoiding purchase options"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "ethics",
+   "q": {
+    "en": "Which is illegal?",
+    "ms": "Yang mana haram?"
+   },
+   "o": [
+    "Evidence-backed claims",
+    "Truthful ads",
+    "Bait-and-switch advertising",
+    "Opt-in newsletters"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 33.",
+    "ms": "Slaid 33."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "ethics",
+   "q": {
+    "en": "Marketing claims must be:",
+    "ms": "Tuntutan pemasaran mesti:"
+   },
+   "o": [
+    "Secret",
+    "Exaggerated",
+    "Backed by evidence",
+    "Untraceable"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 33.",
+    "ms": "Slaid 33."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "ethics",
+   "q": {
+    "en": "Using a person’s identity in marketing requires:",
+    "ms": "Menggunakan identiti seseorang dalam pemasaran memerlukan:"
+   },
+   "o": [
+    "Permission",
+    "Nothing",
+    "Payment only",
+    "Anonymity"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 33.",
+    "ms": "Slaid 33."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "ethics",
+   "q": {
+    "en": "Opt-in newsletters show:",
+    "ms": "Surat berita opt-in menunjukkan:"
+   },
+   "o": [
+    "Deception",
+    "A legal breach",
+    "Spam",
+    "Etiquette"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 34.",
+    "ms": "Slaid 34."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "process",
+   "marks": 8,
+   "q": {
+    "en": "Apply the three-step process to persuasive messages and explain how to build credibility.",
+    "ms": "Gunakan proses tiga langkah untuk mesej memujuk dan terangkan cara membina kredibiliti."
+   },
+   "pts": {
+    "en": [
+     "Plan: analyse audience, gather information (2)",
+     "Select media and organise the message (2)",
+     "Write: positive polite language, respect cultures (2)",
+     "Credibility: evidence, common ground, objectivity (2)"
+    ],
+    "ms": [
+     "Rancang: analisis audiens, kumpul maklumat (2)",
+     "Pilih media dan susun mesej (2)",
+     "Tulis: bahasa positif sopan, hormati budaya (2)",
+     "Kredibiliti: bukti, titik persamaan, objektiviti (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "strategy",
+   "marks": 10,
+   "q": {
+    "en": "Discuss the four essential strategies for persuasive business messages.",
+    "ms": "Bincangkan empat strategi penting untuk mesej perniagaan memujuk."
+   },
+   "pts": {
+    "en": [
+     "Framing with AIDA (2)",
+     "Balancing emotional and logical appeals using four factors (2)",
+     "Avoiding faulty logic with examples (2)",
+     "Reinforcing position (2)",
+     "Anticipating objections (2)"
+    ],
+    "ms": [
+     "Membingkai dengan AIDA (2)",
+     "Mengimbangi rayuan emosi dan logik dengan empat faktor (2)",
+     "Mengelak logik cacat dengan contoh (2)",
+     "Menguatkan pendirian (2)",
+     "Menjangka bantahan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "types",
+   "marks": 6,
+   "q": {
+    "en": "Describe three categories of persuasive business messages.",
+    "ms": "Huraikan tiga kategori mesej perniagaan memujuk."
+   },
+   "pts": {
+    "en": [
+     "Requests for action: direct vs indirect approach (2)",
+     "Presentations of ideas (2)",
+     "Claims and adjustments (2)"
+    ],
+    "ms": [
+     "Permintaan tindakan: pendekatan terus lwn tidak terus (2)",
+     "Pembentangan idea (2)",
+     "Tuntutan dan pelarasan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "market",
+   "marks": 8,
+   "q": {
+    "en": "Compare marketing and sales messages and explain how to write for social media.",
+    "ms": "Bandingkan mesej pemasaran dan jualan dan terangkan cara menulis untuk media sosial."
+   },
+   "pts": {
+    "en": [
+     "Marketing vs sales differences (2)",
+     "Planning steps (2)",
+     "AIDA in conventional messages (2)",
+     "Social media tips (2)"
+    ],
+    "ms": [
+     "Beza pemasaran dan jualan (2)",
+     "Langkah perancangan (2)",
+     "AIDA dalam mesej konvensional (2)",
+     "Tip media sosial (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "ethics",
+   "marks": 6,
+   "q": {
+    "en": "Explain how to avoid ethical and legal lapses in marketing and sales messages.",
+    "ms": "Terangkan cara mengelak kecuaian etika dan undang-undang dalam mesej pemasaran dan jualan."
+   },
+   "pts": {
+    "en": [
+     "Truthful and non-deceptive (1)",
+     "Claims backed by evidence (1)",
+     "Bait-and-switch illegal (1)",
+     "Special rules for children (1)",
+     "Permission for identity use (1)",
+     "Opt-in newsletters and audience-centred etiquette (1)"
+    ],
+    "ms": [
+     "Benar dan tidak mengelirukan (1)",
+     "Tuntutan disokong bukti (1)",
+     "Bait-and-switch haram (1)",
+     "Peraturan khas kanak-kanak (1)",
+     "Kebenaran penggunaan identiti (1)",
+     "Surat berita opt-in dan etiket berpusatkan audiens (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Persuasion",
+   "Pujukan"
+  ],
+  [
+   "AIDA",
+   "AIDA (Perhatian, Minat, Keinginan, Tindakan)"
+  ],
+  [
+   "Demographics",
+   "Demografi"
+  ],
+  [
+   "Psychographics",
+   "Psikografi"
+  ],
+  [
+   "Credibility",
+   "Kredibiliti"
+  ],
+  [
+   "Emotional appeal",
+   "Rayuan emosi"
+  ],
+  [
+   "Logical appeal",
+   "Rayuan logik"
+  ],
+  [
+   "Induction",
+   "Induksi"
+  ],
+  [
+   "Deduction",
+   "Deduksi"
+  ],
+  [
+   "Hasty generalisation",
+   "Generalisasi tergesa-gesa"
+  ],
+  [
+   "Circular reasoning",
+   "Penaakulan bulatan"
+  ],
+  [
+   "Hard sell",
+   "Jualan agresif"
+  ],
+  [
+   "Bait-and-switch",
+   "Bait-and-switch (umpan-tukar)"
+  ],
+  [
+   "Opt-in",
+   "Opt-in (pilih sertai)"
+  ]
+ ]
+}

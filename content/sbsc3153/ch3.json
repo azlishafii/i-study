@@ -1,0 +1,1334 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch3",
+ "num": 3,
+ "title": {
+  "en": "Communication Challenges in a Diverse, Global Marketplace",
+  "ms": "Cabaran Komunikasi dalam Pasaran Global yang Pelbagai"
+ },
+ "standard": "Bovee Ch 3",
+ "outcomes": {
+  "en": [
+   "Discuss the opportunities and challenges of intercultural communication",
+   "Define culture, explain how it is learned, and define ethnocentrism and stereotyping",
+   "Explain the importance of cultural variations and list eight categories of cultural differences",
+   "List four guidelines for adapting to any business culture",
+   "Identify seven steps to improve intercultural communication skills"
+  ],
+  "ms": [
+   "Bincangkan peluang dan cabaran komunikasi antara budaya",
+   "Takrif budaya, terangkan bagaimana ia dipelajari, dan takrif etnosentrisme dan stereotaip",
+   "Terangkan kepentingan variasi budaya dan senaraikan lapan kategori perbezaan budaya",
+   "Senaraikan empat garis panduan menyesuaikan diri dengan mana-mana budaya perniagaan",
+   "Kenal pasti tujuh langkah meningkatkan kemahiran komunikasi antara budaya"
+  ]
+ },
+ "sections": [
+  {
+   "id": "opp",
+   "icon": "🌍",
+   "title": {
+    "en": "Opportunities and Challenges",
+    "ms": "Peluang dan Cabaran"
+   },
+   "ref": "Slides 4–7",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Opportunities: international communication skills provide",
+     "ms": "Peluang: kemahiran komunikasi antarabangsa memberi"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Increased profits",
+      "Increased revenue",
+      "Increased market share",
+      "More valued employees"
+     ],
+     "ms": [
+      "Keuntungan meningkat",
+      "Hasil meningkat",
+      "Bahagian pasaran meningkat",
+      "Pekerja lebih dihargai"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Advantages of a diverse workforce",
+     "ms": "Kelebihan tenaga kerja pelbagai"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "A broader range of views and ideas",
+      "A better understanding of diverse, fragmented markets",
+      "A broader pool of talent to recruit from"
+     ],
+     "ms": [
+      "Julat pandangan dan idea lebih luas",
+      "Pemahaman lebih baik tentang pasaran pelbagai dan berpecah",
+      "Kumpulan bakat lebih luas untuk diambil"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Challenges",
+     "ms": "Cabaran"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Connecting with and motivating diverse employees",
+      "Fostering harmony in diverse teams",
+      "Ensuring messages are sent, received and properly encoded"
+     ],
+     "ms": [
+      "Berhubung dan memotivasi pekerja pelbagai",
+      "Memupuk keharmonian dalam pasukan pelbagai",
+      "Memastikan mesej dihantar, diterima dan dikod dengan betul"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Cultural influences affect",
+     "ms": "Pengaruh budaya menjejaskan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Language",
+      "Nonverbal signals",
+      "Word meaning",
+      "Time and space issues",
+      "Rules of human relationships"
+     ],
+     "ms": [
+      "Bahasa",
+      "Isyarat bukan lisan",
+      "Makna perkataan",
+      "Isu masa dan ruang",
+      "Peraturan hubungan manusia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "icon": "🧬",
+   "title": {
+    "en": "Understanding Culture",
+    "ms": "Memahami Budaya"
+   },
+   "ref": "Slides 9–11",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "We each belong to **several cultures** (ethnic, religious, professional groups), each with its own special language or customs. Culture is **automatic, coherent and complete** (slide 10).",
+     "ms": "Kita masing-masing tergolong dalam **beberapa budaya** (kumpulan etnik, agama, profesional), dengan bahasa atau adat tersendiri. Budaya bersifat **automatik, koheren dan lengkap** (slaid 10)."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Term",
+       "Meaning"
+      ],
+      "ms": [
+       "Istilah",
+       "Maksud"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Ethnocentrism",
+        "Judging others according to your own standards"
+       ],
+       "ms": [
+        "Etnosentrisme",
+        "Menilai orang lain mengikut piawaian sendiri"
+       ]
+      },
+      {
+       "en": [
+        "Xenophobia",
+        "Fear of interaction with strangers and foreigners"
+       ],
+       "ms": [
+        "Xenofobia",
+        "Takut berinteraksi dengan orang asing"
+       ]
+      },
+      {
+       "en": [
+        "Stereotyping",
+        "Ascribing general attributes based on a person’s culture"
+       ],
+       "ms": [
+        "Stereotaip",
+        "Menetapkan sifat umum berdasarkan budaya seseorang"
+       ]
+      },
+      {
+       "en": [
+        "Cultural pluralism",
+        "Accepting multiple cultures on their own terms"
+       ],
+       "ms": [
+        "Pluralisme budaya",
+        "Menerima pelbagai budaya mengikut terma mereka"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "To overcome these",
+     "ms": "Untuk mengatasinya"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Avoid making assumptions",
+      "Withhold judgment",
+      "Acknowledge distinctions"
+     ],
+     "ms": [
+      "Elak membuat andaian",
+      "Tangguh penghakiman",
+      "Akui perbezaan"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 10 lists “Automatic, Coherent, Complete” without explanation. Extra (not in slides): these describe how culture works (learned automatically, forms a coherent picture, feels complete). Confirm with your textbook.",
+     "ms": "Slaid 10 menyenaraikan “Automatic, Coherent, Complete” tanpa penerangan. Extra (bukan dalam slaid): ini menggambarkan cara budaya berfungsi. Sahkan dengan buku teks."
+    }
+   ]
+  },
+  {
+   "id": "diff",
+   "icon": "🧭",
+   "title": {
+    "en": "Eight Categories of Cultural Differences",
+    "ms": "Lapan Kategori Perbezaan Budaya"
+   },
+   "ref": "Slides 13–20",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Category",
+       "Key points"
+      ],
+      "ms": [
+       "Kategori",
+       "Poin utama"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1 Contextual",
+        "High-context: relies more on nonverbal, indirect, builds relationships. Low-context: relies more on verbal, direct, exchanges information"
+       ],
+       "ms": [
+        "1 Konteks",
+        "Konteks tinggi: banyak bukan lisan, tidak terus, bina hubungan. Konteks rendah: banyak lisan, terus, tukar maklumat"
+       ]
+      },
+      {
+       "en": [
+        "2 Legal and ethical",
+        "Seek mutual ground; send and receive messages without judgment; be honest; show respect for cultural differences"
+       ],
+       "ms": [
+        "2 Undang-undang dan etika",
+        "Cari titik persamaan; hantar dan terima tanpa penghakiman; jujur; hormati perbezaan budaya"
+       ]
+      },
+      {
+       "en": [
+        "3 Social",
+        "Attitudes toward work and success; roles and status; use of manners; concepts of time; future orientation; openness and inclusiveness"
+       ],
+       "ms": [
+        "3 Sosial",
+        "Sikap terhadap kerja dan kejayaan; peranan dan status; adab; konsep masa; orientasi masa depan; keterbukaan dan keterangkuman"
+       ]
+      },
+      {
+       "en": [
+        "4 Nonverbal",
+        "Greetings, personal space, touching, facial expressions, eye contact, posture, formality"
+       ],
+       "ms": [
+        "4 Bukan lisan",
+        "Ucapan salam, ruang peribadi, sentuhan, ekspresi muka, pandang mata, postur, formaliti"
+       ]
+      },
+      {
+       "en": [
+        "5 Age",
+        "Cultures that value youth; value age and seniority; have multiple generations in positions of value"
+       ],
+       "ms": [
+        "5 Umur",
+        "Budaya menghargai belia; menghargai umur dan kanan; pelbagai generasi dalam kedudukan bernilai"
+       ]
+      },
+      {
+       "en": [
+        "6 Gender",
+        "Perceptions of gender roles; representation in management; different communication styles; outdated concepts of gender and sexual orientation"
+       ],
+       "ms": [
+        "6 Jantina",
+        "Persepsi peranan jantina; perwakilan dalam pengurusan; gaya komunikasi berbeza; konsep lapuk jantina dan orientasi seksual"
+       ]
+      },
+      {
+       "en": [
+        "7 Religious",
+        "Personal beliefs and workplace issues; balance corporate culture and personal beliefs; balance employee freedom of expression with legal compliance"
+       ],
+       "ms": [
+        "7 Agama",
+        "Kepercayaan peribadi dan isu tempat kerja; imbang budaya korporat dan kepercayaan; imbang kebebasan bersuara dengan pematuhan undang-undang"
+       ]
+      },
+      {
+       "en": [
+        "8 Ability",
+        "Respect for individuals; sensitivity to differences; availability of assistive technologies"
+       ],
+       "ms": [
+        "8 Keupayaan",
+        "Hormat individu; peka perbezaan; teknologi bantuan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: C-L-S-N-A-G-R-A (Contextual, Legal, Social, Nonverbal, Age, Gender, Religious, Ability).",
+     "ms": "Cara ingat: C-L-S-N-A-G-R-A."
+    }
+   ]
+  },
+  {
+   "id": "adapt",
+   "icon": "🛂",
+   "title": {
+    "en": "Adapting to Business Cultures",
+    "ms": "Menyesuaikan dengan Budaya Perniagaan"
+   },
+   "ref": "Slides 22–23",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Four general guidelines",
+     "ms": "Empat garis panduan umum"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Become aware of your own biases",
+      "Be careful about applying the “Golden Rule”",
+      "Exercise tolerance, flexibility and respect",
+      "Practise patience and maintain a sense of humour"
+     ],
+     "ms": [
+      "Sedar bias sendiri",
+      "Berhati-hati menggunakan “Golden Rule”",
+      "Amalkan toleransi, fleksibiliti dan hormat",
+      "Bersabar dan kekalkan rasa humor"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "U.S. business culture (slide 23)",
+     "ms": "Budaya perniagaan AS (slaid 23)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Individualism",
+      "Equality",
+      "Privacy and personal space",
+      "Time and schedules",
+      "Religion",
+      "Communication style"
+     ],
+     "ms": [
+      "Individualisme",
+      "Kesaksamaan",
+      "Privasi dan ruang peribadi",
+      "Masa dan jadual",
+      "Agama",
+      "Gaya komunikasi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "skills",
+   "icon": "🛠️",
+   "title": {
+    "en": "Seven Steps to Improve Skills",
+    "ms": "Tujuh Langkah Meningkatkan Kemahiran"
+   },
+   "ref": "Slides 26–34",
+   "blocks": [
+    {
+     "k": "flow",
+     "en": [
+      "Study other cultures: knowledge, ability and motivation; research and practice",
+      "Study other languages: career opportunities; common phrases; mobile apps and websites",
+      "Respect preferences for communication style: directness, formality, media preferences",
+      "Write clearly",
+      "Speak and listen clearly",
+      "Use interpreters, translators and translation software",
+      "Help others adapt to your culture"
+     ],
+     "ms": [
+      "Kaji budaya lain: pengetahuan, kebolehan dan motivasi; kajian dan latihan",
+      "Belajar bahasa lain: peluang kerjaya; frasa lazim; aplikasi mudah alih dan laman web",
+      "Hormati keutamaan gaya komunikasi: sifat terus, formaliti, keutamaan media",
+      "Menulis dengan jelas",
+      "Bercakap dan mendengar dengan jelas",
+      "Guna jurubahasa, penterjemah dan perisian terjemahan",
+      "Bantu orang lain menyesuaikan diri dengan budaya anda"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Writing clearly",
+     "ms": "Menulis dengan jelas"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Choose words carefully; be brief; use plenty of transitions",
+      "Address international correspondence properly",
+      "Cite numbers and dates carefully",
+      "Avoid slang, idioms and business jargon",
+      "Avoid humour and pop-culture references"
+     ],
+     "ms": [
+      "Pilih perkataan teliti; ringkas; guna banyak peralihan",
+      "Alamatkan surat antarabangsa dengan betul",
+      "Petik nombor dan tarikh dengan teliti",
+      "Elak slanga, simpulan bahasa dan jargon perniagaan",
+      "Elak jenaka dan rujukan budaya pop"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Speaking and listening clearly",
+     "ms": "Bercakap dan mendengar dengan jelas"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Adjust content and style; mind the medium and circumstances",
+      "Be aware of nonverbal styles and cultural norms",
+      "Speak slowly and clearly without being condescending",
+      "Ask for feedback and rephrase as necessary",
+      "Confirm for agreement"
+     ],
+     "ms": [
+      "Laras kandungan dan gaya; peka medium dan keadaan",
+      "Sedar gaya bukan lisan dan norma budaya",
+      "Bercakap perlahan dan jelas tanpa merendahkan",
+      "Minta maklum balas dan ungkap semula",
+      "Sahkan persetujuan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Interpreters and translators",
+     "ms": "Jurubahasa dan penterjemah"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Interpreters: for spoken communication",
+      "Translators: for both spoken and written communication",
+      "Computerised translation tools"
+     ],
+     "ms": [
+      "Jurubahasa: untuk komunikasi lisan",
+      "Penterjemah: untuk lisan dan bertulis",
+      "Alat terjemahan berkomputer"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Helping others adapt",
+     "ms": "Membantu orang lain menyesuaikan diri"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Look for opportunities to help",
+      "Offer advice on word choice",
+      "Suggest appropriate styles and media",
+      "Help simplify the communication process"
+     ],
+     "ms": [
+      "Cari peluang membantu",
+      "Beri nasihat pemilihan perkataan",
+      "Cadang gaya dan media sesuai",
+      "Bantu permudah proses komunikasi"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 25 (Figure 3.2) is an image. The slides describe interpreters as for spoken communication and translators as for both spoken and written, which differs from the common textbook split; use the slide wording.",
+     "ms": "Slaid 25 (Rajah 3.2) ialah imej. Slaid menerangkan jurubahasa untuk lisan dan penterjemah untuk lisan dan bertulis, yang berbeza daripada pembahagian lazim buku teks; guna perkataan slaid."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "opp",
+   "q": {
+    "en": "Four benefits of international communication skills?",
+    "ms": "Empat manfaat kemahiran komunikasi antarabangsa?"
+   },
+   "a": {
+    "en": "Increased profits, revenue, market share; more valued employees.",
+    "ms": "Keuntungan, hasil, bahagian pasaran meningkat; pekerja lebih dihargai."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "opp",
+   "q": {
+    "en": "Three advantages of a diverse workforce?",
+    "ms": "Tiga kelebihan tenaga kerja pelbagai?"
+   },
+   "a": {
+    "en": "Broader views and ideas, better understanding of diverse markets, broader talent pool.",
+    "ms": "Pandangan lebih luas, fahami pasaran pelbagai, bakat lebih luas."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "opp",
+   "q": {
+    "en": "Three challenges of intercultural communication?",
+    "ms": "Tiga cabaran komunikasi antara budaya?"
+   },
+   "a": {
+    "en": "Connecting with and motivating diverse employees, harmony in diverse teams, messages sent/received/encoded properly.",
+    "ms": "Berhubung dan motivasi, keharmonian pasukan, mesej dihantar/diterima/dikod betul."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "opp",
+   "q": {
+    "en": "What do cultural influences affect?",
+    "ms": "Apa dijejaskan pengaruh budaya?"
+   },
+   "a": {
+    "en": "Language, nonverbal signals, word meaning, time and space, rules of human relationships.",
+    "ms": "Bahasa, isyarat bukan lisan, makna perkataan, masa dan ruang, peraturan hubungan."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "culture",
+   "q": {
+    "en": "Define ethnocentrism.",
+    "ms": "Takrif etnosentrisme."
+   },
+   "a": {
+    "en": "Judging others according to your own standards.",
+    "ms": "Menilai orang lain mengikut piawaian sendiri."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "culture",
+   "q": {
+    "en": "Define xenophobia.",
+    "ms": "Takrif xenofobia."
+   },
+   "a": {
+    "en": "Fear of interaction with strangers and foreigners.",
+    "ms": "Takut berinteraksi dengan orang asing."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "culture",
+   "q": {
+    "en": "Define stereotyping.",
+    "ms": "Takrif stereotaip."
+   },
+   "a": {
+    "en": "Ascribing general attributes to a person based on their culture.",
+    "ms": "Menetapkan sifat umum berdasarkan budaya."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "culture",
+   "q": {
+    "en": "Define cultural pluralism.",
+    "ms": "Takrif pluralisme budaya."
+   },
+   "a": {
+    "en": "Accepting multiple cultures on their own terms.",
+    "ms": "Menerima pelbagai budaya mengikut terma mereka."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "culture",
+   "q": {
+    "en": "Three ways to overcome ethnocentrism and stereotyping?",
+    "ms": "Tiga cara mengatasi etnosentrisme dan stereotaip?"
+   },
+   "a": {
+    "en": "Avoid assumptions, withhold judgment, acknowledge distinctions.",
+    "ms": "Elak andaian, tangguh penghakiman, akui perbezaan."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "diff",
+   "q": {
+    "en": "Name the eight categories of cultural differences.",
+    "ms": "Namakan lapan kategori perbezaan budaya."
+   },
+   "a": {
+    "en": "Contextual, legal and ethical, social, nonverbal, age, gender, religious, ability.",
+    "ms": "Konteks, undang-undang dan etika, sosial, bukan lisan, umur, jantina, agama, keupayaan."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "diff",
+   "q": {
+    "en": "High-context vs low-context cultures?",
+    "ms": "Budaya konteks tinggi lwn rendah?"
+   },
+   "a": {
+    "en": "High: nonverbal, indirect, builds relationships. Low: verbal, direct, exchanges information.",
+    "ms": "Tinggi: bukan lisan, tidak terus, bina hubungan. Rendah: lisan, terus, tukar maklumat."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "diff",
+   "q": {
+    "en": "Social differences include?",
+    "ms": "Perbezaan sosial termasuk?"
+   },
+   "a": {
+    "en": "Attitudes toward work and success, roles and status, manners, concepts of time, future orientation, openness and inclusiveness.",
+    "ms": "Sikap kerja dan kejayaan, peranan dan status, adab, masa, orientasi masa depan, keterbukaan."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "diff",
+   "q": {
+    "en": "Nonverbal differences include?",
+    "ms": "Perbezaan bukan lisan termasuk?"
+   },
+   "a": {
+    "en": "Greetings, personal space, touching, facial expressions, eye contact, posture, formality.",
+    "ms": "Salam, ruang peribadi, sentuhan, ekspresi muka, pandang mata, postur, formaliti."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "diff",
+   "q": {
+    "en": "Three age cultures?",
+    "ms": "Tiga budaya umur?"
+   },
+   "a": {
+    "en": "Value youth; value age and seniority; multiple generations in positions of value.",
+    "ms": "Hargai belia; hargai umur dan kanan; pelbagai generasi."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "diff",
+   "q": {
+    "en": "Religious differences require balancing what?",
+    "ms": "Perbezaan agama memerlukan imbangan apa?"
+   },
+   "a": {
+    "en": "Corporate culture vs personal beliefs; freedom of expression vs legal compliance.",
+    "ms": "Budaya korporat lwn kepercayaan; kebebasan bersuara lwn pematuhan undang-undang."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "adapt",
+   "q": {
+    "en": "Four guidelines for adapting to any business culture?",
+    "ms": "Empat garis panduan menyesuaikan diri?"
+   },
+   "a": {
+    "en": "Be aware of own biases; careful with Golden Rule; tolerance, flexibility, respect; patience and humour.",
+    "ms": "Sedar bias; hati-hati Golden Rule; toleransi, fleksibiliti, hormat; sabar dan humor."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "skills",
+   "q": {
+    "en": "Seven steps to improve intercultural skills?",
+    "ms": "Tujuh langkah meningkatkan kemahiran antara budaya?"
+   },
+   "a": {
+    "en": "Study cultures; study languages; respect style preferences; write clearly; speak and listen clearly; use interpreters/translators; help others adapt.",
+    "ms": "Kaji budaya; belajar bahasa; hormati gaya; tulis jelas; cakap dan dengar jelas; jurubahasa/penterjemah; bantu orang lain."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "skills",
+   "q": {
+    "en": "Four tips for writing clearly?",
+    "ms": "Empat tip menulis dengan jelas?"
+   },
+   "a": {
+    "en": "Choose words carefully, be brief, use transitions, cite numbers/dates carefully; avoid slang, idioms, jargon, humour.",
+    "ms": "Pilih perkataan, ringkas, peralihan, petik nombor/tarikh; elak slanga, idiom, jargon, jenaka."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "skills",
+   "q": {
+    "en": "Interpreters vs translators (per slides)?",
+    "ms": "Jurubahasa lwn penterjemah (menurut slaid)?"
+   },
+   "a": {
+    "en": "Interpreters for spoken communication; translators for both spoken and written.",
+    "ms": "Jurubahasa untuk lisan; penterjemah untuk lisan dan bertulis."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "opp",
+   "q": {
+    "en": "Which is NOT an opportunity from international communication skills?",
+    "ms": "Yang mana BUKAN peluang daripada kemahiran komunikasi antarabangsa?"
+   },
+   "o": [
+    "Increased profits",
+    "Fewer customers",
+    "More valued employees",
+    "Increased market share"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 4.",
+    "ms": "Slaid 4."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "opp",
+   "q": {
+    "en": "A diverse workforce provides:",
+    "ms": "Tenaga kerja pelbagai memberi:"
+   },
+   "o": [
+    "Fewer ideas",
+    "A broader range of views",
+    "Less talent",
+    "No benefit"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "opp",
+   "q": {
+    "en": "Which is a challenge of intercultural communication?",
+    "ms": "Yang mana cabaran komunikasi antara budaya?"
+   },
+   "o": [
+    "Market share",
+    "Increased profits",
+    "Broader talent",
+    "Fostering harmony in diverse teams"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 6.",
+    "ms": "Slaid 6."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "culture",
+   "q": {
+    "en": "Judging others by your own standards is:",
+    "ms": "Menilai orang lain mengikut piawaian sendiri ialah:"
+   },
+   "o": [
+    "Ethnocentrism",
+    "Cultural pluralism",
+    "Xenophobia",
+    "Stereotyping"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 11.",
+    "ms": "Slaid 11."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "culture",
+   "q": {
+    "en": "Fear of strangers and foreigners is:",
+    "ms": "Takut orang asing ialah:"
+   },
+   "o": [
+    "Ethnocentrism",
+    "Pluralism",
+    "Xenophobia",
+    "Context"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 11.",
+    "ms": "Slaid 11."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "culture",
+   "q": {
+    "en": "Assuming all people from a culture are the same is:",
+    "ms": "Menganggap semua orang dari sesuatu budaya sama ialah:"
+   },
+   "o": [
+    "Competence",
+    "Pluralism",
+    "Stereotyping",
+    "Etiquette"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 11.",
+    "ms": "Slaid 11."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "culture",
+   "q": {
+    "en": "Accepting cultures on their own terms is:",
+    "ms": "Menerima budaya mengikut terma mereka ialah:"
+   },
+   "o": [
+    "Cultural pluralism",
+    "Ethnocentrism",
+    "Xenophobia",
+    "Stereotyping"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 11.",
+    "ms": "Slaid 11."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "culture",
+   "q": {
+    "en": "To overcome stereotyping you should:",
+    "ms": "Untuk mengatasi stereotaip anda patut:"
+   },
+   "o": [
+    "Ignore differences",
+    "Assume",
+    "Judge quickly",
+    "Withhold judgment"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Avoid assumptions, withhold judgment, acknowledge distinctions.",
+    "ms": "Elak andaian, tangguh penghakiman, akui perbezaan."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "diff",
+   "q": {
+    "en": "Which is a HIGH-context trait?",
+    "ms": "Yang mana ciri konteks TINGGI?"
+   },
+   "o": [
+    "Direct communication",
+    "Builds relationships rather than exchanging information",
+    "Relies more on verbal",
+    "Goal is information exchange"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "diff",
+   "q": {
+    "en": "Which is a LOW-context trait?",
+    "ms": "Yang mana ciri konteks RENDAH?"
+   },
+   "o": [
+    "Indirect method",
+    "Direct method",
+    "Relies on nonverbal",
+    "Relationship goal"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "diff",
+   "q": {
+    "en": "How many categories of cultural difference?",
+    "ms": "Berapa kategori perbezaan budaya?"
+   },
+   "o": [
+    "Four",
+    "Six",
+    "Ten",
+    "Eight"
+   ],
+   "a": 3,
+   "e": {
+    "en": "LO 3.3: eight.",
+    "ms": "LO 3.3: lapan."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "diff",
+   "q": {
+    "en": "Eye contact belongs to:",
+    "ms": "Pandang mata tergolong dalam:"
+   },
+   "o": [
+    "Nonverbal differences",
+    "Age differences",
+    "Legal differences",
+    "Ability differences"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "diff",
+   "q": {
+    "en": "Concepts of time belong to:",
+    "ms": "Konsep masa tergolong dalam:"
+   },
+   "o": [
+    "Gender differences",
+    "Nonverbal differences",
+    "Social differences",
+    "Age differences"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "diff",
+   "q": {
+    "en": "Assistive technologies belong to:",
+    "ms": "Teknologi bantuan tergolong dalam:"
+   },
+   "o": [
+    "Age differences",
+    "Religious differences",
+    "Ability differences",
+    "Gender differences"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 20.",
+    "ms": "Slaid 20."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "diff",
+   "q": {
+    "en": "Balancing corporate culture and personal beliefs is:",
+    "ms": "Mengimbang budaya korporat dan kepercayaan peribadi ialah:"
+   },
+   "o": [
+    "Religious differences",
+    "Age differences",
+    "Contextual differences",
+    "Ability differences"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 19.",
+    "ms": "Slaid 19."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "adapt",
+   "q": {
+    "en": "Which is a guideline for adapting to any business culture?",
+    "ms": "Yang mana garis panduan menyesuaikan diri?"
+   },
+   "o": [
+    "Impose your culture",
+    "Apply the Golden Rule blindly",
+    "Avoid humour totally",
+    "Become aware of your own biases"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "adapt",
+   "q": {
+    "en": "The “Golden Rule” should be:",
+    "ms": "“Golden Rule” patut:"
+   },
+   "o": [
+    "Applied everywhere without thought",
+    "Applied carefully",
+    "Ignored",
+    "Taught only"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Be careful about applying it.",
+    "ms": "Berhati-hati menggunakannya."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "skills",
+   "q": {
+    "en": "In writing for global audiences you should avoid:",
+    "ms": "Dalam menulis untuk audiens global anda patut elak:"
+   },
+   "o": [
+    "Transitions",
+    "Slang and idioms",
+    "Brevity",
+    "Careful words"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 30.",
+    "ms": "Slaid 30."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "skills",
+   "q": {
+    "en": "When speaking across cultures:",
+    "ms": "Apabila bercakap merentas budaya:"
+   },
+   "o": [
+    "Avoid feedback",
+    "Speak fast",
+    "Use slang",
+    "Speak slowly and clearly without being condescending"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 32.",
+    "ms": "Slaid 32."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "skills",
+   "q": {
+    "en": "Per the slides, interpreters are for:",
+    "ms": "Menurut slaid, jurubahasa untuk:"
+   },
+   "o": [
+    "Spoken communication",
+    "Written only",
+    "Both equally",
+    "Websites"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 33.",
+    "ms": "Slaid 33."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "skills",
+   "q": {
+    "en": "Which is NOT among the seven steps?",
+    "ms": "Yang mana BUKAN antara tujuh langkah?"
+   },
+   "o": [
+    "Write clearly",
+    "Study other cultures",
+    "Ignore other languages",
+    "Help others adapt to your culture"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 26–34.",
+    "ms": "Slaid 26–34."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "skills",
+   "q": {
+    "en": "Helping others adapt includes:",
+    "ms": "Membantu orang lain menyesuaikan diri termasuk:"
+   },
+   "o": [
+    "Withholding information",
+    "Forcing your style",
+    "Offering advice on word choice",
+    "Avoiding them"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 34.",
+    "ms": "Slaid 34."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "opp",
+   "marks": 6,
+   "q": {
+    "en": "Discuss the opportunities and challenges of intercultural communication.",
+    "ms": "Bincangkan peluang dan cabaran komunikasi antara budaya."
+   },
+   "pts": {
+    "en": [
+     "Opportunities: profits, revenue, market share, valued employees (2)",
+     "Diverse workforce advantages (2)",
+     "Challenges: motivating, harmony, encoding (2)"
+    ],
+    "ms": [
+     "Peluang: keuntungan, hasil, bahagian pasaran, pekerja dihargai (2)",
+     "Kelebihan tenaga kerja pelbagai (2)",
+     "Cabaran: motivasi, keharmonian, pengekodan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "culture",
+   "marks": 6,
+   "q": {
+    "en": "Define culture, ethnocentrism, xenophobia and stereotyping and how to overcome them.",
+    "ms": "Takrif budaya, etnosentrisme, xenofobia dan stereotaip serta cara mengatasinya."
+   },
+   "pts": {
+    "en": [
+     "Culture: several groups, each with own language/customs (1)",
+     "Ethnocentrism and xenophobia (2)",
+     "Stereotyping and cultural pluralism (1)",
+     "Avoid assumptions, withhold judgment, acknowledge distinctions (2)"
+    ],
+    "ms": [
+     "Budaya: beberapa kumpulan, bahasa/adat sendiri (1)",
+     "Etnosentrisme dan xenofobia (2)",
+     "Stereotaip dan pluralisme budaya (1)",
+     "Elak andaian, tangguh penghakiman, akui perbezaan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "diff",
+   "marks": 10,
+   "q": {
+    "en": "Explain eight categories of cultural differences.",
+    "ms": "Terangkan lapan kategori perbezaan budaya."
+   },
+   "pts": {
+    "en": [
+     "Contextual: high vs low (2)",
+     "Legal and ethical (1)",
+     "Social (2)",
+     "Nonverbal (1)",
+     "Age and gender (2)",
+     "Religious and ability (2)"
+    ],
+    "ms": [
+     "Konteks: tinggi lwn rendah (2)",
+     "Undang-undang dan etika (1)",
+     "Sosial (2)",
+     "Bukan lisan (1)",
+     "Umur dan jantina (2)",
+     "Agama dan keupayaan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "adapt",
+   "marks": 4,
+   "q": {
+    "en": "List four general guidelines for adapting to any business culture.",
+    "ms": "Senaraikan empat garis panduan umum menyesuaikan diri dengan mana-mana budaya perniagaan."
+   },
+   "pts": {
+    "en": [
+     "Aware of own biases (1)",
+     "Careful with Golden Rule (1)",
+     "Tolerance, flexibility, respect (1)",
+     "Patience and humour (1)"
+    ],
+    "ms": [
+     "Sedar bias sendiri (1)",
+     "Hati-hati Golden Rule (1)",
+     "Toleransi, fleksibiliti, hormat (1)",
+     "Sabar dan humor (1)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "skills",
+   "marks": 8,
+   "q": {
+    "en": "Describe seven steps to improve intercultural communication skills.",
+    "ms": "Huraikan tujuh langkah meningkatkan kemahiran komunikasi antara budaya."
+   },
+   "pts": {
+    "en": [
+     "Study cultures and languages (2)",
+     "Respect communication style preferences (1)",
+     "Write clearly (2)",
+     "Speak and listen clearly (1)",
+     "Use interpreters/translators (1)",
+     "Help others adapt (1)"
+    ],
+    "ms": [
+     "Kaji budaya dan bahasa (2)",
+     "Hormati keutamaan gaya komunikasi (1)",
+     "Tulis dengan jelas (2)",
+     "Bercakap dan mendengar dengan jelas (1)",
+     "Guna jurubahasa/penterjemah (1)",
+     "Bantu orang lain menyesuaikan diri (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Culture",
+   "Budaya"
+  ],
+  [
+   "Ethnocentrism",
+   "Etnosentrisme"
+  ],
+  [
+   "Xenophobia",
+   "Xenofobia"
+  ],
+  [
+   "Stereotyping",
+   "Stereotaip"
+  ],
+  [
+   "Cultural pluralism",
+   "Pluralisme budaya"
+  ],
+  [
+   "High-context culture",
+   "Budaya konteks tinggi"
+  ],
+  [
+   "Low-context culture",
+   "Budaya konteks rendah"
+  ],
+  [
+   "Diversity",
+   "Kepelbagaian"
+  ],
+  [
+   "Intercultural communication",
+   "Komunikasi antara budaya"
+  ],
+  [
+   "Interpreter",
+   "Jurubahasa"
+  ],
+  [
+   "Translator",
+   "Penterjemah"
+  ],
+  [
+   "Idiom",
+   "Simpulan bahasa"
+  ],
+  [
+   "Slang",
+   "Slanga"
+  ],
+  [
+   "Assistive technology",
+   "Teknologi bantuan"
+  ]
+ ]
+}

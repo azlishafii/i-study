@@ -959,11 +959,11 @@
    },
    "o": [
     "Building trust",
-    "Increased productivity",
     "Reducing all taxes",
+    "Increased productivity",
     "Employee relations"
    ],
-   "a": 2,
+   "a": 1,
    "e": {
     "en": "Tax reduction is not on the list. The six are trust, community ties, client relations, productivity, marketing and sales, employee relations.",
     "ms": "Pengurangan cukai tiada dalam senarai. Enam: kepercayaan, komuniti, pelanggan, produktiviti, pemasaran, pekerja."
@@ -997,11 +997,11 @@
    },
    "o": [
     "Working alone always",
-    "Being dependable and accountable",
+    "Ignoring etiquette",
     "Avoiding feedback",
-    "Ignoring etiquette"
+    "Being dependable and accountable"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Dependable and accountable is one of six elements.",
     "ms": "Boleh diharap dan bertanggungjawab ialah satu daripada enam elemen."
@@ -1036,10 +1036,10 @@
    "o": [
     "Active listening",
     "Time management and critical thinking",
-    "Maintaining business etiquette",
-    "Avoiding all technology"
+    "Avoiding all technology",
+    "Maintaining business etiquette"
    ],
-   "a": 3,
+   "a": 2,
    "e": {
     "en": "Employers expect effective use of communication technologies.",
     "ms": "Majikan mahu penggunaan teknologi komunikasi yang berkesan."
@@ -1054,11 +1054,11 @@
    },
    "o": [
     "Yourself",
-    "The audience",
     "The channel",
+    "The audience",
     "The company only"
    ],
-   "a": 1,
+   "a": 2,
    "e": {
     "en": "It is part of the audience-centred approach.",
     "ms": "Sebahagian pendekatan berpusatkan audiens."
@@ -1072,12 +1072,12 @@
     "ms": "Pendekatan berpusatkan audiens merangkumi semua KECUALI:"
    },
    "o": [
-    "Emotional intelligence",
+    "Ignoring audience biases",
     "Business etiquette",
     "The “you” attitude",
-    "Ignoring audience biases"
+    "Emotional intelligence"
    ],
-   "a": 3,
+   "a": 0,
    "e": {
     "en": "You should consider audience biases.",
     "ms": "Anda perlu pertimbang prasangka audiens."
@@ -1092,11 +1092,11 @@
    },
    "o": [
     "Filter",
-    "Channel breakdown",
+    "Cultural belief",
     "Competing message",
-    "Cultural belief"
+    "Channel breakdown"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Channel breakdowns are failures in the medium.",
     "ms": "Kegagalan saluran ialah kegagalan medium."
@@ -1110,12 +1110,12 @@
     "ms": "Pengurus abaikan berita buruk kerana bercanggah pandangannya. Paling sesuai:"
    },
    "o": [
-    "Filters",
     "Channel breakdown",
+    "Filters",
     "Noise only",
     "Ethical lapse"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Filters are barriers inside the receiver or sender that distort messages.",
     "ms": "Filters ialah halangan yang memutarbelit mesej."
@@ -1129,12 +1129,12 @@
     "ms": "Yang mana halangan dalam proses komunikasi?"
    },
    "o": [
-    "Competing messages",
     "Shared experience",
+    "Competing messages",
     "Empathy",
     "Compatibility"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "The four barriers: noise, competing messages, filters, channel breakdowns.",
     "ms": "Empat halangan: bunyi, mesej bersaing, penapis, kegagalan saluran."
@@ -1148,12 +1148,12 @@
     "ms": "Yang mana cara membantu audiens MENERIMA mesej?"
    },
    "o": [
-    "Practise empathy",
+    "Add more noise",
     "Use selective perception",
     "Rely on culture only",
-    "Add more noise"
+    "Practise empathy"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "Receive: expectations, ease of use, familiarity, empathy, compatibility.",
     "ms": "Terima: jangkaan, mudah guna, keakraban, empati, keserasian."
@@ -1167,12 +1167,12 @@
     "ms": "Persepsi terpilih menjejaskan peringkat mana?"
    },
    "o": [
-    "Receiving",
     "Decoding",
+    "Receiving",
     "Responding",
     "Encoding"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Slide 20 lists it under how audiences decode messages.",
     "ms": "Slaid 20 menyenaraikannya di bawah penyahkodan."
@@ -1188,10 +1188,10 @@
    "o": [
     "Remember the message",
     "Be motivated",
-    "Be able to respond as you wish",
-    "Agree with every word"
+    "Agree with every word",
+    "Be able to respond as you wish"
    ],
-   "a": 3,
+   "a": 2,
    "e": {
     "en": "Required: remember, able to respond, motivated.",
     "ms": "Diperlukan: ingat, mampu bertindak balas, bermotivasi."
@@ -1207,10 +1207,10 @@
    "o": [
     "50",
     "60",
-    "70",
-    "80"
+    "80",
+    "70"
    ],
-   "a": 3,
+   "a": 2,
    "e": {
     "en": "The slide states more than 80 percent.",
     "ms": "Slaid menyatakan lebih 80 peratus."
@@ -1244,11 +1244,11 @@
    },
    "o": [
     "Smaller displays",
-    "Accelerated decision-making and problem-solving",
+    "Changes in grammar",
     "Security risks",
-    "Changes in grammar"
+    "Accelerated decision-making and problem-solving"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Others listed are challenges.",
     "ms": "Yang lain ialah cabaran."
@@ -1263,11 +1263,11 @@
    },
    "o": [
     "Greater engagement with audience",
-    "Business-specific applications",
     "Security and privacy concerns",
+    "Business-specific applications",
     "Enhanced collaboration"
    ],
-   "a": 2,
+   "a": 1,
    "e": {
     "en": "Security and privacy concerns are a challenge.",
     "ms": "Kebimbangan keselamatan dan privasi ialah cabaran."
@@ -1282,11 +1282,11 @@
    },
    "o": [
     "Assist task accomplishment",
-    "Enhance the process",
     "Fill in skills gaps",
+    "Enhance the process",
     "Be a useful tool"
    ],
-   "a": 2,
+   "a": 1,
    "e": {
     "en": "Cons: can’t think for you, can’t fill skills gaps, not a replacement for communication.",
     "ms": "Kekurangan: tak boleh berfikir, isi jurang kemahiran, bukan pengganti komunikasi."
@@ -1301,11 +1301,11 @@
    },
    "o": [
     "Subscribe to everything",
-    "Use filtering features",
+    "Delete all messages",
     "Send many messages",
-    "Delete all messages"
+    "Use filtering features"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Also manage subscriptions and avoid unnecessary messages.",
     "ms": "Juga urus langganan dan elak mesej tidak perlu."
@@ -1319,12 +1319,12 @@
     "ms": "Untuk berhubung semula dengan orang, guna teknologi sebagai:"
    },
    "o": [
-    "A replacement",
     "An aid",
+    "A replacement",
     "A barrier",
     "A filter"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Technology is an aid, not a replacement.",
     "ms": "Teknologi ialah bantuan, bukan pengganti."
@@ -1357,12 +1357,12 @@
     "ms": "Mengubah skala carta untuk melebihkan jualan ialah:"
    },
    "o": [
-    "Distorting visuals",
-    "Selective misquoting",
     "Plagiarising",
+    "Selective misquoting",
+    "Distorting visuals",
     "Respecting privacy"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "Distorting visuals is listed as unethical.",
     "ms": "Memutarbelit visual disenaraikan sebagai tidak beretika."
@@ -1376,12 +1376,12 @@
     "ms": "Memilih antara dua pilihan tanpa jawapan jelas ialah:"
    },
    "o": [
-    "Ethical lapse",
     "Ethical dilemma",
+    "Ethical lapse",
     "Legal breach",
     "Code of ethics"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Dilemma = alternatives not clear-cut.",
     "ms": "Dilema = alternatif tidak jelas."
@@ -1396,11 +1396,11 @@
    },
    "o": [
     "An ethical dilemma",
-    "An ethical lapse",
+    "A channel breakdown",
     "Information overload",
-    "A channel breakdown"
+    "An ethical lapse"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Plagiarism is a clearly unethical choice, so a lapse.",
     "ms": "Plagiat ialah pilihan jelas tidak beretika, iaitu lapse."
@@ -1414,12 +1414,12 @@
     "ms": "Yang mana satu daripada tiga elemen memastikan komunikasi beretika?"
    },
    "o": [
-    "Ethical company leadership",
     "Competing messages",
+    "Ethical company leadership",
     "Selective perception",
     "Small displays"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Ethical individuals, ethical leadership, appropriate policies and structures.",
     "ms": "Individu beretika, kepimpinan beretika, dasar dan struktur sesuai."
@@ -1452,12 +1452,12 @@
     "ms": "Bidang mana dikawal undang-undang menurut slaid?"
    },
    "o": [
-    "Defamation",
+    "Office colour",
     "Hairstyles",
     "Lunch breaks",
-    "Office colour"
+    "Defamation"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "Defamation is listed among legal areas.",
     "ms": "Fitnah disenaraikan antara bidang undang-undang."
@@ -1471,12 +1471,12 @@
     "ms": "Dalam peranan mana kemahiran komunikasi dikatakan penting?"
    },
    "o": [
-    "Only executives",
-    "Only freelancers",
     "Employee, executive, consultant, freelancer or entrepreneur",
+    "Only freelancers",
+    "Only executives",
     "Only sales staff"
    ],
-   "a": 2,
+   "a": 0,
    "e": {
     "en": "Slide 5 lists all of these roles.",
     "ms": "Slaid 5 menyenaraikan semua peranan ini."

@@ -1,0 +1,1427 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch13",
+ "num": 13,
+ "title": {
+  "en": "Finding, Evaluating, and Processing Information",
+  "ms": "Mencari, Menilai dan Memproses Maklumat"
+ },
+ "standard": "Bovee Ch 13",
+ "outcomes": {
+  "en": [
+   "Describe an effective process for conducting business research",
+   "Define secondary research and explain how to evaluate, locate and document sources",
+   "Define primary research and outline steps for surveys and interviews",
+   "Describe the major tasks in processing research results",
+   "Explain how to summarise results and present conclusions and recommendations"
+  ],
+  "ms": [
+   "Huraikan proses berkesan menjalankan penyelidikan perniagaan",
+   "Takrif penyelidikan sekunder dan terangkan cara menilai, mencari dan mendokumenkan sumber",
+   "Takrif penyelidikan primer dan gariskan langkah tinjauan dan temu bual",
+   "Huraikan tugas utama memproses hasil penyelidikan",
+   "Terangkan cara meringkaskan hasil dan membentang kesimpulan dan cadangan"
+  ]
+ },
+ "sections": [
+  {
+   "id": "plan",
+   "icon": "🧪",
+   "title": {
+    "en": "Planning Your Research",
+    "ms": "Merancang Penyelidikan Anda"
+   },
+   "ref": "Slides 3–9",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Maintaining ethics and etiquette",
+     "ms": "Mengekalkan etika dan etiket"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Don’t force a specific outcome",
+      "Respect the privacy of research participants",
+      "Document sources and give credit",
+      "Respect intellectual property rights",
+      "Don’t misquote your sources",
+      "Don’t make misrepresentations"
+     ],
+     "ms": [
+      "Jangan paksa hasil tertentu",
+      "Hormati privasi peserta penyelidikan",
+      "Dokumenkan sumber dan beri kredit",
+      "Hormati hak harta intelek",
+      "Jangan salah petik sumber",
+      "Jangan membuat salah nyata"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Familiarise yourself with the subject",
+     "ms": "Biasakan diri dengan subjek"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Explore the subject area: industry publications, websites and social media, interviews",
+      "Develop a problem statement: define purpose, identify conclusion, phrase the problem as a question"
+     ],
+     "ms": [
+      "Teroka bidang subjek: penerbitan industri, laman web dan media sosial, temu bual",
+      "Bangunkan pernyataan masalah: tentukan tujuan, kenal pasti kesimpulan, bingkai masalah sebagai soalan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Identify information gaps",
+     "ms": "Kenal pasti jurang maklumat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Find specific information gaps",
+      "Dig deeper into purpose",
+      "Focus on specific issues"
+     ],
+     "ms": [
+      "Cari jurang maklumat khusus",
+      "Gali tujuan lebih mendalam",
+      "Fokus kepada isu khusus"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Prioritise research needs",
+     "ms": "Utamakan keperluan penyelidikan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Constraints: limited time, limited money, unavailability of qualified subjects",
+      "Information: limit the scope of surveys and interviews; “need to know” questions come before “nice to know” questions"
+     ],
+     "ms": [
+      "Kekangan: masa terhad, wang terhad, ketiadaan subjek berkelayakan",
+      "Maklumat: hadkan skop tinjauan dan temu bual; soalan “need to know” sebelum “nice to know”"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slides 4 and 5 (The Research Process) are figures with no readable text.",
+     "ms": "Slaid 4 dan 5 (The Research Process) ialah rajah tanpa teks boleh dibaca."
+    }
+   ]
+  },
+  {
+   "id": "secondary",
+   "icon": "📚",
+   "title": {
+    "en": "Secondary Research",
+    "ms": "Penyelidikan Sekunder"
+   },
+   "ref": "Slides 10–21",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Evaluating sources (10 questions)",
+     "ms": "Menilai sumber (10 soalan)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Reputation for honesty and reliability?",
+      "Potentially biased?",
+      "Purpose of the material?",
+      "Is the author credible?",
+      "Where did the source get the information?",
+      "Can you verify independently?",
+      "Is the material current?",
+      "Is it complete?",
+      "Are all claims supported with evidence?",
+      "Do claims stand up to logical scrutiny?"
+     ],
+     "ms": [
+      "Reputasi kejujuran dan kebolehpercayaan?",
+      "Mungkin berat sebelah?",
+      "Tujuan bahan?",
+      "Adakah penulis berwibawa?",
+      "Dari mana sumber dapat maklumat?",
+      "Boleh disahkan secara bebas?",
+      "Adakah terkini?",
+      "Adakah lengkap?",
+      "Adakah semua dakwaan disokong bukti?",
+      "Adakah dakwaan tahan ujian logik?"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Locating sources",
+     "ms": "Mencari sumber"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Internal: documents, knowledge management system, research repository",
+      "External: print and online resources, reference librarian, public reports"
+     ],
+     "ms": [
+      "Dalam: dokumen, sistem pengurusan pengetahuan, repositori penyelidikan",
+      "Luar: sumber cetak dan dalam talian, pustakawan rujukan, laporan awam"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "At the library",
+     "ms": "Di perpustakaan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Newspapers and periodicals",
+      "Business books",
+      "Directories",
+      "Almanacs and statistical resources",
+      "Government publications",
+      "Databases"
+     ],
+     "ms": [
+      "Akhbar dan berkala",
+      "Buku perniagaan",
+      "Direktori",
+      "Almanak dan sumber statistik",
+      "Penerbitan kerajaan",
+      "Pangkalan data"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Online search",
+     "ms": "Carian dalam talian"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Approaches: active search tools and monitoring selected sources"
+     ],
+     "ms": [
+      "Pendekatan: alat carian aktif dan memantau sumber terpilih"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "General-purpose search tools: pros",
+       "Cons"
+      ],
+      "ms": [
+       "Alat carian umum: kelebihan",
+       "Kekurangan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Ranked by usefulness; millions of webpages; powerful ranking algorithms",
+        "No human editors; no uniform search techniques; can’t reach the deep web"
+       ],
+       "ms": [
+        "Disusun mengikut kegunaan; jutaan halaman; algoritma kuat",
+        "Tiada penyunting manusia; teknik carian tidak seragam; tidak boleh capai deep web"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Improved tools: web directories (human editors), metasearch engines (multiple engines, compare results), online databases (free public access), specialised search engines (focus on a media type)",
+      "Monitoring: subscribe to news feeds, follow people on Twitter, create alerts, use specialised monitors"
+     ],
+     "ms": [
+      "Alat lebih baik: direktori web (penyunting manusia), enjin metacarian (banyak enjin, bandingkan), pangkalan data dalam talian (akses awam percuma), enjin carian khusus (satu jenis media)",
+      "Pemantauan: langgan suapan berita, ikut orang di Twitter, cipta amaran, guna pemantau khusus"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 18 lists features in columns; the pairing of features to tools above is my reading.",
+     "ms": "Slaid 18 menyenaraikan ciri dalam lajur; pasangan ciri dengan alat di atas ialah bacaan saya."
+    },
+    {
+     "k": "h",
+     "en": "Search tips",
+     "ms": "Tip carian"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Think before you search",
+      "Pay attention to details",
+      "Don’t limit search engines",
+      "Review search and display options",
+      "Try variations of terms",
+      "Adjust the scope",
+      "Look beyond the first few pages"
+     ],
+     "ms": [
+      "Fikir sebelum cari",
+      "Beri perhatian kepada butiran",
+      "Jangan hadkan enjin carian",
+      "Semak pilihan carian dan paparan",
+      "Cuba variasi istilah",
+      "Laraskan skop",
+      "Lihat melepasi beberapa halaman pertama"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Documenting sources: three functions",
+     "ms": "Mendokumenkan sumber: tiga fungsi"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Properly credits the originator",
+      "Shows sufficient support for your message",
+      "Helps readers explore the topic in more detail"
+     ],
+     "ms": [
+      "Memberi kredit sewajarnya kepada pencipta asal",
+      "Menunjukkan sokongan mencukupi untuk mesej",
+      "Membantu pembaca meneroka topik lebih lanjut"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "primary",
+   "icon": "🎤",
+   "title": {
+    "en": "Primary Research: Surveys and Interviews",
+    "ms": "Penyelidikan Primer: Tinjauan dan Temu Bual"
+   },
+   "ref": "Slides 22–27",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Surveys",
+     "ms": "Tinjauan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Must be **reliable**: produces identical results when repeated",
+      "Must be **valid**: measures what it is intended to measure",
+      "Choose participants carefully: get a representative sample of the population",
+      "Use a research handbook or hire a research specialist"
+     ],
+     "ms": [
+      "Mesti **boleh dipercayai (reliable)**: hasil sama bila diulang",
+      "Mesti **sah (valid)**: mengukur apa yang sepatutnya diukur",
+      "Pilih peserta dengan teliti: sampel mewakili populasi",
+      "Guna buku panduan penyelidikan atau upah pakar"
+     ]
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Provide clear instructions",
+      "Ask for information people can remember",
+      "Keep the questionnaire short",
+      "Formulate questions that are easy to analyse",
+      "Avoid leading questions",
+      "Avoid ambiguous descriptors",
+      "Avoid compound questions",
+      "Make the survey adaptive"
+     ],
+     "ms": [
+      "Beri arahan jelas",
+      "Tanya maklumat yang orang boleh ingat",
+      "Pastikan soal selidik pendek",
+      "Rumus soalan yang mudah dianalisis",
+      "Elak soalan mengarah",
+      "Elak penerang kabur",
+      "Elak soalan majmuk",
+      "Jadikan tinjauan adaptif"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Interviews",
+     "ms": "Temu bual"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Question types: open-ended, closed; plan question sequence",
+      "Interview types: recorded, face-to-face, group"
+     ],
+     "ms": [
+      "Jenis soalan: terbuka, tertutup; rancang urutan soalan",
+      "Jenis temu bual: dirakam, bersemuka, kumpulan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "process",
+   "icon": "⚙️",
+   "title": {
+    "en": "Processing Data and Information",
+    "ms": "Memproses Data dan Maklumat"
+   },
+   "ref": "Slides 28–32",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Technique",
+       "Meaning"
+      ],
+      "ms": [
+       "Teknik",
+       "Maksud"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Quoting",
+        "Reproduce the material exactly"
+       ],
+       "ms": [
+        "Memetik",
+        "Menghasilkan semula bahan tepat"
+       ]
+      },
+      {
+       "en": [
+        "Paraphrasing",
+        "Restating it in your own words"
+       ],
+       "ms": [
+        "Parafrasa",
+        "Menyatakan semula dengan perkataan sendiri"
+       ]
+      },
+      {
+       "en": [
+        "Summarising",
+        "Similar to paraphrasing; presents the gist in fewer words"
+       ],
+       "ms": [
+        "Meringkas",
+        "Serupa parafrasa; bentang intipati dengan lebih sedikit perkataan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Gaining insights from numeric data",
+     "ms": "Mendapat wawasan daripada data berangka"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Trends",
+      "Causation",
+      "Correlation",
+      "Cross-tabulation"
+     ],
+     "ms": [
+      "Trend",
+      "Kausaliti (sebab-akibat)",
+      "Korelasi",
+      "Tabulasi silang"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Guarding against mistakes",
+     "ms": "Mengelak kesilapan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Guard against computational errors",
+      "Be cautious of misrepresenting results",
+      "Avoid faulty comparisons",
+      "Don’t push results beyond their limits",
+      "Avoid misleading presentations"
+     ],
+     "ms": [
+      "Elak kesilapan pengiraan",
+      "Berhati-hati salah nyata hasil",
+      "Elak perbandingan cacat",
+      "Jangan tolak hasil melebihi had",
+      "Elak pembentangan mengelirukan"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 30 (Analyzing Numeric Data) has no text.",
+     "ms": "Slaid 30 (Analyzing Numeric Data) tiada teks."
+    }
+   ]
+  },
+  {
+   "id": "apply",
+   "icon": "🎯",
+   "title": {
+    "en": "Applying Your Findings",
+    "ms": "Mengaplikasikan Dapatan"
+   },
+   "ref": "Slides 33–37",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Summarising your research",
+     "ms": "Meringkaskan penyelidikan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Do not include opinions, conclusions or recommendations",
+      "Separate by levels of significance",
+      "Identify the main idea and key support points",
+      "Focus on the audience’s needs"
+     ],
+     "ms": [
+      "Jangan sertakan pendapat, kesimpulan atau cadangan",
+      "Asingkan mengikut tahap kepentingan",
+      "Kenal pasti idea utama dan poin sokongan",
+      "Fokus kepada keperluan audiens"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Drawing conclusions: two criteria",
+     "ms": "Membuat kesimpulan: dua kriteria"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Based strictly on the information in your report (no new information)",
+      "Logical: follows accepted patterns of inductive or deductive reasoning; use appropriate assumptions, judgment calls and creative thinking"
+     ],
+     "ms": [
+      "Berdasarkan sepenuhnya maklumat dalam laporan (tiada maklumat baru)",
+      "Logik: ikut corak penaakulan induktif atau deduktif; guna andaian, pertimbangan dan pemikiran kreatif sesuai"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Making recommendations",
+     "ms": "Membuat cadangan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Suggest what to do",
+      "Based on logical analysis and sound conclusions",
+      "Practical and acceptable",
+      "Adequately describe the steps"
+     ],
+     "ms": [
+      "Cadangkan apa yang perlu dibuat",
+      "Berdasarkan analisis logik dan kesimpulan kukuh",
+      "Praktikal dan boleh diterima",
+      "Huraikan langkah dengan secukupnya"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Managing information",
+     "ms": "Mengurus maklumat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Contribute to the knowledge base",
+      "Knowledge management system",
+      "Social media tools",
+      "Group contributions"
+     ],
+     "ms": [
+      "Menyumbang kepada pangkalan pengetahuan",
+      "Sistem pengurusan pengetahuan",
+      "Alat media sosial",
+      "Sumbangan kumpulan"
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "plan",
+   "q": {
+    "en": "Six ethics and etiquette rules for research?",
+    "ms": "Enam peraturan etika penyelidikan?"
+   },
+   "a": {
+    "en": "Don’t force an outcome, respect participant privacy, document sources, respect IP rights, don’t misquote, don’t misrepresent.",
+    "ms": "Jangan paksa hasil, hormati privasi, dokumen sumber, hormati harta intelek, jangan salah petik, jangan salah nyata."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "plan",
+   "q": {
+    "en": "Three research constraints?",
+    "ms": "Tiga kekangan penyelidikan?"
+   },
+   "a": {
+    "en": "Limited time, limited money, unavailability of qualified subjects.",
+    "ms": "Masa terhad, wang terhad, ketiadaan subjek berkelayakan."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "plan",
+   "q": {
+    "en": "Need-to-know vs nice-to-know?",
+    "ms": "Need-to-know lwn nice-to-know?"
+   },
+   "a": {
+    "en": "Prioritise “need to know” questions over “nice to know” to limit scope.",
+    "ms": "Utamakan “need to know” berbanding “nice to know” untuk hadkan skop."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "secondary",
+   "q": {
+    "en": "Name five questions for evaluating a source.",
+    "ms": "Namakan lima soalan menilai sumber."
+   },
+   "a": {
+    "en": "Honest/reliable? Biased? Purpose? Author credible? Source of information? Verifiable? Current? Complete? Evidence? Logic?",
+    "ms": "Jujur/boleh dipercayai? Berat sebelah? Tujuan? Penulis berwibawa? Sumber? Boleh disahkan? Terkini? Lengkap? Bukti? Logik?"
+   }
+  },
+  {
+   "id": "c5",
+   "t": "secondary",
+   "q": {
+    "en": "Internal vs external resources?",
+    "ms": "Sumber dalam lwn luar?"
+   },
+   "a": {
+    "en": "Internal: documents, knowledge management system, research repository. External: print/online resources, reference librarian, public reports.",
+    "ms": "Dalam: dokumen, sistem pengurusan pengetahuan, repositori. Luar: sumber cetak/dalam talian, pustakawan, laporan awam."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "secondary",
+   "q": {
+    "en": "Pros and cons of general-purpose search engines?",
+    "ms": "Kelebihan dan kekurangan enjin carian umum?"
+   },
+   "a": {
+    "en": "Pros: ranked by usefulness, millions of pages, powerful algorithms. Cons: no human editors, no uniform techniques, can’t reach deep web.",
+    "ms": "Kelebihan: kedudukan mengikut kegunaan, jutaan halaman, algoritma kuat. Kekurangan: tiada penyunting, teknik tidak seragam, tiada deep web."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "secondary",
+   "q": {
+    "en": "Name four improved online search tools.",
+    "ms": "Namakan empat alat carian lebih baik."
+   },
+   "a": {
+    "en": "Web directories, metasearch engines, online databases, specialised search engines.",
+    "ms": "Direktori web, enjin metacarian, pangkalan data dalam talian, enjin carian khusus."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "secondary",
+   "q": {
+    "en": "Online monitoring tools?",
+    "ms": "Alat pemantauan dalam talian?"
+   },
+   "a": {
+    "en": "Subscribe to news feeds, follow people on Twitter, create alerts, specialised monitors.",
+    "ms": "Langgan suapan, ikut orang di Twitter, cipta amaran, pemantau khusus."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "secondary",
+   "q": {
+    "en": "Three functions of documenting sources?",
+    "ms": "Tiga fungsi mendokumenkan sumber?"
+   },
+   "a": {
+    "en": "Credits originator, shows support for message, helps readers explore more.",
+    "ms": "Beri kredit pencipta, tunjuk sokongan, bantu pembaca meneroka."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "primary",
+   "q": {
+    "en": "Reliable vs valid survey?",
+    "ms": "Tinjauan reliable lwn valid?"
+   },
+   "a": {
+    "en": "Reliable: identical results when repeated. Valid: measures what it is intended to measure.",
+    "ms": "Reliable: hasil sama bila diulang. Valid: mengukur apa yang sepatutnya."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "primary",
+   "q": {
+    "en": "Four survey writing tips?",
+    "ms": "Empat tip menulis tinjauan?"
+   },
+   "a": {
+    "en": "Clear instructions, ask what people can remember, keep short, easy-to-analyse questions.",
+    "ms": "Arahan jelas, tanya yang diingat, pendek, soalan mudah dianalisis."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "primary",
+   "q": {
+    "en": "Four things to avoid in survey questions?",
+    "ms": "Empat perkara dielak dalam soalan tinjauan?"
+   },
+   "a": {
+    "en": "Leading questions, ambiguous descriptors, compound questions; make survey adaptive.",
+    "ms": "Soalan mengarah, penerang kabur, soalan majmuk; jadikan adaptif."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "primary",
+   "q": {
+    "en": "Open-ended vs closed questions?",
+    "ms": "Soalan terbuka lwn tertutup?"
+   },
+   "a": {
+    "en": "Two interview question types listed on slide 26.",
+    "ms": "Dua jenis soalan temu bual pada slaid 26."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "primary",
+   "q": {
+    "en": "Three types of interviews?",
+    "ms": "Tiga jenis temu bual?"
+   },
+   "a": {
+    "en": "Recorded, face-to-face, group.",
+    "ms": "Dirakam, bersemuka, kumpulan."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "process",
+   "q": {
+    "en": "Quoting, paraphrasing, summarising?",
+    "ms": "Memetik, parafrasa, meringkas?"
+   },
+   "a": {
+    "en": "Quote exactly; paraphrase in own words; summarise the gist in fewer words.",
+    "ms": "Petik tepat; parafrasa dengan perkataan sendiri; ringkas intipati."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "process",
+   "q": {
+    "en": "Four insight terms for numeric data?",
+    "ms": "Empat istilah wawasan data berangka?"
+   },
+   "a": {
+    "en": "Trends, causation, correlation, cross-tabulation.",
+    "ms": "Trend, kausaliti, korelasi, tabulasi silang."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "process",
+   "q": {
+    "en": "Five mistakes to guard against?",
+    "ms": "Lima kesilapan dielak?"
+   },
+   "a": {
+    "en": "Computational errors, misrepresenting results, faulty comparisons, pushing results beyond limits, misleading presentations.",
+    "ms": "Kesilapan pengiraan, salah nyata hasil, perbandingan cacat, melebihi had, pembentangan mengelirukan."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "apply",
+   "q": {
+    "en": "What should a research summary NOT include?",
+    "ms": "Apa tidak patut ada dalam ringkasan penyelidikan?"
+   },
+   "a": {
+    "en": "Opinions, conclusions or recommendations.",
+    "ms": "Pendapat, kesimpulan atau cadangan."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "apply",
+   "q": {
+    "en": "Two criteria for conclusions?",
+    "ms": "Dua kriteria kesimpulan?"
+   },
+   "a": {
+    "en": "Based strictly on the report’s information; logical (inductive or deductive reasoning).",
+    "ms": "Berdasarkan maklumat laporan; logik (induktif atau deduktif)."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "apply",
+   "q": {
+    "en": "Four qualities of recommendations?",
+    "ms": "Empat kualiti cadangan?"
+   },
+   "a": {
+    "en": "Suggest what to do, based on sound conclusions, practical and acceptable, describe steps adequately.",
+    "ms": "Cadang apa dibuat, berdasarkan kesimpulan kukuh, praktikal dan diterima, huraikan langkah."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "plan",
+   "q": {
+    "en": "Which is an ethical research rule?",
+    "ms": "Yang mana peraturan etika penyelidikan?"
+   },
+   "o": [
+    "Force a specific outcome",
+    "Respect the privacy of participants",
+    "Misquote sources",
+    "Ignore credits"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 6.",
+    "ms": "Slaid 6."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "plan",
+   "q": {
+    "en": "Which is a research constraint?",
+    "ms": "Yang mana kekangan penyelidikan?"
+   },
+   "o": [
+    "Perfect data",
+    "Abundant money",
+    "Unlimited subjects",
+    "Limited time"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "plan",
+   "q": {
+    "en": "“Need to know” questions should be:",
+    "ms": "Soalan “need to know” patut:"
+   },
+   "o": [
+    "Prioritised",
+    "Dropped",
+    "Delayed",
+    "Ignored"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "plan",
+   "q": {
+    "en": "A problem statement should be phrased as a:",
+    "ms": "Pernyataan masalah patut dibingkai sebagai:"
+   },
+   "o": [
+    "Slogan",
+    "Command",
+    "Question",
+    "Opinion"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 7.",
+    "ms": "Slaid 7."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "secondary",
+   "q": {
+    "en": "“Is the material current?” is part of:",
+    "ms": "“Adakah bahan terkini?” sebahagian:"
+   },
+   "o": [
+    "Interviewing",
+    "Surveying",
+    "Evaluating sources",
+    "Cross-tabulating"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 12.",
+    "ms": "Slaid 12."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "secondary",
+   "q": {
+    "en": "A knowledge management system is a(n):",
+    "ms": "Sistem pengurusan pengetahuan ialah sumber:"
+   },
+   "o": [
+    "Internal resource",
+    "External resource",
+    "Public report",
+    "Library book"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "secondary",
+   "q": {
+    "en": "A reference librarian is a(n):",
+    "ms": "Pustakawan rujukan ialah sumber:"
+   },
+   "o": [
+    "Search engine",
+    "Internal resource",
+    "Database",
+    "External resource"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "secondary",
+   "q": {
+    "en": "Which is a con of general search tools?",
+    "ms": "Yang mana kekurangan alat carian umum?"
+   },
+   "o": [
+    "Powerful ranking",
+    "Can’t reach the deep web",
+    "Millions of pages",
+    "Ranked by usefulness"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 17.",
+    "ms": "Slaid 17."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "secondary",
+   "q": {
+    "en": "Which tool uses human editors?",
+    "ms": "Alat mana guna penyunting manusia?"
+   },
+   "o": [
+    "General search engines",
+    "Web directories",
+    "Spam filters",
+    "Bots"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 18.",
+    "ms": "Slaid 18."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "secondary",
+   "q": {
+    "en": "Metasearch engines:",
+    "ms": "Enjin metacarian:"
+   },
+   "o": [
+    "Have no results",
+    "Use one engine only",
+    "Need no internet",
+    "Use multiple search engines and compare results"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 18.",
+    "ms": "Slaid 18."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "secondary",
+   "q": {
+    "en": "Documenting sources does NOT:",
+    "ms": "Mendokumenkan sumber TIDAK:"
+   },
+   "o": [
+    "Hide the originator",
+    "Credit the originator",
+    "Support your message",
+    "Help readers explore"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 21.",
+    "ms": "Slaid 21."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "primary",
+   "q": {
+    "en": "A survey that gives identical results when repeated is:",
+    "ms": "Tinjauan yang beri hasil sama bila diulang ialah:"
+   },
+   "o": [
+    "Biased",
+    "Valid",
+    "Reliable",
+    "Adaptive"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "primary",
+   "q": {
+    "en": "A survey that measures what it should measure is:",
+    "ms": "Tinjauan yang mengukur apa sepatutnya ialah:"
+   },
+   "o": [
+    "Compound",
+    "Reliable",
+    "Valid",
+    "Leading"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "primary",
+   "q": {
+    "en": "A representative sample reflects:",
+    "ms": "Sampel mewakili mencerminkan:"
+   },
+   "o": [
+    "The population",
+    "One person",
+    "A manager",
+    "Competitors"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "primary",
+   "q": {
+    "en": "Which survey question should be avoided?",
+    "ms": "Soalan tinjauan mana patut dielak?"
+   },
+   "o": [
+    "Easy-to-analyse questions",
+    "Clear questions",
+    "Short questionnaire",
+    "Leading questions"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 25.",
+    "ms": "Slaid 25."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "primary",
+   "q": {
+    "en": "Which is an interview type?",
+    "ms": "Yang mana jenis temu bual?"
+   },
+   "o": [
+    "Memo interviews",
+    "Group interviews",
+    "Spreadsheet interviews",
+    "Silent interviews"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "process",
+   "q": {
+    "en": "Restating in your own words is:",
+    "ms": "Menyatakan semula dengan perkataan sendiri ialah:"
+   },
+   "o": [
+    "Quoting",
+    "Paraphrasing",
+    "Plagiarising",
+    "Indexing"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 29.",
+    "ms": "Slaid 29."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "process",
+   "q": {
+    "en": "Reproducing material exactly is:",
+    "ms": "Menghasilkan semula bahan tepat ialah:"
+   },
+   "o": [
+    "Analysing",
+    "Paraphrasing",
+    "Summarising",
+    "Quoting"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 29.",
+    "ms": "Slaid 29."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "process",
+   "q": {
+    "en": "Which is a numeric insight term?",
+    "ms": "Yang mana istilah wawasan berangka?"
+   },
+   "o": [
+    "Cross-tabulation",
+    "Free writing",
+    "Storytelling",
+    "Mind map"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 31.",
+    "ms": "Slaid 31."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "process",
+   "q": {
+    "en": "Which is a mistake to avoid?",
+    "ms": "Yang mana kesilapan untuk dielak?"
+   },
+   "o": [
+    "Honest limits",
+    "Careful checks",
+    "Faulty comparisons",
+    "Clear charts"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 32.",
+    "ms": "Slaid 32."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "apply",
+   "q": {
+    "en": "A summary of research should NOT contain:",
+    "ms": "Ringkasan penyelidikan TIDAK patut mengandungi:"
+   },
+   "o": [
+    "Key support points",
+    "Main idea",
+    "Opinions and recommendations",
+    "Audience focus"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 34.",
+    "ms": "Slaid 34."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "apply",
+   "q": {
+    "en": "Conclusions must be based:",
+    "ms": "Kesimpulan mesti berdasarkan:"
+   },
+   "o": [
+    "Strictly on information in the report",
+    "On new facts",
+    "On guesses",
+    "On rumours"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 35.",
+    "ms": "Slaid 35."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "apply",
+   "q": {
+    "en": "Recommendations should be:",
+    "ms": "Cadangan patut:"
+   },
+   "o": [
+    "Unrelated",
+    "Vague",
+    "Impractical",
+    "Practical and acceptable"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 36.",
+    "ms": "Slaid 36."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "plan",
+   "marks": 8,
+   "q": {
+    "en": "Describe the process of planning business research.",
+    "ms": "Huraikan proses merancang penyelidikan perniagaan."
+   },
+   "pts": {
+    "en": [
+     "Ethics and etiquette rules (2)",
+     "Familiarise with subject and develop problem statement (2)",
+     "Identify information gaps (2)",
+     "Prioritise: constraints and need-to-know (2)"
+    ],
+    "ms": [
+     "Peraturan etika dan etiket (2)",
+     "Biasakan subjek dan bangun pernyataan masalah (2)",
+     "Kenal pasti jurang maklumat (2)",
+     "Utamakan: kekangan dan need-to-know (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "secondary",
+   "marks": 10,
+   "q": {
+    "en": "Explain how to evaluate, locate and document secondary sources.",
+    "ms": "Terangkan cara menilai, mencari dan mendokumenkan sumber sekunder."
+   },
+   "pts": {
+    "en": [
+     "Evaluate: reputation, bias, purpose, author, source (2)",
+     "Evaluate: verify, current, complete, evidence, logic (2)",
+     "Locate: internal and external resources (2)",
+     "Library and online tools (2)",
+     "Document: three functions (2)"
+    ],
+    "ms": [
+     "Nilai: reputasi, bias, tujuan, penulis, sumber (2)",
+     "Nilai: sahkan, terkini, lengkap, bukti, logik (2)",
+     "Cari: sumber dalam dan luar (2)",
+     "Perpustakaan dan alat dalam talian (2)",
+     "Dokumen: tiga fungsi (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "primary",
+   "marks": 8,
+   "q": {
+    "en": "Outline how to conduct surveys and interviews.",
+    "ms": "Gariskan cara menjalankan tinjauan dan temu bual."
+   },
+   "pts": {
+    "en": [
+     "Survey: reliable and valid (2)",
+     "Representative sample (1)",
+     "Survey writing tips (2)",
+     "Avoid leading, ambiguous and compound questions (1)",
+     "Interviews: question types and interview types (2)"
+    ],
+    "ms": [
+     "Tinjauan: reliable dan valid (2)",
+     "Sampel mewakili (1)",
+     "Tip menulis tinjauan (2)",
+     "Elak soalan mengarah, kabur dan majmuk (1)",
+     "Temu bual: jenis soalan dan temu bual (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "process",
+   "marks": 6,
+   "q": {
+    "en": "Describe how to process research results and avoid mistakes.",
+    "ms": "Huraikan cara memproses hasil penyelidikan dan mengelak kesilapan."
+   },
+   "pts": {
+    "en": [
+     "Quoting, paraphrasing, summarising (2)",
+     "Trends, causation, correlation, cross-tabulation (2)",
+     "Guard against errors and misinterpretation (2)"
+    ],
+    "ms": [
+     "Memetik, parafrasa, meringkas (2)",
+     "Trend, kausaliti, korelasi, tabulasi silang (2)",
+     "Elak kesilapan dan salah tafsir (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "apply",
+   "marks": 6,
+   "q": {
+    "en": "Explain how to summarise research and draw conclusions and recommendations.",
+    "ms": "Terangkan cara meringkaskan penyelidikan dan membuat kesimpulan dan cadangan."
+   },
+   "pts": {
+    "en": [
+     "Summary: no opinions, main idea, audience (2)",
+     "Conclusions: based on report, logical (2)",
+     "Recommendations: practical, sound, describe steps (2)"
+    ],
+    "ms": [
+     "Ringkasan: tiada pendapat, idea utama, audiens (2)",
+     "Kesimpulan: berdasarkan laporan, logik (2)",
+     "Cadangan: praktikal, kukuh, huraikan langkah (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Primary research",
+   "Penyelidikan primer"
+  ],
+  [
+   "Secondary research",
+   "Penyelidikan sekunder"
+  ],
+  [
+   "Problem statement",
+   "Pernyataan masalah"
+  ],
+  [
+   "Reliable",
+   "Boleh dipercayai (reliable)"
+  ],
+  [
+   "Valid",
+   "Sah (valid)"
+  ],
+  [
+   "Representative sample",
+   "Sampel mewakili"
+  ],
+  [
+   "Leading question",
+   "Soalan mengarah"
+  ],
+  [
+   "Open-ended question",
+   "Soalan terbuka"
+  ],
+  [
+   "Closed question",
+   "Soalan tertutup"
+  ],
+  [
+   "Paraphrasing",
+   "Parafrasa"
+  ],
+  [
+   "Correlation",
+   "Korelasi"
+  ],
+  [
+   "Causation",
+   "Kausaliti"
+  ],
+  [
+   "Cross-tabulation",
+   "Tabulasi silang"
+  ],
+  [
+   "Deep web",
+   "Deep web"
+  ],
+  [
+   "Metasearch engine",
+   "Enjin metacarian"
+  ]
+ ]
+}

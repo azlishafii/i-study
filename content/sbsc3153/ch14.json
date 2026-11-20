@@ -1,0 +1,1270 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch14",
+ "num": 14,
+ "title": {
+  "en": "Planning Reports and Proposals",
+  "ms": "Merancang Laporan dan Cadangan"
+ },
+ "standard": "Bovee Ch 14",
+ "outcomes": {
+  "en": [
+   "Adapt the three-step writing process to reports and proposals",
+   "List options for organising informational reports and key parts of a business plan",
+   "Discuss three major ways to organise analytical reports",
+   "Explain how to choose an organisational strategy for a proposal"
+  ],
+  "ms": [
+   "Sesuaikan proses penulisan tiga langkah untuk laporan dan cadangan",
+   "Senaraikan pilihan menyusun laporan bermaklumat dan bahagian utama pelan perniagaan",
+   "Bincangkan tiga cara utama menyusun laporan analitikal",
+   "Terangkan cara memilih strategi organisasi untuk cadangan"
+  ]
+ },
+ "sections": [
+  {
+   "id": "types",
+   "icon": "📑",
+   "title": {
+    "en": "Types of Reports and Planning",
+    "ms": "Jenis Laporan dan Perancangan"
+   },
+   "ref": "Slides 4–9",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Type",
+       "Features"
+      ],
+      "ms": [
+       "Jenis",
+       "Ciri"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Informational reports",
+        "Data, facts, information, feedback; address a predetermined need; meet specific audience expectations"
+       ],
+       "ms": [
+        "Laporan bermaklumat",
+        "Data, fakta, maklumat, maklum balas; penuhi keperluan ditetapkan; penuhi jangkaan audiens"
+       ]
+      },
+      {
+       "en": [
+        "Analytical reports",
+        "Analysis and recommendations; written in response to a perceived problem or opportunity; clear statement of purpose"
+       ],
+       "ms": [
+        "Laporan analitikal",
+        "Analisis dan cadangan; ditulis sebagai respons kepada masalah atau peluang; pernyataan tujuan jelas"
+       ]
+      },
+      {
+       "en": [
+        "Proposals",
+        "A special category; persuasive communication"
+       ],
+       "ms": [
+        "Cadangan (proposal)",
+        "Kategori khas; komunikasi memujuk"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 4 lays out the three report types in columns; the mapping above follows reading order.",
+     "ms": "Slaid 4 menyusun tiga jenis laporan dalam lajur; pemetaan di atas ikut susunan bacaan."
+    },
+    {
+     "k": "h",
+     "en": "Work plan",
+     "ms": "Pelan kerja"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Essential: statement of problem or opportunity; statement of purpose and scope of investigation",
+      "Additional: tasks to accomplish, descriptions of results, project assignments, plans for following up, working outline"
+     ],
+     "ms": [
+      "Penting: pernyataan masalah atau peluang; pernyataan tujuan dan skop siasatan",
+      "Tambahan: tugas, huraian hasil, tugasan projek, pelan susulan, rangka kerja"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Gathering and media",
+     "ms": "Mengumpul dan media"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Plan research; prioritise information; focus on the most important question; adapt existing information",
+      "Media: observe requirements, how the audience wants to give feedback, whether searchable or editable, the message the media choice sends"
+     ],
+     "ms": [
+      "Rancang penyelidikan; utamakan maklumat; fokus soalan terpenting; sesuaikan maklumat sedia ada",
+      "Media: patuhi keperluan, cara audiens beri maklum balas, boleh dicari atau disunting, mesej yang dihantar pilihan media"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Direct approach",
+       "Indirect approach"
+      ],
+      "ms": [
+       "Pendekatan terus",
+       "Pendekatan tidak terus"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Business reports, shorter messages; lead with key findings",
+        "Can work in combination with direct; more forceful report; intersperse conclusions throughout"
+       ],
+       "ms": [
+        "Laporan perniagaan, mesej pendek; mula dengan dapatan utama",
+        "Boleh digabung dengan terus; laporan lebih tegas; selang-seli kesimpulan sepanjang laporan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 9 puts items in columns; the grouping above is my reading.",
+     "ms": "Slaid 9 meletakkan item dalam lajur; pengelompokan di atas ialah bacaan saya."
+    }
+   ]
+  },
+  {
+   "id": "info",
+   "icon": "📋",
+   "title": {
+    "en": "Informational Reports and Business Plans",
+    "ms": "Laporan Bermaklumat dan Pelan Perniagaan"
+   },
+   "ref": "Slides 11–15",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Categories of informational reports",
+     "ms": "Kategori laporan bermaklumat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Monitor and control operations",
+      "Implement policies and procedures",
+      "Demonstrate compliance",
+      "Document progress"
+     ],
+     "ms": [
+      "Pantau dan kawal operasi",
+      "Laksana dasar dan prosedur",
+      "Tunjuk pematuhan",
+      "Dokumenkan kemajuan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Organisational strategies",
+     "ms": "Strategi organisasi"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Comparison",
+      "Importance",
+      "Sequence",
+      "Spatial orientation",
+      "Chronology",
+      "Geography",
+      "Category"
+     ],
+     "ms": [
+      "Perbandingan",
+      "Kepentingan",
+      "Urutan",
+      "Orientasi ruang",
+      "Kronologi",
+      "Geografi",
+      "Kategori"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide lists seven terms; textbook groups chronology under sequence and geography under spatial orientation.",
+     "ms": "Slaid menyenaraikan tujuh istilah; buku teks mengumpulkan kronologi di bawah urutan dan geografi di bawah orientasi ruang."
+    },
+    {
+     "k": "h",
+     "en": "Business plans",
+     "ms": "Pelan perniagaan"
+    },
+    {
+     "k": "p",
+     "en": "A business plan covers **mission, structure, objectives and operations**. It is written **before the company is launched**, **when seeking funding**, or **after it is running**.",
+     "ms": "Pelan perniagaan merangkumi **misi, struktur, objektif dan operasi**. Ia ditulis **sebelum syarikat dilancarkan**, **semasa mencari pembiayaan**, atau **selepas beroperasi**."
+    },
+    {
+     "k": "h",
+     "en": "Typical business plan parts",
+     "ms": "Bahagian pelan perniagaan lazim"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Summary",
+      "Mission and objectives",
+      "Company and industry",
+      "Products or services",
+      "Market and competition",
+      "Management",
+      "Marketing strategy"
+     ],
+     "ms": [
+      "Ringkasan",
+      "Misi dan objektif",
+      "Syarikat dan industri",
+      "Produk atau perkhidmatan",
+      "Pasaran dan persaingan",
+      "Pengurusan",
+      "Strategi pemasaran"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "analytic",
+   "icon": "🔬",
+   "title": {
+    "en": "Analytical Reports",
+    "ms": "Laporan Analitikal"
+   },
+   "ref": "Slides 17–24",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Three basic categories",
+     "ms": "Tiga kategori asas"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Reports to assess opportunities",
+      "Reports to solve problems",
+      "Reports to support decisions"
+     ],
+     "ms": [
+      "Laporan menilai peluang",
+      "Laporan menyelesaikan masalah",
+      "Laporan menyokong keputusan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Challenges",
+     "ms": "Cabaran"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Analysing a problem or opportunity",
+      "Presenting in a credible manner",
+      "Convincing others to make decisions"
+     ],
+     "ms": [
+      "Menganalisis masalah atau peluang",
+      "Membentang dengan kredibel",
+      "Meyakinkan orang lain membuat keputusan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Defining scope (5W1H)",
+     "ms": "Menentukan skop (5W1H)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "What needs to be determined?",
+      "Why is the issue important?",
+      "Who is involved?",
+      "Where is the trouble located?",
+      "How did it originate?",
+      "When did it start?"
+     ],
+     "ms": [
+      "Apa perlu ditentukan?",
+      "Kenapa isu penting?",
+      "Siapa terlibat?",
+      "Di mana masalah?",
+      "Bagaimana bermula?",
+      "Bila bermula?"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Complex problems",
+     "ms": "Masalah kompleks"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Problem factoring: divide into a series of questions",
+      "Ask: are you advocating one thought? Are you objectively exploring all options?"
+     ],
+     "ms": [
+      "Pemfaktoran masalah: bahagi kepada siri soalan",
+      "Tanya: adakah anda menyokong satu pendapat? Adakah anda meneroka semua pilihan secara objektif?"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Three organisational approaches",
+     "ms": "Tiga pendekatan organisasi"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Approach",
+       "Details"
+      ],
+      "ms": [
+       "Pendekatan",
+       "Butiran"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Focusing on conclusions",
+        "Direct approach, presents the main idea. Advantages: direct. Disadvantages: ignores questions, potential for oversimplification"
+       ],
+       "ms": [
+        "Fokus kesimpulan",
+        "Pendekatan terus, bentang idea utama. Kelebihan: terus. Kekurangan: abaikan soalan, risiko terlalu ringkas"
+       ]
+      },
+      {
+       "en": [
+        "Focusing on recommendations",
+        "Five steps: establish need in the introduction; introduce the benefit without details; list the steps using action verbs; explain each step with procedures, costs and benefits; summarise recommendations"
+       ],
+       "ms": [
+        "Fokus cadangan",
+        "Lima langkah: tegaskan keperluan dalam pengenalan; perkenal manfaat tanpa butiran; senarai langkah dengan kata kerja tindakan; terangkan setiap langkah dengan prosedur, kos, manfaat; ringkaskan cadangan"
+       ]
+      },
+      {
+       "en": [
+        "Focusing on logical arguments",
+        "Indirect approach: the 2 + 2 = 4 approach and the yardstick approach"
+       ],
+       "ms": [
+        "Fokus hujah logik",
+        "Pendekatan tidak terus: pendekatan 2 + 2 = 4 dan pendekatan pembaris (yardstick)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 24 says “Three Indirect Approach” but lists two (2 + 2 = 4, and yardstick). The third is not shown on the slide; check your textbook.",
+     "ms": "Slaid 24 kata “Three Indirect Approach” tetapi hanya senaraikan dua (2 + 2 = 4, dan yardstick). Yang ketiga tidak ditunjukkan; semak buku teks."
+    }
+   ]
+  },
+  {
+   "id": "proposal",
+   "icon": "📝",
+   "title": {
+    "en": "Proposals",
+    "ms": "Cadangan (Proposal)"
+   },
+   "ref": "Slides 26–28",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Type",
+       "Details"
+      ],
+      "ms": [
+       "Jenis",
+       "Butiran"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Internal",
+        "Request decisions from within the organisation: purchase decisions or new research projects"
+       ],
+       "ms": [
+        "Dalaman",
+        "Minta keputusan dalam organisasi: keputusan pembelian atau projek penyelidikan baru"
+       ]
+      },
+      {
+       "en": [
+        "External",
+        "Request decisions from outside the organisation: grant proposals or sales proposals"
+       ],
+       "ms": [
+        "Luaran",
+        "Minta keputusan luar organisasi: cadangan geran atau jualan"
+       ]
+      },
+      {
+       "en": [
+        "Solicited",
+        "Expected; specific instructions; audience aware of the problem"
+       ],
+       "ms": [
+        "Diminta (solicited)",
+        "Dijangka; arahan khusus; audiens sedar masalah"
+       ]
+      },
+      {
+       "en": [
+        "Unsolicited",
+        "Unexpected; more flexibility; audience unaware of the problem"
+       ],
+       "ms": [
+        "Tidak diminta (unsolicited)",
+        "Tidak dijangka; lebih fleksibel; audiens tidak sedar masalah"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Strategy",
+       "Solicited proposal",
+       "Unsolicited proposal"
+      ],
+      "ms": [
+       "Strategi",
+       "Cadangan diminta",
+       "Cadangan tidak diminta"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Approach",
+        "Direct",
+        "Indirect"
+       ],
+       "ms": [
+        "Pendekatan",
+        "Terus",
+        "Tidak terus"
+       ]
+      },
+      {
+       "en": [
+        "Audience",
+        "Receptive",
+        "Skeptical"
+       ],
+       "ms": [
+        "Audiens",
+        "Menerima",
+        "Ragu-ragu"
+       ]
+      },
+      {
+       "en": [
+        "Focus",
+        "Recommendations",
+        "Establish credibility; convince audience that the problem exists"
+       ],
+       "ms": [
+        "Fokus",
+        "Cadangan",
+        "Bina kredibiliti; yakinkan masalah wujud"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Solicited = they asked, so lead with the answer. Unsolicited = they didn’t, so convince first.",
+     "ms": "Solicited = mereka minta, jadi mula dengan jawapan. Unsolicited = tidak minta, jadi yakinkan dahulu."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "types",
+   "q": {
+    "en": "Three types of reports/documents?",
+    "ms": "Tiga jenis laporan/dokumen?"
+   },
+   "a": {
+    "en": "Informational reports, analytical reports, proposals.",
+    "ms": "Laporan bermaklumat, laporan analitikal, cadangan."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "types",
+   "q": {
+    "en": "Essential elements of a work plan?",
+    "ms": "Elemen penting pelan kerja?"
+   },
+   "a": {
+    "en": "Statement of problem or opportunity; statement of purpose and scope of investigation.",
+    "ms": "Pernyataan masalah/peluang; pernyataan tujuan dan skop siasatan."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "types",
+   "q": {
+    "en": "Additional work plan elements?",
+    "ms": "Elemen tambahan pelan kerja?"
+   },
+   "a": {
+    "en": "Tasks, descriptions of results, project assignments, follow-up plans, working outline.",
+    "ms": "Tugas, huraian hasil, tugasan projek, pelan susulan, rangka kerja."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "types",
+   "q": {
+    "en": "Direct approach for reports?",
+    "ms": "Pendekatan terus untuk laporan?"
+   },
+   "a": {
+    "en": "Lead with key findings; used for business reports and shorter messages.",
+    "ms": "Mula dengan dapatan utama; untuk laporan perniagaan dan mesej pendek."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "info",
+   "q": {
+    "en": "Four categories of informational reports?",
+    "ms": "Empat kategori laporan bermaklumat?"
+   },
+   "a": {
+    "en": "Monitor and control operations, implement policies and procedures, demonstrate compliance, document progress.",
+    "ms": "Pantau dan kawal operasi, laksana dasar, tunjuk pematuhan, dokumenkan kemajuan."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "info",
+   "q": {
+    "en": "Organisational strategies for informational reports?",
+    "ms": "Strategi organisasi laporan bermaklumat?"
+   },
+   "a": {
+    "en": "Comparison, importance, sequence, spatial orientation, chronology, geography, category.",
+    "ms": "Perbandingan, kepentingan, urutan, orientasi ruang, kronologi, geografi, kategori."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "info",
+   "q": {
+    "en": "When is a business plan written?",
+    "ms": "Bila pelan perniagaan ditulis?"
+   },
+   "a": {
+    "en": "Before launch, when seeking funding, or after the company is running.",
+    "ms": "Sebelum pelancaran, semasa mencari pembiayaan, atau selepas beroperasi."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "info",
+   "q": {
+    "en": "Seven parts of a typical business plan?",
+    "ms": "Tujuh bahagian pelan perniagaan?"
+   },
+   "a": {
+    "en": "Summary, mission and objectives, company and industry, products or services, market and competition, management, marketing strategy.",
+    "ms": "Ringkasan, misi dan objektif, syarikat dan industri, produk/perkhidmatan, pasaran dan persaingan, pengurusan, strategi pemasaran."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "analytic",
+   "q": {
+    "en": "Three categories of analytical reports?",
+    "ms": "Tiga kategori laporan analitikal?"
+   },
+   "a": {
+    "en": "Assess opportunities, solve problems, support decisions.",
+    "ms": "Menilai peluang, menyelesaikan masalah, menyokong keputusan."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "analytic",
+   "q": {
+    "en": "Questions defining scope?",
+    "ms": "Soalan menentukan skop?"
+   },
+   "a": {
+    "en": "What, why, who, where, how, when.",
+    "ms": "Apa, kenapa, siapa, di mana, bagaimana, bila."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "analytic",
+   "q": {
+    "en": "What is problem factoring?",
+    "ms": "Apakah pemfaktoran masalah?"
+   },
+   "a": {
+    "en": "Dividing a complex problem into a series of questions.",
+    "ms": "Membahagi masalah kompleks kepada siri soalan."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "analytic",
+   "q": {
+    "en": "Three organisational approaches for analytical reports?",
+    "ms": "Tiga pendekatan organisasi laporan analitikal?"
+   },
+   "a": {
+    "en": "Focusing on conclusions, recommendations, logical arguments.",
+    "ms": "Fokus kesimpulan, cadangan, hujah logik."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "analytic",
+   "q": {
+    "en": "Disadvantages of focusing on conclusions?",
+    "ms": "Kekurangan fokus pada kesimpulan?"
+   },
+   "a": {
+    "en": "Ignores questions; potential for oversimplification.",
+    "ms": "Mengabaikan soalan; risiko terlalu ringkas."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "analytic",
+   "q": {
+    "en": "Five steps for a recommendation-focused report?",
+    "ms": "Lima langkah laporan fokus cadangan?"
+   },
+   "a": {
+    "en": "Establish need; introduce benefit; list steps with action verbs; explain each step; summarise.",
+    "ms": "Tegaskan keperluan; perkenal manfaat; senarai langkah kata kerja tindakan; terangkan; ringkaskan."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "analytic",
+   "q": {
+    "en": "Two logical-argument approaches named on the slide?",
+    "ms": "Dua pendekatan hujah logik pada slaid?"
+   },
+   "a": {
+    "en": "The 2 + 2 = 4 approach and the yardstick approach.",
+    "ms": "Pendekatan 2 + 2 = 4 dan pendekatan yardstick."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "proposal",
+   "q": {
+    "en": "Internal vs external proposals?",
+    "ms": "Cadangan dalaman lwn luaran?"
+   },
+   "a": {
+    "en": "Internal: within the organisation (purchases, research). External: outside (grant, sales).",
+    "ms": "Dalaman: dalam organisasi (pembelian, penyelidikan). Luaran: luar (geran, jualan)."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "proposal",
+   "q": {
+    "en": "Solicited vs unsolicited proposals?",
+    "ms": "Cadangan solicited lwn unsolicited?"
+   },
+   "a": {
+    "en": "Solicited: expected, specific instructions, aware audience. Unsolicited: unexpected, flexible, unaware audience.",
+    "ms": "Solicited: dijangka, arahan khusus, audiens sedar. Unsolicited: tidak dijangka, fleksibel, audiens tidak sedar."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "proposal",
+   "q": {
+    "en": "Strategy for a solicited proposal?",
+    "ms": "Strategi cadangan solicited?"
+   },
+   "a": {
+    "en": "Direct approach, receptive audience, focus on recommendations.",
+    "ms": "Pendekatan terus, audiens menerima, fokus cadangan."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "proposal",
+   "q": {
+    "en": "Strategy for an unsolicited proposal?",
+    "ms": "Strategi cadangan unsolicited?"
+   },
+   "a": {
+    "en": "Indirect approach, skeptical audience, establish credibility, convince that the problem exists.",
+    "ms": "Pendekatan tidak terus, audiens ragu, bina kredibiliti, yakinkan masalah wujud."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "types",
+   "q": {
+    "en": "A report that provides facts and feedback is:",
+    "ms": "Laporan yang beri fakta dan maklum balas ialah:"
+   },
+   "o": [
+    "Analytical",
+    "Informational",
+    "A proposal",
+    "A memo only"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 4.",
+    "ms": "Slaid 4."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "types",
+   "q": {
+    "en": "A report responding to a perceived problem is:",
+    "ms": "Laporan sebagai respons kepada masalah ialah:"
+   },
+   "o": [
+    "A letter",
+    "Informational",
+    "A work plan",
+    "Analytical"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "types",
+   "q": {
+    "en": "Which is essential in a work plan?",
+    "ms": "Yang mana penting dalam pelan kerja?"
+   },
+   "o": [
+    "Statement of problem or opportunity",
+    "Photograph",
+    "Colour scheme",
+    "Budget cap only"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 6.",
+    "ms": "Slaid 6."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "types",
+   "q": {
+    "en": "The direct approach leads with:",
+    "ms": "Pendekatan terus bermula dengan:"
+   },
+   "o": [
+    "Apologies",
+    "Background",
+    "Key findings",
+    "Questions"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "info",
+   "q": {
+    "en": "Documenting progress is a category of:",
+    "ms": "Mendokumenkan kemajuan ialah kategori:"
+   },
+   "o": [
+    "Proposals",
+    "Analytical reports",
+    "Informational reports",
+    "RFPs"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 11.",
+    "ms": "Slaid 11."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "info",
+   "q": {
+    "en": "Which is an organisational strategy for informational reports?",
+    "ms": "Yang mana strategi organisasi laporan bermaklumat?"
+   },
+   "o": [
+    "Chronology",
+    "Emotion",
+    "Exaggeration",
+    "Randomness"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 12.",
+    "ms": "Slaid 12."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "info",
+   "q": {
+    "en": "Which is a business plan part?",
+    "ms": "Yang mana bahagian pelan perniagaan?"
+   },
+   "o": [
+    "Poem",
+    "Cover recipe",
+    "Wedding plan",
+    "Marketing strategy"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "analytic",
+   "q": {
+    "en": "Which is NOT an analytical report category?",
+    "ms": "Yang mana BUKAN kategori laporan analitikal?"
+   },
+   "o": [
+    "Assess opportunities",
+    "Reports to entertain",
+    "Solve problems",
+    "Support decisions"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 17.",
+    "ms": "Slaid 17."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "analytic",
+   "q": {
+    "en": "Dividing a complex problem into questions is:",
+    "ms": "Membahagi masalah kompleks kepada soalan ialah:"
+   },
+   "o": [
+    "Plagiarism",
+    "Problem factoring",
+    "Proofreading",
+    "Phishing"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 20.",
+    "ms": "Slaid 20."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "analytic",
+   "q": {
+    "en": "Focusing on conclusions uses the:",
+    "ms": "Fokus kesimpulan menggunakan:"
+   },
+   "o": [
+    "Random approach",
+    "Indirect approach",
+    "No approach",
+    "Direct approach"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "analytic",
+   "q": {
+    "en": "A disadvantage of focusing on conclusions is:",
+    "ms": "Kekurangan fokus kesimpulan ialah:"
+   },
+   "o": [
+    "Potential for oversimplification",
+    "Too long",
+    "Hard to read",
+    "No main idea"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "analytic",
+   "q": {
+    "en": "Recommendations should use ___ for emphasis.",
+    "ms": "Cadangan patut guna ___ untuk penekanan."
+   },
+   "o": [
+    "Questions",
+    "Adjectives",
+    "Action verbs",
+    "Jargon"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "analytic",
+   "q": {
+    "en": "The yardstick approach is:",
+    "ms": "Pendekatan yardstick ialah:"
+   },
+   "o": [
+    "A work plan",
+    "A direct approach",
+    "An indirect logical-argument approach",
+    "A proposal type"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "proposal",
+   "q": {
+    "en": "A grant proposal is:",
+    "ms": "Cadangan geran ialah:"
+   },
+   "o": [
+    "External",
+    "Internal",
+    "Informational",
+    "Unrelated"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 26.",
+    "ms": "Slaid 26."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "proposal",
+   "q": {
+    "en": "A purchase decision proposal is:",
+    "ms": "Cadangan keputusan pembelian ialah:"
+   },
+   "o": [
+    "A memo",
+    "External",
+    "Unsolicited only",
+    "Internal"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 26.",
+    "ms": "Slaid 26."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "proposal",
+   "q": {
+    "en": "Which proposal has specific instructions?",
+    "ms": "Cadangan mana ada arahan khusus?"
+   },
+   "o": [
+    "Unsolicited",
+    "Solicited",
+    "Both never",
+    "Neither"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "proposal",
+   "q": {
+    "en": "An unsolicited proposal has an audience that is:",
+    "ms": "Cadangan unsolicited ada audiens yang:"
+   },
+   "o": [
+    "Aware of the problem",
+    "Unaware of the problem",
+    "Very receptive",
+    "Informed"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "proposal",
+   "q": {
+    "en": "Solicited proposals use:",
+    "ms": "Cadangan solicited guna:"
+   },
+   "o": [
+    "Humour",
+    "Indirect approach",
+    "No structure",
+    "Direct approach"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 28.",
+    "ms": "Slaid 28."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "proposal",
+   "q": {
+    "en": "An unsolicited proposal must first:",
+    "ms": "Cadangan unsolicited mesti dahulu:"
+   },
+   "o": [
+    "Convince the audience that the problem exists",
+    "Ask for money",
+    "Summarise costs",
+    "End"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 28.",
+    "ms": "Slaid 28."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "proposal",
+   "q": {
+    "en": "For a skeptical audience, establish:",
+    "ms": "Untuk audiens ragu, bina:"
+   },
+   "o": [
+    "Speed",
+    "Humour",
+    "Credibility",
+    "Anonymity"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 28.",
+    "ms": "Slaid 28."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "types",
+   "marks": 6,
+   "q": {
+    "en": "Distinguish informational reports, analytical reports and proposals.",
+    "ms": "Bezakan laporan bermaklumat, laporan analitikal dan cadangan."
+   },
+   "pts": {
+    "en": [
+     "Informational: facts, predetermined need (2)",
+     "Analytical: analysis and recommendations; problem or opportunity (2)",
+     "Proposals: persuasive, special category (2)"
+    ],
+    "ms": [
+     "Bermaklumat: fakta, keperluan ditetapkan (2)",
+     "Analitikal: analisis dan cadangan; masalah atau peluang (2)",
+     "Cadangan: memujuk, kategori khas (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "info",
+   "marks": 6,
+   "q": {
+    "en": "Describe categories and organisational strategies for informational reports, and parts of a business plan.",
+    "ms": "Huraikan kategori dan strategi organisasi laporan bermaklumat dan bahagian pelan perniagaan."
+   },
+   "pts": {
+    "en": [
+     "Four categories (2)",
+     "Organisational strategies (2)",
+     "Business plan parts (2)"
+    ],
+    "ms": [
+     "Empat kategori (2)",
+     "Strategi organisasi (2)",
+     "Bahagian pelan perniagaan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "analytic",
+   "marks": 8,
+   "q": {
+    "en": "Discuss three ways to organise analytical reports.",
+    "ms": "Bincangkan tiga cara menyusun laporan analitikal."
+   },
+   "pts": {
+    "en": [
+     "Focusing on conclusions with pros and cons (3)",
+     "Focusing on recommendations with five steps (3)",
+     "Focusing on logical arguments (2)"
+    ],
+    "ms": [
+     "Fokus kesimpulan dengan kebaikan dan keburukan (3)",
+     "Fokus cadangan dengan lima langkah (3)",
+     "Fokus hujah logik (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "proposal",
+   "marks": 8,
+   "q": {
+    "en": "Explain how to choose an organisational strategy for solicited and unsolicited proposals.",
+    "ms": "Terangkan cara memilih strategi organisasi untuk cadangan solicited dan unsolicited."
+   },
+   "pts": {
+    "en": [
+     "Internal vs external (2)",
+     "Solicited vs unsolicited definition (2)",
+     "Solicited strategy: direct, receptive, recommendations (2)",
+     "Unsolicited strategy: indirect, skeptical, credibility (2)"
+    ],
+    "ms": [
+     "Dalaman lwn luaran (2)",
+     "Takrif solicited lwn unsolicited (2)",
+     "Strategi solicited: terus, menerima, cadangan (2)",
+     "Strategi unsolicited: tidak terus, ragu, kredibiliti (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Informational report",
+   "Laporan bermaklumat"
+  ],
+  [
+   "Analytical report",
+   "Laporan analitikal"
+  ],
+  [
+   "Proposal",
+   "Cadangan (proposal)"
+  ],
+  [
+   "Work plan",
+   "Pelan kerja"
+  ],
+  [
+   "Business plan",
+   "Pelan perniagaan"
+  ],
+  [
+   "Problem factoring",
+   "Pemfaktoran masalah"
+  ],
+  [
+   "Yardstick approach",
+   "Pendekatan pembaris (yardstick)"
+  ],
+  [
+   "Solicited proposal",
+   "Cadangan diminta"
+  ],
+  [
+   "Unsolicited proposal",
+   "Cadangan tidak diminta"
+  ],
+  [
+   "Internal proposal",
+   "Cadangan dalaman"
+  ],
+  [
+   "External proposal",
+   "Cadangan luaran"
+  ],
+  [
+   "Scope",
+   "Skop"
+  ]
+ ]
+}

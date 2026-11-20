@@ -1,0 +1,1102 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch10",
+ "num": 10,
+ "title": {
+  "en": "Writing Routine and Positive Messages",
+  "ms": "Menulis Mesej Rutin dan Positif"
+ },
+ "standard": "Bovee Ch 10",
+ "outcomes": {
+  "en": [
+   "Outline an effective strategy for writing routine business requests",
+   "Describe three common types of routine requests",
+   "Outline an effective strategy for writing routine replies and positive messages",
+   "Describe six common types of routine replies and positive messages"
+  ],
+  "ms": [
+   "Gariskan strategi berkesan menulis permintaan perniagaan rutin",
+   "Huraikan tiga jenis permintaan rutin yang lazim",
+   "Gariskan strategi berkesan menulis balasan rutin dan mesej positif",
+   "Huraikan enam jenis balasan rutin dan mesej positif yang lazim"
+  ]
+ },
+ "sections": [
+  {
+   "id": "req",
+   "icon": "📨",
+   "title": {
+    "en": "Strategy for Routine Requests",
+    "ms": "Strategi Permintaan Rutin"
+   },
+   "ref": "Slides 3–7",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "A routine request has **three parts**: the **opening**, the **body** and the **close**. Use the **direct approach** (main idea first).",
+     "ms": "Permintaan rutin ada **tiga bahagian**: **pembukaan**, **isi** dan **penutup**. Guna **pendekatan terus** (idea utama dahulu)."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Part",
+       "What to do"
+      ],
+      "ms": [
+       "Bahagian",
+       "Apa yang perlu dibuat"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Opening",
+        "State your request up front; pay attention to tone; assume audience compliance; be specific"
+       ],
+       "ms": [
+        "Pembukaan",
+        "Nyatakan permintaan di awal; perhatikan nada; anggap audiens akan patuh; spesifik"
+       ]
+      },
+      {
+       "en": [
+        "Body",
+        "Smooth and logical explanation; show benefit to the reader; ask the most important question first; break down complex requests"
+       ],
+       "ms": [
+        "Isi",
+        "Penjelasan lancar dan logik; tunjuk manfaat kepada pembaca; tanya soalan paling penting dahulu; pecahkan permintaan kompleks"
+       ]
+      },
+      {
+       "en": [
+        "Close",
+        "Specific request and deadline; contact information; expression of appreciation"
+       ],
+       "ms": [
+        "Penutup",
+        "Permintaan spesifik dan tarikh akhir; maklumat hubungan; ungkapan penghargaan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: Ask first, explain, then act (deadline + thanks).",
+     "ms": "Cara ingat: Minta dahulu, terangkan, kemudian tindakan (tarikh akhir + terima kasih)."
+    }
+   ]
+  },
+  {
+   "id": "types",
+   "icon": "📝",
+   "title": {
+    "en": "Three Types of Routine Requests",
+    "ms": "Tiga Jenis Permintaan Rutin"
+   },
+   "ref": "Slides 8–11",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Type",
+       "Key points"
+      ],
+      "ms": [
+       "Jenis",
+       "Poin utama"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Asking for information and action",
+        "State the request clearly; support why you are making it; appeal to readers’ interests if applicable"
+       ],
+       "ms": [
+        "Meminta maklumat dan tindakan",
+        "Nyatakan permintaan dengan jelas; sokong sebab; rayu kepada kepentingan pembaca jika sesuai"
+       ]
+      },
+      {
+       "en": [
+        "Asking for recommendations",
+        "Ask permission; use the direct approach; state the purpose of the recommendation; remind the reader how you know each other; close with appreciation"
+       ],
+       "ms": [
+        "Meminta rujukan/syor",
+        "Minta kebenaran; guna pendekatan terus; nyatakan tujuan syor; ingatkan bagaimana anda kenal; tutup dengan penghargaan"
+       ]
+      },
+      {
+       "en": [
+        "Making claims and requesting adjustments",
+        "Explain the problem and give details; provide backup information; request specific action"
+       ],
+       "ms": [
+        "Membuat tuntutan dan meminta pelarasan",
+        "Terangkan masalah dengan butiran; beri maklumat sokongan; minta tindakan spesifik"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reply",
+   "icon": "💌",
+   "title": {
+    "en": "Strategy for Routine Replies and Positive Messages",
+    "ms": "Strategi Balasan Rutin dan Mesej Positif"
+   },
+   "ref": "Slides 12–15",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Part",
+       "What to do"
+      ],
+      "ms": [
+       "Bahagian",
+       "Apa yang perlu dibuat"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Start with the main idea",
+        "Ask: what is the single most important message for the audience? Clear, concise opening; share good news first; prepare audience for the details"
+       ],
+       "ms": [
+        "Mulakan dengan idea utama",
+        "Tanya: apakah mesej tunggal paling penting? Pembukaan jelas dan ringkas; kongsi berita baik dahulu; sediakan audiens untuk butiran"
+       ]
+      },
+      {
+       "en": [
+        "Provide details and explanation",
+        "Use the body to explain completely; use the indirect approach for negative info and only if it will elicit a positive response; provide assurance to the customer"
+       ],
+       "ms": [
+        "Beri butiran dan penjelasan",
+        "Guna isi untuk terangkan lengkap; guna pendekatan tidak terus untuk maklumat negatif dan hanya jika menghasilkan respons positif; beri jaminan kepada pelanggan"
+       ]
+      },
+      {
+       "en": [
+        "End with a courteous close",
+        "End on a neutral or positive note; a simple “thank you” may suffice; clearly communicate any follow-up action"
+       ],
+       "ms": [
+        "Tamat dengan penutup sopan",
+        "Tamat dengan nada neutral atau positif; “terima kasih” ringkas mungkin cukup; nyatakan jelas tindakan susulan"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "six",
+   "icon": "📬",
+   "title": {
+    "en": "Six Types of Routine Replies and Positive Messages",
+    "ms": "Enam Jenis Balasan Rutin dan Mesej Positif"
+   },
+   "ref": "Slides 17–22",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "1. Answering requests for information or action: three goals",
+     "ms": "1. Menjawab permintaan maklumat atau tindakan: tiga matlamat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Respond to the inquiry and answer all questions",
+      "Leave the reader with a good impression",
+      "Encourage the future sale"
+     ],
+     "ms": [
+      "Balas pertanyaan dan jawab semua soalan",
+      "Tinggalkan kesan baik kepada pembaca",
+      "Galakkan jualan akan datang"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "2. Granting claims and requests for adjustment (6 steps)",
+     "ms": "2. Meluluskan tuntutan dan permintaan pelarasan (6 langkah)"
+    },
+    {
+     "k": "flow",
+     "en": [
+      "Acknowledge receipt of the claim or complaint",
+      "Sympathise with the customer",
+      "Take personal responsibility",
+      "Explain how you resolved the situation",
+      "Take steps to repair the relationship",
+      "Follow up"
+     ],
+     "ms": [
+      "Akui penerimaan tuntutan atau aduan",
+      "Bersimpati dengan pelanggan",
+      "Ambil tanggungjawab peribadi",
+      "Terangkan bagaimana masalah diselesaikan",
+      "Ambil langkah memulihkan hubungan",
+      "Susulan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "3. Providing recommendations and references: include",
+     "ms": "3. Memberi syor dan rujukan: sertakan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Candidate’s full name",
+      "Objective the candidate is seeking",
+      "Nature of relationship with the candidate",
+      "Facts relevant to the candidate and the opportunity",
+      "Comparison of the candidate to peers",
+      "Overall evaluation of the candidate"
+     ],
+     "ms": [
+      "Nama penuh calon",
+      "Objektif yang dicari calon",
+      "Jenis hubungan dengan calon",
+      "Fakta relevan kepada calon dan peluang",
+      "Perbandingan calon dengan rakan sebaya",
+      "Penilaian keseluruhan calon"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "4. Sharing routine information",
+     "ms": "4. Berkongsi maklumat rutin"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "State the purpose",
+      "Provide necessary details",
+      "End with a courteous close"
+     ],
+     "ms": [
+      "Nyatakan tujuan",
+      "Beri butiran perlu",
+      "Tamat dengan penutup sopan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "5. Announcing good news",
+     "ms": "5. Mengumumkan berita baik"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "External messages: news releases, direct-to-consumer releases, social media releases"
+     ],
+     "ms": [
+      "Mesej luaran: siaran berita, siaran terus kepada pengguna, siaran media sosial"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "6. Fostering goodwill",
+     "ms": "6. Memupuk muhibah"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Sending congratulations",
+      "Sending messages of appreciation",
+      "Offering condolences"
+     ],
+     "ms": [
+      "Menghantar tahniah",
+      "Menghantar mesej penghargaan",
+      "Menyampaikan takziah"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 21 lists “External Messages” with three release types underneath. The grouping above is my reading of the layout.",
+     "ms": "Slaid 21 menyenaraikan “External Messages” dengan tiga jenis siaran. Pengelompokan di atas ialah bacaan saya terhadap susun atur."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "req",
+   "q": {
+    "en": "Three parts of a routine request?",
+    "ms": "Tiga bahagian permintaan rutin?"
+   },
+   "a": {
+    "en": "Opening, body, close.",
+    "ms": "Pembukaan, isi, penutup."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "req",
+   "q": {
+    "en": "Which approach is used for routine requests?",
+    "ms": "Pendekatan mana untuk permintaan rutin?"
+   },
+   "a": {
+    "en": "Direct approach: state the request up front.",
+    "ms": "Pendekatan terus: nyatakan permintaan di awal."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "req",
+   "q": {
+    "en": "Four tips for the opening of a routine request?",
+    "ms": "Empat tip pembukaan permintaan rutin?"
+   },
+   "a": {
+    "en": "State request up front, pay attention to tone, assume compliance, be specific.",
+    "ms": "Nyata permintaan di awal, perhatikan nada, anggap patuh, spesifik."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "req",
+   "q": {
+    "en": "Four tips for the body of a routine request?",
+    "ms": "Empat tip isi permintaan rutin?"
+   },
+   "a": {
+    "en": "Smooth logical explanation, show benefit to reader, ask most important question first, break down complex requests.",
+    "ms": "Penjelasan lancar logik, tunjuk manfaat, soalan paling penting dahulu, pecah permintaan kompleks."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "req",
+   "q": {
+    "en": "Three elements of a courteous close?",
+    "ms": "Tiga elemen penutup sopan?"
+   },
+   "a": {
+    "en": "Specific request and deadline, contact information, expression of appreciation.",
+    "ms": "Permintaan spesifik dan tarikh akhir, maklumat hubungan, penghargaan."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "types",
+   "q": {
+    "en": "Three common routine requests?",
+    "ms": "Tiga permintaan rutin lazim?"
+   },
+   "a": {
+    "en": "Asking for information and action; asking for recommendations; making claims and requesting adjustments.",
+    "ms": "Minta maklumat dan tindakan; minta syor; membuat tuntutan dan minta pelarasan."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "types",
+   "q": {
+    "en": "What do you do when asking for a recommendation?",
+    "ms": "Apa dibuat apabila meminta syor?"
+   },
+   "a": {
+    "en": "Ask permission, use direct approach, state purpose, remind how you know each other, close with appreciation.",
+    "ms": "Minta kebenaran, pendekatan terus, nyata tujuan, ingatkan hubungan, tutup dengan penghargaan."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "types",
+   "q": {
+    "en": "Three parts of a claim message?",
+    "ms": "Tiga bahagian mesej tuntutan?"
+   },
+   "a": {
+    "en": "Explain the problem with details, provide backup information, request specific action.",
+    "ms": "Terangkan masalah dengan butiran, beri maklumat sokongan, minta tindakan spesifik."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "reply",
+   "q": {
+    "en": "What question guides the opening of a routine reply?",
+    "ms": "Soalan apa memandu pembukaan balasan rutin?"
+   },
+   "a": {
+    "en": "What is the single most important message I have for the audience?",
+    "ms": "Apakah mesej tunggal paling penting untuk audiens?"
+   }
+  },
+  {
+   "id": "c10",
+   "t": "reply",
+   "q": {
+    "en": "When should negative information appear in the body of a reply?",
+    "ms": "Bila maklumat negatif patut ada dalam isi balasan?"
+   },
+   "a": {
+    "en": "Only if it will elicit a positive response, using the indirect approach.",
+    "ms": "Hanya jika ia menghasilkan respons positif, guna pendekatan tidak terus."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "reply",
+   "q": {
+    "en": "How should a routine reply close?",
+    "ms": "Bagaimana balasan rutin ditutup?"
+   },
+   "a": {
+    "en": "On a neutral or positive note, a simple thank you may suffice, state follow-up action.",
+    "ms": "Nada neutral atau positif, terima kasih ringkas, nyatakan tindakan susulan."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "six",
+   "q": {
+    "en": "Six types of routine replies and positive messages?",
+    "ms": "Enam jenis balasan rutin dan mesej positif?"
+   },
+   "a": {
+    "en": "Answering requests; granting claims; recommendations; sharing routine information; announcing good news; fostering goodwill.",
+    "ms": "Jawab permintaan; luluskan tuntutan; syor; kongsi maklumat rutin; umum berita baik; pupuk muhibah."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "six",
+   "q": {
+    "en": "Three goals when answering requests?",
+    "ms": "Tiga matlamat menjawab permintaan?"
+   },
+   "a": {
+    "en": "Respond and answer all questions, leave a good impression, encourage the future sale.",
+    "ms": "Balas dan jawab semua soalan, kesan baik, galak jualan akan datang."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "six",
+   "q": {
+    "en": "Six steps for granting a claim?",
+    "ms": "Enam langkah meluluskan tuntutan?"
+   },
+   "a": {
+    "en": "Acknowledge, sympathise, take personal responsibility, explain resolution, repair relationship, follow up.",
+    "ms": "Akui, bersimpati, tanggungjawab peribadi, terangkan penyelesaian, pulihkan hubungan, susulan."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "six",
+   "q": {
+    "en": "Six elements of a recommendation letter?",
+    "ms": "Enam elemen surat syor?"
+   },
+   "a": {
+    "en": "Candidate’s full name, objective, relationship, relevant facts, comparison to peers, overall evaluation.",
+    "ms": "Nama penuh, objektif, hubungan, fakta relevan, perbandingan rakan sebaya, penilaian keseluruhan."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "six",
+   "q": {
+    "en": "Three steps for sharing routine information?",
+    "ms": "Tiga langkah berkongsi maklumat rutin?"
+   },
+   "a": {
+    "en": "State purpose, provide necessary details, end with courteous close.",
+    "ms": "Nyata tujuan, beri butiran, tamat sopan."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "six",
+   "q": {
+    "en": "Three kinds of releases when announcing good news?",
+    "ms": "Tiga jenis siaran semasa mengumumkan berita baik?"
+   },
+   "a": {
+    "en": "News releases, direct-to-consumer releases, social media releases.",
+    "ms": "Siaran berita, siaran terus kepada pengguna, siaran media sosial."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "six",
+   "q": {
+    "en": "Three goodwill messages?",
+    "ms": "Tiga mesej muhibah?"
+   },
+   "a": {
+    "en": "Congratulations, appreciation, condolences.",
+    "ms": "Tahniah, penghargaan, takziah."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "req",
+   "q": {
+    "en": "A routine request should begin with:",
+    "ms": "Permintaan rutin patut bermula dengan:"
+   },
+   "o": [
+    "A long background",
+    "The request itself",
+    "An apology",
+    "A threat"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Direct approach: state the request up front.",
+    "ms": "Pendekatan terus: nyata permintaan di awal."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "req",
+   "q": {
+    "en": "In the opening you should assume:",
+    "ms": "Dalam pembukaan anda patut anggap:"
+   },
+   "o": [
+    "Audience refusal",
+    "No response",
+    "Audience anger",
+    "Audience compliance"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Assume audience compliance.",
+    "ms": "Anggap audiens akan patuh."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "req",
+   "q": {
+    "en": "For complex requests you should:",
+    "ms": "Untuk permintaan kompleks anda patut:"
+   },
+   "o": [
+    "Break them down",
+    "Combine all questions",
+    "Skip details",
+    "Use slang"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Break down complex requests and ask the most important question first.",
+    "ms": "Pecahkan permintaan kompleks dan tanya soalan paling penting dahulu."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "req",
+   "q": {
+    "en": "Which is NOT part of a courteous close?",
+    "ms": "Yang mana BUKAN sebahagian penutup sopan?"
+   },
+   "o": [
+    "Deadline",
+    "Contact information",
+    "Threats of legal action",
+    "Appreciation"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 7.",
+    "ms": "Slaid 7."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "req",
+   "q": {
+    "en": "Which part shows benefit to the reader?",
+    "ms": "Bahagian mana tunjuk manfaat kepada pembaca?"
+   },
+   "o": [
+    "Opening",
+    "Close",
+    "Body",
+    "Subject line only"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Explaining and justifying belongs to the body.",
+    "ms": "Menerangkan dan mewajarkan ialah isi."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "types",
+   "q": {
+    "en": "Which is a common type of routine request?",
+    "ms": "Yang mana jenis permintaan rutin lazim?"
+   },
+   "o": [
+    "Asking for recommendations",
+    "Announcing layoffs",
+    "Refusing credit",
+    "Sending condolences"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Three types listed in LO 10.2.",
+    "ms": "Tiga jenis dalam LO 10.2."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "types",
+   "q": {
+    "en": "When asking for a recommendation, first:",
+    "ms": "Semasa minta syor, mula-mula:"
+   },
+   "o": [
+    "Threaten",
+    "Demand it",
+    "Skip the reminder",
+    "Ask permission"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Ask permission.",
+    "ms": "Minta kebenaran."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "types",
+   "q": {
+    "en": "A claim message should:",
+    "ms": "Mesej tuntutan patut:"
+   },
+   "o": [
+    "Vent anger",
+    "Explain the problem with details and backup",
+    "Be vague",
+    "Avoid action requests"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Explain, back up, request specific action.",
+    "ms": "Terangkan, sokong, minta tindakan spesifik."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "reply",
+   "q": {
+    "en": "In positive messages you should share ___ first.",
+    "ms": "Dalam mesej positif anda patut kongsi ___ dahulu."
+   },
+   "o": [
+    "Background",
+    "Good news",
+    "Contact details",
+    "Terms"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Share good news first.",
+    "ms": "Kongsi berita baik dahulu."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "reply",
+   "q": {
+    "en": "Negative information in a routine reply is acceptable only if:",
+    "ms": "Maklumat negatif dalam balasan rutin boleh jika:"
+   },
+   "o": [
+    "It is rude",
+    "It is long",
+    "It blames the reader",
+    "It will elicit a positive response"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "reply",
+   "q": {
+    "en": "A routine reply may end with:",
+    "ms": "Balasan rutin boleh tamat dengan:"
+   },
+   "o": [
+    "A simple thank you",
+    "A complaint",
+    "An argument",
+    "A threat"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "six",
+   "q": {
+    "en": "Which is a goal when answering requests for information?",
+    "ms": "Yang mana matlamat menjawab permintaan maklumat?"
+   },
+   "o": [
+    "Delay response",
+    "Reduce service",
+    "Encourage the future sale",
+    "Avoid questions"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 17.",
+    "ms": "Slaid 17."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "six",
+   "q": {
+    "en": "When granting a claim, the first step is to:",
+    "ms": "Semasa meluluskan tuntutan, langkah pertama ialah:"
+   },
+   "o": [
+    "Blame the customer",
+    "Offer refund without reading",
+    "Acknowledge receipt",
+    "Wait silently"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Acknowledge, sympathise, take responsibility, explain, repair, follow up.",
+    "ms": "Akui, bersimpati, tanggungjawab, terangkan, pulihkan, susulan."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "six",
+   "q": {
+    "en": "Which is NOT in a recommendation letter?",
+    "ms": "Yang mana TIDAK dalam surat syor?"
+   },
+   "o": [
+    "Candidate’s bank balance",
+    "Comparison to peers",
+    "Overall evaluation",
+    "Candidate’s full name"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 19 list.",
+    "ms": "Senarai slaid 19."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "six",
+   "q": {
+    "en": "Sharing routine information starts with:",
+    "ms": "Berkongsi maklumat rutin bermula dengan:"
+   },
+   "o": [
+    "A quote",
+    "An apology",
+    "A joke",
+    "Stating the purpose"
+   ],
+   "a": 3,
+   "e": {
+    "en": "State purpose, give details, close courteously.",
+    "ms": "Nyata tujuan, beri butiran, tutup sopan."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "six",
+   "q": {
+    "en": "A news release is a type of:",
+    "ms": "Siaran berita ialah sejenis:"
+   },
+   "o": [
+    "Claim",
+    "Good-news announcement",
+    "Complaint",
+    "Request"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 21.",
+    "ms": "Slaid 21."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "six",
+   "q": {
+    "en": "Offering condolences belongs to:",
+    "ms": "Menyampaikan takziah tergolong dalam:"
+   },
+   "o": [
+    "Granting claims",
+    "Fostering goodwill",
+    "News releases",
+    "Recommendations"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "six",
+   "q": {
+    "en": "Which step repairs the relationship after a claim?",
+    "ms": "Langkah mana memulihkan hubungan selepas tuntutan?"
+   },
+   "o": [
+    "Blame",
+    "Ignore it",
+    "Delay",
+    "Take steps to repair the relationship"
+   ],
+   "a": 3,
+   "e": {
+    "en": "It is step five.",
+    "ms": "Langkah kelima."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "req",
+   "q": {
+    "en": "Specific requests should include:",
+    "ms": "Permintaan spesifik patut termasuk:"
+   },
+   "o": [
+    "A deadline",
+    "A vague hope",
+    "Many tangents",
+    "Insults"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Specific request and deadline.",
+    "ms": "Permintaan spesifik dan tarikh akhir."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "reply",
+   "q": {
+    "en": "In a routine reply, the opening should be:",
+    "ms": "Dalam balasan rutin, pembukaan patut:"
+   },
+   "o": [
+    "Negative",
+    "Long and vague",
+    "Clear and concise",
+    "Silent"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Clear and concise opening.",
+    "ms": "Pembukaan jelas dan ringkas."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "six",
+   "q": {
+    "en": "Which message type fosters goodwill?",
+    "ms": "Mesej mana memupuk muhibah?"
+   },
+   "o": [
+    "Collection notice",
+    "Claim denial",
+    "Congratulations",
+    "Complaint"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Congratulations, appreciation and condolences.",
+    "ms": "Tahniah, penghargaan dan takziah."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "req",
+   "marks": 6,
+   "q": {
+    "en": "Outline an effective strategy for writing a routine request.",
+    "ms": "Gariskan strategi berkesan menulis permintaan rutin."
+   },
+   "pts": {
+    "en": [
+     "Use the direct approach (1)",
+     "Opening: state request, tone, assume compliance, be specific (2)",
+     "Body: explain logically, show benefit, important question first (2)",
+     "Close: specific request and deadline, contact, appreciation (1)"
+    ],
+    "ms": [
+     "Guna pendekatan terus (1)",
+     "Pembukaan: nyata permintaan, nada, anggap patuh, spesifik (2)",
+     "Isi: terangkan logik, tunjuk manfaat, soalan penting dahulu (2)",
+     "Penutup: permintaan spesifik dan tarikh akhir, hubungan, penghargaan (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "types",
+   "marks": 6,
+   "q": {
+    "en": "Describe three common types of routine requests.",
+    "ms": "Huraikan tiga jenis permintaan rutin lazim."
+   },
+   "pts": {
+    "en": [
+     "Information and action: clear request, support reasons, appeal to interests (2)",
+     "Recommendations: ask permission, state purpose, remind relationship, thank (2)",
+     "Claims and adjustments: explain problem, backup, request action (2)"
+    ],
+    "ms": [
+     "Maklumat dan tindakan: permintaan jelas, sokong sebab, rayu kepentingan (2)",
+     "Syor: minta kebenaran, nyata tujuan, ingatkan hubungan, terima kasih (2)",
+     "Tuntutan dan pelarasan: terangkan masalah, sokongan, minta tindakan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "reply",
+   "marks": 6,
+   "q": {
+    "en": "Outline a strategy for writing routine replies and positive messages.",
+    "ms": "Gariskan strategi menulis balasan rutin dan mesej positif."
+   },
+   "pts": {
+    "en": [
+     "Start with the main idea; share good news first (2)",
+     "Body: explain completely; use indirect approach for negative information only if it helps (2)",
+     "Provide assurance to the customer (1)",
+     "Close courteously on a positive note with follow-up action (1)"
+    ],
+    "ms": [
+     "Mulakan dengan idea utama; kongsi berita baik dahulu (2)",
+     "Isi: terangkan lengkap; pendekatan tidak terus untuk maklumat negatif jika membantu (2)",
+     "Beri jaminan kepada pelanggan (1)",
+     "Tutup sopan nada positif dengan tindakan susulan (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "six",
+   "marks": 8,
+   "q": {
+    "en": "Describe how to grant a claim and what a recommendation letter should include.",
+    "ms": "Huraikan cara meluluskan tuntutan dan apa surat syor patut ada."
+   },
+   "pts": {
+    "en": [
+     "Acknowledge receipt, sympathise (2)",
+     "Take personal responsibility, explain resolution (2)",
+     "Repair the relationship and follow up (1)",
+     "Recommendation: name, objective, relationship (1)",
+     "Relevant facts, comparison to peers, overall evaluation (2)"
+    ],
+    "ms": [
+     "Akui penerimaan, bersimpati (2)",
+     "Tanggungjawab peribadi, terangkan penyelesaian (2)",
+     "Pulihkan hubungan dan susulan (1)",
+     "Syor: nama, objektif, hubungan (1)",
+     "Fakta relevan, perbandingan rakan sebaya, penilaian keseluruhan (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Routine request",
+   "Permintaan rutin"
+  ],
+  [
+   "Direct approach",
+   "Pendekatan terus"
+  ],
+  [
+   "Indirect approach",
+   "Pendekatan tidak terus"
+  ],
+  [
+   "Claim",
+   "Tuntutan"
+  ],
+  [
+   "Adjustment",
+   "Pelarasan"
+  ],
+  [
+   "Recommendation",
+   "Syor / rujukan"
+  ],
+  [
+   "Goodwill",
+   "Muhibah"
+  ],
+  [
+   "Condolences",
+   "Takziah"
+  ],
+  [
+   "News release",
+   "Siaran berita"
+  ],
+  [
+   "Compliance",
+   "Pematuhan"
+  ],
+  [
+   "Follow-up",
+   "Susulan"
+  ]
+ ]
+}

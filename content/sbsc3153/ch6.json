@@ -711,11 +711,11 @@
    },
    "o": [
     "Content",
-    "Organization",
+    "Price",
     "Tone",
-    "Price"
+    "Organization"
    ],
-   "a": 3,
+   "a": 1,
    "e": {
     "en": "Content, organization, tone.",
     "ms": "Kandungan, organisasi, nada."
@@ -749,11 +749,11 @@
    },
    "o": [
     "Content",
-    "Tone",
+    "Distribution",
     "Organization",
-    "Distribution"
+    "Tone"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Tone.",
     "ms": "Nada."
@@ -767,12 +767,12 @@
     "ms": "Ayat sederhana mempunyai:"
    },
    "o": [
-    "Up to 15 words",
     "15–25 words",
+    "Up to 15 words",
     "Over 25 words",
     "Exactly 20 words"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Slide 13.",
     "ms": "Slaid 13."
@@ -786,12 +786,12 @@
     "ms": "Perenggan pendek mempunyai:"
    },
    "o": [
-    "100 words or fewer",
-    "200 words",
     "300 words",
+    "200 words",
+    "100 words or fewer",
     "Unlimited"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "Slide 14.",
     "ms": "Slaid 14."
@@ -807,10 +807,10 @@
    "o": [
     "Vary sentence length",
     "Use lists",
-    "Add headings",
-    "Use dense long paragraphs"
+    "Use dense long paragraphs",
+    "Add headings"
    ],
-   "a": 3,
+   "a": 2,
    "e": {
     "en": "Keep paragraphs short.",
     "ms": "Pastikan perenggan pendek."
@@ -824,12 +824,12 @@
     "ms": "Senarai paling sesuai untuk:"
    },
    "o": [
-    "Quotations",
     "Sequences of ideas and series of items",
+    "Quotations",
     "Apologies",
     "Greetings"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Lists highlight sequences and set off important ideas.",
     "ms": "Senarai serlahkan urutan dan idea penting."
@@ -843,12 +843,12 @@
     "ms": "“Impose parallelism” tergolong dalam penyuntingan untuk:"
    },
    "o": [
-    "Clarity",
+    "Distribution",
     "Conciseness",
     "Design",
-    "Distribution"
+    "Clarity"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "It is one of the eight clarity steps.",
     "ms": "Satu daripada lapan langkah kejelasan."
@@ -882,11 +882,11 @@
    },
    "o": [
     "Four",
-    "Six",
     "Eight",
+    "Six",
     "Ten"
    ],
-   "a": 2,
+   "a": 1,
    "e": {
     "en": "LO 6.3: eight steps.",
     "ms": "LO 6.3: lapan langkah."
@@ -900,12 +900,12 @@
     "ms": "“Dangling modifier” patut:"
    },
    "o": [
-    "Corrected",
+    "Capitalised",
     "Ignored",
     "Underlined",
-    "Capitalised"
+    "Corrected"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "Correct dangling modifiers is a clarity step.",
     "ms": "Betulkan dangling modifier ialah langkah kejelasan."
@@ -938,12 +938,12 @@
     "ms": "Yang mana elemen reka bentuk dokumen?"
    },
    "o": [
-    "White space",
-    "Postage",
     "Signature",
+    "Postage",
+    "White space",
     "Hyperlink budget"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "White space, margins, justification, typefaces, type styles.",
     "ms": "Ruang putih, margin, justification, typefaces, type styles."
@@ -957,12 +957,12 @@
     "ms": "Untuk peranti mudah alih anda patut:"
    },
    "o": [
-    "Think in small chunks",
-    "Use dense text",
     "Avoid white space",
+    "Use dense text",
+    "Think in small chunks",
     "Use complex formats"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "Slide 25.",
     "ms": "Slaid 25."
@@ -997,10 +997,10 @@
    "o": [
     "Four",
     "Six",
-    "Eight",
-    "Twelve"
+    "Twelve",
+    "Eight"
    ],
-   "a": 2,
+   "a": 3,
    "e": {
     "en": "LO 6.5: eight tips.",
     "ms": "LO 6.5: lapan tip."
@@ -1033,12 +1033,12 @@
     "ms": "Dokumen digital kompleks paling baik disemak:"
    },
    "o": [
-    "On paper",
     "On phone only",
+    "On paper",
     "Not at all",
     "By spellcheck only"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Slide 29.",
     "ms": "Slaid 29."
@@ -1071,12 +1071,12 @@
     "ms": "Laporan sulit dihantar melalui saluran tidak selamat. Faktor mana diabaikan?"
    },
    "o": [
-    "Cost",
-    "Time",
     "Security and privacy",
+    "Time",
+    "Cost",
     "Convenience"
    ],
-   "a": 2,
+   "a": 0,
    "e": {
     "en": "Security and privacy.",
     "ms": "Keselamatan dan privasi."
@@ -1090,12 +1090,12 @@
     "ms": "Soalan mana menyemak sikap “you”?"
    },
    "o": [
-    "Does the writing demonstrate the “you” attitude toward the audience?",
-    "Is the paper white?",
     "Is the font large?",
+    "Is the paper white?",
+    "Does the writing demonstrate the “you” attitude toward the audience?",
     "Is the date correct?"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "Slide 9.",
     "ms": "Slaid 9."
@@ -1111,10 +1111,10 @@
    "o": [
     "Group related paragraphs",
     "Grab attention",
-    "Increase understanding",
-    "Replace all content"
+    "Replace all content",
+    "Increase understanding"
    ],
-   "a": 3,
+   "a": 2,
    "e": {
     "en": "Headings support content, they don’t replace it.",
     "ms": "Tajuk menyokong kandungan, bukan menggantikannya."

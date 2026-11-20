@@ -1,0 +1,1381 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch7",
+ "num": 7,
+ "title": {
+  "en": "Digital Media",
+  "ms": "Media Digital"
+ },
+ "standard": "Bovee Ch 7",
+ "outcomes": {
+  "en": [
+   "Identify major digital media formats and nine compositional modes",
+   "Describe the role of email and adapt the three-step process to email",
+   "Identify advantages and disadvantages of business messaging systems",
+   "Explain why organising website content is challenging and the concept of information architecture",
+   "Adapt the three-step writing process to podcasting"
+  ],
+  "ms": [
+   "Kenal pasti format media digital utama dan sembilan mod komposisi",
+   "Huraikan peranan e-mel dan sesuaikan proses tiga langkah untuk e-mel",
+   "Kenal pasti kelebihan dan kekurangan sistem pemesejan perniagaan",
+   "Terangkan kenapa menyusun kandungan laman web mencabar dan konsep seni bina maklumat",
+   "Sesuaikan proses penulisan tiga langkah untuk podcast"
+  ]
+ },
+ "sections": [
+  {
+   "id": "media",
+   "icon": "🌐",
+   "title": {
+    "en": "Digital Media Options and Modes",
+    "ms": "Pilihan dan Mod Media Digital"
+   },
+   "ref": "Slides 5–10",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Ten digital and social media options",
+     "ms": "Sepuluh pilihan media digital dan sosial"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Email",
+      "Messaging",
+      "Web content",
+      "Podcasting",
+      "Social networks",
+      "Information sharing sites",
+      "Content sharing sites",
+      "Wikis",
+      "Blogging and microblogging",
+      "Online video"
+     ],
+     "ms": [
+      "E-mel",
+      "Pemesejan",
+      "Kandungan web",
+      "Podcast",
+      "Rangkaian sosial",
+      "Laman perkongsian maklumat",
+      "Laman perkongsian kandungan",
+      "Wiki",
+      "Blog dan mikroblog",
+      "Video dalam talian"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Benefits of printed messages",
+     "ms": "Manfaat mesej bercetak"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Making a formal impression",
+      "Complying with legal requirements",
+      "Standing out from the digital message flood",
+      "Making a permanent, unchangeable or secure record"
+     ],
+     "ms": [
+      "Memberi kesan formal",
+      "Mematuhi keperluan undang-undang",
+      "Menonjol daripada banjir mesej digital",
+      "Membuat rekod kekal, tidak boleh diubah atau selamat"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Nine compositional modes",
+     "ms": "Sembilan mod komposisi"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Conversations",
+      "Comments and critiques",
+      "Orientations",
+      "Summaries",
+      "Reference material",
+      "Narratives",
+      "Teasers",
+      "Status updates and announcements",
+      "Tutorials"
+     ],
+     "ms": [
+      "Perbualan",
+      "Komen dan kritikan",
+      "Orientasi",
+      "Ringkasan",
+      "Bahan rujukan",
+      "Naratif",
+      "Teaser",
+      "Kemas kini status dan pengumuman",
+      "Tutorial"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Optimising for mobile",
+     "ms": "Mengoptimumkan untuk mudah alih"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Location-based services",
+      "Gamification",
+      "Augmented reality",
+      "Wearable technology",
+      "Mobile blogging",
+      "Mobile podcasting",
+      "Cloud-based services"
+     ],
+     "ms": [
+      "Perkhidmatan berasaskan lokasi",
+      "Gamifikasi",
+      "Realiti terimbuh",
+      "Teknologi boleh pakai",
+      "Blog mudah alih",
+      "Podcast mudah alih",
+      "Perkhidmatan awan"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: 5 + 5 media; 5 + 4 = 9 modes.",
+     "ms": "Cara ingat: 5 + 5 media; 5 + 4 = 9 mod."
+    }
+   ]
+  },
+  {
+   "id": "email",
+   "icon": "📧",
+   "title": {
+    "en": "Email",
+    "ms": "E-mel"
+   },
+   "ref": "Slides 12–15",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Advantages",
+       "Disadvantages"
+      ],
+      "ms": [
+       "Kelebihan",
+       "Kekurangan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Universal",
+        "Availability of alternatives"
+       ],
+       "ms": [
+        "Universal",
+        "Wujud alternatif"
+       ]
+      },
+      {
+       "en": [
+        "Private",
+        "Indiscriminate use"
+       ],
+       "ms": [
+        "Peribadi",
+        "Penggunaan tanpa pilih"
+       ]
+      },
+      {
+       "en": [
+        "Accommodates longer messages",
+        "Low-value messages"
+       ],
+       "ms": [
+        "Boleh muat mesej panjang",
+        "Mesej bernilai rendah"
+       ]
+      },
+      {
+       "en": [
+        "Not instantaneous",
+        "Spam"
+       ],
+       "ms": [
+        "Tidak serta-merta",
+        "Spam"
+       ]
+      },
+      {
+       "en": [
+        "Scheduling",
+        "Computer viruses"
+       ],
+       "ms": [
+        "Penjadualan",
+        "Virus komputer"
+       ]
+      },
+      {
+       "en": [
+        "Access",
+        "Phishing"
+       ],
+       "ms": [
+        "Akses",
+        "Phishing"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide lists items in two columns; the pairing across rows is layout only. Slide 12 does not label “Not instantaneous” and “Scheduling” as advantages or disadvantages explicitly, so check against your textbook.",
+     "ms": "Slaid menyenaraikan item dalam dua lajur; pasangan merentas baris hanya susun atur. Slaid 12 tidak melabel “Not instantaneous” dan “Scheduling” secara eksplisit, jadi semak dengan buku teks."
+    },
+    {
+     "k": "h",
+     "en": "Planning",
+     "ms": "Merancang"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Ensure a valid, business-related purpose",
+      "Comply with employer policies and ethics",
+      "Analyse situation, gather information, organise message"
+     ],
+     "ms": [
+      "Pastikan tujuan sah dan berkaitan perniagaan",
+      "Patuhi dasar dan etika majikan",
+      "Analisis situasi, kumpul maklumat, susun mesej"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Writing",
+     "ms": "Menulis"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Business communication: higher expectation of quality",
+      "Informative and compelling subject lines",
+      "Opening words extend the subject line",
+      "Use emoticons wisely and sparingly"
+     ],
+     "ms": [
+      "Komunikasi perniagaan: jangkaan kualiti lebih tinggi",
+      "Baris subjek bermaklumat dan menarik",
+      "Perkataan pembuka melanjutkan baris subjek",
+      "Guna emotikon dengan bijak dan jarang"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Completing",
+     "ms": "Melengkapkan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Think twice before hitting “Send”",
+      "Revise and proofread",
+      "Be cautious of “Reply All”",
+      "Don’t send with high priority unless necessary"
+     ],
+     "ms": [
+      "Fikir dua kali sebelum tekan “Send”",
+      "Semak semula dan semak bukti",
+      "Berhati-hati dengan “Reply All”",
+      "Jangan hantar keutamaan tinggi kecuali perlu"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "im",
+   "icon": "💬",
+   "title": {
+    "en": "Messaging",
+    "ms": "Pemesejan"
+   },
+   "ref": "Slides 17–19",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Advantages",
+       "Disadvantages"
+      ],
+      "ms": [
+       "Kelebihan",
+       "Kekurangan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Mimics voice conversation",
+        "Can be annoyingly slow"
+       ],
+       "ms": [
+        "Meniru perbualan suara",
+        "Boleh perlahan menjengkelkan"
+       ]
+      },
+      {
+       "en": [
+        "Can choose participants",
+        "Systems vary widely in security and privacy"
+       ],
+       "ms": [
+        "Boleh pilih peserta",
+        "Sistem berbeza luas dalam keselamatan dan privasi"
+       ]
+      },
+      {
+       "en": [
+        "Less overload and security problems",
+        "Increased risk of miscommunication"
+       ],
+       "ms": [
+        "Kurang beban dan masalah keselamatan",
+        "Risiko salah faham meningkat"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Tips for efficient messaging",
+     "ms": "Tip pemesejan cekap"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Be thoughtful and courteous",
+      "Don’t use for impromptu meetings; use “unavailable” feature as needed",
+      "Use for short, simple messages",
+      "Don’t send confidential information",
+      "Focus on one conversation",
+      "Use caution sending personal messages",
+      "Follow security guidelines"
+     ],
+     "ms": [
+      "Bertimbang rasa dan sopan",
+      "Jangan guna untuk mesyuarat mengejut; guna ciri “unavailable” bila perlu",
+      "Guna untuk mesej pendek dan ringkas",
+      "Jangan hantar maklumat sulit",
+      "Fokus pada satu perbualan",
+      "Berhati-hati hantar mesej peribadi",
+      "Ikut garis panduan keselamatan"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 18 says to apply the three-step process to messaging: plan, write and complete instant messages.",
+     "ms": "Slaid 18 kata guna proses tiga langkah untuk pemesejan: rancang, tulis dan lengkapkan mesej segera."
+    }
+   ]
+  },
+  {
+   "id": "web",
+   "icon": "🕸️",
+   "title": {
+    "en": "Website Content",
+    "ms": "Kandungan Laman Web"
+   },
+   "ref": "Slides 21–24",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Versatility: pros",
+       "Versatility: cons"
+      ],
+      "ms": [
+       "Fleksibiliti: kelebihan",
+       "Fleksibiliti: kekurangan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Multiple purposes",
+        "Difficult planning"
+       ],
+       "ms": [
+        "Pelbagai tujuan",
+        "Perancangan sukar"
+       ]
+      },
+      {
+       "en": [
+        "Multiple audiences",
+        "Difficult organisation"
+       ],
+       "ms": [
+        "Pelbagai audiens",
+        "Penyusunan sukar"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Information architecture",
+     "ms": "Seni bina maklumat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "A multidimensional medium: no beginning, middle or end",
+      "A three-dimensional outline: vertical hierarchy, horizontal division, links that tie all pages together",
+      "Recent trend toward one-page websites"
+     ],
+     "ms": [
+      "Medium berbilang dimensi: tiada permulaan, tengah atau penghujung",
+      "Rangka tiga dimensi: hierarki menegak, pembahagian mendatar, pautan yang mengikat semua halaman",
+      "Trend terkini ke arah laman satu halaman"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Tips for organising websites",
+     "ms": "Tip menyusun laman web"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Brainstorm likely usage",
+      "Identify likely entry points",
+      "Create a map or other visual tool",
+      "Ensure easy return to the top level",
+      "Give search options: key terms, paths",
+      "Be consistent with labels"
+     ],
+     "ms": [
+      "Sumbang saran penggunaan",
+      "Kenal pasti titik masuk",
+      "Cipta peta atau alat visual",
+      "Pastikan mudah kembali ke tahap atas",
+      "Beri pilihan carian: istilah utama, laluan",
+      "Konsisten dengan label"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Drafting content",
+     "ms": "Merangka kandungan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Build audience trust",
+      "Use inverted pyramid style",
+      "Use easily readable chunks",
+      "Present in a concise, skimmable format",
+      "Use direct and concise link names",
+      "Adapt content for a global audience"
+     ],
+     "ms": [
+      "Bina kepercayaan audiens",
+      "Guna gaya piramid terbalik",
+      "Guna bahagian mudah dibaca",
+      "Bentang ringkas dan mudah diimbas",
+      "Guna nama pautan terus dan ringkas",
+      "Sesuaikan kandungan untuk audiens global"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 21 is a two-column layout (Opportunities / Challenges). The pairing above is my reading.",
+     "ms": "Slaid 21 ialah susun atur dua lajur (Opportunities / Challenges). Pasangan di atas ialah bacaan saya."
+    }
+   ]
+  },
+  {
+   "id": "pod",
+   "icon": "🎙️",
+   "title": {
+    "en": "Podcasting",
+    "ms": "Podcast"
+   },
+   "ref": "Slides 26–27",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Business applications",
+     "ms": "Aplikasi perniagaan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Training",
+      "Marketing",
+      "Selling",
+      "Recruiting"
+     ],
+     "ms": [
+      "Latihan",
+      "Pemasaran",
+      "Jualan",
+      "Pengambilan pekerja"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Step",
+       "Tasks"
+      ],
+      "ms": [
+       "Langkah",
+       "Tugas"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1 Plan",
+        "Analyse the situation; gather the information; organise material"
+       ],
+       "ms": [
+        "1 Rancang",
+        "Analisis situasi; kumpul maklumat; susun bahan"
+       ]
+      },
+      {
+       "en": [
+        "2 Write",
+        "Clear beginning, middle and end; scripts vs outlines and notes; write and organise in advance"
+       ],
+       "ms": [
+        "2 Tulis",
+        "Permulaan, tengah dan penghujung jelas; skrip lwn rangka dan nota; tulis dan susun lebih awal"
+       ]
+      },
+      {
+       "en": [
+        "3 Complete",
+        "Revise and edit; record; distribute"
+       ],
+       "ms": [
+        "3 Lengkapkan",
+        "Semak dan sunting; rakam; edarkan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 27 lists the podcast tasks in columns without clear row alignment. The step grouping above follows the 1-2-3 headings.",
+     "ms": "Slaid 27 menyenaraikan tugas podcast dalam lajur tanpa baris jelas. Pengelompokan langkah di atas ikut tajuk 1-2-3."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "media",
+   "q": {
+    "en": "Name the ten digital/social media options.",
+    "ms": "Namakan sepuluh pilihan media digital/sosial."
+   },
+   "a": {
+    "en": "Email, messaging, web content, podcasting, social networks, information sharing sites, content sharing sites, wikis, blogging/microblogging, online video.",
+    "ms": "E-mel, pemesejan, kandungan web, podcast, rangkaian sosial, laman perkongsian maklumat, laman perkongsian kandungan, wiki, blog/mikroblog, video."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "media",
+   "q": {
+    "en": "Four benefits of printed messages?",
+    "ms": "Empat manfaat mesej bercetak?"
+   },
+   "a": {
+    "en": "Formal impression, legal compliance, stand out from digital flood, permanent/unchangeable/secure record.",
+    "ms": "Kesan formal, pematuhan undang-undang, menonjol, rekod kekal/tidak berubah/selamat."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "media",
+   "q": {
+    "en": "Nine compositional modes?",
+    "ms": "Sembilan mod komposisi?"
+   },
+   "a": {
+    "en": "Conversations, comments and critiques, orientations, summaries, reference material, narratives, teasers, status updates and announcements, tutorials.",
+    "ms": "Perbualan, komen dan kritikan, orientasi, ringkasan, rujukan, naratif, teaser, kemas kini status, tutorial."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "media",
+   "q": {
+    "en": "Mobile optimisation options?",
+    "ms": "Pilihan pengoptimuman mudah alih?"
+   },
+   "a": {
+    "en": "Location-based services, gamification, augmented reality, wearables, mobile blogging, mobile podcasting, cloud services.",
+    "ms": "Perkhidmatan lokasi, gamifikasi, AR, boleh pakai, blog mudah alih, podcast mudah alih, awan."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "email",
+   "q": {
+    "en": "Email advantages?",
+    "ms": "Kelebihan e-mel?"
+   },
+   "a": {
+    "en": "Universal, private, accommodates longer messages, (not instantaneous/scheduling/access are listed on the slide).",
+    "ms": "Universal, peribadi, muat mesej panjang, (tidak serta-merta/penjadualan/akses disenaraikan pada slaid)."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "email",
+   "q": {
+    "en": "Email disadvantages?",
+    "ms": "Kekurangan e-mel?"
+   },
+   "a": {
+    "en": "Alternatives available, indiscriminate use, low-value messages, spam, computer viruses, phishing.",
+    "ms": "Wujud alternatif, penggunaan tanpa pilih, mesej bernilai rendah, spam, virus, phishing."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "email",
+   "q": {
+    "en": "Planning an email: key conditions?",
+    "ms": "Merancang e-mel: syarat utama?"
+   },
+   "a": {
+    "en": "Valid business purpose, comply with employer policies and ethics, use planning process.",
+    "ms": "Tujuan perniagaan sah, patuhi dasar dan etika, guna proses perancangan."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "email",
+   "q": {
+    "en": "Writing email: four points?",
+    "ms": "Menulis e-mel: empat poin?"
+   },
+   "a": {
+    "en": "Higher expectation of quality, informative subject lines, opening words extend subject, use emoticons sparingly.",
+    "ms": "Jangkaan kualiti tinggi, subjek bermaklumat, perkataan pembuka lanjut subjek, emotikon jarang."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "email",
+   "q": {
+    "en": "Completing email: five cautions?",
+    "ms": "Melengkapkan e-mel: lima peringatan?"
+   },
+   "a": {
+    "en": "Think twice before sending, revise, proofread, careful with Reply All, avoid high priority unless necessary.",
+    "ms": "Fikir dua kali, semak, semak bukti, hati-hati Reply All, elak keutamaan tinggi."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "im",
+   "q": {
+    "en": "Messaging advantages?",
+    "ms": "Kelebihan pemesejan?"
+   },
+   "a": {
+    "en": "Mimics voice conversation, can choose participants, less overload and security problems.",
+    "ms": "Meniru perbualan suara, pilih peserta, kurang beban dan masalah keselamatan."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "im",
+   "q": {
+    "en": "Messaging disadvantages?",
+    "ms": "Kekurangan pemesejan?"
+   },
+   "a": {
+    "en": "Can be annoyingly slow, systems vary in security and privacy, increased risk of miscommunication.",
+    "ms": "Boleh perlahan, sistem beza keselamatan dan privasi, risiko salah faham."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "im",
+   "q": {
+    "en": "Messaging tips (any four)?",
+    "ms": "Tip pemesejan (mana-mana empat)?"
+   },
+   "a": {
+    "en": "Be courteous, short simple messages, no confidential information, focus on one conversation, security guidelines.",
+    "ms": "Sopan, mesej pendek, tiada maklumat sulit, fokus satu perbualan, garis panduan keselamatan."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "web",
+   "q": {
+    "en": "Why is website content hard to organise?",
+    "ms": "Kenapa kandungan web sukar disusun?"
+   },
+   "a": {
+    "en": "Multiple purposes and audiences make planning and organisation difficult.",
+    "ms": "Pelbagai tujuan dan audiens menyukarkan perancangan dan penyusunan."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "web",
+   "q": {
+    "en": "What is information architecture?",
+    "ms": "Apakah seni bina maklumat?"
+   },
+   "a": {
+    "en": "A three-dimensional outline of a website: vertical hierarchy, horizontal division and links tying pages together; there is no beginning, middle or end.",
+    "ms": "Rangka tiga dimensi laman web: hierarki menegak, pembahagian mendatar, pautan; tiada permulaan, tengah, penghujung."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "web",
+   "q": {
+    "en": "Tips for organising a website?",
+    "ms": "Tip menyusun laman web?"
+   },
+   "a": {
+    "en": "Brainstorm usage, identify entry points, map, easy return to top, search options, consistent labels.",
+    "ms": "Sumbang saran penggunaan, titik masuk, peta, mudah kembali, carian, label konsisten."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "web",
+   "q": {
+    "en": "Tips for drafting website content?",
+    "ms": "Tip merangka kandungan web?"
+   },
+   "a": {
+    "en": "Build trust, inverted pyramid, readable chunks, skimmable, concise link names, global audience.",
+    "ms": "Bina kepercayaan, piramid terbalik, bahagian mudah dibaca, imbas, pautan ringkas, audiens global."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "pod",
+   "q": {
+    "en": "Four business uses of podcasting?",
+    "ms": "Empat kegunaan perniagaan podcast?"
+   },
+   "a": {
+    "en": "Training, marketing, selling, recruiting.",
+    "ms": "Latihan, pemasaran, jualan, pengambilan pekerja."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "pod",
+   "q": {
+    "en": "Three-step process for podcasts?",
+    "ms": "Proses tiga langkah untuk podcast?"
+   },
+   "a": {
+    "en": "Plan (analyse, gather, organise); write (beginning-middle-end, scripts vs outlines, in advance); complete (revise/edit, record, distribute).",
+    "ms": "Rancang (analisis, kumpul, susun); tulis (permulaan-tengah-penghujung, skrip lwn rangka, awal); lengkapkan (semak/sunting, rakam, edar)."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "media",
+   "q": {
+    "en": "Which is a digital/social media option?",
+    "ms": "Yang mana pilihan media digital/sosial?"
+   },
+   "o": [
+    "Telegraph",
+    "Wikis",
+    "Fax only",
+    "Letter only"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 6.",
+    "ms": "Slaid 6."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "media",
+   "q": {
+    "en": "Printed messages help with:",
+    "ms": "Mesej bercetak membantu dengan:"
+   },
+   "o": [
+    "Instant delivery",
+    "A formal impression and a permanent record",
+    "Zero cost",
+    "Hiding errors"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 7.",
+    "ms": "Slaid 7."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "media",
+   "q": {
+    "en": "How many compositional modes are listed?",
+    "ms": "Berapa mod komposisi disenaraikan?"
+   },
+   "o": [
+    "Five",
+    "Seven",
+    "Twelve",
+    "Nine"
+   ],
+   "a": 3,
+   "e": {
+    "en": "LO 7.1.",
+    "ms": "LO 7.1."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "media",
+   "q": {
+    "en": "Which is a compositional mode?",
+    "ms": "Yang mana mod komposisi?"
+   },
+   "o": [
+    "Teasers",
+    "Faxes",
+    "Memos only",
+    "Invoices"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "media",
+   "q": {
+    "en": "Gamification is related to:",
+    "ms": "Gamifikasi berkait dengan:"
+   },
+   "o": [
+    "Proofreading",
+    "Printed letters",
+    "Optimising for mobile devices",
+    "Etiquette only"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 10.",
+    "ms": "Slaid 10."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "email",
+   "q": {
+    "en": "Which is an email disadvantage?",
+    "ms": "Yang mana kekurangan e-mel?"
+   },
+   "o": [
+    "Private",
+    "Universal",
+    "Phishing",
+    "Longer messages accepted"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 12.",
+    "ms": "Slaid 12."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "email",
+   "q": {
+    "en": "Email subject lines should be:",
+    "ms": "Baris subjek e-mel patut:"
+   },
+   "o": [
+    "Informative and compelling",
+    "Empty",
+    "All caps",
+    "Misleading"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "email",
+   "q": {
+    "en": "Before sending email you should:",
+    "ms": "Sebelum hantar e-mel anda patut:"
+   },
+   "o": [
+    "Mark high priority",
+    "Rush",
+    "Always use Reply All",
+    "Think twice, revise and proofread"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "email",
+   "q": {
+    "en": "Emoticons in business email should be:",
+    "ms": "Emotikon dalam e-mel perniagaan patut:"
+   },
+   "o": [
+    "Used often",
+    "Used wisely and sparingly",
+    "Mandatory",
+    "Banned always"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "im",
+   "q": {
+    "en": "A messaging advantage is:",
+    "ms": "Kelebihan pemesejan ialah:"
+   },
+   "o": [
+    "Can be annoyingly slow",
+    "Mimics voice conversation",
+    "Risk of miscommunication",
+    "Varied security"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 17.",
+    "ms": "Slaid 17."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "im",
+   "q": {
+    "en": "A messaging disadvantage is:",
+    "ms": "Kekurangan pemesejan ialah:"
+   },
+   "o": [
+    "Less overload",
+    "Can choose participants",
+    "Mimics voice",
+    "Increased risk of miscommunication"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 17.",
+    "ms": "Slaid 17."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "im",
+   "q": {
+    "en": "Which should you NOT send by messaging?",
+    "ms": "Yang mana TIDAK patut dihantar melalui pemesejan?"
+   },
+   "o": [
+    "Confidential information",
+    "Short simple messages",
+    "Courteous greetings",
+    "Quick questions"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 19.",
+    "ms": "Slaid 19."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "web",
+   "q": {
+    "en": "A website is a:",
+    "ms": "Laman web ialah medium:"
+   },
+   "o": [
+    "One-way broadcast",
+    "Linear script",
+    "Multidimensional medium",
+    "Printed letter"
+   ],
+   "a": 2,
+   "e": {
+    "en": "No beginning, middle or end.",
+    "ms": "Tiada permulaan, tengah, penghujung."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "web",
+   "q": {
+    "en": "Information architecture includes:",
+    "ms": "Seni bina maklumat termasuk:"
+   },
+   "o": [
+    "Only fonts",
+    "Only colours",
+    "Vertical hierarchy and horizontal division",
+    "Only images"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "web",
+   "q": {
+    "en": "A website tip is to:",
+    "ms": "Tip laman web ialah:"
+   },
+   "o": [
+    "Be consistent with labels",
+    "Use random labels",
+    "Hide search",
+    "Avoid maps"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "web",
+   "q": {
+    "en": "Inverted pyramid style means:",
+    "ms": "Gaya piramid terbalik bermaksud:"
+   },
+   "o": [
+    "Chronological only",
+    "Least important first",
+    "Random order",
+    "Most important information first"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 24: inverted pyramid style (standard meaning).",
+    "ms": "Slaid 24: gaya piramid terbalik (maksud standard)."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "web",
+   "q": {
+    "en": "Website links should have:",
+    "ms": "Pautan laman web patut ada:"
+   },
+   "o": [
+    "Long names",
+    "Direct and concise names",
+    "Hidden names",
+    "Jargon"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "pod",
+   "q": {
+    "en": "Which is a business use of podcasting?",
+    "ms": "Yang mana kegunaan perniagaan podcast?"
+   },
+   "o": [
+    "Taxation",
+    "Recruiting",
+    "Printing",
+    "Billing"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Training, marketing, selling, recruiting.",
+    "ms": "Latihan, pemasaran, jualan, pengambilan."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "pod",
+   "q": {
+    "en": "Distributing a podcast is part of:",
+    "ms": "Mengedar podcast ialah sebahagian:"
+   },
+   "o": [
+    "Analyse",
+    "Plan",
+    "Write",
+    "Complete"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "pod",
+   "q": {
+    "en": "A podcast should have:",
+    "ms": "Podcast patut ada:"
+   },
+   "o": [
+    "A clear beginning, middle and end",
+    "No structure",
+    "Only silence",
+    "A random order"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "email",
+   "q": {
+    "en": "Which is NOT a stated email-planning item?",
+    "ms": "Yang mana BUKAN item perancangan e-mel?"
+   },
+   "o": [
+    "Comply with policies",
+    "Valid business purpose",
+    "Choose emoji colour",
+    "Analyse situation"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "media",
+   "marks": 6,
+   "q": {
+    "en": "Identify the digital media formats and list nine compositional modes.",
+    "ms": "Kenal pasti format media digital dan senaraikan sembilan mod komposisi."
+   },
+   "pts": {
+    "en": [
+     "Five-plus-five media options (2)",
+     "Nine compositional modes (3)",
+     "Mobile optimisation or benefits of print (1)"
+    ],
+    "ms": [
+     "Lima tambah lima pilihan media (2)",
+     "Sembilan mod komposisi (3)",
+     "Pengoptimuman mudah alih atau manfaat cetakan (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "email",
+   "marks": 8,
+   "q": {
+    "en": "Explain how to adapt the three-step writing process to email.",
+    "ms": "Terangkan cara menyesuaikan proses tiga langkah untuk e-mel."
+   },
+   "pts": {
+    "en": [
+     "Plan: valid purpose, comply with policies, analyse, gather, organise (3)",
+     "Write: quality, subject lines, opening, emoticons (3)",
+     "Complete: think twice, revise, proofread, Reply All caution (2)"
+    ],
+    "ms": [
+     "Rancang: tujuan sah, patuh dasar, analisis, kumpul, susun (3)",
+     "Tulis: kualiti, subjek, pembukaan, emotikon (3)",
+     "Lengkapkan: fikir dua kali, semak, hati-hati Reply All (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "im",
+   "marks": 6,
+   "q": {
+    "en": "Discuss the advantages and disadvantages of messaging and give tips for effective use.",
+    "ms": "Bincangkan kelebihan dan kekurangan pemesejan dan beri tip penggunaan berkesan."
+   },
+   "pts": {
+    "en": [
+     "Advantages (2)",
+     "Disadvantages (2)",
+     "Tips (2)"
+    ],
+    "ms": [
+     "Kelebihan (2)",
+     "Kekurangan (2)",
+     "Tip (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "web",
+   "marks": 8,
+   "q": {
+    "en": "Explain why organising website content is challenging and how information architecture helps.",
+    "ms": "Terangkan kenapa menyusun kandungan laman web mencabar dan bagaimana seni bina maklumat membantu."
+   },
+   "pts": {
+    "en": [
+     "Versatility: multiple purposes and audiences (2)",
+     "Planning and organisation difficulties (2)",
+     "Information architecture: hierarchy, division, links (2)",
+     "Tips for organising and drafting (2)"
+    ],
+    "ms": [
+     "Fleksibiliti: pelbagai tujuan dan audiens (2)",
+     "Kesukaran perancangan dan penyusunan (2)",
+     "Seni bina maklumat: hierarki, pembahagian, pautan (2)",
+     "Tip menyusun dan merangka (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "pod",
+   "marks": 6,
+   "q": {
+    "en": "Adapt the three-step writing process to podcasting.",
+    "ms": "Sesuaikan proses tiga langkah untuk podcast."
+   },
+   "pts": {
+    "en": [
+     "Business uses (1)",
+     "Plan: analyse, gather, organise (2)",
+     "Write: structure, scripts vs outlines, in advance (2)",
+     "Complete: revise, record, distribute (1)"
+    ],
+    "ms": [
+     "Kegunaan perniagaan (1)",
+     "Rancang: analisis, kumpul, susun (2)",
+     "Tulis: struktur, skrip lwn rangka, awal (2)",
+     "Lengkapkan: semak, rakam, edar (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Digital media",
+   "Media digital"
+  ],
+  [
+   "Email",
+   "E-mel"
+  ],
+  [
+   "Phishing",
+   "Phishing"
+  ],
+  [
+   "Spam",
+   "Spam"
+  ],
+  [
+   "Instant messaging",
+   "Pemesejan segera"
+  ],
+  [
+   "Wiki",
+   "Wiki"
+  ],
+  [
+   "Microblogging",
+   "Mikroblog"
+  ],
+  [
+   "Gamification",
+   "Gamifikasi"
+  ],
+  [
+   "Augmented reality",
+   "Realiti terimbuh"
+  ],
+  [
+   "Information architecture",
+   "Seni bina maklumat"
+  ],
+  [
+   "Inverted pyramid",
+   "Piramid terbalik"
+  ],
+  [
+   "Podcast",
+   "Podcast"
+  ],
+  [
+   "Teaser",
+   "Teaser"
+  ],
+  [
+   "Tutorial",
+   "Tutorial"
+  ]
+ ]
+}

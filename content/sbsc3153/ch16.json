@@ -991,11 +991,11 @@
    },
    "o": [
     "Inform",
-    "Persuade",
+    "Entertain only",
     "Collaborate",
-    "Entertain only"
+    "Persuade"
    ],
-   "a": 3,
+   "a": 1,
    "e": {
     "en": "Inform, persuade, collaborate.",
     "ms": "Memaklumkan, memujuk, berkolaborasi."
@@ -1010,11 +1010,11 @@
    },
    "o": [
     "Classroom",
-    "Horseshoe",
+    "Conference table",
     "Café",
-    "Conference table"
+    "Horseshoe"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Horseshoe or U-shaped.",
     "ms": "Horseshoe atau U."
@@ -1048,11 +1048,11 @@
    },
    "o": [
     "Linear",
-    "Nonlinear",
     "Memorised",
+    "Nonlinear",
     "Impromptu"
    ],
-   "a": 1,
+   "a": 2,
    "e": {
     "en": "Nonlinear.",
     "ms": "Nonlinear."
@@ -1066,12 +1066,12 @@
     "ms": "Idea utama hendaklah:"
    },
    "o": [
-    "A one-sentence summary",
-    "A 5-page essay",
     "A joke",
+    "A 5-page essay",
+    "A one-sentence summary",
     "A bibliography"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "Slide 9.",
     "ms": "Slaid 9."
@@ -1085,12 +1085,12 @@
     "ms": "Pembentangan panjang untuk memujuk biasanya guna:"
    },
    "o": [
-    "Direct approach",
     "Indirect approach",
+    "Direct approach",
     "No approach",
     "Random approach"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Indirect to analyse, persuade or collaborate.",
     "ms": "Tidak terus untuk menganalisis, memujuk atau berkolaborasi."
@@ -1105,11 +1105,11 @@
    },
    "o": [
     "Indirect approach",
-    "Direct approach",
+    "Backchannel",
     "Nonlinear only",
-    "Backchannel"
+    "Direct approach"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Direct for routine information or good news.",
     "ms": "Terus untuk maklumat rutin atau berita baik."
@@ -1123,12 +1123,12 @@
     "ms": "Yang mana sebahagian rangka pertuturan?"
    },
    "o": [
-    "Add delivery cues",
     "Write a full script",
+    "Add delivery cues",
     "Delete the title",
     "Remove all notes"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Simplify, condense, add cues, arrange notes.",
     "ms": "Ringkas, padat, tambah isyarat, susun nota."
@@ -1180,12 +1180,12 @@
     "ms": "Cara baik membina kredibiliti ialah:"
    },
    "o": [
-    "Boast loudly",
     "Have another person introduce you",
+    "Boast loudly",
     "Skip your introduction",
     "Read your CV"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "Also introduce yourself humbly and simply.",
     "ms": "Juga perkenal diri dengan rendah hati."
@@ -1199,12 +1199,12 @@
     "ms": "Yang mana dalam isi?"
    },
    "o": [
-    "Connecting your ideas",
-    "Providing a clear wrap-up",
     "Establishing credibility",
+    "Providing a clear wrap-up",
+    "Connecting your ideas",
     "Previewing your message"
    ],
-   "a": 0,
+   "a": 2,
    "e": {
     "en": "Body: main points, connect ideas, hold attention.",
     "ms": "Isi: poin utama, sambung idea, kekal perhatian."
@@ -1237,12 +1237,12 @@
     "ms": "Bercakap tanpa persediaan ialah:"
    },
    "o": [
-    "Reading",
-    "Memorising",
     "Impromptu speaking",
+    "Memorising",
+    "Reading",
     "Outlining"
    ],
-   "a": 2,
+   "a": 0,
    "e": {
     "en": "Impromptu speaking.",
     "ms": "Bercakap impromptu."
@@ -1257,11 +1257,11 @@
    },
    "o": [
     "Expect perfection",
-    "Practise, practise, practise",
+    "Rush through",
     "Avoid eye contact",
-    "Rush through"
+    "Practise, practise, practise"
    ],
-   "a": 1,
+   "a": 3,
    "e": {
     "en": "Also visualise success and breathe.",
     "ms": "Juga bayangkan kejayaan dan bernafas."
@@ -1294,12 +1294,12 @@
     "ms": "Semasa mengendali soalan, anda patut mula dengan:"
    },
    "o": [
-    "Establish ground rules",
     "Ignore them",
+    "Establish ground rules",
     "Argue",
     "End the session"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Establish ground rules, prepare, notice nonverbal signals.",
     "ms": "Tetapkan peraturan asas, bersedia, perhati isyarat."
@@ -1313,12 +1313,12 @@
     "ms": "Bersedia bercakap termasuk:"
    },
    "o": [
-    "Planning for multicultural audiences",
+    "Skipping practice",
     "Avoiding equipment checks",
     "Ignoring seating",
-    "Skipping practice"
+    "Planning for multicultural audiences"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "Slide 26.",
     "ms": "Slaid 26."
@@ -1332,12 +1332,12 @@
     "ms": "Backchannel dicipta oleh:"
    },
    "o": [
-    "The speaker",
     "The audience",
+    "The speaker",
     "The venue",
     "The software vendor"
    ],
-   "a": 1,
+   "a": 0,
    "e": {
     "en": "The audience creates this line of communication.",
     "ms": "Audiens mencipta talian ini."
@@ -1410,10 +1410,10 @@
    "o": [
     "Cost savings",
     "Convenience",
-    "Digital divide",
-    "Rehearsal"
+    "Rehearsal",
+    "Digital divide"
    ],
-   "a": 2,
+   "a": 3,
    "e": {
     "en": "Digital divide and loss of human moments.",
     "ms": "Jurang digital dan hilang detik manusiawi."
@@ -1427,12 +1427,12 @@
     "ms": "Untuk berjaya dalam talian, anda patut:"
    },
    "o": [
-    "Send preview materials",
     "Skip rehearsal",
+    "Send preview materials",
     "Make it complex",
     "Avoid feedback"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Also rehearse, keep simple, ask for feedback.",
     "ms": "Juga berlatih, ringkas, minta maklum balas."
@@ -1446,12 +1446,12 @@
     "ms": "Kelebihan pembentangan dalam talian ialah:"
    },
    "o": [
-    "Cost savings and convenience",
     "Digital divide and cost",
+    "Cost savings and convenience",
     "Loss of human moments",
     "Reduced access"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Slide 35.",
     "ms": "Slaid 35."
