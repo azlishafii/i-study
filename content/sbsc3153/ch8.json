@@ -1,0 +1,1189 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch8",
+ "num": 8,
+ "title": {
+  "en": "Social Media",
+  "ms": "Media Sosial"
+ },
+ "standard": "Bovee Ch 8",
+ "outcomes": {
+  "en": [
+   "Identify seven key points for using social media in business communication",
+   "Describe business communication applications of social networks",
+   "Explain how information- and content-sharing sites are used",
+   "Describe the role of blogging and adapt the three-step process to blogging",
+   "Describe business uses of Twitter and other microblogging systems",
+   "Offer guidelines for becoming a valuable wiki contributor"
+  ],
+  "ms": [
+   "Kenal pasti tujuh poin utama menggunakan media sosial dalam komunikasi perniagaan",
+   "Huraikan aplikasi komunikasi perniagaan rangkaian sosial",
+   "Terangkan cara laman perkongsian maklumat dan kandungan digunakan",
+   "Huraikan peranan blog dan sesuaikan proses tiga langkah untuk blog",
+   "Huraikan kegunaan perniagaan Twitter dan sistem mikroblog lain",
+   "Beri garis panduan menjadi penyumbang wiki yang bernilai"
+  ]
+ },
+ "sections": [
+  {
+   "id": "strategy",
+   "icon": "💡",
+   "title": {
+    "en": "Writing Strategies for Social Media",
+    "ms": "Strategi Penulisan untuk Media Sosial"
+   },
+   "ref": "Slides 4–6",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Seven key points",
+     "ms": "Tujuh poin utama"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Approach it as a conversation",
+      "Write informally but not carelessly",
+      "Create concise, specific, informative headlines",
+      "Get involved and stay involved",
+      "Promote indirectly",
+      "Be transparent and honest",
+      "Think before you post!"
+     ],
+     "ms": [
+      "Anggap ia perbualan",
+      "Tulis tidak formal tetapi tidak cuai",
+      "Cipta tajuk ringkas, spesifik, bermaklumat",
+      "Terlibat dan kekal terlibat",
+      "Promosi secara tidak langsung",
+      "Telus dan jujur",
+      "Fikir sebelum siar!"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: 7 points, 3 of them about honesty and care: transparent, honest, think before posting.",
+     "ms": "Cara ingat: 7 poin, 3 tentang kejujuran dan berhati-hati: telus, jujur, fikir sebelum siar."
+    }
+   ]
+  },
+  {
+   "id": "networks",
+   "icon": "👥",
+   "title": {
+    "en": "Social Networks",
+    "ms": "Rangkaian Sosial"
+   },
+   "ref": "Slides 8–12",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Category",
+       "Examples"
+      ],
+      "ms": [
+       "Kategori",
+       "Contoh"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Public, general-purpose",
+        "Facebook and Google+"
+       ],
+       "ms": [
+        "Awam, umum",
+        "Facebook dan Google+"
+       ]
+      },
+      {
+       "en": [
+        "Public, specialised",
+        "LinkedIn; regionally focused networks; focused-audience networks"
+       ],
+       "ms": [
+        "Awam, khusus",
+        "LinkedIn; rangkaian berfokus wilayah; rangkaian audiens khusus"
+       ]
+      },
+      {
+       "en": [
+        "Private",
+        "Internal company-built network; internal collaborative network"
+       ],
+       "ms": [
+        "Peribadi",
+        "Rangkaian dalaman dibina syarikat; rangkaian kolaboratif dalaman"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 8 lists the examples in columns; the mapping above is my reading.",
+     "ms": "Slaid 8 menyenaraikan contoh dalam lajur; pemetaan di atas ialah bacaan saya."
+    },
+    {
+     "k": "h",
+     "en": "Business communication uses (10)",
+     "ms": "Kegunaan komunikasi perniagaan (10)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Integrating the company workforce",
+      "Fostering collaboration",
+      "Building communities",
+      "Socialising brands and companies",
+      "Understanding target markets",
+      "Recruiting employees and business partners",
+      "Connecting with sales prospects",
+      "Supporting customers",
+      "Extending the organisation",
+      "Crowdspeaking"
+     ],
+     "ms": [
+      "Mengintegrasikan tenaga kerja",
+      "Memupuk kolaborasi",
+      "Membina komuniti",
+      "Menyosialkan jenama dan syarikat",
+      "Memahami pasaran sasaran",
+      "Merekrut pekerja dan rakan perniagaan",
+      "Berhubung dengan prospek jualan",
+      "Menyokong pelanggan",
+      "Memperluas organisasi",
+      "Crowdspeaking"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Strategies on social networks (7)",
+     "ms": "Strategi di rangkaian sosial (7)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Choose the best compositional mode",
+      "Offer valuable content",
+      "Join existing conversations",
+      "Anchor your presence in your hub",
+      "Facilitate community building",
+      "Restrict promotions to the right time and place",
+      "Maintain a consistent personality"
+     ],
+     "ms": [
+      "Pilih mod komposisi terbaik",
+      "Tawarkan kandungan bernilai",
+      "Sertai perbualan sedia ada",
+      "Dasarkan kehadiran pada hab anda",
+      "Mudahkan pembinaan komuniti",
+      "Hadkan promosi pada masa dan tempat sesuai",
+      "Kekalkan personaliti konsisten"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sharing",
+   "icon": "🔗",
+   "title": {
+    "en": "Information- and Content-Sharing Sites",
+    "ms": "Laman Perkongsian Maklumat dan Kandungan"
+   },
+   "ref": "Slides 14–16",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Site type",
+       "Key points"
+      ],
+      "ms": [
+       "Jenis laman",
+       "Poin utama"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "User-generated content sites",
+        "Create value; create a space for sharing; high-value contributors influence consumer behaviour; allow voting, endorsements and sharing; build reputation with positive reviews; get involved with posters and encourage information exchanges"
+       ],
+       "ms": [
+        "Laman kandungan jana pengguna",
+        "Cipta nilai; cipta ruang perkongsian; penyumbang bernilai tinggi mempengaruhi tingkah laku pengguna; benarkan undi, sokongan, perkongsian; bina reputasi dengan ulasan positif; libatkan diri dengan penyiar"
+       ]
+      },
+      {
+       "en": [
+        "Content curation sites",
+        "Guide audiences to relevant content; focus on ease of use; create value as an industry expert; bring the community together; be aware of ethics and legal policies (plagiarism, competency as an expert)"
+       ],
+       "ms": [
+        "Laman kurasi kandungan",
+        "Bimbing audiens ke kandungan relevan; mudah guna; cipta nilai sebagai pakar industri; satukan komuniti; sedar etika dan dasar undang-undang (plagiat, kecekapan sebagai pakar)"
+       ]
+      },
+      {
+       "en": [
+        "Community Q&A sites",
+        "Build personal brand; demonstrate commitment to customer service; counter misinformation"
+       ],
+       "ms": [
+        "Laman Soal-Jawab komuniti",
+        "Bina jenama peribadi; tunjuk komitmen perkhidmatan pelanggan; lawan maklumat salah"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "blog",
+   "icon": "✍️",
+   "title": {
+    "en": "Blogging",
+    "ms": "Blog"
+   },
+   "ref": "Slides 18–22",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Blogging strategies (slide 18)",
+     "ms": "Strategi blog (slaid 18)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Use a personal style and authentic voice",
+      "Deliver new information quickly",
+      "Choose topics of peak interest",
+      "Encourage audiences to join the conversation"
+     ],
+     "ms": [
+      "Guna gaya peribadi dan suara tulen",
+      "Sampaikan maklumat baru dengan pantas",
+      "Pilih topik yang sangat diminati",
+      "Galakkan audiens menyertai perbualan"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 18 is titled “Strategies for Business Communication on Social Networks” but its content is blogging; I placed it under blogging.",
+     "ms": "Slaid 18 bertajuk “Strategies for Business Communication on Social Networks” tetapi kandungannya blog; saya letak di bawah blog."
+    },
+    {
+     "k": "h",
+     "en": "Business uses of blogs (14)",
+     "ms": "Kegunaan perniagaan blog (14)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Anchor for social media presence",
+      "Project management and team communication",
+      "Internal company news",
+      "Customer support",
+      "Public and media relations",
+      "Recruiting",
+      "Policy and issue discussions",
+      "Crisis communication",
+      "Market research",
+      "Brainstorming",
+      "Employee engagement",
+      "Customer education",
+      "Word-of-mouth marketing; influencing media news coverage; community building"
+     ],
+     "ms": [
+      "Dasar kehadiran media sosial",
+      "Pengurusan projek dan komunikasi pasukan",
+      "Berita dalaman syarikat",
+      "Sokongan pelanggan",
+      "Perhubungan awam dan media",
+      "Pengambilan pekerja",
+      "Perbincangan dasar dan isu",
+      "Komunikasi krisis",
+      "Kajian pasaran",
+      "Sumbang saran",
+      "Penglibatan pekerja",
+      "Pendidikan pelanggan",
+      "Pemasaran dari mulut ke mulut; mempengaruhi liputan media; membina komuniti"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Plan",
+       "Write",
+       "Complete"
+      ],
+      "ms": [
+       "Rancang",
+       "Tulis",
+       "Lengkapkan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Audience, purpose, scope; continue planning with each message",
+        "Comfortable, personal style; know your subject and provide links",
+        "Evaluate, proofread, post"
+       ],
+       "ms": [
+        "Audiens, tujuan, skop; sambung merancang dengan setiap mesej",
+        "Gaya peribadi selesa; kuasai subjek dan beri pautan",
+        "Nilai, semak bukti, siar"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "micro",
+   "icon": "🐦",
+   "title": {
+    "en": "Microblogging and Wikis",
+    "ms": "Mikroblog dan Wiki"
+   },
+   "ref": "Slides 24–28",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Microblogging composition",
+     "ms": "Komposisi mikroblog"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Severe length limits; short summaries with links",
+      "Social aspects; promotions and teasers"
+     ],
+     "ms": [
+      "Had panjang ketat; ringkasan pendek dengan pautan",
+      "Aspek sosial; promosi dan teaser"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Roles in business",
+     "ms": "Peranan dalam perniagaan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Customer service",
+      "Social networking and crowdsourcing",
+      "Integration with other social media",
+      "Encourage spontaneous communication",
+      "An integral part of the overall communication strategy"
+     ],
+     "ms": [
+      "Perkhidmatan pelanggan",
+      "Rangkaian sosial dan crowdsourcing",
+      "Integrasi dengan media sosial lain",
+      "Galakkan komunikasi spontan",
+      "Bahagian penting strategi komunikasi keseluruhan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Wiki philosophy",
+     "ms": "Falsafah wiki"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Let go of traditional expectations",
+      "Encourage team members to improve each other’s work",
+      "Use templates and formatting options",
+      "Use appropriate editing and commenting tools",
+      "Take advantage of the “sandbox”"
+     ],
+     "ms": [
+      "Lepaskan jangkaan tradisional",
+      "Galakkan ahli pasukan memperbaiki kerja satu sama lain",
+      "Guna templat dan pilihan format",
+      "Guna alat suntingan dan komen sesuai",
+      "Manfaatkan “sandbox”"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Three-step process for wikis",
+     "ms": "Proses tiga langkah untuk wiki"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Plan carefully for a new wiki",
+      "Ensure new content fits with the existing wiki",
+      "Evaluate content if revising or updating"
+     ],
+     "ms": [
+      "Rancang dengan teliti untuk wiki baru",
+      "Pastikan kandungan baru sesuai dengan wiki sedia ada",
+      "Nilai kandungan jika menyemak atau mengemas kini"
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "strategy",
+   "q": {
+    "en": "Seven key points for social media writing?",
+    "ms": "Tujuh poin penulisan media sosial?"
+   },
+   "a": {
+    "en": "Conversation, informal not careless, concise headlines, stay involved, promote indirectly, transparent and honest, think before posting.",
+    "ms": "Perbualan, tidak formal tapi tidak cuai, tajuk ringkas, kekal terlibat, promosi tidak langsung, telus dan jujur, fikir sebelum siar."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "strategy",
+   "q": {
+    "en": "How should you promote on social media?",
+    "ms": "Bagaimana mempromosi di media sosial?"
+   },
+   "a": {
+    "en": "Indirectly.",
+    "ms": "Secara tidak langsung."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "networks",
+   "q": {
+    "en": "Three categories of social networks?",
+    "ms": "Tiga kategori rangkaian sosial?"
+   },
+   "a": {
+    "en": "Public general-purpose, public specialised, private.",
+    "ms": "Awam umum, awam khusus, peribadi."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "networks",
+   "q": {
+    "en": "Name an example of a public specialised network.",
+    "ms": "Namakan contoh rangkaian awam khusus."
+   },
+   "a": {
+    "en": "LinkedIn.",
+    "ms": "LinkedIn."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "networks",
+   "q": {
+    "en": "Ten business uses of social networks (name five)?",
+    "ms": "Sepuluh kegunaan perniagaan rangkaian sosial (namakan lima)?"
+   },
+   "a": {
+    "en": "Integrating workforce, collaboration, communities, socialising brands, understanding markets, recruiting, sales prospects, supporting customers, extending organisation, crowdspeaking.",
+    "ms": "Integrasi tenaga kerja, kolaborasi, komuniti, jenama, pasaran, rekrut, prospek jualan, sokong pelanggan, perluas organisasi, crowdspeaking."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "networks",
+   "q": {
+    "en": "Seven strategies on social networks?",
+    "ms": "Tujuh strategi di rangkaian sosial?"
+   },
+   "a": {
+    "en": "Best compositional mode, valuable content, join conversations, anchor in hub, build community, restrict promotions, consistent personality.",
+    "ms": "Mod komposisi, kandungan bernilai, sertai perbualan, hab, komuniti, hadkan promosi, personaliti konsisten."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "sharing",
+   "q": {
+    "en": "Three types of sharing sites?",
+    "ms": "Tiga jenis laman perkongsian?"
+   },
+   "a": {
+    "en": "User-generated content, content curation, community Q&A.",
+    "ms": "Kandungan jana pengguna, kurasi kandungan, Soal-Jawab komuniti."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "sharing",
+   "q": {
+    "en": "Ethics issues in content curation?",
+    "ms": "Isu etika kurasi kandungan?"
+   },
+   "a": {
+    "en": "Plagiarism and competency as an expert.",
+    "ms": "Plagiat dan kecekapan sebagai pakar."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "sharing",
+   "q": {
+    "en": "Benefits of community Q&A sites?",
+    "ms": "Manfaat laman Soal-Jawab komuniti?"
+   },
+   "a": {
+    "en": "Build personal brand, demonstrate customer service commitment, counter misinformation.",
+    "ms": "Bina jenama peribadi, tunjuk komitmen perkhidmatan, lawan maklumat salah."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "blog",
+   "q": {
+    "en": "Four blogging strategies?",
+    "ms": "Empat strategi blog?"
+   },
+   "a": {
+    "en": "Personal style and authentic voice, deliver new information quickly, topics of peak interest, encourage conversation.",
+    "ms": "Gaya peribadi dan suara tulen, maklumat baru pantas, topik diminati, galak perbualan."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "blog",
+   "q": {
+    "en": "Name five business uses of blogs.",
+    "ms": "Namakan lima kegunaan perniagaan blog."
+   },
+   "a": {
+    "en": "e.g. internal news, customer support, PR, recruiting, crisis communication, market research.",
+    "ms": "cth berita dalaman, sokongan pelanggan, PR, rekrut, komunikasi krisis, kajian pasaran."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "blog",
+   "q": {
+    "en": "Three-step process for blogging?",
+    "ms": "Proses tiga langkah untuk blog?"
+   },
+   "a": {
+    "en": "Plan (audience, purpose, scope); write (personal style, know subject, links); complete (evaluate, proofread, post).",
+    "ms": "Rancang (audiens, tujuan, skop); tulis (gaya peribadi, subjek, pautan); lengkapkan (nilai, semak, siar)."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "micro",
+   "q": {
+    "en": "Microblogging composition traits?",
+    "ms": "Ciri komposisi mikroblog?"
+   },
+   "a": {
+    "en": "Severe length limits, short summaries with links, social aspects, promotions and teasers.",
+    "ms": "Had panjang ketat, ringkasan pendek dengan pautan, aspek sosial, promosi dan teaser."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "micro",
+   "q": {
+    "en": "Roles of microblogging in business?",
+    "ms": "Peranan mikroblog dalam perniagaan?"
+   },
+   "a": {
+    "en": "Customer service, social networking and crowdsourcing, integration with other media, spontaneous communication, part of overall strategy.",
+    "ms": "Perkhidmatan pelanggan, rangkaian sosial dan crowdsourcing, integrasi, komunikasi spontan, strategi keseluruhan."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "micro",
+   "q": {
+    "en": "Five wiki philosophy points?",
+    "ms": "Lima poin falsafah wiki?"
+   },
+   "a": {
+    "en": "Let go of traditional expectations, improve each other’s work, templates, editing/commenting tools, sandbox.",
+    "ms": "Lepaskan jangkaan tradisional, perbaiki kerja satu sama lain, templat, alat suntingan, sandbox."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "micro",
+   "q": {
+    "en": "Three-step process for wikis?",
+    "ms": "Proses tiga langkah untuk wiki?"
+   },
+   "a": {
+    "en": "Plan carefully for a new wiki, ensure new content fits, evaluate content when revising.",
+    "ms": "Rancang teliti, pastikan kandungan sesuai, nilai kandungan semasa semakan."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "strategy",
+   "q": {
+    "en": "On social media you should promote:",
+    "ms": "Di media sosial anda patut mempromosi:"
+   },
+   "o": [
+    "Aggressively",
+    "Indirectly",
+    "Anonymously",
+    "Constantly"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 6.",
+    "ms": "Slaid 6."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "strategy",
+   "q": {
+    "en": "Social media writing should be:",
+    "ms": "Penulisan media sosial patut:"
+   },
+   "o": [
+    "Careless",
+    "Informal but not careless",
+    "Extremely formal",
+    "Hidden"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "networks",
+   "q": {
+    "en": "LinkedIn is a:",
+    "ms": "LinkedIn ialah rangkaian:"
+   },
+   "o": [
+    "Wiki",
+    "Private network",
+    "General-purpose network",
+    "Public specialised network"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "networks",
+   "q": {
+    "en": "An internal company-built network is:",
+    "ms": "Rangkaian dalaman dibina syarikat ialah:"
+   },
+   "o": [
+    "Private",
+    "Public general",
+    "Public specialised",
+    "A blog"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "networks",
+   "q": {
+    "en": "Which is a business use of social networks?",
+    "ms": "Yang mana kegunaan perniagaan rangkaian sosial?"
+   },
+   "o": [
+    "Typing",
+    "Printing",
+    "Recruiting employees",
+    "Faxing"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 10.",
+    "ms": "Slaid 10."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "networks",
+   "q": {
+    "en": "A strategy for social networks is to:",
+    "ms": "Satu strategi rangkaian sosial ialah:"
+   },
+   "o": [
+    "Change personality often",
+    "Avoid conversations",
+    "Join existing conversations",
+    "Promote constantly"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 11.",
+    "ms": "Slaid 11."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "networks",
+   "q": {
+    "en": "A consistent ___ should be maintained.",
+    "ms": "___ yang konsisten patut dikekalkan."
+   },
+   "o": [
+    "Personality",
+    "Price",
+    "Location",
+    "Hashtag"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 12.",
+    "ms": "Slaid 12."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "sharing",
+   "q": {
+    "en": "Plagiarism is an ethics concern for:",
+    "ms": "Plagiat ialah kebimbangan etika untuk:"
+   },
+   "o": [
+    "Podcasts",
+    "Wikis only",
+    "Email",
+    "Content curation sites"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "sharing",
+   "q": {
+    "en": "Community Q&A sites help to:",
+    "ms": "Laman Soal-Jawab komuniti membantu:"
+   },
+   "o": [
+    "Spread misinformation",
+    "Counter misinformation",
+    "Hide customers",
+    "Block feedback"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "sharing",
+   "q": {
+    "en": "User-generated content sites allow:",
+    "ms": "Laman kandungan jana pengguna membenarkan:"
+   },
+   "o": [
+    "No sharing",
+    "Voting, endorsements and sharing",
+    "Only private posts",
+    "Only admin posts"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "blog",
+   "q": {
+    "en": "Which is a blogging strategy?",
+    "ms": "Yang mana strategi blog?"
+   },
+   "o": [
+    "Avoid topics",
+    "Use a robotic voice",
+    "Avoid readers",
+    "Deliver new information quickly"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 18.",
+    "ms": "Slaid 18."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "blog",
+   "q": {
+    "en": "Which is a business use of blogs?",
+    "ms": "Yang mana kegunaan perniagaan blog?"
+   },
+   "o": [
+    "Crisis communication",
+    "Printing",
+    "Billing only",
+    "Fax"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slides 19–21.",
+    "ms": "Slaid 19–21."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "blog",
+   "q": {
+    "en": "In the blog three-step process, “post” belongs to:",
+    "ms": "Dalam proses tiga langkah blog, “post” tergolong dalam:"
+   },
+   "o": [
+    "Write",
+    "Plan",
+    "Complete",
+    "Analyse"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "blog",
+   "q": {
+    "en": "In blogging, “know your subject and provide links” is:",
+    "ms": "Dalam blog, “know your subject and provide links” ialah:"
+   },
+   "o": [
+    "Complete",
+    "Plan",
+    "Write",
+    "Evaluate"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "micro",
+   "q": {
+    "en": "Microblogging has:",
+    "ms": "Mikroblog mempunyai:"
+   },
+   "o": [
+    "Severe length limits",
+    "No limits",
+    "Long essays",
+    "No links"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "micro",
+   "q": {
+    "en": "Microblogging is useful for:",
+    "ms": "Mikroblog berguna untuk:"
+   },
+   "o": [
+    "Archiving",
+    "Printing",
+    "Auditing",
+    "Customer service"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 25.",
+    "ms": "Slaid 25."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "micro",
+   "q": {
+    "en": "In wikis, the “sandbox” is for:",
+    "ms": "Dalam wiki, “sandbox” untuk:"
+   },
+   "o": [
+    "Deleting pages",
+    "Practising and experimenting",
+    "Locking pages",
+    "Billing"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 27 (standard meaning).",
+    "ms": "Slaid 27 (maksud standard)."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "micro",
+   "q": {
+    "en": "Wiki contributors should:",
+    "ms": "Penyumbang wiki patut:"
+   },
+   "o": [
+    "Own content strictly",
+    "Let go of traditional expectations",
+    "Block edits",
+    "Avoid templates"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "micro",
+   "q": {
+    "en": "For a new wiki you should:",
+    "ms": "Untuk wiki baru anda patut:"
+   },
+   "o": [
+    "Avoid structure",
+    "Skip planning",
+    "Copy randomly",
+    "Plan carefully"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 28.",
+    "ms": "Slaid 28."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "strategy",
+   "q": {
+    "en": "Which is NOT among the seven key points?",
+    "ms": "Yang mana BUKAN antara tujuh poin utama?"
+   },
+   "o": [
+    "Promote aggressively",
+    "Be transparent and honest",
+    "Think before you post",
+    "Get involved"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slides 5–6.",
+    "ms": "Slaid 5–6."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "strategy",
+   "marks": 7,
+   "q": {
+    "en": "Explain seven key points for using social media in business communication.",
+    "ms": "Terangkan tujuh poin utama menggunakan media sosial dalam komunikasi perniagaan."
+   },
+   "pts": {
+    "en": [
+     "Conversation (1)",
+     "Informal not careless (1)",
+     "Concise headlines (1)",
+     "Get and stay involved (1)",
+     "Promote indirectly (1)",
+     "Transparent and honest (1)",
+     "Think before you post (1)"
+    ],
+    "ms": [
+     "Perbualan (1)",
+     "Tidak formal tapi tidak cuai (1)",
+     "Tajuk ringkas (1)",
+     "Terlibat dan kekal (1)",
+     "Promosi tidak langsung (1)",
+     "Telus dan jujur (1)",
+     "Fikir sebelum siar (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "networks",
+   "marks": 8,
+   "q": {
+    "en": "Describe business uses and strategies for social networks.",
+    "ms": "Huraikan kegunaan dan strategi perniagaan rangkaian sosial."
+   },
+   "pts": {
+    "en": [
+     "Three categories of networks (2)",
+     "Business uses (3)",
+     "Strategies (3)"
+    ],
+    "ms": [
+     "Tiga kategori rangkaian (2)",
+     "Kegunaan perniagaan (3)",
+     "Strategi (3)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "sharing",
+   "marks": 6,
+   "q": {
+    "en": "Explain how information- and content-sharing sites are used in business communication.",
+    "ms": "Terangkan cara laman perkongsian maklumat dan kandungan digunakan dalam komunikasi perniagaan."
+   },
+   "pts": {
+    "en": [
+     "User-generated content sites (2)",
+     "Content curation sites with ethics (2)",
+     "Community Q&A sites (2)"
+    ],
+    "ms": [
+     "Laman kandungan jana pengguna (2)",
+     "Laman kurasi dengan etika (2)",
+     "Laman Soal-Jawab komuniti (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "blog",
+   "marks": 8,
+   "q": {
+    "en": "Describe the role of blogging and adapt the three-step process to blogging.",
+    "ms": "Huraikan peranan blog dan sesuaikan proses tiga langkah untuk blog."
+   },
+   "pts": {
+    "en": [
+     "Blogging strategies (2)",
+     "Business uses (2)",
+     "Plan (2)",
+     "Write and complete (2)"
+    ],
+    "ms": [
+     "Strategi blog (2)",
+     "Kegunaan perniagaan (2)",
+     "Rancang (2)",
+     "Tulis dan lengkapkan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "micro",
+   "marks": 6,
+   "q": {
+    "en": "Describe business uses of microblogging and guidelines for wiki contributors.",
+    "ms": "Huraikan kegunaan perniagaan mikroblog dan garis panduan penyumbang wiki."
+   },
+   "pts": {
+    "en": [
+     "Microblogging composition (2)",
+     "Roles in business (2)",
+     "Wiki guidelines (2)"
+    ],
+    "ms": [
+     "Komposisi mikroblog (2)",
+     "Peranan dalam perniagaan (2)",
+     "Garis panduan wiki (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Social network",
+   "Rangkaian sosial"
+  ],
+  [
+   "Crowdspeaking",
+   "Crowdspeaking"
+  ],
+  [
+   "Content curation",
+   "Kurasi kandungan"
+  ],
+  [
+   "User-generated content",
+   "Kandungan jana pengguna"
+  ],
+  [
+   "Blog",
+   "Blog"
+  ],
+  [
+   "Microblogging",
+   "Mikroblog"
+  ],
+  [
+   "Wiki",
+   "Wiki"
+  ],
+  [
+   "Sandbox",
+   "Sandbox"
+  ],
+  [
+   "Crowdsourcing",
+   "Crowdsourcing"
+  ],
+  [
+   "Word-of-mouth marketing",
+   "Pemasaran dari mulut ke mulut"
+  ],
+  [
+   "Authentic voice",
+   "Suara tulen"
+  ],
+  [
+   "Hub",
+   "Hab"
+  ]
+ ]
+}

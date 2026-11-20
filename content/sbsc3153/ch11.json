@@ -1,0 +1,1465 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch11",
+ "num": 11,
+ "title": {
+  "en": "Writing Negative Messages",
+  "ms": "Menulis Mesej Negatif"
+ },
+ "standard": "Bovee Ch 11",
+ "outcomes": {
+  "en": [
+   "Apply the three-step writing process to negative messages",
+   "Explain how to use the direct approach when conveying negative news",
+   "Explain how to use the indirect approach when conveying negative news",
+   "Explain the importance of high standards of ethics and etiquette in negative messages",
+   "Describe strategies for negative messages on routine business matters",
+   "List important points when conveying negative organisational news",
+   "Describe strategies for negative employment-related messages"
+  ],
+  "ms": [
+   "Gunakan proses penulisan tiga langkah untuk mesej negatif",
+   "Terangkan cara menggunakan pendekatan terus untuk menyampaikan berita negatif",
+   "Terangkan cara menggunakan pendekatan tidak terus untuk menyampaikan berita negatif",
+   "Terangkan kepentingan standard etika dan etiket tinggi dalam mesej negatif",
+   "Huraikan strategi mesej negatif dalam hal perniagaan rutin",
+   "Senaraikan poin penting semasa menyampaikan berita organisasi negatif",
+   "Huraikan strategi mesej negatif berkaitan pekerjaan"
+  ]
+ },
+ "sections": [
+  {
+   "id": "process",
+   "icon": "🪜",
+   "title": {
+    "en": "Three-Step Process for Negative Messages",
+    "ms": "Proses Tiga Langkah untuk Mesej Negatif"
+   },
+   "ref": "Slides 4–9",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Five goals of negative communication",
+     "ms": "Lima matlamat komunikasi negatif"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Convey the bad news",
+      "Gain acceptance of the bad news",
+      "Maintain the audience’s goodwill",
+      "Maintain a good image for the organisation",
+      "Reduce the need for future correspondence"
+     ],
+     "ms": [
+      "Sampaikan berita buruk",
+      "Dapatkan penerimaan berita buruk",
+      "Kekalkan muhibah audiens",
+      "Kekalkan imej baik organisasi",
+      "Kurangkan keperluan surat-menyurat susulan"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Step",
+       "Tasks"
+      ],
+      "ms": [
+       "Langkah",
+       "Tugas"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1 Plan",
+        "Consider audience and purpose; select the right medium and channel; define your main idea; choose the best approach"
+       ],
+       "ms": [
+        "1 Rancang",
+        "Pertimbang audiens dan tujuan; pilih medium dan saluran; tentukan idea utama; pilih pendekatan terbaik"
+       ]
+      },
+      {
+       "en": [
+        "2 Write",
+        "Write clearly and sensitively; clarify your qualifications; convey respect; observe etiquette; choose positive words"
+       ],
+       "ms": [
+        "2 Tulis",
+        "Tulis jelas dan peka; jelaskan kelayakan; tunjuk hormat; patuhi etiket; pilih perkataan positif"
+       ]
+      },
+      {
+       "en": [
+        "3 Complete",
+        "Revise content; produce professional documents; proofread carefully; deliver messages promptly"
+       ],
+       "ms": [
+        "3 Lengkapkan",
+        "Semak kandungan; hasilkan dokumen profesional; semak bukti; hantar mesej segera"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Direct or indirect? Ask",
+     "ms": "Terus atau tidak terus? Tanya"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Do you need to get the reader’s attention?",
+      "How important is the news to the reader?",
+      "What is the audience’s preference?",
+      "Will the bad news come as a shock?"
+     ],
+     "ms": [
+      "Perlu tarik perhatian pembaca?",
+      "Betapa penting berita kepada pembaca?",
+      "Apa keutamaan audiens?",
+      "Adakah berita buruk mengejutkan?"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 7 lays out Direct and Indirect as columns without pairing the four questions to each. The usual rule: direct if the news is important, urgent or audience prefers it; indirect if it is likely to be a shock. This is Extra (not in slides).",
+     "ms": "Slaid 7 menyusun Direct dan Indirect dalam lajur tanpa memadankan empat soalan. Peraturan lazim: terus jika berita penting, segera atau audiens suka; tidak terus jika berita mengejutkan. Ini Extra (bukan dalam slaid)."
+    }
+   ]
+  },
+  {
+   "id": "direct",
+   "icon": "➡️",
+   "title": {
+    "en": "Direct Approach",
+    "ms": "Pendekatan Terus"
+   },
+   "ref": "Slides 10–14",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Opening",
+     "ms": "Pembukaan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "State the bad news at the beginning",
+      "Maintain a calm, professional tone",
+      "Focus on the news, not on individuals",
+      "Explain or remind the reader why you are writing"
+     ],
+     "ms": [
+      "Nyatakan berita buruk di awal",
+      "Kekalkan nada tenang dan profesional",
+      "Fokus pada berita, bukan individu",
+      "Terangkan atau ingatkan sebab anda menulis"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Reasons and additional information",
+     "ms": "Sebab dan maklumat tambahan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Explain why the news is negative",
+      "Consider the nature of the news",
+      "Assess your relationship with the reader",
+      "Determine whether to apologise"
+     ],
+     "ms": [
+      "Terangkan kenapa berita negatif",
+      "Pertimbang jenis berita",
+      "Nilai hubungan dengan pembaca",
+      "Tentukan sama ada perlu memohon maaf"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Apologising",
+     "ms": "Memohon maaf"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Deliver the apology from the right person in the organisation",
+      "Only apologise if it is sincere",
+      "Deliver the apology quickly"
+     ],
+     "ms": [
+      "Maaf daripada orang yang betul dalam organisasi",
+      "Hanya minta maaf jika ikhlas",
+      "Minta maaf dengan cepat"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Closing on a respectful note",
+     "ms": "Menutup dengan hormat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Consider alternatives",
+      "Include positive statements",
+      "Communicate how future mistakes will be avoided"
+     ],
+     "ms": [
+      "Pertimbang alternatif",
+      "Sertakan pernyataan positif",
+      "Nyatakan bagaimana kesilapan akan dielak"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "indirect",
+   "icon": "↪️",
+   "title": {
+    "en": "Indirect Approach",
+    "ms": "Pendekatan Tidak Terus"
+   },
+   "ref": "Slides 15–19",
+   "blocks": [
+    {
+     "k": "flow",
+     "en": [
+      "Open with a buffer",
+      "Provide reasons",
+      "State the bad news clearly and carefully",
+      "Close on a respectful note"
+     ],
+     "ms": [
+      "Buka dengan penampan (buffer)",
+      "Beri sebab",
+      "Nyatakan berita buruk dengan jelas dan berhati-hati",
+      "Tutup dengan hormat"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The steps reflect the slides’ headings (buffer, clear statement of the bad news, respectful close). The “provide reasons” step is Extra (not in slides): the textbook places reasons before the bad news.",
+     "ms": "Langkah mencerminkan tajuk slaid (buffer, pernyataan berita buruk, penutup hormat). Langkah “beri sebab” ialah Extra (bukan dalam slaid): buku teks letak sebab sebelum berita buruk."
+    },
+    {
+     "k": "h",
+     "en": "The buffer",
+     "ms": "Buffer"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Open with a neutral statement",
+      "Establish common ground",
+      "Express appreciation",
+      "Assure readers you understand their needs",
+      "Be relevant and sincere"
+     ],
+     "ms": [
+      "Buka dengan pernyataan neutral",
+      "Bina titik persamaan",
+      "Nyatakan penghargaan",
+      "Yakinkan anda faham keperluan mereka",
+      "Relevan dan ikhlas"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Handling the bad news carefully",
+     "ms": "Mengendali berita buruk dengan berhati-hati"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "De-emphasise the bad news",
+      "Use a conditional statement",
+      "Tell what you DID, not what you didn’t do"
+     ],
+     "ms": [
+      "Kurangkan penekanan berita buruk",
+      "Guna pernyataan bersyarat",
+      "Nyatakan apa yang anda BUAT, bukan yang tidak dibuat"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Closing",
+     "ms": "Penutup"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Find a positive angle",
+      "Avoid an uncertain conclusion",
+      "Manage future correspondence",
+      "Express optimism",
+      "Be sincere"
+     ],
+     "ms": [
+      "Cari sudut positif",
+      "Elak kesimpulan tidak pasti",
+      "Urus surat-menyurat masa depan",
+      "Nyatakan optimisme",
+      "Ikhlas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ethics",
+   "icon": "⚖️",
+   "title": {
+    "en": "Ethics and Etiquette",
+    "ms": "Etika dan Etiket"
+   },
+   "ref": "Slides 21–22",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Challenges",
+     "ms": "Cabaran"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Legal compliance",
+      "Impact of the message on the recipient",
+      "Managing emotions of sender and recipient",
+      "Appropriately timing the message"
+     ],
+     "ms": [
+      "Pematuhan undang-undang",
+      "Kesan mesej kepada penerima",
+      "Mengurus emosi penghantar dan penerima",
+      "Menetapkan masa mesej dengan sesuai"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Effectively sharing bad news",
+     "ms": "Berkongsi berita buruk dengan berkesan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Employees, managers and whistleblowers",
+      "Open communication",
+      "Internal and external reporting mechanisms",
+      "Timely communication",
+      "Active listening",
+      "Internal and external protection"
+     ],
+     "ms": [
+      "Pekerja, pengurus dan pemberi maklumat (whistleblower)",
+      "Komunikasi terbuka",
+      "Mekanisme pelaporan dalaman dan luaran",
+      "Komunikasi tepat pada masa",
+      "Mendengar aktif",
+      "Perlindungan dalaman dan luaran"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "routine",
+   "icon": "📬",
+   "title": {
+    "en": "Routine Negative Messages",
+    "ms": "Mesej Negatif Rutin"
+   },
+   "ref": "Slides 24–28",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Situation",
+       "Strategy"
+      ],
+      "ms": [
+       "Situasi",
+       "Strategi"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Routine announcements",
+        "Open with a buffer; advance your reasoning; announce the change; close on a positive note"
+       ],
+       "ms": [
+        "Pengumuman rutin",
+        "Buka dengan buffer; kemukakan alasan; umumkan perubahan; tutup positif"
+       ]
+      },
+      {
+       "en": [
+        "Rejecting suggestions and proposals",
+        "Choose approach by: solicited or unsolicited; internal or external source; your relationship with the sender"
+       ],
+       "ms": [
+        "Menolak cadangan",
+        "Pilih pendekatan mengikut: diminta atau tidak; sumber dalaman atau luaran; hubungan dengan penghantar"
+       ]
+      },
+      {
+       "en": [
+        "Refusing routine requests",
+        "Focus on the most important relationships and requests; don’t leave a closed matter open-ended; offer alternatives; only offer other assistance if available"
+       ],
+       "ms": [
+        "Menolak permintaan rutin",
+        "Fokus hubungan dan permintaan terpenting; jangan biar perkara tertutup terbuka; tawar alternatif; tawar bantuan lain hanya jika ada"
+       ]
+      },
+      {
+       "en": [
+        "Bad news about transactions",
+        "Three goals: modify the customer’s expectations; explain how you plan to resolve; repair damage to the relationship"
+       ],
+       "ms": [
+        "Berita buruk tentang transaksi",
+        "Tiga matlamat: ubah jangkaan pelanggan; terangkan cara menyelesaikan; pulihkan hubungan"
+       ]
+      },
+      {
+       "en": [
+        "Refusing claims and adjustments",
+        "DO: provide accurate information, consult legal advisers, communicate honestly, emphasise good future relationship. DON’T: use abusive language, allow anger or malice, use negative tone, use accusations"
+       ],
+       "ms": [
+        "Menolak tuntutan dan pelarasan",
+        "BUAT: maklumat tepat, rujuk penasihat undang-undang, jujur, tekankan hubungan masa depan. JANGAN: bahasa kesat, marah atau berniat jahat, nada negatif, tuduhan"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "org",
+   "icon": "🏢",
+   "title": {
+    "en": "Negative Organisational News",
+    "ms": "Berita Organisasi Negatif"
+   },
+   "ref": "Slides 30–33",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Under normal circumstances",
+     "ms": "Dalam keadaan biasa"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Match the approach to the situation",
+      "Consider the unique needs of each group",
+      "Give each audience time to react",
+      "Plan and manage a response",
+      "Look for positive angles",
+      "Seek expert advice"
+     ],
+     "ms": [
+      "Padankan pendekatan dengan situasi",
+      "Pertimbang keperluan unik setiap kumpulan",
+      "Beri masa setiap audiens bertindak balas",
+      "Rancang dan urus respons",
+      "Cari sudut positif",
+      "Dapatkan nasihat pakar"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Online rumours and negative information",
+     "ms": "Khabar angin dan maklumat negatif dalam talian"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Engage early, engage often",
+      "Monitor the conversation",
+      "Evaluate negative messages",
+      "Respond appropriately"
+     ],
+     "ms": [
+      "Libatkan diri awal dan kerap",
+      "Pantau perbualan",
+      "Nilai mesej negatif",
+      "Balas dengan sesuai"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Crisis communication",
+     "ms": "Komunikasi krisis"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Develop a crisis management plan",
+      "Define operational procedures",
+      "Outline communication tasks and responsibilities",
+      "List news and social media outlets for disseminating information"
+     ],
+     "ms": [
+      "Bangunkan pelan pengurusan krisis",
+      "Takrif prosedur operasi",
+      "Garis tugas dan tanggungjawab komunikasi",
+      "Senarai saluran berita dan media sosial"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "employ",
+   "icon": "👔",
+   "title": {
+    "en": "Negative Employment Messages",
+    "ms": "Mesej Negatif Pekerjaan"
+   },
+   "ref": "Slides 35–39",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Message",
+       "Key points"
+      ],
+      "ms": [
+       "Mesej",
+       "Poin utama"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Refusing employee reference requests",
+        "Employees: be concise, prepare carefully. Applicants: be direct, use tact and diplomacy (reading of slide 35)"
+       ],
+       "ms": [
+        "Menolak permintaan rujukan",
+        "Pekerja: ringkas, bersedia teliti. Pemohon: terus, tegas dan diplomasi (bacaan slaid 35)"
+       ]
+      },
+      {
+       "en": [
+        "Refusing social networking recommendation requests",
+        "Three options: ignore or delete; refrain from making any recommendations; respond to the request"
+       ],
+       "ms": [
+        "Menolak permintaan syor rangkaian sosial",
+        "Tiga pilihan: abaikan atau padam; elak memberi syor; balas permintaan"
+       ]
+      },
+      {
+       "en": [
+        "Rejecting job applications",
+        "Personalise with the name; open with appreciation; convey the news politely and concisely; avoid explanations; don’t imply later review; close with positive wishes"
+       ],
+       "ms": [
+        "Menolak permohonan kerja",
+        "Peribadikan dengan nama; buka dengan penghargaan; sampaikan berita sopan dan ringkas; elak penjelasan; jangan tersirat semakan kemudian; tutup dengan harapan baik"
+       ]
+      },
+      {
+       "en": [
+        "Negative performance reviews",
+        "Document performance problems; evaluate all employees consistently; write calmly and objectively; focus on opportunities for improvement; keep job descriptions up to date"
+       ],
+       "ms": [
+        "Penilaian prestasi negatif",
+        "Dokumenkan masalah prestasi; nilai semua pekerja konsisten; tulis tenang dan objektif; fokus peluang penambahbaikan; kemas kini deskripsi kerja"
+       ]
+      },
+      {
+       "en": [
+        "Terminating employment",
+        "Present reasons clearly and neutrally; follow company policy and laws; avoid personal attacks; have a colleague review the letter; deliver in person"
+       ],
+       "ms": [
+        "Menamatkan pekerjaan",
+        "Reka sebab jelas dan neutral; ikut dasar dan undang-undang; elak serangan peribadi; rakan semak surat; sampaikan secara peribadi"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 35’s Employees/Applicants columns are not clearly paired with the four tips, so that row is my reading.",
+     "ms": "Lajur Employees/Applicants slaid 35 tidak dipadan jelas dengan empat tip, jadi baris itu ialah bacaan saya."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "process",
+   "q": {
+    "en": "Five goals of negative communication?",
+    "ms": "Lima matlamat komunikasi negatif?"
+   },
+   "a": {
+    "en": "Convey bad news, gain acceptance, maintain goodwill, maintain good image, reduce future correspondence.",
+    "ms": "Sampaikan berita buruk, dapat penerimaan, kekal muhibah, kekal imej, kurang surat-menyurat susulan."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "process",
+   "q": {
+    "en": "Planning a negative message: four tasks?",
+    "ms": "Merancang mesej negatif: empat tugas?"
+   },
+   "a": {
+    "en": "Consider audience and purpose, select medium, define main idea, choose approach.",
+    "ms": "Pertimbang audiens dan tujuan, pilih medium, tentukan idea utama, pilih pendekatan."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "process",
+   "q": {
+    "en": "Completing a negative message: four tasks?",
+    "ms": "Melengkapkan mesej negatif: empat tugas?"
+   },
+   "a": {
+    "en": "Revise, produce professional documents, proofread, deliver promptly.",
+    "ms": "Semak, hasilkan dokumen profesional, semak bukti, hantar segera."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "direct",
+   "q": {
+    "en": "How does the direct approach open?",
+    "ms": "Bagaimana pendekatan terus bermula?"
+   },
+   "a": {
+    "en": "With a clear statement of the bad news in a calm, professional tone.",
+    "ms": "Dengan pernyataan jelas berita buruk, nada tenang dan profesional."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "direct",
+   "q": {
+    "en": "Three rules for apologising?",
+    "ms": "Tiga peraturan memohon maaf?"
+   },
+   "a": {
+    "en": "Right person, only if sincere, quickly.",
+    "ms": "Orang betul, hanya jika ikhlas, cepat."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "direct",
+   "q": {
+    "en": "How to close a direct negative message?",
+    "ms": "Bagaimana menutup mesej negatif terus?"
+   },
+   "a": {
+    "en": "Consider alternatives, include positive statements, communicate how future mistakes will be avoided.",
+    "ms": "Pertimbang alternatif, pernyataan positif, nyatakan cara elak kesilapan."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "indirect",
+   "q": {
+    "en": "What is a buffer?",
+    "ms": "Apakah buffer?"
+   },
+   "a": {
+    "en": "An opening that is neutral, finds common ground, shows appreciation or understanding, relevant and sincere.",
+    "ms": "Pembukaan neutral, titik persamaan, penghargaan atau kefahaman, relevan dan ikhlas."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "indirect",
+   "q": {
+    "en": "Three ways to handle bad news carefully?",
+    "ms": "Tiga cara mengendali berita buruk?"
+   },
+   "a": {
+    "en": "De-emphasise it, use a conditional statement, tell what you did rather than what you didn’t.",
+    "ms": "Kurangkan penekanan, pernyataan bersyarat, nyatakan apa dibuat bukan yang tidak dibuat."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "indirect",
+   "q": {
+    "en": "Five ways to close an indirect negative message?",
+    "ms": "Lima cara menutup mesej negatif tidak terus?"
+   },
+   "a": {
+    "en": "Positive angle, avoid uncertain conclusion, manage future correspondence, express optimism, be sincere.",
+    "ms": "Sudut positif, elak kesimpulan tidak pasti, urus surat-menyurat, optimisme, ikhlas."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "ethics",
+   "q": {
+    "en": "Four challenges of sending/receiving negative messages?",
+    "ms": "Empat cabaran menghantar/menerima mesej negatif?"
+   },
+   "a": {
+    "en": "Legal compliance, impact on recipient, managing emotions, timing.",
+    "ms": "Pematuhan undang-undang, kesan kepada penerima, urus emosi, masa."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "ethics",
+   "q": {
+    "en": "Whistleblower support elements?",
+    "ms": "Elemen sokongan whistleblower?"
+   },
+   "a": {
+    "en": "Open communication, internal and external reporting, timely communication, active listening, protection.",
+    "ms": "Komunikasi terbuka, pelaporan dalaman dan luaran, tepat masa, mendengar aktif, perlindungan."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "routine",
+   "q": {
+    "en": "Four steps for routine negative announcements?",
+    "ms": "Empat langkah pengumuman negatif rutin?"
+   },
+   "a": {
+    "en": "Open with a buffer, advance reasoning, announce the change, close positively.",
+    "ms": "Buka dengan buffer, kemukakan alasan, umum perubahan, tutup positif."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "routine",
+   "q": {
+    "en": "Three factors in rejecting proposals?",
+    "ms": "Tiga faktor menolak cadangan?"
+   },
+   "a": {
+    "en": "Solicited or unsolicited; internal or external; relationship with the sender.",
+    "ms": "Diminta atau tidak; dalaman atau luaran; hubungan dengan penghantar."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "routine",
+   "q": {
+    "en": "Three goals for bad news about transactions?",
+    "ms": "Tiga matlamat berita buruk transaksi?"
+   },
+   "a": {
+    "en": "Modify customer expectations, explain how you will resolve, repair relationship.",
+    "ms": "Ubah jangkaan pelanggan, terangkan penyelesaian, pulihkan hubungan."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "routine",
+   "q": {
+    "en": "DOs and DON’Ts when refusing claims?",
+    "ms": "BUAT dan JANGAN semasa menolak tuntutan?"
+   },
+   "a": {
+    "en": "DO: accurate info, consult legal advisers, honesty, good future relationship. DON’T: abusive language, anger/malice, negative tone, accusations.",
+    "ms": "BUAT: maklumat tepat, penasihat undang-undang, jujur, hubungan masa depan. JANGAN: bahasa kesat, marah, nada negatif, tuduhan."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "org",
+   "q": {
+    "en": "Six points for normal negative organisational news?",
+    "ms": "Enam poin berita organisasi negatif biasa?"
+   },
+   "a": {
+    "en": "Match approach, needs of each group, time to react, plan response, positive angles, expert advice.",
+    "ms": "Padan pendekatan, keperluan kumpulan, masa bertindak balas, rancang respons, sudut positif, nasihat pakar."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "org",
+   "q": {
+    "en": "Four steps for responding to online rumours?",
+    "ms": "Empat langkah membalas khabar angin dalam talian?"
+   },
+   "a": {
+    "en": "Engage early and often, monitor, evaluate, respond appropriately.",
+    "ms": "Libat awal dan kerap, pantau, nilai, balas sesuai."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "org",
+   "q": {
+    "en": "Crisis management plan contents?",
+    "ms": "Kandungan pelan pengurusan krisis?"
+   },
+   "a": {
+    "en": "Operational procedures, communication tasks and responsibilities, list of news and social media outlets.",
+    "ms": "Prosedur operasi, tugas dan tanggungjawab komunikasi, senarai saluran berita dan media sosial."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "employ",
+   "q": {
+    "en": "Rejecting job applications: tips?",
+    "ms": "Menolak permohonan kerja: tip?"
+   },
+   "a": {
+    "en": "Personalise, open with appreciation, polite concise news, avoid explanations, don’t imply later review, positive wishes.",
+    "ms": "Peribadikan, buka penghargaan, berita sopan ringkas, elak penjelasan, jangan tersirat semakan, harapan baik."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "employ",
+   "q": {
+    "en": "Negative performance review tips?",
+    "ms": "Tip penilaian prestasi negatif?"
+   },
+   "a": {
+    "en": "Document problems, evaluate consistently, calm objective voice, focus on improvement, update job descriptions.",
+    "ms": "Dokumen masalah, nilai konsisten, suara tenang objektif, fokus penambahbaikan, kemas kini deskripsi kerja."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "employ",
+   "q": {
+    "en": "Terminating employment tips?",
+    "ms": "Tip menamatkan pekerjaan?"
+   },
+   "a": {
+    "en": "Clear neutral reasons, follow policy and law, no personal attacks, colleague review, deliver in person.",
+    "ms": "Sebab jelas neutral, ikut dasar dan undang-undang, tiada serangan, rakan semak, sampaikan peribadi."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "process",
+   "q": {
+    "en": "Which is a goal of negative communication?",
+    "ms": "Yang mana matlamat komunikasi negatif?"
+   },
+   "o": [
+    "Create more complaints",
+    "Maintain the audience’s goodwill",
+    "Hide the news",
+    "Increase correspondence"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 5.",
+    "ms": "Slaid 5."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "process",
+   "q": {
+    "en": "“Proofread carefully” belongs to:",
+    "ms": "“Proofread carefully” tergolong dalam:"
+   },
+   "o": [
+    "Analysing",
+    "Planning",
+    "Writing",
+    "Completing"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "process",
+   "q": {
+    "en": "“Choose positive words” belongs to:",
+    "ms": "“Choose positive words” tergolong dalam:"
+   },
+   "o": [
+    "Writing",
+    "Planning",
+    "Completing",
+    "Distributing"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "direct",
+   "q": {
+    "en": "In the direct approach the bad news is stated:",
+    "ms": "Dalam pendekatan terus berita buruk dinyatakan:"
+   },
+   "o": [
+    "In a footnote",
+    "At the end",
+    "At the beginning",
+    "Never"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 11.",
+    "ms": "Slaid 11."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "direct",
+   "q": {
+    "en": "Apologise only if it is:",
+    "ms": "Minta maaf hanya jika:"
+   },
+   "o": [
+    "Required by law only",
+    "Cheap",
+    "Sincere",
+    "Short"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "direct",
+   "q": {
+    "en": "Which closes a direct negative message?",
+    "ms": "Yang mana menutup mesej negatif terus?"
+   },
+   "o": [
+    "Consider alternatives",
+    "Blame the reader",
+    "Repeat the bad news",
+    "Threaten"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "indirect",
+   "q": {
+    "en": "A buffer is:",
+    "ms": "Buffer ialah:"
+   },
+   "o": [
+    "An apology only",
+    "The bad news",
+    "A threat",
+    "A neutral, sincere opening"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "indirect",
+   "q": {
+    "en": "To handle bad news carefully, you should:",
+    "ms": "Untuk mengendali berita buruk, anda patut:"
+   },
+   "o": [
+    "Highlight it in bold",
+    "De-emphasise it",
+    "Repeat it",
+    "Hide it entirely"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 17.",
+    "ms": "Slaid 17."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "indirect",
+   "q": {
+    "en": "Emphasise what you:",
+    "ms": "Tekankan apa yang anda:"
+   },
+   "o": [
+    "Didn’t do",
+    "DID",
+    "Cannot do",
+    "Won’t do"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 18.",
+    "ms": "Slaid 18."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "indirect",
+   "q": {
+    "en": "Which closes an indirect negative message well?",
+    "ms": "Yang mana menutup mesej tidak terus dengan baik?"
+   },
+   "o": [
+    "Apologise repeatedly",
+    "Uncertain conclusion",
+    "Invite more complaints",
+    "Express optimism sincerely"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 19.",
+    "ms": "Slaid 19."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "ethics",
+   "q": {
+    "en": "Which is a challenge of negative messages?",
+    "ms": "Yang mana cabaran mesej negatif?"
+   },
+   "o": [
+    "Appropriately timing the message",
+    "Free marketing",
+    "Easy tone",
+    "No legal issues"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 21.",
+    "ms": "Slaid 21."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "ethics",
+   "q": {
+    "en": "Whistleblowers need:",
+    "ms": "Whistleblower memerlukan:"
+   },
+   "o": [
+    "Public exposure",
+    "No protection",
+    "Internal and external protection",
+    "Silence"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 22.",
+    "ms": "Slaid 22."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "routine",
+   "q": {
+    "en": "Rejecting a proposal depends on whether it is:",
+    "ms": "Menolak cadangan bergantung pada sama ada ia:"
+   },
+   "o": [
+    "Red or blue",
+    "Long or short",
+    "Solicited or unsolicited",
+    "Early or late"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 25.",
+    "ms": "Slaid 25."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "routine",
+   "q": {
+    "en": "When refusing routine requests you should:",
+    "ms": "Semasa menolak permintaan rutin anda patut:"
+   },
+   "o": [
+    "Offer alternatives",
+    "Leave matters open-ended",
+    "Blame the sender",
+    "Delay"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 26.",
+    "ms": "Slaid 26."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "routine",
+   "q": {
+    "en": "Which is a DON’T when refusing claims?",
+    "ms": "Yang mana JANGAN semasa menolak tuntutan?"
+   },
+   "o": [
+    "Consult legal advisers",
+    "Communicate honestly",
+    "Provide accurate information",
+    "Use accusations"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 28.",
+    "ms": "Slaid 28."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "routine",
+   "q": {
+    "en": "A goal for bad news about transactions is to:",
+    "ms": "Matlamat berita buruk transaksi ialah:"
+   },
+   "o": [
+    "End the relationship",
+    "Repair damage to the business relationship",
+    "Hide details",
+    "Raise price"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 27.",
+    "ms": "Slaid 27."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "org",
+   "q": {
+    "en": "Under normal circumstances for organisational news, you should:",
+    "ms": "Dalam keadaan biasa untuk berita organisasi, anda patut:"
+   },
+   "o": [
+    "Surprise everyone",
+    "Give each audience time to react",
+    "Avoid advice",
+    "Skip planning"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 30.",
+    "ms": "Slaid 30."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "org",
+   "q": {
+    "en": "Responding to online rumours: engage:",
+    "ms": "Membalas khabar angin dalam talian: libat:"
+   },
+   "o": [
+    "Once",
+    "Late",
+    "Never",
+    "Early and often"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 32.",
+    "ms": "Slaid 32."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "org",
+   "q": {
+    "en": "A crisis plan should include:",
+    "ms": "Pelan krisis patut termasuk:"
+   },
+   "o": [
+    "Communication tasks and responsibilities",
+    "Only press releases",
+    "Nothing",
+    "Social posts only"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 33.",
+    "ms": "Slaid 33."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "employ",
+   "q": {
+    "en": "In rejecting job applications you should avoid:",
+    "ms": "Dalam menolak permohonan kerja anda patut elak:"
+   },
+   "o": [
+    "Politeness",
+    "Appreciation",
+    "Explanations",
+    "Personalisation"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 37.",
+    "ms": "Slaid 37."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "employ",
+   "q": {
+    "en": "In negative performance reviews you should:",
+    "ms": "Dalam penilaian prestasi negatif anda patut:"
+   },
+   "o": [
+    "Attack personally",
+    "Rely on memory",
+    "Document performance problems",
+    "Be inconsistent"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 38.",
+    "ms": "Slaid 38."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "employ",
+   "q": {
+    "en": "Termination letters should be:",
+    "ms": "Surat penamatan patut:"
+   },
+   "o": [
+    "Delivered in person",
+    "Posted anonymously",
+    "Left on a desk",
+    "Sent by social media"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 39.",
+    "ms": "Slaid 39."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "employ",
+   "q": {
+    "en": "Options for social networking recommendation requests include:",
+    "ms": "Pilihan permintaan syor rangkaian sosial termasuk:"
+   },
+   "o": [
+    "Tag everyone",
+    "Publicly shame",
+    "Always agree",
+    "Ignore or delete the request"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 36.",
+    "ms": "Slaid 36."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "process",
+   "marks": 8,
+   "q": {
+    "en": "Apply the three-step process to negative messages and state the five goals.",
+    "ms": "Gunakan proses tiga langkah untuk mesej negatif dan nyatakan lima matlamat."
+   },
+   "pts": {
+    "en": [
+     "Five goals (2)",
+     "Plan: audience, medium, main idea, approach (2)",
+     "Write: clear, sensitive, positive words (2)",
+     "Complete: revise, produce, proofread, deliver promptly (2)"
+    ],
+    "ms": [
+     "Lima matlamat (2)",
+     "Rancang: audiens, medium, idea utama, pendekatan (2)",
+     "Tulis: jelas, peka, perkataan positif (2)",
+     "Lengkapkan: semak, hasil, semak bukti, hantar segera (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "direct",
+   "marks": 6,
+   "q": {
+    "en": "Explain how to use the direct approach for negative news.",
+    "ms": "Terangkan cara menggunakan pendekatan terus untuk berita negatif."
+   },
+   "pts": {
+    "en": [
+     "Opening with clear bad news (2)",
+     "Reasons and apology decisions (2)",
+     "Respectful close (2)"
+    ],
+    "ms": [
+     "Pembukaan dengan berita buruk jelas (2)",
+     "Sebab dan keputusan memohon maaf (2)",
+     "Penutup hormat (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "indirect",
+   "marks": 8,
+   "q": {
+    "en": "Explain how to use the indirect approach for negative news.",
+    "ms": "Terangkan cara menggunakan pendekatan tidak terus untuk berita negatif."
+   },
+   "pts": {
+    "en": [
+     "Buffer elements (3)",
+     "Handling the bad news (3)",
+     "Respectful close (2)"
+    ],
+    "ms": [
+     "Elemen buffer (3)",
+     "Mengendali berita buruk (3)",
+     "Penutup hormat (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "routine",
+   "marks": 8,
+   "q": {
+    "en": "Describe strategies for routine negative messages.",
+    "ms": "Huraikan strategi mesej negatif rutin."
+   },
+   "pts": {
+    "en": [
+     "Announcements (2)",
+     "Rejecting proposals (2)",
+     "Refusing requests and transaction news (2)",
+     "Refusing claims: DOs and DON’Ts (2)"
+    ],
+    "ms": [
+     "Pengumuman (2)",
+     "Menolak cadangan (2)",
+     "Menolak permintaan dan berita transaksi (2)",
+     "Menolak tuntutan: BUAT dan JANGAN (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "employ",
+   "marks": 8,
+   "q": {
+    "en": "Describe strategies for negative employment-related messages.",
+    "ms": "Huraikan strategi mesej negatif berkaitan pekerjaan."
+   },
+   "pts": {
+    "en": [
+     "Rejecting job applications (2)",
+     "Performance reviews (2)",
+     "Terminating employment (2)",
+     "Reference and recommendation requests (2)"
+    ],
+    "ms": [
+     "Menolak permohonan kerja (2)",
+     "Penilaian prestasi (2)",
+     "Menamatkan pekerjaan (2)",
+     "Permintaan rujukan dan syor (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Negative message",
+   "Mesej negatif"
+  ],
+  [
+   "Buffer",
+   "Buffer (penampan)"
+  ],
+  [
+   "Direct approach",
+   "Pendekatan terus"
+  ],
+  [
+   "Indirect approach",
+   "Pendekatan tidak terus"
+  ],
+  [
+   "Conditional statement",
+   "Pernyataan bersyarat"
+  ],
+  [
+   "Whistleblower",
+   "Pemberi maklumat (whistleblower)"
+  ],
+  [
+   "Crisis management plan",
+   "Pelan pengurusan krisis"
+  ],
+  [
+   "Apology",
+   "Permohonan maaf"
+  ],
+  [
+   "Goodwill",
+   "Muhibah"
+  ],
+  [
+   "Termination",
+   "Penamatan"
+  ],
+  [
+   "Performance review",
+   "Penilaian prestasi"
+  ],
+  [
+   "Rumour",
+   "Khabar angin"
+  ]
+ ]
+}

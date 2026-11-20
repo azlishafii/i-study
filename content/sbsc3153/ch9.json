@@ -1,0 +1,1305 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch9",
+ "num": 9,
+ "title": {
+  "en": "Visual Media",
+  "ms": "Media Visual"
+ },
+ "standard": "Bovee Ch 9",
+ "outcomes": {
+  "en": [
+   "Explain the power of business images, six principles of graphic design, and how to avoid ethical lapses with visuals",
+   "Explain how to choose which points in your message to illustrate",
+   "Describe the most common options for presenting data visually",
+   "Describe the most common options for presenting information, concepts and ideas",
+   "Explain how to integrate visuals with text and three criteria for verifying quality",
+   "Identify considerations in preproduction, production and postproduction of basic business videos"
+  ],
+  "ms": [
+   "Terangkan kuasa imej perniagaan, enam prinsip reka bentuk grafik, dan cara mengelak kecuaian etika dengan visual",
+   "Terangkan cara memilih poin dalam mesej untuk diilustrasikan",
+   "Huraikan pilihan paling lazim membentang data secara visual",
+   "Huraikan pilihan paling lazim membentang maklumat, konsep dan idea",
+   "Terangkan cara mengintegrasikan visual dengan teks dan tiga kriteria mengesahkan kualiti",
+   "Kenal pasti pertimbangan praproduksi, produksi dan pascaproduksi video perniagaan asas"
+  ]
+ },
+ "sections": [
+  {
+   "id": "power",
+   "icon": "🖼️",
+   "title": {
+    "en": "Understanding Visual Communication",
+    "ms": "Memahami Komunikasi Visual"
+   },
+   "ref": "Slides 4–10",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "The power of images",
+     "ms": "Kuasa imej"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Enhance textual messages",
+      "More effectively convey certain points",
+      "Visually present numeric quantities",
+      "Attract and hold the audience’s attention",
+      "Better communicate to diverse audiences",
+      "Convey connotative meaning"
+     ],
+     "ms": [
+      "Memperkukuh mesej teks",
+      "Menyampaikan poin tertentu dengan lebih berkesan",
+      "Membentang kuantiti angka secara visual",
+      "Menarik dan mengekalkan perhatian",
+      "Berkomunikasi lebih baik dengan audiens pelbagai",
+      "Menyampaikan makna konotatif"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Visual evolution in business",
+     "ms": "Evolusi visual dalam perniagaan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Audience expectations are changing",
+      "Better and cheaper equipment",
+      "Technological advances",
+      "Visual literacy"
+     ],
+     "ms": [
+      "Jangkaan audiens berubah",
+      "Peralatan lebih baik dan murah",
+      "Kemajuan teknologi",
+      "Literasi visual"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Six design principles",
+     "ms": "Enam prinsip reka bentuk"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Consistency",
+      "Contrast",
+      "Balance",
+      "Emphasis",
+      "Convention",
+      "Simplicity"
+     ],
+     "ms": [
+      "Konsistensi",
+      "Kontras",
+      "Keseimbangan",
+      "Penekanan",
+      "Konvensyen",
+      "Kesederhanaan"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: C-C-B-E-C-S.",
+     "ms": "Cara ingat: C-C-B-E-C-S."
+    },
+    {
+     "k": "h",
+     "en": "Ethics of visual communication (8)",
+     "ms": "Etika komunikasi visual (8)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Consider all possible interpretations",
+      "Provide context",
+      "Don’t hide or minimise negative information",
+      "Don’t exaggerate information that supports your argument",
+      "Don’t oversimplify complex situations",
+      "Don’t imply cause-and-effect relationships",
+      "Avoid emotional manipulation",
+      "Be careful with methods of aggregating data"
+     ],
+     "ms": [
+      "Pertimbang semua tafsiran",
+      "Beri konteks",
+      "Jangan sembunyi atau kecilkan maklumat negatif",
+      "Jangan lebihkan maklumat yang menyokong hujah",
+      "Jangan permudah situasi kompleks",
+      "Jangan tersirat hubungan sebab-akibat",
+      "Elak manipulasi emosi",
+      "Berhati-hati dengan kaedah mengagregat data"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 6 (Visual Symbolism) is an image with no text.",
+     "ms": "Slaid 6 (Visual Symbolism) ialah imej tanpa teks."
+    }
+   ]
+  },
+  {
+   "id": "points",
+   "icon": "🎯",
+   "title": {
+    "en": "Choosing Points to Illustrate",
+    "ms": "Memilih Poin untuk Diilustrasikan"
+   },
+   "ref": "Slide 12",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Think of the **5 Cs**: a visual should be **clear, complete, concise, connected and compelling**.",
+     "ms": "Fikir **5 C**: visual patut **jelas (clear), lengkap (complete), ringkas (concise), bersambung (connected) dan meyakinkan (compelling)**."
+    }
+   ]
+  },
+  {
+   "id": "data",
+   "icon": "📈",
+   "title": {
+    "en": "Visuals for Presenting Data",
+    "ms": "Visual untuk Membentang Data"
+   },
+   "ref": "Slides 13–30",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Tables: guidelines",
+     "ms": "Jadual: garis panduan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Use common, understandable units",
+      "Use uniform units",
+      "Label column headings",
+      "Separate columns and rows with lines or extra space",
+      "Provide totals or averages",
+      "Document data sources"
+     ],
+     "ms": [
+      "Guna unit biasa dan mudah difahami",
+      "Guna unit seragam",
+      "Label tajuk lajur",
+      "Pisahkan lajur dan baris dengan garisan atau ruang",
+      "Beri jumlah atau purata",
+      "Dokumenkan sumber data"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Chart",
+       "Use"
+      ],
+      "ms": [
+       "Carta",
+       "Kegunaan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Line chart",
+        "Trends over time; relationship of two or more variables; compare two or more data sets"
+       ],
+       "ms": [
+        "Carta garis",
+        "Trend dari masa ke masa; hubungan dua atau lebih pemboleh ubah; bandingkan set data"
+       ]
+      },
+      {
+       "en": [
+        "Surface chart",
+        "Shows a cumulative effect"
+       ],
+       "ms": [
+        "Carta permukaan",
+        "Menunjukkan kesan kumulatif"
+       ]
+      },
+      {
+       "en": [
+        "Bar charts, pictograms, Gantt charts",
+        "Compare sizes of several items; show changes in one item over time; composition of several items over time; relative sizes of components of a whole"
+       ],
+       "ms": [
+        "Carta bar, piktogram, Gantt",
+        "Bandingkan saiz beberapa item; perubahan satu item; komposisi beberapa item; saiz relatif komponen keseluruhan"
+       ]
+      },
+      {
+       "en": [
+        "Scatter diagram",
+        "Compare several entities; similar to line chart with x and y axes"
+       ],
+       "ms": [
+        "Gambar rajah serakan",
+        "Bandingkan beberapa entiti; serupa carta garis dengan paksi x dan y"
+       ]
+      },
+      {
+       "en": [
+        "Bubble diagram",
+        "Expands to three variables"
+       ],
+       "ms": [
+        "Gambar rajah gelembung",
+        "Berkembang kepada tiga pemboleh ubah"
+       ]
+      },
+      {
+       "en": [
+        "Pie chart",
+        "Shows how parts of a whole are distributed; highlight dominant parts; label each slice"
+       ],
+       "ms": [
+        "Carta pai",
+        "Tunjuk pengagihan bahagian keseluruhan; serlah bahagian dominan; label setiap hirisan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Data visualisation",
+     "ms": "Visualisasi data"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Extracting meaning from masses of data",
+      "Putting data into context",
+      "Working with big data",
+      "Communicating dynamic data"
+     ],
+     "ms": [
+      "Mengekstrak makna daripada data banyak",
+      "Meletakkan data dalam konteks",
+      "Bekerja dengan data besar",
+      "Menyampaikan data dinamik"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 13 repeats LO 9.2 text instead of LO 9.3. Slides 14, 17–18, 20–25, 27, 29 are figures without text.",
+     "ms": "Slaid 13 mengulang teks LO 9.2 dan bukan LO 9.3. Slaid 14, 17–18, 20–25, 27, 29 ialah rajah tanpa teks."
+    }
+   ]
+  },
+  {
+   "id": "concept",
+   "icon": "🗺️",
+   "title": {
+    "en": "Visuals for Information and Ideas",
+    "ms": "Visual untuk Maklumat dan Idea"
+   },
+   "ref": "Slides 31–35",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Flowchart** (Figure 9.11)",
+      "**Maps**: geographic areas, spatial relationships, locations, market territories, distances, distribution routes, points of interest, facilities, distribution of data; Geographic Information Systems (GIS)",
+      "**Illustrations, diagrams and photographs**: consider whether a diagram or photo is more effective; learn basic image-processing; ensure photos have communication value; be aware of copyrights and model permissions",
+      "**Infographics**: convey both data and concepts; independent, standalone documents; stylised charts or graphs; structured narrative"
+     ],
+     "ms": [
+      "**Carta alir** (Rajah 9.11)",
+      "**Peta**: kawasan geografi, hubungan ruang, lokasi, wilayah pasaran, jarak, laluan pengedaran, tempat menarik, kemudahan, taburan data; Sistem Maklumat Geografi (GIS)",
+      "**Ilustrasi, rajah dan gambar**: pertimbang rajah atau gambar lebih berkesan; belajar pemprosesan imej asas; pastikan gambar bernilai komunikasi; sedar hak cipta dan kebenaran model",
+      "**Infografik**: sampaikan data dan konsep; dokumen berdiri sendiri; carta atau graf bergaya; naratif berstruktur"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "integrate",
+   "icon": "🧩",
+   "title": {
+    "en": "Producing and Integrating Visuals",
+    "ms": "Menghasilkan dan Mengintegrasikan Visual"
+   },
+   "ref": "Slides 37–42",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Creating visuals",
+     "ms": "Mencipta visual"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Follow basic design principles",
+      "Maximise software features and functions",
+      "Use templates",
+      "Create uniform style and quality"
+     ],
+     "ms": [
+      "Ikut prinsip reka bentuk asas",
+      "Maksimumkan ciri perisian",
+      "Guna templat",
+      "Cipta gaya dan kualiti seragam"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Four decisions for integrating visuals with text",
+     "ms": "Empat keputusan mengintegrasikan visual dengan teks"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Maintaining balance between illustrations and words",
+      "Referring to visuals in the text",
+      "Placing visuals in a document",
+      "Writing titles, captions and legends"
+     ],
+     "ms": [
+      "Mengekalkan keseimbangan antara ilustrasi dan perkataan",
+      "Merujuk visual dalam teks",
+      "Meletakkan visual dalam dokumen",
+      "Menulis tajuk, kapsyen dan legenda"
+     ]
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Balance: avoid disrupting text flow with too many visuals; be aware of readers’ needs and backgrounds",
+      "Referencing: assign a reference number (table, exhibit, figure), use consistent numbering, emphasise the main point, refer in a summary manner",
+      "Placing: minimise back and forth; avoid bunching visuals; use software flexibility",
+      "Titles identify content and purpose; captions give extra detail; legends help complex graphics"
+     ],
+     "ms": [
+      "Keseimbangan: elak ganggu aliran teks dengan terlalu banyak visual; sedar keperluan dan latar pembaca",
+      "Rujukan: tetapkan nombor rujukan (jadual, pameran, rajah), nombor konsisten, tekankan poin utama, rujuk secara ringkas",
+      "Penempatan: kurangkan ulang-alik; elak menggumpal visual; guna fleksibiliti perisian",
+      "Tajuk kenal pasti kandungan dan tujuan; kapsyen beri butiran; legenda bantu grafik kompleks"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Verifying quality (3 criteria)",
+     "ms": "Mengesahkan kualiti (3 kriteria)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Is the visual accurate?",
+      "Is it properly documented?",
+      "Is it honest?"
+     ],
+     "ms": [
+      "Adakah tepat?",
+      "Adakah didokumenkan dengan betul?",
+      "Adakah jujur?"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Visual media on mobile",
+     "ms": "Media visual pada mudah alih"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Consider constraints of small screens",
+      "Plan carefully",
+      "Use display tools",
+      "Pay attention to audience needs",
+      "Be aware of viewing circumstances"
+     ],
+     "ms": [
+      "Pertimbang kekangan skrin kecil",
+      "Rancang teliti",
+      "Guna alat paparan",
+      "Beri perhatian keperluan audiens",
+      "Sedar keadaan menonton"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "video",
+   "icon": "🎬",
+   "title": {
+    "en": "Producing Videos",
+    "ms": "Menghasilkan Video"
+   },
+   "ref": "Slides 43–48",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Stage",
+       "Tasks"
+      ],
+      "ms": [
+       "Peringkat",
+       "Tugas"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1 Preproduction",
+        "Purpose and scope; scene composition; camera placement; lighting; sound; shot list; B-roll material"
+       ],
+       "ms": [
+        "1 Praproduksi",
+        "Tujuan dan skop; komposisi babak; kedudukan kamera; pencahayaan; bunyi; senarai syot; bahan B-roll"
+       ]
+      },
+      {
+       "en": [
+        "2 Production",
+        "Frame each shot carefully; keep the camera still; take B-roll footage; don’t use camera special effects"
+       ],
+       "ms": [
+        "2 Produksi",
+        "Bingkai setiap syot; kamera stabil; rakam B-roll; jangan guna kesan khas kamera"
+       ]
+      },
+      {
+       "en": [
+        "3 Postproduction",
+        "Transfer footage; evaluate material; cut and paste sections; weave in B-roll; add transitions; synchronise main audio; add an intro; add text titles; create a distributable file"
+       ],
+       "ms": [
+        "3 Pascaproduksi",
+        "Pindah rakaman; nilai bahan; potong dan tampal bahagian; sisip B-roll; tambah peralihan; segerakkan audio utama; tambah intro; tambah tajuk teks; cipta fail boleh diedar"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "power",
+   "q": {
+    "en": "Six benefits of images?",
+    "ms": "Enam manfaat imej?"
+   },
+   "a": {
+    "en": "Enhance text, convey points effectively, present numbers visually, hold attention, reach diverse audiences, convey connotative meaning.",
+    "ms": "Perkukuh teks, sampaikan poin, bentang angka, kekal perhatian, audiens pelbagai, makna konotatif."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "power",
+   "q": {
+    "en": "Six principles of graphic design?",
+    "ms": "Enam prinsip reka bentuk grafik?"
+   },
+   "a": {
+    "en": "Consistency, contrast, balance, emphasis, convention, simplicity.",
+    "ms": "Konsistensi, kontras, keseimbangan, penekanan, konvensyen, kesederhanaan."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "power",
+   "q": {
+    "en": "Name four ethics rules for visuals.",
+    "ms": "Namakan empat peraturan etika visual."
+   },
+   "a": {
+    "en": "Consider interpretations, provide context, don’t hide negatives, don’t exaggerate, don’t oversimplify, no false cause-effect, avoid manipulation, careful aggregation.",
+    "ms": "Pertimbang tafsiran, beri konteks, jangan sembunyi negatif, jangan lebihkan, jangan permudah, elak sebab-akibat palsu, elak manipulasi."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "points",
+   "q": {
+    "en": "What are the 5 Cs?",
+    "ms": "Apakah 5 C?"
+   },
+   "a": {
+    "en": "Clear, complete, concise, connected, compelling.",
+    "ms": "Clear, complete, concise, connected, compelling."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "data",
+   "q": {
+    "en": "Six table guidelines?",
+    "ms": "Enam garis panduan jadual?"
+   },
+   "a": {
+    "en": "Common units, uniform units, labelled headings, separated rows/columns, totals/averages, document sources.",
+    "ms": "Unit biasa, seragam, tajuk berlabel, asingkan, jumlah/purata, dokumen sumber."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "data",
+   "q": {
+    "en": "Line chart uses?",
+    "ms": "Kegunaan carta garis?"
+   },
+   "a": {
+    "en": "Trends over time, relationship of variables, compare data sets.",
+    "ms": "Trend, hubungan pemboleh ubah, bandingkan set data."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "data",
+   "q": {
+    "en": "What does a surface chart show?",
+    "ms": "Apa ditunjukkan carta permukaan?"
+   },
+   "a": {
+    "en": "A cumulative effect.",
+    "ms": "Kesan kumulatif."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "data",
+   "q": {
+    "en": "Bar chart uses?",
+    "ms": "Kegunaan carta bar?"
+   },
+   "a": {
+    "en": "Compare sizes, show changes over time, composition over time, relative sizes of parts.",
+    "ms": "Bandingkan saiz, perubahan, komposisi, saiz relatif bahagian."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "data",
+   "q": {
+    "en": "Scatter vs bubble diagram?",
+    "ms": "Serakan lwn gelembung?"
+   },
+   "a": {
+    "en": "Scatter compares entities with x and y axes; bubble expands to three variables.",
+    "ms": "Serakan bandingkan entiti dengan paksi x dan y; gelembung kepada tiga pemboleh ubah."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "data",
+   "q": {
+    "en": "Pie chart uses?",
+    "ms": "Kegunaan carta pai?"
+   },
+   "a": {
+    "en": "Show distribution of parts of a whole, highlight dominant parts, label slices.",
+    "ms": "Tunjuk pengagihan bahagian, serlah bahagian dominan, label hirisan."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "data",
+   "q": {
+    "en": "Four data visualisation themes?",
+    "ms": "Empat tema visualisasi data?"
+   },
+   "a": {
+    "en": "Extract meaning from masses of data, context, big data, dynamic data.",
+    "ms": "Ekstrak makna, konteks, data besar, data dinamik."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "concept",
+   "q": {
+    "en": "Four uses of maps?",
+    "ms": "Empat kegunaan peta?"
+   },
+   "a": {
+    "en": "Locations, market territories, distances, distribution routes (also spatial relationships, facilities, data distribution).",
+    "ms": "Lokasi, wilayah pasaran, jarak, laluan pengedaran."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "concept",
+   "q": {
+    "en": "What are infographics?",
+    "ms": "Apakah infografik?"
+   },
+   "a": {
+    "en": "Standalone documents with stylised charts and structured narrative conveying data and concepts.",
+    "ms": "Dokumen berdiri sendiri dengan carta bergaya dan naratif berstruktur."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "concept",
+   "q": {
+    "en": "Photograph cautions?",
+    "ms": "Peringatan gambar?"
+   },
+   "a": {
+    "en": "Ensure communication value; be aware of copyrights and model permissions.",
+    "ms": "Pastikan nilai komunikasi; sedar hak cipta dan kebenaran model."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "integrate",
+   "q": {
+    "en": "Four decisions of integrating visuals?",
+    "ms": "Empat keputusan integrasi visual?"
+   },
+   "a": {
+    "en": "Balance, referring in text, placement, titles/captions/legends.",
+    "ms": "Keseimbangan, rujuk dalam teks, penempatan, tajuk/kapsyen/legenda."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "integrate",
+   "q": {
+    "en": "Three criteria to verify visual quality?",
+    "ms": "Tiga kriteria kualiti visual?"
+   },
+   "a": {
+    "en": "Accurate, properly documented, honest.",
+    "ms": "Tepat, didokumenkan, jujur."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "integrate",
+   "q": {
+    "en": "Tips for visuals on mobile?",
+    "ms": "Tip visual pada mudah alih?"
+   },
+   "a": {
+    "en": "Small-screen constraints, plan carefully, display tools, audience needs, viewing circumstances.",
+    "ms": "Skrin kecil, rancang, alat paparan, keperluan audiens, keadaan menonton."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "video",
+   "q": {
+    "en": "Seven preproduction items?",
+    "ms": "Tujuh item praproduksi?"
+   },
+   "a": {
+    "en": "Purpose and scope, scene composition, camera placement, lighting, sound, shot list, B-roll.",
+    "ms": "Tujuan dan skop, komposisi babak, kamera, pencahayaan, bunyi, senarai syot, B-roll."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "video",
+   "q": {
+    "en": "Four production tips?",
+    "ms": "Empat tip produksi?"
+   },
+   "a": {
+    "en": "Frame carefully, keep camera still, take B-roll, don’t use special effects.",
+    "ms": "Bingkai teliti, kamera stabil, B-roll, tiada kesan khas."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "video",
+   "q": {
+    "en": "Postproduction tasks?",
+    "ms": "Tugas pascaproduksi?"
+   },
+   "a": {
+    "en": "Transfer, evaluate, cut and paste, B-roll, transitions, sync audio, intro, titles, distributable file.",
+    "ms": "Pindah, nilai, potong-tampal, B-roll, peralihan, segerak audio, intro, tajuk, fail boleh diedar."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "power",
+   "q": {
+    "en": "Which is a design principle?",
+    "ms": "Yang mana prinsip reka bentuk?"
+   },
+   "o": [
+    "Clutter",
+    "Contrast",
+    "Randomness",
+    "Length"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "power",
+   "q": {
+    "en": "How many design principles are listed?",
+    "ms": "Berapa prinsip reka bentuk disenaraikan?"
+   },
+   "o": [
+    "Four",
+    "Six",
+    "Eight",
+    "Ten"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "power",
+   "q": {
+    "en": "Which is an ethical lapse in visuals?",
+    "ms": "Yang mana kecuaian etika visual?"
+   },
+   "o": [
+    "Documenting sources",
+    "Providing context",
+    "Considering interpretations",
+    "Hiding negative information"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "power",
+   "q": {
+    "en": "“Don’t imply cause-and-effect relationships” is about:",
+    "ms": "“Jangan tersirat hubungan sebab-akibat” tentang:"
+   },
+   "o": [
+    "Visual ethics",
+    "Video lighting",
+    "Tables",
+    "Maps"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 10.",
+    "ms": "Slaid 10."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "points",
+   "q": {
+    "en": "Which is NOT one of the 5 Cs?",
+    "ms": "Yang mana BUKAN 5 C?"
+   },
+   "o": [
+    "Concise",
+    "Clear",
+    "Costly",
+    "Compelling"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Clear, complete, concise, connected, compelling.",
+    "ms": "Clear, complete, concise, connected, compelling."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "data",
+   "q": {
+    "en": "A table guideline is to:",
+    "ms": "Garis panduan jadual ialah:"
+   },
+   "o": [
+    "Mix units",
+    "Hide units",
+    "Document data sources",
+    "Skip headings"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "data",
+   "q": {
+    "en": "Trends over time are best shown by a:",
+    "ms": "Trend dari masa ke masa terbaik ditunjuk oleh:"
+   },
+   "o": [
+    "Line chart",
+    "Map",
+    "Flowchart",
+    "Photograph"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "data",
+   "q": {
+    "en": "A cumulative effect is shown by a:",
+    "ms": "Kesan kumulatif ditunjuk oleh:"
+   },
+   "o": [
+    "Map",
+    "Pie chart",
+    "Bubble diagram",
+    "Surface chart"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "data",
+   "q": {
+    "en": "A bubble diagram expands to ___ variables.",
+    "ms": "Gambar rajah gelembung berkembang kepada ___ pemboleh ubah."
+   },
+   "o": [
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 26.",
+    "ms": "Slaid 26."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "data",
+   "q": {
+    "en": "Parts of a whole are best shown by a:",
+    "ms": "Bahagian keseluruhan terbaik ditunjuk oleh:"
+   },
+   "o": [
+    "Line chart",
+    "Pie chart",
+    "Scatter diagram",
+    "Map"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 28.",
+    "ms": "Slaid 28."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "concept",
+   "q": {
+    "en": "Geographic Information Systems relate to:",
+    "ms": "Sistem Maklumat Geografi berkait dengan:"
+   },
+   "o": [
+    "Videos",
+    "Tables",
+    "Pie charts",
+    "Maps"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 33.",
+    "ms": "Slaid 33."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "concept",
+   "q": {
+    "en": "Infographics are:",
+    "ms": "Infografik ialah:"
+   },
+   "o": [
+    "Standalone documents with structured narrative",
+    "Only text",
+    "Only photos",
+    "Only tables"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 35.",
+    "ms": "Slaid 35."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "concept",
+   "q": {
+    "en": "Photographs require awareness of:",
+    "ms": "Gambar memerlukan kesedaran tentang:"
+   },
+   "o": [
+    "Only size",
+    "Only colour",
+    "Copyrights and model permissions",
+    "Only price"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 34.",
+    "ms": "Slaid 34."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "integrate",
+   "q": {
+    "en": "Which is a visual-quality criterion?",
+    "ms": "Yang mana kriteria kualiti visual?"
+   },
+   "o": [
+    "Is it large?",
+    "Is it expensive?",
+    "Is it honest?",
+    "Is it colourful?"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 41.",
+    "ms": "Slaid 41."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "integrate",
+   "q": {
+    "en": "Titles of visuals:",
+    "ms": "Tajuk visual:"
+   },
+   "o": [
+    "Identify content and purpose",
+    "Replace the visual",
+    "Hide data",
+    "Add decoration"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 40.",
+    "ms": "Slaid 40."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "integrate",
+   "q": {
+    "en": "Referencing visuals requires:",
+    "ms": "Merujuk visual memerlukan:"
+   },
+   "o": [
+    "Colour codes",
+    "Random numbering",
+    "No numbering",
+    "Consistent numbering"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 39.",
+    "ms": "Slaid 39."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "integrate",
+   "q": {
+    "en": "Legends help:",
+    "ms": "Legenda membantu:"
+   },
+   "o": [
+    "Titles",
+    "Complex graphics",
+    "Text only",
+    "Photos only"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 40.",
+    "ms": "Slaid 40."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "video",
+   "q": {
+    "en": "B-roll is:",
+    "ms": "B-roll ialah:"
+   },
+   "o": [
+    "The main speech",
+    "Supplementary footage",
+    "A title",
+    "A transition effect"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slides 45–47 mention B-roll material (standard meaning).",
+    "ms": "Slaid 45–47 sebut B-roll (maksud standard)."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "video",
+   "q": {
+    "en": "During production you should:",
+    "ms": "Semasa produksi anda patut:"
+   },
+   "o": [
+    "Skip framing",
+    "Use special effects",
+    "Move constantly",
+    "Keep the camera still"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 46.",
+    "ms": "Slaid 46."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "video",
+   "q": {
+    "en": "Which is a postproduction task?",
+    "ms": "Yang mana tugas pascaproduksi?"
+   },
+   "o": [
+    "Add transitions",
+    "Choose lighting",
+    "Plan shot list",
+    "Place camera"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 47.",
+    "ms": "Slaid 47."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "video",
+   "q": {
+    "en": "A shot list is part of:",
+    "ms": "Senarai syot ialah sebahagian:"
+   },
+   "o": [
+    "Postproduction",
+    "Production",
+    "Preproduction",
+    "Distribution"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 45.",
+    "ms": "Slaid 45."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "power",
+   "marks": 8,
+   "q": {
+    "en": "Explain the power of images, six design principles and ethical considerations for visuals.",
+    "ms": "Terangkan kuasa imej, enam prinsip reka bentuk dan pertimbangan etika visual."
+   },
+   "pts": {
+    "en": [
+     "Benefits of images (2)",
+     "Six design principles (3)",
+     "Ethical considerations (3)"
+    ],
+    "ms": [
+     "Manfaat imej (2)",
+     "Enam prinsip reka bentuk (3)",
+     "Pertimbangan etika (3)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "data",
+   "marks": 8,
+   "q": {
+    "en": "Describe the common options for presenting data visually.",
+    "ms": "Huraikan pilihan lazim membentang data secara visual."
+   },
+   "pts": {
+    "en": [
+     "Tables and guidelines (2)",
+     "Line and surface charts (2)",
+     "Bar charts and pictograms (1)",
+     "Scatter, bubble and pie charts (2)",
+     "Data visualisation (1)"
+    ],
+    "ms": [
+     "Jadual dan garis panduan (2)",
+     "Carta garis dan permukaan (2)",
+     "Carta bar dan piktogram (1)",
+     "Serakan, gelembung dan pai (2)",
+     "Visualisasi data (1)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "concept",
+   "marks": 6,
+   "q": {
+    "en": "Describe options for presenting information, concepts and ideas visually.",
+    "ms": "Huraikan pilihan membentang maklumat, konsep dan idea secara visual."
+   },
+   "pts": {
+    "en": [
+     "Flowcharts and maps (2)",
+     "Illustrations, diagrams and photographs (2)",
+     "Infographics (2)"
+    ],
+    "ms": [
+     "Carta alir dan peta (2)",
+     "Ilustrasi, rajah dan gambar (2)",
+     "Infografik (2)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "integrate",
+   "marks": 8,
+   "q": {
+    "en": "Explain how to integrate visuals with text and verify their quality.",
+    "ms": "Terangkan cara mengintegrasikan visual dengan teks dan mengesahkan kualitinya."
+   },
+   "pts": {
+    "en": [
+     "Create visuals (2)",
+     "Four integration decisions (3)",
+     "Three quality criteria (3)"
+    ],
+    "ms": [
+     "Cipta visual (2)",
+     "Empat keputusan integrasi (3)",
+     "Tiga kriteria kualiti (3)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "video",
+   "marks": 6,
+   "q": {
+    "en": "Outline the three stages of producing a business video.",
+    "ms": "Gariskan tiga peringkat menghasilkan video perniagaan."
+   },
+   "pts": {
+    "en": [
+     "Preproduction (2)",
+     "Production (2)",
+     "Postproduction (2)"
+    ],
+    "ms": [
+     "Praproduksi (2)",
+     "Produksi (2)",
+     "Pascaproduksi (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Visual literacy",
+   "Literasi visual"
+  ],
+  [
+   "Infographic",
+   "Infografik"
+  ],
+  [
+   "Line chart",
+   "Carta garis"
+  ],
+  [
+   "Surface chart",
+   "Carta permukaan"
+  ],
+  [
+   "Pie chart",
+   "Carta pai"
+  ],
+  [
+   "Scatter diagram",
+   "Gambar rajah serakan"
+  ],
+  [
+   "Bubble diagram",
+   "Gambar rajah gelembung"
+  ],
+  [
+   "Gantt chart",
+   "Carta Gantt"
+  ],
+  [
+   "Flowchart",
+   "Carta alir"
+  ],
+  [
+   "Legend",
+   "Legenda"
+  ],
+  [
+   "Caption",
+   "Kapsyen"
+  ],
+  [
+   "B-roll",
+   "B-roll (rakaman sokongan)"
+  ],
+  [
+   "Preproduction",
+   "Praproduksi"
+  ],
+  [
+   "Postproduction",
+   "Pascaproduksi"
+  ]
+ ]
+}
