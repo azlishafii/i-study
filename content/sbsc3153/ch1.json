@@ -1,0 +1,1695 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch1",
+ "num": 1,
+ "title": {
+  "en": "Professional Communication in a Digital, Social, Mobile World",
+  "ms": "Komunikasi Profesional dalam Dunia Digital, Sosial dan Mudah Alih"
+ },
+ "standard": "Bovee Ch 1",
+ "outcomes": {
+  "en": [
+   "Explain the importance of effective communication to your career and to the companies where you will work",
+   "Explain what it means to communicate as a professional in a business context",
+   "Describe the communication process model and how social media are changing business communication",
+   "Outline the challenges and opportunities of mobile communication in business",
+   "List four general guidelines for using communication technology effectively",
+   "Define ethics, distinguish an ethical dilemma from an ethical lapse, and list six guidelines for ethical communication"
+  ],
+  "ms": [
+   "Terangkan kepentingan komunikasi berkesan kepada kerjaya dan syarikat tempat anda bekerja",
+   "Terangkan maksud berkomunikasi secara profesional dalam konteks perniagaan",
+   "Huraikan model proses komunikasi dan cara media sosial mengubah komunikasi perniagaan",
+   "Gariskan cabaran dan peluang komunikasi mudah alih dalam perniagaan",
+   "Senaraikan empat garis panduan umum menggunakan teknologi komunikasi dengan berkesan",
+   "Takrif etika, bezakan dilema etika dengan kecuaian etika, dan senaraikan enam garis panduan komunikasi beretika"
+  ]
+ },
+ "sections": [
+  {
+   "id": "matters",
+   "icon": "🎯",
+   "title": {
+    "en": "Why Communication Matters",
+    "ms": "Kenapa Komunikasi Penting"
+   },
+   "ref": "Slides 4–7",
+   "big": {
+    "en": "Communication skill = the single most important career skill.",
+    "ms": "Kemahiran komunikasi = kemahiran kerjaya terpenting."
+   },
+   "blocks": [
+    {
+     "k": "p",
+     "en": "In any role (employee, executive, consultant, freelancer, entrepreneur) you communicate, collaborate and share ideas with people **inside and outside** the organisation. Communication skills may be the **single most important skill** you have.",
+     "ms": "Dalam apa-apa peranan (pekerja, eksekutif, perunding, pekerja bebas, usahawan) anda berkomunikasi, bekerjasama dan berkongsi idea dengan orang **dalam dan luar** organisasi. Kemahiran komunikasi mungkin **kemahiran terpenting** anda."
+    },
+    {
+     "k": "h",
+     "en": "Why it matters to the company",
+     "ms": "Kenapa penting kepada syarikat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Building trust**",
+      "**Closer ties to the community**",
+      "**Client relations**",
+      "**Increased productivity**",
+      "**Marketing and sales**",
+      "**Employee relations**"
+     ],
+     "ms": [
+      "**Membina kepercayaan**",
+      "**Hubungan lebih rapat dengan komuniti**",
+      "**Hubungan pelanggan**",
+      "**Produktiviti meningkat**",
+      "**Pemasaran dan jualan**",
+      "**Hubungan pekerja**"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: T-C-C-P-M-E (Trust, Community, Clients, Productivity, Marketing, Employees).",
+     "ms": "Cara ingat: T-C-C-P-M-E (Trust, Community, Clients, Productivity, Marketing, Employees)."
+    }
+   ]
+  },
+  {
+   "id": "effective",
+   "icon": "✅",
+   "title": {
+    "en": "What Makes Communication Effective?",
+    "ms": "Apa Menjadikan Komunikasi Berkesan"
+   },
+   "ref": "Slide 8",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Give **facts** rather than vague impressions",
+      "Present information in a **concise, efficient** manner",
+      "**Clarify expectations and responsibilities**",
+      "Offer **compelling, persuasive** arguments and recommendations"
+     ],
+     "ms": [
+      "Beri **fakta** dan bukan gambaran kabur",
+      "Bentang maklumat secara **ringkas dan cekap**",
+      "**Jelaskan jangkaan dan tanggungjawab**",
+      "Tawarkan hujah dan cadangan yang **meyakinkan**"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Effective = Factual, Concise, Clear on duties, Persuasive.",
+     "ms": "Berkesan = Fakta, Ringkas, Jelas tugas, Memujuk."
+    }
+   ]
+  },
+  {
+   "id": "prof",
+   "icon": "👔",
+   "title": {
+    "en": "Communicating as a Professional",
+    "ms": "Berkomunikasi Secara Profesional"
+   },
+   "ref": "Slides 10–12",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Elements of professionalism (6)",
+     "ms": "Elemen profesionalisme (6)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Striving to excel",
+      "Being dependable and accountable",
+      "Being a team player",
+      "Demonstrating a sense of etiquette",
+      "Making ethical decisions",
+      "Maintaining a positive outlook"
+     ],
+     "ms": [
+      "Berusaha untuk cemerlang",
+      "Boleh diharap dan bertanggungjawab",
+      "Pemain pasukan",
+      "Menunjukkan adab/etiket",
+      "Membuat keputusan beretika",
+      "Mengekalkan pandangan positif"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "What employers expect from you",
+     "ms": "Apa yang majikan harapkan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Digital information fluency",
+      "Ability to organise ideas",
+      "Express ideas **concisely, coherently and persuasively**",
+      "Active listening skills",
+      "Excellent communication with people from **diverse backgrounds**",
+      "Effective and efficient use of communication technologies",
+      "High-quality writing and speaking standards",
+      "Business etiquette at all times",
+      "Communicating ethically at all times",
+      "Time management and critical thinking"
+     ],
+     "ms": [
+      "Kefasihan maklumat digital",
+      "Keupayaan menyusun idea",
+      "Menyatakan idea secara **ringkas, koheren dan meyakinkan**",
+      "Kemahiran mendengar aktif",
+      "Komunikasi baik dengan orang dari **latar belakang pelbagai**",
+      "Guna teknologi komunikasi dengan berkesan dan cekap",
+      "Standard penulisan dan pertuturan berkualiti tinggi",
+      "Etiket perniagaan sepanjang masa",
+      "Berkomunikasi secara beretika sepanjang masa",
+      "Pengurusan masa dan pemikiran kritis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "audience",
+   "icon": "🧑‍🤝‍🧑",
+   "title": {
+    "en": "Audience-Centred Approach",
+    "ms": "Pendekatan Berpusatkan Audiens"
+   },
+   "ref": "Slides 13–14",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Adopt an **audience-centred approach**: focus on the **“you” attitude**, use **emotional intelligence** and practise **business etiquette**.",
+     "ms": "Guna **pendekatan berpusatkan audiens**: fokus kepada **sikap “you”**, guna **kecerdasan emosi** dan amalkan **etiket perniagaan**."
+    },
+    {
+     "k": "h",
+     "en": "What is important to your audience?",
+     "ms": "Apa yang penting kepada audiens anda?"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Biases",
+      "Education, age and status",
+      "Style",
+      "Personal and professional concerns"
+     ],
+     "ms": [
+      "Prasangka (bias)",
+      "Pendidikan, umur dan status",
+      "Gaya",
+      "Kebimbangan peribadi dan profesional"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 13 (Figure 1.4 Formal Communication Network) is an image and has no text. See your textbook for the diagram.",
+     "ms": "Slaid 13 (Rajah 1.4 Rangkaian Komunikasi Formal) ialah imej tanpa teks. Rujuk buku teks untuk rajah."
+    }
+   ]
+  },
+  {
+   "id": "process",
+   "icon": "🔁",
+   "title": {
+    "en": "The Communication Process",
+    "ms": "Proses Komunikasi"
+   },
+   "ref": "Slides 16–17",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "The basic model shows a **sender** encoding a message, sending it through a **channel**, and a **receiver** decoding it and giving **feedback**. (Slide 16 is a figure: Figure 1.5.)",
+     "ms": "Model asas menunjukkan **penghantar** mengekod mesej, menghantarnya melalui **saluran**, dan **penerima** menyahkod serta memberi **maklum balas**. (Slaid 16 ialah rajah: Rajah 1.5.)"
+    },
+    {
+     "k": "note",
+     "en": "Extra (not in slides): the step labels (sender, encode, channel, decode, receiver, feedback) are standard model wording from the textbook figure, not listed in the slide text.",
+     "ms": "Extra (bukan dalam slaid): label langkah (sender, encode, channel, decode, receiver, feedback) ialah perkataan model standard dari rajah buku teks, tidak disenaraikan dalam teks slaid."
+    },
+    {
+     "k": "h",
+     "en": "Barriers in the process",
+     "ms": "Halangan dalam proses"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Noise and distractions**",
+      "**Competing messages**",
+      "**Filters**",
+      "**Channel breakdowns**"
+     ],
+     "ms": [
+      "**Bunyi bising dan gangguan**",
+      "**Mesej bersaing**",
+      "**Penapis (filters)**",
+      "**Kegagalan saluran**"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mind",
+   "icon": "🧠",
+   "title": {
+    "en": "Inside the Mind of Your Audience",
+    "ms": "Dalam Minda Audiens"
+   },
+   "ref": "Slides 18–22",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Stage",
+       "What to do / consider"
+      ],
+      "ms": [
+       "Peringkat",
+       "Apa yang perlu dibuat / dipertimbang"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Receive",
+        "Consider audience expectations, ensure ease of use, emphasise familiarity, practise empathy, design for compatibility"
+       ],
+       "ms": [
+        "Terima",
+        "Pertimbang jangkaan audiens, mudah guna, tekankan keakraban, amalkan empati, reka untuk keserasian"
+       ]
+      },
+      {
+       "en": [
+        "Decode",
+        "Affected by perception, selective perception, cultural beliefs, personal beliefs, individual thinking styles"
+       ],
+       "ms": [
+        "Nyahkod",
+        "Dipengaruhi persepsi, persepsi terpilih, kepercayaan budaya, kepercayaan peribadi, gaya pemikiran individu"
+       ]
+      },
+      {
+       "en": [
+        "Respond",
+        "Audience must remember the message, be able to respond as you wish, and be motivated to respond"
+       ],
+       "ms": [
+        "Bertindak balas",
+        "Audiens mesti ingat mesej, mampu bertindak balas seperti anda mahu, dan bermotivasi untuk bertindak balas"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "R-D-R: Receive, Decode, Respond. Shared experience helps understanding (Figure 1.6).",
+     "ms": "R-D-R: Receive, Decode, Respond. Pengalaman bersama membantu kefahaman (Rajah 1.6)."
+    },
+    {
+     "k": "note",
+     "en": "Slides 21, 23 and 24 (Figure 1.6, Figure 1.7 Social Communication Model, and one blank slide) have no readable text.",
+     "ms": "Slaid 21, 23 dan 24 (Rajah 1.6, Rajah 1.7 Model Komunikasi Sosial, dan satu slaid kosong) tiada teks boleh dibaca."
+    }
+   ]
+  },
+  {
+   "id": "mobile",
+   "icon": "📱",
+   "title": {
+    "en": "The Mobile Revolution",
+    "ms": "Revolusi Mudah Alih"
+   },
+   "ref": "Slides 25–29",
+   "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Globally, more than **80%** of Internet users access the web with a mobile device",
+      "Mobile is the **primary communication tool** for many professionals; a majority of executives **under 40** use mobile as their main tool",
+      "**Email** and **web browsing** are the most common non-voice uses of smartphones",
+      "More email messages are now opened on **mobile devices than on PCs**",
+      "Roughly **half** of U.S. consumers use mobile **exclusively** for online search"
+     ],
+     "ms": [
+      "Di seluruh dunia, lebih **80%** pengguna Internet akses web dengan peranti mudah alih",
+      "Mudah alih ialah **alat komunikasi utama** ramai profesional; majoriti eksekutif **bawah 40 tahun** guna mudah alih sebagai alat utama",
+      "**E-mel** dan **layari web** ialah kegunaan bukan suara paling biasa telefon pintar",
+      "Lebih banyak e-mel dibuka pada **peranti mudah alih berbanding PC**",
+      "Kira-kira **separuh** pengguna AS guna mudah alih **sepenuhnya** untuk carian dalam talian"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "How mobile changes business communication",
+     "ms": "Cara mudah alih mengubah komunikasi perniagaan"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Challenges",
+       "Opportunities"
+      ],
+      "ms": [
+       "Cabaran",
+       "Peluang"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Constant connectivity",
+        "Enhanced productivity and collaboration"
+       ],
+       "ms": [
+        "Sentiasa bersambung",
+        "Produktiviti dan kerjasama meningkat"
+       ]
+      },
+      {
+       "en": [
+        "Small mobile displays",
+        "Business-specific applications"
+       ],
+       "ms": [
+        "Paparan kecil",
+        "Aplikasi khusus perniagaan"
+       ]
+      },
+      {
+       "en": [
+        "Mobile users are multitasking",
+        "Accelerated decision-making and problem-solving"
+       ],
+       "ms": [
+        "Pengguna mudah alih multitugas",
+        "Keputusan dan penyelesaian masalah lebih pantas"
+       ]
+      },
+      {
+       "en": [
+        "Changes in traditional grammar",
+        "Greater engagement with audience"
+       ],
+       "ms": [
+        "Perubahan tatabahasa tradisional",
+        "Penglibatan audiens lebih tinggi"
+       ]
+      },
+      {
+       "en": [
+        "Security and privacy concerns; sensory and cognitive extensions of the user",
+        "(see left column)"
+       ],
+       "ms": [
+        "Kebimbangan keselamatan dan privasi; lanjutan deria dan kognitif pengguna",
+        "(lihat lajur kiri)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 28 lists “Sensory and Cognitive Extensions of User” with the other challenges; the slides do not label each item as a challenge or opportunity, so the grouping above is a study aid.",
+     "ms": "Slaid 28 menyenaraikan “Sensory and Cognitive Extensions of User” bersama cabaran lain; slaid tidak melabel setiap item sebagai cabaran atau peluang, jadi pengelompokan di atas ialah bantuan belajar."
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "icon": "💻",
+   "title": {
+    "en": "Using Technology Wisely",
+    "ms": "Menggunakan Teknologi Dengan Bijak"
+   },
+   "ref": "Slides 30–34",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Technology pros",
+       "Technology cons"
+      ],
+      "ms": [
+       "Kelebihan teknologi",
+       "Kekurangan teknologi"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Useful tool",
+        "Can’t think for you"
+       ],
+       "ms": [
+        "Alat berguna",
+        "Tidak boleh berfikir untuk anda"
+       ]
+      },
+      {
+       "en": [
+        "Enhances communication process",
+        "Can’t fill in skills gaps"
+       ],
+       "ms": [
+        "Mempertingkat proses komunikasi",
+        "Tidak boleh isi jurang kemahiran"
+       ]
+      },
+      {
+       "en": [
+        "Assists in accomplishment of tasks",
+        "Not a replacement for communication"
+       ],
+       "ms": [
+        "Membantu menyiapkan tugas",
+        "Bukan pengganti komunikasi"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Four general guidelines",
+     "ms": "Empat garis panduan umum"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Keep technology in perspective**",
+      "**Guard against information overload**",
+      "**Use technological tools productively**",
+      "**Reconnect with people**"
+     ],
+     "ms": [
+      "**Letakkan teknologi dalam perspektif**",
+      "**Elak beban maklumat berlebihan**",
+      "**Guna alat teknologi secara produktif**",
+      "**Berhubung semula dengan orang**"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Information overload controls",
+     "ms": "Kawalan beban maklumat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Implement controls on the messages you receive",
+      "Use filtering features",
+      "Manage subscriptions",
+      "Avoid sending unnecessary messages",
+      "Mark and save important messages"
+     ],
+     "ms": [
+      "Kawal mesej yang diterima",
+      "Guna ciri penapis",
+      "Urus langganan",
+      "Elak hantar mesej tidak perlu",
+      "Tanda dan simpan mesej penting"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Reconnecting with people",
+     "ms": "Berhubung semula dengan orang"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Choose your medium wisely",
+      "Face-to-face or phone can limit miscommunication",
+      "Use technology as an **aid, not a replacement**",
+      "Show people who you really are"
+     ],
+     "ms": [
+      "Pilih medium dengan bijak",
+      "Bersemuka atau telefon boleh kurangkan salah faham",
+      "Guna teknologi sebagai **bantuan, bukan pengganti**",
+      "Tunjukkan diri anda yang sebenar"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The four guideline names are taken from the slide headings (Keeping Technology in Perspective, Guarding Against Information Overload, Using Technological Tools Productively, Reconnecting With People).",
+     "ms": "Empat nama garis panduan diambil daripada tajuk slaid."
+    }
+   ]
+  },
+  {
+   "id": "ethics",
+   "icon": "⚖️",
+   "title": {
+    "en": "Ethical Communication",
+    "ms": "Komunikasi Beretika"
+   },
+   "ref": "Slides 35–40",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Ethical communication",
+     "ms": "Komunikasi beretika"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Includes **all relevant information**",
+      "Is **true in every sense**",
+      "Is **not deceptive** in any way"
+     ],
+     "ms": [
+      "Termasuk **semua maklumat relevan**",
+      "**Benar dalam semua segi**",
+      "**Tidak mengelirukan** dalam apa cara pun"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Unethical communication",
+     "ms": "Komunikasi tidak beretika"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Plagiarising",
+      "Omitting essential information",
+      "Selective misquoting",
+      "Misrepresenting numbers",
+      "Distorting visuals",
+      "Failing to respect privacy or security"
+     ],
+     "ms": [
+      "Plagiat",
+      "Meninggalkan maklumat penting",
+      "Salah petik secara terpilih",
+      "Salah nyata nombor",
+      "Memutarbelit visual",
+      "Tidak menghormati privasi atau keselamatan"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Ethical dilemma",
+       "Ethical lapse"
+      ],
+      "ms": [
+       "Dilema etika",
+       "Kecuaian etika"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Choosing among alternatives that are **not clear-cut**",
+        "A **clearly unethical** choice"
+       ],
+       "ms": [
+        "Memilih antara alternatif yang **tidak jelas**",
+        "Pilihan yang **jelas tidak beretika**"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Ensuring ethical communication: three elements",
+     "ms": "Memastikan komunikasi beretika: tiga elemen"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Ethical individuals**",
+      "**Ethical company leadership**",
+      "**Appropriate policies and structures** (e.g. code of ethics, ethics audits)"
+     ],
+     "ms": [
+      "**Individu beretika**",
+      "**Kepimpinan syarikat beretika**",
+      "**Dasar dan struktur sesuai** (cth kod etika, audit etika)"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Ensuring legal communication",
+     "ms": "Memastikan komunikasi sah di sisi undang-undang"
+    },
+    {
+     "k": "p",
+     "en": "Laws and regulations govern: promotional communication, contracts, employment communication, intellectual property, financial reporting, defamation and transparency requirements.",
+     "ms": "Undang-undang dan peraturan mengawal: komunikasi promosi, kontrak, komunikasi pekerjaan, harta intelek, pelaporan kewangan, fitnah (defamation) dan keperluan ketelusan."
+    },
+    {
+     "k": "note",
+     "en": "The learning objective asks for “six guidelines for making ethical communication choices”. The slide text does not list six guidelines; see your textbook section for the exact list.",
+     "ms": "Objektif pembelajaran meminta “enam garis panduan membuat pilihan komunikasi beretika”. Teks slaid tidak menyenaraikan enam garis panduan; rujuk bahagian buku teks untuk senarai tepat."
+    },
+    {
+     "k": "tip",
+     "en": "Dilemma = hard choice. Lapse = bad choice (you knew better).",
+     "ms": "Dilema = pilihan sukar. Lapse = pilihan buruk (anda tahu ia salah)."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "matters",
+   "q": {
+    "en": "Name the six ways effective communication helps a company.",
+    "ms": "Namakan enam cara komunikasi berkesan membantu syarikat."
+   },
+   "a": {
+    "en": "Building trust, closer ties to the community, client relations, increased productivity, marketing and sales, employee relations.",
+    "ms": "Membina kepercayaan, hubungan komuniti, hubungan pelanggan, produktiviti, pemasaran dan jualan, hubungan pekerja."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "effective",
+   "q": {
+    "en": "List four features of effective business communication.",
+    "ms": "Senaraikan empat ciri komunikasi perniagaan berkesan."
+   },
+   "a": {
+    "en": "Facts not vague impressions; concise and efficient; clarifies expectations and responsibilities; compelling, persuasive arguments and recommendations.",
+    "ms": "Fakta bukan gambaran kabur; ringkas dan cekap; jelas jangkaan dan tanggungjawab; hujah dan cadangan meyakinkan."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "prof",
+   "q": {
+    "en": "Name the six elements of professionalism.",
+    "ms": "Namakan enam elemen profesionalisme."
+   },
+   "a": {
+    "en": "Striving to excel, dependable and accountable, team player, etiquette, ethical decisions, positive outlook.",
+    "ms": "Berusaha cemerlang, boleh diharap dan bertanggungjawab, pemain pasukan, etiket, keputusan beretika, pandangan positif."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "prof",
+   "q": {
+    "en": "Give four things employers expect from you.",
+    "ms": "Beri empat perkara yang majikan harapkan daripada anda."
+   },
+   "a": {
+    "en": "e.g. digital information fluency, organising ideas, active listening, communicating with diverse people, ethical communication, time management and critical thinking.",
+    "ms": "cth kefasihan maklumat digital, menyusun idea, mendengar aktif, komunikasi dengan orang pelbagai, komunikasi beretika, pengurusan masa dan pemikiran kritis."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "audience",
+   "q": {
+    "en": "What is the “you” attitude?",
+    "ms": "Apakah sikap “you”?"
+   },
+   "a": {
+    "en": "Focusing on the audience’s needs and viewpoint rather than your own, part of an audience-centred approach.",
+    "ms": "Memberi fokus kepada keperluan dan pandangan audiens, bukan diri sendiri; sebahagian pendekatan berpusatkan audiens."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "audience",
+   "q": {
+    "en": "What is important to your audience (four items)?",
+    "ms": "Apa yang penting kepada audiens (empat item)?"
+   },
+   "a": {
+    "en": "Biases; education, age and status; style; personal and professional concerns.",
+    "ms": "Prasangka; pendidikan, umur dan status; gaya; kebimbangan peribadi dan profesional."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "process",
+   "q": {
+    "en": "Name the four barriers in the communication process.",
+    "ms": "Namakan empat halangan dalam proses komunikasi."
+   },
+   "a": {
+    "en": "Noise and distractions, competing messages, filters, channel breakdowns.",
+    "ms": "Bunyi bising dan gangguan, mesej bersaing, penapis, kegagalan saluran."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "mind",
+   "q": {
+    "en": "What are the three stages of how audiences deal with a message?",
+    "ms": "Apakah tiga peringkat bagaimana audiens menangani mesej?"
+   },
+   "a": {
+    "en": "Receive, decode, respond.",
+    "ms": "Terima, nyahkod, bertindak balas."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "mind",
+   "q": {
+    "en": "How can you help audiences RECEIVE messages?",
+    "ms": "Bagaimana membantu audiens MENERIMA mesej?"
+   },
+   "a": {
+    "en": "Consider expectations, ensure ease of use, emphasise familiarity, practise empathy, design for compatibility.",
+    "ms": "Pertimbang jangkaan, mudah guna, tekankan keakraban, amalkan empati, reka untuk keserasian."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "mind",
+   "q": {
+    "en": "What affects how audiences DECODE messages?",
+    "ms": "Apa mempengaruhi cara audiens MENYAHKOD mesej?"
+   },
+   "a": {
+    "en": "Perception, selective perception, cultural beliefs, personal beliefs, individual thinking styles.",
+    "ms": "Persepsi, persepsi terpilih, kepercayaan budaya, kepercayaan peribadi, gaya pemikiran individu."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "mind",
+   "q": {
+    "en": "What three things must be true for an audience to RESPOND as you wish?",
+    "ms": "Tiga perkara yang mesti benar supaya audiens BERTINDAK BALAS seperti anda mahu?"
+   },
+   "a": {
+    "en": "They must remember the message, be able to respond as you wish, and be motivated to respond.",
+    "ms": "Mereka mesti ingat mesej, mampu bertindak balas, dan bermotivasi."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "mobile",
+   "q": {
+    "en": "What share of Internet users access the web with mobile devices?",
+    "ms": "Berapa peratus pengguna Internet akses web dengan peranti mudah alih?"
+   },
+   "a": {
+    "en": "More than 80 percent globally.",
+    "ms": "Lebih 80 peratus di seluruh dunia."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "mobile",
+   "q": {
+    "en": "What are the two most common non-voice uses of smartphones?",
+    "ms": "Apakah dua kegunaan bukan suara paling biasa telefon pintar?"
+   },
+   "a": {
+    "en": "Email (first) and web browsing (second).",
+    "ms": "E-mel (pertama) dan layari web (kedua)."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "mobile",
+   "q": {
+    "en": "Name three challenges of mobile communication in the slides.",
+    "ms": "Namakan tiga cabaran komunikasi mudah alih dalam slaid."
+   },
+   "a": {
+    "en": "Constant connectivity, small displays, multitasking users, changes in traditional grammar, security and privacy concerns.",
+    "ms": "Sentiasa bersambung, paparan kecil, pengguna multitugas, perubahan tatabahasa, kebimbangan keselamatan dan privasi."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "mobile",
+   "q": {
+    "en": "Name three business benefits of mobile technology.",
+    "ms": "Namakan tiga manfaat perniagaan teknologi mudah alih."
+   },
+   "a": {
+    "en": "Enhanced productivity and collaboration, business-specific apps, faster decisions, greater audience engagement.",
+    "ms": "Produktiviti dan kerjasama, aplikasi khusus perniagaan, keputusan lebih pantas, penglibatan audiens."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "tech",
+   "q": {
+    "en": "Technology can’t do three things for you. What?",
+    "ms": "Teknologi tidak boleh buat tiga perkara untuk anda. Apa?"
+   },
+   "a": {
+    "en": "Think for you, fill in skills gaps, replace communication.",
+    "ms": "Berfikir untuk anda, isi jurang kemahiran, gantikan komunikasi."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "tech",
+   "q": {
+    "en": "List the four general guidelines for using communication technology.",
+    "ms": "Senaraikan empat garis panduan umum menggunakan teknologi komunikasi."
+   },
+   "a": {
+    "en": "Keep technology in perspective; guard against information overload; use tools productively; reconnect with people.",
+    "ms": "Letakkan teknologi dalam perspektif; elak beban maklumat; guna alat secara produktif; berhubung semula dengan orang."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "tech",
+   "q": {
+    "en": "Give three ways to guard against information overload.",
+    "ms": "Beri tiga cara mengelak beban maklumat."
+   },
+   "a": {
+    "en": "Use filtering features, manage subscriptions, avoid sending unnecessary messages, mark and save important messages.",
+    "ms": "Guna penapis, urus langganan, elak hantar mesej tidak perlu, tanda dan simpan mesej penting."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "ethics",
+   "q": {
+    "en": "Ethical communication has which three qualities?",
+    "ms": "Komunikasi beretika ada tiga kualiti apa?"
+   },
+   "a": {
+    "en": "Includes all relevant information, is true in every sense, is not deceptive in any way.",
+    "ms": "Termasuk semua maklumat relevan, benar dalam semua segi, tidak mengelirukan."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "ethics",
+   "q": {
+    "en": "Name six forms of unethical communication.",
+    "ms": "Namakan enam bentuk komunikasi tidak beretika."
+   },
+   "a": {
+    "en": "Plagiarising, omitting essential information, selective misquoting, misrepresenting numbers, distorting visuals, failing to respect privacy or security.",
+    "ms": "Plagiat, tinggalkan maklumat penting, salah petik terpilih, salah nyata nombor, putar visual, tidak hormati privasi/keselamatan."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "ethics",
+   "q": {
+    "en": "Ethical dilemma vs ethical lapse?",
+    "ms": "Dilema etika lwn kecuaian etika?"
+   },
+   "a": {
+    "en": "Dilemma: choosing among alternatives that are not clear-cut. Lapse: a clearly unethical choice.",
+    "ms": "Dilema: memilih antara alternatif tidak jelas. Lapse: pilihan jelas tidak beretika."
+   }
+  },
+  {
+   "id": "c22",
+   "t": "ethics",
+   "q": {
+    "en": "What are the three elements of ensuring ethical communication?",
+    "ms": "Apakah tiga elemen memastikan komunikasi beretika?"
+   },
+   "a": {
+    "en": "Ethical individuals, ethical company leadership, appropriate policies and structures.",
+    "ms": "Individu beretika, kepimpinan syarikat beretika, dasar dan struktur sesuai."
+   }
+  },
+  {
+   "id": "c23",
+   "t": "ethics",
+   "q": {
+    "en": "Which areas do laws and regulations govern in business communication?",
+    "ms": "Bidang apa dikawal undang-undang dalam komunikasi perniagaan?"
+   },
+   "a": {
+    "en": "Promotional communication, contracts, employment communication, intellectual property, financial reporting, defamation, transparency requirements.",
+    "ms": "Komunikasi promosi, kontrak, komunikasi pekerjaan, harta intelek, pelaporan kewangan, fitnah, keperluan ketelusan."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "matters",
+   "q": {
+    "en": "Which is NOT listed as a way communication helps a company?",
+    "ms": "Yang mana BUKAN cara komunikasi membantu syarikat?"
+   },
+   "o": [
+    "Building trust",
+    "Increased productivity",
+    "Reducing all taxes",
+    "Employee relations"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Tax reduction is not on the list. The six are trust, community ties, client relations, productivity, marketing and sales, employee relations.",
+    "ms": "Pengurangan cukai tiada dalam senarai. Enam: kepercayaan, komuniti, pelanggan, produktiviti, pemasaran, pekerja."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "effective",
+   "q": {
+    "en": "Effective business communication should give:",
+    "ms": "Komunikasi perniagaan berkesan hendaklah memberi:"
+   },
+   "o": [
+    "Vague impressions",
+    "Facts",
+    "Long, detailed text only",
+    "Opinions without evidence"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slides: give facts rather than vague impressions.",
+    "ms": "Slaid: beri fakta, bukan gambaran kabur."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "prof",
+   "q": {
+    "en": "Which is an element of professionalism?",
+    "ms": "Yang mana elemen profesionalisme?"
+   },
+   "o": [
+    "Working alone always",
+    "Being dependable and accountable",
+    "Avoiding feedback",
+    "Ignoring etiquette"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Dependable and accountable is one of six elements.",
+    "ms": "Boleh diharap dan bertanggungjawab ialah satu daripada enam elemen."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "prof",
+   "q": {
+    "en": "Employers expect you to express ideas:",
+    "ms": "Majikan mengharapkan anda menyatakan idea secara:"
+   },
+   "o": [
+    "Concisely, coherently and persuasively",
+    "Quickly only",
+    "Formally only",
+    "Humorously"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 11 wording.",
+    "ms": "Perkataan slaid 11."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "prof",
+   "q": {
+    "en": "Which is NOT on the list of what employers expect?",
+    "ms": "Yang mana TIADA dalam senarai jangkaan majikan?"
+   },
+   "o": [
+    "Active listening",
+    "Time management and critical thinking",
+    "Maintaining business etiquette",
+    "Avoiding all technology"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Employers expect effective use of communication technologies.",
+    "ms": "Majikan mahu penggunaan teknologi komunikasi yang berkesan."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "audience",
+   "q": {
+    "en": "The “you” attitude means focusing on:",
+    "ms": "Sikap “you” bermaksud fokus kepada:"
+   },
+   "o": [
+    "Yourself",
+    "The audience",
+    "The channel",
+    "The company only"
+   ],
+   "a": 1,
+   "e": {
+    "en": "It is part of the audience-centred approach.",
+    "ms": "Sebahagian pendekatan berpusatkan audiens."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "audience",
+   "q": {
+    "en": "An audience-centred approach includes all EXCEPT:",
+    "ms": "Pendekatan berpusatkan audiens merangkumi semua KECUALI:"
+   },
+   "o": [
+    "Emotional intelligence",
+    "Business etiquette",
+    "The “you” attitude",
+    "Ignoring audience biases"
+   ],
+   "a": 3,
+   "e": {
+    "en": "You should consider audience biases.",
+    "ms": "Anda perlu pertimbang prasangka audiens."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "process",
+   "q": {
+    "en": "A message is lost because of a dropped phone connection. This is a:",
+    "ms": "Mesej hilang kerana sambungan telefon terputus. Ini ialah:"
+   },
+   "o": [
+    "Filter",
+    "Channel breakdown",
+    "Competing message",
+    "Cultural belief"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Channel breakdowns are failures in the medium.",
+    "ms": "Kegagalan saluran ialah kegagalan medium."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "process",
+   "q": {
+    "en": "A manager ignores bad news because it conflicts with their view. This best fits:",
+    "ms": "Pengurus abaikan berita buruk kerana bercanggah pandangannya. Paling sesuai:"
+   },
+   "o": [
+    "Filters",
+    "Channel breakdown",
+    "Noise only",
+    "Ethical lapse"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Filters are barriers inside the receiver or sender that distort messages.",
+    "ms": "Filters ialah halangan yang memutarbelit mesej."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "process",
+   "q": {
+    "en": "Which is a barrier in the communication process?",
+    "ms": "Yang mana halangan dalam proses komunikasi?"
+   },
+   "o": [
+    "Competing messages",
+    "Shared experience",
+    "Empathy",
+    "Compatibility"
+   ],
+   "a": 0,
+   "e": {
+    "en": "The four barriers: noise, competing messages, filters, channel breakdowns.",
+    "ms": "Empat halangan: bunyi, mesej bersaing, penapis, kegagalan saluran."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "mind",
+   "q": {
+    "en": "Which is a way to help audiences RECEIVE messages?",
+    "ms": "Yang mana cara membantu audiens MENERIMA mesej?"
+   },
+   "o": [
+    "Practise empathy",
+    "Use selective perception",
+    "Rely on culture only",
+    "Add more noise"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Receive: expectations, ease of use, familiarity, empathy, compatibility.",
+    "ms": "Terima: jangkaan, mudah guna, keakraban, empati, keserasian."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "mind",
+   "q": {
+    "en": "Selective perception affects which stage?",
+    "ms": "Persepsi terpilih menjejaskan peringkat mana?"
+   },
+   "o": [
+    "Receiving",
+    "Decoding",
+    "Responding",
+    "Encoding"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 20 lists it under how audiences decode messages.",
+    "ms": "Slaid 20 menyenaraikannya di bawah penyahkodan."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "mind",
+   "q": {
+    "en": "For an audience to respond, they must NOT need to:",
+    "ms": "Untuk bertindak balas, audiens TIDAK perlu:"
+   },
+   "o": [
+    "Remember the message",
+    "Be motivated",
+    "Be able to respond as you wish",
+    "Agree with every word"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Required: remember, able to respond, motivated.",
+    "ms": "Diperlukan: ingat, mampu bertindak balas, bermotivasi."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "mobile",
+   "q": {
+    "en": "More than ___ percent of Internet users globally use a mobile device to access the web.",
+    "ms": "Lebih ___ peratus pengguna Internet global guna peranti mudah alih untuk akses web."
+   },
+   "o": [
+    "50",
+    "60",
+    "70",
+    "80"
+   ],
+   "a": 3,
+   "e": {
+    "en": "The slide states more than 80 percent.",
+    "ms": "Slaid menyatakan lebih 80 peratus."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "mobile",
+   "q": {
+    "en": "The two most common non-voice smartphone uses are:",
+    "ms": "Dua kegunaan bukan suara paling biasa telefon pintar:"
+   },
+   "o": [
+    "Email and web browsing",
+    "Gaming and music",
+    "Photos and maps",
+    "Banking and shopping"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Email first, web browsing second.",
+    "ms": "E-mel pertama, layari web kedua."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "mobile",
+   "q": {
+    "en": "Which is a benefit of mobile technologies in business?",
+    "ms": "Yang mana manfaat teknologi mudah alih dalam perniagaan?"
+   },
+   "o": [
+    "Smaller displays",
+    "Accelerated decision-making and problem-solving",
+    "Security risks",
+    "Changes in grammar"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Others listed are challenges.",
+    "ms": "Yang lain ialah cabaran."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "mobile",
+   "q": {
+    "en": "Which is a challenge of mobile technologies?",
+    "ms": "Yang mana cabaran teknologi mudah alih?"
+   },
+   "o": [
+    "Greater engagement with audience",
+    "Business-specific applications",
+    "Security and privacy concerns",
+    "Enhanced collaboration"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Security and privacy concerns are a challenge.",
+    "ms": "Kebimbangan keselamatan dan privasi ialah cabaran."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "tech",
+   "q": {
+    "en": "Technology CANNOT:",
+    "ms": "Teknologi TIDAK BOLEH:"
+   },
+   "o": [
+    "Assist task accomplishment",
+    "Enhance the process",
+    "Fill in skills gaps",
+    "Be a useful tool"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Cons: can’t think for you, can’t fill skills gaps, not a replacement for communication.",
+    "ms": "Kekurangan: tak boleh berfikir, isi jurang kemahiran, bukan pengganti komunikasi."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "tech",
+   "q": {
+    "en": "Which is a way to guard against information overload?",
+    "ms": "Yang mana cara mengelak beban maklumat?"
+   },
+   "o": [
+    "Subscribe to everything",
+    "Use filtering features",
+    "Send many messages",
+    "Delete all messages"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Also manage subscriptions and avoid unnecessary messages.",
+    "ms": "Juga urus langganan dan elak mesej tidak perlu."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "tech",
+   "q": {
+    "en": "To reconnect with people, you should use technology as:",
+    "ms": "Untuk berhubung semula dengan orang, guna teknologi sebagai:"
+   },
+   "o": [
+    "A replacement",
+    "An aid",
+    "A barrier",
+    "A filter"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Technology is an aid, not a replacement.",
+    "ms": "Teknologi ialah bantuan, bukan pengganti."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "ethics",
+   "q": {
+    "en": "Which is NOT a feature of ethical communication?",
+    "ms": "Yang mana BUKAN ciri komunikasi beretika?"
+   },
+   "o": [
+    "Includes all relevant information",
+    "True in every sense",
+    "Omits unfavourable details",
+    "Not deceptive"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Omitting essential information is unethical.",
+    "ms": "Meninggalkan maklumat penting tidak beretika."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "ethics",
+   "q": {
+    "en": "Changing a chart’s scale to exaggerate sales is:",
+    "ms": "Mengubah skala carta untuk melebihkan jualan ialah:"
+   },
+   "o": [
+    "Distorting visuals",
+    "Selective misquoting",
+    "Plagiarising",
+    "Respecting privacy"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Distorting visuals is listed as unethical.",
+    "ms": "Memutarbelit visual disenaraikan sebagai tidak beretika."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "ethics",
+   "q": {
+    "en": "Choosing between two options where neither is clearly right is an:",
+    "ms": "Memilih antara dua pilihan tanpa jawapan jelas ialah:"
+   },
+   "o": [
+    "Ethical lapse",
+    "Ethical dilemma",
+    "Legal breach",
+    "Code of ethics"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Dilemma = alternatives not clear-cut.",
+    "ms": "Dilema = alternatif tidak jelas."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "ethics",
+   "q": {
+    "en": "Knowingly copying a colleague’s report as your own is:",
+    "ms": "Menyalin laporan rakan sebagai milik sendiri secara sedar ialah:"
+   },
+   "o": [
+    "An ethical dilemma",
+    "An ethical lapse",
+    "Information overload",
+    "A channel breakdown"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Plagiarism is a clearly unethical choice, so a lapse.",
+    "ms": "Plagiat ialah pilihan jelas tidak beretika, iaitu lapse."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "ethics",
+   "q": {
+    "en": "Which is one of the three elements of ensuring ethical communication?",
+    "ms": "Yang mana satu daripada tiga elemen memastikan komunikasi beretika?"
+   },
+   "o": [
+    "Ethical company leadership",
+    "Competing messages",
+    "Selective perception",
+    "Small displays"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Ethical individuals, ethical leadership, appropriate policies and structures.",
+    "ms": "Individu beretika, kepimpinan beretika, dasar dan struktur sesuai."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "ethics",
+   "q": {
+    "en": "A code of ethics and ethics audits are examples of:",
+    "ms": "Kod etika dan audit etika ialah contoh:"
+   },
+   "o": [
+    "Ethical individuals",
+    "Appropriate policies and structures",
+    "Channel breakdowns",
+    "Filters"
+   ],
+   "a": 1,
+   "e": {
+    "en": "They sit under policies and structures.",
+    "ms": "Ia di bawah dasar dan struktur."
+   }
+  },
+  {
+   "id": "q27",
+   "t": "ethics",
+   "q": {
+    "en": "Which area is governed by laws per the slides?",
+    "ms": "Bidang mana dikawal undang-undang menurut slaid?"
+   },
+   "o": [
+    "Defamation",
+    "Hairstyles",
+    "Lunch breaks",
+    "Office colour"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Defamation is listed among legal areas.",
+    "ms": "Fitnah disenaraikan antara bidang undang-undang."
+   }
+  },
+  {
+   "id": "q28",
+   "t": "matters",
+   "q": {
+    "en": "In which role are communication skills said to be important?",
+    "ms": "Dalam peranan mana kemahiran komunikasi dikatakan penting?"
+   },
+   "o": [
+    "Only executives",
+    "Only freelancers",
+    "Employee, executive, consultant, freelancer or entrepreneur",
+    "Only sales staff"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 5 lists all of these roles.",
+    "ms": "Slaid 5 menyenaraikan semua peranan ini."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "prof",
+   "marks": 6,
+   "q": {
+    "en": "Explain six elements of professionalism in business communication.",
+    "ms": "Terangkan enam elemen profesionalisme dalam komunikasi perniagaan."
+   },
+   "pts": {
+    "en": [
+     "Striving to excel (1)",
+     "Being dependable and accountable (1)",
+     "Being a team player (1)",
+     "Demonstrating a sense of etiquette (1)",
+     "Making ethical decisions (1)",
+     "Maintaining a positive outlook (1)"
+    ],
+    "ms": [
+     "Berusaha cemerlang (1)",
+     "Boleh diharap dan bertanggungjawab (1)",
+     "Pemain pasukan (1)",
+     "Menunjukkan etiket (1)",
+     "Keputusan beretika (1)",
+     "Pandangan positif (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "process",
+   "marks": 6,
+   "q": {
+    "en": "Discuss the barriers in the communication process and one way to reduce each.",
+    "ms": "Bincangkan halangan dalam proses komunikasi dan satu cara mengurangkan setiap satu."
+   },
+   "pts": {
+    "en": [
+     "Noise and distractions: choose a quiet setting (1)",
+     "Competing messages: make your message stand out and clear (1)",
+     "Filters: be aware of biases and check understanding (1)",
+     "Channel breakdowns: use a reliable medium and a backup (1)",
+     "Identify all four barriers (2)"
+    ],
+    "ms": [
+     "Bunyi dan gangguan: pilih tempat senyap (1)",
+     "Mesej bersaing: jadikan mesej menonjol dan jelas (1)",
+     "Penapis: sedar prasangka dan semak kefahaman (1)",
+     "Kegagalan saluran: guna medium boleh dipercayai dan sandaran (1)",
+     "Kenal pasti kesemua empat halangan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "mobile",
+   "marks": 8,
+   "q": {
+    "en": "Evaluate the challenges and opportunities of mobile communication for a modern business.",
+    "ms": "Nilai cabaran dan peluang komunikasi mudah alih untuk perniagaan moden."
+   },
+   "pts": {
+    "en": [
+     "Context: over 80% of users browse on mobile; executives under 40 rely on it (2)",
+     "Challenges: constant connectivity, small displays, multitasking, grammar changes (2)",
+     "Challenge: security and privacy concerns (1)",
+     "Opportunities: productivity, collaboration, business apps (2)",
+     "Opportunities: faster decisions and greater engagement (1)"
+    ],
+    "ms": [
+     "Konteks: lebih 80% layari web melalui mudah alih; eksekutif bawah 40 bergantung padanya (2)",
+     "Cabaran: sentiasa bersambung, paparan kecil, multitugas, perubahan tatabahasa (2)",
+     "Cabaran: kebimbangan keselamatan dan privasi (1)",
+     "Peluang: produktiviti, kerjasama, aplikasi perniagaan (2)",
+     "Peluang: keputusan pantas dan penglibatan lebih tinggi (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "tech",
+   "marks": 6,
+   "q": {
+    "en": "Explain the four guidelines for using communication technology effectively.",
+    "ms": "Terangkan empat garis panduan menggunakan teknologi komunikasi dengan berkesan."
+   },
+   "pts": {
+    "en": [
+     "Keep technology in perspective: a tool that can’t think or fill skills gaps (2)",
+     "Guard against information overload: filters, subscriptions, avoid unnecessary messages (2)",
+     "Use tools productively (1)",
+     "Reconnect with people: choose the medium wisely and use technology as an aid (1)"
+    ],
+    "ms": [
+     "Letak teknologi dalam perspektif: alat yang tak boleh berfikir atau isi jurang kemahiran (2)",
+     "Elak beban maklumat: penapis, langganan, elak mesej tidak perlu (2)",
+     "Guna alat secara produktif (1)",
+     "Berhubung semula: pilih medium bijak dan guna teknologi sebagai bantuan (1)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "ethics",
+   "marks": 8,
+   "q": {
+    "en": "Distinguish an ethical dilemma from an ethical lapse and explain how an organisation can ensure ethical communication.",
+    "ms": "Bezakan dilema etika dengan kecuaian etika dan terangkan bagaimana organisasi memastikan komunikasi beretika."
+   },
+   "pts": {
+    "en": [
+     "Ethical dilemma: choosing among alternatives that are not clear-cut (2)",
+     "Ethical lapse: a clearly unethical choice (2)",
+     "Ethical individuals (1)",
+     "Ethical company leadership (1)",
+     "Appropriate policies and structures, e.g. code of ethics and ethics audits (2)"
+    ],
+    "ms": [
+     "Dilema etika: memilih antara alternatif tidak jelas (2)",
+     "Lapse etika: pilihan jelas tidak beretika (2)",
+     "Individu beretika (1)",
+     "Kepimpinan syarikat beretika (1)",
+     "Dasar dan struktur sesuai, cth kod etika dan audit etika (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Sender",
+   "Penghantar"
+  ],
+  [
+   "Receiver",
+   "Penerima"
+  ],
+  [
+   "Feedback",
+   "Maklum balas"
+  ],
+  [
+   "Noise",
+   "Bunyi bising / gangguan"
+  ],
+  [
+   "Filter",
+   "Penapis"
+  ],
+  [
+   "Channel",
+   "Saluran"
+  ],
+  [
+   "Selective perception",
+   "Persepsi terpilih"
+  ],
+  [
+   "Audience-centred approach",
+   "Pendekatan berpusatkan audiens"
+  ],
+  [
+   "“You” attitude",
+   "Sikap “you”"
+  ],
+  [
+   "Emotional intelligence",
+   "Kecerdasan emosi"
+  ],
+  [
+   "Etiquette",
+   "Etiket"
+  ],
+  [
+   "Information overload",
+   "Beban maklumat berlebihan"
+  ],
+  [
+   "Ethical dilemma",
+   "Dilema etika"
+  ],
+  [
+   "Ethical lapse",
+   "Kecuaian etika"
+  ],
+  [
+   "Plagiarism",
+   "Plagiat"
+  ],
+  [
+   "Defamation",
+   "Fitnah"
+  ],
+  [
+   "Intellectual property",
+   "Harta intelek"
+  ],
+  [
+   "Code of ethics",
+   "Kod etika"
+  ],
+  [
+   "Ethics audit",
+   "Audit etika"
+  ],
+  [
+   "Social communication model",
+   "Model komunikasi sosial"
+  ]
+ ]
+}

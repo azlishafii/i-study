@@ -1,0 +1,1313 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch6",
+ "num": 6,
+ "title": {
+  "en": "Completing Business Messages",
+  "ms": "Melengkapkan Mesej Perniagaan"
+ },
+ "standard": "Bovee Ch 6",
+ "outcomes": {
+  "en": [
+   "Discuss the value of careful revision and the tasks in evaluating first drafts and others’ writing",
+   "List four techniques to improve readability",
+   "Describe eight steps to improve clarity and four tips for conciseness",
+   "List four principles of effective design and explain the role of design elements",
+   "Explain the importance of proofreading and give eight proofreading tips",
+   "Discuss issues to consider when distributing messages"
+  ],
+  "ms": [
+   "Bincangkan nilai semakan teliti dan tugas menilai draf pertama dan tulisan orang lain",
+   "Senaraikan empat teknik meningkatkan kebolehbacaan",
+   "Huraikan lapan langkah meningkatkan kejelasan dan empat tip keringkasan",
+   "Senaraikan empat prinsip reka bentuk berkesan dan terangkan peranan elemen reka bentuk",
+   "Terangkan kepentingan semakan bukti dan beri lapan tip",
+   "Bincangkan isu semasa mengedarkan mesej"
+  ]
+ },
+ "sections": [
+  {
+   "id": "revise",
+   "icon": "🔍",
+   "title": {
+    "en": "Evaluating the First Draft",
+    "ms": "Menilai Draf Pertama"
+   },
+   "ref": "Slides 5–10",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Revise based on media and content",
+     "ms": "Semak berdasarkan media dan kandungan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Informal messages",
+      "Digital messages",
+      "Complex messages"
+     ],
+     "ms": [
+      "Mesej tidak formal",
+      "Mesej digital",
+      "Mesej kompleks"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Evaluate",
+       "Check"
+      ],
+      "ms": [
+       "Nilai",
+       "Semak"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Content",
+        "Clear and accurate; relevant and complete"
+       ],
+       "ms": [
+        "Kandungan",
+        "Jelas dan tepat; relevan dan lengkap"
+       ]
+      },
+      {
+       "en": [
+        "Organization",
+        "Order and emphasis; repetition and grouping"
+       ],
+       "ms": [
+        "Organisasi",
+        "Susunan dan penekanan; pengulangan dan pengumpulan"
+       ]
+      },
+      {
+       "en": [
+        "Tone",
+        "Too formal? Too casual?"
+       ],
+       "ms": [
+        "Nada",
+        "Terlalu formal? Terlalu santai?"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Evaluating another’s writing: promote the writer’s success",
+     "ms": "Menilai tulisan orang lain: bantu kejayaan penulis"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Support the writer’s intent",
+      "Avoid imposing your own style or agenda",
+      "Learn what the writer wanted to accomplish"
+     ],
+     "ms": [
+      "Sokong niat penulis",
+      "Elak memaksa gaya atau agenda sendiri",
+      "Fahami apa yang penulis mahu capai"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Questions to ask (slides 9–10)",
+     "ms": "Soalan untuk ditanya (slaid 9–10)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "What is the purpose?",
+      "Who is the target audience?",
+      "What information does the audience need?",
+      "Is it well organised?",
+      "Does it show the “you” attitude?",
+      "Is the tone appropriate?",
+      "Can readability be improved?",
+      "Is it clear?",
+      "Is it as concise as it could be?",
+      "Does the design support the message?"
+     ],
+     "ms": [
+      "Apakah tujuannya?",
+      "Siapa audiens sasaran?",
+      "Apa maklumat yang audiens perlu?",
+      "Adakah teratur?",
+      "Adakah ada sikap “you”?",
+      "Adakah nada sesuai?",
+      "Boleh tambah baik kebolehbacaan?",
+      "Adakah jelas?",
+      "Adakah seringkas mungkin?",
+      "Adakah reka bentuk menyokong mesej?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "readable",
+   "icon": "📖",
+   "title": {
+    "en": "Improving Readability",
+    "ms": "Meningkatkan Kebolehbacaan"
+   },
+   "ref": "Slides 11–16",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Four techniques: **vary sentence length**, **keep paragraphs short**, **use lists**, and **add headings and subheadings**.",
+     "ms": "Empat teknik: **ubah panjang ayat**, **pastikan perenggan pendek**, **guna senarai**, dan **tambah tajuk dan subtajuk**."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Sentence type",
+       "Length"
+      ],
+      "ms": [
+       "Jenis ayat",
+       "Panjang"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Short",
+        "Up to 15 words"
+       ],
+       "ms": [
+        "Pendek",
+        "Sehingga 15 patah perkataan"
+       ]
+      },
+      {
+       "en": [
+        "Medium",
+        "15–25 words"
+       ],
+       "ms": [
+        "Sederhana",
+        "15–25 patah perkataan"
+       ]
+      },
+      {
+       "en": [
+        "Long",
+        "Over 25 words"
+       ],
+       "ms": [
+        "Panjang",
+        "Lebih 25 patah perkataan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Paragraphs:** 100 words or fewer; inviting to the reader; connect ideas; emphasise key ideas; divide large subjects; don’t go overboard",
+      "**Lists:** set off important ideas; simplify and break down complex subjects; highlight sequences of ideas",
+      "**Headings:** organise lengthy material; grab attention; increase understanding; group related paragraphs; visually indicate shifts"
+     ],
+     "ms": [
+      "**Perenggan:** 100 perkataan atau kurang; menarik pembaca; sambung idea; tekankan idea utama; bahagi subjek besar; jangan keterlaluan",
+      "**Senarai:** tonjolkan idea penting; ringkaskan dan pecahkan subjek kompleks; serlahkan urutan idea",
+      "**Tajuk:** susun bahan panjang; tarik perhatian; tingkat kefahaman; kumpul perenggan berkaitan; tunjuk peralihan secara visual"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 12 lists skimmable documents (indexes, key ideas, conclusions, recommendations). The layout is a diagram, so the grouping above is my reading.",
+     "ms": "Slaid 12 menyenaraikan dokumen mudah diimbas (indeks, idea utama, kesimpulan, cadangan). Susunannya ialah rajah, jadi pengelompokan ialah bacaan saya."
+    }
+   ]
+  },
+  {
+   "id": "clarity",
+   "icon": "💡",
+   "title": {
+    "en": "Clarity and Conciseness",
+    "ms": "Kejelasan dan Keringkasan"
+   },
+   "ref": "Slides 17–20",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Editing for clarity (8 steps)",
+     "ms": "Menyunting untuk kejelasan (8 langkah)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Break up overly long sentences",
+      "Rewrite hedging sentences",
+      "Impose parallelism",
+      "Correct dangling modifiers",
+      "Reword long noun sequences",
+      "Replace camouflaged verbs",
+      "Clarify sentence structure",
+      "Clarify awkward references"
+     ],
+     "ms": [
+      "Pecahkan ayat terlalu panjang",
+      "Tulis semula ayat berlindung (hedging)",
+      "Kenakan keselarian (parallelism)",
+      "Betulkan modifier tergantung",
+      "Tulis semula jujukan kata nama panjang",
+      "Gantikan kata kerja tersembunyi",
+      "Jelaskan struktur ayat",
+      "Jelaskan rujukan janggal"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Editing for conciseness (4 tips)",
+     "ms": "Menyunting untuk keringkasan (4 tip)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Delete unnecessary words and phrases",
+      "Shorten long words and phrases",
+      "Eliminate redundancies",
+      "Rewrite"
+     ],
+     "ms": [
+      "Buang perkataan dan frasa tidak perlu",
+      "Pendekkan perkataan dan frasa panjang",
+      "Hapuskan kelewahan (redundancy)",
+      "Tulis semula"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Camouflaged verb = a verb hidden in a noun: “make a decision” becomes “decide”. (Example is mine, not from the slides.)",
+     "ms": "Kata kerja tersembunyi = kata kerja dalam kata nama: “make a decision” menjadi “decide”. (Contoh saya, bukan dari slaid.)"
+    }
+   ]
+  },
+  {
+   "id": "design",
+   "icon": "🎨",
+   "title": {
+    "en": "Designing for Readability",
+    "ms": "Reka Bentuk untuk Kebolehbacaan"
+   },
+   "ref": "Slides 21–25",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Four design principles",
+     "ms": "Empat prinsip reka bentuk"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Consistency",
+      "Balance",
+      "Restraint",
+      "Detail"
+     ],
+     "ms": [
+      "Konsistensi",
+      "Keseimbangan",
+      "Kawalan (restraint)",
+      "Perincian"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Design elements",
+     "ms": "Elemen reka bentuk"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "White space",
+      "Margins",
+      "Justification",
+      "Typefaces",
+      "Type styles"
+     ],
+     "ms": [
+      "Ruang putih",
+      "Margin",
+      "Penjajaran (justification)",
+      "Jenis taip (typefaces)",
+      "Gaya taip"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Designing for mobile devices",
+     "ms": "Reka bentuk untuk peranti mudah alih"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Think in small chunks",
+      "Use white space generously",
+      "Format simply",
+      "Experiment with layouts"
+     ],
+     "ms": [
+      "Fikir dalam bahagian kecil",
+      "Guna ruang putih secukupnya",
+      "Format ringkas",
+      "Cuba pelbagai susun atur"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 24 (Formatting Formal Letters and Memos) has no text. See Appendix A of your textbook.",
+     "ms": "Slaid 24 (Formatting Formal Letters and Memos) tiada teks. Rujuk Lampiran A buku teks."
+    }
+   ]
+  },
+  {
+   "id": "proof",
+   "icon": "✅",
+   "title": {
+    "en": "Proofreading",
+    "ms": "Semakan Bukti (Proofreading)"
+   },
+   "ref": "Slides 26–29",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Problems to look for",
+     "ms": "Masalah untuk dikesan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Language errors",
+      "Missing material",
+      "Design errors",
+      "Typographical errors"
+     ],
+     "ms": [
+      "Kesilapan bahasa",
+      "Bahan tertinggal",
+      "Kesilapan reka bentuk",
+      "Kesilapan menaip"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Eight proofreading tips",
+     "ms": "Lapan tip semakan bukti"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Make multiple passes",
+      "Use perceptual tricks",
+      "Double-check high-priority items",
+      "Give yourself some distance",
+      "Be vigilant",
+      "Stay focused",
+      "Review complex digital documents on paper",
+      "Take your time"
+     ],
+     "ms": [
+      "Buat beberapa lintasan",
+      "Guna helah persepsi",
+      "Semak semula perkara keutamaan tinggi",
+      "Beri jarak masa kepada diri",
+      "Berwaspada",
+      "Kekal fokus",
+      "Semak dokumen digital kompleks atas kertas",
+      "Ambil masa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "distrib",
+   "icon": "📤",
+   "title": {
+    "en": "Distributing Your Message",
+    "ms": "Mengedarkan Mesej"
+   },
+   "ref": "Slides 30–31",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "Factors in choosing a distribution method: **cost**, **convenience**, **time**, and **security and privacy**.",
+     "ms": "Faktor memilih kaedah pengedaran: **kos**, **kemudahan**, **masa**, serta **keselamatan dan privasi**."
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: C-C-T-S.",
+     "ms": "Cara ingat: C-C-T-S."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "revise",
+   "q": {
+    "en": "Three kinds of messages to revise based on media and content?",
+    "ms": "Tiga jenis mesej untuk disemak mengikut media dan kandungan?"
+   },
+   "a": {
+    "en": "Informal, digital and complex messages.",
+    "ms": "Tidak formal, digital dan kompleks."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "revise",
+   "q": {
+    "en": "What three things do you evaluate in a first draft?",
+    "ms": "Tiga perkara dinilai dalam draf pertama?"
+   },
+   "a": {
+    "en": "Content, organization, tone.",
+    "ms": "Kandungan, organisasi, nada."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "revise",
+   "q": {
+    "en": "How do you promote the writer’s success when evaluating their work?",
+    "ms": "Bagaimana membantu kejayaan penulis semasa menilai karya mereka?"
+   },
+   "a": {
+    "en": "Support the writer’s intent, avoid imposing your own style, learn what they wanted to accomplish.",
+    "ms": "Sokong niat penulis, elak paksa gaya sendiri, fahami hasrat penulis."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "readable",
+   "q": {
+    "en": "Four techniques to improve readability?",
+    "ms": "Empat teknik meningkatkan kebolehbacaan?"
+   },
+   "a": {
+    "en": "Vary sentence length, keep paragraphs short, use lists, add headings and subheadings.",
+    "ms": "Ubah panjang ayat, perenggan pendek, guna senarai, tambah tajuk."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "readable",
+   "q": {
+    "en": "Short, medium and long sentence lengths?",
+    "ms": "Panjang ayat pendek, sederhana dan panjang?"
+   },
+   "a": {
+    "en": "Short: up to 15 words; medium: 15–25; long: over 25.",
+    "ms": "Pendek: hingga 15; sederhana: 15–25; panjang: lebih 25."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "readable",
+   "q": {
+    "en": "Maximum words in a short paragraph?",
+    "ms": "Maksimum perkataan dalam perenggan pendek?"
+   },
+   "a": {
+    "en": "100 words or fewer.",
+    "ms": "100 perkataan atau kurang."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "readable",
+   "q": {
+    "en": "What do headings do for readers?",
+    "ms": "Apa fungsi tajuk kepada pembaca?"
+   },
+   "a": {
+    "en": "Organise lengthy material, grab attention, increase understanding, emphasise key ideas, show shifts.",
+    "ms": "Susun bahan panjang, tarik perhatian, tingkat kefahaman, tekankan idea utama, tunjuk peralihan."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "clarity",
+   "q": {
+    "en": "Name the eight steps for clarity.",
+    "ms": "Namakan lapan langkah kejelasan."
+   },
+   "a": {
+    "en": "Break up long sentences; rewrite hedging; impose parallelism; correct dangling modifiers; reword noun sequences; replace camouflaged verbs; clarify structure; clarify awkward references.",
+    "ms": "Pecah ayat panjang; tulis semula hedging; parallelism; betulkan dangling modifier; tulis semula jujukan kata nama; ganti kata kerja tersembunyi; jelaskan struktur; jelaskan rujukan."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "clarity",
+   "q": {
+    "en": "Four tips for conciseness?",
+    "ms": "Empat tip keringkasan?"
+   },
+   "a": {
+    "en": "Delete unnecessary words, shorten long words and phrases, eliminate redundancies, rewrite.",
+    "ms": "Buang perkataan tidak perlu, pendekkan, hapus kelewahan, tulis semula."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "clarity",
+   "q": {
+    "en": "What is a hedging sentence?",
+    "ms": "Apakah ayat hedging?"
+   },
+   "a": {
+    "en": "A sentence that is vague or noncommittal and should be rewritten to be clear. (Definition from textbook idea; slides only list the step.)",
+    "ms": "Ayat kabur yang perlu ditulis semula agar jelas. (Takrif dari idea buku teks; slaid hanya senaraikan langkah.)"
+   }
+  },
+  {
+   "id": "c11",
+   "t": "design",
+   "q": {
+    "en": "Four principles of effective design?",
+    "ms": "Empat prinsip reka bentuk berkesan?"
+   },
+   "a": {
+    "en": "Consistency, balance, restraint, detail.",
+    "ms": "Konsistensi, keseimbangan, kawalan, perincian."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "design",
+   "q": {
+    "en": "Five document design elements?",
+    "ms": "Lima elemen reka bentuk dokumen?"
+   },
+   "a": {
+    "en": "White space, margins, justification, typefaces, type styles.",
+    "ms": "Ruang putih, margin, justification, typefaces, type styles."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "design",
+   "q": {
+    "en": "Four tips for designing for mobile devices?",
+    "ms": "Empat tip reka bentuk mudah alih?"
+   },
+   "a": {
+    "en": "Think in small chunks, use white space generously, format simply, experiment with layouts.",
+    "ms": "Bahagian kecil, ruang putih, format ringkas, cuba susun atur."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "proof",
+   "q": {
+    "en": "Four kinds of problems found in proofreading?",
+    "ms": "Empat jenis masalah dalam semakan bukti?"
+   },
+   "a": {
+    "en": "Language errors, missing material, design errors, typographical errors.",
+    "ms": "Kesilapan bahasa, bahan tertinggal, reka bentuk, menaip."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "proof",
+   "q": {
+    "en": "List eight proofreading tips.",
+    "ms": "Senaraikan lapan tip semakan bukti."
+   },
+   "a": {
+    "en": "Multiple passes; perceptual tricks; double-check high-priority items; distance; vigilance; focus; review digital on paper; take your time.",
+    "ms": "Beberapa lintasan; helah persepsi; semak keutamaan; jarak; waspada; fokus; semak atas kertas; ambil masa."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "proof",
+   "q": {
+    "en": "Why review complex digital documents on paper?",
+    "ms": "Kenapa semak dokumen digital kompleks atas kertas?"
+   },
+   "a": {
+    "en": "It is one of the proofreading tips; paper helps you catch errors missed on screen.",
+    "ms": "Ia salah satu tip; kertas membantu kesan kesilapan yang terlepas di skrin."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "distrib",
+   "q": {
+    "en": "Four factors in choosing a distribution method?",
+    "ms": "Empat faktor memilih kaedah pengedaran?"
+   },
+   "a": {
+    "en": "Cost, convenience, time, security and privacy.",
+    "ms": "Kos, kemudahan, masa, keselamatan dan privasi."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "revise",
+   "q": {
+    "en": "Name two questions to ask when evaluating another’s writing.",
+    "ms": "Namakan dua soalan semasa menilai tulisan orang lain."
+   },
+   "a": {
+    "en": "e.g. What is the purpose? Who is the target audience? Is the tone appropriate?",
+    "ms": "cth Apakah tujuan? Siapa audiens sasaran? Adakah nada sesuai?"
+   }
+  },
+  {
+   "id": "c19",
+   "t": "readable",
+   "q": {
+    "en": "What are lists used for?",
+    "ms": "Apa kegunaan senarai?"
+   },
+   "a": {
+    "en": "Set off important ideas, simplify complex subjects, highlight sequences.",
+    "ms": "Tonjol idea penting, ringkaskan subjek kompleks, serlah urutan."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "design",
+   "q": {
+    "en": "What is “restraint” in design?",
+    "ms": "Apakah “restraint” dalam reka bentuk?"
+   },
+   "a": {
+    "en": "One of the four principles: avoid overdoing fonts, styles and effects. (Meaning from textbook idea; slides only name it.)",
+    "ms": "Satu daripada empat prinsip: elak berlebihan font, gaya dan kesan. (Maksud dari idea buku teks; slaid hanya menamakannya.)"
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "revise",
+   "q": {
+    "en": "Which is NOT one of the three things evaluated in a first draft?",
+    "ms": "Yang mana BUKAN tiga perkara dinilai dalam draf pertama?"
+   },
+   "o": [
+    "Content",
+    "Organization",
+    "Tone",
+    "Price"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Content, organization, tone.",
+    "ms": "Kandungan, organisasi, nada."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "revise",
+   "q": {
+    "en": "When evaluating another’s writing, you should:",
+    "ms": "Semasa menilai tulisan orang lain, anda patut:"
+   },
+   "o": [
+    "Impose your own style",
+    "Support the writer’s intent",
+    "Rewrite everything",
+    "Ignore the purpose"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Promote the writer’s success by supporting their intent.",
+    "ms": "Bantu kejayaan penulis dengan menyokong niat mereka."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "revise",
+   "q": {
+    "en": "“Too formal? Too casual?” checks which area?",
+    "ms": "“Terlalu formal? Terlalu santai?” menyemak bidang mana?"
+   },
+   "o": [
+    "Content",
+    "Tone",
+    "Organization",
+    "Distribution"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Tone.",
+    "ms": "Nada."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "readable",
+   "q": {
+    "en": "A medium sentence has:",
+    "ms": "Ayat sederhana mempunyai:"
+   },
+   "o": [
+    "Up to 15 words",
+    "15–25 words",
+    "Over 25 words",
+    "Exactly 20 words"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "readable",
+   "q": {
+    "en": "Short paragraphs have:",
+    "ms": "Perenggan pendek mempunyai:"
+   },
+   "o": [
+    "100 words or fewer",
+    "200 words",
+    "300 words",
+    "Unlimited"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 14.",
+    "ms": "Slaid 14."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "readable",
+   "q": {
+    "en": "Which is NOT a readability technique?",
+    "ms": "Yang mana BUKAN teknik kebolehbacaan?"
+   },
+   "o": [
+    "Vary sentence length",
+    "Use lists",
+    "Add headings",
+    "Use dense long paragraphs"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Keep paragraphs short.",
+    "ms": "Pastikan perenggan pendek."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "readable",
+   "q": {
+    "en": "Lists are best for:",
+    "ms": "Senarai paling sesuai untuk:"
+   },
+   "o": [
+    "Quotations",
+    "Sequences of ideas and series of items",
+    "Apologies",
+    "Greetings"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Lists highlight sequences and set off important ideas.",
+    "ms": "Senarai serlahkan urutan dan idea penting."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "clarity",
+   "q": {
+    "en": "“Impose parallelism” belongs to editing for:",
+    "ms": "“Impose parallelism” tergolong dalam penyuntingan untuk:"
+   },
+   "o": [
+    "Clarity",
+    "Conciseness",
+    "Design",
+    "Distribution"
+   ],
+   "a": 0,
+   "e": {
+    "en": "It is one of the eight clarity steps.",
+    "ms": "Satu daripada lapan langkah kejelasan."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "clarity",
+   "q": {
+    "en": "Which is a conciseness tip?",
+    "ms": "Yang mana tip keringkasan?"
+   },
+   "o": [
+    "Add hedging",
+    "Eliminate redundancies",
+    "Lengthen phrases",
+    "Use long noun sequences"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Delete unnecessary words, shorten, eliminate redundancies, rewrite.",
+    "ms": "Buang perkataan, pendekkan, hapus kelewahan, tulis semula."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "clarity",
+   "q": {
+    "en": "How many steps improve clarity?",
+    "ms": "Berapa langkah meningkatkan kejelasan?"
+   },
+   "o": [
+    "Four",
+    "Six",
+    "Eight",
+    "Ten"
+   ],
+   "a": 2,
+   "e": {
+    "en": "LO 6.3: eight steps.",
+    "ms": "LO 6.3: lapan langkah."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "clarity",
+   "q": {
+    "en": "A “dangling modifier” should be:",
+    "ms": "“Dangling modifier” patut:"
+   },
+   "o": [
+    "Corrected",
+    "Ignored",
+    "Underlined",
+    "Capitalised"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Correct dangling modifiers is a clarity step.",
+    "ms": "Betulkan dangling modifier ialah langkah kejelasan."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "design",
+   "q": {
+    "en": "Which is a principle of effective design?",
+    "ms": "Yang mana prinsip reka bentuk berkesan?"
+   },
+   "o": [
+    "Restraint",
+    "Clutter",
+    "Randomness",
+    "Complexity"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Consistency, balance, restraint, detail.",
+    "ms": "Konsistensi, keseimbangan, kawalan, perincian."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "design",
+   "q": {
+    "en": "Which is a document design element?",
+    "ms": "Yang mana elemen reka bentuk dokumen?"
+   },
+   "o": [
+    "White space",
+    "Postage",
+    "Signature",
+    "Hyperlink budget"
+   ],
+   "a": 0,
+   "e": {
+    "en": "White space, margins, justification, typefaces, type styles.",
+    "ms": "Ruang putih, margin, justification, typefaces, type styles."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "design",
+   "q": {
+    "en": "For mobile devices you should:",
+    "ms": "Untuk peranti mudah alih anda patut:"
+   },
+   "o": [
+    "Think in small chunks",
+    "Use dense text",
+    "Avoid white space",
+    "Use complex formats"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 25.",
+    "ms": "Slaid 25."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "proof",
+   "q": {
+    "en": "Which is a proofreading problem type?",
+    "ms": "Yang mana jenis masalah semakan bukti?"
+   },
+   "o": [
+    "Typographical errors",
+    "Competitive pricing",
+    "Market share",
+    "Brand colours"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Language, missing material, design, typographical.",
+    "ms": "Bahasa, bahan tertinggal, reka bentuk, menaip."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "proof",
+   "q": {
+    "en": "How many proofreading tips are in the objective?",
+    "ms": "Berapa tip semakan bukti dalam objektif?"
+   },
+   "o": [
+    "Four",
+    "Six",
+    "Eight",
+    "Twelve"
+   ],
+   "a": 2,
+   "e": {
+    "en": "LO 6.5: eight tips.",
+    "ms": "LO 6.5: lapan tip."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "proof",
+   "q": {
+    "en": "Which is a proofreading tip?",
+    "ms": "Yang mana tip semakan bukti?"
+   },
+   "o": [
+    "Rush to finish",
+    "Give yourself some distance",
+    "Proofread once only",
+    "Skip high-priority items"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Distance helps you see errors.",
+    "ms": "Jarak membantu nampak kesilapan."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "proof",
+   "q": {
+    "en": "Complex digital documents are best reviewed:",
+    "ms": "Dokumen digital kompleks paling baik disemak:"
+   },
+   "o": [
+    "On paper",
+    "On phone only",
+    "Not at all",
+    "By spellcheck only"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 29.",
+    "ms": "Slaid 29."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "distrib",
+   "q": {
+    "en": "Which is NOT a factor in choosing a distribution method?",
+    "ms": "Yang mana BUKAN faktor memilih kaedah pengedaran?"
+   },
+   "o": [
+    "Cost",
+    "Convenience",
+    "Security and privacy",
+    "Font colour"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Cost, convenience, time, security and privacy.",
+    "ms": "Kos, kemudahan, masa, keselamatan dan privasi."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "distrib",
+   "q": {
+    "en": "A confidential report is sent by an unsecured channel. Which factor was ignored?",
+    "ms": "Laporan sulit dihantar melalui saluran tidak selamat. Faktor mana diabaikan?"
+   },
+   "o": [
+    "Cost",
+    "Time",
+    "Security and privacy",
+    "Convenience"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Security and privacy.",
+    "ms": "Keselamatan dan privasi."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "revise",
+   "q": {
+    "en": "Which question checks the “you” attitude?",
+    "ms": "Soalan mana menyemak sikap “you”?"
+   },
+   "o": [
+    "Does the writing demonstrate the “you” attitude toward the audience?",
+    "Is the paper white?",
+    "Is the font large?",
+    "Is the date correct?"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "readable",
+   "q": {
+    "en": "Headings do all EXCEPT:",
+    "ms": "Tajuk melakukan semua KECUALI:"
+   },
+   "o": [
+    "Group related paragraphs",
+    "Grab attention",
+    "Increase understanding",
+    "Replace all content"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Headings support content, they don’t replace it.",
+    "ms": "Tajuk menyokong kandungan, bukan menggantikannya."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "clarity",
+   "q": {
+    "en": "“Rewrite hedging sentences” aims to:",
+    "ms": "“Rewrite hedging sentences” bertujuan:"
+   },
+   "o": [
+    "Make them clearer and more direct",
+    "Make them longer",
+    "Add jargon",
+    "Remove all verbs"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Hedging makes writing vague.",
+    "ms": "Hedging menjadikan tulisan kabur."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "readable",
+   "marks": 8,
+   "q": {
+    "en": "Explain four techniques to improve the readability of a business message.",
+    "ms": "Terangkan empat teknik meningkatkan kebolehbacaan mesej perniagaan."
+   },
+   "pts": {
+    "en": [
+     "Vary sentence length: short up to 15, medium 15–25, long over 25 words (2)",
+     "Keep paragraphs short: 100 words or fewer, emphasise key ideas (2)",
+     "Use lists to set off ideas and simplify (2)",
+     "Add headings and subheadings to organise and show shifts (2)"
+    ],
+    "ms": [
+     "Ubah panjang ayat: pendek hingga 15, sederhana 15–25, panjang lebih 25 (2)",
+     "Perenggan pendek: 100 perkataan atau kurang, tekankan idea utama (2)",
+     "Guna senarai untuk tonjol dan ringkaskan (2)",
+     "Tambah tajuk untuk susun dan tunjuk peralihan (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "clarity",
+   "marks": 10,
+   "q": {
+    "en": "Describe eight steps to improve clarity and four tips for conciseness.",
+    "ms": "Huraikan lapan langkah meningkatkan kejelasan dan empat tip keringkasan."
+   },
+   "pts": {
+    "en": [
+     "Break up long sentences, rewrite hedging (1)",
+     "Impose parallelism, correct dangling modifiers (1)",
+     "Reword long noun sequences, replace camouflaged verbs (1)",
+     "Clarify sentence structure and awkward references (1)",
+     "Eight clarity steps named in total (2)",
+     "Delete unnecessary words and phrases (1)",
+     "Shorten long words and phrases (1)",
+     "Eliminate redundancies and rewrite (2)"
+    ],
+    "ms": [
+     "Pecah ayat panjang, tulis semula hedging (1)",
+     "Parallelism, betulkan dangling modifier (1)",
+     "Tulis semula jujukan kata nama, ganti kata kerja tersembunyi (1)",
+     "Jelaskan struktur ayat dan rujukan janggal (1)",
+     "Lapan langkah kejelasan dinamakan keseluruhan (2)",
+     "Buang perkataan dan frasa tidak perlu (1)",
+     "Pendekkan perkataan dan frasa panjang (1)",
+     "Hapus kelewahan dan tulis semula (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "design",
+   "marks": 6,
+   "q": {
+    "en": "Discuss four principles of effective document design and the role of design elements.",
+    "ms": "Bincangkan empat prinsip reka bentuk dokumen berkesan dan peranan elemen reka bentuk."
+   },
+   "pts": {
+    "en": [
+     "Consistency, balance (1)",
+     "Restraint, detail (1)",
+     "White space and margins (1)",
+     "Justification (1)",
+     "Typefaces and type styles (1)",
+     "Mobile: small chunks, simple format (1)"
+    ],
+    "ms": [
+     "Konsistensi, keseimbangan (1)",
+     "Kawalan, perincian (1)",
+     "Ruang putih dan margin (1)",
+     "Justification (1)",
+     "Typefaces dan type styles (1)",
+     "Mudah alih: bahagian kecil, format ringkas (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "proof",
+   "marks": 8,
+   "q": {
+    "en": "Explain the importance of proofreading and give eight tips.",
+    "ms": "Terangkan kepentingan semakan bukti dan beri lapan tip."
+   },
+   "pts": {
+    "en": [
+     "Find language, design, typographical errors and missing material (2)",
+     "Multiple passes, perceptual tricks (1)",
+     "Double-check high-priority items, distance (1)",
+     "Be vigilant, stay focused (1)",
+     "Review complex digital documents on paper (1)",
+     "Take your time (1)",
+     "Eight tips named (1)"
+    ],
+    "ms": [
+     "Kesan kesilapan bahasa, reka bentuk, menaip dan bahan tertinggal (2)",
+     "Beberapa lintasan, helah persepsi (1)",
+     "Semak keutamaan, jarak (1)",
+     "Waspada, fokus (1)",
+     "Semak dokumen digital atas kertas (1)",
+     "Ambil masa (1)",
+     "Lapan tip dinamakan (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Revision",
+   "Semakan semula"
+  ],
+  [
+   "Readability",
+   "Kebolehbacaan"
+  ],
+  [
+   "Skimmable",
+   "Mudah diimbas"
+  ],
+  [
+   "Parallelism",
+   "Keselarian (parallelism)"
+  ],
+  [
+   "Hedging",
+   "Hedging (ayat berlindung)"
+  ],
+  [
+   "Dangling modifier",
+   "Modifier tergantung"
+  ],
+  [
+   "Camouflaged verb",
+   "Kata kerja tersembunyi"
+  ],
+  [
+   "Redundancy",
+   "Kelewahan"
+  ],
+  [
+   "Conciseness",
+   "Keringkasan"
+  ],
+  [
+   "White space",
+   "Ruang putih"
+  ],
+  [
+   "Justification",
+   "Penjajaran"
+  ],
+  [
+   "Typeface",
+   "Jenis taip"
+  ],
+  [
+   "Proofreading",
+   "Semakan bukti"
+  ],
+  [
+   "Distribution",
+   "Pengedaran"
+  ]
+ ]
+}

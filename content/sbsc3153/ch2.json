@@ -1,0 +1,1930 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch2",
+ "num": 2,
+ "title": {
+  "en": "Collaboration, Interpersonal Communication, and Business Etiquette",
+  "ms": "Kolaborasi, Komunikasi Interpersonal dan Etiket Perniagaan"
+ },
+ "standard": "Bovee Ch 2",
+ "outcomes": {
+  "en": [
+   "List the advantages and disadvantages of teams, characteristics of effective teams, and four key issues of group dynamics",
+   "Offer guidelines for collaborative communication, identify collaboration technologies, and give constructive feedback",
+   "List the key steps for productive team meetings",
+   "Identify the major technologies that enhance or replace in-person meetings",
+   "Identify modes of listening, describe the listening process, and explain selective listening",
+   "Explain the importance of nonverbal communication and identify six categories of nonverbal expression",
+   "Explain the importance of business etiquette and identify key areas where it is essential"
+  ],
+  "ms": [
+   "Senaraikan kelebihan dan kekurangan pasukan, ciri pasukan berkesan, dan empat isu dinamik kumpulan",
+   "Beri garis panduan komunikasi kolaboratif, kenal pasti teknologi kolaborasi, dan beri maklum balas membina",
+   "Senaraikan langkah utama mesyuarat pasukan yang produktif",
+   "Kenal pasti teknologi utama yang menambah atau menggantikan mesyuarat bersemuka",
+   "Kenal pasti mod mendengar, huraikan proses mendengar, dan terangkan pendengaran terpilih",
+   "Terangkan kepentingan komunikasi bukan lisan dan kenal pasti enam kategori ekspresi bukan lisan",
+   "Terangkan kepentingan etiket perniagaan dan kenal pasti bidang utama yang memerlukannya"
+  ]
+ },
+ "sections": [
+  {
+   "id": "team",
+   "icon": "👥",
+   "title": {
+    "en": "What Is a Team?",
+    "ms": "Apakah Pasukan?"
+   },
+   "ref": "Slide 5",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "A **team** is a unit of **two or more people** who share a **mission** and the **responsibility** for working to achieve a **common goal**.",
+     "ms": "**Pasukan** ialah unit **dua orang atau lebih** yang berkongsi **misi** dan **tanggungjawab** untuk mencapai **matlamat bersama**."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Team type",
+       "Features"
+      ],
+      "ms": [
+       "Jenis pasukan",
+       "Ciri"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Problem-solving team",
+        "Assembles to resolve specific issues; cross-functional for maximum diversity; disbands once goal is achieved"
+       ],
+       "ms": [
+        "Pasukan penyelesaian masalah",
+        "Berhimpun menyelesaikan isu khusus; merentas fungsi untuk kepelbagaian maksimum; bubar bila matlamat dicapai"
+       ]
+      },
+      {
+       "en": [
+        "Task force",
+        "Assembles to resolve specific issues; cross-functional; disbands once goal is achieved"
+       ],
+       "ms": [
+        "Pasukan petugas (task force)",
+        "Berhimpun menyelesaikan isu khusus; merentas fungsi; bubar bila matlamat dicapai"
+       ]
+      },
+      {
+       "en": [
+        "Committee",
+        "Assembles regularly for ongoing and recurring issues; focused teams (e.g. strategic planning); formal teams with long life span"
+       ],
+       "ms": [
+        "Jawatankuasa",
+        "Berhimpun secara tetap untuk isu berterusan dan berulang; pasukan fokus (cth perancangan strategik); pasukan formal berjangka hayat panjang"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The slide text groups the three columns in a table; I mapped the lines to each team type by reading order. Check slide 5 if unsure.",
+     "ms": "Teks slaid mengumpulkan tiga lajur dalam jadual; saya padankan baris kepada setiap jenis mengikut susunan bacaan. Semak slaid 5 jika ragu."
+    },
+    {
+     "k": "tip",
+     "en": "Task force and problem-solving team end when the goal is done. A committee is long-lived.",
+     "ms": "Task force dan pasukan penyelesaian masalah tamat bila matlamat siap. Jawatankuasa berpanjangan."
+    }
+   ]
+  },
+  {
+   "id": "proscons",
+   "icon": "⚖️",
+   "title": {
+    "en": "Advantages, Disadvantages and Effective Teams",
+    "ms": "Kelebihan, Kekurangan dan Pasukan Berkesan"
+   },
+   "ref": "Slides 6–8",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Advantages",
+       "Disadvantages"
+      ],
+      "ms": [
+       "Kelebihan",
+       "Kekurangan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Increased information and knowledge",
+        "Groupthink"
+       ],
+       "ms": [
+        "Maklumat dan pengetahuan bertambah",
+        "Groupthink (berfikir seragam)"
+       ]
+      },
+      {
+       "en": [
+        "Increased diversity of views",
+        "Hidden agendas"
+       ],
+       "ms": [
+        "Kepelbagaian pandangan bertambah",
+        "Agenda tersembunyi"
+       ]
+      },
+      {
+       "en": [
+        "Increased acceptance of a solution",
+        "Cost"
+       ],
+       "ms": [
+        "Penerimaan penyelesaian meningkat",
+        "Kos"
+       ]
+      },
+      {
+       "en": [
+        "Higher performance levels",
+        "Overload"
+       ],
+       "ms": [
+        "Tahap prestasi lebih tinggi",
+        "Beban berlebihan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Characteristics of effective teams",
+     "ms": "Ciri pasukan berkesan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Clear sense of purpose",
+      "Open and honest communication",
+      "Consensus-based decision making",
+      "Creativity",
+      "Effective conflict resolution"
+     ],
+     "ms": [
+      "Tujuan jelas",
+      "Komunikasi terbuka dan jujur",
+      "Keputusan berasaskan konsensus",
+      "Kreativiti",
+      "Penyelesaian konflik berkesan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dynamics",
+   "icon": "🔄",
+   "title": {
+    "en": "Group Dynamics",
+    "ms": "Dinamik Kumpulan"
+   },
+   "ref": "Slides 9–13",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Four factors influencing group dynamics",
+     "ms": "Empat faktor mempengaruhi dinamik kumpulan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Roles assumed by team members",
+      "Current phase of team development",
+      "Conflict resolution skills",
+      "Effectiveness at overcoming resistance"
+     ],
+     "ms": [
+      "Peranan yang diambil ahli pasukan",
+      "Fasa semasa pembangunan pasukan",
+      "Kemahiran menyelesaikan konflik",
+      "Keberkesanan mengatasi tentangan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Team roles (Table 2.1)",
+     "ms": "Peranan pasukan (Jadual 2.1)"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Type",
+       "Roles"
+      ],
+      "ms": [
+       "Jenis",
+       "Peranan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Functional: task-oriented",
+        "Initiating (starts inquiry); Information giving or seeking; Coordinating (shows relationships, summarises); Procedure setting (suggests decision procedures)"
+       ],
+       "ms": [
+        "Fungsian: berorientasikan tugas",
+        "Initiating (mulakan siasatan); Memberi/mencari maklumat; Coordinating (tunjuk hubungan, ringkaskan); Procedure setting (cadang prosedur keputusan)"
+       ]
+      },
+      {
+       "en": [
+        "Functional: team-maintenance",
+        "Encouraging (support, praise); Harmonizing (mediate, humour); Compromising (yield on a point)"
+       ],
+       "ms": [
+        "Fungsian: penyelenggaraan pasukan",
+        "Encouraging (sokongan, pujian); Harmonizing (pengantaraan, humor); Compromising (beralah)"
+       ]
+      },
+      {
+       "en": [
+        "Dysfunctional: self-oriented",
+        "Controlling (dominating); Withdrawing (silent or refuses); Attention seeking; Diverting (topics of personal interest)"
+       ],
+       "ms": [
+        "Tidak fungsian: berorientasikan diri",
+        "Controlling (mendominasi); Withdrawing (diam/enggan); Attention seeking (mahu perhatian); Diverting (topik minat sendiri)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 11 (Allowing for Team Evolution) is an image/figure with no text. The textbook shows the stages of team development.",
+     "ms": "Slaid 11 (Allowing for Team Evolution) ialah imej tanpa teks. Buku teks menunjukkan peringkat pembangunan pasukan."
+    },
+    {
+     "k": "h",
+     "en": "Resolving conflict (slide 12)",
+     "ms": "Menyelesaikan konflik (slaid 12)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Proactive behaviour",
+      "Communication",
+      "Openness",
+      "Research",
+      "Flexibility",
+      "Fair play",
+      "Alliance"
+     ],
+     "ms": [
+      "Tingkah laku proaktif",
+      "Komunikasi",
+      "Keterbukaan",
+      "Penyelidikan",
+      "Fleksibiliti",
+      "Permainan adil",
+      "Pakatan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Overcoming resistance (slide 13)",
+     "ms": "Mengatasi tentangan (slaid 13)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Actively listen",
+      "Express interest",
+      "Ask questions",
+      "Move towards resolution via collaboration"
+     ],
+     "ms": [
+      "Dengar secara aktif",
+      "Tunjuk minat",
+      "Tanya soalan",
+      "Bergerak ke penyelesaian melalui kolaborasi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "collab",
+   "icon": "✍️",
+   "title": {
+    "en": "Collaborative Writing and Feedback",
+    "ms": "Penulisan Kolaboratif dan Maklum Balas"
+   },
+   "ref": "Slides 15–20",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Guidelines for collaborative writing (8)",
+     "ms": "Garis panduan penulisan kolaboratif (8)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Select collaborators carefully",
+      "Agree on project goals",
+      "Give the team time to bond",
+      "Clarify individual responsibilities",
+      "Establish clear processes",
+      "**Avoid composing as a group**",
+      "Ensure tools are ready and compatible",
+      "Check group progress"
+     ],
+     "ms": [
+      "Pilih kolaborator dengan teliti",
+      "Setuju matlamat projek",
+      "Beri masa pasukan mesra",
+      "Jelaskan tanggungjawab individu",
+      "Wujudkan proses jelas",
+      "**Elak mengarang sebagai kumpulan**",
+      "Pastikan alat sedia dan serasi",
+      "Semak kemajuan kumpulan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Collaboration technologies",
+     "ms": "Teknologi kolaborasi"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Simple software tools",
+      "Track changes and commenting",
+      "Collaboration systems",
+      "Content management systems",
+      "Shared online workspaces",
+      "Social networks and virtual communities",
+      "Collaboration on mobile devices"
+     ],
+     "ms": [
+      "Alat perisian ringkas",
+      "Track changes dan komen",
+      "Sistem kolaborasi",
+      "Sistem pengurusan kandungan",
+      "Ruang kerja dalam talian dikongsi",
+      "Rangkaian sosial dan komuniti maya",
+      "Kolaborasi pada peranti mudah alih"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Giving constructive feedback (Table 2.2)",
+     "ms": "Memberi maklum balas membina (Jadual 2.2)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Think through your suggested changes carefully",
+      "Discuss improvements rather than flaws",
+      "Focus on controllable behaviour",
+      "Be specific",
+      "Keep feedback impersonal",
+      "Verify understanding",
+      "Time your feedback carefully",
+      "Highlight any limitations your feedback may have"
+     ],
+     "ms": [
+      "Fikir cadangan perubahan dengan teliti",
+      "Bincang penambahbaikan, bukan kelemahan",
+      "Fokus pada tingkah laku yang boleh dikawal",
+      "Spesifik",
+      "Maklum balas tidak peribadi",
+      "Sahkan kefahaman",
+      "Pilih masa maklum balas dengan teliti",
+      "Nyatakan had maklum balas anda"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Say “here is how to make it clearer”, not “this is confusing”. Comment on the message, not the person.",
+     "ms": "Cakap “beginilah cara menjadikannya lebih jelas”, bukan “ini mengelirukan”. Komen mesej, bukan orang."
+    }
+   ]
+  },
+  {
+   "id": "meetings",
+   "icon": "📅",
+   "title": {
+    "en": "Productive Meetings",
+    "ms": "Mesyuarat Produktif"
+   },
+   "ref": "Slides 22–28",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Preparing",
+     "ms": "Persediaan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Define your purpose",
+      "Select participants",
+      "Choose time and venue",
+      "Set the agenda"
+     ],
+     "ms": [
+      "Tentukan tujuan",
+      "Pilih peserta",
+      "Pilih masa dan tempat",
+      "Tetapkan agenda"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Conducting and contributing",
+     "ms": "Mengendali dan menyumbang"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Keep the discussion on track",
+      "Follow agreed-on rules",
+      "Encourage participation",
+      "Participate actively",
+      "Use mobile devices respectfully",
+      "Close effectively"
+     ],
+     "ms": [
+      "Pastikan perbincangan kekal fokus",
+      "Ikut peraturan dipersetujui",
+      "Galakkan penyertaan",
+      "Sertai secara aktif",
+      "Guna peranti mudah alih dengan hormat",
+      "Tutup dengan berkesan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Virtual meetings",
+     "ms": "Mesyuarat maya"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Include: instant messaging, teleconferencing, telepresence, webinars"
+     ],
+     "ms": [
+      "Termasuk: pesanan segera, telesidang, telepresence, webinar"
+     ]
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Extra planning",
+      "Be aware of limitations of technology",
+      "Keep participants engaged",
+      "Ensure participants are prepared",
+      "Give participants opportunities to participate"
+     ],
+     "ms": [
+      "Perancangan tambahan",
+      "Sedar had teknologi",
+      "Pastikan peserta terlibat",
+      "Pastikan peserta bersedia",
+      "Beri peluang peserta menyertai"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slides 24 and 25 (Typical Meeting Agenda; Capturing Key Decisions) are figures with no text.",
+     "ms": "Slaid 24 dan 25 (Agenda Mesyuarat; Merekod Keputusan) ialah rajah tanpa teks."
+    }
+   ]
+  },
+  {
+   "id": "listen",
+   "icon": "👂",
+   "title": {
+    "en": "Listening",
+    "ms": "Mendengar"
+   },
+   "ref": "Slides 30–33",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Types of listening (slide 30 lists four)",
+     "ms": "Jenis mendengar (slaid 30 senaraikan empat)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Content listening**",
+      "**Critical listening**",
+      "**Empathic listening**",
+      "**Active listening**"
+     ],
+     "ms": [
+      "**Mendengar kandungan**",
+      "**Mendengar kritis**",
+      "**Mendengar empati**",
+      "**Mendengar aktif**"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The learning objective says three major modes; the slide lists four terms. Your textbook treats content, critical and empathic as the three modes and active listening as a technique. Confirm with your lecturer.",
+     "ms": "Objektif kata tiga mod utama; slaid menyenaraikan empat istilah. Buku teks menganggap content, critical dan empathic sebagai tiga mod dan active listening sebagai teknik. Sahkan dengan pensyarah."
+    },
+    {
+     "k": "h",
+     "en": "The listening process (5 steps)",
+     "ms": "Proses mendengar (5 langkah)"
+    },
+    {
+     "k": "flow",
+     "en": [
+      "Receiving",
+      "Decoding",
+      "Remembering",
+      "Evaluating",
+      "Responding"
+     ],
+     "ms": [
+      "Menerima",
+      "Menyahkod",
+      "Mengingat",
+      "Menilai",
+      "Bertindak balas"
+     ]
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Effective listeners",
+       "Ineffective listeners"
+      ],
+      "ms": [
+       "Pendengar berkesan",
+       "Pendengar tidak berkesan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Listen actively",
+        "Listen passively"
+       ],
+       "ms": [
+        "Mendengar secara aktif",
+        "Mendengar secara pasif"
+       ]
+      },
+      {
+       "en": [
+        "Take careful notes",
+        "Take no or ineffective notes"
+       ],
+       "ms": [
+        "Catat nota teliti",
+        "Tiada nota atau nota tidak berkesan"
+       ]
+      },
+      {
+       "en": [
+        "Make frequent eye contact (culture-dependent)",
+        "Little or inappropriate eye contact"
+       ],
+       "ms": [
+        "Kerap pandang mata (bergantung budaya)",
+        "Kurang atau tidak sesuai pandang mata"
+       ]
+      },
+      {
+       "en": [
+        "Stay focused",
+        "Minds wander, easily distracted"
+       ],
+       "ms": [
+        "Kekal fokus",
+        "Fikiran melayang, mudah terganggu"
+       ]
+      },
+      {
+       "en": [
+        "Mentally paraphrase key points",
+        "Fail to paraphrase"
+       ],
+       "ms": [
+        "Parafrasa mental poin utama",
+        "Gagal parafrasa"
+       ]
+      },
+      {
+       "en": [
+        "Adjust listening style to the situation",
+        "Same style regardless"
+       ],
+       "ms": [
+        "Laras gaya mendengar mengikut situasi",
+        "Gaya sama walau apa situasi"
+       ]
+      },
+      {
+       "en": [
+        "Give nonverbal cues",
+        "No nonverbal feedback"
+       ],
+       "ms": [
+        "Beri isyarat bukan lisan",
+        "Tiada maklum balas bukan lisan"
+       ]
+      },
+      {
+       "en": [
+        "Save questions until appropriate",
+        "Interrupt whenever they disagree"
+       ],
+       "ms": [
+        "Simpan soalan hingga masa sesuai",
+        "Menyampuk bila tak setuju"
+       ]
+      },
+      {
+       "en": [
+        "Overlook style differences, focus on message",
+        "Distracted by style; judgmental"
+       ],
+       "ms": [
+        "Abaikan beza gaya, fokus pada mesej",
+        "Terganggu gaya; menghakimi"
+       ]
+      },
+      {
+       "en": [
+        "Distinguish main points from details",
+        "Cannot distinguish them"
+       ],
+       "ms": [
+        "Bezakan poin utama dan butiran",
+        "Tidak dapat membezakan"
+       ]
+      },
+      {
+       "en": [
+        "Look for opportunities to learn",
+        "Assume they know everything"
+       ],
+       "ms": [
+        "Cari peluang belajar",
+        "Anggap sudah tahu semua"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Selective listening (LO 2.5) is not explained in the slide text. Extra (not in slides): it means hearing only what you want to hear. Check your textbook.",
+     "ms": "Pendengaran terpilih (LO 2.5) tidak dijelaskan dalam teks slaid. Extra (bukan dalam slaid): bermaksud hanya mendengar apa yang anda mahu dengar. Semak buku teks."
+    }
+   ]
+  },
+  {
+   "id": "nonverbal",
+   "icon": "🙂",
+   "title": {
+    "en": "Nonverbal Communication",
+    "ms": "Komunikasi Bukan Lisan"
+   },
+   "ref": "Slides 35–36",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Six categories",
+     "ms": "Enam kategori"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Facial expression",
+      "Gesture and posture",
+      "Vocal characteristics",
+      "Personal appearance",
+      "Touch",
+      "Time and space"
+     ],
+     "ms": [
+      "Ekspresi muka",
+      "Gerak isyarat dan postur",
+      "Ciri vokal",
+      "Penampilan peribadi",
+      "Sentuhan",
+      "Masa dan ruang"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Use nonverbal communication effectively",
+     "ms": "Guna komunikasi bukan lisan dengan berkesan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "When you’re talking",
+      "When you’re not talking",
+      "When you’re listening"
+     ],
+     "ms": [
+      "Semasa anda bercakap",
+      "Semasa anda tidak bercakap",
+      "Semasa anda mendengar"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: F-G-V-P-T-T (Face, Gesture, Voice, Personal look, Touch, Time/space).",
+     "ms": "Cara ingat: F-G-V-P-T-T (Face, Gesture, Voice, Personal look, Touch, Time/space)."
+    }
+   ]
+  },
+  {
+   "id": "etiq",
+   "icon": "🤝",
+   "title": {
+    "en": "Business Etiquette",
+    "ms": "Etiket Perniagaan"
+   },
+   "ref": "Slides 38–45",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "In the workplace",
+     "ms": "Di tempat kerja"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Personal appearance",
+      "Personal grooming",
+      "Phone skills"
+     ],
+     "ms": [
+      "Penampilan peribadi",
+      "Dandanan diri",
+      "Kemahiran telefon"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Using phones",
+     "ms": "Menggunakan telefon"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Be conscious of how your voice sounds",
+      "Be courteous",
+      "Convey a positive, professional attitude",
+      "End calls with courtesy and clarity",
+      "Use your outgoing voicemail message to help callers",
+      "Be considerate and clear when leaving voicemail"
+     ],
+     "ms": [
+      "Sedar bunyi suara anda",
+      "Bersopan",
+      "Tunjuk sikap positif dan profesional",
+      "Tamat panggilan dengan sopan dan jelas",
+      "Guna mesej peti suara untuk bantu pemanggil",
+      "Bertimbang rasa dan jelas bila tinggalkan peti suara"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "In social situations",
+     "ms": "Dalam situasi sosial"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Meeting others: introduce yourself, introduce others, observe customs (especially international business)",
+      "Business meals: choose foods that are easy to eat, avoid alcohol, choose appropriate conversation topics",
+      "Representing your company; observing dining etiquette"
+     ],
+     "ms": [
+      "Berjumpa orang: perkenal diri, perkenal orang lain, patuhi adat (terutama perniagaan antarabangsa)",
+      "Jamuan perniagaan: pilih makanan mudah dimakan, elak alkohol, pilih topik sesuai",
+      "Mewakili syarikat; mematuhi etiket makan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Online etiquette",
+     "ms": "Etiket dalam talian"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Avoid personal attacks; stay on topic; don’t present opinions as facts",
+      "Follow correct grammar and spelling",
+      "Use virus protection and secure passwords",
+      "Ask if it is a good time to IM chat",
+      "Avoid profanity and emoticons; avoid multitasking",
+      "**Never assume privacy**",
+      "Do NOT use “Reply All” unnecessarily",
+      "Don’t waste others’ time with sloppy messages; respect boundaries",
+      "Be careful of online commenting mechanisms"
+     ],
+     "ms": [
+      "Elak serangan peribadi; kekal pada topik; jangan sampaikan pendapat sebagai fakta",
+      "Ikut tatabahasa dan ejaan betul",
+      "Guna perlindungan virus dan kata laluan selamat",
+      "Tanya sama ada sesuai untuk IM",
+      "Elak carutan dan emotikon; elak multitugas",
+      "**Jangan anggap ada privasi**",
+      "JANGAN guna “Reply All” sewenang-wenangnya",
+      "Jangan bazirkan masa orang dengan mesej cuai; hormati sempadan",
+      "Berhati-hati dengan mekanisme komen dalam talian"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Mobile device etiquette",
+     "ms": "Etiket peranti mudah alih"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Implement good personal use habits",
+      "Be careful using virtual assistants",
+      "Be aware of expectations and policies"
+     ],
+     "ms": [
+      "Amalkan tabiat penggunaan peribadi yang baik",
+      "Berhati-hati guna pembantu maya",
+      "Sedar jangkaan dan dasar"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Table 2.4 (Dressing for Success) has four columns of wardrobe advice: smooth and finished; elegant and refined; crisp and starched; up-to-the-minute trendy. Each column builds on the one before.",
+     "ms": "Jadual 2.4 (Dressing for Success) ada empat lajur nasihat pakaian: kemas dan licin; elegan dan halus; kemas berkanji; terkini dan bergaya. Setiap lajur menambah lajur sebelumnya."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "team",
+   "q": {
+    "en": "Define a team.",
+    "ms": "Takrifkan pasukan."
+   },
+   "a": {
+    "en": "A unit of two or more people who share a mission and responsibility for achieving a common goal.",
+    "ms": "Unit dua orang atau lebih yang berkongsi misi dan tanggungjawab mencapai matlamat bersama."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "team",
+   "q": {
+    "en": "Which team type is formal and long-lived?",
+    "ms": "Jenis pasukan mana formal dan berjangka hayat panjang?"
+   },
+   "a": {
+    "en": "Committee.",
+    "ms": "Jawatankuasa."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "proscons",
+   "q": {
+    "en": "Four advantages of teams?",
+    "ms": "Empat kelebihan pasukan?"
+   },
+   "a": {
+    "en": "Increased information and knowledge, increased diversity of views, increased acceptance of a solution, higher performance levels.",
+    "ms": "Maklumat dan pengetahuan, kepelbagaian pandangan, penerimaan penyelesaian, prestasi lebih tinggi."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "proscons",
+   "q": {
+    "en": "Four disadvantages of teams?",
+    "ms": "Empat kekurangan pasukan?"
+   },
+   "a": {
+    "en": "Groupthink, hidden agendas, cost, overload.",
+    "ms": "Groupthink, agenda tersembunyi, kos, beban berlebihan."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "proscons",
+   "q": {
+    "en": "Five characteristics of effective teams?",
+    "ms": "Lima ciri pasukan berkesan?"
+   },
+   "a": {
+    "en": "Clear purpose; open and honest communication; consensus-based decisions; creativity; effective conflict resolution.",
+    "ms": "Tujuan jelas; komunikasi terbuka dan jujur; keputusan konsensus; kreativiti; penyelesaian konflik berkesan."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "dynamics",
+   "q": {
+    "en": "Four factors influencing group dynamics?",
+    "ms": "Empat faktor mempengaruhi dinamik kumpulan?"
+   },
+   "a": {
+    "en": "Roles assumed, phase of team development, conflict resolution skills, effectiveness at overcoming resistance.",
+    "ms": "Peranan diambil, fasa pembangunan, kemahiran selesai konflik, keberkesanan mengatasi tentangan."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "dynamics",
+   "q": {
+    "en": "Name the three categories of team roles.",
+    "ms": "Namakan tiga kategori peranan pasukan."
+   },
+   "a": {
+    "en": "Task-oriented (functional), team-maintenance (functional), self-oriented (dysfunctional).",
+    "ms": "Berorientasikan tugas (fungsian), penyelenggaraan pasukan (fungsian), berorientasikan diri (tidak fungsian)."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "dynamics",
+   "q": {
+    "en": "Give examples of dysfunctional self-oriented roles.",
+    "ms": "Beri contoh peranan tidak fungsian berorientasikan diri."
+   },
+   "a": {
+    "en": "Controlling, withdrawing, attention seeking, diverting.",
+    "ms": "Controlling, withdrawing, attention seeking, diverting."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "dynamics",
+   "q": {
+    "en": "Give team-maintenance roles.",
+    "ms": "Beri peranan penyelenggaraan pasukan."
+   },
+   "a": {
+    "en": "Encouraging, harmonizing, compromising.",
+    "ms": "Encouraging, harmonizing, compromising."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "dynamics",
+   "q": {
+    "en": "Four steps to overcome resistance?",
+    "ms": "Empat langkah mengatasi tentangan?"
+   },
+   "a": {
+    "en": "Actively listen, express interest, ask questions, move towards resolution via collaboration.",
+    "ms": "Dengar aktif, tunjuk minat, tanya soalan, bergerak ke penyelesaian melalui kolaborasi."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "collab",
+   "q": {
+    "en": "Which collaborative writing guideline says NOT to do something?",
+    "ms": "Garis panduan penulisan kolaboratif mana melarang sesuatu?"
+   },
+   "a": {
+    "en": "Avoid composing as a group.",
+    "ms": "Elak mengarang sebagai kumpulan."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "collab",
+   "q": {
+    "en": "Name four collaboration technologies.",
+    "ms": "Namakan empat teknologi kolaborasi."
+   },
+   "a": {
+    "en": "Track changes and commenting, collaboration systems, content management systems, shared online workspaces (also social networks, mobile).",
+    "ms": "Track changes dan komen, sistem kolaborasi, sistem pengurusan kandungan, ruang kerja dikongsi."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "collab",
+   "q": {
+    "en": "Give four tips for constructive feedback.",
+    "ms": "Beri empat tip maklum balas membina."
+   },
+   "a": {
+    "en": "Discuss improvements not flaws; focus on controllable behaviour; be specific; keep it impersonal; verify understanding; time it carefully.",
+    "ms": "Bincang penambahbaikan; fokus tingkah laku boleh dikawal; spesifik; tidak peribadi; sahkan kefahaman; masa sesuai."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "meetings",
+   "q": {
+    "en": "Four steps in preparing for a meeting?",
+    "ms": "Empat langkah menyediakan mesyuarat?"
+   },
+   "a": {
+    "en": "Define purpose, select participants, choose time and venue, set agenda.",
+    "ms": "Tentukan tujuan, pilih peserta, pilih masa dan tempat, tetapkan agenda."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "meetings",
+   "q": {
+    "en": "Six ways to conduct an efficient meeting?",
+    "ms": "Enam cara mengendalikan mesyuarat cekap?"
+   },
+   "a": {
+    "en": "Keep discussion on track, follow rules, encourage participation, participate actively, use mobile devices respectfully, close effectively.",
+    "ms": "Fokus, ikut peraturan, galak penyertaan, sertai aktif, guna peranti dengan hormat, tutup berkesan."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "meetings",
+   "q": {
+    "en": "Four types of virtual meeting technology?",
+    "ms": "Empat teknologi mesyuarat maya?"
+   },
+   "a": {
+    "en": "Instant messaging, teleconferencing, telepresence, webinars.",
+    "ms": "Pesanan segera, telesidang, telepresence, webinar."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "meetings",
+   "q": {
+    "en": "How do you keep virtual meetings successful?",
+    "ms": "Bagaimana mengekalkan mesyuarat maya berjaya?"
+   },
+   "a": {
+    "en": "Extra planning, know technology limits, keep participants engaged and prepared, give chances to participate.",
+    "ms": "Perancangan tambahan, tahu had teknologi, pastikan peserta terlibat dan bersedia, beri peluang menyertai."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "listen",
+   "q": {
+    "en": "Name the four listening types on slide 30.",
+    "ms": "Namakan empat jenis mendengar pada slaid 30."
+   },
+   "a": {
+    "en": "Content, critical, empathic, active.",
+    "ms": "Kandungan, kritis, empati, aktif."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "listen",
+   "q": {
+    "en": "Five steps in the listening process?",
+    "ms": "Lima langkah proses mendengar?"
+   },
+   "a": {
+    "en": "Receiving, decoding, remembering, evaluating, responding.",
+    "ms": "Menerima, menyahkod, mengingat, menilai, bertindak balas."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "listen",
+   "q": {
+    "en": "What do effective listeners do with questions?",
+    "ms": "Apa pendengar berkesan buat dengan soalan?"
+   },
+   "a": {
+    "en": "Save questions or disagreement until an appropriate time.",
+    "ms": "Simpan soalan atau ketidaksetujuan hingga masa sesuai."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "nonverbal",
+   "q": {
+    "en": "Six categories of nonverbal expression?",
+    "ms": "Enam kategori ekspresi bukan lisan?"
+   },
+   "a": {
+    "en": "Facial expression, gesture and posture, vocal characteristics, personal appearance, touch, time and space.",
+    "ms": "Ekspresi muka, gerak isyarat dan postur, ciri vokal, penampilan, sentuhan, masa dan ruang."
+   }
+  },
+  {
+   "id": "c22",
+   "t": "etiq",
+   "q": {
+    "en": "Three areas of business etiquette in the workplace?",
+    "ms": "Tiga bidang etiket perniagaan di tempat kerja?"
+   },
+   "a": {
+    "en": "Personal appearance, personal grooming, phone skills.",
+    "ms": "Penampilan, dandanan diri, kemahiran telefon."
+   }
+  },
+  {
+   "id": "c23",
+   "t": "etiq",
+   "q": {
+    "en": "Which food advice applies at business meals?",
+    "ms": "Nasihat makanan apa untuk jamuan perniagaan?"
+   },
+   "a": {
+    "en": "Choose foods that are easy to eat and avoid alcohol.",
+    "ms": "Pilih makanan mudah dimakan dan elak alkohol."
+   }
+  },
+  {
+   "id": "c24",
+   "t": "etiq",
+   "q": {
+    "en": "Three online etiquette rules about privacy and security?",
+    "ms": "Tiga peraturan etiket dalam talian tentang privasi dan keselamatan?"
+   },
+   "a": {
+    "en": "Never assume privacy, use secure passwords, use virus protection.",
+    "ms": "Jangan anggap ada privasi, guna kata laluan selamat, guna perlindungan virus."
+   }
+  },
+  {
+   "id": "c25",
+   "t": "etiq",
+   "q": {
+    "en": "What should you avoid with “Reply All”?",
+    "ms": "Apa perlu dielak dengan “Reply All”?"
+   },
+   "a": {
+    "en": "Do not use it unnecessarily; it wastes others’ time.",
+    "ms": "Jangan guna sewenang-wenangnya; membazirkan masa orang lain."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "team",
+   "q": {
+    "en": "A group that assembles regularly to deal with ongoing, recurring issues is a:",
+    "ms": "Kumpulan yang berhimpun tetap untuk isu berulang ialah:"
+   },
+   "o": [
+    "Task force",
+    "Committee",
+    "Problem-solving team",
+    "Webinar"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Committees are formal, long-lived and meet regularly.",
+    "ms": "Jawatankuasa formal, berjangka hayat panjang dan bermesyuarat tetap."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "team",
+   "q": {
+    "en": "Which team disbands once its goal is achieved?",
+    "ms": "Pasukan mana bubar apabila matlamat dicapai?"
+   },
+   "o": [
+    "Committee",
+    "Task force",
+    "Board of directors",
+    "Department"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Task forces and problem-solving teams disband after the goal.",
+    "ms": "Task force dan pasukan penyelesaian masalah bubar selepas matlamat."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "proscons",
+   "q": {
+    "en": "Which is a DISADVANTAGE of teams?",
+    "ms": "Yang mana KEKURANGAN pasukan?"
+   },
+   "o": [
+    "Higher performance",
+    "Groupthink",
+    "More knowledge",
+    "Diverse views"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Groupthink, hidden agendas, cost and overload are disadvantages.",
+    "ms": "Groupthink, agenda tersembunyi, kos dan beban ialah kekurangan."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "proscons",
+   "q": {
+    "en": "Which is an ADVANTAGE of teams?",
+    "ms": "Yang mana KELEBIHAN pasukan?"
+   },
+   "o": [
+    "Hidden agendas",
+    "Overload",
+    "Increased acceptance of a solution",
+    "Cost"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Others are disadvantages.",
+    "ms": "Yang lain ialah kekurangan."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "proscons",
+   "q": {
+    "en": "Which is a characteristic of an effective team?",
+    "ms": "Yang mana ciri pasukan berkesan?"
+   },
+   "o": [
+    "Unclear purpose",
+    "Consensus-based decision making",
+    "Avoiding conflict",
+    "Authoritarian control"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Effective teams use consensus and resolve conflict effectively.",
+    "ms": "Pasukan berkesan guna konsensus dan selesai konflik dengan berkesan."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "dynamics",
+   "q": {
+    "en": "“Dominating others by exhibiting superiority” is the role of:",
+    "ms": "“Mendominasi orang dengan menunjukkan kelebihan” ialah peranan:"
+   },
+   "o": [
+    "Controlling",
+    "Encouraging",
+    "Harmonizing",
+    "Coordinating"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Controlling is a dysfunctional, self-oriented role.",
+    "ms": "Controlling ialah peranan tidak fungsian berorientasikan diri."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "dynamics",
+   "q": {
+    "en": "Using humour to relieve tension and mediate differences is:",
+    "ms": "Menggunakan humor meredakan ketegangan dan mengantara perbezaan ialah:"
+   },
+   "o": [
+    "Diverting",
+    "Harmonizing",
+    "Withdrawing",
+    "Attention seeking"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Harmonizing is a team-maintenance role.",
+    "ms": "Harmonizing ialah peranan penyelenggaraan pasukan."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "dynamics",
+   "q": {
+    "en": "A member goes silent and refuses to deal with part of the work. This is:",
+    "ms": "Ahli diam dan enggan urus sebahagian kerja. Ini:"
+   },
+   "o": [
+    "Compromising",
+    "Withdrawing",
+    "Initiating",
+    "Procedure setting"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Withdrawing is dysfunctional.",
+    "ms": "Withdrawing tidak fungsian."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "dynamics",
+   "q": {
+    "en": "Suggesting decision-making procedures to move toward a goal is:",
+    "ms": "Mencadangkan prosedur membuat keputusan ke arah matlamat ialah:"
+   },
+   "o": [
+    "Procedure setting",
+    "Controlling",
+    "Diverting",
+    "Encouraging"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Procedure setting is a task-oriented functional role.",
+    "ms": "Procedure setting ialah peranan fungsian berorientasikan tugas."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "dynamics",
+   "q": {
+    "en": "Which is NOT a factor influencing group dynamics?",
+    "ms": "Yang mana BUKAN faktor dinamik kumpulan?"
+   },
+   "o": [
+    "Roles assumed",
+    "Phase of team development",
+    "Office colour",
+    "Conflict resolution skills"
+   ],
+   "a": 2,
+   "e": {
+    "en": "The four factors are roles, phase, conflict skills and overcoming resistance.",
+    "ms": "Empat faktor ialah peranan, fasa, kemahiran konflik dan mengatasi tentangan."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "dynamics",
+   "q": {
+    "en": "Which step helps overcome resistance?",
+    "ms": "Langkah mana membantu mengatasi tentangan?"
+   },
+   "o": [
+    "Ignore objections",
+    "Actively listen",
+    "Delay forever",
+    "Dominate"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Listen, express interest, ask questions, collaborate.",
+    "ms": "Dengar, tunjuk minat, tanya, bekerjasama."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "collab",
+   "q": {
+    "en": "Which is advised in collaborative writing?",
+    "ms": "Yang mana dinasihatkan dalam penulisan kolaboratif?"
+   },
+   "o": [
+    "Compose together as a group",
+    "Clarify individual responsibilities",
+    "Skip goal setting",
+    "Use incompatible tools"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Clarify responsibilities; avoid composing as a group.",
+    "ms": "Jelaskan tanggungjawab; elak mengarang sebagai kumpulan."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "collab",
+   "q": {
+    "en": "Which feedback comment is most constructive?",
+    "ms": "Komen maklum balas mana paling membina?"
+   },
+   "o": [
+    "“This is confusing.”",
+    "“I don’t get this.”",
+    "“Paragraph 2 would be clearer with a summary sentence first.”",
+    "“You’re a poor writer.”"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Be specific, discuss improvements, stay impersonal.",
+    "ms": "Spesifik, bincang penambahbaikan, tidak peribadi."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "collab",
+   "q": {
+    "en": "Constructive feedback should focus on:",
+    "ms": "Maklum balas membina patut fokus pada:"
+   },
+   "o": [
+    "The person",
+    "Controllable behaviour",
+    "Flaws only",
+    "Vague impressions"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Focus on what the writer can control.",
+    "ms": "Fokus pada apa yang penulis boleh kawal."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "collab",
+   "q": {
+    "en": "Which is a collaboration technology?",
+    "ms": "Yang mana teknologi kolaborasi?"
+   },
+   "o": [
+    "Track changes and commenting",
+    "Telegraph",
+    "Fax only",
+    "Printing press"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Listed on slide 17.",
+    "ms": "Disenaraikan pada slaid 17."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "meetings",
+   "q": {
+    "en": "Which is a step in PREPARING for a meeting?",
+    "ms": "Yang mana langkah MENYEDIAKAN mesyuarat?"
+   },
+   "o": [
+    "Close effectively",
+    "Set the agenda",
+    "Encourage participation",
+    "Keep discussion on track"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Preparing: purpose, participants, time and venue, agenda.",
+    "ms": "Persediaan: tujuan, peserta, masa dan tempat, agenda."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "meetings",
+   "q": {
+    "en": "Which is a virtual meeting technology?",
+    "ms": "Yang mana teknologi mesyuarat maya?"
+   },
+   "o": [
+    "Telepresence",
+    "Face-to-face",
+    "Memo",
+    "Brochure"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Instant messaging, teleconferencing, telepresence and webinars.",
+    "ms": "Pesanan segera, telesidang, telepresence dan webinar."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "meetings",
+   "q": {
+    "en": "To keep virtual meetings successful, you should:",
+    "ms": "Untuk mesyuarat maya berjaya, anda patut:"
+   },
+   "o": [
+    "Plan less",
+    "Ignore tech limits",
+    "Give participants chances to participate",
+    "Skip preparation"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Plan extra, know limits, engage participants.",
+    "ms": "Rancang lebih, tahu had, libatkan peserta."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "listen",
+   "q": {
+    "en": "Which is the FIRST step of the listening process?",
+    "ms": "Yang mana langkah PERTAMA proses mendengar?"
+   },
+   "o": [
+    "Decoding",
+    "Receiving",
+    "Evaluating",
+    "Responding"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Receiving, decoding, remembering, evaluating, responding.",
+    "ms": "Menerima, menyahkod, mengingat, menilai, bertindak balas."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "listen",
+   "q": {
+    "en": "Effective listeners:",
+    "ms": "Pendengar berkesan:"
+   },
+   "o": [
+    "Interrupt when they disagree",
+    "Mentally paraphrase key points",
+    "Take no notes",
+    "Listen passively"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Paraphrasing helps attention and comprehension.",
+    "ms": "Parafrasa membantu perhatian dan kefahaman."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "listen",
+   "q": {
+    "en": "Ineffective listeners often:",
+    "ms": "Pendengar tidak berkesan sering:"
+   },
+   "o": [
+    "Adjust their style",
+    "Look for chances to learn",
+    "Fail to distinguish main points from details",
+    "Save questions"
+   ],
+   "a": 2,
+   "e": {
+    "en": "That is on the ineffective list.",
+    "ms": "Itu dalam senarai tidak berkesan."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "nonverbal",
+   "q": {
+    "en": "Which is NOT a category of nonverbal expression?",
+    "ms": "Yang mana BUKAN kategori ekspresi bukan lisan?"
+   },
+   "o": [
+    "Touch",
+    "Time and space",
+    "Personal appearance",
+    "Email attachments"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Six categories: facial expression, gesture/posture, vocal characteristics, appearance, touch, time/space.",
+    "ms": "Enam kategori: ekspresi muka, gerak isyarat/postur, vokal, penampilan, sentuhan, masa/ruang."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "nonverbal",
+   "q": {
+    "en": "Tone, pitch and volume belong to:",
+    "ms": "Nada, kelangsingan dan kelantangan tergolong dalam:"
+   },
+   "o": [
+    "Gesture and posture",
+    "Vocal characteristics",
+    "Touch",
+    "Personal appearance"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Vocal characteristics.",
+    "ms": "Ciri vokal."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "etiq",
+   "q": {
+    "en": "At a business meal you should:",
+    "ms": "Semasa jamuan perniagaan anda patut:"
+   },
+   "o": [
+    "Order messy foods",
+    "Avoid alcohol",
+    "Talk about controversial topics",
+    "Order the most expensive item"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Choose easy-to-eat foods and avoid alcohol.",
+    "ms": "Pilih makanan mudah dimakan dan elak alkohol."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "etiq",
+   "q": {
+    "en": "Which is correct online etiquette?",
+    "ms": "Yang mana etiket dalam talian betul?"
+   },
+   "o": [
+    "Assume privacy",
+    "Use Reply All for everything",
+    "Don’t present opinions as facts",
+    "Use profanity"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Never assume privacy; avoid Reply All; avoid profanity.",
+    "ms": "Jangan anggap privasi; elak Reply All; elak carutan."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "etiq",
+   "q": {
+    "en": "Good phone etiquette includes:",
+    "ms": "Etiket telefon baik termasuk:"
+   },
+   "o": [
+    "Ending calls with courtesy and clarity",
+    "Ignoring voicemail",
+    "Leaving unclear messages",
+    "Sounding bored"
+   ],
+   "a": 0,
+   "e": {
+    "en": "From slide 40.",
+    "ms": "Daripada slaid 40."
+   }
+  },
+  {
+   "id": "q27",
+   "t": "etiq",
+   "q": {
+    "en": "Before starting an IM chat, you should:",
+    "ms": "Sebelum mulakan sembang IM, anda patut:"
+   },
+   "o": [
+    "Start immediately",
+    "Ask if it is a good time",
+    "Use emoticons",
+    "Multitask"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 43.",
+    "ms": "Slaid 43."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "proscons",
+   "marks": 8,
+   "q": {
+    "en": "Discuss the advantages and disadvantages of working in teams and describe the characteristics of effective teams.",
+    "ms": "Bincangkan kelebihan dan kekurangan bekerja dalam pasukan dan huraikan ciri pasukan berkesan."
+   },
+   "pts": {
+    "en": [
+     "Advantages: more information and knowledge, diverse views (2)",
+     "Advantages: increased acceptance of a solution, higher performance (2)",
+     "Disadvantages: groupthink, hidden agendas, cost, overload (2)",
+     "Characteristics: clear purpose, open communication, consensus, creativity, conflict resolution (2)"
+    ],
+    "ms": [
+     "Kelebihan: lebih maklumat dan pengetahuan, pandangan pelbagai (2)",
+     "Kelebihan: penerimaan penyelesaian, prestasi tinggi (2)",
+     "Kekurangan: groupthink, agenda tersembunyi, kos, beban (2)",
+     "Ciri: tujuan jelas, komunikasi terbuka, konsensus, kreativiti, selesai konflik (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "dynamics",
+   "marks": 6,
+   "q": {
+    "en": "Explain the three categories of team roles with examples.",
+    "ms": "Terangkan tiga kategori peranan pasukan dengan contoh."
+   },
+   "pts": {
+    "en": [
+     "Task-oriented: initiating, information giving, coordinating, procedure setting (2)",
+     "Team-maintenance: encouraging, harmonizing, compromising (2)",
+     "Self-oriented (dysfunctional): controlling, withdrawing, attention seeking, diverting (2)"
+    ],
+    "ms": [
+     "Berorientasikan tugas: initiating, memberi maklumat, coordinating, procedure setting (2)",
+     "Penyelenggaraan pasukan: encouraging, harmonizing, compromising (2)",
+     "Berorientasikan diri (tidak fungsian): controlling, withdrawing, attention seeking, diverting (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "collab",
+   "marks": 8,
+   "q": {
+    "en": "Describe guidelines for collaborative writing and how to give constructive feedback.",
+    "ms": "Huraikan garis panduan penulisan kolaboratif dan cara memberi maklum balas membina."
+   },
+   "pts": {
+    "en": [
+     "Select collaborators carefully and agree on goals (1)",
+     "Clarify responsibilities and establish clear processes (1)",
+     "Avoid composing as a group; ensure tools are ready (1)",
+     "Check group progress (1)",
+     "Feedback: discuss improvements and be specific (2)",
+     "Feedback: keep it impersonal and focus on controllable behaviour (1)",
+     "Feedback: verify understanding and time it carefully (1)"
+    ],
+    "ms": [
+     "Pilih kolaborator dan setuju matlamat (1)",
+     "Jelaskan tanggungjawab dan wujud proses jelas (1)",
+     "Elak mengarang sebagai kumpulan; alat sedia (1)",
+     "Semak kemajuan kumpulan (1)",
+     "Maklum balas: bincang penambahbaikan dan spesifik (2)",
+     "Maklum balas: tidak peribadi dan fokus tingkah laku boleh dikawal (1)",
+     "Maklum balas: sahkan kefahaman dan masa sesuai (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "meetings",
+   "marks": 8,
+   "q": {
+    "en": "Explain how to prepare for, conduct and close a productive meeting, including a virtual meeting.",
+    "ms": "Terangkan cara menyedia, mengendali dan menutup mesyuarat produktif, termasuk mesyuarat maya."
+   },
+   "pts": {
+    "en": [
+     "Prepare: define purpose, select participants, choose time and venue, set agenda (2)",
+     "Conduct: keep on track, follow rules, encourage participation (2)",
+     "Participate actively, use mobile devices respectfully (1)",
+     "Close effectively (1)",
+     "Virtual: extra planning, know technology limits, keep participants engaged and prepared (2)"
+    ],
+    "ms": [
+     "Sedia: tentukan tujuan, pilih peserta, pilih masa dan tempat, tetap agenda (2)",
+     "Kendali: fokus, ikut peraturan, galak penyertaan (2)",
+     "Sertai aktif, guna peranti dengan hormat (1)",
+     "Tutup berkesan (1)",
+     "Maya: perancangan tambahan, tahu had teknologi, libatkan peserta (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "listen",
+   "marks": 8,
+   "q": {
+    "en": "Describe the listening process and compare effective and ineffective listeners.",
+    "ms": "Huraikan proses mendengar dan bandingkan pendengar berkesan dan tidak berkesan."
+   },
+   "pts": {
+    "en": [
+     "Receiving, decoding, remembering (2)",
+     "Evaluating, responding (1)",
+     "Effective: listen actively, take notes, eye contact, stay focused (2)",
+     "Effective: paraphrase, adjust style, nonverbal cues, save questions (1)",
+     "Ineffective: passive, wandering mind, interrupt, judgmental (2)"
+    ],
+    "ms": [
+     "Menerima, menyahkod, mengingat (2)",
+     "Menilai, bertindak balas (1)",
+     "Berkesan: dengar aktif, catat nota, pandang mata, fokus (2)",
+     "Berkesan: parafrasa, laras gaya, isyarat bukan lisan, simpan soalan (1)",
+     "Tidak berkesan: pasif, fikiran melayang, menyampuk, menghakimi (2)"
+    ]
+   }
+  },
+  {
+   "id": "e6",
+   "t": "etiq",
+   "marks": 6,
+   "q": {
+    "en": "Discuss business etiquette in the workplace, social situations and online.",
+    "ms": "Bincangkan etiket perniagaan di tempat kerja, situasi sosial dan dalam talian."
+   },
+   "pts": {
+    "en": [
+     "Workplace: appearance, grooming, phone skills (2)",
+     "Social: introductions, customs, business meals, avoid alcohol (2)",
+     "Online: no personal attacks, never assume privacy, avoid Reply All, correct grammar (2)"
+    ],
+    "ms": [
+     "Tempat kerja: penampilan, dandanan, kemahiran telefon (2)",
+     "Sosial: perkenalan, adat, jamuan, elak alkohol (2)",
+     "Dalam talian: tiada serangan peribadi, jangan anggap privasi, elak Reply All, tatabahasa betul (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Team",
+   "Pasukan"
+  ],
+  [
+   "Task force",
+   "Pasukan petugas"
+  ],
+  [
+   "Committee",
+   "Jawatankuasa"
+  ],
+  [
+   "Groupthink",
+   "Groupthink (pemikiran seragam)"
+  ],
+  [
+   "Hidden agenda",
+   "Agenda tersembunyi"
+  ],
+  [
+   "Consensus",
+   "Konsensus"
+  ],
+  [
+   "Group dynamics",
+   "Dinamik kumpulan"
+  ],
+  [
+   "Constructive feedback",
+   "Maklum balas membina"
+  ],
+  [
+   "Agenda",
+   "Agenda"
+  ],
+  [
+   "Teleconferencing",
+   "Telesidang"
+  ],
+  [
+   "Telepresence",
+   "Telepresence"
+  ],
+  [
+   "Webinar",
+   "Webinar"
+  ],
+  [
+   "Active listening",
+   "Mendengar aktif"
+  ],
+  [
+   "Empathic listening",
+   "Mendengar empati"
+  ],
+  [
+   "Critical listening",
+   "Mendengar kritis"
+  ],
+  [
+   "Nonverbal communication",
+   "Komunikasi bukan lisan"
+  ],
+  [
+   "Etiquette",
+   "Etiket"
+  ],
+  [
+   "Voicemail",
+   "Peti suara"
+  ],
+  [
+   "Reply All",
+   "Balas Semua"
+  ]
+ ]
+}

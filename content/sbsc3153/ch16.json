@@ -1,0 +1,1654 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch16",
+ "num": 16,
+ "title": {
+  "en": "Developing Presentations in a Social Media Environment",
+  "ms": "Membangunkan Pembentangan dalam Persekitaran Media Sosial"
+ },
+ "standard": "Bovee Ch 16",
+ "outcomes": {
+  "en": [
+   "Describe the tasks in analysing the situation for a presentation and organising it",
+   "Explain how to adapt to your audience and develop an effective opening, body and close",
+   "Discuss five steps for delivering a successful presentation",
+   "Explain the importance of the backchannel and list six steps for effective online presentations"
+  ],
+  "ms": [
+   "Huraikan tugas menganalisis situasi pembentangan dan menyusunnya",
+   "Terangkan cara menyesuaikan dengan audiens dan membina pembukaan, isi dan penutup berkesan",
+   "Bincangkan lima langkah menyampaikan pembentangan berjaya",
+   "Terangkan kepentingan backchannel dan senaraikan enam langkah pembentangan dalam talian berkesan"
+  ]
+ },
+ "sections": [
+  {
+   "id": "analyze",
+   "icon": "🔎",
+   "title": {
+    "en": "Analysing the Situation",
+    "ms": "Menganalisis Situasi"
+   },
+   "ref": "Slides 3–7",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Define your purpose",
+     "ms": "Tentukan tujuan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Inform",
+      "Persuade",
+      "Collaborate"
+     ],
+     "ms": [
+      "Memaklumkan",
+      "Memujuk",
+      "Berkolaborasi"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Audience profile",
+     "ms": "Profil audiens"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Emotional state",
+      "Comfort level with your language"
+     ],
+     "ms": [
+      "Keadaan emosi",
+      "Tahap keselesaan dengan bahasa anda"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Assess the environment: four seating arrangements",
+     "ms": "Nilai persekitaran: empat susunan tempat duduk"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Classroom or theatre",
+      "Conference table",
+      "Horseshoe or U-shaped",
+      "Café seating"
+     ],
+     "ms": [
+      "Bilik darjah atau teater",
+      "Meja persidangan",
+      "Bentuk ladam atau U",
+      "Tempat duduk kafe"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Media and channels",
+     "ms": "Media dan saluran"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Live, in-person",
+      "Webcasts or screencasts",
+      "Online meeting software",
+      "Twebinars (webinars with Twitter)"
+     ],
+     "ms": [
+      "Secara langsung, bersemuka",
+      "Webcast atau screencast",
+      "Perisian mesyuarat dalam talian",
+      "Twebinar (webinar dengan Twitter)"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 7 lists items in columns (Controlled Methods, Choice of Methods, Specific Software) without clear mapping. Slide 4 (The Three-Step Process) is a figure. The meaning of “Twebinar” is Extra (not in slides): a webinar with Twitter backchannel.",
+     "ms": "Slaid 7 senaraikan item dalam lajur tanpa pemetaan jelas. Slaid 4 (Proses Tiga Langkah) ialah rajah. Maksud “Twebinar” ialah Extra (bukan dalam slaid): webinar dengan backchannel Twitter."
+    }
+   ]
+  },
+  {
+   "id": "organize",
+   "icon": "🗂️",
+   "title": {
+    "en": "Organising the Presentation",
+    "ms": "Menyusun Pembentangan"
+   },
+   "ref": "Slides 8–13",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Structure",
+       "Features"
+      ],
+      "ms": [
+       "Struktur",
+       "Ciri"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Linear",
+        "Outlined like conventional messages; follows a predefined flow"
+       ],
+       "ms": [
+        "Linear",
+        "Digaris seperti mesej konvensional; ikut aliran ditetapkan"
+       ]
+      },
+      {
+       "en": [
+        "Nonlinear",
+        "Doesn’t flow in any particular direction; presenter can move back and forth between topics"
+       ],
+       "ms": [
+        "Nonlinear",
+        "Tiada arah tertentu; penyampai boleh berpindah antara topik"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Main idea and scope",
+     "ms": "Idea utama dan skop"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Define the main idea: a **one-sentence summary** covering subject, purpose and audience",
+      "Limit scope: work within time constraints; hold the audience’s attention"
+     ],
+     "ms": [
+      "Tentukan idea utama: **ringkasan satu ayat** merangkumi subjek, tujuan dan audiens",
+      "Hadkan skop: ikut kekangan masa; kekalkan perhatian audiens"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Choosing your approach",
+     "ms": "Memilih pendekatan"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Length",
+       "Direct approach",
+       "Indirect approach"
+      ],
+      "ms": [
+       "Panjang",
+       "Pendekatan terus",
+       "Pendekatan tidak terus"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Shorter",
+        "Routine information or good news",
+        "Bad news or persuasion"
+       ],
+       "ms": [
+        "Lebih pendek",
+        "Maklumat rutin atau berita baik",
+        "Berita buruk atau memujuk"
+       ]
+      },
+      {
+       "en": [
+        "Longer",
+        "To motivate or inform",
+        "To analyse, persuade or collaborate"
+       ],
+       "ms": [
+        "Lebih panjang",
+        "Memotivasi atau memaklumkan",
+        "Menganalisis, memujuk atau berkolaborasi"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Preparing your outline",
+     "ms": "Menyediakan rangka"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "State the purpose and main idea",
+      "Organise points and sub-points",
+      "Identify major points throughout",
+      "Plan transitions between sections",
+      "Prepare a bibliography or source notes",
+      "Choose a compelling title"
+     ],
+     "ms": [
+      "Nyatakan tujuan dan idea utama",
+      "Susun poin dan sub-poin",
+      "Kenal pasti poin utama sepanjang pembentangan",
+      "Rancang peralihan antara bahagian",
+      "Sediakan bibliografi atau nota sumber",
+      "Pilih tajuk menarik"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Speaking outline",
+     "ms": "Rangka pertuturan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Simplify the planning outline",
+      "Condense points",
+      "Add delivery cues",
+      "Arrange your notes"
+     ],
+     "ms": [
+      "Ringkaskan rangka perancangan",
+      "Padatkan poin",
+      "Tambah isyarat penyampaian",
+      "Susun nota"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "content",
+   "icon": "🧱",
+   "title": {
+    "en": "Opening, Body and Close",
+    "ms": "Pembukaan, Isi dan Penutup"
+   },
+   "ref": "Slides 15–22",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Adapting to your audience",
+     "ms": "Menyesuaikan dengan audiens"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Setting",
+       "Style"
+      ],
+      "ms": [
+       "Persekitaran",
+       "Gaya"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Small groups (conference room)",
+        "Conversational tone; invite comments"
+       ],
+       "ms": [
+        "Kumpulan kecil (bilik mesyuarat)",
+        "Nada berbual; jemput komen"
+       ]
+      },
+      {
+       "en": [
+        "Large audiences (state or platform)",
+        "Formal tone; limit participation"
+       ],
+       "ms": [
+        "Audiens besar (pentas)",
+        "Nada formal; hadkan penyertaan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Three distinct elements",
+     "ms": "Tiga elemen berbeza"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Introduction",
+      "Body",
+      "Close"
+     ],
+     "ms": [
+      "Pengenalan",
+      "Isi",
+      "Penutup"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Introduction: three jobs",
+     "ms": "Pengenalan: tiga tugas"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Arouse audience interest",
+      "Establish your credibility (be introduced by another person; introduce yourself humbly and simply; say why you are the right person)",
+      "Preview your message (summarise the main idea, identify major supporting points, indicate the order)"
+     ],
+     "ms": [
+      "Bangkitkan minat audiens",
+      "Bina kredibiliti (diperkenalkan orang lain; perkenal diri dengan rendah hati dan ringkas; nyatakan kenapa anda sesuai)",
+      "Pratonton mesej (ringkaskan idea utama, kenal pasti poin sokongan, nyatakan susunan)"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Body",
+     "ms": "Isi"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Present your main points",
+      "Connect your ideas",
+      "Hold your audience’s attention"
+     ],
+     "ms": [
+      "Bentang poin utama",
+      "Sambungkan idea anda",
+      "Kekalkan perhatian audiens"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Close",
+     "ms": "Penutup"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Restate your main points",
+      "End with clarity and confidence",
+      "Provide a clear wrap-up"
+     ],
+     "ms": [
+      "Nyatakan semula poin utama",
+      "Tamat dengan jelas dan yakin",
+      "Beri rumusan jelas"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 18 (titled “Arousing Audience Interest”) lists outline-preparation items, which appear copied from slide 12. Treat slide 17 as the source for the three jobs of the introduction.",
+     "ms": "Slaid 18 (bertajuk “Arousing Audience Interest”) menyenaraikan item penyediaan rangka yang nampak disalin dari slaid 12. Anggap slaid 17 sebagai sumber tiga tugas pengenalan."
+    }
+   ]
+  },
+  {
+   "id": "deliver",
+   "icon": "🎤",
+   "title": {
+    "en": "Delivering the Presentation",
+    "ms": "Menyampaikan Pembentangan"
+   },
+   "ref": "Slides 24–31",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Choosing your method",
+     "ms": "Memilih kaedah"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Memorising",
+      "Reading",
+      "Speaking from an outline or notes",
+      "Impromptu speaking"
+     ],
+     "ms": [
+      "Menghafal",
+      "Membaca",
+      "Bercakap daripada rangka atau nota",
+      "Bercakap spontan (impromptu)"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Practising your delivery: questions to ask",
+     "ms": "Berlatih penyampaian: soalan untuk ditanya"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Can you present your material naturally?",
+      "Is the equipment working?",
+      "Can you present compellingly without equipment?",
+      "Is your timing on track?",
+      "Can you pronounce all the words?",
+      "Have you anticipated questions and objections?"
+     ],
+     "ms": [
+      "Boleh bentang bahan secara semula jadi?",
+      "Adakah peralatan berfungsi?",
+      "Boleh bentang menarik tanpa peralatan?",
+      "Adakah masa mengikut jadual?",
+      "Boleh sebut semua perkataan?",
+      "Sudah jangka soalan dan bantahan?"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Preparing to speak",
+     "ms": "Bersedia untuk bercakap"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Plan in advance",
+      "Check the seating arrangements",
+      "Check equipment and supplies",
+      "Plan for multicultural audiences"
+     ],
+     "ms": [
+      "Rancang awal",
+      "Semak susunan tempat duduk",
+      "Semak peralatan dan bekalan",
+      "Rancang untuk audiens pelbagai budaya"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Overcoming anxiety",
+     "ms": "Mengatasi keresahan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Positive mindset; don’t worry about being perfect",
+      "Know your subject; practise, practise, practise",
+      "Visualise success; remember to breathe",
+      "Be ready with your opening line; be comfortable",
+      "Take a three-second break",
+      "Concentrate on message and audience; maintain eye contact; keep going"
+     ],
+     "ms": [
+      "Minda positif; jangan risau mesti sempurna",
+      "Kuasai subjek; berlatih, berlatih, berlatih",
+      "Bayangkan kejayaan; ingat bernafas",
+      "Sedia dengan ayat pembukaan; selesa",
+      "Berhenti tiga saat",
+      "Fokus pada mesej dan audiens; kekalkan pandangan mata; teruskan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Speaking with confidence",
+     "ms": "Bercakap dengan yakin"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Controlled beginning",
+      "Confident posture",
+      "Make eye contact",
+      "Send confident nonverbal signals"
+     ],
+     "ms": [
+      "Permulaan terkawal",
+      "Postur yakin",
+      "Pandang mata",
+      "Hantar isyarat bukan lisan yang yakin"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Handling questions responsively",
+     "ms": "Mengendali soalan dengan responsif"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Establish ground rules",
+      "Prepare to answer questions",
+      "Notice nonverbal signals",
+      "Respond to difficult questions",
+      "Control your presentation",
+      "Control your emotions"
+     ],
+     "ms": [
+      "Tetapkan peraturan asas",
+      "Bersedia menjawab soalan",
+      "Perhatikan isyarat bukan lisan",
+      "Jawab soalan sukar",
+      "Kawal pembentangan",
+      "Kawal emosi"
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The objective says “five steps for delivering”; the slides do not number five steps. The headings above are the slide contents.",
+     "ms": "Objektif kata “lima langkah”; slaid tidak menomborkan lima langkah. Tajuk di atas ialah kandungan slaid."
+    }
+   ]
+  },
+  {
+   "id": "backchannel",
+   "icon": "💬",
+   "title": {
+    "en": "The Backchannel",
+    "ms": "Backchannel"
+   },
+   "ref": "Slides 33–34",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "The **backchannel** is a line of communication that the **audience creates** (for example through social media) during a presentation.",
+     "ms": "**Backchannel** ialah talian komunikasi yang **dicipta audiens** (contohnya melalui media sosial) semasa pembentangan."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Challenges",
+       "Opportunities"
+      ],
+      "ms": [
+       "Cabaran",
+       "Peluang"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Risk of criticism",
+        "Audience support"
+       ],
+       "ms": [
+        "Risiko kritikan",
+        "Sokongan audiens"
+       ]
+      },
+      {
+       "en": [
+        "Loss of control",
+        "Valuable feedback"
+       ],
+       "ms": [
+        "Hilang kawalan",
+        "Maklum balas bernilai"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Working the backchannel",
+     "ms": "Mengurus backchannel"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Integrate social media into the presentation process",
+      "Monitor and ask for feedback",
+      "Review comments",
+      "Automatically tweet key points",
+      "Establish expectations with the audience"
+     ],
+     "ms": [
+      "Integrasikan media sosial dalam proses pembentangan",
+      "Pantau dan minta maklum balas",
+      "Semak komen",
+      "Tweet poin utama secara automatik",
+      "Tetapkan jangkaan dengan audiens"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "online",
+   "icon": "🖥️",
+   "title": {
+    "en": "Online Presentations",
+    "ms": "Pembentangan Dalam Talian"
+   },
+   "ref": "Slides 35–37",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Advantages",
+       "Disadvantages"
+      ],
+      "ms": [
+       "Kelebihan",
+       "Kekurangan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Cost savings",
+        "“Digital divide”"
+       ],
+       "ms": [
+        "Penjimatan kos",
+        "“Jurang digital”"
+       ]
+      },
+      {
+       "en": [
+        "Convenience",
+        "Loss of “human moments”"
+       ],
+       "ms": [
+        "Kemudahan",
+        "Kehilangan “detik manusiawi”"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Ensuring success (six steps)",
+     "ms": "Memastikan kejayaan (enam langkah)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Send preview materials",
+      "Rehearse using the system",
+      "Keep the presentation simple",
+      "Ask for feedback frequently",
+      "Consider the audience’s point of view",
+      "Give everyone time to get connected"
+     ],
+     "ms": [
+      "Hantar bahan pratonton",
+      "Berlatih menggunakan sistem",
+      "Pastikan pembentangan ringkas",
+      "Minta maklum balas kerap",
+      "Pertimbang sudut pandangan audiens",
+      "Beri masa semua orang bersambung"
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "analyze",
+   "q": {
+    "en": "Three purposes of a presentation?",
+    "ms": "Tiga tujuan pembentangan?"
+   },
+   "a": {
+    "en": "Inform, persuade, collaborate.",
+    "ms": "Memaklumkan, memujuk, berkolaborasi."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "analyze",
+   "q": {
+    "en": "Name the four basic seating arrangements.",
+    "ms": "Namakan empat susunan tempat duduk asas."
+   },
+   "a": {
+    "en": "Classroom or theatre, conference table, horseshoe or U-shaped, café seating.",
+    "ms": "Bilik darjah/teater, meja persidangan, ladam/U, kafe."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "analyze",
+   "q": {
+    "en": "Two things in an audience profile (slide 5)?",
+    "ms": "Dua perkara dalam profil audiens (slaid 5)?"
+   },
+   "a": {
+    "en": "Emotional state; comfort level with your language.",
+    "ms": "Keadaan emosi; keselesaan dengan bahasa."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "organize",
+   "q": {
+    "en": "Linear vs nonlinear structure?",
+    "ms": "Struktur linear lwn nonlinear?"
+   },
+   "a": {
+    "en": "Linear follows a predefined flow like a conventional message; nonlinear lets the presenter move back and forth between topics.",
+    "ms": "Linear ikut aliran ditetapkan; nonlinear membolehkan penyampai bergerak antara topik."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "organize",
+   "q": {
+    "en": "What is the main idea?",
+    "ms": "Apakah idea utama?"
+   },
+   "a": {
+    "en": "A one-sentence summary covering subject, purpose and audience.",
+    "ms": "Ringkasan satu ayat merangkumi subjek, tujuan dan audiens."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "organize",
+   "q": {
+    "en": "Direct or indirect for a short presentation of bad news?",
+    "ms": "Terus atau tidak terus untuk pembentangan pendek berita buruk?"
+   },
+   "a": {
+    "en": "Indirect.",
+    "ms": "Tidak terus."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "organize",
+   "q": {
+    "en": "Direct or indirect for a short presentation of good news?",
+    "ms": "Terus atau tidak terus untuk berita baik pendek?"
+   },
+   "a": {
+    "en": "Direct.",
+    "ms": "Terus."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "organize",
+   "q": {
+    "en": "Six outline preparation items?",
+    "ms": "Enam item penyediaan rangka?"
+   },
+   "a": {
+    "en": "Purpose and main idea; organise points; identify major points; plan transitions; bibliography; compelling title.",
+    "ms": "Tujuan dan idea utama; susun poin; kenal pasti poin utama; peralihan; bibliografi; tajuk menarik."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "organize",
+   "q": {
+    "en": "Four steps to create a speaking outline?",
+    "ms": "Empat langkah mencipta rangka pertuturan?"
+   },
+   "a": {
+    "en": "Simplify the planning outline, condense points, add delivery cues, arrange your notes.",
+    "ms": "Ringkaskan rangka, padatkan poin, tambah isyarat penyampaian, susun nota."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "content",
+   "q": {
+    "en": "Tone for small groups vs large audiences?",
+    "ms": "Nada untuk kumpulan kecil lwn audiens besar?"
+   },
+   "a": {
+    "en": "Small: conversational, invite comments. Large: formal, limit participation.",
+    "ms": "Kecil: berbual, jemput komen. Besar: formal, hadkan penyertaan."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "content",
+   "q": {
+    "en": "Three elements of a presentation?",
+    "ms": "Tiga elemen pembentangan?"
+   },
+   "a": {
+    "en": "Introduction, body, close.",
+    "ms": "Pengenalan, isi, penutup."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "content",
+   "q": {
+    "en": "Three jobs of the introduction?",
+    "ms": "Tiga tugas pengenalan?"
+   },
+   "a": {
+    "en": "Arouse interest, establish credibility, preview your message.",
+    "ms": "Bangkit minat, bina kredibiliti, pratonton mesej."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "content",
+   "q": {
+    "en": "How do you establish credibility?",
+    "ms": "Bagaimana membina kredibiliti?"
+   },
+   "a": {
+    "en": "Have another person introduce you; introduce yourself humbly and simply; explain why you are the right person.",
+    "ms": "Diperkenalkan orang lain; perkenal diri rendah hati; nyatakan kenapa anda sesuai."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "content",
+   "q": {
+    "en": "What does the close do?",
+    "ms": "Apa fungsi penutup?"
+   },
+   "a": {
+    "en": "Restates main points, ends with clarity and confidence, provides a clear wrap-up.",
+    "ms": "Ulang poin utama, tamat jelas dan yakin, beri rumusan."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "deliver",
+   "q": {
+    "en": "Four presentation methods?",
+    "ms": "Empat kaedah pembentangan?"
+   },
+   "a": {
+    "en": "Memorising, reading, speaking from an outline or notes, impromptu speaking.",
+    "ms": "Menghafal, membaca, bercakap dari rangka/nota, impromptu."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "deliver",
+   "q": {
+    "en": "Four ways to prepare to speak?",
+    "ms": "Empat cara bersedia bercakap?"
+   },
+   "a": {
+    "en": "Plan in advance, check seating, check equipment and supplies, plan for multicultural audiences.",
+    "ms": "Rancang awal, semak tempat duduk, semak peralatan, rancang audiens pelbagai budaya."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "deliver",
+   "q": {
+    "en": "Name five tips for overcoming anxiety.",
+    "ms": "Namakan lima tip mengatasi keresahan."
+   },
+   "a": {
+    "en": "Positive mindset, know your subject, practise, visualise success, breathe, three-second break, eye contact, keep going.",
+    "ms": "Minda positif, kuasai subjek, berlatih, bayangkan kejayaan, bernafas, jeda tiga saat, pandang mata, teruskan."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "deliver",
+   "q": {
+    "en": "Four ways to speak with confidence?",
+    "ms": "Empat cara bercakap yakin?"
+   },
+   "a": {
+    "en": "Controlled beginning, confident posture, eye contact, confident nonverbal signals.",
+    "ms": "Permulaan terkawal, postur yakin, pandang mata, isyarat bukan lisan yakin."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "deliver",
+   "q": {
+    "en": "Six points on handling questions?",
+    "ms": "Enam perkara mengendali soalan?"
+   },
+   "a": {
+    "en": "Establish ground rules, prepare, notice nonverbal signals, respond to difficult questions, control presentation, control emotions.",
+    "ms": "Peraturan asas, bersedia, perhati isyarat bukan lisan, soalan sukar, kawal pembentangan, kawal emosi."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "backchannel",
+   "q": {
+    "en": "What is the backchannel?",
+    "ms": "Apakah backchannel?"
+   },
+   "a": {
+    "en": "A line of communication created by the audience during a presentation.",
+    "ms": "Talian komunikasi yang dicipta audiens semasa pembentangan."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "backchannel",
+   "q": {
+    "en": "Backchannel challenges and opportunities?",
+    "ms": "Cabaran dan peluang backchannel?"
+   },
+   "a": {
+    "en": "Challenges: risk of criticism, loss of control. Opportunities: audience support, valuable feedback.",
+    "ms": "Cabaran: risiko kritikan, hilang kawalan. Peluang: sokongan audiens, maklum balas bernilai."
+   }
+  },
+  {
+   "id": "c22",
+   "t": "backchannel",
+   "q": {
+    "en": "Five ways to work the backchannel?",
+    "ms": "Lima cara mengurus backchannel?"
+   },
+   "a": {
+    "en": "Integrate social media; monitor and ask for feedback; review comments; auto-tweet key points; set expectations.",
+    "ms": "Integrasi media sosial; pantau dan minta maklum balas; semak komen; tweet automatik; tetapkan jangkaan."
+   }
+  },
+  {
+   "id": "c23",
+   "t": "online",
+   "q": {
+    "en": "Advantages and disadvantages of online presentations?",
+    "ms": "Kelebihan dan kekurangan pembentangan dalam talian?"
+   },
+   "a": {
+    "en": "Advantages: cost savings, convenience. Disadvantages: digital divide, loss of human moments.",
+    "ms": "Kelebihan: jimat kos, kemudahan. Kekurangan: jurang digital, hilang detik manusiawi."
+   }
+  },
+  {
+   "id": "c24",
+   "t": "online",
+   "q": {
+    "en": "Six steps for successful online presentations?",
+    "ms": "Enam langkah pembentangan dalam talian berjaya?"
+   },
+   "a": {
+    "en": "Send preview materials; rehearse; keep simple; ask feedback often; consider audience view; give time to connect.",
+    "ms": "Hantar pratonton; berlatih; ringkas; minta maklum balas; fikir sudut audiens; beri masa bersambung."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "analyze",
+   "q": {
+    "en": "Which is NOT a purpose of a presentation?",
+    "ms": "Yang mana BUKAN tujuan pembentangan?"
+   },
+   "o": [
+    "Inform",
+    "Persuade",
+    "Collaborate",
+    "Entertain only"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Inform, persuade, collaborate.",
+    "ms": "Memaklumkan, memujuk, berkolaborasi."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "analyze",
+   "q": {
+    "en": "A U-shaped layout is called:",
+    "ms": "Susunan berbentuk U dipanggil:"
+   },
+   "o": [
+    "Classroom",
+    "Horseshoe",
+    "Café",
+    "Conference table"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Horseshoe or U-shaped.",
+    "ms": "Horseshoe atau U."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "analyze",
+   "q": {
+    "en": "Which belongs to an audience profile?",
+    "ms": "Yang mana dalam profil audiens?"
+   },
+   "o": [
+    "Emotional state",
+    "Projector brand",
+    "Slide count",
+    "Font size"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Emotional state and comfort with your language.",
+    "ms": "Keadaan emosi dan keselesaan dengan bahasa."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "organize",
+   "q": {
+    "en": "A presentation that lets you jump between topics is:",
+    "ms": "Pembentangan yang membolehkan anda melompat antara topik ialah:"
+   },
+   "o": [
+    "Linear",
+    "Nonlinear",
+    "Memorised",
+    "Impromptu"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Nonlinear.",
+    "ms": "Nonlinear."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "organize",
+   "q": {
+    "en": "The main idea should be:",
+    "ms": "Idea utama hendaklah:"
+   },
+   "o": [
+    "A one-sentence summary",
+    "A 5-page essay",
+    "A joke",
+    "A bibliography"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "organize",
+   "q": {
+    "en": "Longer presentations that aim to persuade usually use the:",
+    "ms": "Pembentangan panjang untuk memujuk biasanya guna:"
+   },
+   "o": [
+    "Direct approach",
+    "Indirect approach",
+    "No approach",
+    "Random approach"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Indirect to analyse, persuade or collaborate.",
+    "ms": "Tidak terus untuk menganalisis, memujuk atau berkolaborasi."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "organize",
+   "q": {
+    "en": "Shorter presentations with routine information use:",
+    "ms": "Pembentangan pendek dengan maklumat rutin guna:"
+   },
+   "o": [
+    "Indirect approach",
+    "Direct approach",
+    "Nonlinear only",
+    "Backchannel"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Direct for routine information or good news.",
+    "ms": "Terus untuk maklumat rutin atau berita baik."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "organize",
+   "q": {
+    "en": "Which is part of a speaking outline?",
+    "ms": "Yang mana sebahagian rangka pertuturan?"
+   },
+   "o": [
+    "Add delivery cues",
+    "Write a full script",
+    "Delete the title",
+    "Remove all notes"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Simplify, condense, add cues, arrange notes.",
+    "ms": "Ringkas, padat, tambah isyarat, susun nota."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "content",
+   "q": {
+    "en": "For a large audience on a platform, use a:",
+    "ms": "Untuk audiens besar di pentas, guna:"
+   },
+   "o": [
+    "Conversational tone",
+    "Formal tone",
+    "Whisper",
+    "Inviting comments constantly"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Large: formal tone, limit participation.",
+    "ms": "Besar: nada formal, hadkan penyertaan."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "content",
+   "q": {
+    "en": "Which is NOT a job of the introduction?",
+    "ms": "Yang mana BUKAN tugas pengenalan?"
+   },
+   "o": [
+    "Arouse interest",
+    "Establish credibility",
+    "Preview message",
+    "Restate main points as a wrap-up"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Restating is the close.",
+    "ms": "Mengulang poin ialah tugas penutup."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "content",
+   "q": {
+    "en": "A good way to establish credibility is:",
+    "ms": "Cara baik membina kredibiliti ialah:"
+   },
+   "o": [
+    "Boast loudly",
+    "Have another person introduce you",
+    "Skip your introduction",
+    "Read your CV"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Also introduce yourself humbly and simply.",
+    "ms": "Juga perkenal diri dengan rendah hati."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "content",
+   "q": {
+    "en": "Which belongs to the body?",
+    "ms": "Yang mana dalam isi?"
+   },
+   "o": [
+    "Connecting your ideas",
+    "Providing a clear wrap-up",
+    "Establishing credibility",
+    "Previewing your message"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Body: main points, connect ideas, hold attention.",
+    "ms": "Isi: poin utama, sambung idea, kekal perhatian."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "content",
+   "q": {
+    "en": "A clear wrap-up belongs to the:",
+    "ms": "Rumusan jelas milik:"
+   },
+   "o": [
+    "Introduction",
+    "Body",
+    "Close",
+    "Backchannel"
+   ],
+   "a": 2,
+   "e": {
+    "en": "The close.",
+    "ms": "Penutup."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "deliver",
+   "q": {
+    "en": "Speaking without preparation is:",
+    "ms": "Bercakap tanpa persediaan ialah:"
+   },
+   "o": [
+    "Reading",
+    "Memorising",
+    "Impromptu speaking",
+    "Outlining"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Impromptu speaking.",
+    "ms": "Bercakap impromptu."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "deliver",
+   "q": {
+    "en": "Which is a tip to overcome anxiety?",
+    "ms": "Yang mana tip mengatasi keresahan?"
+   },
+   "o": [
+    "Expect perfection",
+    "Practise, practise, practise",
+    "Avoid eye contact",
+    "Rush through"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Also visualise success and breathe.",
+    "ms": "Juga bayangkan kejayaan dan bernafas."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "deliver",
+   "q": {
+    "en": "To speak with confidence, you should:",
+    "ms": "Untuk bercakap yakin, anda patut:"
+   },
+   "o": [
+    "Slouch",
+    "Make eye contact",
+    "Avoid the audience",
+    "Speak without a plan"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Also controlled beginning, posture, nonverbal signals.",
+    "ms": "Juga permulaan terkawal, postur, isyarat bukan lisan."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "deliver",
+   "q": {
+    "en": "When handling questions, you should first:",
+    "ms": "Semasa mengendali soalan, anda patut mula dengan:"
+   },
+   "o": [
+    "Establish ground rules",
+    "Ignore them",
+    "Argue",
+    "End the session"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Establish ground rules, prepare, notice nonverbal signals.",
+    "ms": "Tetapkan peraturan asas, bersedia, perhati isyarat."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "deliver",
+   "q": {
+    "en": "Preparing to speak includes:",
+    "ms": "Bersedia bercakap termasuk:"
+   },
+   "o": [
+    "Planning for multicultural audiences",
+    "Avoiding equipment checks",
+    "Ignoring seating",
+    "Skipping practice"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 26.",
+    "ms": "Slaid 26."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "backchannel",
+   "q": {
+    "en": "The backchannel is created by:",
+    "ms": "Backchannel dicipta oleh:"
+   },
+   "o": [
+    "The speaker",
+    "The audience",
+    "The venue",
+    "The software vendor"
+   ],
+   "a": 1,
+   "e": {
+    "en": "The audience creates this line of communication.",
+    "ms": "Audiens mencipta talian ini."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "backchannel",
+   "q": {
+    "en": "A backchannel CHALLENGE is:",
+    "ms": "CABARAN backchannel ialah:"
+   },
+   "o": [
+    "Valuable feedback",
+    "Audience support",
+    "Loss of control",
+    "Better engagement"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Risk of criticism and loss of control.",
+    "ms": "Risiko kritikan dan hilang kawalan."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "backchannel",
+   "q": {
+    "en": "A backchannel OPPORTUNITY is:",
+    "ms": "PELUANG backchannel ialah:"
+   },
+   "o": [
+    "Risk of criticism",
+    "Loss of control",
+    "Valuable feedback",
+    "Digital divide"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Audience support and valuable feedback.",
+    "ms": "Sokongan audiens dan maklum balas bernilai."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "backchannel",
+   "q": {
+    "en": "Which helps work the backchannel?",
+    "ms": "Yang mana membantu mengurus backchannel?"
+   },
+   "o": [
+    "Automatically tweet key points",
+    "Ban all devices silently",
+    "Ignore comments",
+    "Remove feedback"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Integrate, monitor, review, tweet, set expectations.",
+    "ms": "Integrasi, pantau, semak, tweet, tetapkan jangkaan."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "online",
+   "q": {
+    "en": "An online presentation DISADVANTAGE is:",
+    "ms": "KEKURANGAN pembentangan dalam talian ialah:"
+   },
+   "o": [
+    "Cost savings",
+    "Convenience",
+    "Digital divide",
+    "Rehearsal"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Digital divide and loss of human moments.",
+    "ms": "Jurang digital dan hilang detik manusiawi."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "online",
+   "q": {
+    "en": "To ensure success online, you should:",
+    "ms": "Untuk berjaya dalam talian, anda patut:"
+   },
+   "o": [
+    "Send preview materials",
+    "Skip rehearsal",
+    "Make it complex",
+    "Avoid feedback"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Also rehearse, keep simple, ask for feedback.",
+    "ms": "Juga berlatih, ringkas, minta maklum balas."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "online",
+   "q": {
+    "en": "Online presentation advantages are:",
+    "ms": "Kelebihan pembentangan dalam talian ialah:"
+   },
+   "o": [
+    "Cost savings and convenience",
+    "Digital divide and cost",
+    "Loss of human moments",
+    "Reduced access"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 35.",
+    "ms": "Slaid 35."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "analyze",
+   "marks": 6,
+   "q": {
+    "en": "Explain how to analyse the situation before a presentation.",
+    "ms": "Terangkan cara menganalisis situasi sebelum pembentangan."
+   },
+   "pts": {
+    "en": [
+     "Define purpose: inform, persuade, collaborate (2)",
+     "Audience profile: emotional state, language comfort (2)",
+     "Environment: four seating arrangements (1)",
+     "Select media and channels (1)"
+    ],
+    "ms": [
+     "Tentukan tujuan: memaklumkan, memujuk, berkolaborasi (2)",
+     "Profil audiens: keadaan emosi, keselesaan bahasa (2)",
+     "Persekitaran: empat susunan tempat duduk (1)",
+     "Pilih media dan saluran (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "organize",
+   "marks": 8,
+   "q": {
+    "en": "Discuss how to organise a presentation, including main idea, approach and outline.",
+    "ms": "Bincangkan cara menyusun pembentangan, termasuk idea utama, pendekatan dan rangka."
+   },
+   "pts": {
+    "en": [
+     "Linear and nonlinear structures (2)",
+     "Main idea as a one-sentence summary (1)",
+     "Limit scope by time and attention (1)",
+     "Direct vs indirect approach by length and message type (2)",
+     "Outline items: purpose, points, transitions, bibliography, title (2)"
+    ],
+    "ms": [
+     "Struktur linear dan nonlinear (2)",
+     "Idea utama sebagai ringkasan satu ayat (1)",
+     "Hadkan skop mengikut masa dan perhatian (1)",
+     "Pendekatan terus lwn tidak terus mengikut panjang dan jenis mesej (2)",
+     "Item rangka: tujuan, poin, peralihan, bibliografi, tajuk (2)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "content",
+   "marks": 8,
+   "q": {
+    "en": "Describe the opening, body and close of an effective presentation.",
+    "ms": "Huraikan pembukaan, isi dan penutup pembentangan berkesan."
+   },
+   "pts": {
+    "en": [
+     "Introduction: arouse interest (1)",
+     "Introduction: establish credibility (1)",
+     "Introduction: preview message (1)",
+     "Body: present main points (1)",
+     "Body: connect ideas and hold attention (2)",
+     "Close: restate main points (1)",
+     "Close: end with clarity and confidence, clear wrap-up (1)"
+    ],
+    "ms": [
+     "Pengenalan: bangkit minat (1)",
+     "Pengenalan: bina kredibiliti (1)",
+     "Pengenalan: pratonton mesej (1)",
+     "Isi: bentang poin utama (1)",
+     "Isi: sambung idea dan kekal perhatian (2)",
+     "Penutup: ulang poin utama (1)",
+     "Penutup: tamat jelas dan yakin, rumusan jelas (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "deliver",
+   "marks": 8,
+   "q": {
+    "en": "Discuss how to deliver a presentation confidently and handle questions.",
+    "ms": "Bincangkan cara menyampaikan pembentangan dengan yakin dan mengendali soalan."
+   },
+   "pts": {
+    "en": [
+     "Choose method: memorise, read, outline or notes, impromptu (2)",
+     "Practise delivery: equipment, timing, pronunciation (1)",
+     "Prepare to speak: seating, equipment, multicultural audiences (1)",
+     "Overcome anxiety: positive mindset, practise, breathe (2)",
+     "Confidence: eye contact, posture (1)",
+     "Questions: ground rules, difficult questions, control emotions (1)"
+    ],
+    "ms": [
+     "Pilih kaedah: hafal, baca, rangka atau nota, impromptu (2)",
+     "Latih penyampaian: peralatan, masa, sebutan (1)",
+     "Bersedia: tempat duduk, peralatan, audiens pelbagai budaya (1)",
+     "Atasi keresahan: minda positif, berlatih, bernafas (2)",
+     "Yakin: pandang mata, postur (1)",
+     "Soalan: peraturan asas, soalan sukar, kawal emosi (1)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "backchannel",
+   "marks": 6,
+   "q": {
+    "en": "Explain the backchannel and how to give effective online presentations.",
+    "ms": "Terangkan backchannel dan cara memberi pembentangan dalam talian berkesan."
+   },
+   "pts": {
+    "en": [
+     "Backchannel is created by the audience (1)",
+     "Challenges: criticism, loss of control (1)",
+     "Opportunities: support, feedback (1)",
+     "Online: send preview materials, rehearse, keep simple (2)",
+     "Online: ask feedback, consider audience, allow time to connect (1)"
+    ],
+    "ms": [
+     "Backchannel dicipta audiens (1)",
+     "Cabaran: kritikan, hilang kawalan (1)",
+     "Peluang: sokongan, maklum balas (1)",
+     "Dalam talian: hantar pratonton, berlatih, ringkas (2)",
+     "Dalam talian: minta maklum balas, fikir audiens, beri masa bersambung (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Presentation",
+   "Pembentangan"
+  ],
+  [
+   "Audience profile",
+   "Profil audiens"
+  ],
+  [
+   "Linear",
+   "Linear"
+  ],
+  [
+   "Nonlinear",
+   "Nonlinear"
+  ],
+  [
+   "Main idea",
+   "Idea utama"
+  ],
+  [
+   "Direct approach",
+   "Pendekatan terus"
+  ],
+  [
+   "Indirect approach",
+   "Pendekatan tidak terus"
+  ],
+  [
+   "Outline",
+   "Rangka"
+  ],
+  [
+   "Transition",
+   "Peralihan"
+  ],
+  [
+   "Credibility",
+   "Kredibiliti"
+  ],
+  [
+   "Impromptu speaking",
+   "Bercakap spontan"
+  ],
+  [
+   "Anxiety",
+   "Keresahan"
+  ],
+  [
+   "Backchannel",
+   "Backchannel"
+  ],
+  [
+   "Webcast",
+   "Webcast"
+  ],
+  [
+   "Digital divide",
+   "Jurang digital"
+  ]
+ ]
+}

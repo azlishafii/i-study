@@ -1,0 +1,1303 @@
+{
+ "subject": {
+  "id": "sbsc3153",
+  "code": "SBSC3153",
+  "name": {
+   "en": "Business Communication",
+   "ms": "Komunikasi Perniagaan"
+  }
+ },
+ "id": "ch17",
+ "num": 17,
+ "title": {
+  "en": "Enhancing Presentations with Slides and Other Visuals",
+  "ms": "Menambah Baik Pembentangan dengan Slaid dan Visual Lain"
+ },
+ "standard": "Bovee Ch 17",
+ "outcomes": {
+  "en": [
+   "Explain the role of visuals in business presentations and list the types commonly used",
+   "Explain the difference between structured and free-form slides and when each is appropriate",
+   "Outline decisions in using a key visual and selecting colour, artwork and typefaces",
+   "Explain how to create effective slide content",
+   "Explain the role of navigation slides, support slides and handouts"
+  ],
+  "ms": [
+   "Terangkan peranan visual dalam pembentangan perniagaan dan senaraikan jenis yang lazim",
+   "Terangkan beza slaid berstruktur dan bentuk bebas serta bila setiap satu sesuai",
+   "Gariskan keputusan menggunakan visual utama serta memilih warna, seni grafik dan jenis taip",
+   "Terangkan cara mencipta kandungan slaid berkesan",
+   "Terangkan peranan slaid navigasi, slaid sokongan dan edaran (handout)"
+  ]
+ },
+ "sections": [
+  {
+   "id": "types",
+   "icon": "🖼️",
+   "title": {
+    "en": "Planning Presentation Visuals",
+    "ms": "Merancang Visual Pembentangan"
+   },
+   "ref": "Slides 4–6",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Types of visuals",
+     "ms": "Jenis visual"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Prezis",
+      "Slides",
+      "Overhead transparencies",
+      "Chalkboards and whiteboards",
+      "Flip charts",
+      "Other visuals"
+     ],
+     "ms": [
+      "Prezi",
+      "Slaid",
+      "Overhead transparency",
+      "Papan hitam dan papan putih",
+      "Carta selak (flip chart)",
+      "Visual lain"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Verifying your design plans",
+     "ms": "Mengesahkan pelan reka bentuk"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Review the plan",
+      "Check presentation style",
+      "Double-check cultural assumptions",
+      "Keep it simple",
+      "Use your time wisely"
+     ],
+     "ms": [
+      "Semak pelan",
+      "Semak gaya pembentangan",
+      "Semak semula andaian budaya",
+      "Pastikan ringkas",
+      "Guna masa dengan bijak"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "structured",
+   "icon": "📐",
+   "title": {
+    "en": "Structured vs Free-Form Slides",
+    "ms": "Slaid Berstruktur lwn Bentuk Bebas"
+   },
+   "ref": "Slides 7–8",
+   "blocks": [
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Structured slides: advantages",
+       "Structured slides: disadvantages"
+      ],
+      "ms": [
+       "Berstruktur: kelebihan",
+       "Berstruktur: kekurangan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Easy to create",
+        "Text-heavy slides"
+       ],
+       "ms": [
+        "Mudah dicipta",
+        "Slaid padat teks"
+       ]
+      },
+      {
+       "en": [
+        "Templates available",
+        "Repetitive appearance"
+       ],
+       "ms": [
+        "Templat tersedia",
+        "Rupa berulang"
+       ]
+      },
+      {
+       "en": [
+        "Good for complex ideas",
+        "Audience response may suffer"
+       ],
+       "ms": [
+        "Sesuai untuk idea kompleks",
+        "Respons audiens mungkin terjejas"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Slide 8 lists “Complex Ideas” and “Audience Response” in the advantages/disadvantages columns without explicit mapping. The mapping above follows reading order. Free-form slides are not described in the slide text; Extra (not in slides): free-form slides use a key visual and less text, and suit presentations where you want a stronger audience connection. Check your textbook.",
+     "ms": "Slaid 8 menyenaraikan “Complex Ideas” dan “Audience Response” dalam lajur kelebihan/kekurangan tanpa pemetaan jelas. Pemetaan di atas ikut susunan bacaan. Slaid bentuk bebas tidak diterangkan dalam teks slaid; Extra (bukan dalam slaid): slaid bentuk bebas guna visual utama dan kurang teks, sesuai bila mahu hubungan audiens lebih kuat. Semak buku teks."
+    }
+   ]
+  },
+  {
+   "id": "design",
+   "icon": "🎨",
+   "title": {
+    "en": "Designing Effective Slides",
+    "ms": "Mereka Bentuk Slaid Berkesan"
+   },
+   "ref": "Slides 10–13",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Why slide design is ineffective",
+     "ms": "Kenapa reka bentuk slaid tidak berkesan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Lack of awareness",
+      "Inadequate training",
+      "Schedule pressures",
+      "Habitual responses",
+      "Slideument hybrids"
+     ],
+     "ms": [
+      "Kurang kesedaran",
+      "Latihan tidak mencukupi",
+      "Tekanan jadual",
+      "Tindak balas lazim",
+      "Slideument hybrid"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Designing around a key visual",
+     "ms": "Mereka bentuk sekitar visual utama"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Structuring",
+      "Organising",
+      "Explaining"
+     ],
+     "ms": [
+      "Menstruktur",
+      "Menyusun",
+      "Menerangkan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Colour, artwork, typefaces",
+     "ms": "Warna, seni grafik, jenis taip"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Colour",
+      "Artwork",
+      "Typefaces and type styles"
+     ],
+     "ms": [
+      "Warna",
+      "Seni grafik",
+      "Jenis taip dan gaya taip"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Maintaining design consistency",
+     "ms": "Mengekalkan konsistensi reka bentuk"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Slide masters",
+      "Predefined layouts",
+      "Colour choices",
+      "Titles",
+      "Font styles",
+      "Graphic art",
+      "Design elements",
+      "Bulleted text"
+     ],
+     "ms": [
+      "Slide master",
+      "Susun atur ditetapkan",
+      "Pilihan warna",
+      "Tajuk",
+      "Gaya fon",
+      "Seni grafik",
+      "Elemen reka bentuk",
+      "Teks berpoin"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Slideument = a hybrid of slide and document: too much text for a slide.",
+     "ms": "Slideument = hibrid slaid dan dokumen: terlalu banyak teks untuk slaid."
+    }
+   ]
+  },
+  {
+   "id": "content",
+   "icon": "✍️",
+   "title": {
+    "en": "Creating Effective Slide Content",
+    "ms": "Mencipta Kandungan Slaid Berkesan"
+   },
+   "ref": "Slides 15–19",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Writing readable content",
+     "ms": "Menulis kandungan mudah dibaca"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Limit each slide to **one thought, concept or idea**",
+      "Limit text to **four or five lines with four or five words per line**",
+      "Don’t show a large number of text-heavy slides in a row",
+      "Write short bulleted phrases rather than long sentences",
+      "Use sentences only for quotations or the like",
+      "Phrase list items in **parallel** grammatical form",
+      "Use the **active voice**",
+      "Include short, informative titles",
+      "Use visuals to convey the bulk of the information"
+     ],
+     "ms": [
+      "Hadkan setiap slaid kepada **satu fikiran, konsep atau idea**",
+      "Hadkan teks kepada **empat atau lima baris dengan empat atau lima perkataan setiap baris**",
+      "Jangan tunjuk banyak slaid padat teks berturut-turut",
+      "Tulis frasa pendek berpoin, bukan ayat panjang",
+      "Guna ayat hanya untuk petikan dan sebagainya",
+      "Frasakan item senarai dalam bentuk tatabahasa **selari**",
+      "Guna **ayat aktif**",
+      "Sertakan tajuk pendek dan bermaklumat",
+      "Guna visual untuk menyampaikan sebahagian besar maklumat"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Charts and tables for slides",
+     "ms": "Carta dan jadual untuk slaid"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Reduce the detail",
+      "Simplify",
+      "Shorten numbers",
+      "Limit data",
+      "Highlight key points",
+      "Adjust size and design"
+     ],
+     "ms": [
+      "Kurangkan perincian",
+      "Permudah",
+      "Pendekkan nombor",
+      "Hadkan data",
+      "Serlahkan poin utama",
+      "Laras saiz dan reka bentuk"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Animation and multimedia (four categories)",
+     "ms": "Animasi dan multimedia (empat kategori)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Functional animation",
+      "Transitions and builds",
+      "Hyperlinks",
+      "Multimedia"
+     ],
+     "ms": [
+      "Animasi fungsian",
+      "Transisi dan build",
+      "Hiperpautan",
+      "Multimedia"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Integrating mobile devices",
+     "ms": "Mengintegrasikan peranti mudah alih"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Eliminate the projection system",
+      "Use slide broadcast systems",
+      "Send via subscription"
+     ],
+     "ms": [
+      "Hapuskan sistem unjuran",
+      "Guna sistem siaran slaid",
+      "Hantar melalui langganan"
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Rule of thumb: 4-5 lines × 4-5 words, one idea per slide.",
+     "ms": "Petua: 4-5 baris × 4-5 perkataan, satu idea setiap slaid."
+    }
+   ]
+  },
+  {
+   "id": "complete",
+   "icon": "🧭",
+   "title": {
+    "en": "Reviewing, Navigation, Support and Handouts",
+    "ms": "Semakan, Navigasi, Sokongan dan Edaran"
+   },
+   "ref": "Slides 21–25",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Reviewing the slides (8 checks)",
+     "ms": "Menyemak slaid (8 semakan)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Readable",
+      "Consistent",
+      "Simple",
+      "Audience-centred",
+      "Clear",
+      "Concise and grammatically correct",
+      "Focused",
+      "Fully operational"
+     ],
+     "ms": [
+      "Mudah dibaca",
+      "Konsisten",
+      "Ringkas",
+      "Berpusatkan audiens",
+      "Jelas",
+      "Ringkas dan tatabahasa betul",
+      "Fokus",
+      "Berfungsi sepenuhnya"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Navigation and support slides",
+     "ms": "Slaid navigasi dan sokongan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Title slides: create a **first impression**",
+      "Agenda and program details: **communicate the agenda**",
+      "Navigation slides: **guide the audience through your outline**"
+     ],
+     "ms": [
+      "Slaid tajuk: cipta **kesan pertama**",
+      "Agenda dan butiran program: **sampaikan agenda**",
+      "Slaid navigasi: **bimbing audiens melalui rangka anda**"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Handouts: good content",
+     "ms": "Edaran: kandungan baik"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Charts or diagrams",
+      "Articles and technical papers",
+      "Case studies",
+      "Recommended resources",
+      "Copies of presentation slides"
+     ],
+     "ms": [
+      "Carta atau rajah",
+      "Artikel dan kertas teknikal",
+      "Kajian kes",
+      "Sumber disyorkan",
+      "Salinan slaid pembentangan"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Distributing handouts: factors",
+     "ms": "Mengedar handout: faktor"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Timing",
+      "Nature of content",
+      "Personal preference"
+     ],
+     "ms": [
+      "Masa",
+      "Jenis kandungan",
+      "Keutamaan peribadi"
+     ]
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "types",
+   "q": {
+    "en": "List six types of presentation visuals.",
+    "ms": "Senaraikan enam jenis visual pembentangan."
+   },
+   "a": {
+    "en": "Prezis, slides, overhead transparencies, chalkboards and whiteboards, flip charts, other visuals.",
+    "ms": "Prezi, slaid, overhead transparency, papan hitam/putih, flip chart, visual lain."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "types",
+   "q": {
+    "en": "Five checks when verifying design plans?",
+    "ms": "Lima semakan mengesahkan pelan reka bentuk?"
+   },
+   "a": {
+    "en": "Review the plan, check style, double-check cultural assumptions, keep it simple, use time wisely.",
+    "ms": "Semak pelan, semak gaya, semak andaian budaya, ringkas, guna masa bijak."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "structured",
+   "q": {
+    "en": "Advantages of structured slides?",
+    "ms": "Kelebihan slaid berstruktur?"
+   },
+   "a": {
+    "en": "Easy to create; templates available; good for complex ideas.",
+    "ms": "Mudah dicipta; templat tersedia; sesuai idea kompleks."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "structured",
+   "q": {
+    "en": "Disadvantages of structured slides?",
+    "ms": "Kekurangan slaid berstruktur?"
+   },
+   "a": {
+    "en": "Text-heavy slides, repetitive appearance, can hurt audience response.",
+    "ms": "Padat teks, rupa berulang, boleh jejas respons audiens."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "design",
+   "q": {
+    "en": "Reasons for ineffective slide design?",
+    "ms": "Sebab reka bentuk slaid tidak berkesan?"
+   },
+   "a": {
+    "en": "Lack of awareness, inadequate training, schedule pressures, habitual responses, slideument hybrids.",
+    "ms": "Kurang kesedaran, latihan tidak cukup, tekanan jadual, tindak balas lazim, slideument hybrid."
+   }
+  },
+  {
+   "id": "c6",
+   "t": "design",
+   "q": {
+    "en": "What is a slideument?",
+    "ms": "Apakah slideument?"
+   },
+   "a": {
+    "en": "A hybrid of slide and document (too much text for a slide).",
+    "ms": "Hibrid slaid dan dokumen (terlalu banyak teks)."
+   }
+  },
+  {
+   "id": "c7",
+   "t": "design",
+   "q": {
+    "en": "Three roles of a key visual?",
+    "ms": "Tiga peranan visual utama?"
+   },
+   "a": {
+    "en": "Structuring, organising, explaining.",
+    "ms": "Menstruktur, menyusun, menerangkan."
+   }
+  },
+  {
+   "id": "c8",
+   "t": "design",
+   "q": {
+    "en": "Which tools keep design consistent?",
+    "ms": "Alat mana mengekalkan konsistensi reka bentuk?"
+   },
+   "a": {
+    "en": "Slide masters, predefined layouts, colour choices, titles, font styles, graphic art, design elements, bulleted text.",
+    "ms": "Slide master, susun atur, warna, tajuk, gaya fon, seni grafik, elemen reka bentuk, teks berpoin."
+   }
+  },
+  {
+   "id": "c9",
+   "t": "content",
+   "q": {
+    "en": "Text limit on a slide?",
+    "ms": "Had teks pada slaid?"
+   },
+   "a": {
+    "en": "Four or five lines with four or five words per line; one idea per slide.",
+    "ms": "Empat atau lima baris, empat atau lima perkataan setiap baris; satu idea setiap slaid."
+   }
+  },
+  {
+   "id": "c10",
+   "t": "content",
+   "q": {
+    "en": "Bulleted phrases or sentences?",
+    "ms": "Frasa berpoin atau ayat?"
+   },
+   "a": {
+    "en": "Short bulleted phrases; use sentences only for quotations.",
+    "ms": "Frasa pendek berpoin; ayat hanya untuk petikan."
+   }
+  },
+  {
+   "id": "c11",
+   "t": "content",
+   "q": {
+    "en": "Grammar tips for slide lists?",
+    "ms": "Tip tatabahasa untuk senarai slaid?"
+   },
+   "a": {
+    "en": "Use parallel form and the active voice.",
+    "ms": "Guna bentuk selari dan ayat aktif."
+   }
+  },
+  {
+   "id": "c12",
+   "t": "content",
+   "q": {
+    "en": "Six tips for charts and tables?",
+    "ms": "Enam tip carta dan jadual?"
+   },
+   "a": {
+    "en": "Reduce detail, simplify, shorten numbers, limit data, highlight key points, adjust size and design.",
+    "ms": "Kurang perincian, permudah, pendekkan nombor, hadkan data, serlah poin utama, laras saiz."
+   }
+  },
+  {
+   "id": "c13",
+   "t": "content",
+   "q": {
+    "en": "Four categories of animation?",
+    "ms": "Empat kategori animasi?"
+   },
+   "a": {
+    "en": "Functional animation, transitions and builds, hyperlinks, multimedia.",
+    "ms": "Animasi fungsian, transisi dan build, hiperpautan, multimedia."
+   }
+  },
+  {
+   "id": "c14",
+   "t": "content",
+   "q": {
+    "en": "Three mobile integration options?",
+    "ms": "Tiga pilihan integrasi mudah alih?"
+   },
+   "a": {
+    "en": "Eliminate projection system, use slide broadcast systems, send via subscription.",
+    "ms": "Hapus sistem unjuran, sistem siaran slaid, hantar melalui langganan."
+   }
+  },
+  {
+   "id": "c15",
+   "t": "complete",
+   "q": {
+    "en": "Eight slide review checks?",
+    "ms": "Lapan semakan slaid?"
+   },
+   "a": {
+    "en": "Readable, consistent, simple, audience-centred, clear, concise and grammatically correct, focused, fully operational.",
+    "ms": "Mudah dibaca, konsisten, ringkas, berpusatkan audiens, jelas, ringkas dan betul, fokus, berfungsi."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "complete",
+   "q": {
+    "en": "Purpose of title slides?",
+    "ms": "Tujuan slaid tajuk?"
+   },
+   "a": {
+    "en": "To create a first impression.",
+    "ms": "Mencipta kesan pertama."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "complete",
+   "q": {
+    "en": "Purpose of navigation slides?",
+    "ms": "Tujuan slaid navigasi?"
+   },
+   "a": {
+    "en": "To guide the audience through your outline.",
+    "ms": "Membimbing audiens melalui rangka anda."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "complete",
+   "q": {
+    "en": "Five good handout contents?",
+    "ms": "Lima kandungan handout yang baik?"
+   },
+   "a": {
+    "en": "Charts or diagrams, articles and technical papers, case studies, recommended resources, copies of slides.",
+    "ms": "Carta/rajah, artikel dan kertas teknikal, kajian kes, sumber disyorkan, salinan slaid."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "complete",
+   "q": {
+    "en": "Factors when distributing handouts?",
+    "ms": "Faktor semasa mengedar handout?"
+   },
+   "a": {
+    "en": "Timing, nature of content, personal preference.",
+    "ms": "Masa, jenis kandungan, keutamaan peribadi."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "types",
+   "q": {
+    "en": "Which is NOT listed as a presentation visual?",
+    "ms": "Yang mana TIDAK disenaraikan sebagai visual pembentangan?"
+   },
+   "o": [
+    "Prezis",
+    "Flip charts",
+    "Whiteboards",
+    "Telegrams"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 5 list.",
+    "ms": "Senarai slaid 5."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "types",
+   "q": {
+    "en": "Verifying design plans includes:",
+    "ms": "Mengesahkan pelan reka bentuk termasuk:"
+   },
+   "o": [
+    "Double-check cultural assumptions",
+    "Add more text",
+    "Avoid reviewing",
+    "Use every effect"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 6.",
+    "ms": "Slaid 6."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "structured",
+   "q": {
+    "en": "A structured slide advantage is:",
+    "ms": "Kelebihan slaid berstruktur ialah:"
+   },
+   "o": [
+    "Easy to create",
+    "Repetitive appearance",
+    "Text-heavy",
+    "Hard to build"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Easy to create and templates available.",
+    "ms": "Mudah dicipta dan templat tersedia."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "structured",
+   "q": {
+    "en": "A structured slide disadvantage is:",
+    "ms": "Kekurangan slaid berstruktur ialah:"
+   },
+   "o": [
+    "Templates available",
+    "Easy to create",
+    "Text-heavy slides",
+    "Simplicity"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Text-heavy slides and repetitive appearance.",
+    "ms": "Padat teks dan rupa berulang."
+   }
+  },
+  {
+   "id": "q5",
+   "t": "design",
+   "q": {
+    "en": "A “slideument” is:",
+    "ms": "“Slideument” ialah:"
+   },
+   "o": [
+    "A slide-document hybrid",
+    "A type of animation",
+    "A chart",
+    "A handout"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Too much text for a slide.",
+    "ms": "Terlalu banyak teks untuk slaid."
+   }
+  },
+  {
+   "id": "q6",
+   "t": "design",
+   "q": {
+    "en": "Which is a reason for ineffective slide design?",
+    "ms": "Yang mana sebab reka bentuk slaid tidak berkesan?"
+   },
+   "o": [
+    "Schedule pressures",
+    "Careful planning",
+    "Strong training",
+    "Audience focus"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Also lack of awareness, inadequate training, habitual responses.",
+    "ms": "Juga kurang kesedaran, latihan tidak cukup, tindak balas lazim."
+   }
+  },
+  {
+   "id": "q7",
+   "t": "design",
+   "q": {
+    "en": "Designing around a key visual helps with:",
+    "ms": "Mereka bentuk sekitar visual utama membantu:"
+   },
+   "o": [
+    "Structuring, organising, explaining",
+    "Printing",
+    "Billing",
+    "Typing"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 11.",
+    "ms": "Slaid 11."
+   }
+  },
+  {
+   "id": "q8",
+   "t": "design",
+   "q": {
+    "en": "Slide masters help maintain:",
+    "ms": "Slide master membantu mengekalkan:"
+   },
+   "o": [
+    "Design consistency",
+    "Animation only",
+    "Handouts",
+    "Hyperlinks"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 13.",
+    "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q9",
+   "t": "content",
+   "q": {
+    "en": "A slide should have at most:",
+    "ms": "Satu slaid sepatutnya mempunyai paling banyak:"
+   },
+   "o": [
+    "10 lines of 20 words",
+    "Four or five lines of four or five words",
+    "A full paragraph",
+    "Three paragraphs"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 15.",
+    "ms": "Slaid 15."
+   }
+  },
+  {
+   "id": "q10",
+   "t": "content",
+   "q": {
+    "en": "Each slide should have:",
+    "ms": "Setiap slaid sepatutnya ada:"
+   },
+   "o": [
+    "One idea",
+    "Five ideas",
+    "As many as possible",
+    "No title"
+   ],
+   "a": 0,
+   "e": {
+    "en": "One thought, concept or idea.",
+    "ms": "Satu fikiran, konsep atau idea."
+   }
+  },
+  {
+   "id": "q11",
+   "t": "content",
+   "q": {
+    "en": "Which is correct slide wording?",
+    "ms": "Yang mana perkataan slaid betul?"
+   },
+   "o": [
+    "Long sentences",
+    "Short parallel bulleted phrases",
+    "Full paragraphs",
+    "Passive voice"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Short bulleted phrases, parallel form, active voice.",
+    "ms": "Frasa pendek berpoin, selari, ayat aktif."
+   }
+  },
+  {
+   "id": "q12",
+   "t": "content",
+   "q": {
+    "en": "For charts on slides you should:",
+    "ms": "Untuk carta pada slaid anda patut:"
+   },
+   "o": [
+    "Add all data",
+    "Limit data and shorten numbers",
+    "Use tiny fonts",
+    "Hide key points"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 17.",
+    "ms": "Slaid 17."
+   }
+  },
+  {
+   "id": "q13",
+   "t": "content",
+   "q": {
+    "en": "Which is NOT an animation category?",
+    "ms": "Yang mana BUKAN kategori animasi?"
+   },
+   "o": [
+    "Functional animation",
+    "Hyperlinks",
+    "Multimedia",
+    "Footnotes"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Four categories: functional, transitions/builds, hyperlinks, multimedia.",
+    "ms": "Empat kategori: fungsian, transisi/build, hiperpautan, multimedia."
+   }
+  },
+  {
+   "id": "q14",
+   "t": "content",
+   "q": {
+    "en": "Mobile integration can:",
+    "ms": "Integrasi mudah alih boleh:"
+   },
+   "o": [
+    "Eliminate the projection system",
+    "Remove slides",
+    "Stop audience viewing",
+    "Require printing"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 19.",
+    "ms": "Slaid 19."
+   }
+  },
+  {
+   "id": "q15",
+   "t": "complete",
+   "q": {
+    "en": "How many checks in reviewing slides?",
+    "ms": "Berapa semakan dalam menyemak slaid?"
+   },
+   "o": [
+    "Four",
+    "Six",
+    "Eight",
+    "Ten"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Readable to fully operational: eight.",
+    "ms": "Mudah dibaca hingga berfungsi: lapan."
+   }
+  },
+  {
+   "id": "q16",
+   "t": "complete",
+   "q": {
+    "en": "Title slides create:",
+    "ms": "Slaid tajuk mencipta:"
+   },
+   "o": [
+    "A first impression",
+    "A handout",
+    "An animation",
+    "A hyperlink"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q17",
+   "t": "complete",
+   "q": {
+    "en": "Navigation slides:",
+    "ms": "Slaid navigasi:"
+   },
+   "o": [
+    "Guide the audience through your outline",
+    "Replace the speaker",
+    "Contain all details",
+    "Are optional decoration"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 23.",
+    "ms": "Slaid 23."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "complete",
+   "q": {
+    "en": "Which is good handout content?",
+    "ms": "Yang mana kandungan handout baik?"
+   },
+   "o": [
+    "Case studies",
+    "Passwords",
+    "Random images",
+    "Nothing"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "complete",
+   "q": {
+    "en": "Which is NOT a factor in distributing handouts?",
+    "ms": "Yang mana BUKAN faktor mengedar handout?"
+   },
+   "o": [
+    "Timing",
+    "Nature of content",
+    "Personal preference",
+    "Slide colour"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Timing, nature of content, personal preference.",
+    "ms": "Masa, jenis kandungan, keutamaan peribadi."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "complete",
+   "q": {
+    "en": "Which review check refers to slides working technically?",
+    "ms": "Semakan mana merujuk slaid berfungsi secara teknikal?"
+   },
+   "o": [
+    "Focused",
+    "Fully operational",
+    "Simple",
+    "Clear"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Fully operational.",
+    "ms": "Berfungsi sepenuhnya."
+   }
+  },
+  {
+   "id": "q21",
+   "t": "content",
+   "q": {
+    "en": "Using “active voice” on slides makes text:",
+    "ms": "Menggunakan “active voice” pada slaid menjadikan teks:"
+   },
+   "o": [
+    "More direct",
+    "Longer",
+    "More passive",
+    "Less readable"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "structured",
+   "q": {
+    "en": "Which is a structured-slide disadvantage?",
+    "ms": "Yang mana kekurangan slaid berstruktur?"
+   },
+   "o": [
+    "Repetitive appearance",
+    "Templates available",
+    "Easy to create",
+    "Complex ideas"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "types",
+   "marks": 6,
+   "q": {
+    "en": "Explain how to plan and verify presentation visuals.",
+    "ms": "Terangkan cara merancang dan mengesahkan visual pembentangan."
+   },
+   "pts": {
+    "en": [
+     "Select types: Prezis, slides, transparencies, boards, flip charts (2)",
+     "Review the plan (1)",
+     "Check presentation style (1)",
+     "Double-check cultural assumptions (1)",
+     "Keep it simple and use time wisely (1)"
+    ],
+    "ms": [
+     "Pilih jenis: Prezi, slaid, transparensi, papan, flip chart (2)",
+     "Semak pelan (1)",
+     "Semak gaya pembentangan (1)",
+     "Semak andaian budaya (1)",
+     "Ringkas dan guna masa bijak (1)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "structured",
+   "marks": 6,
+   "q": {
+    "en": "Discuss the advantages and disadvantages of structured slides.",
+    "ms": "Bincangkan kelebihan dan kekurangan slaid berstruktur."
+   },
+   "pts": {
+    "en": [
+     "Easy to create (1)",
+     "Templates available (1)",
+     "Suits complex ideas (1)",
+     "Text-heavy slides (1)",
+     "Repetitive appearance (1)",
+     "May reduce audience response (1)"
+    ],
+    "ms": [
+     "Mudah dicipta (1)",
+     "Templat tersedia (1)",
+     "Sesuai idea kompleks (1)",
+     "Slaid padat teks (1)",
+     "Rupa berulang (1)",
+     "Boleh kurangkan respons audiens (1)"
+    ]
+   }
+  },
+  {
+   "id": "e3",
+   "t": "design",
+   "marks": 8,
+   "q": {
+    "en": "Explain why slide design is often ineffective and how to maintain design consistency.",
+    "ms": "Terangkan kenapa reka bentuk slaid sering tidak berkesan dan cara mengekalkan konsistensi."
+   },
+   "pts": {
+    "en": [
+     "Lack of awareness, inadequate training (2)",
+     "Schedule pressures, habitual responses (2)",
+     "Slideument hybrids (1)",
+     "Slide masters and predefined layouts (1)",
+     "Colour, fonts, titles, graphic art (1)",
+     "Design elements and bulleted text (1)"
+    ],
+    "ms": [
+     "Kurang kesedaran, latihan tidak cukup (2)",
+     "Tekanan jadual, tindak balas lazim (2)",
+     "Slideument hybrid (1)",
+     "Slide master dan susun atur (1)",
+     "Warna, fon, tajuk, seni grafik (1)",
+     "Elemen reka bentuk dan teks berpoin (1)"
+    ]
+   }
+  },
+  {
+   "id": "e4",
+   "t": "content",
+   "marks": 8,
+   "q": {
+    "en": "Describe how to create effective slide content, including charts and animation.",
+    "ms": "Huraikan cara mencipta kandungan slaid berkesan, termasuk carta dan animasi."
+   },
+   "pts": {
+    "en": [
+     "One idea per slide (1)",
+     "Four or five lines of four or five words (1)",
+     "Short parallel bulleted phrases, active voice (2)",
+     "Use visuals for the bulk of information (1)",
+     "Charts: reduce detail, shorten numbers, limit data (1)",
+     "Four animation categories (2)"
+    ],
+    "ms": [
+     "Satu idea setiap slaid (1)",
+     "Empat atau lima baris, empat atau lima perkataan (1)",
+     "Frasa pendek berpoin selari, ayat aktif (2)",
+     "Guna visual untuk kebanyakan maklumat (1)",
+     "Carta: kurang perincian, pendekkan nombor, hadkan data (1)",
+     "Empat kategori animasi (2)"
+    ]
+   }
+  },
+  {
+   "id": "e5",
+   "t": "complete",
+   "marks": 8,
+   "q": {
+    "en": "Explain the role of navigation slides, support slides and handouts, and list the checks for reviewing slides.",
+    "ms": "Terangkan peranan slaid navigasi, sokongan dan handout, dan senaraikan semakan slaid."
+   },
+   "pts": {
+    "en": [
+     "Title slides create a first impression (1)",
+     "Agenda communicates the program (1)",
+     "Navigation slides guide audience through outline (1)",
+     "Handout content: charts, articles, case studies, resources, slide copies (2)",
+     "Distribution factors: timing, nature of content, preference (1)",
+     "Review checks: readable, consistent, simple, clear, focused, operational (2)"
+    ],
+    "ms": [
+     "Slaid tajuk cipta kesan pertama (1)",
+     "Agenda sampaikan program (1)",
+     "Slaid navigasi bimbing audiens melalui rangka (1)",
+     "Kandungan handout: carta, artikel, kajian kes, sumber, salinan slaid (2)",
+     "Faktor pengedaran: masa, jenis kandungan, keutamaan (1)",
+     "Semakan: mudah dibaca, konsisten, ringkas, jelas, fokus, berfungsi (2)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Visual",
+   "Visual"
+  ],
+  [
+   "Prezi",
+   "Prezi"
+  ],
+  [
+   "Structured slide",
+   "Slaid berstruktur"
+  ],
+  [
+   "Free-form slide",
+   "Slaid bentuk bebas"
+  ],
+  [
+   "Slideument",
+   "Slideument (hibrid slaid-dokumen)"
+  ],
+  [
+   "Key visual",
+   "Visual utama"
+  ],
+  [
+   "Slide master",
+   "Slide master"
+  ],
+  [
+   "Typeface",
+   "Jenis taip"
+  ],
+  [
+   "Parallel form",
+   "Bentuk selari"
+  ],
+  [
+   "Active voice",
+   "Ayat aktif"
+  ],
+  [
+   "Animation",
+   "Animasi"
+  ],
+  [
+   "Hyperlink",
+   "Hiperpautan"
+  ],
+  [
+   "Navigation slide",
+   "Slaid navigasi"
+  ],
+  [
+   "Handout",
+   "Edaran (handout)"
+  ]
+ ]
+}
