@@ -353,11 +353,11 @@
       {
        "en": [
         "(l) 50% of entertainment expenses",
-        "Including sums paid to employees for entertainment"
+        "100% allowed for the provisos (i)–(viii), e.g. entertainment of employees (annual dinner, outings, family day), entertainment sold in the ordinary course of business, promotional samples, trade-fair gifts outside Malaysia, public cultural/sporting events (PR 4/2015)"
        ],
        "ms": [
         "(l) 50% perbelanjaan keraian",
-        "Termasuk jumlah dibayar kepada pekerja untuk keraian"
+        "100% dibenarkan bagi proviso (i)–(viii), cth. keraian pekerja (jamuan tahunan, lawatan, hari keluarga), keraian yang dijual dalam perniagaan biasa, sampel promosi, hadiah pameran dagang di luar Malaysia, acara budaya/sukan awam (PR 4/2015)"
        ]
       }
      ]
@@ -366,6 +366,102 @@
      "k": "note",
      "en": "The slides list (e) and (g) with identical wording, and skip (h). I show them as given.",
      "ms": "Slaid menyenaraikan (e) dan (g) dengan perkataan sama, dan melangkau (h). Saya tunjuk seperti diberi."
+    }
+   ]
+  },
+  {
+   "id": "pr",
+   "icon": "📚",
+   "title": {
+    "en": "Key Public Ruling Points",
+    "ms": "Poin Utama Pandangan Umum"
+   },
+   "ref": "PR 4/2015, 12/2019, 4/2012, 4/2019, 6/2019, 3/2019",
+   "blocks": [
+    {
+     "k": "p",
+     "en": "These come from the PR files in your TAX2 folder and explain the adjustments used in the lecturer’s worked answers.",
+     "ms": "Ini datang daripada fail PR dalam folder TAX2 anda dan menerangkan pelarasan yang digunakan dalam jawapan kerja pensyarah."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Treatment"
+      ],
+      "ms": [
+       "Item",
+       "Layanan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Entertainment (PR 4/2015)",
+        "Wholly and exclusively incurred: 50% allowed, but 100% for the provisos of para 39(1)(l) such as employee entertainment. Lecturer’s Eco Furniture: supplier dinners 50% (RM25,000 added back of RM50,000), staff lunches and annual staff trip fully allowed"
+       ],
+       "ms": [
+        "Keraian (PR 4/2015)",
+        "Ditanggung sepenuhnya dan semata-mata: 50% dibenarkan, tetapi 100% bagi proviso para 39(1)(l) seperti keraian pekerja. Eco Furniture pensyarah: makan malam pembekal 50% (RM25,000 ditambah semula daripada RM50,000), makan tengah hari staf dan lawatan tahunan staf dibenarkan penuh"
+       ]
+      },
+      {
+       "en": [
+        "Foreign exchange (PR 12/2019)",
+        "Revenue and realised: taxable / deductible. Revenue and unrealised: not taxable / deductible. Capital, realised or not: not taxable / deductible. E.g. realised loss on trade debtors allowed; unrealised loss on year-end trade debts added back; realised loss on buying machinery added back"
+       ],
+       "ms": [
+        "Tukaran asing (PR 12/2019)",
+        "Hasil dan telah direalisasi: boleh dicukai / ditolak. Hasil dan belum direalisasi: tidak boleh dicukai / ditolak. Modal, direalisasi atau tidak: tidak boleh dicukai / ditolak. Cth. kerugian direalisasi atas penghutang dagangan dibenarkan; kerugian belum direalisasi atas hutang dagangan akhir tahun ditambah semula; kerugian direalisasi atas pembelian mesin ditambah semula"
+       ]
+      },
+      {
+       "en": [
+        "Loss of cash (PR 4/2012)",
+        "Theft or embezzlement by an employee is deductible (arising from delegating duties); not deductible where the person is a director or controller. Lecturer’s Styles: Finance Director RM92,000 added back, cashier RM15,000 allowed"
+       ],
+       "ms": [
+        "Kehilangan wang tunai (PR 4/2012)",
+        "Kecurian atau penyelewengan oleh pekerja boleh ditolak (berpunca daripada pemberian tugas); tidak boleh ditolak jika pelaku pengarah atau pengawal. Styles pensyarah: Pengarah Kewangan RM92,000 ditambah semula, juruwang RM15,000 dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Bad and doubtful debts (PR 4/2019)",
+        "A trade debt written off after reasonable recovery steps is deductible; a provision is not an expense, except s34(2) allows a reasonable provision for trade debts estimated irrecoverable (specific). Non-trade debts such as loans to employees or advances are not deductible unless the business is lending. Recoveries of deducted debts are gross income"
+       ],
+       "ms": [
+        "Hutang lapuk dan ragu (PR 4/2019)",
+        "Hutang dagangan dihapus kira selepas langkah pungutan munasabah boleh ditolak; peruntukan bukan perbelanjaan, kecuali s34(2) membenarkan peruntukan munasabah bagi hutang dagangan dianggar tidak boleh dipungut (khusus). Hutang bukan dagangan seperti pinjaman pekerja atau pendahuluan tidak boleh ditolak kecuali perniagaan memberi pinjaman. Perolehan semula hutang yang ditolak ialah pendapatan kasar"
+       ]
+      },
+      {
+       "en": [
+        "Repairs (PR 6/2019)",
+        "Restoring to the original condition without improvement is revenue; replacing with higher-quality material is an improvement (capital); initial repairs to make an asset usable are capital"
+       ],
+       "ms": [
+        "Pembaikan (PR 6/2019)",
+        "Memulihkan kepada keadaan asal tanpa penambahbaikan ialah hasil; menggantikan dengan bahan berkualiti lebih tinggi ialah penambahbaikan (modal); pembaikan awal untuk menjadikan aset boleh digunakan ialah modal"
+       ]
+      },
+      {
+       "en": [
+        "Disabled employees (PR 3/2019)",
+        "Remuneration is allowable under s33(1) and an additional deduction equal to it is allowed (employee must meet the PR’s conditions, e.g. OKU card); training a disabled non-employee in an approved programme gets a double deduction"
+       ],
+       "ms": [
+        "Pekerja kurang upaya (PR 3/2019)",
+        "Saraan dibenarkan di bawah s33(1) dan potongan tambahan sama jumlahnya dibenarkan (pekerja mesti memenuhi syarat PR, cth. kad OKU); melatih orang kurang upaya bukan pekerja dalam program diluluskan mendapat potongan berganda"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "I read the key paragraphs of these PRs for the points above. The other PR files (R&D, valuation of stock, stock withdrawal, debt owing, arts and culture, export, leave passage, pre-operational expenses) are not summarised here beyond what the slides say; check them for specific exam topics.",
+     "ms": "Saya membaca perenggan utama PR ini bagi poin di atas. Fail PR lain (R&D, penilaian stok, pengeluaran stok, hutang terhutang, seni dan budaya, eksport, tambang cuti, perbelanjaan pra-operasi) tidak diringkaskan di sini selain apa yang ada pada slaid; semak untuk topik peperiksaan tertentu."
     }
    ]
   },
@@ -735,8 +831,8 @@
     "ms": "Berapa perbelanjaan keraian tidak dibenarkan?"
    },
    "a": {
-    "en": "50% (S39(1)(l)).",
-    "ms": "50% (S39(1)(l))."
+    "en": "50% of entertainment is disallowed (S39(1)(l)), except the provisos allowed in full, e.g. employee entertainment.",
+    "ms": "50% keraian tidak dibenarkan (S39(1)(l)), kecuali proviso yang dibenarkan penuh, cth. keraian pekerja."
    }
   },
   {
@@ -765,6 +861,54 @@
   },
   {
    "id": "c15",
+   "t": "pr",
+   "q": {
+    "en": "Entertainment treatment under PR 4/2015?",
+    "ms": "Layanan keraian di bawah PR 4/2015?"
+   },
+   "a": {
+    "en": "50% allowed generally; 100% for the para 39(1)(l) provisos such as employee entertainment.",
+    "ms": "50% dibenarkan secara am; 100% bagi proviso para 39(1)(l) seperti keraian pekerja."
+   }
+  },
+  {
+   "id": "c16",
+   "t": "pr",
+   "q": {
+    "en": "Treatment of an unrealised forex loss on trade debts?",
+    "ms": "Layanan kerugian tukaran asing belum direalisasi atas hutang dagangan?"
+   },
+   "a": {
+    "en": "Not deductible (added back); only realised revenue differences are taxable/deductible.",
+    "ms": "Tidak boleh ditolak (ditambah semula); hanya perbezaan hasil direalisasi boleh dicukai/ditolak."
+   }
+  },
+  {
+   "id": "c17",
+   "t": "pr",
+   "q": {
+    "en": "Embezzlement by an employee vs a director?",
+    "ms": "Penyelewengan oleh pekerja lwn pengarah?"
+   },
+   "a": {
+    "en": "Employee: deductible. Director or controller: not deductible (PR 4/2012).",
+    "ms": "Pekerja: boleh ditolak. Pengarah atau pengawal: tidak boleh ditolak (PR 4/2012)."
+   }
+  },
+  {
+   "id": "c18",
+   "t": "pr",
+   "q": {
+    "en": "Deduction for remuneration of disabled employees?",
+    "ms": "Potongan saraan pekerja kurang upaya?"
+   },
+   "a": {
+    "en": "Allowable under s33(1) plus an additional equal deduction.",
+    "ms": "Dibenarkan di bawah s33(1) ditambah potongan tambahan sama jumlah."
+   }
+  },
+  {
+   "id": "c19",
    "t": "carry",
    "q": {
     "en": "Carry-forward period for unabsorbed capital allowance?",
@@ -776,7 +920,7 @@
    }
   },
   {
-   "id": "c16",
+   "id": "c20",
    "t": "carry",
    "q": {
     "en": "Carry-forward period for business losses?",
@@ -788,7 +932,7 @@
    }
   },
   {
-   "id": "c17",
+   "id": "c21",
    "t": "don",
    "q": {
     "en": "Limit on donations for companies?",
@@ -800,7 +944,7 @@
    }
   },
   {
-   "id": "c18",
+   "id": "c22",
    "t": "don",
    "q": {
     "en": "Public library gift limit under s44(8)?",
@@ -812,7 +956,7 @@
    }
   },
   {
-   "id": "c19",
+   "id": "c23",
    "t": "rate",
    "q": {
     "en": "Standard company tax rate?",
@@ -824,7 +968,7 @@
    }
   },
   {
-   "id": "c20",
+   "id": "c24",
    "t": "rate",
    "q": {
     "en": "SME tax bands?",
@@ -836,7 +980,7 @@
    }
   },
   {
-   "id": "c21",
+   "id": "c25",
    "t": "rate",
    "q": {
     "en": "Tax on RM2m for an SME?",
@@ -1155,132 +1299,208 @@
   },
   {
    "id": "q17",
+   "t": "pr",
+   "q": {
+    "en": "Annual staff dinner, with some suppliers present incidentally:",
+    "ms": "Jamuan tahunan staf, dengan beberapa pembekal hadir sampingan:"
+   },
+   "o": [
+    "50% allowable",
+    "Fully allowable",
+    "Disallowed",
+    "Double deduction"
+   ],
+   "a": 1,
+   "e": {
+    "en": "PR 4/2015 proviso (i): employee entertainment, incidental guests allowed (Example 4).",
+    "ms": "PR 4/2015 proviso (i): keraian pekerja, tetamu sampingan dibenarkan (Contoh 4)."
+   }
+  },
+  {
+   "id": "q18",
+   "t": "pr",
+   "q": {
+    "en": "A realised forex loss on purchase of machinery is:",
+    "ms": "Kerugian tukaran asing direalisasi atas pembelian mesin:"
+   },
+   "o": [
+    "Deductible",
+    "Not deductible (capital)",
+    "Double deductible",
+    "Taxable"
+   ],
+   "a": 1,
+   "e": {
+    "en": "PR 12/2019: capital forex differences are not deductible.",
+    "ms": "PR 12/2019: perbezaan tukaran modal tidak boleh ditolak."
+   }
+  },
+  {
+   "id": "q19",
+   "t": "pr",
+   "q": {
+    "en": "RM92,000 embezzled by the Finance Director is:",
+    "ms": "RM92,000 diselewengkan Pengarah Kewangan:"
+   },
+   "o": [
+    "Exempt",
+    "Deductible",
+    "Double deductible",
+    "Not deductible"
+   ],
+   "a": 3,
+   "e": {
+    "en": "PR 4/2012: not deductible if the person is a director.",
+    "ms": "PR 4/2012: tidak boleh ditolak jika pelaku pengarah."
+   }
+  },
+  {
+   "id": "q20",
+   "t": "pr",
+   "q": {
+    "en": "A loan to an ex-employee written off by a non-lending business:",
+    "ms": "Pinjaman kepada bekas pekerja dihapus kira oleh perniagaan bukan pemberi pinjaman:"
+   },
+   "o": [
+    "Not deductible",
+    "Deductible",
+    "Double deductible",
+    "Taxable"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Not a trade debt (PR 4/2019).",
+    "ms": "Bukan hutang dagangan (PR 4/2019)."
+   }
+  },
+  {
+   "id": "q21",
    "t": "carry",
    "q": {
     "en": "Unutilised business losses may be carried forward for up to:",
     "ms": "Kerugian perniagaan tidak terguna boleh dibawa ke hadapan sehingga:"
    },
    "o": [
+    "5 YAs",
     "2 YAs",
     "10 consecutive YAs (per PR 1/2022)",
-    "5 YAs",
     "Not allowed"
    ],
-   "a": 1,
+   "a": 2,
    "e": {
     "en": "Slide 19 states 7; PR 1/2022 extended to 10.",
     "ms": "Slaid 19 menyatakan 7; PR 1/2022 melanjutkan kepada 10."
    }
   },
   {
-   "id": "q18",
+   "id": "q22",
    "t": "don",
    "q": {
     "en": "The donation limit for companies is:",
     "ms": "Had derma untuk syarikat:"
    },
    "o": [
+    "5% of gross income",
     "7% of aggregate income",
     "10% of aggregate income",
-    "5% of gross income",
     "RM20,000"
    ],
-   "a": 1,
+   "a": 2,
    "e": {
     "en": "Slide 20.",
     "ms": "Slaid 20."
    }
   },
   {
-   "id": "q19",
+   "id": "q23",
    "t": "don",
    "q": {
     "en": "A gift of money to the Government is under:",
     "ms": "Hadiah wang kepada Kerajaan di bawah:"
    },
    "o": [
-    "s39(1)(l)",
+    "s44(6)",
     "s44(8)",
     "s34(6)(g)",
-    "s44(6)"
+    "s39(1)(l)"
    ],
-   "a": 3,
+   "a": 0,
    "e": {
     "en": "Slide 21.",
     "ms": "Slaid 21."
    }
   },
   {
-   "id": "q20",
+   "id": "q24",
    "t": "rate",
    "q": {
     "en": "A resident company with RM5m paid-up capital pays:",
     "ms": "Syarikat residen dengan modal berbayar RM5j membayar:"
    },
    "o": [
-    "24%",
+    "20%",
     "15%",
     "17%",
-    "20%"
+    "24%"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "Slide 24.",
     "ms": "Slaid 24."
    }
   },
   {
-   "id": "q21",
+   "id": "q25",
    "t": "rate",
    "q": {
     "en": "SME: tax on the first RM150,000 of chargeable income:",
     "ms": "PKS: cukai atas RM150,000 pertama pendapatan bercukai:"
    },
    "o": [
-    "24%",
     "17%",
     "15%",
+    "24%",
     "10%"
    ],
-   "a": 2,
+   "a": 1,
    "e": {
     "en": "Slide 24.",
     "ms": "Slaid 24."
    }
   },
   {
-   "id": "q22",
+   "id": "q26",
    "t": "rate",
    "q": {
     "en": "SME chargeable income RM2,000,000. Tax is:",
     "ms": "PKS pendapatan bercukai RM2,000,000. Cukai ialah:"
    },
    "o": [
-    "RM340,000",
     "RM480,000",
     "RM435,000",
+    "RM340,000",
     "RM500,000"
    ],
-   "a": 2,
+   "a": 1,
    "e": {
     "en": "22,500 + 76,500 + 336,000.",
     "ms": "22,500 + 76,500 + 336,000."
    }
   },
   {
-   "id": "q23",
+   "id": "q27",
    "t": "rate",
    "q": {
     "en": "Chargeable income RM16,155,600 at 24% gives:",
     "ms": "Pendapatan bercukai RM16,155,600 pada 24% memberi:"
    },
    "o": [
-    "RM3,877,344",
+    "RM3,231,120",
     "RM2,423,340",
     "RM4,000,000",
-    "RM3,231,120"
+    "RM3,877,344"
    ],
-   "a": 0,
+   "a": 3,
    "e": {
     "en": "Eco Furniture: 16,155,600 × 24%.",
     "ms": "Eco Furniture: 16,155,600 × 24%."

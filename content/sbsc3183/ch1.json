@@ -309,8 +309,8 @@
     },
     {
      "k": "note",
-     "en": "Slide 7 is a loosely worded summary; the table above is my reading, checked against slides 8–11 and the lecturer’s exercise 2 (FunTastic: commenced 1.4.2022, first accounts to 30.6.2023 → no basis period for YA2022, YA2023 = 1.4.22–30.6.23).",
-     "ms": "Slaid 7 ialah ringkasan yang longgar; jadual di atas ialah bacaan saya, disemak dengan slaid 8–11 dan latihan 2 pensyarah (FunTastic: mula 1.4.2022, akaun pertama hingga 30.6.2023 → tiada tempoh asas YA2022, YA2023 = 1.4.22–30.6.23)."
+     "en": "Slide 7 is loosely worded, but PR 8/2014 para 4.1 states the same rule: under 12 months ending in the same year = that period; any period ending in the second year = basis period for the second year (none for the first); more than 12 months ending in the third year = basis period for the third year (none for the first two). Applies from YA2014. Lecturer’s exercise 2 (FunTastic: commenced 1.4.2022, first accounts to 30.6.2023) therefore gives no basis period for YA2022 and YA2023 = 1.4.22–30.6.23.",
+     "ms": "Slaid 7 berbahasa longgar, tetapi PR 8/2014 para 4.1 menyatakan peraturan yang sama: kurang 12 bulan berakhir dalam tahun sama = tempoh itu; mana-mana tempoh berakhir dalam tahun kedua = tempoh asas tahun kedua (tiada untuk tahun pertama); lebih 12 bulan berakhir dalam tahun ketiga = tempoh asas tahun ketiga (tiada untuk dua tahun pertama). Terpakai dari YA2014. Latihan 2 pensyarah (FunTastic: mula 1.4.2022, akaun pertama hingga 30.6.2023) jadi tiada tempoh asas YA2022 dan YA2023 = 1.4.22–30.6.23."
     }
    ]
   },
@@ -363,12 +363,22 @@
       },
       {
        "en": [
+        "Resident Malaysian company with paid-up ordinary share capital of RM2.5m or less, first commencing operations",
+        "Exempt from CP204 for that YA and the next YA (the next two YAs if there is no basis period for the first YA) [s107C(4A)]"
+       ],
+       "ms": [
+        "Syarikat residen Malaysia dengan modal saham biasa berbayar RM2.5j atau kurang, baru memulakan operasi",
+        "Dikecualikan CP204 bagi YA itu dan YA berikutnya (dua YA berikutnya jika tiada tempoh asas bagi YA pertama) [s107C(4A)]"
+       ]
+      },
+      {
+       "en": [
         "Paid-up capital over RM2.5m",
-        "Slide 12 lists an exemption from CP204 for two assessment years (the heading is split across columns, so see the note below)"
+        "No exemption: must furnish CP204"
        ],
        "ms": [
         "Modal berbayar melebihi RM2.5j",
-        "Slaid 12 menyenaraikan pengecualian CP204 untuk dua tahun taksiran (tajuk terpisah antara lajur, lihat nota di bawah)"
+        "Tiada pengecualian: mesti kemukakan CP204"
        ]
       },
       {
@@ -385,8 +395,8 @@
     },
     {
      "k": "note",
-     "en": "On slide 12 the exemption (two assessment years) and the paid-up capital headings (above/below RM2.5m SMEs) sit in separate columns, so I could not pair them reliably. The commonly stated rule is that SMEs (paid-up capital RM2.5m or less) are exempt for the first two YAs, but confirm this with your lecturer. This is Extra (not clearly in slides).",
-     "ms": "Pada slaid 12 pengecualian (dua tahun taksiran) dan tajuk modal berbayar (atas/bawah RM2.5j, PKS) berada dalam lajur berasingan, jadi saya tidak dapat memadankannya dengan pasti. Peraturan lazim ialah PKS (modal berbayar RM2.5j ke bawah) dikecualikan bagi dua YA pertama, tetapi sahkan dengan pensyarah. Ini Extra (tidak jelas dalam slaid)."
+     "en": "Slide 12 separates the exemption and the RM2.5m headings; the rows above follow PR 4/2025 para 4.2.2(c). The exemption is lost if more than 50% of the company’s shares are owned by a related company (or vice versa, or both owned by another company), or, from YA2024, if more than 20% of its paid-up capital is owned by companies incorporated outside Malaysia or non-citizen individuals (PR 4/2025 Examples 5–6, Delight Sdn Bhd).",
+     "ms": "Slaid 12 memisahkan pengecualian dan tajuk RM2.5j; baris di atas mengikut PR 4/2025 para 4.2.2(c). Pengecualian hilang jika lebih 50% saham syarikat dimiliki syarikat berkaitan (atau sebaliknya, atau kedua-duanya dimiliki syarikat lain), atau, dari YA2024, jika lebih 20% modal berbayar dimiliki syarikat diperbadankan di luar Malaysia atau individu bukan warganegara (PR 4/2025 Contoh 5–6, Delight Sdn Bhd)."
     },
     {
      "k": "h",
@@ -396,13 +406,18 @@
     {
      "k": "ul",
      "en": [
-      "Year 1: a new entity estimates from projected profits",
-      "Year 2 onwards: at least 85% of the prior year’s estimate [s107C(3)]"
+      "Year 1: a new entity estimates from projected profits; that estimate is the base for the next YA",
+      "Year 2 onwards: at least 85% of the revised estimate (or the original estimate if never revised) for the immediately preceding YA [s107C(3)]"
      ],
      "ms": [
-      "Tahun 1: entiti baru menganggar daripada unjuran keuntungan",
-      "Tahun ke-2 dan seterusnya: sekurang-kurangnya 85% daripada anggaran tahun sebelumnya [s107C(3)]"
+      "Tahun 1: entiti baru menganggar daripada unjuran keuntungan; anggaran itu menjadi asas YA berikutnya",
+      "Tahun ke-2 dan seterusnya: sekurang-kurangnya 85% daripada anggaran disemak (atau anggaran asal jika tidak pernah disemak) bagi YA sebelumnya [s107C(3)]"
      ]
+    },
+    {
+     "k": "tip",
+     "en": "PR 4/2025 Example 1: estimate RM80,000 for YA2024, revised to RM200,000 in the 6th month. The YA2025 estimate must be at least 85% × RM200,000 = RM170,000.",
+     "ms": "PR 4/2025 Contoh 1: anggaran RM80,000 bagi YA2024, disemak kepada RM200,000 pada bulan ke-6. Anggaran YA2025 mesti sekurang-kurangnya 85% × RM200,000 = RM170,000."
     },
     {
      "k": "h",
@@ -421,9 +436,9 @@
      ]
     },
     {
-     "k": "note",
-     "en": "Slide 15 lists ‘2nd month’ and ‘6th month’ and the two entity types in separate boxes; I paired them as above (existing = 2nd month, new = 6th month), which matches the usual rule. This pairing is my reading.",
-     "ms": "Slaid 15 menyenaraikan ‘bulan ke-2’ dan ‘bulan ke-6’ serta dua jenis entiti dalam kotak berasingan; saya padankan seperti di atas (sedia ada = bulan ke-2, baru = bulan ke-6), selaras dengan peraturan lazim. Pemadanan ini bacaan saya."
+     "k": "tip",
+     "en": "PR 4/2025 examples. Existing: Dedaun Lebar (BP 1.7.2024–30.6.2025) files CP204 by 31.5.2024 and pays 12 instalments from August 2024 to July 2025, each by the 15th. New: Co-operative Beribu Bintang commenced 1.4.2025, 9-month first period to 31.12.2025, files CP204 by 30.6.2025 and pays 9 instalments from September 2025 to May 2026. A new entity with a basis period under 6 months (Citra Maju LLP, 5 months) need not file.",
+     "ms": "Contoh PR 4/2025. Sedia ada: Dedaun Lebar (BP 1.7.2024–30.6.2025) failkan CP204 menjelang 31.5.2024 dan bayar 12 ansuran dari Ogos 2024 hingga Julai 2025, masing-masing pada hari ke-15. Baru: Koperasi Beribu Bintang mula 1.4.2025, tempoh pertama 9 bulan hingga 31.12.2025, failkan CP204 menjelang 30.6.2025 dan bayar 9 ansuran dari September 2025 hingga Mei 2026. Entiti baru dengan tempoh asas kurang 6 bulan (Citra Maju LLP, 5 bulan) tidak perlu memfailkan."
     },
     {
      "k": "h",
@@ -496,6 +511,19 @@
       "Beza = AT − ET",
       "Had selamat = 30% × AT",
       "Penalti = (beza − had selamat) × 10%"
+     ]
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Unpaid instalments: a 10% increase on each instalment not paid by its due date [s107C(9)], without further notice (PR 4/2025 para 7.1)",
+      "If the DGIR issues CP205 (e.g. CP204 not filed), the amount directed is treated as the revised estimate for the 30% test [s107C(8), (10)]",
+      "ET in the formula is the latest revised (or deemed revised) estimate, or the original estimate if none"
+     ],
+     "ms": [
+      "Ansuran tidak dibayar: kenaan 10% atas setiap ansuran yang tidak dibayar pada tarikh akhir [s107C(9)], tanpa notis lanjut (PR 4/2025 para 7.1)",
+      "Jika KPHDN mengeluarkan CP205 (cth. CP204 tidak difailkan), amaun yang diarahkan dianggap anggaran disemak bagi ujian 30% [s107C(8), (10)]",
+      "ET dalam formula ialah anggaran disemak (atau dianggap disemak) terkini, atau anggaran asal jika tiada"
      ]
     },
     {
@@ -586,8 +614,13 @@
     },
     {
      "k": "note",
-     "en": "The slides do not state how the DG chooses where to split the period; the 7/6-month split is simply the slide’s example. Slide 19’s two tables are also laid out confusingly; I report the basis-period table. The ‘ends in the third year’ label is the slide’s wording.",
-     "ms": "Slaid tidak menyatakan bagaimana DG memilih titik pembahagian; pecahan 7/6 bulan hanyalah contoh slaid. Dua jadual slaid 19 juga disusun mengelirukan; saya laporkan jadual tempoh asas. Label ‘berakhir tahun ketiga’ ialah perkataan slaid."
+     "en": "PR 8/2014 para 5.2 says the DGIR generally accepts the failure-year accounting period provided (a) no YA is missing and (b) no two accounts close in the same YA; it applies whatever the normal year-end. For the ‘two-year’ split (PR 8/2014 Example 9) the period is divided into two; when the division is uneven, any fraction of a month falls in the first basis period (13 months → 7 + 6). The ‘third year’ count starts from the last normal year (2013 normal, 2014 failure year, closes January 2015).",
+     "ms": "PR 8/2014 para 5.2 menyatakan KPHDN lazimnya menerima tempoh perakaunan tahun kegagalan dengan syarat (a) tiada YA tertinggal dan (b) tiada dua akaun ditutup dalam YA yang sama; terpakai walau apa pun akhir tahun biasa. Bagi pembahagian ‘dua tahun’ (PR 8/2014 Contoh 9) tempoh dibahagi dua; jika pembahagian tidak sama, sebarang pecahan bulan jatuh dalam tempoh asas pertama (13 bulan → 7 + 6). Kiraan ‘tahun ketiga’ bermula dari tahun biasa terakhir (2013 biasa, 2014 tahun kegagalan, tutup Januari 2015)."
+    },
+    {
+     "k": "tip",
+     "en": "Exercise 5 (BRP, normally 31 Dec, changes to 31 March 2025): last normal year 2023; the 15-month period 1.1.2024–31.3.2025 spans two YAs, so it is divided into two with the half-month in the first: YA2024 = 1.1.24–31.8.24 (8 months); YA2025 = 1.9.24–31.3.25 (7 months); YA2026 = 1.4.25–31.3.26. The same ‘divide into two’ rule as Koperasi Rania Emas; my application of the PR.",
+     "ms": "Latihan 5 (BRP, biasa 31 Dis, tukar ke 31 Mac 2025): tahun biasa terakhir 2023; tempoh 15 bulan 1.1.2024–31.3.2025 merentasi dua YA, jadi dibahagi dua dengan separuh bulan dalam tempoh pertama: YA2024 = 1.1.24–31.8.24 (8 bulan); YA2025 = 1.9.24–31.3.25 (7 bulan); YA2026 = 1.4.25–31.3.26. Peraturan ‘bahagi dua’ sama seperti Koperasi Rania Emas; aplikasi saya terhadap PR."
     },
     {
      "k": "tip",
@@ -653,18 +686,38 @@
     },
     {
      "k": "h",
+     "en": "Failure to furnish CP204B (from YA2019, PR 4/2025 para 8)",
+     "ms": "Gagal mengemukakan CP204B (dari YA2019, PR 4/2025 para 8)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "10% increase on unpaid instalments [s107C(9)]",
+      "10% increase on the amount by which actual tax exceeds the estimate by more than 30% [s107C(10)]",
+      "Penalty under s112(3) on an estimated assessment under s90(3) [s112(3A)]",
+      "Prosecution under s120(1)(i): fine of RM200 to RM20,000, or up to 6 months’ imprisonment, or both"
+     ],
+     "ms": [
+      "Kenaan 10% atas ansuran tidak dibayar [s107C(9)]",
+      "Kenaan 10% ke atas amaun cukai sebenar melebihi anggaran lebih 30% [s107C(10)]",
+      "Penalti di bawah s112(3) atas taksiran anggaran di bawah s90(3) [s112(3A)]",
+      "Pendakwaan di bawah s120(1)(i): denda RM200 hingga RM20,000, atau penjara sehingga 6 bulan, atau kedua-duanya"
+     ]
+    },
+    {
+     "k": "h",
      "en": "New operation or partnership",
      "ms": "Operasi baharu atau perkongsian"
     },
     {
      "k": "ul",
      "en": [
-      "A company with existing operations that starts a new operation: the new operation’s basis period equals that of the existing operation",
-      "A company that joins a partnership: the basis period for the partnership business equals that of the existing operation"
+      "A company with existing operations that starts a new operation: the new operation’s basis period equals that of the existing operation (PR 8/2014 Ex 10: year-end 30 Sept, new operation from 1.6.2014 → YA2014 basis period 1.6.2014–30.9.2014)",
+      "A company that joins a partnership: the partnership is a new operation, so the company’s basis period for it equals that of its existing operations, regardless of the partnership’s own year-end (Ex 11: company year-end 30 June, partnership from 18.2.2014 → YA2014 = 18.2.2014–30.6.2014)"
      ],
      "ms": [
-      "Syarikat sedia ada yang memulakan operasi baharu: tempoh asas operasi baharu sama dengan operasi sedia ada",
-      "Syarikat yang menyertai perkongsian: tempoh asas perniagaan perkongsian sama dengan operasi sedia ada"
+      "Syarikat sedia ada yang memulakan operasi baharu: tempoh asas operasi baharu sama dengan operasi sedia ada (PR 8/2014 Cth 10: akhir tahun 30 Sept, operasi baharu dari 1.6.2014 → tempoh asas YA2014 1.6.2014–30.9.2014)",
+      "Syarikat yang menyertai perkongsian: perkongsian ialah operasi baharu, jadi tempoh asas syarikat bagi perkongsian sama dengan operasi sedia ada, tanpa mengira akhir tahun perkongsian (Cth 11: akhir tahun syarikat 30 Jun, perkongsian dari 18.2.2014 → YA2014 = 18.2.2014–30.6.2014)"
      ]
     }
    ]
@@ -885,6 +938,42 @@
    "a": {
     "en": "Same as the existing operation’s basis period.",
     "ms": "Sama dengan tempoh asas operasi sedia ada."
+   }
+  },
+  {
+   "id": "c19",
+   "t": "cp204",
+   "q": {
+    "en": "Who is exempt from CP204 when first commencing operations?",
+    "ms": "Siapa dikecualikan CP204 apabila mula beroperasi?"
+   },
+   "a": {
+    "en": "A resident company with paid-up ordinary capital of RM2.5m or less: for that YA and the next (conditions on related-company and foreign ownership apply) [s107C(4A)].",
+    "ms": "Syarikat residen dengan modal biasa berbayar RM2.5j atau kurang: bagi YA itu dan seterusnya (tertakluk syarat pemilikan syarikat berkaitan dan asing) [s107C(4A)]."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "cp204",
+   "q": {
+    "en": "When do instalments start for a new entity vs an existing one?",
+    "ms": "Bila ansuran bermula bagi entiti baru lwn sedia ada?"
+   },
+   "a": {
+    "en": "New: from the 6th month of the basis period. Existing: from the 2nd month.",
+    "ms": "Baru: dari bulan ke-6 tempoh asas. Sedia ada: dari bulan ke-2."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "notify",
+   "q": {
+    "en": "Consequences of failing to furnish CP204B?",
+    "ms": "Akibat gagal mengemukakan CP204B?"
+   },
+   "a": {
+    "en": "10% increase on unpaid instalments; 10% on the >30% difference; s112(3A) penalty; prosecution (fine RM200–RM20,000 and/or 6 months).",
+    "ms": "Kenaan 10% atas ansuran tidak dibayar; 10% atas beza >30%; penalti s112(3A); pendakwaan (denda RM200–RM20,000 dan/atau 6 bulan)."
    }
   }
  ],
@@ -1271,18 +1360,75 @@
   },
   {
    "id": "q21",
+   "t": "cp204",
+   "q": {
+    "en": "Estimate RM80,000 revised to RM200,000 in YA2024. Minimum YA2025 estimate:",
+    "ms": "Anggaran RM80,000 disemak kepada RM200,000 dalam YA2024. Anggaran minimum YA2025:"
+   },
+   "o": [
+    "RM200,000",
+    "RM68,000",
+    "RM170,000",
+    "RM80,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "85% of the revised estimate (PR 4/2025 Example 1).",
+    "ms": "85% daripada anggaran disemak (PR 4/2025 Contoh 1)."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "cp204",
+   "q": {
+    "en": "Instalments for a new entity begin from the:",
+    "ms": "Ansuran entiti baru bermula dari bulan:"
+   },
+   "o": [
+    "1st month",
+    "2nd month",
+    "6th month of the basis period",
+    "12th month"
+   ],
+   "a": 2,
+   "e": {
+    "en": "PR 4/2025 para 4.2.2(a).",
+    "ms": "PR 4/2025 para 4.2.2(a)."
+   }
+  },
+  {
+   "id": "q23",
+   "t": "notify",
+   "q": {
+    "en": "Which is a consequence of failing to file CP204B?",
+    "ms": "Yang mana akibat gagal memfailkan CP204B?"
+   },
+   "o": [
+    "Prosecution with a fine of RM200–RM20,000",
+    "Automatic refund",
+    "Exemption from CP204",
+    "Longer basis period"
+   ],
+   "a": 0,
+   "e": {
+    "en": "PR 4/2025 para 8.",
+    "ms": "PR 4/2025 para 8."
+   }
+  },
+  {
+   "id": "q24",
    "t": "notify",
    "q": {
     "en": "A company joins a partnership. The basis period for that business is:",
     "ms": "Syarikat menyertai perkongsian. Tempoh asas perniagaan itu:"
    },
    "o": [
-    "Set by the partners",
+    "Calendar year",
     "Always 12 months",
-    "Same as the company’s existing operation",
-    "Calendar year"
+    "Set by the partners",
+    "Same as the company’s existing operation"
    ],
-   "a": 2,
+   "a": 3,
    "e": {
     "en": "Slide 29.",
     "ms": "Slaid 29."

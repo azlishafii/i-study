@@ -170,7 +170,7 @@
     "en": "Buildings Treated as IB",
     "ms": "Bangunan Dianggap IB"
    },
-   "ref": "Slides 11–16",
+   "ref": "Slides 11–16; PR 3/2018",
    "blocks": [
     {
      "k": "table",
@@ -311,6 +311,26 @@
      "k": "note",
      "en": "Slides 21 and 22 contain no readable text (figures).",
      "ms": "Slaid 21 dan 22 tiada teks yang boleh dibaca (rajah)."
+    },
+    {
+     "k": "h",
+     "en": "Owner must be the business operator (para 16B(1), PR 3/2018 para 8)",
+     "ms": "Pemilik mesti pengendali perniagaan (para 16B(1), PR 3/2018 para 8)"
+    },
+    {
+     "k": "p",
+     "en": "From YA2016, for paras 37A–37H (hospital, research, warehouse, approved service project, hotel, airport, motor racing circuit), 42A (employee living accommodation, child care centre), 42B (school/educational institution) and 42C (training building), the person claiming IBA must be both the owner and the business operator. A landlord who rents the building to the operator cannot claim, although the tenant can claim IBA on its own alterations or renovations (but not for 37A and 37B). Example 8: Lestari bought a college and rented it to Smart Sdn Bhd; Lestari is not eligible.",
+     "ms": "Dari YA2016, bagi para 37A–37H (hospital, penyelidikan, gudang, projek perkhidmatan diluluskan, hotel, lapangan terbang, litar lumba motor), 42A (penginapan pekerja, pusat jagaan kanak-kanak), 42B (sekolah/institusi pendidikan) dan 42C (bangunan latihan), pihak yang menuntut IBA mesti pemilik dan juga pengendali perniagaan. Tuan tanah yang menyewakan bangunan kepada pengendali tidak boleh menuntut, walaupun penyewa boleh menuntut IBA atas ubah atau pengubahsuaian sendiri (kecuali untuk 37A dan 37B). Contoh 8: Lestari membeli kolej dan menyewakannya kepada Smart Sdn Bhd; Lestari tidak layak."
+    },
+    {
+     "k": "p",
+     "en": "If such an owner-operator rents out part of the building (e.g. canteen, pharmacy, cafeteria, laundry): rented floor area of 10% or less keeps the whole building qualifying; above 10% the rented part does not qualify, with its cost apportioned by floor area (PR 3/2018 para 8.3; Example 10: rented space 19.5% of 180,000 sq ft, so RM1,500,000 × 19.5% = RM292,500 is excluded and QBE is RM1,207,500).",
+     "ms": "Jika pemilik-pengendali sedemikian menyewakan sebahagian bangunan (cth. kantin, farmasi, kafeteria, dobi): keluasan lantai disewakan 10% atau kurang mengekalkan kelayakan seluruh bangunan; melebihi 10% bahagian disewakan tidak layak, dengan kosnya diagihkan mengikut keluasan lantai (PR 3/2018 para 8.3; Contoh 10: ruang disewa 19.5% daripada 180,000 kaki persegi, jadi RM1,500,000 × 19.5% = RM292,500 dikecualikan dan QBE ialah RM1,207,500)."
+    },
+    {
+     "k": "tip",
+     "en": "This answers the lecturer’s USSB / Q9 type questions: a company that buys a building and rents it to an operator of an educational institution (EduHub, Aurora Education) cannot claim IBA on it, because it is the owner but not the business operator; the operator (a tenant) may not claim IBA on the building itself either, as it does not own it.",
+     "ms": "Ini menjawab soalan jenis USSB / S9 pensyarah: syarikat yang membeli bangunan dan menyewakannya kepada pengendali institusi pendidikan (EduHub, Aurora Education) tidak boleh menuntut IBA kerana ia pemilik tetapi bukan pengendali perniagaan; pengendali (penyewa) juga tidak boleh menuntut IBA atas bangunan itu kerana tidak memilikinya."
     }
    ]
   },
@@ -325,8 +345,8 @@
    "blocks": [
     {
      "k": "p",
-     "en": "Dwelling houses, retail shops, showrooms and offices are not IBs. But under para 66 Schedule 3 (Rule 10%), if the office or any area not used as an IB (or rented out) is less than 10% of the QE for constructing or buying the building, allowance is given on the entire building.",
-     "ms": "Rumah kediaman, kedai runcit, bilik pameran dan pejabat bukan IB. Namun di bawah para 66 Jadual 3 (Peraturan 10%), jika pejabat atau kawasan bukan IB (atau disewakan) kurang 10% daripada QE pembinaan atau pembelian bangunan, elaun diberi ke atas keseluruhan bangunan."
+     "en": "Dwelling houses, retail shops, showrooms and offices are not IBs. But under para 66 Schedule 3 (Rule 10%), if the part not used as an IB (office, rented out) does not exceed 10% of the construction cost of the building or extension, allowance is given on the entire building. PR 3/2018 para 9 says the cost of the non-IB part is measured by total construction cost, floor area, or another fair method approved by the DGIR.",
+     "ms": "Rumah kediaman, kedai runcit, bilik pameran dan pejabat bukan IB. Namun di bawah para 66 Jadual 3 (Peraturan 10%), jika bahagian bukan IB (pejabat, disewakan) tidak melebihi 10% daripada kos pembinaan bangunan atau tambahan, elaun diberi ke atas keseluruhan bangunan. PR 3/2018 para 9 menyatakan kos bahagian bukan IB diukur mengikut jumlah kos pembinaan, keluasan lantai, atau kaedah adil lain yang diluluskan KPHDN."
     },
     {
      "k": "table",
@@ -343,21 +363,21 @@
      "rows": [
       {
        "en": [
-        "Less than 10%",
+        "10% or less",
         "Allowance on the entire building"
        ],
        "ms": [
-        "Kurang 10%",
+        "10% atau kurang",
         "Elaun atas seluruh bangunan"
        ]
       },
       {
        "en": [
-        "10% or more",
+        "More than 10%",
         "Allowance only on the IB portion (examples: 80% IB when 20% office/showroom)"
        ],
        "ms": [
-        "10% atau lebih",
+        "Melebihi 10%",
         "Elaun hanya atas bahagian IB (contoh: 80% IB apabila 20% pejabat/bilik pameran)"
        ]
       }
@@ -579,13 +599,18 @@
     },
     {
      "k": "p",
-     "en": "In the answers the buyer of a building from another IB owner is given QBE = purchase price (land excluded) and, for the buyer, IA is nil with AA 10% (Hikari Sdn Bhd: 135,000 on RM1,350,000; Nangka Bhd: 235,000 on RM2,350,000).",
-     "ms": "Dalam jawapan, pembeli bangunan daripada pemilik IB lain diberi QBE = harga belian (tanah dikecualikan) dan, bagi pembeli, IA ialah sifar dengan AA 10% (Hikari Sdn Bhd: 135,000 atas RM1,350,000; Nangka Bhd: 235,000 atas RM2,350,000)."
+     "en": "PR 3/2018 (paras 4.2.2–4.2.4, 7): for a purchase from YA2005, QBE is the purchase price of the building, including the buyer’s legal fees, stamp duty and incidental costs but excluding the land (para 70 Schedule 3). If land and building are not priced separately, get a valuation (VPSD or professional valuer) and apportion the legal fees. In general IA is 10% and AA 3% of QBE ‘unless stated specifically at a different rate’ (para 7), and the claimant must own the building and use it (or be about to use it) for the business at the end of the basis period.",
+     "ms": "PR 3/2018 (para 4.2.2–4.2.4, 7): bagi pembelian dari YA2005, QBE ialah harga belian bangunan, termasuk fi guaman, duti setem dan kos sampingan pembeli tetapi tidak termasuk tanah (para 70 Jadual 3). Jika tanah dan bangunan tidak diharga berasingan, dapatkan penilaian (JPPH atau penilai profesional) dan agihkan fi guaman. Secara amnya IA ialah 10% dan AA 3% daripada QBE ‘kecuali dinyatakan secara khusus pada kadar lain’ (para 7), dan pemohon mesti memiliki bangunan dan menggunakannya (atau akan menggunakannya) untuk perniagaan pada akhir tempoh asas."
+    },
+    {
+     "k": "tip",
+     "en": "PR 3/2018 examples: a buyer of a RM450,000 building gets IA 10% = 45,000 and AA 3% = 13,500; QBE for a second-hand factory bought at RM250,000 (land excluded) is RM250,000.",
+     "ms": "Contoh PR 3/2018: pembeli bangunan RM450,000 mendapat IA 10% = 45,000 dan AA 3% = 13,500; QBE kilang terpakai dibeli pada RM250,000 (tanah dikecualikan) ialah RM250,000."
     },
     {
      "k": "note",
-     "en": "The answer sheet is inconsistent here: Care Maternity Home (a buyer from Remedy Hospital) is given IA 10% and AA 3%, and Nangka’s YA2026 line is labelled 3% but shows 235,000. Treat the 10% purchaser rate as the sheet’s majority approach and confirm with your lecturer before relying on it.",
-     "ms": "Lembaran jawapan tidak konsisten di sini: Care Maternity Home (pembeli daripada Remedy Hospital) diberi IA 10% dan AA 3%, dan baris YA2026 Nangka berlabel 3% tetapi menunjukkan 235,000. Anggap kadar pembeli 10% sebagai pendekatan majoriti lembaran, dan sahkan dengan pensyarah sebelum bergantung padanya."
+     "en": "Check against the lecturer’s answer sheet: Care Maternity Home (hospital, para 37A) uses IA 10% + AA 3%, which matches the PR general rate. Hikari Sdn Bhd (industrial training centre) uses AA 10% with no IA; the only specific 10% case in PR 3/2018 is its Example 10 (an educational institution, para 42B, AA 10% and no IA shown), so Hikari’s rate looks like a specific rate for education/training buildings, not covered by the slides. Nangka Bhd (a factory bought second-hand) is shown as AA 10% (235,000) and then ‘3%’ with the same 235,000. Under the PR’s general rate it would be IA 10% (235,000) in YA2025 and AA 3% (70,500) a year after, so Nangka’s lines look like a typing slip. Confirm with your lecturer.",
+     "ms": "Semakan terhadap lembaran jawapan pensyarah: Care Maternity Home (hospital, para 37A) guna IA 10% + AA 3%, selaras kadar am PR. Hikari Sdn Bhd (pusat latihan perindustrian) guna AA 10% tanpa IA; satu-satunya kes khusus 10% dalam PR 3/2018 ialah Contoh 10 (institusi pendidikan, para 42B, AA 10% tanpa IA ditunjuk), jadi kadar Hikari nampak sebagai kadar khusus bangunan pendidikan/latihan, tidak diliputi slaid. Nangka Bhd (kilang dibeli terpakai) ditunjuk AA 10% (235,000) kemudian ‘3%’ dengan 235,000 yang sama. Di bawah kadar am PR ia ialah IA 10% (235,000) dalam YA2025 dan AA 3% (70,500) setahun selepas itu, jadi baris Nangka nampak seperti kesilapan menaip. Sahkan dengan pensyarah."
     }
    ]
   },
@@ -784,8 +809,8 @@
     "ms": "Nyatakan Peraturan 10%."
    },
    "a": {
-    "en": "If the non-IB area (office etc.) is less than 10% of the QE, allowance is given on the entire building.",
-    "ms": "Jika kawasan bukan IB (pejabat dll.) kurang 10% daripada QE, elaun diberi atas seluruh bangunan."
+    "en": "If the non-IB part (office etc.) is 10% or less of the construction cost, allowance is given on the entire building.",
+    "ms": "Jika bahagian bukan IB (pejabat dll.) 10% atau kurang daripada kos pembinaan, elaun diberi atas seluruh bangunan."
    }
   },
   {

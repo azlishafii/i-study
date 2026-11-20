@@ -52,8 +52,8 @@
     },
     {
      "k": "note",
-     "en": "Slide 4 has no readable text (a figure). It probably listed the qualifying expenditure and rates, so the rates below are taken from the lecturer’s worked answers, not the slides.",
-     "ms": "Slaid 4 tiada teks yang boleh dibaca (rajah). Ia mungkin menyenaraikan perbelanjaan layak dan kadar, jadi kadar di bawah diambil daripada jawapan kerja pensyarah, bukan slaid."
+     "en": "Slide 4 has no readable text (a figure). Qualifying expenditure and rates below are from PR 1/2016 (paras 5–6; paras 22–23 Schedule 3), which agrees with the lecturer’s worked answers.",
+     "ms": "Slaid 4 tiada teks yang boleh dibaca (rajah). Perbelanjaan layak dan kadar di bawah daripada PR 1/2016 (para 5–6; para 22–23 Jadual 3), yang selaras dengan jawapan kerja pensyarah."
     }
    ]
   },
@@ -110,6 +110,21 @@
        ]
       }
      ]
+    },
+    {
+     "k": "h",
+     "en": "Qualifying agriculture expenditure (PR 1/2016 para 5.1)",
+     "ms": "Perbelanjaan pertanian layak (PR 1/2016 para 5.1)"
+    },
+    {
+     "k": "p",
+     "en": "Capital expenditure on: (a) clearing and preparing land (including terracing against erosion); (b) planting, but not replanting, of crops on cleared land; (c) construction of a road or bridge on the farm (drains also qualify); (d) construction on the farm of a building used for working the farm, such as an estate office, mill or godown; (e) construction on the farm of a building for the welfare or living accommodation of persons employed on the farm, such as labour quarters, a place of worship or a community hall.",
+     "ms": "Perbelanjaan modal ke atas: (a) membersih dan menyediakan tanah (termasuk teres untuk mencegah hakisan); (b) penanaman, tetapi bukan penanaman semula, tanaman di tanah yang telah dibersihkan; (c) pembinaan jalan atau jambatan di ladang (longkang juga layak); (d) pembinaan di ladang bangunan yang digunakan untuk mengusahakan ladang, seperti pejabat estet, kilang (mill) atau gudang; (e) pembinaan di ladang bangunan untuk kebajikan atau tempat tinggal orang yang bekerja di ladang, seperti kuarters buruh, tempat ibadat atau dewan komuniti."
+    },
+    {
+     "k": "note",
+     "en": "Replanting (replacing the crop with the same product, including reafforestation) is not qualifying agriculture expenditure. PR 1/2016 para 5.8 treats it as a revenue deduction under para 34(6)(d) ITA, which is why the lecturer’s answer shows nil allowance for BioBloom’s replanting; a senior manager’s house ten kilometres from the farm is nil because the building must be constructed on the farm.",
+     "ms": "Penanaman semula (menggantikan tanaman dengan produk sama, termasuk penghutanan semula) bukan perbelanjaan pertanian layak. PR 1/2016 para 5.8 menganggapnya potongan hasil di bawah para 34(6)(d) ITA, itulah sebab jawapan pensyarah menunjukkan elaun sifar bagi penanaman semula BioBloom; rumah pengurus kanan sepuluh kilometer dari ladang sifar kerana bangunan mesti dibina di ladang."
     },
     {
      "k": "h",
@@ -235,20 +250,20 @@
        "en": [
         "Replanting of seedlings",
         "—",
-        "Nil in the answer (shown as non-qualifying)"
+        "Nil (revenue deduction instead)"
        ],
        "ms": [
         "Penanaman semula anak benih",
         "—",
-        "Sifar dalam jawapan (ditunjuk tidak layak)"
+        "Sifar (potongan hasil sebaliknya)"
        ]
       }
      ]
     },
     {
      "k": "note",
-     "en": "Rates and the treatment of replanting and the senior manager’s house are inferred from the lecturer’s answer to BioBloom Farm; no reasons are written in the answer sheet. Rates are also not printed on the slides we could read.",
-     "ms": "Kadar dan layanan penanaman semula serta rumah pengurus kanan disimpulkan daripada jawapan pensyarah bagi BioBloom Farm; tiada sebab ditulis pada lembaran jawapan. Kadar juga tidak tercetak pada slaid yang dapat dibaca."
+     "en": "PR 1/2016 para 6 confirms the rates: 50% for clearing/preparing land, planting and roads or bridges (para 23 Schedule 3); 20% for welfare/living-accommodation buildings and 10% for any other building (para 22). Mills, estate offices and godowns are ‘other buildings’ at 10%.",
+     "ms": "PR 1/2016 para 6 mengesahkan kadar: 50% untuk membersih/menyediakan tanah, penanaman dan jalan atau jambatan (para 23 Jadual 3); 20% untuk bangunan kebajikan/tempat tinggal dan 10% untuk bangunan lain (para 22). Kilang, pejabat estet dan gudang ialah ‘bangunan lain’ pada 10%."
     },
     {
      "k": "tip",
@@ -308,8 +323,8 @@
     },
     {
      "k": "note",
-     "en": "The answer sheet shows the buyer’s RM2,016 against the transmitter’s year-end 31 Dec case and separately a 92-day split (RM2,016 allowance) for a 30 June year-end. I could not reconcile which figure belongs to which case, so treat the RM5,984 / RM2,016 split as an illustration of the formula and confirm the exact buyer figure with your lecturer.",
-     "ms": "Lembaran jawapan menunjukkan RM2,016 pembeli bagi kes akhir tahun pemindah 31 Dis dan berasingan pembahagian 92 hari (elaun RM2,016) bagi akhir tahun 30 Jun. Saya tidak dapat menyelaraskan angka mana milik kes mana, jadi anggap pembahagian RM5,984 / RM2,016 sebagai gambaran formula dan sahkan angka pembeli yang tepat dengan pensyarah."
+     "en": "PR 1/2016 paras 7.1–7.2: the transmitter gets allowances apportioned on a time basis from the start of the basis period to the date of transfer, but none if the asset was not in use for its business within one month before the transfer (or such further period the DG allows). The recipient gets only the other part of the apportioned allowance, in the YA of the basis period in which the transfer took place and later YAs, if it uses the farm (or an adjacent/nearby building) in its own business; the price it paid is disregarded. Apportionment works only when the transfer date falls in the same YA for both parties; if it falls in different YAs, only the transmitter claims, and the remaining balance is disregarded and cannot be claimed by anyone. This explains why the lecturer’s answer shows different buyer figures for different year-ends.",
+     "ms": "PR 1/2016 para 7.1–7.2: pemindah mendapat elaun diagihkan mengikut masa dari awal tempoh asas hingga tarikh pindah, tetapi tiada jika aset tidak digunakan untuk perniagaannya dalam sebulan sebelum pindah (atau tempoh lanjut yang dibenarkan KP). Penerima hanya mendapat bahagian lain elaun agihan, dalam YA tempoh asas pemindahan berlaku dan YA seterusnya, jika ia menggunakan ladang (atau bangunan bersebelahan/berhampiran) dalam perniagaannya; harga yang dibayar diketepikan. Pengagihan hanya berfungsi apabila tarikh pindah jatuh dalam YA yang sama bagi kedua-dua pihak; jika jatuh dalam YA berbeza, hanya pemindah menuntut, dan baki diketepikan dan tidak boleh dituntut sesiapa. Ini menerangkan kenapa jawapan pensyarah menunjukkan angka pembeli berbeza bagi akhir tahun berbeza."
     }
    ]
   },
@@ -324,8 +339,8 @@
    "blocks": [
     {
      "k": "p",
-     "en": "An agriculture charge arises when an asset on which agriculture allowance has been claimed is disposed of within 5 years, or when it is disposed of after the business ceases.",
-     "ms": "Caj pertanian timbul apabila aset yang telah dituntut elaun pertanian dilupuskan dalam tempoh 5 tahun, atau dilupuskan selepas perniagaan berhenti."
+     "en": "An agriculture charge arises when an asset on which agriculture allowance has been claimed is disposed of within 5 years from the date the expenditure was incurred (PR 1/2016 Examples 16–17), equal to the total allowances made. If an asset is disposed of after the business has ceased permanently, the disposal is deemed to occur in the basis period in which the business ceased (para 8.3). A government grant or subsidy no longer creates a charge (para 26 deleted from 2013).",
+     "ms": "Caj pertanian timbul apabila aset yang telah dituntut elaun pertanian dilupuskan dalam 5 tahun dari tarikh perbelanjaan ditanggung (PR 1/2016 Contoh 16–17), sama dengan jumlah elaun yang telah diberi. Jika aset dilupuskan selepas perniagaan berhenti secara tetap, pelupusan dianggap berlaku dalam tempoh asas perniagaan berhenti (para 8.3). Geran atau subsidi kerajaan tidak lagi mewujudkan caj (para 26 dipadam dari 2013)."
     },
     {
      "k": "p",
