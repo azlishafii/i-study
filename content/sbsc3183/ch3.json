@@ -376,7 +376,7 @@
     "en": "Key Public Ruling Points",
     "ms": "Poin Utama Pandangan Umum"
    },
-   "ref": "PR 4/2015, 12/2019, 4/2012, 4/2019, 6/2019, 3/2019",
+   "ref": "PR 4/2015, 12/2019, 4/2012, 4/2019, 6/2019, 3/2019, 3/2020, 2/2020, 4/2020, 1/2003, 11/2013",
    "blocks": [
     {
      "k": "p",
@@ -459,9 +459,74 @@
      ]
     },
     {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Treatment"
+      ],
+      "ms": [
+       "Item",
+       "Layanan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Stock withdrawn for own use or gifts (PR 3/2020)",
+        "Valued at market value at the time of withdrawal and treated as gross income under para 24(2)(a), not at cost. Example: batik cost RM1,000, market value RM2,000, given as a gift or lucky-draw prize: RM2,000 is gross income"
+       ],
+       "ms": [
+        "Stok dikeluarkan untuk kegunaan sendiri atau hadiah (PR 3/2020)",
+        "Dinilai pada nilai pasaran semasa pengeluaran dan dianggap pendapatan kasar di bawah para 24(2)(a), bukan pada kos. Contoh: batik kos RM1,000, nilai pasaran RM2,000, diberi sebagai hadiah atau hadiah cabutan bertuah: RM2,000 ialah pendapatan kasar"
+       ]
+      },
+      {
+       "en": [
+        "Valuation of stock (PR 2/2020)",
+        "Cost methods recognised include FIFO and weighted average cost; the method must be applied consistently to opening and closing stock"
+       ],
+       "ms": [
+        "Penilaian stok (PR 2/2020)",
+        "Kaedah kos yang diiktiraf termasuk FIFO dan kos purata wajaran; kaedah mesti digunakan secara konsisten bagi stok awal dan akhir"
+       ]
+      },
+      {
+       "en": [
+        "Advance payments (PR 4/2020)",
+        "Income from an advance payment under an agreement is gross income under para 24(1)(b) in the year the payer becomes liable to pay, even if the service is rendered in a later year"
+       ],
+       "ms": [
+        "Bayaran pendahuluan (PR 4/2020)",
+        "Pendapatan daripada bayaran pendahuluan di bawah perjanjian ialah pendapatan kasar di bawah para 24(1)(b) pada tahun pembayar menjadi berhutang, walaupun perkhidmatan diberi pada tahun kemudian"
+       ]
+      },
+      {
+       "en": [
+        "Local leave passage (addendum to PR 1/2003)",
+        "A local leave passage given to an employee is deductible to the employer under proviso (viii) of para 39(1)(l) and not subject to the 50% entertainment rule; the meals and accommodation benefit is excluded from the employee’s income for up to three local passages a year"
+       ],
+       "ms": [
+        "Tambang cuti tempatan (addendum PR 1/2003)",
+        "Tambang cuti tempatan kepada pekerja boleh ditolak majikan di bawah proviso (viii) para 39(1)(l) dan tidak tertakluk kepada peraturan keraian 50%; faedah makan dan penginapan dikecualikan daripada pendapatan pekerja sehingga tiga kali tambang tempatan setahun"
+       ]
+      },
+      {
+       "en": [
+        "Pre-operational expenses (PR 11/2013)",
+        "Expenses before a business commences are dealt with under Schedule 4B (qualifying pre-operational expenditure, incorporation expenses and approved training); they are not simply deducted under s33"
+       ],
+       "ms": [
+        "Perbelanjaan pra-operasi (PR 11/2013)",
+        "Perbelanjaan sebelum perniagaan bermula dikendalikan di bawah Jadual 4B (perbelanjaan pra-operasi layak, perbelanjaan pemerbadanan dan latihan diluluskan); ia tidak ditolak biasa di bawah s33"
+       ]
+      }
+     ]
+    },
+    {
      "k": "note",
-     "en": "I read the key paragraphs of these PRs for the points above. The other PR files (R&D, valuation of stock, stock withdrawal, debt owing, arts and culture, export, leave passage, pre-operational expenses) are not summarised here beyond what the slides say; check them for specific exam topics.",
-     "ms": "Saya membaca perenggan utama PR ini bagi poin di atas. Fail PR lain (R&D, penilaian stok, pengeluaran stok, hutang terhutang, seni dan budaya, eksport, tambang cuti, perbelanjaan pra-operasi) tidak diringkaskan di sini selain apa yang ada pada slaid; semak untuk topik peperiksaan tertentu."
+     "en": "Other PR files (R&D PR 5/2020 and 10/2021, arts PR 2/2021, export PR 1/2013) cover specific incentives. Check each PR for the exact rates and conditions when a question names that incentive.",
+     "ms": "Fail PR lain (R&D PR 5/2020 dan 10/2021, seni PR 2/2021, eksport PR 1/2013) merangkumi insentif tertentu. Semak setiap PR bagi kadar dan syarat tepat apabila soalan menyebut insentif itu."
     }
    ]
   },
@@ -909,6 +974,42 @@
   },
   {
    "id": "c19",
+   "t": "pr",
+   "q": {
+    "en": "Stock taken for own use is valued at?",
+    "ms": "Stok diambil untuk kegunaan sendiri dinilai pada?"
+   },
+   "a": {
+    "en": "Market value at withdrawal, treated as gross income (PR 3/2020).",
+    "ms": "Nilai pasaran semasa pengeluaran, dianggap pendapatan kasar (PR 3/2020)."
+   }
+  },
+  {
+   "id": "c20",
+   "t": "pr",
+   "q": {
+    "en": "Which stock valuation methods are accepted?",
+    "ms": "Kaedah penilaian stok yang diterima?"
+   },
+   "a": {
+    "en": "FIFO and weighted average cost, applied consistently (PR 2/2020).",
+    "ms": "FIFO dan kos purata wajaran, digunakan secara konsisten (PR 2/2020)."
+   }
+  },
+  {
+   "id": "c21",
+   "t": "pr",
+   "q": {
+    "en": "When is an advance payment taxed?",
+    "ms": "Bila bayaran pendahuluan dicukai?"
+   },
+   "a": {
+    "en": "When the payer becomes liable to pay, under para 24(1)(b) (PR 4/2020).",
+    "ms": "Apabila pembayar menjadi berhutang, di bawah para 24(1)(b) (PR 4/2020)."
+   }
+  },
+  {
+   "id": "c22",
    "t": "carry",
    "q": {
     "en": "Carry-forward period for unabsorbed capital allowance?",
@@ -920,7 +1021,7 @@
    }
   },
   {
-   "id": "c20",
+   "id": "c23",
    "t": "carry",
    "q": {
     "en": "Carry-forward period for business losses?",
@@ -932,7 +1033,7 @@
    }
   },
   {
-   "id": "c21",
+   "id": "c24",
    "t": "don",
    "q": {
     "en": "Limit on donations for companies?",
@@ -944,7 +1045,7 @@
    }
   },
   {
-   "id": "c22",
+   "id": "c25",
    "t": "don",
    "q": {
     "en": "Public library gift limit under s44(8)?",
@@ -956,7 +1057,7 @@
    }
   },
   {
-   "id": "c23",
+   "id": "c26",
    "t": "rate",
    "q": {
     "en": "Standard company tax rate?",
@@ -968,7 +1069,7 @@
    }
   },
   {
-   "id": "c24",
+   "id": "c27",
    "t": "rate",
    "q": {
     "en": "SME tax bands?",
@@ -980,7 +1081,7 @@
    }
   },
   {
-   "id": "c25",
+   "id": "c28",
    "t": "rate",
    "q": {
     "en": "Tax on RM2m for an SME?",
@@ -1375,132 +1476,170 @@
   },
   {
    "id": "q21",
+   "t": "pr",
+   "q": {
+    "en": "Batik costing RM1,000 (market value RM2,000) is given away as a prize. Gross income is:",
+    "ms": "Batik kos RM1,000 (nilai pasaran RM2,000) diberi sebagai hadiah. Pendapatan kasar ialah:"
+   },
+   "o": [
+    "RM3,000",
+    "RM1,000",
+    "RM2,000",
+    "Nil"
+   ],
+   "a": 2,
+   "e": {
+    "en": "PR 3/2020: market value at withdrawal.",
+    "ms": "PR 3/2020: nilai pasaran semasa pengeluaran."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "pr",
+   "q": {
+    "en": "An advance payment received under an agreement is taxed under:",
+    "ms": "Bayaran pendahuluan diterima di bawah perjanjian dicukai di bawah:"
+   },
+   "o": [
+    "Never",
+    "Only when the service is completed",
+    "Para 24(1)(b), when the payer is liable to pay",
+    "Para 44(6)"
+   ],
+   "a": 2,
+   "e": {
+    "en": "PR 4/2020.",
+    "ms": "PR 4/2020."
+   }
+  },
+  {
+   "id": "q23",
    "t": "carry",
    "q": {
     "en": "Unutilised business losses may be carried forward for up to:",
     "ms": "Kerugian perniagaan tidak terguna boleh dibawa ke hadapan sehingga:"
    },
    "o": [
-    "5 YAs",
-    "2 YAs",
     "10 consecutive YAs (per PR 1/2022)",
+    "2 YAs",
+    "5 YAs",
     "Not allowed"
    ],
-   "a": 2,
+   "a": 0,
    "e": {
     "en": "Slide 19 states 7; PR 1/2022 extended to 10.",
     "ms": "Slaid 19 menyatakan 7; PR 1/2022 melanjutkan kepada 10."
    }
   },
   {
-   "id": "q22",
+   "id": "q24",
    "t": "don",
    "q": {
     "en": "The donation limit for companies is:",
     "ms": "Had derma untuk syarikat:"
    },
    "o": [
-    "5% of gross income",
+    "RM20,000",
     "7% of aggregate income",
-    "10% of aggregate income",
-    "RM20,000"
+    "5% of gross income",
+    "10% of aggregate income"
    ],
-   "a": 2,
+   "a": 3,
    "e": {
     "en": "Slide 20.",
     "ms": "Slaid 20."
    }
   },
   {
-   "id": "q23",
+   "id": "q25",
    "t": "don",
    "q": {
     "en": "A gift of money to the Government is under:",
     "ms": "Hadiah wang kepada Kerajaan di bawah:"
    },
    "o": [
-    "s44(6)",
     "s44(8)",
+    "s44(6)",
     "s34(6)(g)",
     "s39(1)(l)"
    ],
-   "a": 0,
+   "a": 1,
    "e": {
     "en": "Slide 21.",
     "ms": "Slaid 21."
    }
   },
   {
-   "id": "q24",
+   "id": "q26",
    "t": "rate",
    "q": {
     "en": "A resident company with RM5m paid-up capital pays:",
     "ms": "Syarikat residen dengan modal berbayar RM5j membayar:"
    },
    "o": [
-    "20%",
-    "15%",
-    "17%",
-    "24%"
-   ],
-   "a": 3,
-   "e": {
-    "en": "Slide 24.",
-    "ms": "Slaid 24."
-   }
-  },
-  {
-   "id": "q25",
-   "t": "rate",
-   "q": {
-    "en": "SME: tax on the first RM150,000 of chargeable income:",
-    "ms": "PKS: cukai atas RM150,000 pertama pendapatan bercukai:"
-   },
-   "o": [
-    "17%",
     "15%",
     "24%",
-    "10%"
+    "17%",
+    "20%"
    ],
    "a": 1,
    "e": {
     "en": "Slide 24.",
     "ms": "Slaid 24."
-   }
-  },
-  {
-   "id": "q26",
-   "t": "rate",
-   "q": {
-    "en": "SME chargeable income RM2,000,000. Tax is:",
-    "ms": "PKS pendapatan bercukai RM2,000,000. Cukai ialah:"
-   },
-   "o": [
-    "RM480,000",
-    "RM435,000",
-    "RM340,000",
-    "RM500,000"
-   ],
-   "a": 1,
-   "e": {
-    "en": "22,500 + 76,500 + 336,000.",
-    "ms": "22,500 + 76,500 + 336,000."
    }
   },
   {
    "id": "q27",
    "t": "rate",
    "q": {
+    "en": "SME: tax on the first RM150,000 of chargeable income:",
+    "ms": "PKS: cukai atas RM150,000 pertama pendapatan bercukai:"
+   },
+   "o": [
+    "10%",
+    "17%",
+    "24%",
+    "15%"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 24.",
+    "ms": "Slaid 24."
+   }
+  },
+  {
+   "id": "q28",
+   "t": "rate",
+   "q": {
+    "en": "SME chargeable income RM2,000,000. Tax is:",
+    "ms": "PKS pendapatan bercukai RM2,000,000. Cukai ialah:"
+   },
+   "o": [
+    "RM435,000",
+    "RM480,000",
+    "RM340,000",
+    "RM500,000"
+   ],
+   "a": 0,
+   "e": {
+    "en": "22,500 + 76,500 + 336,000.",
+    "ms": "22,500 + 76,500 + 336,000."
+   }
+  },
+  {
+   "id": "q29",
+   "t": "rate",
+   "q": {
     "en": "Chargeable income RM16,155,600 at 24% gives:",
     "ms": "Pendapatan bercukai RM16,155,600 pada 24% memberi:"
    },
    "o": [
-    "RM3,231,120",
-    "RM2,423,340",
     "RM4,000,000",
-    "RM3,877,344"
+    "RM2,423,340",
+    "RM3,877,344",
+    "RM3,231,120"
    ],
-   "a": 3,
+   "a": 2,
    "e": {
     "en": "Eco Furniture: 16,155,600 × 24%.",
     "ms": "Eco Furniture: 16,155,600 × 24%."

@@ -706,6 +706,24 @@
     },
     {
      "k": "h",
+     "en": "Company under liquidation (PR 7/2016)",
+     "ms": "Syarikat dalam pembubaran (PR 7/2016)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Basis period follows s21A(3) and the principles of PR 8/2014; from YA2014 the DGIR fixes the basis periods for the failure year and the next YA",
+      "Generally the company’s own accounting period in the failure year is accepted if: no YA is missing; two accounts are not closed in the same YA as the basis period; and the first accounts closed in the failure year are the basis period for that YA or are combined with the next accounts",
+      "A liquidator prepares accounts for 6 months from the date of appointment and then every 6 months"
+     ],
+     "ms": [
+      "Tempoh asas mengikut s21A(3) dan prinsip PR 8/2014; dari YA2014 KPHDN menetapkan tempoh asas bagi tahun kegagalan dan YA berikutnya",
+      "Secara amnya tempoh perakaunan syarikat sendiri pada tahun kegagalan diterima jika: tiada YA tertinggal; dua akaun tidak ditutup dalam YA sama sebagai tempoh asas; dan akaun pertama ditutup pada tahun kegagalan ialah tempoh asas YA itu atau digabung dengan akaun seterusnya",
+      "Pelikuidasi menyediakan akaun bagi 6 bulan dari tarikh pelantikan dan kemudian setiap 6 bulan"
+     ]
+    },
+    {
+     "k": "h",
      "en": "New operation or partnership",
      "ms": "Operasi baharu atau perkongsian"
     },
