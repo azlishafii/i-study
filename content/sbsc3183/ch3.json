@@ -2432,14 +2432,14 @@
        "en": [
         "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
         "",
-        "438,500",
-        ""
+        "",
+        "(438,500)"
        ],
        "ms": [
         "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
         "",
-        "438,500",
-        ""
+        "",
+        "(438,500)"
        ]
       },
       {
@@ -2501,15 +2501,15 @@
       {
        "en": [
         "ADD: NON-ALLOWABLE EXPENSES",
-        "867,800",
         "",
-        ""
+        "",
+        "867,800"
        ],
        "ms": [
         "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
-        "867,800",
         "",
-        ""
+        "",
+        "867,800"
        ]
       },
       {
@@ -2670,14 +2670,14 @@
        "en": [
         "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
         "",
-        "324,886",
-        ""
+        "",
+        "(324,886)"
        ],
        "ms": [
         "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
         "",
-        "324,886",
-        ""
+        "",
+        "(324,886)"
        ]
       },
       {
@@ -2923,13 +2923,13 @@
         "ADD: BALANCING CHARGES",
         "",
         "",
-        ""
+        "45,000"
        ],
        "ms": [
         "TAMBAH: CAJ IMBANGAN",
         "",
         "",
-        ""
+        "45,000"
        ]
       },
       {
@@ -2951,13 +2951,13 @@
         "LESS: CAPITAL ALLOWANCE",
         "",
         "",
-        ""
+        "(80,000)"
        ],
        "ms": [
         "TOLAK: ELAUN MODAL",
         "",
         "",
-        ""
+        "(80,000)"
        ]
       },
       {
@@ -2993,13 +2993,13 @@
         "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
         "",
         "",
-        ""
+        "(580,000)"
        ],
        "ms": [
         "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
         "",
         "",
-        ""
+        "(580,000)"
        ]
       },
       {
@@ -3021,13 +3021,13 @@
         "ADD: STATUTORY INCOME FROM OTHER SOURCES",
         "",
         "",
-        ""
+        "124,500"
        ],
        "ms": [
         "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
         "",
         "",
-        ""
+        "124,500"
        ]
       },
       {
@@ -3091,13 +3091,13 @@
         "LESS: APPROVED DONATIONS",
         "",
         "",
-        ""
+        "(145,000)"
        ],
        "ms": [
         "TOLAK: DERMA DILULUSKAN",
         "",
         "",
-        ""
+        "(145,000)"
        ]
       },
       {
@@ -4581,14 +4581,14 @@
        "en": [
         "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
         "",
-        "1,791,600",
-        ""
+        "",
+        "(1,791,600)"
        ],
        "ms": [
         "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
         "",
-        "1,791,600",
-        ""
+        "",
+        "(1,791,600)"
        ]
       },
       {
@@ -4692,15 +4692,15 @@
       {
        "en": [
         "ADD: NON-ALLOWABLE EXPENSES",
-        "2,319,700",
         "",
-        ""
+        "",
+        "2,319,700"
        ],
        "ms": [
         "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
-        "2,319,700",
         "",
-        ""
+        "",
+        "2,319,700"
        ]
       },
       {
@@ -4945,14 +4945,14 @@
        "en": [
         "LESS: DOUBLE DEDUCTION",
         "",
-        "370,000",
-        ""
+        "",
+        "(370,000)"
        ],
        "ms": [
         "TOLAK: POTONGAN BERGANDA",
         "",
-        "370,000",
-        ""
+        "",
+        "(370,000)"
        ]
       },
       {
@@ -4987,14 +4987,14 @@
        "en": [
         "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
         "",
-        "67,800",
-        ""
+        "",
+        "(67,800)"
        ],
        "ms": [
         "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
         "",
-        "67,800",
-        ""
+        "",
+        "(67,800)"
        ]
       },
       {
@@ -5170,13 +5170,13 @@
         "ADD: BALANCING CHARGES",
         "",
         "",
-        ""
+        "24,000"
        ],
        "ms": [
         "TAMBAH: CAJ IMBANGAN",
         "",
         "",
-        ""
+        "24,000"
        ]
       },
       {
@@ -5212,13 +5212,13 @@
         "LESS: CAPITAL ALLOWANCE",
         "",
         "",
-        ""
+        "(130,700)"
        ],
        "ms": [
         "TOLAK: ELAUN MODAL",
         "",
         "",
-        ""
+        "(130,700)"
        ]
       },
       {
@@ -5282,13 +5282,13 @@
         "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
         "",
         "",
-        ""
+        "(580,000)"
        ],
        "ms": [
         "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
         "",
         "",
-        ""
+        "(580,000)"
        ]
       },
       {
@@ -5310,13 +5310,13 @@
         "ADD: STATUTORY INCOME FROM OTHER SOURCES",
         "",
         "",
-        ""
+        "94,000"
        ],
        "ms": [
         "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
         "",
         "",
-        ""
+        "94,000"
        ]
       },
       {
@@ -5436,13 +5436,13 @@
         "LESS: APPROVED DONATIONS",
         "",
         "",
-        ""
+        "(140,000)"
        ],
        "ms": [
         "TOLAK: DERMA DILULUSKAN",
         "",
         "",
-        ""
+        "(140,000)"
        ]
       },
       {
@@ -6635,14 +6635,14 @@
        "en": [
         "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
         "",
-        "23,000",
-        ""
+        "",
+        "(23,000)"
        ],
        "ms": [
         "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
         "",
-        "23,000",
-        ""
+        "",
+        "(23,000)"
        ]
       },
       {
@@ -6676,15 +6676,15 @@
       {
        "en": [
         "ADD: NON-ALLOWABLE EXPENSES",
-        "635,800",
         "",
-        ""
+        "",
+        "635,800"
        ],
        "ms": [
         "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
-        "635,800",
         "",
-        ""
+        "",
+        "635,800"
        ]
       },
       {
@@ -6817,14 +6817,14 @@
        "en": [
         "LESS: DOUBLE DEDUCTION",
         "",
-        "102,000",
-        ""
+        "",
+        "(102,000)"
        ],
        "ms": [
         "TOLAK: POTONGAN BERGANDA",
         "",
-        "102,000",
-        ""
+        "",
+        "(102,000)"
        ]
       },
       {
@@ -6845,14 +6845,14 @@
        "en": [
         "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
         "",
-        "462,000",
-        ""
+        "",
+        "(462,000)"
        ],
        "ms": [
         "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
         "",
-        "462,000",
-        ""
+        "",
+        "(462,000)"
        ]
       },
       {
@@ -7098,13 +7098,13 @@
         "ADD: BALANCING CHARGES",
         "",
         "",
-        ""
+        "Nil"
        ],
        "ms": [
         "TAMBAH: CAJ IMBANGAN",
         "",
         "",
-        ""
+        "Nil"
        ]
       },
       {
@@ -7126,13 +7126,13 @@
         "LESS: CAPITAL ALLOWANCE",
         "",
         "",
-        ""
+        "Nil"
        ],
        "ms": [
         "TOLAK: ELAUN MODAL",
         "",
         "",
-        ""
+        "Nil"
        ]
       },
       {
@@ -7168,13 +7168,13 @@
         "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
         "",
         "",
-        ""
+        "Nil"
        ],
        "ms": [
         "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
         "",
         "",
-        ""
+        "Nil"
        ]
       },
       {
@@ -7196,13 +7196,13 @@
         "ADD: STATUTORY INCOME FROM OTHER SOURCES",
         "",
         "",
-        ""
+        "9,000"
        ],
        "ms": [
         "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
         "",
         "",
-        ""
+        "9,000"
        ]
       },
       {
@@ -7266,13 +7266,13 @@
         "LESS: APPROVED DONATIONS",
         "",
         "",
-        ""
+        "Nil"
        ],
        "ms": [
         "TOLAK: DERMA DILULUSKAN",
         "",
         "",
-        ""
+        "Nil"
        ]
       },
       {
@@ -8763,14 +8763,14 @@
        "en": [
         "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
         "",
-        "1,098,000",
-        ""
+        "",
+        "(1,098,000)"
        ],
        "ms": [
         "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
         "",
-        "1,098,000",
-        ""
+        "",
+        "(1,098,000)"
        ]
       },
       {
@@ -8818,15 +8818,15 @@
       {
        "en": [
         "ADD: NON-ALLOWABLE EXPENSES",
-        "1,651,600",
         "",
-        ""
+        "",
+        "1,651,600"
        ],
        "ms": [
         "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
-        "1,651,600",
         "",
-        ""
+        "",
+        "1,651,600"
        ]
       },
       {
@@ -9029,14 +9029,14 @@
        "en": [
         "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
         "",
-        "66,000",
-        ""
+        "",
+        "(66,000)"
        ],
        "ms": [
         "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
         "",
-        "66,000",
-        ""
+        "",
+        "(66,000)"
        ]
       },
       {
@@ -9268,13 +9268,13 @@
         "ADD: BALANCING CHARGES",
         "",
         "",
-        ""
+        "Nil"
        ],
        "ms": [
         "TAMBAH: CAJ IMBANGAN",
         "",
         "",
-        ""
+        "Nil"
        ]
       },
       {
@@ -9296,13 +9296,13 @@
         "LESS: CAPITAL ALLOWANCE",
         "",
         "",
-        ""
+        "(145,000)"
        ],
        "ms": [
         "TOLAK: ELAUN MODAL",
         "",
         "",
-        ""
+        "(145,000)"
        ]
       },
       {
@@ -9352,13 +9352,13 @@
         "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
         "",
         "",
-        ""
+        "(20,000)"
        ],
        "ms": [
         "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
         "",
         "",
-        ""
+        "(20,000)"
        ]
       },
       {
@@ -9380,13 +9380,13 @@
         "ADD: STATUTORY INCOME FROM OTHER SOURCES",
         "",
         "",
-        ""
+        "795,000"
        ],
        "ms": [
         "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
         "",
         "",
-        ""
+        "795,000"
        ]
       },
       {
@@ -9464,13 +9464,13 @@
         "LESS: APPROVED DONATIONS",
         "",
         "",
-        ""
+        "Nil"
        ],
        "ms": [
         "TOLAK: DERMA DILULUSKAN",
         "",
         "",
-        ""
+        "Nil"
        ]
       },
       {
@@ -10555,14 +10555,14 @@
        "en": [
         "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
         "",
-        "85,000",
-        ""
+        "",
+        "(85,000)"
        ],
        "ms": [
         "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
         "",
-        "85,000",
-        ""
+        "",
+        "(85,000)"
        ]
       },
       {
@@ -10596,15 +10596,15 @@
       {
        "en": [
         "ADD: NON-ALLOWABLE EXPENSES",
-        "1,592,040",
         "",
-        ""
+        "",
+        "1,592,040"
        ],
        "ms": [
         "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
-        "1,592,040",
         "",
-        ""
+        "",
+        "1,592,040"
        ]
       },
       {
@@ -10793,14 +10793,14 @@
        "en": [
         "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
         "",
-        "29,000",
-        ""
+        "",
+        "(29,000)"
        ],
        "ms": [
         "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
         "",
-        "29,000",
-        ""
+        "",
+        "(29,000)"
        ]
       },
       {
@@ -11046,13 +11046,13 @@
         "ADD: BALANCING CHARGES",
         "",
         "",
-        ""
+        "Nil"
        ],
        "ms": [
         "TAMBAH: CAJ IMBANGAN",
         "",
         "",
-        ""
+        "Nil"
        ]
       },
       {
@@ -11074,13 +11074,13 @@
         "LESS: CAPITAL ALLOWANCE",
         "",
         "",
-        ""
+        "(46,024,000)"
        ],
        "ms": [
         "TOLAK: ELAUN MODAL",
         "",
         "",
-        ""
+        "(46,024,000)"
        ]
       },
       {
@@ -11116,13 +11116,13 @@
         "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
         "",
         "",
-        ""
+        "Nil"
        ],
        "ms": [
         "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
         "",
         "",
-        ""
+        "Nil"
        ]
       },
       {
@@ -11144,13 +11144,13 @@
         "ADD: STATUTORY INCOME FROM OTHER SOURCES",
         "",
         "",
-        ""
+        "40,000"
        ],
        "ms": [
         "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
         "",
         "",
-        ""
+        "40,000"
        ]
       },
       {
@@ -11242,13 +11242,13 @@
         "LESS: APPROVED DONATIONS",
         "",
         "",
-        ""
+        "(200,000)"
        ],
        "ms": [
         "TOLAK: DERMA DILULUSKAN",
         "",
         "",
-        ""
+        "(200,000)"
        ]
       },
       {
