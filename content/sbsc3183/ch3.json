@@ -60,18 +60,123 @@
      "en": [
       "From 1 January 2022, income derived from foreign sources and received in Malaysia is taxed in the hands of Malaysian residents",
       "The Schedule 6 para 28 exemption applies only to non-residents",
-      "Foreign dividend income received in Malaysia by a resident company is among the eligible exemptions [P.U.(A) 235/2022]"
+      "Of foreign income received in Malaysia, the exempt item is foreign dividend income received in Malaysia by a resident company [P.U.(A) 235/2022]"
      ],
      "ms": [
       "Dari 1 Januari 2022, pendapatan sumber luar negara yang diterima di Malaysia dicukai ke atas residen Malaysia",
       "Pengecualian Jadual 6 para 28 hanya terpakai kepada bukan residen",
-      "Pendapatan dividen luar negara yang diterima di Malaysia oleh syarikat residen ialah antara pengecualian yang layak [P.U.(A) 235/2022]"
+      "Pendapatan dividen luar negara yang diterima di Malaysia oleh syarikat residen ialah pendapatan luar negara diterima di Malaysia yang layak dikecualikan [P.U.(A) 235/2022]"
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Form C: the company return form (slide 6)",
+     "ms": "Borang C: borang nnyata cukai syarikat (slaid 6)"
+    },
+    {
+     "k": "p",
+     "en": "Slide 6 shows Form C (CP5, YA2025), the return form under section 77A. Its Basic Particulars section asks:",
+     "ms": "Slaid 6 menunjukkan Borang C (CP5, YA2025), borang nyata di bawah seksyen 77A. Bahagian Butiran Asas bertanya:"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Items",
+       "What is asked"
+      ],
+      "ms": [
+       "Item",
+       "Perkara ditanya"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1–3",
+        "Name of company, registration no., Tax Identification No. (TIN, prefix C)"
+       ],
+       "ms": [
+        "1–3",
+        "Nama syarikat, no. pendaftaran, No. Pengenalan Cukai (TIN, awalan C)"
+       ]
+      },
+      {
+       "en": [
+        "4, 6",
+        "Incorporated in Malaysia (1 = Yes, 2 = No); country of residence"
+       ],
+       "ms": [
+        "4, 6",
+        "Diperbadankan di Malaysia (1 = Ya, 2 = Tidak); negara residen"
+       ]
+      },
+      {
+       "en": [
+        "8–9",
+        "Status of business: 1 = in operation, 2 = dormant, 3 = in the process of winding up; commencement date of operations"
+       ],
+       "ms": [
+        "8–9",
+        "Status perniagaan: 1 = beroperasi, 2 = tidak aktif, 3 = dalam proses pembubaran; tarikh mula operasi"
+       ]
+      },
+      {
+       "en": [
+        "10–11",
+        "Accounting period and basis period (from and to dates)"
+       ],
+       "ms": [
+        "10–11",
+        "Tempoh perakaunan dan tempoh asas (dari dan hingga)"
+       ]
+      },
+      {
+       "en": [
+        "12",
+        "SME test: paid-up ordinary share capital not above RM2.5 million at the start of the basis period, gross income from all business sources not above RM50 million, and the requirements of paragraphs 2B and 2C, Part 1, Schedule 1 fulfilled"
+       ],
+       "ms": [
+        "12",
+        "Ujian PKS: modal saham biasa berbayar tidak melebihi RM2.5 juta pada awal tempoh asas, pendapatan kasar semua sumber perniagaan tidak melebihi RM50 juta, dan syarat perenggan 2B dan 2C, Bahagian 1, Jadual 1 dipenuhi"
+       ]
+      },
+      {
+       "en": [
+        "13–18",
+        "Asset-backed securities company; company limited by guarantee; controlled company; foreign company without share capital; Federal/State statutory body; permanent establishment in Malaysia"
+       ],
+       "ms": [
+        "13–18",
+        "Syarikat sekuriti disokong aset; syarikat berhad menurut jaminan; syarikat terkawal; syarikat asing tanpa modal saham; badan berkanun Persekutuan/Negeri; pertubuhan tetap di Malaysia"
+       ]
+      },
+      {
+       "en": [
+        "19",
+        "Substantial change in shareholding and subsection 44(5A) applies (1 = Yes, 2 = No, 3 = Not relevant)"
+       ],
+       "ms": [
+        "19",
+        "Perubahan besar pemegangan saham dan subseksyen 44(5A) terpakai (1 = Ya, 2 = Tidak, 3 = Tidak berkaitan)"
+       ]
+      },
+      {
+       "en": [
+        "20",
+        "Claim or surrender of loss under group relief (1 = Claim, 2 = Surrender); claiming uses Form C (RK-T), surrendering uses Form C (RK-S)"
+       ],
+       "ms": [
+        "20",
+        "Tuntut atau serah kerugian di bawah pelepasan kumpulan (1 = Tuntut, 2 = Serah); tuntutan guna Borang C (RK-T), serahan guna Borang C (RK-S)"
+       ]
+      }
      ]
     },
     {
      "k": "note",
-     "en": "Slide 5 is partly garbled. The exemption wording is read as given; the conditions for the foreign-dividend exemption are not on the slide, so check them in the P.U.(A) before relying on it. Slide 6 has no readable text.",
-     "ms": "Slaid 5 sebahagiannya kelam. Perkataan pengecualian dibaca seperti diberi; syarat pengecualian dividen luar negara tiada pada slaid, jadi semak dalam P.U.(A) sebelum bergantung padanya. Slaid 6 tiada teks boleh dibaca."
+     "en": "Item 12 is why the SME status on this slide matters: it links to the SME tax rates in the Tax Rates section.",
+     "ms": "Item 12 ialah sebab status PKS penting: ia berkait dengan kadar cukai PKS dalam bahagian Kadar Cukai."
     },
     {
      "k": "tip",
