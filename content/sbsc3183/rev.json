@@ -235,29 +235,29 @@
       {
        "en": [
         "2022",
-        "1.4.2021 – 31.12.2022",
-        "21",
-        "Two accounts close in YA2022 (31.3.2022 and 31.12.2022). They are combined so that no two accounts close in the same YA"
+        "1.4.2021 – 31.3.2022",
+        "12",
+        "The normal accounting period"
        ],
        "ms": [
         "2022",
-        "1.4.2021 – 31.12.2022",
-        "21",
-        "Dua akaun ditutup dalam YA2022 (31.3.2022 dan 31.12.2022). Digabung supaya tiada dua akaun ditutup dalam YA yang sama"
+        "1.4.2021 – 31.3.2022",
+        "12",
+        "Tempoh perakaunan biasa"
        ]
       },
       {
        "en": [
         "2023",
-        "1.1.2023 – 31.12.2023",
-        "12",
-        "Normal year to the new date"
+        "1.4.2022 – 31.12.2023",
+        "21",
+        "The 9-month period 1.4.2022–31.12.2022 closes in YA2022, the same YA as the 31.3.2022 accounts. It is combined with the following year’s accounts (1.1.2023–31.12.2023), so that no two accounts close in the same YA and no YA is missing"
        ],
        "ms": [
         "2023",
-        "1.1.2023 – 31.12.2023",
-        "12",
-        "Tahun biasa ke tarikh baharu"
+        "1.4.2022 – 31.12.2023",
+        "21",
+        "Tempoh 9 bulan 1.4.2022–31.12.2022 ditutup dalam YA2022, YA sama dengan akaun 31.3.2022. Ia digabung dengan akaun tahun berikutnya (1.1.2023–31.12.2023), supaya tiada dua akaun ditutup dalam YA yang sama dan tiada YA tertinggal"
        ]
       },
       {
@@ -292,8 +292,8 @@
     },
     {
      "k": "note",
-     "en": "The table in the question prints YA2022 twice and has no YA2024; the answer above gives every YA from 2020 to 2025. The split follows PR 8/2014 (the ‘two-year’ division; Example 9) and the same pattern as Koperasi Rania Emas on your slides. A 22-month period divides exactly into 11 + 11, so no half-month arises.",
-     "ms": "Jadual dalam soalan mencetak YA2022 dua kali dan tiada YA2024; jawapan di atas memberi setiap YA dari 2020 hingga 2025. Pembahagian ikut PR 8/2014 (pembahagian ‘dua tahun’; Contoh 9) dan corak sama seperti Koperasi Rania Emas dalam slaid anda. Tempoh 22 bulan terbahagi tepat 11 + 11, jadi tiada setengah bulan."
+     "en": "YA2022 and YA2023 follow your lecturer’s answer (YA2022 = 1.4.21–31.3.22; YA2023 = 1.4.22–31.12.23). The table in the question prints YA2022 twice and has no YA2024; the answer above gives every YA from 2020 to 2025, and YA2024 and YA2025 are my own working, since the lecturer’s answer stops at YA2023. The split follows PR 8/2014 (the ‘two-year’ division; Example 9) and the same pattern as Koperasi Rania Emas on your slides. A 22-month period divides exactly into 11 + 11, so no half-month arises.",
+     "ms": "YA2022 dan YA2023 mengikut jawapan pensyarah anda (YA2022 = 1.4.21–31.3.22; YA2023 = 1.4.22–31.12.23). Jadual dalam soalan mencetak YA2022 dua kali dan tiada YA2024; jawapan di atas memberi setiap YA dari 2020 hingga 2025, dan YA2024 serta YA2025 ialah pengiraan saya sendiri kerana jawapan pensyarah berhenti pada YA2023. Pembahagian ikut PR 8/2014 (pembahagian ‘dua tahun’; Contoh 9) dan corak sama seperti Koperasi Rania Emas dalam slaid anda. Tempoh 22 bulan terbahagi tepat 11 + 11, jadi tiada setengah bulan."
     }
    ]
   },
@@ -715,12 +715,12 @@
    "id": "c2",
    "t": "q2",
    "q": {
-    "en": "Lazat: why is YA2022 = 1.4.2021–31.12.2022 (21 months)?",
-    "ms": "Lazat: mengapa YA2022 = 1.4.2021–31.12.2022 (21 bulan)?"
+    "en": "Lazat: why is YA2023 = 1.4.2022–31.12.2023 (21 months)?",
+    "ms": "Lazat: mengapa YA2023 = 1.4.2022–31.12.2023 (21 bulan)?"
    },
    "a": {
-    "en": "Two accounts close in YA2022 (31.3.2022 and 31.12.2022); no two accounts may close in the same YA, so they are combined.",
-    "ms": "Dua akaun ditutup dalam YA2022 (31.3.2022 dan 31.12.2022); tiada dua akaun boleh ditutup dalam YA yang sama, jadi digabung."
+    "en": "The 9-month period to 31.12.2022 closes in YA2022, the same YA as the 31.3.2022 accounts, so it is combined with the 2023 accounts. YA2022 stays 1.4.2021–31.3.2022 (lecturer’s answer).",
+    "ms": "Tempoh 9 bulan hingga 31.12.2022 ditutup dalam YA2022, YA sama dengan akaun 31.3.2022, jadi digabung dengan akaun 2023. YA2022 kekal 1.4.2021–31.3.2022 (jawapan pensyarah)."
    }
   },
   {
