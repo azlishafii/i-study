@@ -804,6 +804,57 @@
      ]
     },
     {
+     "k": "h",
+     "en": "Disposal of plant and machinery",
+     "ms": "Pelupusan loji dan jentera"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Comparison",
+       "Result",
+       "Treatment"
+      ],
+      "ms": [
+       "Perbandingan",
+       "Hasil",
+       "Layanan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "RE > SP (residual expenditure more than sale proceeds)",
+        "Balancing allowance",
+        "Deducted from adjusted income, like a capital allowance"
+       ],
+       "ms": [
+        "RE > SP (perbelanjaan baki melebihi hasil jualan)",
+        "Elaun imbangan",
+        "Ditolak daripada pendapatan diselaraskan, seperti elaun modal"
+       ]
+      },
+      {
+       "en": [
+        "SP > RE (sale proceeds more than residual expenditure)",
+        "Balancing charge",
+        "Added to adjusted income"
+       ],
+       "ms": [
+        "SP > RE (hasil jualan melebihi perbelanjaan baki)",
+        "Caj imbangan",
+        "Ditambah kepada pendapatan diselaraskan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "From your lecturer. RE = residual expenditure (cost less allowances given); SP = sale proceeds. Example from the Styles question: lorry RE 48,000, SP 70,000, so a balancing charge of 22,000; computer RE 16,000, SP 18,000, so a balancing charge of 2,000. A balancing charge cannot exceed the allowances given.",
+     "ms": "Daripada pensyarah anda. RE = perbelanjaan baki (kos tolak elaun diberi); SP = hasil jualan. Contoh daripada soalan Styles: lori RE 48,000, SP 70,000, maka caj imbangan 22,000; komputer RE 16,000, SP 18,000, maka caj imbangan 2,000. Caj imbangan tidak boleh melebihi elaun yang telah diberi."
+    },
+    {
      "k": "note",
      "en": "Slide 19 says unutilised losses can be carried forward ‘a maximum period of 7 consecutive YAs (10 years)’, which is internally inconsistent. The lecturer’s file PR 1/2022 states that the period was extended from 7 to 10 consecutive YAs, so use 10.",
      "ms": "Slaid 19 menyatakan kerugian tidak terguna boleh dibawa ke hadapan ‘maksimum 7 YA berturut-turut (10 tahun)’, yang tidak konsisten. Fail PR 1/2022 pensyarah menyatakan tempoh dilanjutkan daripada 7 kepada 10 YA berturut-turut, jadi gunakan 10."
@@ -2479,8 +2530,8 @@
     },
     {
      "k": "calc",
-     "en": "Net loss before tax: (92,000)\nAdd (+) 635,800, less (−) 587,000\nAdjusted business loss: (43,200)\nCapital allowance 203,000: no business income to set against, carried forward (up to 10 YAs): 203,000 c/f\nStatutory business income: Nil\nOther statutory income: interest: 9,000\nLess current-year business loss (set off against all sources): (43,200)\nAggregate income: Nil\nBusiness loss carried forward (up to 7 YAs): 34,200\nChargeable income and tax: Nil",
-     "ms": "Kerugian bersih sebelum cukai: (92,000)\nTambah (+) 635,800, tolak (−) 587,000\nKerugian perniagaan diselaraskan: (43,200)\nElaun modal 203,000: tiada pendapatan perniagaan untuk ditolak, dibawa ke hadapan (sehingga 10 YA): 203,000 c/f\nPendapatan berkanun perniagaan: Nil\nPendapatan berkanun lain: faedah: 9,000\nTolak kerugian perniagaan tahun semasa (ditolak daripada semua sumber): (43,200)\nPendapatan agregat: Nil\nKerugian perniagaan dibawa ke hadapan (sehingga 7 YA): 34,200\nPendapatan bercukai dan cukai: Nil"
+     "en": "Net loss before tax: (92,000)\nAdd (+) 635,800, less (−) 587,000\nAdjusted business loss: (43,200)\nCapital allowance 203,000: no business income to set against, carried forward (up to 10 YAs): 203,000 c/f\nStatutory business income: Nil\nOther statutory income: interest: 9,000\nLess current-year business loss (set off against all sources): (43,200)\nAggregate income: Nil\nBusiness loss carried forward (up to 10 YAs): 34,200\nChargeable income and tax: Nil",
+     "ms": "Kerugian bersih sebelum cukai: (92,000)\nTambah (+) 635,800, tolak (−) 587,000\nKerugian perniagaan diselaraskan: (43,200)\nElaun modal 203,000: tiada pendapatan perniagaan untuk ditolak, dibawa ke hadapan (sehingga 10 YA): 203,000 c/f\nPendapatan berkanun perniagaan: Nil\nPendapatan berkanun lain: faedah: 9,000\nTolak kerugian perniagaan tahun semasa (ditolak daripada semua sumber): (43,200)\nPendapatan agregat: Nil\nKerugian perniagaan dibawa ke hadapan (sehingga 10 YA): 34,200\nPendapatan bercukai dan cukai: Nil"
     },
     {
      "k": "note",
