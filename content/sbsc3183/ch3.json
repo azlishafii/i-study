@@ -195,17 +195,76 @@
    "ref": "Slide 4; Example Q4",
    "blocks": [
     {
+     "k": "p",
+     "en": "There are two ways to start the computation. Slide 4 shows both: begin from gross income, or begin from the net profit in the accounts. Both reach the same adjusted income.",
+     "ms": "Ada dua cara memulakan pengiraan. Slaid 4 menunjukkan kedua-duanya: mula daripada pendapatan kasar, atau mula daripada keuntungan bersih dalam akaun. Kedua-duanya sampai kepada pendapatan diselaraskan yang sama."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Step",
+       "Method 1: from gross income",
+       "Method 2: from net profit"
+      ],
+      "ms": [
+       "Langkah",
+       "Kaedah 1: daripada pendapatan kasar",
+       "Kaedah 2: daripada keuntungan bersih"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Start",
+        "Gross income from the business",
+        "Net profit before tax in the accounts"
+       ],
+       "ms": [
+        "Mula",
+        "Pendapatan kasar daripada perniagaan",
+        "Keuntungan bersih sebelum cukai dalam akaun"
+       ]
+      },
+      {
+       "en": [
+        "Adjust",
+        "Deduct allowable expenses, double deduction expenses and special deductions (s34, 34A, 34B, 34C and 34D ITA 1967)",
+        "Add non-allowable expenses; deduct non-business income, double deduction and special deduction"
+       ],
+       "ms": [
+        "Laraskan",
+        "Tolak perbelanjaan dibenarkan, perbelanjaan potongan berganda dan potongan khas (s34, 34A, 34B, 34C dan 34D ITA 1967)",
+        "Tambah perbelanjaan tidak dibenarkan; tolak pendapatan bukan perniagaan, potongan berganda dan potongan khas"
+       ]
+      },
+      {
+       "en": [
+        "Result",
+        "Adjusted income before capital allowances",
+        "Adjusted income before capital allowances"
+       ],
+       "ms": [
+        "Hasil",
+        "Pendapatan diselaraskan sebelum elaun modal",
+        "Pendapatan diselaraskan sebelum elaun modal"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Method 2 is the one used in the examination answers, because the accounts have already deducted the expenses and you only correct them. Method 1 builds the figure up from the gross income. Whichever you use, then follow the same steps below.",
+     "ms": "Kaedah 2 ialah yang digunakan dalam jawapan peperiksaan, kerana akaun sudah menolak perbelanjaan dan anda hanya membetulkannya. Kaedah 1 membina angka daripada pendapatan kasar. Kaedah mana pun, ikut langkah yang sama di bawah."
+    },
+    {
      "k": "flow",
      "en": [
-      "Start: net profit before tax",
-      "Add non-allowable expenses; deduct non-business income, double deduction and special deduction",
       "Add balancing charges; deduct capital allowance / balancing allowances = adjusted income",
       "Deduct brought-forward business losses; add other statutory income = aggregate income (after statutory income)",
       "Deduct current-year business loss, pre-operational expenditure, approved donations, zakat (business) = total / chargeable income"
      ],
      "ms": [
-      "Mula: keuntungan bersih sebelum cukai",
-      "Tambah perbelanjaan tidak dibenarkan; tolak pendapatan bukan perniagaan, potongan berganda dan potongan khas",
       "Tambah caj imbangan; tolak elaun modal / elaun imbangan = pendapatan diselaraskan",
       "Tolak kerugian perniagaan dibawa ke hadapan; tambah pendapatan berkanun lain = pendapatan agregat (selepas pendapatan berkanun)",
       "Tolak kerugian perniagaan tahun semasa, perbelanjaan pra-operasi, derma diluluskan, zakat (perniagaan) = jumlah / pendapatan bercukai"
@@ -218,8 +277,8 @@
     },
     {
      "k": "tip",
-     "en": "Eco Furniture (lecturer’s Q4): adjusted income RM15,540,600 − capital allowance b/f 25,000 − current 120,000 = statutory business income 15,395,600; − losses b/f 20,000 = 15,375,600; + interest 795,000 (dividend exempt) = aggregate income 16,170,600; − donation 15,000 = chargeable income 16,155,600; tax at 24% = RM3,877,344.",
-     "ms": "Eco Furniture (S4 pensyarah): pendapatan diselaraskan RM15,540,600 − elaun modal b/h 25,000 − semasa 120,000 = pendapatan berkanun perniagaan 15,395,600; − kerugian b/h 20,000 = 15,375,600; + faedah 795,000 (dividen dikecualikan) = pendapatan agregat 16,170,600; − derma 15,000 = pendapatan bercukai 16,155,600; cukai pada 24% = RM3,877,344."
+     "en": "Eco Furniture (lecturer’s answer as given; my corrected figure is RM3,911,904 in Worked Examples): adjusted income RM15,540,600 − capital allowance b/f 25,000 − current 120,000 = statutory business income 15,395,600; − losses b/f 20,000 = 15,375,600; + interest 795,000 (dividend exempt) = aggregate income 16,170,600; − donation 15,000 = chargeable income 16,155,600; tax at 24% = RM3,877,344.",
+     "ms": "Eco Furniture (jawapan pensyarah seperti diberi; angka betul saya RM3,911,904 dalam Contoh Kerja): pendapatan diselaraskan RM15,540,600 − elaun modal b/h 25,000 − semasa 120,000 = pendapatan berkanun perniagaan 15,395,600; − kerugian b/h 20,000 = 15,375,600; + faedah 795,000 (dividen dikecualikan) = pendapatan agregat 16,170,600; − derma 15,000 = pendapatan bercukai 16,155,600; cukai pada 24% = RM3,877,344."
     }
    ]
   },
