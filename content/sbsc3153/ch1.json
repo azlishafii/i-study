@@ -1323,6 +1323,82 @@
    }
   },
   {
+   "id": "q28",
+   "t": "matters",
+   "q": {
+    "en": "In which role are communication skills said to be important?",
+    "ms": "Dalam peranan mana kemahiran komunikasi dikatakan penting?"
+   },
+   "o": [
+    "Employee, executive, consultant, freelancer or entrepreneur",
+    "Only freelancers",
+    "Only executives",
+    "Only sales staff"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 5 lists all of these roles.",
+    "ms": "Slaid 5 menyenaraikan semua peranan ini."
+   }
+  },
+  {
+   "id": "q29",
+   "t": "matters",
+   "q": {
+    "en": "Communication is best defined as:",
+    "ms": "Communication is best defined as:"
+   },
+   "o": [
+    "The process of sending written messages through formal channels",
+    "The process of transferring information and meaning between senders and receivers",
+    "The process of persuading an audience to accept the sender’s view",
+    "The process of storing information for future retrieval"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 4 notes: communication transfers information and meaning between senders and receivers.",
+    "ms": "Nota slaid 4: komunikasi memindahkan maklumat dan makna antara penghantar dan penerima."
+   }
+  },
+  {
+   "id": "q30",
+   "t": "matters",
+   "q": {
+    "en": "In Figure 1.1, a receiver reacts negatively to the word “think” and creates her own meaning that “everything probably is not fine.” This shows:",
+    "ms": "In Figure 1.1, a receiver reacts negatively to the word “think” and creates her own meaning that “everything probably is not fine.” This shows:"
+   },
+   "o": [
+    "The sender’s meaning transmitted intact",
+    "Meaning negotiated through discussion",
+    "Meaning created by the receiver because of an emotional reaction",
+    "A channel breakdown"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 6. Bottom exchange of Figure 1.1: negative emotional reaction leads the receiver to create her own meaning.",
+    "ms": "Slaid 6. Pertukaran bawah Rajah 1.1: reaksi emosi negatif menyebabkan penerima mencipta makna sendiri."
+   }
+  },
+  {
+   "id": "q31",
+   "t": "matters",
+   "q": {
+    "en": "All of the following are ways effective communication helps a company EXCEPT:",
+    "ms": "All of the following are ways effective communication helps a company EXCEPT:"
+   },
+   "o": [
+    "Building trust",
+    "Closer ties to the community",
+    "Increased productivity",
+    "Removing the need for employees to listen actively"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 7. The six benefits are trust, community ties, client relations, productivity, marketing and sales, employee relations.",
+    "ms": "Slaid 7. Enam manfaat: kepercayaan, komuniti, pelanggan, produktiviti, pemasaran, pekerja."
+   }
+  },
+  {
    "id": "q2",
    "t": "effective",
    "q": {
@@ -1494,6 +1570,44 @@
    }
   },
   {
+   "id": "q32",
+   "t": "process",
+   "q": {
+    "en": "Selective perception occurs when people:",
+    "ms": "Selective perception occurs when people:"
+   },
+   "o": [
+    "Choose the best channel for a message",
+    "Ignore or distort incoming information to fit their preconceived notions of reality",
+    "Remember only information stored in long-term memory",
+    "Filter messages using email rules"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 17 notes: selective perception = ignoring or distorting information to fit preconceived notions.",
+    "ms": "Nota slaid 17: persepsi terpilih = mengabaikan atau memutarbelit maklumat."
+   }
+  },
+  {
+   "id": "q33",
+   "t": "process",
+   "q": {
+    "en": "A manager always sends meeting notices by email. Suddenly she posts them on a blog without telling anyone, and many staff miss them. Which guideline for helping audiences receive messages did she ignore?",
+    "ms": "A manager always sends meeting notices by email. Suddenly she posts them on a blog without telling anyone, and many staff miss them. Which guideline for helping audiences receive messages did she ignore?"
+   },
+   "o": [
+    "Practice empathy",
+    "Design for compatibility",
+    "Consider audience expectations",
+    "Emphasize familiarity"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 16 notes: deliver messages using the media and channels the audience expects.",
+    "ms": "Nota slaid 16: guna media dan saluran yang dijangka audiens."
+   }
+  },
+  {
    "id": "q11",
    "t": "mind",
    "q": {
@@ -1627,6 +1741,25 @@
    }
   },
   {
+   "id": "q34",
+   "t": "mobile",
+   "q": {
+    "en": "The “bring your own device” (BYOD) phenomenon mainly raises which mobile communication challenge?",
+    "ms": "The “bring your own device” (BYOD) phenomenon mainly raises which mobile communication challenge?"
+   },
+   "o": [
+    "Small displays",
+    "Changes in traditional grammar",
+    "Constant connectivity",
+    "Security and privacy concerns"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 25. Personal devices lack the rigorous security controls corporate networks need.",
+    "ms": "Slaid 25. Peranti peribadi tidak mempunyai kawalan keselamatan yang diperlukan rangkaian korporat."
+   }
+  },
+  {
    "id": "q18",
    "t": "tech",
    "q": {
@@ -1681,6 +1814,25 @@
    "e": {
     "en": "Technology is an aid, not a replacement.",
     "ms": "Teknologi ialah bantuan, bukan pengganti."
+   }
+  },
+  {
+   "id": "q38",
+   "t": "tech",
+   "q": {
+    "en": "Which is NOT recommended for guarding against information overload?",
+    "ms": "Which is NOT recommended for guarding against information overload?"
+   },
+   "o": [
+    "Use the filtering features of your communication systems",
+    "Avoid sending unnecessary messages",
+    "Subscribe to as many information streams as possible to stay informed",
+    "Mark and save important messages"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 28, 32. Be wary of subscribing to too many streams; manage subscriptions.",
+    "ms": "Slaid 28, 32. Berhati-hati dengan terlalu banyak langganan; urus langganan."
    }
   },
   {
@@ -1817,139 +1969,6 @@
    }
   },
   {
-   "id": "q28",
-   "t": "matters",
-   "q": {
-    "en": "In which role are communication skills said to be important?",
-    "ms": "Dalam peranan mana kemahiran komunikasi dikatakan penting?"
-   },
-   "o": [
-    "Employee, executive, consultant, freelancer or entrepreneur",
-    "Only freelancers",
-    "Only executives",
-    "Only sales staff"
-   ],
-   "a": 0,
-   "e": {
-    "en": "Slide 5 lists all of these roles.",
-    "ms": "Slaid 5 menyenaraikan semua peranan ini."
-   }
-  },
-  {
-   "id": "q29",
-   "t": "matters",
-   "q": {
-    "en": "Communication is best defined as:",
-    "ms": "Communication is best defined as:"
-   },
-   "o": [
-    "The process of sending written messages through formal channels",
-    "The process of transferring information and meaning between senders and receivers",
-    "The process of persuading an audience to accept the sender’s view",
-    "The process of storing information for future retrieval"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Slide 4 notes: communication transfers information and meaning between senders and receivers.",
-    "ms": "Nota slaid 4: komunikasi memindahkan maklumat dan makna antara penghantar dan penerima."
-   }
-  },
-  {
-   "id": "q30",
-   "t": "matters",
-   "q": {
-    "en": "In Figure 1.1, a receiver reacts negatively to the word “think” and creates her own meaning that “everything probably is not fine.” This shows:",
-    "ms": "In Figure 1.1, a receiver reacts negatively to the word “think” and creates her own meaning that “everything probably is not fine.” This shows:"
-   },
-   "o": [
-    "The sender’s meaning transmitted intact",
-    "Meaning negotiated through discussion",
-    "Meaning created by the receiver because of an emotional reaction",
-    "A channel breakdown"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Bottom exchange of Figure 1.1: negative emotional reaction leads the receiver to create her own meaning.",
-    "ms": "Pertukaran bawah Rajah 1.1: reaksi emosi negatif menyebabkan penerima mencipta makna sendiri."
-   }
-  },
-  {
-   "id": "q31",
-   "t": "matters",
-   "q": {
-    "en": "All of the following are ways effective communication helps a company EXCEPT:",
-    "ms": "All of the following are ways effective communication helps a company EXCEPT:"
-   },
-   "o": [
-    "Building trust",
-    "Closer ties to the community",
-    "Increased productivity",
-    "Removing the need for employees to listen actively"
-   ],
-   "a": 3,
-   "e": {
-    "en": "The six benefits are trust, community ties, client relations, productivity, marketing and sales, employee relations.",
-    "ms": "Enam manfaat: kepercayaan, komuniti, pelanggan, produktiviti, pemasaran, pekerja."
-   }
-  },
-  {
-   "id": "q32",
-   "t": "mind",
-   "q": {
-    "en": "Selective perception occurs when people:",
-    "ms": "Selective perception occurs when people:"
-   },
-   "o": [
-    "Choose the best channel for a message",
-    "Ignore or distort incoming information to fit their preconceived notions of reality",
-    "Remember only information stored in long-term memory",
-    "Filter messages using email rules"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Slide 17 notes: selective perception = ignoring or distorting information to fit preconceived notions.",
-    "ms": "Nota slaid 17: persepsi terpilih = mengabaikan atau memutarbelit maklumat."
-   }
-  },
-  {
-   "id": "q33",
-   "t": "mind",
-   "q": {
-    "en": "A manager always sends meeting notices by email. Suddenly she posts them on a blog without telling anyone, and many staff miss them. Which guideline for helping audiences receive messages did she ignore?",
-    "ms": "A manager always sends meeting notices by email. Suddenly she posts them on a blog without telling anyone, and many staff miss them. Which guideline for helping audiences receive messages did she ignore?"
-   },
-   "o": [
-    "Practice empathy",
-    "Design for compatibility",
-    "Consider audience expectations",
-    "Emphasize familiarity"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Slide 16 notes: deliver messages using the media and channels the audience expects.",
-    "ms": "Nota slaid 16: guna media dan saluran yang dijangka audiens."
-   }
-  },
-  {
-   "id": "q34",
-   "t": "mobile",
-   "q": {
-    "en": "The “bring your own device” (BYOD) phenomenon mainly raises which mobile communication challenge?",
-    "ms": "The “bring your own device” (BYOD) phenomenon mainly raises which mobile communication challenge?"
-   },
-   "o": [
-    "Small displays",
-    "Changes in traditional grammar",
-    "Constant connectivity",
-    "Security and privacy concerns"
-   ],
-   "a": 3,
-   "e": {
-    "en": "Personal devices lack the rigorous security controls corporate networks need.",
-    "ms": "Peranti peribadi tidak mempunyai kawalan keselamatan yang diperlukan rangkaian korporat."
-   }
-  },
-  {
    "id": "q35",
    "t": "ethics",
    "q": {
@@ -1964,8 +1983,8 @@
    ],
    "a": 2,
    "e": {
-    "en": "A lapse is a clearly unethical choice; a dilemma is not clear-cut.",
-    "ms": "Lapse = pilihan jelas tidak beretika; dilema = tidak jelas."
+    "en": "Slide 33. A lapse is a clearly unethical choice; a dilemma is not clear-cut.",
+    "ms": "Slaid 33. Lapse = pilihan jelas tidak beretika; dilema = tidak jelas."
    }
   },
   {
@@ -1983,8 +2002,8 @@
    ],
    "a": 0,
    "e": {
-    "en": "Stealth marketing lacks transparency; the FTC calls it deceptive.",
-    "ms": "Pemasaran senyap tiada ketelusan; FTC menganggapnya menipu."
+    "en": "Slide 32. Stealth marketing lacks transparency; the FTC calls it deceptive.",
+    "ms": "Slaid 32. Pemasaran senyap tiada ketelusan; FTC menganggapnya menipu."
    }
   },
   {
@@ -2004,25 +2023,6 @@
    "e": {
     "en": "Slide 39. Code of ethics and ethics audits belong under policies and structures.",
     "ms": "Slaid 39. Kod etika dan audit etika di bawah dasar dan struktur."
-   }
-  },
-  {
-   "id": "q38",
-   "t": "tech",
-   "q": {
-    "en": "Which is NOT recommended for guarding against information overload?",
-    "ms": "Which is NOT recommended for guarding against information overload?"
-   },
-   "o": [
-    "Use the filtering features of your communication systems",
-    "Avoid sending unnecessary messages",
-    "Subscribe to as many information streams as possible to stay informed",
-    "Mark and save important messages"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Be wary of subscribing to too many streams; manage subscriptions.",
-    "ms": "Berhati-hati dengan terlalu banyak langganan; urus langganan."
    }
   }
  ],

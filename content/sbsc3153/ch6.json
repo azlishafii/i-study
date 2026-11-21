@@ -1062,6 +1062,44 @@
    }
   },
   {
+   "id": "q21",
+   "t": "revise",
+   "q": {
+    "en": "Which question checks the “you” attitude?",
+    "ms": "Soalan mana menyemak sikap “you”?"
+   },
+   "o": [
+    "Is the font large?",
+    "Is the paper white?",
+    "Does the writing demonstrate the “you” attitude toward the audience?",
+    "Is the date correct?"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 9.",
+    "ms": "Slaid 9."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "revise",
+   "q": {
+    "en": "When revising a complex message, you should start with:",
+    "ms": "When revising a complex message, you should start with:"
+   },
+   "o": [
+    "Proofreading for typographical errors",
+    "The “big picture”: content, organization, style and tone",
+    "Choosing typefaces",
+    "Distribution method"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 5–6. Start with the big picture before readability, clarity and conciseness.",
+    "ms": "Slaid 5–6. Mulakan dengan gambaran besar sebelum kebolehbacaan dan kejelasan."
+   }
+  },
+  {
    "id": "q4",
    "t": "readable",
    "q": {
@@ -1135,6 +1173,101 @@
    "e": {
     "en": "Lists highlight sequences and set off important ideas.",
     "ms": "Senarai serlahkan urutan dan idea penting."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "readable",
+   "q": {
+    "en": "Headings do all EXCEPT:",
+    "ms": "Tajuk melakukan semua KECUALI:"
+   },
+   "o": [
+    "Group related paragraphs",
+    "Grab attention",
+    "Replace all content",
+    "Increase understanding"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Headings support content, they don’t replace it.",
+    "ms": "Tajuk menyokong kandungan, bukan menggantikannya."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "readable",
+   "q": {
+    "en": "Which sentence length is generally best for conveying complex ideas or summarizing and previewing information?",
+    "ms": "Which sentence length is generally best for conveying complex ideas or summarizing and previewing information?"
+   },
+   "o": [
+    "Short (up to 15 words)",
+    "Medium (15–25 words)",
+    "Long (over 25 words)",
+    "One-word sentences"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 12. Long sentences convey complex ideas; short are quick to process; medium show relationships.",
+    "ms": "Slaid 12. Ayat panjang sesuai untuk idea kompleks."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "readable",
+   "q": {
+    "en": "Short paragraphs are generally defined as:",
+    "ms": "Short paragraphs are generally defined as:"
+   },
+   "o": [
+    "100 words or fewer",
+    "150 words or fewer",
+    "200 words or fewer",
+    "One sentence only"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 13 notes: 100 words or fewer.",
+    "ms": "Nota slaid 13: 100 patah perkataan atau kurang."
+   }
+  },
+  {
+   "id": "q27",
+   "t": "readable",
+   "q": {
+    "en": "Items in a bulleted list should be:",
+    "ms": "Items in a bulleted list should be:"
+   },
+   "o": [
+    "In alphabetical order",
+    "Written as full paragraphs",
+    "Parallel in grammatical form",
+    "Different in length for variety"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 14. If one item starts with a verb, all should.",
+    "ms": "Slaid 14. Jika satu bermula dengan kata kerja, semua patut begitu."
+   }
+  },
+  {
+   "id": "q28",
+   "t": "readable",
+   "q": {
+    "en": "Which of the following is an informative heading rather than a descriptive heading?",
+    "ms": "Which of the following is an informative heading rather than a descriptive heading?"
+   },
+   "o": [
+    "Cost Considerations",
+    "Production Costs",
+    "Budget Overview",
+    "Redesigning Material Flow to Cut Production Costs"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 15. Informative headings guide readers to think a certain way; descriptive ones only name the topic.",
+    "ms": "Slaid 15. Tajuk informatif memandu pemikiran; deskriptif hanya menamakan topik."
    }
   },
   {
@@ -1214,6 +1347,63 @@
    }
   },
   {
+   "id": "q23",
+   "t": "clarity",
+   "q": {
+    "en": "“Rewrite hedging sentences” aims to:",
+    "ms": "“Rewrite hedging sentences” bertujuan:"
+   },
+   "o": [
+    "Make them clearer and more direct",
+    "Make them longer",
+    "Add jargon",
+    "Remove all verbs"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Hedging makes writing vague.",
+    "ms": "Hedging menjadikan tulisan kabur."
+   }
+  },
+  {
+   "id": "q29",
+   "t": "clarity",
+   "q": {
+    "en": "“The committee made a decision to conduct an investigation of the incident.” Which editing step improves this sentence most directly?",
+    "ms": "“The committee made a decision to conduct an investigation of the incident.” Which editing step improves this sentence most directly?"
+   },
+   "o": [
+    "Correcting a dangling modifier",
+    "Replacing camouflaged verbs (“decided” / “investigate”)",
+    "Rewriting a hedging sentence",
+    "Clarifying an awkward reference"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 18. “Made a decision” and “conduct an investigation” hide the verbs decide and investigate.",
+    "ms": "Slaid 18. “Made a decision” dan “conduct an investigation” menyembunyikan kata kerja."
+   }
+  },
+  {
+   "id": "q30",
+   "t": "clarity",
+   "q": {
+    "en": "Rewriting “It is believed that the plan will succeed” as “We believe the plan will succeed” is an example of:",
+    "ms": "Rewriting “It is believed that the plan will succeed” as “We believe the plan will succeed” is an example of:"
+   },
+   "o": [
+    "Imposing parallelism",
+    "Rewriting “It is/There are” starters",
+    "Rewording long noun sequences",
+    "Correcting a dangling modifier"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 19. It is shorter and identifies who is doing the believing.",
+    "ms": "Slaid 19. Lebih pendek dan menunjukkan siapa yang percaya."
+   }
+  },
+  {
    "id": "q12",
    "t": "design",
    "q": {
@@ -1268,6 +1458,25 @@
    "e": {
     "en": "Slide 25.",
     "ms": "Slaid 25."
+   }
+  },
+  {
+   "id": "q31",
+   "t": "design",
+   "q": {
+    "en": "A report uses six typefaces, five colors and many decorative borders. Which design principle is violated?",
+    "ms": "A report uses six typefaces, five colors and many decorative borders. Which design principle is violated?"
+   },
+   "o": [
+    "Consistency",
+    "Balance",
+    "Restraint",
+    "Detail"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 21. Restraint: strive for simplicity, “simpler” and “fewer”.",
+    "ms": "Slaid 21. Restraint: ringkas, “lebih mudah” dan “lebih sedikit”."
    }
   },
   {
@@ -1347,6 +1556,25 @@
    }
   },
   {
+   "id": "q32",
+   "t": "proof",
+   "q": {
+    "en": "Which is a “perceptual trick” used by professional proofreaders?",
+    "ms": "Which is a “perceptual trick” used by professional proofreaders?"
+   },
+   "o": [
+    "Proofreading immediately after finishing the document",
+    "Reading each page backward from the bottom to the top",
+    "Relying on spell-check only",
+    "Reading the document once very quickly"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 27. Others: finger under each word, slit in paper, read aloud.",
+    "ms": "Slaid 27. Lain-lain: jari di bawah perkataan, celah kertas, baca kuat."
+   }
+  },
+  {
    "id": "q19",
    "t": "distrib",
    "q": {
@@ -1385,234 +1613,6 @@
    }
   },
   {
-   "id": "q21",
-   "t": "revise",
-   "q": {
-    "en": "Which question checks the “you” attitude?",
-    "ms": "Soalan mana menyemak sikap “you”?"
-   },
-   "o": [
-    "Is the font large?",
-    "Is the paper white?",
-    "Does the writing demonstrate the “you” attitude toward the audience?",
-    "Is the date correct?"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Slide 9.",
-    "ms": "Slaid 9."
-   }
-  },
-  {
-   "id": "q22",
-   "t": "readable",
-   "q": {
-    "en": "Headings do all EXCEPT:",
-    "ms": "Tajuk melakukan semua KECUALI:"
-   },
-   "o": [
-    "Group related paragraphs",
-    "Grab attention",
-    "Replace all content",
-    "Increase understanding"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Headings support content, they don’t replace it.",
-    "ms": "Tajuk menyokong kandungan, bukan menggantikannya."
-   }
-  },
-  {
-   "id": "q23",
-   "t": "clarity",
-   "q": {
-    "en": "“Rewrite hedging sentences” aims to:",
-    "ms": "“Rewrite hedging sentences” bertujuan:"
-   },
-   "o": [
-    "Make them clearer and more direct",
-    "Make them longer",
-    "Add jargon",
-    "Remove all verbs"
-   ],
-   "a": 0,
-   "e": {
-    "en": "Hedging makes writing vague.",
-    "ms": "Hedging menjadikan tulisan kabur."
-   }
-  },
-  {
-   "id": "q24",
-   "t": "revise",
-   "q": {
-    "en": "When revising a complex message, you should start with:",
-    "ms": "When revising a complex message, you should start with:"
-   },
-   "o": [
-    "Proofreading for typographical errors",
-    "The “big picture”: content, organization, style and tone",
-    "Choosing typefaces",
-    "Distribution method"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Start with the big picture before readability, clarity and conciseness.",
-    "ms": "Mulakan dengan gambaran besar sebelum kebolehbacaan dan kejelasan."
-   }
-  },
-  {
-   "id": "q25",
-   "t": "readable",
-   "q": {
-    "en": "Which sentence length is generally best for conveying complex ideas or summarizing and previewing information?",
-    "ms": "Which sentence length is generally best for conveying complex ideas or summarizing and previewing information?"
-   },
-   "o": [
-    "Short (up to 15 words)",
-    "Medium (15–25 words)",
-    "Long (over 25 words)",
-    "One-word sentences"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Long sentences convey complex ideas; short are quick to process; medium show relationships.",
-    "ms": "Ayat panjang sesuai untuk idea kompleks."
-   }
-  },
-  {
-   "id": "q26",
-   "t": "readable",
-   "q": {
-    "en": "Short paragraphs are generally defined as:",
-    "ms": "Short paragraphs are generally defined as:"
-   },
-   "o": [
-    "100 words or fewer",
-    "150 words or fewer",
-    "200 words or fewer",
-    "One sentence only"
-   ],
-   "a": 0,
-   "e": {
-    "en": "Slide 13 notes: 100 words or fewer.",
-    "ms": "Nota slaid 13: 100 patah perkataan atau kurang."
-   }
-  },
-  {
-   "id": "q27",
-   "t": "readable",
-   "q": {
-    "en": "Items in a bulleted list should be:",
-    "ms": "Items in a bulleted list should be:"
-   },
-   "o": [
-    "In alphabetical order",
-    "Written as full paragraphs",
-    "Parallel in grammatical form",
-    "Different in length for variety"
-   ],
-   "a": 2,
-   "e": {
-    "en": "If one item starts with a verb, all should.",
-    "ms": "Jika satu bermula dengan kata kerja, semua patut begitu."
-   }
-  },
-  {
-   "id": "q28",
-   "t": "readable",
-   "q": {
-    "en": "Which of the following is an informative heading rather than a descriptive heading?",
-    "ms": "Which of the following is an informative heading rather than a descriptive heading?"
-   },
-   "o": [
-    "Cost Considerations",
-    "Production Costs",
-    "Budget Overview",
-    "Redesigning Material Flow to Cut Production Costs"
-   ],
-   "a": 3,
-   "e": {
-    "en": "Informative headings guide readers to think a certain way; descriptive ones only name the topic.",
-    "ms": "Tajuk informatif memandu pemikiran; deskriptif hanya menamakan topik."
-   }
-  },
-  {
-   "id": "q29",
-   "t": "clarity",
-   "q": {
-    "en": "“The committee made a decision to conduct an investigation of the incident.” Which editing step improves this sentence most directly?",
-    "ms": "“The committee made a decision to conduct an investigation of the incident.” Which editing step improves this sentence most directly?"
-   },
-   "o": [
-    "Correcting a dangling modifier",
-    "Replacing camouflaged verbs (“decided” / “investigate”)",
-    "Rewriting a hedging sentence",
-    "Clarifying an awkward reference"
-   ],
-   "a": 1,
-   "e": {
-    "en": "“Made a decision” and “conduct an investigation” hide the verbs decide and investigate.",
-    "ms": "“Made a decision” dan “conduct an investigation” menyembunyikan kata kerja."
-   }
-  },
-  {
-   "id": "q30",
-   "t": "clarity",
-   "q": {
-    "en": "Rewriting “It is believed that the plan will succeed” as “We believe the plan will succeed” is an example of:",
-    "ms": "Rewriting “It is believed that the plan will succeed” as “We believe the plan will succeed” is an example of:"
-   },
-   "o": [
-    "Imposing parallelism",
-    "Rewriting “It is/There are” starters",
-    "Rewording long noun sequences",
-    "Correcting a dangling modifier"
-   ],
-   "a": 1,
-   "e": {
-    "en": "It is shorter and identifies who is doing the believing.",
-    "ms": "Lebih pendek dan menunjukkan siapa yang percaya."
-   }
-  },
-  {
-   "id": "q31",
-   "t": "design",
-   "q": {
-    "en": "A report uses six typefaces, five colors and many decorative borders. Which design principle is violated?",
-    "ms": "A report uses six typefaces, five colors and many decorative borders. Which design principle is violated?"
-   },
-   "o": [
-    "Consistency",
-    "Balance",
-    "Restraint",
-    "Detail"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Restraint: strive for simplicity, “simpler” and “fewer”.",
-    "ms": "Restraint: ringkas, “lebih mudah” dan “lebih sedikit”."
-   }
-  },
-  {
-   "id": "q32",
-   "t": "proof",
-   "q": {
-    "en": "Which is a “perceptual trick” used by professional proofreaders?",
-    "ms": "Which is a “perceptual trick” used by professional proofreaders?"
-   },
-   "o": [
-    "Proofreading immediately after finishing the document",
-    "Reading each page backward from the bottom to the top",
-    "Relying on spell-check only",
-    "Reading the document once very quickly"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Others: finger under each word, slit in paper, read aloud.",
-    "ms": "Lain-lain: jari di bawah perkataan, celah kertas, baca kuat."
-   }
-  },
-  {
    "id": "q33",
    "t": "distrib",
    "q": {
@@ -1627,8 +1627,8 @@
    ],
    "a": 2,
    "e": {
-    "en": "PDFs are more immune to viruses and people are wary of attachments.",
-    "ms": "PDF lebih kebal virus."
+    "en": "Slide 30. PDFs are more immune to viruses and people are wary of attachments.",
+    "ms": "Slaid 30. PDF lebih kebal virus."
    }
   }
  ],

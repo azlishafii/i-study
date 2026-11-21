@@ -993,6 +993,25 @@
    }
   },
   {
+   "id": "q23",
+   "t": "types",
+   "q": {
+    "en": "Research cited in the chapter says visuals can improve learning by up to ___ percent.",
+    "ms": "Research cited in the chapter says visuals can improve learning by up to ___ percent."
+   },
+   "o": [
+    "40",
+    "100",
+    "400",
+    "4,000"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 4. Visuals can improve learning by up to 400% because humans process them 60,000 times faster than text.",
+    "ms": "Slaid 4. Visual boleh menambah pembelajaran sehingga 400%."
+   }
+  },
+  {
    "id": "q3",
    "t": "structured",
    "q": {
@@ -1028,6 +1047,44 @@
    "e": {
     "en": "Text-heavy slides and repetitive appearance.",
     "ms": "Padat teks dan rupa berulang."
+   }
+  },
+  {
+   "id": "q22",
+   "t": "structured",
+   "q": {
+    "en": "Which is a structured-slide disadvantage?",
+    "ms": "Yang mana kekurangan slaid berstruktur?"
+   },
+   "o": [
+    "Repetitive appearance",
+    "Templates available",
+    "Easy to create",
+    "Complex ideas"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 8.",
+    "ms": "Slaid 8."
+   }
+  },
+  {
+   "id": "q24",
+   "t": "structured",
+   "q": {
+    "en": "A major advantage of structured slides is that they:",
+    "ms": "A major advantage of structured slides is that they:"
+   },
+   "o": [
+    "Never become repetitive",
+    "Are easy to create, and can convey complex or interrelated data",
+    "Always hold audience attention",
+    "Require no templates"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 8. Disadvantages: text-heavy, repetitive appearance.",
+    "ms": "Slaid 8. Kelemahan: padat teks dan berulang."
    }
   },
   {
@@ -1104,6 +1161,44 @@
    "e": {
     "en": "Slide 13.",
     "ms": "Slaid 13."
+   }
+  },
+  {
+   "id": "q25",
+   "t": "design",
+   "q": {
+    "en": "“Slideument” hybrids are ineffective because they:",
+    "ms": "“Slideument” hybrids are ineffective because they:"
+   },
+   "o": [
+    "Use too many animations",
+    "Have too much information to be good visuals and too little to be good reports",
+    "Are always free-form",
+    "Cannot be printed"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 10. Better: effective slides plus a separate handout.",
+    "ms": "Slaid 10. Lebih baik: slaid berkesan dan handout berasingan."
+   }
+  },
+  {
+   "id": "q26",
+   "t": "design",
+   "q": {
+    "en": "A guideline for typefaces on slides is to:",
+    "ms": "A guideline for typefaces on slides is to:"
+   },
+   "o": [
+    "Use script and decorative typefaces for emphasis",
+    "Use ALL CAPITALS for headings",
+    "Limit the number of typefaces to one or two per slide",
+    "Use italics for most text"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 12. Avoid script/decorative, ALL CAPS and most italics.",
+    "ms": "Slaid 12. Elak skrip/hiasan, HURUF BESAR dan kebanyakan italik."
    }
   },
   {
@@ -1221,6 +1316,63 @@
    }
   },
   {
+   "id": "q21",
+   "t": "content",
+   "q": {
+    "en": "Using “active voice” on slides makes text:",
+    "ms": "Menggunakan “active voice” pada slaid menjadikan teks:"
+   },
+   "o": [
+    "More passive",
+    "Longer",
+    "More direct",
+    "Less readable"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 16.",
+    "ms": "Slaid 16."
+   }
+  },
+  {
+   "id": "q27",
+   "t": "content",
+   "q": {
+    "en": "Which is a guideline for readable slide text?",
+    "ms": "Which is a guideline for readable slide text?"
+   },
+   "o": [
+    "Limit each slide to one thought, concept or idea",
+    "Write long, complete sentences",
+    "Use many text-heavy slides in a row",
+    "Use passive voice for formality"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Slide 15. Also 4–5 lines of 4–5 words, parallel form, active voice.",
+    "ms": "Slaid 15. Juga 4–5 baris, 4–5 patah, selari, ayat aktif."
+   }
+  },
+  {
+   "id": "q28",
+   "t": "content",
+   "q": {
+    "en": "For charts on slides, line charts look busy when they have more than:",
+    "ms": "For charts on slides, line charts look busy when they have more than:"
+   },
+   "o": [
+    "One line",
+    "Two or three lines",
+    "Seven lines",
+    "Ten lines"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 17. Bar charts look crowded with more than five or six bars.",
+    "ms": "Slaid 17. Carta bar sesak dengan lebih 5 atau 6 bar."
+   }
+  },
+  {
    "id": "q15",
    "t": "complete",
    "q": {
@@ -1335,158 +1487,6 @@
    }
   },
   {
-   "id": "q21",
-   "t": "content",
-   "q": {
-    "en": "Using “active voice” on slides makes text:",
-    "ms": "Menggunakan “active voice” pada slaid menjadikan teks:"
-   },
-   "o": [
-    "More passive",
-    "Longer",
-    "More direct",
-    "Less readable"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Slide 16.",
-    "ms": "Slaid 16."
-   }
-  },
-  {
-   "id": "q22",
-   "t": "structured",
-   "q": {
-    "en": "Which is a structured-slide disadvantage?",
-    "ms": "Yang mana kekurangan slaid berstruktur?"
-   },
-   "o": [
-    "Repetitive appearance",
-    "Templates available",
-    "Easy to create",
-    "Complex ideas"
-   ],
-   "a": 0,
-   "e": {
-    "en": "Slide 8.",
-    "ms": "Slaid 8."
-   }
-  },
-  {
-   "id": "q23",
-   "t": "types",
-   "q": {
-    "en": "Research cited in the chapter says visuals can improve learning by up to ___ percent.",
-    "ms": "Research cited in the chapter says visuals can improve learning by up to ___ percent."
-   },
-   "o": [
-    "40",
-    "100",
-    "400",
-    "4,000"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Visuals can improve learning by up to 400% because humans process them 60,000 times faster than text.",
-    "ms": "Visual boleh menambah pembelajaran sehingga 400%."
-   }
-  },
-  {
-   "id": "q24",
-   "t": "structured",
-   "q": {
-    "en": "A major advantage of structured slides is that they:",
-    "ms": "A major advantage of structured slides is that they:"
-   },
-   "o": [
-    "Never become repetitive",
-    "Are easy to create, and can convey complex or interrelated data",
-    "Always hold audience attention",
-    "Require no templates"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Disadvantages: text-heavy, repetitive appearance.",
-    "ms": "Kelemahan: padat teks dan berulang."
-   }
-  },
-  {
-   "id": "q25",
-   "t": "design",
-   "q": {
-    "en": "“Slideument” hybrids are ineffective because they:",
-    "ms": "“Slideument” hybrids are ineffective because they:"
-   },
-   "o": [
-    "Use too many animations",
-    "Have too much information to be good visuals and too little to be good reports",
-    "Are always free-form",
-    "Cannot be printed"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Better: effective slides plus a separate handout.",
-    "ms": "Lebih baik: slaid berkesan dan handout berasingan."
-   }
-  },
-  {
-   "id": "q26",
-   "t": "design",
-   "q": {
-    "en": "A guideline for typefaces on slides is to:",
-    "ms": "A guideline for typefaces on slides is to:"
-   },
-   "o": [
-    "Use script and decorative typefaces for emphasis",
-    "Use ALL CAPITALS for headings",
-    "Limit the number of typefaces to one or two per slide",
-    "Use italics for most text"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Avoid script/decorative, ALL CAPS and most italics.",
-    "ms": "Elak skrip/hiasan, HURUF BESAR dan kebanyakan italik."
-   }
-  },
-  {
-   "id": "q27",
-   "t": "content",
-   "q": {
-    "en": "Which is a guideline for readable slide text?",
-    "ms": "Which is a guideline for readable slide text?"
-   },
-   "o": [
-    "Limit each slide to one thought, concept or idea",
-    "Write long, complete sentences",
-    "Use many text-heavy slides in a row",
-    "Use passive voice for formality"
-   ],
-   "a": 0,
-   "e": {
-    "en": "Also 4–5 lines of 4–5 words, parallel form, active voice.",
-    "ms": "Juga 4–5 baris, 4–5 patah, selari, ayat aktif."
-   }
-  },
-  {
-   "id": "q28",
-   "t": "content",
-   "q": {
-    "en": "For charts on slides, line charts look busy when they have more than:",
-    "ms": "For charts on slides, line charts look busy when they have more than:"
-   },
-   "o": [
-    "One line",
-    "Two or three lines",
-    "Seven lines",
-    "Ten lines"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Bar charts look crowded with more than five or six bars.",
-    "ms": "Carta bar sesak dengan lebih 5 atau 6 bar."
-   }
-  },
-  {
    "id": "q29",
    "t": "complete",
    "q": {
@@ -1501,8 +1501,8 @@
    ],
    "a": 2,
    "e": {
-    "en": "Alternative: a bumper slide at each section break.",
-    "ms": "Alternatif: bumper slide pada setiap pemisah."
+    "en": "Slide 23. Alternative: a bumper slide at each section break.",
+    "ms": "Slaid 23. Alternatif: bumper slide pada setiap pemisah."
    }
   },
   {

@@ -1696,6 +1696,25 @@
    }
   },
   {
+   "id": "q28",
+   "t": "proscons",
+   "q": {
+    "en": "Groupthink occurs when:",
+    "ms": "Groupthink occurs when:"
+   },
+   "o": [
+    "Team members compete for limited resources",
+    "Peer pressure causes members to withhold contrary or unpopular opinions",
+    "A member pursues a private, counterproductive motive",
+    "Too many team assignments overload employees"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 7 notes. The other options describe conflict, hidden agenda and overload.",
+    "ms": "Nota slaid 7. Pilihan lain ialah konflik, agenda tersembunyi dan beban."
+   }
+  },
+  {
    "id": "q6",
    "t": "dynamics",
    "q": {
@@ -1810,6 +1829,63 @@
    }
   },
   {
+   "id": "q29",
+   "t": "dynamics",
+   "q": {
+    "en": "A team member keeps steering the discussion toward topics that interest him personally rather than the task. Which dysfunctional, self-oriented role is he playing?",
+    "ms": "A team member keeps steering the discussion toward topics that interest him personally rather than the task. Which dysfunctional, self-oriented role is he playing?"
+   },
+   "o": [
+    "Controlling",
+    "Withdrawing",
+    "Attention seeking",
+    "Diverting"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 10. Diverting: focusing discussion on topics of personal interest rather than relevant to the task.",
+    "ms": "Slaid 10. Diverting: memfokus perbincangan pada minat peribadi."
+   }
+  },
+  {
+   "id": "q30",
+   "t": "dynamics",
+   "q": {
+    "en": "In Tuckman’s model of group development, which phase follows “storming”?",
+    "ms": "In Tuckman’s model of group development, which phase follows “storming”?"
+   },
+   "o": [
+    "Forming",
+    "Norming",
+    "Performing",
+    "Adjourning"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 11. Order: forming, storming, norming, performing, adjourning.",
+    "ms": "Slaid 11. Urutan: forming, storming, norming, performing, adjourning."
+   }
+  },
+  {
+   "id": "q31",
+   "t": "dynamics",
+   "q": {
+    "en": "To resolve conflict by getting opponents to fight together against an “outside force” instead of against each other, a team uses:",
+    "ms": "To resolve conflict by getting opponents to fight together against an “outside force” instead of against each other, a team uses:"
+   },
+   "o": [
+    "Flexibility",
+    "Fair play",
+    "Alliance",
+    "Openness"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 12. Alliance is one of the seven conflict-resolution measures.",
+    "ms": "Slaid 12. Pakatan ialah satu daripada tujuh langkah menyelesaikan konflik."
+   }
+  },
+  {
    "id": "q12",
    "t": "collab",
    "q": {
@@ -1886,6 +1962,44 @@
    }
   },
   {
+   "id": "q32",
+   "t": "collab",
+   "q": {
+    "en": "In collaborative writing, which part of the process does NOT usually benefit from group participation?",
+    "ms": "In collaborative writing, which part of the process does NOT usually benefit from group participation?"
+   },
+   "o": [
+    "Planning",
+    "Researching",
+    "Outlining",
+    "The actual composition"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 16. Plan, research and outline together; assign the writing to one person or divide it.",
+    "ms": "Slaid 16. Rancang, kaji dan buat rangka bersama; penulisan oleh seorang atau dibahagikan."
+   }
+  },
+  {
+   "id": "q33",
+   "t": "collab",
+   "q": {
+    "en": "Which is an example of constructive feedback?",
+    "ms": "Which is an example of constructive feedback?"
+   },
+   "o": [
+    "“This section is confusing.”",
+    "“I don’t get this.”",
+    "“You are not a good writer.”",
+    "“This section could be clearer if you add a short example before the data.”"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 20. Discuss improvements rather than flaws; be specific and keep it impersonal.",
+    "ms": "Slaid 20. Bincang penambahbaikan, bukan kelemahan; spesifik dan tidak peribadi."
+   }
+  },
+  {
    "id": "q16",
    "t": "meetings",
    "q": {
@@ -1940,6 +2054,44 @@
    "e": {
     "en": "Plan extra, know limits, engage participants.",
     "ms": "Rancang lebih, tahu had, libatkan peserta."
+   }
+  },
+  {
+   "id": "q34",
+   "t": "meetings",
+   "q": {
+    "en": "According to the notes, meetings with more than ___ people become unmanageable if everyone is expected to participate.",
+    "ms": "According to the notes, meetings with more than ___ people become unmanageable if everyone is expected to participate."
+   },
+   "o": [
+    "5 or 6",
+    "10 or 12",
+    "20 or 25",
+    "30"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 22 notes: more than 10 or 12 people can become unmanageable.",
+    "ms": "Nota slaid 22: lebih 10 atau 12 orang sukar diurus."
+   }
+  },
+  {
+   "id": "q35",
+   "t": "meetings",
+   "q": {
+    "en": "Telepresence is particularly good for negotiations and complex discussions because it:",
+    "ms": "Telepresence is particularly good for negotiations and complex discussions because it:"
+   },
+   "o": [
+    "Is the cheapest form of virtual meeting",
+    "Does not require any planning",
+    "Conveys nonverbal subtleties such as facial expressions and hand gestures",
+    "Replaces the need for an agenda"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 27 notes.",
+    "ms": "Nota slaid 27."
    }
   },
   {
@@ -2000,6 +2152,44 @@
    }
   },
   {
+   "id": "q36",
+   "t": "listen",
+   "q": {
+    "en": "The goal of critical listening is to:",
+    "ms": "The goal of critical listening is to:"
+   },
+   "o": [
+    "Understand and retain information without evaluating it",
+    "Understand the speaker’s feelings, needs and wants",
+    "Understand and evaluate the logic, evidence, conclusions and motives of the message",
+    "Turn off your own filters and biases"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 30. The first is content listening, the second empathic, the last active listening.",
+    "ms": "Slaid 30. Pertama ialah mendengar kandungan, kedua empati, terakhir aktif."
+   }
+  },
+  {
+   "id": "q37",
+   "t": "listen",
+   "q": {
+    "en": "You hear “Well, that’s just lovely” in a sarcastic tone and understand it to mean the opposite. In the listening process, this occurs at the ___ stage.",
+    "ms": "You hear “Well, that’s just lovely” in a sarcastic tone and understand it to mean the opposite. In the listening process, this occurs at the ___ stage."
+   },
+   "o": [
+    "Receiving",
+    "Decoding",
+    "Remembering",
+    "Evaluating"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 31. Decoding assigns meaning using tone, nonverbal signals, beliefs and expectations.",
+    "ms": "Slaid 31. Menyahkod memberi makna menggunakan nada dan isyarat."
+   }
+  },
+  {
    "id": "q22",
    "t": "nonverbal",
    "q": {
@@ -2035,6 +2225,25 @@
    "e": {
     "en": "Vocal characteristics.",
     "ms": "Ciri vokal."
+   }
+  },
+  {
+   "id": "q38",
+   "t": "nonverbal",
+   "q": {
+    "en": "Which of the following is NOT one of the six categories of nonverbal communication?",
+    "ms": "Which of the following is NOT one of the six categories of nonverbal communication?"
+   },
+   "o": [
+    "Facial expression",
+    "Touch",
+    "Time and space",
+    "Written words"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Slide 35. The six: facial expression, gesture and posture, vocal characteristics, personal appearance, touch, time and space.",
+    "ms": "Slaid 35. Enam: riak wajah, gerak isyarat dan postur, ciri vokal, penampilan, sentuhan, masa dan ruang."
    }
   },
   {
@@ -2114,215 +2323,6 @@
    }
   },
   {
-   "id": "q28",
-   "t": "proscons",
-   "q": {
-    "en": "Groupthink occurs when:",
-    "ms": "Groupthink occurs when:"
-   },
-   "o": [
-    "Team members compete for limited resources",
-    "Peer pressure causes members to withhold contrary or unpopular opinions",
-    "A member pursues a private, counterproductive motive",
-    "Too many team assignments overload employees"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Slide 7 notes. The other options describe conflict, hidden agenda and overload.",
-    "ms": "Nota slaid 7. Pilihan lain ialah konflik, agenda tersembunyi dan beban."
-   }
-  },
-  {
-   "id": "q29",
-   "t": "dynamics",
-   "q": {
-    "en": "A team member keeps steering the discussion toward topics that interest him personally rather than the task. Which dysfunctional, self-oriented role is he playing?",
-    "ms": "A team member keeps steering the discussion toward topics that interest him personally rather than the task. Which dysfunctional, self-oriented role is he playing?"
-   },
-   "o": [
-    "Controlling",
-    "Withdrawing",
-    "Attention seeking",
-    "Diverting"
-   ],
-   "a": 3,
-   "e": {
-    "en": "Diverting: focusing discussion on topics of personal interest rather than relevant to the task.",
-    "ms": "Diverting: memfokus perbincangan pada minat peribadi."
-   }
-  },
-  {
-   "id": "q30",
-   "t": "dynamics",
-   "q": {
-    "en": "In Tuckman’s model of group development, which phase follows “storming”?",
-    "ms": "In Tuckman’s model of group development, which phase follows “storming”?"
-   },
-   "o": [
-    "Forming",
-    "Norming",
-    "Performing",
-    "Adjourning"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Order: forming, storming, norming, performing, adjourning.",
-    "ms": "Urutan: forming, storming, norming, performing, adjourning."
-   }
-  },
-  {
-   "id": "q31",
-   "t": "dynamics",
-   "q": {
-    "en": "To resolve conflict by getting opponents to fight together against an “outside force” instead of against each other, a team uses:",
-    "ms": "To resolve conflict by getting opponents to fight together against an “outside force” instead of against each other, a team uses:"
-   },
-   "o": [
-    "Flexibility",
-    "Fair play",
-    "Alliance",
-    "Openness"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Alliance is one of the seven conflict-resolution measures.",
-    "ms": "Pakatan ialah satu daripada tujuh langkah menyelesaikan konflik."
-   }
-  },
-  {
-   "id": "q32",
-   "t": "collab",
-   "q": {
-    "en": "In collaborative writing, which part of the process does NOT usually benefit from group participation?",
-    "ms": "In collaborative writing, which part of the process does NOT usually benefit from group participation?"
-   },
-   "o": [
-    "Planning",
-    "Researching",
-    "Outlining",
-    "The actual composition"
-   ],
-   "a": 3,
-   "e": {
-    "en": "Plan, research and outline together; assign the writing to one person or divide it.",
-    "ms": "Rancang, kaji dan buat rangka bersama; penulisan oleh seorang atau dibahagikan."
-   }
-  },
-  {
-   "id": "q33",
-   "t": "collab",
-   "q": {
-    "en": "Which is an example of constructive feedback?",
-    "ms": "Which is an example of constructive feedback?"
-   },
-   "o": [
-    "“This section is confusing.”",
-    "“I don’t get this.”",
-    "“You are not a good writer.”",
-    "“This section could be clearer if you add a short example before the data.”"
-   ],
-   "a": 3,
-   "e": {
-    "en": "Discuss improvements rather than flaws; be specific and keep it impersonal.",
-    "ms": "Bincang penambahbaikan, bukan kelemahan; spesifik dan tidak peribadi."
-   }
-  },
-  {
-   "id": "q34",
-   "t": "meetings",
-   "q": {
-    "en": "According to the notes, meetings with more than ___ people become unmanageable if everyone is expected to participate.",
-    "ms": "According to the notes, meetings with more than ___ people become unmanageable if everyone is expected to participate."
-   },
-   "o": [
-    "5 or 6",
-    "10 or 12",
-    "20 or 25",
-    "30"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Slide 22 notes: more than 10 or 12 people can become unmanageable.",
-    "ms": "Nota slaid 22: lebih 10 atau 12 orang sukar diurus."
-   }
-  },
-  {
-   "id": "q35",
-   "t": "meetings",
-   "q": {
-    "en": "Telepresence is particularly good for negotiations and complex discussions because it:",
-    "ms": "Telepresence is particularly good for negotiations and complex discussions because it:"
-   },
-   "o": [
-    "Is the cheapest form of virtual meeting",
-    "Does not require any planning",
-    "Conveys nonverbal subtleties such as facial expressions and hand gestures",
-    "Replaces the need for an agenda"
-   ],
-   "a": 2,
-   "e": {
-    "en": "Slide 27 notes.",
-    "ms": "Nota slaid 27."
-   }
-  },
-  {
-   "id": "q36",
-   "t": "listen",
-   "q": {
-    "en": "The goal of critical listening is to:",
-    "ms": "The goal of critical listening is to:"
-   },
-   "o": [
-    "Understand and retain information without evaluating it",
-    "Understand the speaker’s feelings, needs and wants",
-    "Understand and evaluate the logic, evidence, conclusions and motives of the message",
-    "Turn off your own filters and biases"
-   ],
-   "a": 2,
-   "e": {
-    "en": "The first is content listening, the second empathic, the last active listening.",
-    "ms": "Pertama ialah mendengar kandungan, kedua empati, terakhir aktif."
-   }
-  },
-  {
-   "id": "q37",
-   "t": "listen",
-   "q": {
-    "en": "You hear “Well, that’s just lovely” in a sarcastic tone and understand it to mean the opposite. In the listening process, this occurs at the ___ stage.",
-    "ms": "You hear “Well, that’s just lovely” in a sarcastic tone and understand it to mean the opposite. In the listening process, this occurs at the ___ stage."
-   },
-   "o": [
-    "Receiving",
-    "Decoding",
-    "Remembering",
-    "Evaluating"
-   ],
-   "a": 1,
-   "e": {
-    "en": "Decoding assigns meaning using tone, nonverbal signals, beliefs and expectations.",
-    "ms": "Menyahkod memberi makna menggunakan nada dan isyarat."
-   }
-  },
-  {
-   "id": "q38",
-   "t": "nonverbal",
-   "q": {
-    "en": "Which of the following is NOT one of the six categories of nonverbal communication?",
-    "ms": "Which of the following is NOT one of the six categories of nonverbal communication?"
-   },
-   "o": [
-    "Facial expression",
-    "Touch",
-    "Time and space",
-    "Written words"
-   ],
-   "a": 3,
-   "e": {
-    "en": "The six: facial expression, gesture and posture, vocal characteristics, personal appearance, touch, time and space.",
-    "ms": "Enam: riak wajah, gerak isyarat dan postur, ciri vokal, penampilan, sentuhan, masa dan ruang."
-   }
-  },
-  {
    "id": "q39",
    "t": "etiq",
    "q": {
@@ -2337,8 +2337,8 @@
    ],
    "a": 2,
    "e": {
-    "en": "Don’t assume “available” means ready to chat; never assume privacy.",
-    "ms": "Jangan anggap “available” bermakna bersedia; jangan anggap privasi."
+    "en": "Slide 43. Don’t assume “available” means ready to chat; never assume privacy.",
+    "ms": "Slaid 43. Jangan anggap “available” bermakna bersedia; jangan anggap privasi."
    }
   }
  ],
