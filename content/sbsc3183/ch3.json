@@ -2430,6 +2430,20 @@
       },
       {
        "en": [
+        "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
+        "",
+        "438,500",
+        ""
+       ],
+       "ms": [
+        "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
+        "",
+        "438,500",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Forfeited deposit (buyer declined to buy the land)",
         "",
         "92,000",
@@ -2472,6 +2486,34 @@
       },
       {
        "en": [
+        "Selling: unrealised forex gain on loan to subsidiary 200,000",
+        "",
+        "200,000",
+        ""
+       ],
+       "ms": [
+        "Jualan: untung tukaran asing belum nyata pinjaman anak syarikat 200,000",
+        "",
+        "200,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ADD: NON-ALLOWABLE EXPENSES",
+        "867,800",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
+        "867,800",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Cost of sales: air-conditioner installation",
         "1,800",
         "",
@@ -2486,90 +2528,6 @@
       },
       {
        "en": [
-        "Cost of sales: trademark registration in Vietnam (for export)",
-        "",
-        "168,886",
-        ""
-       ],
-       "ms": [
-        "Kos jualan: pendaftaran tanda dagangan di Vietnam (eksport)",
-        "",
-        "168,886",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Cost of sales: import duty and sales tax",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Kos jualan: duti import dan cukai jualan",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Remuneration: retrenchment compensation 54,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Saraan: pampasan pemberhentian 54,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Remuneration: disabled employees 56,000",
-        "",
-        "56,000",
-        ""
-       ],
-       "ms": [
-        "Saraan: pekerja OKU 56,000",
-        "",
-        "56,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Remuneration: yearly staff and family trip to Korea 24,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Saraan: lawatan tahunan staf dan keluarga ke Korea 24,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Legal: tax filing and secretarial 13,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Guaman: pemfailan cukai dan setiausaha 13,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Legal: drafting hire purchase agreement 15,000",
         "15,000",
         "",
@@ -2578,20 +2536,6 @@
        "ms": [
         "Guaman: penyediaan perjanjian sewa beli 15,000",
         "15,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Legal: collecting trade debts 37,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Guaman: kutipan hutang dagangan 37,000",
-        "Nil",
         "",
         ""
        ]
@@ -2626,48 +2570,6 @@
       },
       {
        "en": [
-        "Repair: office renovation for disabled employees 10,500",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Baik pulih: ubah suai pejabat untuk pekerja OKU 10,500",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Lease: lorry 140,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Sewa: lori 140,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Lease: motor car 1, 30,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Sewa: kereta 1, 30,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Lease: motor car 2, 80,000",
         "30,000",
         "",
@@ -2676,20 +2578,6 @@
        "ms": [
         "Sewa: kereta 2, 80,000",
         "30,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Bad debts: trade debts written off 105,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Hutang lapuk: hutang dagangan dihapus kira 105,000",
-        "Nil",
         "",
         ""
        ]
@@ -2752,48 +2640,6 @@
       },
       {
        "en": [
-        "Library contribution 102,000 (limit 100,000)",
-        "",
-        "100,000",
-        ""
-       ],
-       "ms": [
-        "Sumbangan perpustakaan 102,000 (had 100,000)",
-        "",
-        "100,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Selling: realised forex loss, trade 90,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Jualan: rugi tukaran asing nyata, dagangan 90,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Selling: unrealised forex gain on loan to subsidiary 200,000",
-        "",
-        "200,000",
-        ""
-       ],
-       "ms": [
-        "Jualan: untung tukaran asing belum nyata pinjaman anak syarikat 200,000",
-        "",
-        "200,000",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Selling: unrealised forex loss, raw materials 9,000",
         "9,000",
         "",
@@ -2816,6 +2662,216 @@
        "ms": [
         "Jualan: rugi tukaran asing belum nyata, jualan peti sejuk 62,000",
         "62,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
+        "",
+        "324,886",
+        ""
+       ],
+       "ms": [
+        "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
+        "",
+        "324,886",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Cost of sales: trademark registration in Vietnam (for export)",
+        "",
+        "168,886",
+        ""
+       ],
+       "ms": [
+        "Kos jualan: pendaftaran tanda dagangan di Vietnam (eksport)",
+        "",
+        "168,886",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Remuneration: disabled employees 56,000",
+        "",
+        "56,000",
+        ""
+       ],
+       "ms": [
+        "Saraan: pekerja OKU 56,000",
+        "",
+        "56,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Library contribution 102,000 (limit 100,000)",
+        "",
+        "100,000",
+        ""
+       ],
+       "ms": [
+        "Sumbangan perpustakaan 102,000 (had 100,000)",
+        "",
+        "100,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ALLOWABLE EXPENSES: NO ADJUSTMENT",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "PERBELANJAAN DIBENARKAN: TIADA PELARASAN",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Cost of sales: import duty and sales tax",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Kos jualan: duti import dan cukai jualan",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Remuneration: retrenchment compensation 54,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Saraan: pampasan pemberhentian 54,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Remuneration: yearly staff and family trip to Korea 24,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Saraan: lawatan tahunan staf dan keluarga ke Korea 24,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Legal: tax filing and secretarial 13,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Guaman: pemfailan cukai dan setiausaha 13,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Legal: collecting trade debts 37,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Guaman: kutipan hutang dagangan 37,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Repair: office renovation for disabled employees 10,500",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Baik pulih: ubah suai pejabat untuk pekerja OKU 10,500",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Lease: lorry 140,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Sewa: lori 140,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Lease: motor car 1, 30,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Sewa: kereta 1, 30,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: trade debts written off 105,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Hutang lapuk: hutang dagangan dihapus kira 105,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Selling: realised forex loss, trade 90,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Jualan: rugi tukaran asing nyata, dagangan 90,000",
+        "Nil",
         "",
         ""
        ]
@@ -2864,6 +2920,20 @@
       },
       {
        "en": [
+        "ADD: BALANCING CHARGES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: CAJ IMBANGAN",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Balancing charge: warehouse",
         "45,000",
         "",
@@ -2872,6 +2942,20 @@
        "ms": [
         "Caj imbangan: gudang",
         "45,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: CAPITAL ALLOWANCE",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: ELAUN MODAL",
+        "",
         "",
         ""
        ]
@@ -2906,6 +2990,20 @@
       },
       {
        "en": [
+        "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Adjusted loss brought forward from YA2025",
         "",
         "580,000",
@@ -2915,6 +3013,20 @@
         "Kerugian diselaraskan dibawa ke hadapan dari YA2025",
         "",
         "580,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ADD: STATUTORY INCOME FROM OTHER SOURCES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
+        "",
+        "",
         ""
        ]
       },
@@ -2970,6 +3082,20 @@
        "ms": [
         "Perbelanjaan perniagaan pra-operasi",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: APPROVED DONATIONS",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: DERMA DILULUSKAN",
+        "",
         "",
         ""
        ]
@@ -4453,6 +4579,20 @@
       },
       {
        "en": [
+        "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
+        "",
+        "1,791,600",
+        ""
+       ],
+       "ms": [
+        "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
+        "",
+        "1,791,600",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Other income: interest 13,000, rental 90,000, dividend 56,000",
         "",
         "159,000",
@@ -4481,34 +4621,6 @@
       },
       {
        "en": [
-        "Cost of sales: equipment for disabled employees 26,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Kos jualan: peralatan pekerja OKU 26,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Travel: marketing director, 4 days (3,000)",
-        "",
-        "1,800",
-        ""
-       ],
-       "ms": [
-        "Perjalanan: pengarah pemasaran, 4 hari (3,000)",
-        "",
-        "1,800",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Travel: marketing manager, 4 days (2,500)",
         "",
         "1,800",
@@ -4523,14 +4635,70 @@
       },
       {
        "en": [
-        "Leave passage: local 53,000 (14,000 + 30,000 + 9,000)",
-        "Nil",
+        "Gain on sale of lorry (5,800)",
+        "",
+        "5,800",
+        ""
+       ],
+       "ms": [
+        "Untung jualan lori (5,800)",
+        "",
+        "5,800",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Forex: gain on raw materials, unrealised (35,000)",
+        "",
+        "35,000",
+        ""
+       ],
+       "ms": [
+        "Tukaran asing: untung bahan mentah, belum nyata (35,000)",
+        "",
+        "35,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Forex: gain on equipment B, unrealised (75,000)",
+        "",
+        "75,000",
+        ""
+       ],
+       "ms": [
+        "Tukaran asing: untung peralatan B, belum nyata (75,000)",
+        "",
+        "75,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Bad debts recovered 56,000: of which non-trade 15,000",
+        "",
+        "15,000",
+        ""
+       ],
+       "ms": [
+        "Hutang lapuk dipulih 56,000: bukan dagangan 15,000",
+        "",
+        "15,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ADD: NON-ALLOWABLE EXPENSES",
+        "2,319,700",
         "",
         ""
        ],
        "ms": [
-        "Pas cuti: tempatan 53,000 (14,000 + 30,000 + 9,000)",
-        "Nil",
+        "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
+        "2,319,700",
         "",
         ""
        ]
@@ -4551,20 +4719,6 @@
       },
       {
        "en": [
-        "Marketing: product testing in Singapore 26,000",
-        "",
-        "26,000",
-        ""
-       ],
-       "ms": [
-        "Pemasaran: ujian produk di Singapura 26,000",
-        "",
-        "26,000",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Marketing: embezzled by Finance Director 92,000",
         "92,000",
         "",
@@ -4573,34 +4727,6 @@
        "ms": [
         "Pemasaran: diselewengkan Pengarah Kewangan 92,000",
         "92,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Marketing: embezzled by cashier 15,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Pemasaran: diselewengkan juruwang 15,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Repairs: tools replaced 30,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Baik pulih: alat diganti 30,000",
-        "Nil",
         "",
         ""
        ]
@@ -4635,20 +4761,6 @@
       },
       {
        "en": [
-        "Insurance: import of raw materials from UK, Malaysian insurer 40,000",
-        "",
-        "40,000",
-        ""
-       ],
-       "ms": [
-        "Insurans: import bahan mentah dari UK, penanggung insurans Malaysia 40,000",
-        "",
-        "40,000",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Rental paid in advance (1.5.2026 to 31.8.2027, 24,000)",
         "21,000",
         "",
@@ -4663,62 +4775,6 @@
       },
       {
        "en": [
-        "R&D: market research on customers in Malaysia 120,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "R&D: kajian pasaran pelanggan di Malaysia 120,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "R&D: cash contribution to approved research institute 90,000",
-        "",
-        "90,000",
-        ""
-       ],
-       "ms": [
-        "R&D: sumbangan tunai kepada institut penyelidikan diluluskan 90,000",
-        "",
-        "90,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "R&D: quality control testing 140,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "R&D: ujian kawalan kualiti 140,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "R&D: services of approved research institute, Melaka 280,000",
-        "",
-        "280,000",
-        ""
-       ],
-       "ms": [
-        "R&D: perkhidmatan institut penyelidikan diluluskan, Melaka 280,000",
-        "",
-        "280,000",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Depreciation 256,000",
         "256,000",
         "",
@@ -4728,20 +4784,6 @@
         "Susut nilai 256,000",
         "256,000",
         "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Gain on sale of lorry (5,800)",
-        "",
-        "5,800",
-        ""
-       ],
-       "ms": [
-        "Untung jualan lori (5,800)",
-        "",
-        "5,800",
         ""
        ]
       },
@@ -4817,48 +4859,6 @@
       },
       {
        "en": [
-        "Forex: gain on raw materials, unrealised (35,000)",
-        "",
-        "35,000",
-        ""
-       ],
-       "ms": [
-        "Tukaran asing: untung bahan mentah, belum nyata (35,000)",
-        "",
-        "35,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Forex: gain on equipment B, unrealised (75,000)",
-        "",
-        "75,000",
-        ""
-       ],
-       "ms": [
-        "Tukaran asing: untung peralatan B, belum nyata (75,000)",
-        "",
-        "75,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Forex: loss on raw materials, realised 85,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Tukaran asing: rugi bahan mentah, nyata 85,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Contribution: public library 210,000",
         "110,000",
         "",
@@ -4896,20 +4896,6 @@
         "Sumbangan: parti politik 130,000",
         "130,000",
         "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Bad debts recovered 56,000: of which non-trade 15,000",
-        "",
-        "15,000",
-        ""
-       ],
-       "ms": [
-        "Hutang lapuk dipulih 56,000: bukan dagangan 15,000",
-        "",
-        "15,000",
         ""
        ]
       },
@@ -4957,6 +4943,216 @@
       },
       {
        "en": [
+        "LESS: DOUBLE DEDUCTION",
+        "",
+        "370,000",
+        ""
+       ],
+       "ms": [
+        "TOLAK: POTONGAN BERGANDA",
+        "",
+        "370,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "R&D: cash contribution to approved research institute 90,000",
+        "",
+        "90,000",
+        ""
+       ],
+       "ms": [
+        "R&D: sumbangan tunai kepada institut penyelidikan diluluskan 90,000",
+        "",
+        "90,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "R&D: services of approved research institute, Melaka 280,000",
+        "",
+        "280,000",
+        ""
+       ],
+       "ms": [
+        "R&D: perkhidmatan institut penyelidikan diluluskan, Melaka 280,000",
+        "",
+        "280,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
+        "",
+        "67,800",
+        ""
+       ],
+       "ms": [
+        "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
+        "",
+        "67,800",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Travel: marketing director, 4 days (3,000)",
+        "",
+        "1,800",
+        ""
+       ],
+       "ms": [
+        "Perjalanan: pengarah pemasaran, 4 hari (3,000)",
+        "",
+        "1,800",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Marketing: product testing in Singapore 26,000",
+        "",
+        "26,000",
+        ""
+       ],
+       "ms": [
+        "Pemasaran: ujian produk di Singapura 26,000",
+        "",
+        "26,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Insurance: import of raw materials from UK, Malaysian insurer 40,000",
+        "",
+        "40,000",
+        ""
+       ],
+       "ms": [
+        "Insurans: import bahan mentah dari UK, penanggung insurans Malaysia 40,000",
+        "",
+        "40,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ALLOWABLE EXPENSES: NO ADJUSTMENT",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "PERBELANJAAN DIBENARKAN: TIADA PELARASAN",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Cost of sales: equipment for disabled employees 26,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Kos jualan: peralatan pekerja OKU 26,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Leave passage: local 53,000 (14,000 + 30,000 + 9,000)",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Pas cuti: tempatan 53,000 (14,000 + 30,000 + 9,000)",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Marketing: embezzled by cashier 15,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Pemasaran: diselewengkan juruwang 15,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Repairs: tools replaced 30,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Baik pulih: alat diganti 30,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "R&D: market research on customers in Malaysia 120,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "R&D: kajian pasaran pelanggan di Malaysia 120,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "R&D: quality control testing 140,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "R&D: ujian kawalan kualiti 140,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Forex: loss on raw materials, realised 85,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Tukaran asing: rugi bahan mentah, nyata 85,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
         "2 · ADJUSTED INCOME",
         "2,319,700",
         "2,229,400",
@@ -4967,6 +5163,20 @@
         "2,319,700",
         "2,229,400",
         "20,276,400"
+       ]
+      },
+      {
+       "en": [
+        "ADD: BALANCING CHARGES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: CAJ IMBANGAN",
+        "",
+        "",
+        ""
        ]
       },
       {
@@ -4993,6 +5203,20 @@
        "ms": [
         "Caj imbangan: komputer",
         "2,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: CAPITAL ALLOWANCE",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: ELAUN MODAL",
+        "",
         "",
         ""
        ]
@@ -5055,6 +5279,20 @@
       },
       {
        "en": [
+        "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Adjusted loss brought forward from YA2025",
         "",
         "580,000",
@@ -5064,6 +5302,20 @@
         "Kerugian diselaraskan dibawa ke hadapan dari YA2025",
         "",
         "580,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ADD: STATUTORY INCOME FROM OTHER SOURCES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
+        "",
+        "",
         ""
        ]
       },
@@ -5175,6 +5427,20 @@
        "ms": [
         "Perbelanjaan perniagaan pra-operasi",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: APPROVED DONATIONS",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: DERMA DILULUSKAN",
+        "",
         "",
         ""
        ]
@@ -6367,15 +6633,15 @@
       },
       {
        "en": [
-        "Insurance recovery: stolen product 54,000",
-        "Nil",
+        "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
         "",
+        "23,000",
         ""
        ],
        "ms": [
-        "Pemulihan insurans: produk dicuri 54,000",
-        "Nil",
+        "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
         "",
+        "23,000",
         ""
        ]
       },
@@ -6395,14 +6661,28 @@
       },
       {
        "en": [
-        "Government grant for training 32,000",
-        "Nil",
+        "Bad debt recovery on debt bought from another company (14,000)",
+        "",
+        "14,000",
+        ""
+       ],
+       "ms": [
+        "Pulihan hutang lapuk bagi hutang dibeli daripada syarikat lain (14,000)",
+        "",
+        "14,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ADD: NON-ALLOWABLE EXPENSES",
+        "635,800",
         "",
         ""
        ],
        "ms": [
-        "Geran kerajaan untuk latihan 32,000",
-        "Nil",
+        "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
+        "635,800",
         "",
         ""
        ]
@@ -6417,48 +6697,6 @@
        "ms": [
         "Susut nilai dan pelunasan 380,000",
         "380,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "R&D paid to contract R&D company 102,000",
-        "",
-        "102,000",
-        ""
-       ],
-       "ms": [
-        "R&D dibayar kepada syarikat R&D kontrak 102,000",
-        "",
-        "102,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Salaries of disabled employees 155,000",
-        "",
-        "155,000",
-        ""
-       ],
-       "ms": [
-        "Gaji pekerja OKU 155,000",
-        "",
-        "155,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Training for sales staff 48,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Latihan kakitangan jualan 48,000",
-        "Nil",
         "",
         ""
        ]
@@ -6493,34 +6731,6 @@
       },
       {
        "en": [
-        "Repair: renovation for disabled employees 29,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Baik pulih: ubah suai untuk pekerja OKU 29,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Repair: small machine parts 16,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Baik pulih: bahagian kecil mesin 16,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Interest: investment loan 120,000",
         "120,000",
         "",
@@ -6529,20 +6739,6 @@
        "ms": [
         "Faedah: pinjaman pelaburan 120,000",
         "120,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Interest: working capital 24,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Faedah: modal kerja 24,000",
-        "Nil",
         "",
         ""
        ]
@@ -6563,34 +6759,6 @@
       },
       {
        "en": [
-        "Bad debts: specific provision 68,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Hutang lapuk: peruntukan spesifik 68,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Bad debt recovery on debt bought from another company (14,000)",
-        "",
-        "14,000",
-        ""
-       ],
-       "ms": [
-        "Pulihan hutang lapuk bagi hutang dibeli daripada syarikat lain (14,000)",
-        "",
-        "14,000",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Lease: Mercedes 10,000 × 9 months = 90,000",
         "40,000",
         "",
@@ -6599,62 +6767,6 @@
        "ms": [
         "Sewa: Mercedes 10,000 × 9 bulan = 90,000",
         "40,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Advertisement in the Middle East 148,000",
-        "",
-        "148,000",
-        ""
-       ],
-       "ms": [
-        "Iklan di Timur Tengah 148,000",
-        "",
-        "148,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Economy fare to Korea 16,000 (contract not won)",
-        "",
-        "16,000",
-        ""
-       ],
-       "ms": [
-        "Tambang kelas ekonomi ke Korea 16,000 (kontrak tidak berjaya)",
-        "",
-        "16,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Entertainment: dealers for sales target 15,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Keraian: peniaga yang mencapai sasaran jualan 15,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Forex: realised loss, trade debtors 6,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Tukaran asing: rugi nyata, penghutang dagangan 6,000",
-        "Nil",
         "",
         ""
        ]
@@ -6703,6 +6815,90 @@
       },
       {
        "en": [
+        "LESS: DOUBLE DEDUCTION",
+        "",
+        "102,000",
+        ""
+       ],
+       "ms": [
+        "TOLAK: POTONGAN BERGANDA",
+        "",
+        "102,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "R&D paid to contract R&D company 102,000",
+        "",
+        "102,000",
+        ""
+       ],
+       "ms": [
+        "R&D dibayar kepada syarikat R&D kontrak 102,000",
+        "",
+        "102,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
+        "",
+        "462,000",
+        ""
+       ],
+       "ms": [
+        "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
+        "",
+        "462,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Salaries of disabled employees 155,000",
+        "",
+        "155,000",
+        ""
+       ],
+       "ms": [
+        "Gaji pekerja OKU 155,000",
+        "",
+        "155,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Advertisement in the Middle East 148,000",
+        "",
+        "148,000",
+        ""
+       ],
+       "ms": [
+        "Iklan di Timur Tengah 148,000",
+        "",
+        "148,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Economy fare to Korea 16,000 (contract not won)",
+        "",
+        "16,000",
+        ""
+       ],
+       "ms": [
+        "Tambang kelas ekonomi ke Korea 16,000 (kontrak tidak berjaya)",
+        "",
+        "16,000",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Scholarships to 5 students 120,000",
         "",
         "120,000",
@@ -6726,6 +6922,146 @@
         "Pensijilan halal 23,000",
         "",
         "23,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ALLOWABLE EXPENSES: NO ADJUSTMENT",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "PERBELANJAAN DIBENARKAN: TIADA PELARASAN",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Insurance recovery: stolen product 54,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Pemulihan insurans: produk dicuri 54,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Government grant for training 32,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Geran kerajaan untuk latihan 32,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Training for sales staff 48,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Latihan kakitangan jualan 48,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Repair: renovation for disabled employees 29,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Baik pulih: ubah suai untuk pekerja OKU 29,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Repair: small machine parts 16,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Baik pulih: bahagian kecil mesin 16,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Interest: working capital 24,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Faedah: modal kerja 24,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: specific provision 68,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Hutang lapuk: peruntukan spesifik 68,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: dealers for sales target 15,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Keraian: peniaga yang mencapai sasaran jualan 15,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Forex: realised loss, trade debtors 6,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Tukaran asing: rugi nyata, penghutang dagangan 6,000",
+        "Nil",
+        "",
         ""
        ]
       },
@@ -6759,14 +7095,42 @@
       },
       {
        "en": [
-        "Balancing charges",
+        "ADD: BALANCING CHARGES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: CAJ IMBANGAN",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "No balancing charge arises",
         "Nil",
         "",
         ""
        ],
        "ms": [
-        "Caj imbangan",
+        "Tiada caj imbangan",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: CAPITAL ALLOWANCE",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: ELAUN MODAL",
+        "",
         "",
         ""
        ]
@@ -6801,14 +7165,42 @@
       },
       {
        "en": [
-        "Previous years’ business losses",
+        "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "No business loss brought forward",
         "Nil",
         "",
         ""
        ],
        "ms": [
-        "Kerugian perniagaan tahun lepas",
+        "Tiada kerugian perniagaan dibawa ke hadapan",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ADD: STATUTORY INCOME FROM OTHER SOURCES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
+        "",
         "",
         ""
        ]
@@ -6865,6 +7257,20 @@
        "ms": [
         "Perbelanjaan perniagaan pra-operasi",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: APPROVED DONATIONS",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: DERMA DILULUSKAN",
+        "",
         "",
         ""
        ]
@@ -8355,6 +8761,20 @@
       },
       {
        "en": [
+        "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
+        "",
+        "1,098,000",
+        ""
+       ],
+       "ms": [
+        "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
+        "",
+        "1,098,000",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Interest from overdue trade receivables 795,000",
         "",
         "795,000",
@@ -8383,14 +8803,28 @@
       },
       {
        "en": [
-        "Insurance compensation, flood 230,000",
-        "Nil",
+        "Forex: realised gain, machinery (3,000)",
+        "",
+        "3,000",
+        ""
+       ],
+       "ms": [
+        "Tukaran asing: untung nyata, mesin (3,000)",
+        "",
+        "3,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ADD: NON-ALLOWABLE EXPENSES",
+        "1,651,600",
         "",
         ""
        ],
        "ms": [
-        "Pampasan insurans, banjir 230,000",
-        "Nil",
+        "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
+        "1,651,600",
         "",
         ""
        ]
@@ -8405,20 +8839,6 @@
        "ms": [
         "Susut nilai 1,090,000",
         "1,090,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Export cargo insurance, Malaysian insurer 1,132,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Insurans kargo eksport, penanggung insurans Malaysia 1,132,000",
-        "Nil",
         "",
         ""
        ]
@@ -8447,6 +8867,230 @@
        "ms": [
         "Kos kutipan hutang bukan dagangan 5,000",
         "5,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "EPF 528,000 against 19% × 2,400,000 = 456,000",
+        "72,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "KWSP 528,000 melawan 19% × 2,400,000 = 456,000",
+        "72,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Office chairs and tables 30,000",
+        "30,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Kerusi dan meja pejabat 30,000",
+        "30,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Interest: 40% of loan used to buy shares in KayuKraf",
+        "57,600",
+        "",
+        ""
+       ],
+       "ms": [
+        "Faedah: 40% pinjaman digunakan membeli saham KayuKraf",
+        "57,600",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "General provision 2,000",
+        "2,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Peruntukan am 2,000",
+        "2,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Advance to a new supplier written off 40,000",
+        "40,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Pendahuluan kepada pembekal baharu dihapus kira 40,000",
+        "40,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Forex: unrealised loss, trade debts 8,000",
+        "8,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Tukaran asing: rugi belum nyata, hutang dagangan 8,000",
+        "8,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Forex: gain on last year's trade receivable, realised now (5,000)",
+        "5,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Tukaran asing: untung penghutang dagangan tahun lepas, nyata kini (5,000)",
+        "5,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: dinners with suppliers 50,000",
+        "25,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Keraian: makan malam pembekal 50,000",
+        "25,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Donation: Furniture Trade Association dinner 15,000",
+        "15,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Derma: makan malam Persatuan Perdagangan Perabot 15,000",
+        "15,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Donation: political party (PKR) 250,000",
+        "250,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Derma: parti politik (PKR) 250,000",
+        "250,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Contribution: school library 110,000",
+        "10,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Sumbangan: perpustakaan sekolah 110,000",
+        "10,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
+        "",
+        "66,000",
+        ""
+       ],
+       "ms": [
+        "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
+        "",
+        "66,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Salary of senior citizen aged 62: 66,000",
+        "",
+        "66,000",
+        ""
+       ],
+       "ms": [
+        "Gaji warga emas berumur 62: 66,000",
+        "",
+        "66,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ALLOWABLE EXPENSES: NO ADJUSTMENT",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "PERBELANJAAN DIBENARKAN: TIADA PELARASAN",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Insurance compensation, flood 230,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Pampasan insurans, banjir 230,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Export cargo insurance, Malaysian insurer 1,132,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Insurans kargo eksport, penanggung insurans Malaysia 1,132,000",
+        "Nil",
         "",
         ""
        ]
@@ -8495,34 +9139,6 @@
       },
       {
        "en": [
-        "Salary of senior citizen aged 62: 66,000",
-        "",
-        "66,000",
-        ""
-       ],
-       "ms": [
-        "Gaji warga emas berumur 62: 66,000",
-        "",
-        "66,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "EPF 528,000 against 19% × 2,400,000 = 456,000",
-        "72,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "KWSP 528,000 melawan 19% × 2,400,000 = 456,000",
-        "72,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "E-invoicing training 20,000",
         "Nil",
         "",
@@ -8551,20 +9167,6 @@
       },
       {
        "en": [
-        "Office chairs and tables 30,000",
-        "30,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Kerusi dan meja pejabat 30,000",
-        "30,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Ramp for disabled customers 3,000",
         "Nil",
         "",
@@ -8573,34 +9175,6 @@
        "ms": [
         "Tanjakan untuk pelanggan OKU 3,000",
         "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Interest: 40% of loan used to buy shares in KayuKraf",
-        "57,600",
-        "",
-        ""
-       ],
-       "ms": [
-        "Faedah: 40% pinjaman digunakan membeli saham KayuKraf",
-        "57,600",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "General provision 2,000",
-        "2,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Peruntukan am 2,000",
-        "2,000",
         "",
         ""
        ]
@@ -8621,48 +9195,6 @@
       },
       {
        "en": [
-        "Advance to a new supplier written off 40,000",
-        "40,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Pendahuluan kepada pembekal baharu dihapus kira 40,000",
-        "40,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Forex: unrealised loss, trade debts 8,000",
-        "8,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Tukaran asing: rugi belum nyata, hutang dagangan 8,000",
-        "8,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Forex: realised gain, machinery (3,000)",
-        "",
-        "3,000",
-        ""
-       ],
-       "ms": [
-        "Tukaran asing: untung nyata, mesin (3,000)",
-        "",
-        "3,000",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Forex: realised loss, stock 9,000",
         "Nil",
         "",
@@ -8671,20 +9203,6 @@
        "ms": [
         "Tukaran asing: rugi nyata, stok 9,000",
         "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Forex: gain on last year's trade receivable, realised now (5,000)",
-        "5,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Tukaran asing: untung penghutang dagangan tahun lepas, nyata kini (5,000)",
-        "5,000",
         "",
         ""
        ]
@@ -8705,20 +9223,6 @@
       },
       {
        "en": [
-        "Entertainment: dinners with suppliers 50,000",
-        "25,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Keraian: makan malam pembekal 50,000",
-        "25,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Lease rental: three vehicles (28,000; 16,000; 18,000)",
         "Nil",
         "",
@@ -8727,20 +9231,6 @@
        "ms": [
         "Sewa: tiga kenderaan (28,000; 16,000; 18,000)",
         "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Donation: Furniture Trade Association dinner 15,000",
-        "15,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Derma: makan malam Persatuan Perdagangan Perabot 15,000",
-        "15,000",
         "",
         ""
        ]
@@ -8761,34 +9251,6 @@
       },
       {
        "en": [
-        "Donation: political party (PKR) 250,000",
-        "250,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Derma: parti politik (PKR) 250,000",
-        "250,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Contribution: school library 110,000",
-        "10,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Sumbangan: perpustakaan sekolah 110,000",
-        "10,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "2 · ADJUSTED INCOME",
         "1,651,600",
         "1,164,000",
@@ -8803,14 +9265,42 @@
       },
       {
        "en": [
-        "Balancing charges",
+        "ADD: BALANCING CHARGES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: CAJ IMBANGAN",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "No balancing charge arises",
         "Nil",
         "",
         ""
        ],
        "ms": [
-        "Caj imbangan",
+        "Tiada caj imbangan",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: CAPITAL ALLOWANCE",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: ELAUN MODAL",
+        "",
         "",
         ""
        ]
@@ -8859,6 +9349,20 @@
       },
       {
        "en": [
+        "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Business loss brought forward",
         "",
         "20,000",
@@ -8868,6 +9372,20 @@
         "Kerugian perniagaan dibawa ke hadapan",
         "",
         "20,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ADD: STATUTORY INCOME FROM OTHER SOURCES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
+        "",
+        "",
         ""
        ]
       },
@@ -8937,6 +9455,20 @@
        "ms": [
         "Perbelanjaan perniagaan pra-operasi",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: APPROVED DONATIONS",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: DERMA DILULUSKAN",
+        "",
         "",
         ""
        ]
@@ -10021,6 +10553,20 @@
       },
       {
        "en": [
+        "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
+        "",
+        "85,000",
+        ""
+       ],
+       "ms": [
+        "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
+        "",
+        "85,000",
+        ""
+       ]
+      },
+      {
+       "en": [
         "Dividends: single tier 25,000 and foreign 20,000",
         "",
         "45,000",
@@ -10049,14 +10595,14 @@
       },
       {
        "en": [
-        "Insurance recovery, fire 45,000",
-        "Nil",
+        "ADD: NON-ALLOWABLE EXPENSES",
+        "1,592,040",
         "",
         ""
        ],
        "ms": [
-        "Pemulihan insurans, kebakaran 45,000",
-        "Nil",
+        "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
+        "1,592,040",
         "",
         ""
        ]
@@ -10105,34 +10651,6 @@
       },
       {
        "en": [
-        "Interest: working capital 87,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Faedah: modal kerja 87,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Entertainment: staff annual dinner 38,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Keraian: makan malam tahunan staf 38,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Entertainment: existing customers 174,000",
         "87,000",
         "",
@@ -10141,20 +10659,6 @@
        "ms": [
         "Keraian: pelanggan sedia ada 174,000",
         "87,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Entertainment: dealers, new product line 151,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Keraian: peniaga, barisan produk baharu 151,000",
-        "Nil",
         "",
         ""
        ]
@@ -10183,34 +10687,6 @@
        "ms": [
         "Baik pulih: lanjutan bilik pameran 273,000",
         "273,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Repair: plant maintenance 95,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Baik pulih: penyelenggaraan loji 95,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Bad debts: trade written off 165,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Hutang lapuk: dagangan dihapus kira 165,000",
-        "Nil",
         "",
         ""
        ]
@@ -10273,20 +10749,6 @@
       },
       {
        "en": [
-        "Vehicles: maintenance 50,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Kenderaan: penyelenggaraan 50,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Lease: saloon car 150,000 (new cost 600,000)",
         "100,000",
         "",
@@ -10295,6 +10757,174 @@
        "ms": [
         "Sewa: kereta saloon 150,000 (kos baharu 600,000)",
         "100,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Forex: unrealised loss, fabricating machine 18,000",
+        "18,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Tukaran asing: rugi belum nyata, mesin fabrikasi 18,000",
+        "18,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Donation to Johor State Government 200,000",
+        "200,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Derma kepada Kerajaan Negeri Johor 200,000",
+        "200,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
+        "",
+        "29,000",
+        ""
+       ],
+       "ms": [
+        "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
+        "",
+        "29,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Insurance: import of PVC, local insurer 29,000",
+        "",
+        "29,000",
+        ""
+       ],
+       "ms": [
+        "Insurans: import PVC, penanggung insurans tempatan 29,000",
+        "",
+        "29,000",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ALLOWABLE EXPENSES: NO ADJUSTMENT",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "PERBELANJAAN DIBENARKAN: TIADA PELARASAN",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Insurance recovery, fire 45,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Pemulihan insurans, kebakaran 45,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Interest: working capital 87,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Faedah: modal kerja 87,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: staff annual dinner 38,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Keraian: makan malam tahunan staf 38,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: dealers, new product line 151,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Keraian: peniaga, barisan produk baharu 151,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Repair: plant maintenance 95,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Baik pulih: penyelenggaraan loji 95,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: trade written off 165,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Hutang lapuk: dagangan dihapus kira 165,000",
+        "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Vehicles: maintenance 50,000",
+        "Nil",
+        "",
+        ""
+       ],
+       "ms": [
+        "Kenderaan: penyelenggaraan 50,000",
+        "Nil",
         "",
         ""
        ]
@@ -10371,20 +11001,6 @@
       },
       {
        "en": [
-        "Insurance: import of PVC, local insurer 29,000",
-        "",
-        "29,000",
-        ""
-       ],
-       "ms": [
-        "Insurans: import PVC, penanggung insurans tempatan 29,000",
-        "",
-        "29,000",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Insurance: export to Thailand 38,000; fire cover 50,000",
         "Nil",
         "",
@@ -10413,34 +11029,6 @@
       },
       {
        "en": [
-        "Forex: unrealised loss, fabricating machine 18,000",
-        "18,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Tukaran asing: rugi belum nyata, mesin fabrikasi 18,000",
-        "18,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Donation to Johor State Government 200,000",
-        "200,000",
-        "",
-        ""
-       ],
-       "ms": [
-        "Derma kepada Kerajaan Negeri Johor 200,000",
-        "200,000",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "2 · ADJUSTED INCOME",
         "1,592,040",
         "114,000",
@@ -10455,14 +11043,42 @@
       },
       {
        "en": [
-        "Balancing charges",
+        "ADD: BALANCING CHARGES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: CAJ IMBANGAN",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "No balancing charge arises",
         "Nil",
         "",
         ""
        ],
        "ms": [
-        "Caj imbangan",
+        "Tiada caj imbangan",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: CAPITAL ALLOWANCE",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: ELAUN MODAL",
+        "",
         "",
         ""
        ]
@@ -10497,14 +11113,42 @@
       },
       {
        "en": [
-        "Previous years’ business losses",
+        "LESS: PREVIOUS YEARS’ BUSINESS LOSSES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: KERUGIAN PERNIAGAAN TAHUN LEPAS",
+        "",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "No business loss brought forward",
         "Nil",
         "",
         ""
        ],
        "ms": [
-        "Kerugian perniagaan tahun lepas",
+        "Tiada kerugian perniagaan dibawa ke hadapan",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "ADD: STATUTORY INCOME FROM OTHER SOURCES",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TAMBAH: PENDAPATAN BERKANUN DARIPADA SUMBER LAIN",
+        "",
         "",
         ""
        ]
@@ -10589,6 +11233,20 @@
        "ms": [
         "Perbelanjaan perniagaan pra-operasi",
         "Nil",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "LESS: APPROVED DONATIONS",
+        "",
+        "",
+        ""
+       ],
+       "ms": [
+        "TOLAK: DERMA DILULUSKAN",
+        "",
         "",
         ""
        ]
