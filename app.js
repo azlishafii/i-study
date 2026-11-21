@@ -54,7 +54,7 @@ function getSubject(info, builtin) {
 const userStore = () => { try { const o = JSON.parse(localStorage.getItem(UKEY) || '{}'); return Array.isArray(o.chapters) ? o.chapters : []; } catch (e) { return []; } };
 const setUserStore = (arr) => { try { localStorage.setItem(UKEY, JSON.stringify({ chapters: arr })); return true; } catch (e) { return false; } };
 async function loadLib() {
-  const j = async (p) => { const r = await fetch(p); if (!r.ok) throw new Error(p + ' ' + r.status); return r.json(); };
+  const j = async (p) => { const r = await fetch(p, { cache: 'no-cache' }); if (!r.ok) throw new Error(p + ' ' + r.status); return r.json(); };
   const idx = await j('content/index.json');
   for (const sj of idx.subjects) {
     const subj = getSubject(sj, true);
