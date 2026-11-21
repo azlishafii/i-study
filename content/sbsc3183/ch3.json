@@ -271,6 +271,93 @@
      ]
     },
     {
+     "k": "h",
+     "en": "Sources of income: section 4 ITA (4a to 4e)",
+     "ms": "Punca pendapatan: seksyen 4 ITA (4a hingga 4e)"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Section",
+       "Source of income",
+       "Where it appears in the computation"
+      ],
+      "ms": [
+       "Seksyen",
+       "Punca pendapatan",
+       "Di mana dalam pengiraan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "4(a)",
+        "Business (gains or profits from a business)",
+        "Statutory business income (boxes 1 and 2)"
+       ],
+       "ms": [
+        "4(a)",
+        "Perniagaan (keuntungan daripada perniagaan)",
+        "Pendapatan berkanun perniagaan (kotak 1 dan 2)"
+       ]
+      },
+      {
+       "en": [
+        "4(b)",
+        "Employment (gains or profits from an employment)",
+        "Not relevant to a company"
+       ],
+       "ms": [
+        "4(b)",
+        "Pekerjaan (keuntungan daripada pekerjaan)",
+        "Tidak berkaitan dengan syarikat"
+       ]
+      },
+      {
+       "en": [
+        "4(c)",
+        "Dividends, interest or discounts",
+        "Other statutory income (box 3). Dividends are mostly exempt; interest not earned in the course of business is taxed here"
+       ],
+       "ms": [
+        "4(c)",
+        "Dividen, faedah atau diskaun",
+        "Pendapatan berkanun lain (kotak 3). Dividen kebanyakannya dikecualikan; faedah yang bukan dalam perjalanan perniagaan dicukai di sini"
+       ]
+      },
+      {
+       "en": [
+        "4(d)",
+        "Rent, royalties, premiums or other profits from property (rental)",
+        "Other statutory income (box 3), for example the Brunei rental in the Styles question"
+       ],
+       "ms": [
+        "4(d)",
+        "Sewa, royalti, premium atau keuntungan lain daripada harta (sewa)",
+        "Pendapatan berkanun lain (kotak 3), contohnya sewa Brunei dalam soalan Styles"
+       ]
+      },
+      {
+       "en": [
+        "4(e)",
+        "Pensions, annuities or other periodical payments (annuity)",
+        "Other statutory income (box 3)"
+       ],
+       "ms": [
+        "4(e)",
+        "Pencen, anuiti atau bayaran berkala lain (anuiti)",
+        "Pendapatan berkanun lain (kotak 3)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "4(d) rental and 4(e) annuity are from your lecturer. The wording of 4(a) to 4(c) is my general knowledge of section 4, and the course slides do not list it; confirm 4(c) with your lecturer. Statutory income from other sources, in box 3 of slide 4, means the sources 4(c), 4(d) and 4(e).",
+     "ms": "4(d) sewa dan 4(e) anuiti daripada pensyarah anda. Perkataan 4(a) hingga 4(c) ialah pengetahuan am saya tentang seksyen 4, dan slaid kursus tidak menyenaraikannya; sahkan 4(c) dengan pensyarah. Pendapatan berkanun daripada sumber lain, dalam kotak 3 slaid 4, bermaksud punca 4(c), 4(d) dan 4(e)."
+    },
+    {
      "k": "note",
      "en": "Slide 4 shows these items in several jumbled boxes. I arranged them to match the order used in the lecturer’s worked answers (adjusted income → statutory income → aggregate income → chargeable income). Treat my ordering as a study aid.",
      "ms": "Slaid 4 menunjukkan item ini dalam beberapa kotak bercampur. Saya susun mengikut urutan jawapan kerja pensyarah (pendapatan diselaraskan → pendapatan berkanun → pendapatan agregat → pendapatan bercukai). Anggap susunan saya sebagai bahan bantu belajar."
