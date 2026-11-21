@@ -295,36 +295,119 @@
      "ms": "Potongan khusus (S34)"
     },
     {
-     "k": "ul",
-     "en": [
-      "Translation into or publication in the national language",
-      "Provision of library facilities accessible to the public, up to RM100,000",
-      "Irrecoverable bad debts written off and specific doubtful trade debts",
-      "Employer’s contributions to approved funds or schemes, up to 19% of the employee’s remuneration",
-      "Equipment or renovation to assist disabled employees",
-      "Revenue R&D related to the business",
-      "Child care centre for employees",
-      "Musical or cultural group approved by the Minister of Finance",
-      "Sponsorship of arts, cultural and heritage activities up to RM1,000,000 (foreign activities up to RM300,000 a year)",
-      "Practical training for a resident individual who is not an employee"
-     ],
-     "ms": [
-      "Terjemahan ke atau penerbitan dalam bahasa kebangsaan",
-      "Penyediaan kemudahan perpustakaan yang boleh diakses orang awam, sehingga RM100,000",
-      "Hutang lapuk tidak boleh dipungut yang dihapus kira dan hutang ragu khusus perdagangan",
-      "Caruman majikan kepada dana atau skim diluluskan, sehingga 19% daripada saraan pekerja",
-      "Peralatan atau pengubahsuaian untuk membantu pekerja kurang upaya",
-      "R&D hasil berkaitan perniagaan",
-      "Pusat jagaan kanak-kanak untuk pekerja",
-      "Kumpulan muzik atau kebudayaan diluluskan Menteri Kewangan",
-      "Tajaan aktiviti seni, budaya dan warisan sehingga RM1,000,000 (aktiviti luar negara sehingga RM300,000 setahun)",
-      "Latihan amali bagi individu residen yang bukan pekerja"
+     "k": "table",
+     "head": {
+      "en": [
+       "Item (slides 13–14)",
+       "PR on the slide"
+      ],
+      "ms": [
+       "Item (slaid 13–14)",
+       "PR pada slaid"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Irrecoverable bad debts written off and specific doubtful trade debts",
+        "PR 4/2019"
+       ],
+       "ms": [
+        "Hutang lapuk tidak boleh dipungut yang dihapus kira dan hutang ragu khusus perdagangan",
+        "PR 4/2019"
+       ]
+      },
+      {
+       "en": [
+        "Employer’s contributions to approved funds or schemes, ceiling 19% of the employee’s remuneration",
+        "PR 5/2022"
+       ],
+       "ms": [
+        "Caruman majikan kepada dana atau skim diluluskan, had 19% daripada saraan pekerja",
+        "PR 5/2022"
+       ]
+      },
+      {
+       "en": [
+        "Equipment, or alteration or renovation of premises, necessary to help disabled employees perform duties",
+        "PR 5/2022"
+       ],
+       "ms": [
+        "Peralatan, atau ubahan atau pengubahsuaian premis, yang perlu bagi membantu pekerja kurang upaya menjalankan tugas",
+        "PR 5/2022"
+       ]
+      },
+      {
+       "en": [
+        "Translation into or publication in the national language",
+        "PR 5/2022"
+       ],
+       "ms": [
+        "Terjemahan ke atau penerbitan dalam bahasa kebangsaan",
+        "PR 5/2022"
+       ]
+      },
+      {
+       "en": [
+        "Library facilities accessible to the public, not exceeding RM100,000",
+        "PR 5/2022"
+       ],
+       "ms": [
+        "Kemudahan perpustakaan yang boleh diakses orang awam, tidak melebihi RM100,000",
+        "PR 5/2022"
+       ]
+      },
+      {
+       "en": [
+        "Revenue R&D (not capital) related to the business, undertaken by the person or on their behalf",
+        "No PR label on the slide"
+       ],
+       "ms": [
+        "R&D hasil (bukan modal) berkaitan perniagaan, dijalankan oleh orang itu atau bagi pihaknya",
+        "Tiada label PR pada slaid"
+       ]
+      },
+      {
+       "en": [
+        "Provision and maintenance of a child care centre for employees",
+        "PR 5/2022"
+       ],
+       "ms": [
+        "Penyediaan dan penyelenggaraan pusat jagaan kanak-kanak untuk pekerja",
+        "PR 5/2022"
+       ]
+      },
+      {
+       "en": [
+        "Establishing and managing a musical or cultural group approved by the Minister of Finance",
+        "PR 5/2022"
+       ],
+       "ms": [
+        "Menubuh dan mengurus kumpulan muzik atau kebudayaan diluluskan Menteri Kewangan",
+        "PR 5/2022"
+       ]
+      },
+      {
+       "en": [
+        "Sponsorship of arts, cultural and heritage activities in Malaysia up to RM1,000,000; within it, foreign activities remain up to RM300,000 a year",
+        "PR 2/2021"
+       ],
+       "ms": [
+        "Tajaan aktiviti seni, budaya dan warisan di Malaysia sehingga RM1,000,000; dalamnya, aktiviti luar negara kekal sehingga RM300,000 setahun",
+        "PR 2/2021"
+       ]
+      },
+      {
+       "en": [
+        "Practical training for a resident individual who is not an employee",
+        "PR 5/2022"
+       ],
+       "ms": [
+        "Latihan amali bagi individu residen yang bukan pekerja",
+        "PR 5/2022"
+       ]
+      }
      ]
-    },
-    {
-     "k": "note",
-     "en": "Slides 13–14 list public-ruling references next to these items, but the labels have been separated from the bullets in the extracted text, so I have not pinned a PR to each item.",
-     "ms": "Slaid 13–14 menyenaraikan rujukan pandangan umum di sebelah item ini, tetapi label terpisah daripada butiran dalam teks yang diekstrak, jadi saya tidak memadankan PR kepada setiap item."
     },
     {
      "k": "h",
@@ -337,9 +420,15 @@
      "ms": "Perbelanjaan hasil R&D yang diluluskan Menteri Kewangan mendapat potongan berganda. Potongan berganda juga dibenarkan bagi perbelanjaan hasil residen untuk sumbangan tunai kepada institusi penyelidikan diluluskan, bayaran bagi perkhidmatan institusi atau syarikat penyelidikan diluluskan, atau bayaran bagi perkhidmatan syarikat R&D atau syarikat R&D kontrak (PR 5/2020)."
     },
     {
-     "k": "note",
-     "en": "Slide 15 places the labels ‘S34 & S34A’ and ‘S34B’ apart from the text, so I could not tell which sub-item belongs to which section.",
-     "ms": "Slaid 15 meletakkan label ‘S34 & S34A’ dan ‘S34B’ berasingan daripada teks, jadi saya tidak dapat pastikan sub-item mana milik seksyen mana."
+     "k": "ul",
+     "en": [
+      "S34 and S34A (left side of slide 15): revenue R&D directly undertaken by the person or on their behalf, and revenue R&D approved by the Minister of Finance, which gets a double deduction",
+      "S34B (right side): double deduction for a Malaysian resident’s revenue expenditure on a cash contribution to an approved research institute, payment for the services of an approved research institute or approved research company, or payment for the services of an R&D company or contract R&D company (PR 5/2020)"
+     ],
+     "ms": [
+      "S34 dan S34A (sebelah kiri slaid 15): R&D hasil yang dijalankan sendiri atau bagi pihaknya, dan R&D hasil diluluskan Menteri Kewangan yang mendapat potongan berganda",
+      "S34B (sebelah kanan): potongan berganda bagi perbelanjaan hasil residen Malaysia untuk sumbangan tunai kepada institut penyelidikan diluluskan, bayaran bagi perkhidmatan institut atau syarikat penyelidikan diluluskan, atau bayaran bagi perkhidmatan syarikat R&D atau syarikat R&D kontrak (PR 5/2020)"
+     ]
     }
    ]
   },
