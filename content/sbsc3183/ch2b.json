@@ -453,8 +453,143 @@
     },
     {
      "k": "ex",
-     "en": "Question\nBioBloom Farm (BBF) grows vegetables. BBF commenced its operations on 1 January 2023 and closes its accounts on 31 December annually. Details of the expenditure incurred by BBF in the two years ended 31 December 2023 and 2024 are as follows:\n\nAssets acquired or constructed during the year ended 31 December 2023 (RM):\n(i) Land: 25,000\n(ii) Mill: 300,000\n(iii) Clearing of land for cultivation: 10,000\n(iv) Planting of vegetable seedlings: 8,000\n\nAssets acquired or constructed during the year ended 31 December 2024 (RM):\n(v) Construction of bridge: 60,000\n(vi) Shed for farm tools: 12,000\n(vii) Worker accommodation located on the farm: 140,000\n(viii) Residential house used by a senior manager in an estate in town about ten kilometres from the farm: 160,000\n(ix) Replanting of vegetable seedlings: 2,000\n\nRequired:\n(a) Compute the agriculture allowances available to BBF for each of the years of assessment 2023 and 2024.\nNote: You should list all of the items (i) to (ix) and indicate by the use of the word ‘nil’ any item for which an allowance is not available.\n(b) Compute the agriculture charge for the year of assessment 2026, if any, if BBF disposed of the mill for RM180,000 on 10 January 2026.\n(c) State, with reasons, whether there would be an agriculture charge if BBF did not dispose of the mill until the year 2030.",
-     "ms": "Soalan\nBioBloom Farm (BBF) grows vegetables. BBF commenced its operations on 1 January 2023 and closes its accounts on 31 December annually. Details of the expenditure incurred by BBF in the two years ended 31 December 2023 and 2024 are as follows:\n\nAssets acquired or constructed during the year ended 31 December 2023 (RM):\n(i) Land: 25,000\n(ii) Mill: 300,000\n(iii) Clearing of land for cultivation: 10,000\n(iv) Planting of vegetable seedlings: 8,000\n\nAssets acquired or constructed during the year ended 31 December 2024 (RM):\n(v) Construction of bridge: 60,000\n(vi) Shed for farm tools: 12,000\n(vii) Worker accommodation located on the farm: 140,000\n(viii) Residential house used by a senior manager in an estate in town about ten kilometres from the farm: 160,000\n(ix) Replanting of vegetable seedlings: 2,000\n\nRequired:\n(a) Compute the agriculture allowances available to BBF for each of the years of assessment 2023 and 2024.\nNote: You should list all of the items (i) to (ix) and indicate by the use of the word ‘nil’ any item for which an allowance is not available.\n(b) Compute the agriculture charge for the year of assessment 2026, if any, if BBF disposed of the mill for RM180,000 on 10 January 2026.\n(c) State, with reasons, whether there would be an agriculture charge if BBF did not dispose of the mill until the year 2030."
+     "en": "**Question**<br>BioBloom Farm (BBF) grows vegetables. BBF commenced its operations on 1 January 2023 and closes its accounts on 31 December annually. Details of the expenditure incurred by BBF in the two years ended 31 December 2023 and 2024 are as follows:",
+     "ms": "**Soalan**<br>BioBloom Farm (BBF) grows vegetables. BBF commenced its operations on 1 January 2023 and closes its accounts on 31 December annually. Details of the expenditure incurred by BBF in the two years ended 31 December 2023 and 2024 are as follows:"
+    },
+    {
+     "k": "p",
+     "en": "Assets acquired or constructed during the year ended 31 December 2023 (RM):",
+     "ms": "Assets acquired or constructed during the year ended 31 December 2023 (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(i) Land",
+        "25,000"
+       ],
+       "ms": [
+        "(i) Land",
+        "25,000"
+       ]
+      },
+      {
+       "en": [
+        "(ii) Mill",
+        "300,000"
+       ],
+       "ms": [
+        "(ii) Mill",
+        "300,000"
+       ]
+      },
+      {
+       "en": [
+        "(iii) Clearing of land for cultivation",
+        "10,000"
+       ],
+       "ms": [
+        "(iii) Clearing of land for cultivation",
+        "10,000"
+       ]
+      },
+      {
+       "en": [
+        "(iv) Planting of vegetable seedlings",
+        "8,000"
+       ],
+       "ms": [
+        "(iv) Planting of vegetable seedlings",
+        "8,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Assets acquired or constructed during the year ended 31 December 2024 (RM):",
+     "ms": "Assets acquired or constructed during the year ended 31 December 2024 (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(v) Construction of bridge",
+        "60,000"
+       ],
+       "ms": [
+        "(v) Construction of bridge",
+        "60,000"
+       ]
+      },
+      {
+       "en": [
+        "(vi) Shed for farm tools",
+        "12,000"
+       ],
+       "ms": [
+        "(vi) Shed for farm tools",
+        "12,000"
+       ]
+      },
+      {
+       "en": [
+        "(vii) Worker accommodation located on the farm",
+        "140,000"
+       ],
+       "ms": [
+        "(vii) Worker accommodation located on the farm",
+        "140,000"
+       ]
+      },
+      {
+       "en": [
+        "(viii) Residential house used by a senior manager in an estate in town about ten kilometres from the farm",
+        "160,000"
+       ],
+       "ms": [
+        "(viii) Residential house used by a senior manager in an estate in town about ten kilometres from the farm",
+        "160,000"
+       ]
+      },
+      {
+       "en": [
+        "(ix) Replanting of vegetable seedlings",
+        "2,000"
+       ],
+       "ms": [
+        "(ix) Replanting of vegetable seedlings",
+        "2,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(a) Compute the agriculture allowances available to BBF for each of the years of assessment 2023 and 2024.<br>Note: You should list all of the items (i) to (ix) and indicate by the use of the word ‘nil’ any item for which an allowance is not available.<br>(b) Compute the agriculture charge for the year of assessment 2026, if any, if BBF disposed of the mill for RM180,000 on 10 January 2026.<br>(c) State, with reasons, whether there would be an agriculture charge if BBF did not dispose of the mill until the year 2030.",
+     "ms": "**Diperlukan**<br>(a) Compute the agriculture allowances available to BBF for each of the years of assessment 2023 and 2024.<br>Note: You should list all of the items (i) to (ix) and indicate by the use of the word ‘nil’ any item for which an allowance is not available.<br>(b) Compute the agriculture charge for the year of assessment 2026, if any, if BBF disposed of the mill for RM180,000 on 10 January 2026.<br>(c) State, with reasons, whether there would be an agriculture charge if BBF did not dispose of the mill until the year 2030."
     },
     {
      "k": "table",
@@ -632,8 +767,118 @@
     },
     {
      "k": "ex",
-     "en": "Question\nSunleaf Plantations Sdn Bhd (SPSB) (accounting date 30 June) had worked an oil palm estate for several years. The company had incurred the following expenses (RM):\n1/5/2019: Expenditure on planting: 35,500\n1/8/2019: Construction of estate office: 10,000\n15/9/2020: Construction of employee’s quarters: 60,000\n1/1/2021: Expenditure on replanting: 19,000\n\nThe estate was sold to Terra Estate Sdn Bhd (TESB) (accounting date 31 March) on 31 December 2022. The agreed prices were as follows (RM):\nPlantation: 250,000\nEstate office: 10,000\nEmployee’s quarters: 45,000\n\nRequired:\nDetermine the qualifying agriculture expenditure and calculate the agriculture allowances and agriculture charges if applicable due to SPSB and SESB up to the year of assessment 2026. KPSB has elected for the agriculture charge be spread back evenly over the year of assessments for which the allowances were given.\n(The names SESB and KPSB are as printed in the sheet; they refer to Terra Estate and Sunleaf.)",
-     "ms": "Soalan\nSunleaf Plantations Sdn Bhd (SPSB) (accounting date 30 June) had worked an oil palm estate for several years. The company had incurred the following expenses (RM):\n1/5/2019: Expenditure on planting: 35,500\n1/8/2019: Construction of estate office: 10,000\n15/9/2020: Construction of employee’s quarters: 60,000\n1/1/2021: Expenditure on replanting: 19,000\n\nThe estate was sold to Terra Estate Sdn Bhd (TESB) (accounting date 31 March) on 31 December 2022. The agreed prices were as follows (RM):\nPlantation: 250,000\nEstate office: 10,000\nEmployee’s quarters: 45,000\n\nRequired:\nDetermine the qualifying agriculture expenditure and calculate the agriculture allowances and agriculture charges if applicable due to SPSB and SESB up to the year of assessment 2026. KPSB has elected for the agriculture charge be spread back evenly over the year of assessments for which the allowances were given.\n(The names SESB and KPSB are as printed in the sheet; they refer to Terra Estate and Sunleaf.)"
+     "en": "**Question**<br>Sunleaf Plantations Sdn Bhd (SPSB) (accounting date 30 June) had worked an oil palm estate for several years. The company had incurred the following expenses (RM):",
+     "ms": "**Soalan**<br>Sunleaf Plantations Sdn Bhd (SPSB) (accounting date 30 June) had worked an oil palm estate for several years. The company had incurred the following expenses (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1/5/2019: Expenditure on planting",
+        "35,500"
+       ],
+       "ms": [
+        "1/5/2019: Expenditure on planting",
+        "35,500"
+       ]
+      },
+      {
+       "en": [
+        "1/8/2019: Construction of estate office",
+        "10,000"
+       ],
+       "ms": [
+        "1/8/2019: Construction of estate office",
+        "10,000"
+       ]
+      },
+      {
+       "en": [
+        "15/9/2020: Construction of employee’s quarters",
+        "60,000"
+       ],
+       "ms": [
+        "15/9/2020: Construction of employee’s quarters",
+        "60,000"
+       ]
+      },
+      {
+       "en": [
+        "1/1/2021: Expenditure on replanting",
+        "19,000"
+       ],
+       "ms": [
+        "1/1/2021: Expenditure on replanting",
+        "19,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "The estate was sold to Terra Estate Sdn Bhd (TESB) (accounting date 31 March) on 31 December 2022. The agreed prices were as follows (RM):",
+     "ms": "The estate was sold to Terra Estate Sdn Bhd (TESB) (accounting date 31 March) on 31 December 2022. The agreed prices were as follows (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Plantation",
+        "250,000"
+       ],
+       "ms": [
+        "Plantation",
+        "250,000"
+       ]
+      },
+      {
+       "en": [
+        "Estate office",
+        "10,000"
+       ],
+       "ms": [
+        "Estate office",
+        "10,000"
+       ]
+      },
+      {
+       "en": [
+        "Employee’s quarters",
+        "45,000"
+       ],
+       "ms": [
+        "Employee’s quarters",
+        "45,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Determine the qualifying agriculture expenditure and calculate the agriculture allowances and agriculture charges if applicable due to SPSB and SESB up to the year of assessment 2026. KPSB has elected for the agriculture charge be spread back evenly over the year of assessments for which the allowances were given.<br>(The names SESB and KPSB are as printed in the sheet; they refer to Terra Estate and Sunleaf.)",
+     "ms": "**Diperlukan**<br>Determine the qualifying agriculture expenditure and calculate the agriculture allowances and agriculture charges if applicable due to SPSB and SESB up to the year of assessment 2026. KPSB has elected for the agriculture charge be spread back evenly over the year of assessments for which the allowances were given.<br>(The names SESB and KPSB are as printed in the sheet; they refer to Terra Estate and Sunleaf.)"
     },
     {
      "k": "p",
@@ -717,8 +962,163 @@
     },
     {
      "k": "ex",
-     "en": "Question\nDense Palm Oil Sdn. Bhd. (DPO) is in the business of cultivating palm oil. The adjusted income of the company for the year ended 31 March 2026 is RM563,000. Dense Palm Oil Sdn. Bhd. has incurred the following expenditure for year ending 31 March 2023, 2024 and 2025 (RM):\nJuly 2023: Cutting of forest trees: 300,000\nJuly 2023: Purchase of seedling: 65,000\nJuly 2023: Fertilizers and insecticides: 145,000\nJuly 2023: Planting cost: 100,000\nJuly 2023: Fencing: 410,000\nJuly 2023: Roads, bridges and drains: 500,000\nJuly 2023: Office building: 62,000\nFebruary 2024: Cost of the land: 3,000,000\nFebruary 2024: Legal fees and stamp duty on land acquisition: 550,000\nFebruary 2024: Fruit sorting building and loading bay: 100,000\nFebruary 2024: Accommodation for plantation workers: 650,000\nFebruary 2025: Accommodation for administration staffs: 150,000\nTotal expenditure: 6,032,000\n\nIn February 2026, DPO disposed of office building and accommodation for administration staffs for RM49,500 and RM120,000 respectively.\n\nRequired:\n(a) Calculate agriculture allowance under Schedule 3, Income Tax Act that can be claimed by DPO for the year of assessment 2026.\n(b) Calculate the statutory income of DPO for the year of assessment 2026.\n(c) Calculate the agriculture charge on the basis that DPO made an election to spread the charge under para 27, Schedule 3, Income Tax Act, clearly indicating the years of assessment affected.",
-     "ms": "Soalan\nDense Palm Oil Sdn. Bhd. (DPO) is in the business of cultivating palm oil. The adjusted income of the company for the year ended 31 March 2026 is RM563,000. Dense Palm Oil Sdn. Bhd. has incurred the following expenditure for year ending 31 March 2023, 2024 and 2025 (RM):\nJuly 2023: Cutting of forest trees: 300,000\nJuly 2023: Purchase of seedling: 65,000\nJuly 2023: Fertilizers and insecticides: 145,000\nJuly 2023: Planting cost: 100,000\nJuly 2023: Fencing: 410,000\nJuly 2023: Roads, bridges and drains: 500,000\nJuly 2023: Office building: 62,000\nFebruary 2024: Cost of the land: 3,000,000\nFebruary 2024: Legal fees and stamp duty on land acquisition: 550,000\nFebruary 2024: Fruit sorting building and loading bay: 100,000\nFebruary 2024: Accommodation for plantation workers: 650,000\nFebruary 2025: Accommodation for administration staffs: 150,000\nTotal expenditure: 6,032,000\n\nIn February 2026, DPO disposed of office building and accommodation for administration staffs for RM49,500 and RM120,000 respectively.\n\nRequired:\n(a) Calculate agriculture allowance under Schedule 3, Income Tax Act that can be claimed by DPO for the year of assessment 2026.\n(b) Calculate the statutory income of DPO for the year of assessment 2026.\n(c) Calculate the agriculture charge on the basis that DPO made an election to spread the charge under para 27, Schedule 3, Income Tax Act, clearly indicating the years of assessment affected."
+     "en": "**Question**<br>Dense Palm Oil Sdn. Bhd. (DPO) is in the business of cultivating palm oil. The adjusted income of the company for the year ended 31 March 2026 is RM563,000. Dense Palm Oil Sdn. Bhd. has incurred the following expenditure for year ending 31 March 2023, 2024 and 2025 (RM):",
+     "ms": "**Soalan**<br>Dense Palm Oil Sdn. Bhd. (DPO) is in the business of cultivating palm oil. The adjusted income of the company for the year ended 31 March 2026 is RM563,000. Dense Palm Oil Sdn. Bhd. has incurred the following expenditure for year ending 31 March 2023, 2024 and 2025 (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "July 2023: Cutting of forest trees",
+        "300,000"
+       ],
+       "ms": [
+        "July 2023: Cutting of forest trees",
+        "300,000"
+       ]
+      },
+      {
+       "en": [
+        "July 2023: Purchase of seedling",
+        "65,000"
+       ],
+       "ms": [
+        "July 2023: Purchase of seedling",
+        "65,000"
+       ]
+      },
+      {
+       "en": [
+        "July 2023: Fertilizers and insecticides",
+        "145,000"
+       ],
+       "ms": [
+        "July 2023: Fertilizers and insecticides",
+        "145,000"
+       ]
+      },
+      {
+       "en": [
+        "July 2023: Planting cost",
+        "100,000"
+       ],
+       "ms": [
+        "July 2023: Planting cost",
+        "100,000"
+       ]
+      },
+      {
+       "en": [
+        "July 2023: Fencing",
+        "410,000"
+       ],
+       "ms": [
+        "July 2023: Fencing",
+        "410,000"
+       ]
+      },
+      {
+       "en": [
+        "July 2023: Roads, bridges and drains",
+        "500,000"
+       ],
+       "ms": [
+        "July 2023: Roads, bridges and drains",
+        "500,000"
+       ]
+      },
+      {
+       "en": [
+        "July 2023: Office building",
+        "62,000"
+       ],
+       "ms": [
+        "July 2023: Office building",
+        "62,000"
+       ]
+      },
+      {
+       "en": [
+        "February 2024: Cost of the land",
+        "3,000,000"
+       ],
+       "ms": [
+        "February 2024: Cost of the land",
+        "3,000,000"
+       ]
+      },
+      {
+       "en": [
+        "February 2024: Legal fees and stamp duty on land acquisition",
+        "550,000"
+       ],
+       "ms": [
+        "February 2024: Legal fees and stamp duty on land acquisition",
+        "550,000"
+       ]
+      },
+      {
+       "en": [
+        "February 2024: Fruit sorting building and loading bay",
+        "100,000"
+       ],
+       "ms": [
+        "February 2024: Fruit sorting building and loading bay",
+        "100,000"
+       ]
+      },
+      {
+       "en": [
+        "February 2024: Accommodation for plantation workers",
+        "650,000"
+       ],
+       "ms": [
+        "February 2024: Accommodation for plantation workers",
+        "650,000"
+       ]
+      },
+      {
+       "en": [
+        "February 2025: Accommodation for administration staffs",
+        "150,000"
+       ],
+       "ms": [
+        "February 2025: Accommodation for administration staffs",
+        "150,000"
+       ]
+      },
+      {
+       "en": [
+        "Total expenditure",
+        "6,032,000"
+       ],
+       "ms": [
+        "Total expenditure",
+        "6,032,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "In February 2026, DPO disposed of office building and accommodation for administration staffs for RM49,500 and RM120,000 respectively.",
+     "ms": "In February 2026, DPO disposed of office building and accommodation for administration staffs for RM49,500 and RM120,000 respectively."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(a) Calculate agriculture allowance under Schedule 3, Income Tax Act that can be claimed by DPO for the year of assessment 2026.<br>(b) Calculate the statutory income of DPO for the year of assessment 2026.<br>(c) Calculate the agriculture charge on the basis that DPO made an election to spread the charge under para 27, Schedule 3, Income Tax Act, clearly indicating the years of assessment affected.",
+     "ms": "**Diperlukan**<br>(a) Calculate agriculture allowance under Schedule 3, Income Tax Act that can be claimed by DPO for the year of assessment 2026.<br>(b) Calculate the statutory income of DPO for the year of assessment 2026.<br>(c) Calculate the agriculture charge on the basis that DPO made an election to spread the charge under para 27, Schedule 3, Income Tax Act, clearly indicating the years of assessment affected."
     },
     {
      "k": "p",
@@ -867,8 +1267,103 @@
     },
     {
      "k": "ex",
-     "en": "Question\nMaroon Sdn. Bhd. (accounting year end 30 June) engages in the horticulture business and has a farm of various vegetables. The following expenditures were incurred by the company since operation (RM):\n17 January 2023: Purchase of one acre of land: 120,000\n12 April 2023: Clearing and ploughing of the land: 35,000\n22 June 2023: Seedling of vegetables for the first time: 28,000\n10 November 2023: Purchase of container for workers’ accommodation: 40,000\n4 August 2024: Purchase of container for an office: 24,000\n19 February 2025: Purchase of harvesting machine: 52,000\n9 May 2025: Seedling of vegetables for the second time: 33,000\n\nOn 29 July 2025, the farm together with other assets related to it were sold to Violet Berhad (accounting year end 31 December) for RM640,000, of which RM300,000 is for the land, RM30,000 is for the workers’ accommodation, RM16,000 is for the office, and the balance is for the farm and its plantation.\n\nRequired:\n(a) Compute agriculture allowances available for Maroon and Violet for all relevant years of assessment up to the year of assessment 2026.\n(b) Compute any agriculture charges that may arise from the disposal. Assume Maroon decided to spread the agriculture charges.",
-     "ms": "Soalan\nMaroon Sdn. Bhd. (accounting year end 30 June) engages in the horticulture business and has a farm of various vegetables. The following expenditures were incurred by the company since operation (RM):\n17 January 2023: Purchase of one acre of land: 120,000\n12 April 2023: Clearing and ploughing of the land: 35,000\n22 June 2023: Seedling of vegetables for the first time: 28,000\n10 November 2023: Purchase of container for workers’ accommodation: 40,000\n4 August 2024: Purchase of container for an office: 24,000\n19 February 2025: Purchase of harvesting machine: 52,000\n9 May 2025: Seedling of vegetables for the second time: 33,000\n\nOn 29 July 2025, the farm together with other assets related to it were sold to Violet Berhad (accounting year end 31 December) for RM640,000, of which RM300,000 is for the land, RM30,000 is for the workers’ accommodation, RM16,000 is for the office, and the balance is for the farm and its plantation.\n\nRequired:\n(a) Compute agriculture allowances available for Maroon and Violet for all relevant years of assessment up to the year of assessment 2026.\n(b) Compute any agriculture charges that may arise from the disposal. Assume Maroon decided to spread the agriculture charges."
+     "en": "**Question**<br>Maroon Sdn. Bhd. (accounting year end 30 June) engages in the horticulture business and has a farm of various vegetables. The following expenditures were incurred by the company since operation (RM):",
+     "ms": "**Soalan**<br>Maroon Sdn. Bhd. (accounting year end 30 June) engages in the horticulture business and has a farm of various vegetables. The following expenditures were incurred by the company since operation (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "17 January 2023: Purchase of one acre of land",
+        "120,000"
+       ],
+       "ms": [
+        "17 January 2023: Purchase of one acre of land",
+        "120,000"
+       ]
+      },
+      {
+       "en": [
+        "12 April 2023: Clearing and ploughing of the land",
+        "35,000"
+       ],
+       "ms": [
+        "12 April 2023: Clearing and ploughing of the land",
+        "35,000"
+       ]
+      },
+      {
+       "en": [
+        "22 June 2023: Seedling of vegetables for the first time",
+        "28,000"
+       ],
+       "ms": [
+        "22 June 2023: Seedling of vegetables for the first time",
+        "28,000"
+       ]
+      },
+      {
+       "en": [
+        "10 November 2023: Purchase of container for workers’ accommodation",
+        "40,000"
+       ],
+       "ms": [
+        "10 November 2023: Purchase of container for workers’ accommodation",
+        "40,000"
+       ]
+      },
+      {
+       "en": [
+        "4 August 2024: Purchase of container for an office",
+        "24,000"
+       ],
+       "ms": [
+        "4 August 2024: Purchase of container for an office",
+        "24,000"
+       ]
+      },
+      {
+       "en": [
+        "19 February 2025: Purchase of harvesting machine",
+        "52,000"
+       ],
+       "ms": [
+        "19 February 2025: Purchase of harvesting machine",
+        "52,000"
+       ]
+      },
+      {
+       "en": [
+        "9 May 2025: Seedling of vegetables for the second time",
+        "33,000"
+       ],
+       "ms": [
+        "9 May 2025: Seedling of vegetables for the second time",
+        "33,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "On 29 July 2025, the farm together with other assets related to it were sold to Violet Berhad (accounting year end 31 December) for RM640,000, of which RM300,000 is for the land, RM30,000 is for the workers’ accommodation, RM16,000 is for the office, and the balance is for the farm and its plantation.",
+     "ms": "On 29 July 2025, the farm together with other assets related to it were sold to Violet Berhad (accounting year end 31 December) for RM640,000, of which RM300,000 is for the land, RM30,000 is for the workers’ accommodation, RM16,000 is for the office, and the balance is for the farm and its plantation."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(a) Compute agriculture allowances available for Maroon and Violet for all relevant years of assessment up to the year of assessment 2026.<br>(b) Compute any agriculture charges that may arise from the disposal. Assume Maroon decided to spread the agriculture charges.",
+     "ms": "**Diperlukan**<br>(a) Compute agriculture allowances available for Maroon and Violet for all relevant years of assessment up to the year of assessment 2026.<br>(b) Compute any agriculture charges that may arise from the disposal. Assume Maroon decided to spread the agriculture charges."
     },
     {
      "k": "p",
@@ -993,8 +1488,131 @@
     },
     {
      "k": "ex",
-     "en": "Question\nLai Lai Sdn. Bhd. (accounting year end 30 June) has been carrying on the business of cocoa plantation since 2018. On 18 January 2023, the company acquired 2 acres of agricultural land for RM500,000 to open new cocoa plantation.\n\nThe following expenses were incurred by Lai Lai Sdn. Bhd. for the cocoa plantation (RM):\n2 March 2023: Clearing of land: 16,000\n19 May 2023: Seedling and fertilizing: 7,000\n6 July 2023: Construction of workers’ quarters: 20,000\n25 November 2023: Construction of store: 10,000\n\nOn 21 August 2025, the cocoa plantation, together with all buildings constructed on it, were sold to Bye Bye Sdn. Bhd. (accounting year end 31 December) for RM650,000 (RM450,000 for the land). The following information relates to Lai Lai Sdn. Bhd. for YA 2025 and YA 2026 (RM):\nAdjusted income/(loss) from agriculture business: YA2025 123,000; YA2026 (48,000)\nIncome from investment in fixed deposit: YA2025 10,000; YA2026 12,000\nApproved donation: YA2025 4,000; YA2026 6,000\n\nRequired:\n(a) Calculate the agriculture allowances/charges under Schedule 3 of Income Tax Act 1967 that can be claimed by Lai Lai Sdn Bhd. for all relevant years of assessment up to YA 2026. No election to spread back charges was made upon disposal of the cocoa plantation.\n(b) Calculate the agriculture allowances/charges under Schedule 3 of Income Tax Act 1967 that can be claimed by Bye Bye Sdn Bhd. for all relevant years of assessment up to YA 2026.\n(c) Calculate total income of Lai Lai Sdn. Bhd. for YA 2025 and YA 2026.",
-     "ms": "Soalan\nLai Lai Sdn. Bhd. (accounting year end 30 June) has been carrying on the business of cocoa plantation since 2018. On 18 January 2023, the company acquired 2 acres of agricultural land for RM500,000 to open new cocoa plantation.\n\nThe following expenses were incurred by Lai Lai Sdn. Bhd. for the cocoa plantation (RM):\n2 March 2023: Clearing of land: 16,000\n19 May 2023: Seedling and fertilizing: 7,000\n6 July 2023: Construction of workers’ quarters: 20,000\n25 November 2023: Construction of store: 10,000\n\nOn 21 August 2025, the cocoa plantation, together with all buildings constructed on it, were sold to Bye Bye Sdn. Bhd. (accounting year end 31 December) for RM650,000 (RM450,000 for the land). The following information relates to Lai Lai Sdn. Bhd. for YA 2025 and YA 2026 (RM):\nAdjusted income/(loss) from agriculture business: YA2025 123,000; YA2026 (48,000)\nIncome from investment in fixed deposit: YA2025 10,000; YA2026 12,000\nApproved donation: YA2025 4,000; YA2026 6,000\n\nRequired:\n(a) Calculate the agriculture allowances/charges under Schedule 3 of Income Tax Act 1967 that can be claimed by Lai Lai Sdn Bhd. for all relevant years of assessment up to YA 2026. No election to spread back charges was made upon disposal of the cocoa plantation.\n(b) Calculate the agriculture allowances/charges under Schedule 3 of Income Tax Act 1967 that can be claimed by Bye Bye Sdn Bhd. for all relevant years of assessment up to YA 2026.\n(c) Calculate total income of Lai Lai Sdn. Bhd. for YA 2025 and YA 2026."
+     "en": "**Question**<br>Lai Lai Sdn. Bhd. (accounting year end 30 June) has been carrying on the business of cocoa plantation since 2018. On 18 January 2023, the company acquired 2 acres of agricultural land for RM500,000 to open new cocoa plantation.",
+     "ms": "**Soalan**<br>Lai Lai Sdn. Bhd. (accounting year end 30 June) has been carrying on the business of cocoa plantation since 2018. On 18 January 2023, the company acquired 2 acres of agricultural land for RM500,000 to open new cocoa plantation."
+    },
+    {
+     "k": "p",
+     "en": "The following expenses were incurred by Lai Lai Sdn. Bhd. for the cocoa plantation (RM):",
+     "ms": "The following expenses were incurred by Lai Lai Sdn. Bhd. for the cocoa plantation (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2 March 2023: Clearing of land",
+        "16,000"
+       ],
+       "ms": [
+        "2 March 2023: Clearing of land",
+        "16,000"
+       ]
+      },
+      {
+       "en": [
+        "19 May 2023: Seedling and fertilizing",
+        "7,000"
+       ],
+       "ms": [
+        "19 May 2023: Seedling and fertilizing",
+        "7,000"
+       ]
+      },
+      {
+       "en": [
+        "6 July 2023: Construction of workers’ quarters",
+        "20,000"
+       ],
+       "ms": [
+        "6 July 2023: Construction of workers’ quarters",
+        "20,000"
+       ]
+      },
+      {
+       "en": [
+        "25 November 2023: Construction of store",
+        "10,000"
+       ],
+       "ms": [
+        "25 November 2023: Construction of store",
+        "10,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "On 21 August 2025, the cocoa plantation, together with all buildings constructed on it, were sold to Bye Bye Sdn. Bhd. (accounting year end 31 December) for RM650,000 (RM450,000 for the land). The following information relates to Lai Lai Sdn. Bhd. for YA 2025 and YA 2026 (RM):",
+     "ms": "On 21 August 2025, the cocoa plantation, together with all buildings constructed on it, were sold to Bye Bye Sdn. Bhd. (accounting year end 31 December) for RM650,000 (RM450,000 for the land). The following information relates to Lai Lai Sdn. Bhd. for YA 2025 and YA 2026 (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "YA2025",
+       "YA2026"
+      ],
+      "ms": [
+       "Item",
+       "YA2025",
+       "YA2026"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Adjusted income/(loss) from agriculture business",
+        "123,000",
+        "(48,000)"
+       ],
+       "ms": [
+        "Adjusted income/(loss) from agriculture business",
+        "123,000",
+        "(48,000)"
+       ]
+      },
+      {
+       "en": [
+        "Income from investment in fixed deposit",
+        "10,000",
+        "12,000"
+       ],
+       "ms": [
+        "Income from investment in fixed deposit",
+        "10,000",
+        "12,000"
+       ]
+      },
+      {
+       "en": [
+        "Approved donation",
+        "4,000",
+        "6,000"
+       ],
+       "ms": [
+        "Approved donation",
+        "4,000",
+        "6,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(a) Calculate the agriculture allowances/charges under Schedule 3 of Income Tax Act 1967 that can be claimed by Lai Lai Sdn Bhd. for all relevant years of assessment up to YA 2026. No election to spread back charges was made upon disposal of the cocoa plantation.<br>(b) Calculate the agriculture allowances/charges under Schedule 3 of Income Tax Act 1967 that can be claimed by Bye Bye Sdn Bhd. for all relevant years of assessment up to YA 2026.<br>(c) Calculate total income of Lai Lai Sdn. Bhd. for YA 2025 and YA 2026.",
+     "ms": "**Diperlukan**<br>(a) Calculate the agriculture allowances/charges under Schedule 3 of Income Tax Act 1967 that can be claimed by Lai Lai Sdn Bhd. for all relevant years of assessment up to YA 2026. No election to spread back charges was made upon disposal of the cocoa plantation.<br>(b) Calculate the agriculture allowances/charges under Schedule 3 of Income Tax Act 1967 that can be claimed by Bye Bye Sdn Bhd. for all relevant years of assessment up to YA 2026.<br>(c) Calculate total income of Lai Lai Sdn. Bhd. for YA 2025 and YA 2026."
     },
     {
      "k": "p",
@@ -1018,8 +1636,23 @@
     },
     {
      "k": "ex",
-     "en": "Question\nQ6\nHibiscus Sdn Bhd (HSB) a Malaysian resident company with a 31 December year end is engaged in the plantation business. HSB had completed the construction of and commenced to use in its business, six units of quarters for workers in the plantation on 1 September 2023 costing RM80,000. On 30 September 2026, three of the units were sold for RM40,000 to Rose Sdn Bhd an adjacent estate owner.\n\nRequired:\n(i) Compute the agricultural allowances for HSB in respect of the quarters for workers for the years of assessment 2023 to 2026.\n(ii) Explain why an agricultural charge will be imposed on HSB in relation to the disposal of the quarters to Rose Sdn Bhd in the year of assessment 2026 and compute the charge assuming no elections were made by HSB.\n(iii) For (ii) above, calculate the agricultural charge for the relevant years of assessment for HSB assuming an election was made for the spread back of the charges under Paragraph 27 of Schedule 3 of the ITA.\n(iv) Compute the agricultural allowances that can be claimed by Rose Sdn Bhd for the year of assessment 2026 if its year end was:\n(a) 30 June\n(b) 30 November\n\nQ9 (same facts, with the names Hijau Sdn. Bhd. (HSB) and Ria Sdn. Bhd.). Hijau Sdn. Bhd. (HSB) a Malaysian resident company with a 31 December year end is engaged in the plantation business. HSB had completed the construction of and commenced to use in its business, six units of quarters for workers in the plantation on 1 September 2023 costing RM80,000. On 30 September 2026, three of the units were sold for RM40,000 to Ria Sdn. Bhd., an adjacent estate owner.\n\nRequired:\n(a) Compute the agricultural allowances for HSB in respect of the quarters for workers for the years of assessment 2023 to 2026.\n(b) Calculate the agricultural charge will be imposed on HSB in relation to the disposal of the quarters to Ria Sdn. Bhd. in the year of assessment 2026 assuming:\n(i) no elections were made by HSB.\n(ii) an election was made for the spread back of the charges under Paragraph 27 of Schedule 3 of the ITA.\n(c) Compute the agricultural allowances that can be claimed by Ria Sdn. Bhd. for the year of assessment 2026 if its year end was:\n(i) 30 June\n(iii) 30 November (numbered as printed in the sheet)",
-     "ms": "Soalan\nQ6\nHibiscus Sdn Bhd (HSB) a Malaysian resident company with a 31 December year end is engaged in the plantation business. HSB had completed the construction of and commenced to use in its business, six units of quarters for workers in the plantation on 1 September 2023 costing RM80,000. On 30 September 2026, three of the units were sold for RM40,000 to Rose Sdn Bhd an adjacent estate owner.\n\nRequired:\n(i) Compute the agricultural allowances for HSB in respect of the quarters for workers for the years of assessment 2023 to 2026.\n(ii) Explain why an agricultural charge will be imposed on HSB in relation to the disposal of the quarters to Rose Sdn Bhd in the year of assessment 2026 and compute the charge assuming no elections were made by HSB.\n(iii) For (ii) above, calculate the agricultural charge for the relevant years of assessment for HSB assuming an election was made for the spread back of the charges under Paragraph 27 of Schedule 3 of the ITA.\n(iv) Compute the agricultural allowances that can be claimed by Rose Sdn Bhd for the year of assessment 2026 if its year end was:\n(a) 30 June\n(b) 30 November\n\nQ9 (same facts, with the names Hijau Sdn. Bhd. (HSB) and Ria Sdn. Bhd.). Hijau Sdn. Bhd. (HSB) a Malaysian resident company with a 31 December year end is engaged in the plantation business. HSB had completed the construction of and commenced to use in its business, six units of quarters for workers in the plantation on 1 September 2023 costing RM80,000. On 30 September 2026, three of the units were sold for RM40,000 to Ria Sdn. Bhd., an adjacent estate owner.\n\nRequired:\n(a) Compute the agricultural allowances for HSB in respect of the quarters for workers for the years of assessment 2023 to 2026.\n(b) Calculate the agricultural charge will be imposed on HSB in relation to the disposal of the quarters to Ria Sdn. Bhd. in the year of assessment 2026 assuming:\n(i) no elections were made by HSB.\n(ii) an election was made for the spread back of the charges under Paragraph 27 of Schedule 3 of the ITA.\n(c) Compute the agricultural allowances that can be claimed by Ria Sdn. Bhd. for the year of assessment 2026 if its year end was:\n(i) 30 June\n(iii) 30 November (numbered as printed in the sheet)"
+     "en": "**Question**<br>Q6<br>Hibiscus Sdn Bhd (HSB) a Malaysian resident company with a 31 December year end is engaged in the plantation business. HSB had completed the construction of and commenced to use in its business, six units of quarters for workers in the plantation on 1 September 2023 costing RM80,000. On 30 September 2026, three of the units were sold for RM40,000 to Rose Sdn Bhd an adjacent estate owner.",
+     "ms": "**Soalan**<br>Q6<br>Hibiscus Sdn Bhd (HSB) a Malaysian resident company with a 31 December year end is engaged in the plantation business. HSB had completed the construction of and commenced to use in its business, six units of quarters for workers in the plantation on 1 September 2023 costing RM80,000. On 30 September 2026, three of the units were sold for RM40,000 to Rose Sdn Bhd an adjacent estate owner."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(i) Compute the agricultural allowances for HSB in respect of the quarters for workers for the years of assessment 2023 to 2026.<br>(ii) Explain why an agricultural charge will be imposed on HSB in relation to the disposal of the quarters to Rose Sdn Bhd in the year of assessment 2026 and compute the charge assuming no elections were made by HSB.<br>(iii) For (ii) above, calculate the agricultural charge for the relevant years of assessment for HSB assuming an election was made for the spread back of the charges under Paragraph 27 of Schedule 3 of the ITA.<br>(iv) Compute the agricultural allowances that can be claimed by Rose Sdn Bhd for the year of assessment 2026 if its year end was:<br>(a) 30 June<br>(b) 30 November",
+     "ms": "**Diperlukan**<br>(i) Compute the agricultural allowances for HSB in respect of the quarters for workers for the years of assessment 2023 to 2026.<br>(ii) Explain why an agricultural charge will be imposed on HSB in relation to the disposal of the quarters to Rose Sdn Bhd in the year of assessment 2026 and compute the charge assuming no elections were made by HSB.<br>(iii) For (ii) above, calculate the agricultural charge for the relevant years of assessment for HSB assuming an election was made for the spread back of the charges under Paragraph 27 of Schedule 3 of the ITA.<br>(iv) Compute the agricultural allowances that can be claimed by Rose Sdn Bhd for the year of assessment 2026 if its year end was:<br>(a) 30 June<br>(b) 30 November"
+    },
+    {
+     "k": "p",
+     "en": "Q9 (same facts, with the names Hijau Sdn. Bhd. (HSB) and Ria Sdn. Bhd.). Hijau Sdn. Bhd. (HSB) a Malaysian resident company with a 31 December year end is engaged in the plantation business. HSB had completed the construction of and commenced to use in its business, six units of quarters for workers in the plantation on 1 September 2023 costing RM80,000. On 30 September 2026, three of the units were sold for RM40,000 to Ria Sdn. Bhd., an adjacent estate owner.",
+     "ms": "Q9 (same facts, with the names Hijau Sdn. Bhd. (HSB) and Ria Sdn. Bhd.). Hijau Sdn. Bhd. (HSB) a Malaysian resident company with a 31 December year end is engaged in the plantation business. HSB had completed the construction of and commenced to use in its business, six units of quarters for workers in the plantation on 1 September 2023 costing RM80,000. On 30 September 2026, three of the units were sold for RM40,000 to Ria Sdn. Bhd., an adjacent estate owner."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(a) Compute the agricultural allowances for HSB in respect of the quarters for workers for the years of assessment 2023 to 2026.<br>(b) Calculate the agricultural charge will be imposed on HSB in relation to the disposal of the quarters to Ria Sdn. Bhd. in the year of assessment 2026 assuming:<br>(i) no elections were made by HSB.<br>(ii) an election was made for the spread back of the charges under Paragraph 27 of Schedule 3 of the ITA.<br>(c) Compute the agricultural allowances that can be claimed by Ria Sdn. Bhd. for the year of assessment 2026 if its year end was:<br>(i) 30 June<br>(iii) 30 November (numbered as printed in the sheet)",
+     "ms": "**Diperlukan**<br>(a) Compute the agricultural allowances for HSB in respect of the quarters for workers for the years of assessment 2023 to 2026.<br>(b) Calculate the agricultural charge will be imposed on HSB in relation to the disposal of the quarters to Ria Sdn. Bhd. in the year of assessment 2026 assuming:<br>(i) no elections were made by HSB.<br>(ii) an election was made for the spread back of the charges under Paragraph 27 of Schedule 3 of the ITA.<br>(c) Compute the agricultural allowances that can be claimed by Ria Sdn. Bhd. for the year of assessment 2026 if its year end was:<br>(i) 30 June<br>(iii) 30 November (numbered as printed in the sheet)"
     },
     {
      "k": "p",
@@ -1043,8 +1676,93 @@
     },
     {
      "k": "ex",
-     "en": "Question\nDusun Baik Sdn. Bhd., involved in the business of planting dragon fruits. The company commenced its business in April 2022 and prepared its accounts to 30 November annually. The following expenditures were incurred since the commencement (RM):\n1 May 2022: Cost of land: 1,500,000\n21 August 2022: Cost of clearing the land: 200,000\n1 September 2022: Cost of tractor: 95,000\n1 February 2023: Office: 120,000\n18 March 2023: Planting: 350,000\n1 December 2023: Quarters for employees: 85,000\n\nDue to financial problems, the office was sold to Star Farm Sdn. Bhd. on 30 April 2025 for a consideration of RM150,000. On 28 February 2026, the company decided to cease its business operation and sold off the entire plantation to Star Farm Sdn. Bhd. for a sum of RM3,500,000. Star Farm Sdn. Bhd. makes up its accounts on 31 January every year.\n\nRequired:\n(i) Calculate the Agriculture Allowances / Charges for Dusun Baik Sdn. Bhd. and Star Farm Sdn. Bhd. for the relevant years of assessment up to the year of assessment 2026, assuming:\n(1) Election is made under Paragraph 27 of the Income Tax Act 1967.\n(2) No election is made under Paragraph 27 of the Income Tax Act 1967.",
-     "ms": "Soalan\nDusun Baik Sdn. Bhd., involved in the business of planting dragon fruits. The company commenced its business in April 2022 and prepared its accounts to 30 November annually. The following expenditures were incurred since the commencement (RM):\n1 May 2022: Cost of land: 1,500,000\n21 August 2022: Cost of clearing the land: 200,000\n1 September 2022: Cost of tractor: 95,000\n1 February 2023: Office: 120,000\n18 March 2023: Planting: 350,000\n1 December 2023: Quarters for employees: 85,000\n\nDue to financial problems, the office was sold to Star Farm Sdn. Bhd. on 30 April 2025 for a consideration of RM150,000. On 28 February 2026, the company decided to cease its business operation and sold off the entire plantation to Star Farm Sdn. Bhd. for a sum of RM3,500,000. Star Farm Sdn. Bhd. makes up its accounts on 31 January every year.\n\nRequired:\n(i) Calculate the Agriculture Allowances / Charges for Dusun Baik Sdn. Bhd. and Star Farm Sdn. Bhd. for the relevant years of assessment up to the year of assessment 2026, assuming:\n(1) Election is made under Paragraph 27 of the Income Tax Act 1967.\n(2) No election is made under Paragraph 27 of the Income Tax Act 1967."
+     "en": "**Question**<br>Dusun Baik Sdn. Bhd., involved in the business of planting dragon fruits. The company commenced its business in April 2022 and prepared its accounts to 30 November annually. The following expenditures were incurred since the commencement (RM):",
+     "ms": "**Soalan**<br>Dusun Baik Sdn. Bhd., involved in the business of planting dragon fruits. The company commenced its business in April 2022 and prepared its accounts to 30 November annually. The following expenditures were incurred since the commencement (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1 May 2022: Cost of land",
+        "1,500,000"
+       ],
+       "ms": [
+        "1 May 2022: Cost of land",
+        "1,500,000"
+       ]
+      },
+      {
+       "en": [
+        "21 August 2022: Cost of clearing the land",
+        "200,000"
+       ],
+       "ms": [
+        "21 August 2022: Cost of clearing the land",
+        "200,000"
+       ]
+      },
+      {
+       "en": [
+        "1 September 2022: Cost of tractor",
+        "95,000"
+       ],
+       "ms": [
+        "1 September 2022: Cost of tractor",
+        "95,000"
+       ]
+      },
+      {
+       "en": [
+        "1 February 2023: Office",
+        "120,000"
+       ],
+       "ms": [
+        "1 February 2023: Office",
+        "120,000"
+       ]
+      },
+      {
+       "en": [
+        "18 March 2023: Planting",
+        "350,000"
+       ],
+       "ms": [
+        "18 March 2023: Planting",
+        "350,000"
+       ]
+      },
+      {
+       "en": [
+        "1 December 2023: Quarters for employees",
+        "85,000"
+       ],
+       "ms": [
+        "1 December 2023: Quarters for employees",
+        "85,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Due to financial problems, the office was sold to Star Farm Sdn. Bhd. on 30 April 2025 for a consideration of RM150,000. On 28 February 2026, the company decided to cease its business operation and sold off the entire plantation to Star Farm Sdn. Bhd. for a sum of RM3,500,000. Star Farm Sdn. Bhd. makes up its accounts on 31 January every year.",
+     "ms": "Due to financial problems, the office was sold to Star Farm Sdn. Bhd. on 30 April 2025 for a consideration of RM150,000. On 28 February 2026, the company decided to cease its business operation and sold off the entire plantation to Star Farm Sdn. Bhd. for a sum of RM3,500,000. Star Farm Sdn. Bhd. makes up its accounts on 31 January every year."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(i) Calculate the Agriculture Allowances / Charges for Dusun Baik Sdn. Bhd. and Star Farm Sdn. Bhd. for the relevant years of assessment up to the year of assessment 2026, assuming:<br>(1) Election is made under Paragraph 27 of the Income Tax Act 1967.<br>(2) No election is made under Paragraph 27 of the Income Tax Act 1967.",
+     "ms": "**Diperlukan**<br>(i) Calculate the Agriculture Allowances / Charges for Dusun Baik Sdn. Bhd. and Star Farm Sdn. Bhd. for the relevant years of assessment up to the year of assessment 2026, assuming:<br>(1) Election is made under Paragraph 27 of the Income Tax Act 1967.<br>(2) No election is made under Paragraph 27 of the Income Tax Act 1967."
     },
     {
      "k": "p",
@@ -1145,8 +1863,63 @@
     },
     {
      "k": "ex",
-     "en": "Question\nSemalu Bhd., a cucumber plantation company in Kota Tinggi has commenced the cucumber plantation since 2024. In the financial year ended 30 September 2024, the company incurred the following capital expenditure (RM’000):\nLand clearing: 100\nNew planting – cucumber seedlings: 240\nWarehouse for fertilizers: 60\n\nOn 31 July 2026, the whole plantation was sold to Sepakat Sdn Bhd for RM650,000 where RM110,000 relates to the cost of land.\n\nRequired:\nCompute the agriculture allowances or charges for Semalu Bhd. for each of the year of assessment until year of assessment 2026. Semalu Bhd. elect to spread back the agriculture charge under para 27, Schedule 3 of the ITA 1967.",
-     "ms": "Soalan\nSemalu Bhd., a cucumber plantation company in Kota Tinggi has commenced the cucumber plantation since 2024. In the financial year ended 30 September 2024, the company incurred the following capital expenditure (RM’000):\nLand clearing: 100\nNew planting – cucumber seedlings: 240\nWarehouse for fertilizers: 60\n\nOn 31 July 2026, the whole plantation was sold to Sepakat Sdn Bhd for RM650,000 where RM110,000 relates to the cost of land.\n\nRequired:\nCompute the agriculture allowances or charges for Semalu Bhd. for each of the year of assessment until year of assessment 2026. Semalu Bhd. elect to spread back the agriculture charge under para 27, Schedule 3 of the ITA 1967."
+     "en": "**Question**<br>Semalu Bhd., a cucumber plantation company in Kota Tinggi has commenced the cucumber plantation since 2024. In the financial year ended 30 September 2024, the company incurred the following capital expenditure (RM’000):",
+     "ms": "**Soalan**<br>Semalu Bhd., a cucumber plantation company in Kota Tinggi has commenced the cucumber plantation since 2024. In the financial year ended 30 September 2024, the company incurred the following capital expenditure (RM’000):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM’000"
+      ],
+      "ms": [
+       "Item",
+       "RM’000"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Land clearing",
+        "100"
+       ],
+       "ms": [
+        "Land clearing",
+        "100"
+       ]
+      },
+      {
+       "en": [
+        "New planting – cucumber seedlings",
+        "240"
+       ],
+       "ms": [
+        "New planting – cucumber seedlings",
+        "240"
+       ]
+      },
+      {
+       "en": [
+        "Warehouse for fertilizers",
+        "60"
+       ],
+       "ms": [
+        "Warehouse for fertilizers",
+        "60"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "On 31 July 2026, the whole plantation was sold to Sepakat Sdn Bhd for RM650,000 where RM110,000 relates to the cost of land.",
+     "ms": "On 31 July 2026, the whole plantation was sold to Sepakat Sdn Bhd for RM650,000 where RM110,000 relates to the cost of land."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Compute the agriculture allowances or charges for Semalu Bhd. for each of the year of assessment until year of assessment 2026. Semalu Bhd. elect to spread back the agriculture charge under para 27, Schedule 3 of the ITA 1967.",
+     "ms": "**Diperlukan**<br>Compute the agriculture allowances or charges for Semalu Bhd. for each of the year of assessment until year of assessment 2026. Semalu Bhd. elect to spread back the agriculture charge under para 27, Schedule 3 of the ITA 1967."
     },
     {
      "k": "p",
@@ -1170,8 +1943,183 @@
     },
     {
      "k": "ex",
-     "en": "Question\nMangguo Estate Sdn. Bhd. (MESB) is a subsidiary to Mango Montel Bhd. (MMB). MMB is engaged in the manufacturing of canned mango products for both local and international markets, while MESB is involved in the cultivation of mangoes on a plantation located in Batu Pahat, Johor. Both companies have a financial year ending on 31 July each year.\n\nMMB constructed an extension to its factory building in the basis period for the year of assessment 2023, and incurred the following expenditure (RM):\nCost of land: 200,000\nCost of architect fees for land: 20,000\nCost of architect fees for the extension: 10,000\nLegal fees for the extension’s approval: 20,000\nInterior design fees for the extension: 10,000\nConstruction of the extension: 570,000\n\nPart of the extension included the construction of a showroom to exhibit the company’s products, which occupied 15% of the total area. In addition, in the same year of assessment, the company constructed two blocks of living accommodation for its employees: one designated for clerical and administrative staff, and the other for manufacturing operators. The total construction cost amounted to RM480,000.\n\nMeanwhile, MESB incurred the following expenditures in 2023 (RM):\n1 September 2022: Terracing of land to reduce erosion: 100,000\n15 November 2022: Construction of roads: 155,000\n1 January 2023: Construction of accommodation for labour: 200,000\n1 March 2023: Construction of warehouse: 80,000\n1 May 2023: New planting of mango seedlings: 268,000\n6 July 2025: Repair of roads: 45,000\n\nAs a result of a disease outbreak affecting the mango plantation, MESB disposed of the plantation to RiskTaker Bhd. (RTB) for RM1.4 million on 16 September 2025. MMB is facing a shortage of mango supply from the local market and has therefore decided to cease its mango canning operations. The extended factory was sold to Manis Sdn. Bhd. on 2 December 2025 for RM1.5 million including the land for RM400,000.\n\nRequired:\n(i) Calculate the relevant industrial building allowances / charges for the year of assessment up to 2026.\n(ii) Calculate the agriculture allowance / charges claimed by the following companies for the relevant year assessments until 2026:\n(a) MESB\n(b) RTB\n(Assume MESB made an election to spread the charge under para 27, Schedule 3, Income Tax Act)\n(iii) Explain the tax implication if MESB did not make an election to spread the agriculture charges.",
-     "ms": "Soalan\nMangguo Estate Sdn. Bhd. (MESB) is a subsidiary to Mango Montel Bhd. (MMB). MMB is engaged in the manufacturing of canned mango products for both local and international markets, while MESB is involved in the cultivation of mangoes on a plantation located in Batu Pahat, Johor. Both companies have a financial year ending on 31 July each year.\n\nMMB constructed an extension to its factory building in the basis period for the year of assessment 2023, and incurred the following expenditure (RM):\nCost of land: 200,000\nCost of architect fees for land: 20,000\nCost of architect fees for the extension: 10,000\nLegal fees for the extension’s approval: 20,000\nInterior design fees for the extension: 10,000\nConstruction of the extension: 570,000\n\nPart of the extension included the construction of a showroom to exhibit the company’s products, which occupied 15% of the total area. In addition, in the same year of assessment, the company constructed two blocks of living accommodation for its employees: one designated for clerical and administrative staff, and the other for manufacturing operators. The total construction cost amounted to RM480,000.\n\nMeanwhile, MESB incurred the following expenditures in 2023 (RM):\n1 September 2022: Terracing of land to reduce erosion: 100,000\n15 November 2022: Construction of roads: 155,000\n1 January 2023: Construction of accommodation for labour: 200,000\n1 March 2023: Construction of warehouse: 80,000\n1 May 2023: New planting of mango seedlings: 268,000\n6 July 2025: Repair of roads: 45,000\n\nAs a result of a disease outbreak affecting the mango plantation, MESB disposed of the plantation to RiskTaker Bhd. (RTB) for RM1.4 million on 16 September 2025. MMB is facing a shortage of mango supply from the local market and has therefore decided to cease its mango canning operations. The extended factory was sold to Manis Sdn. Bhd. on 2 December 2025 for RM1.5 million including the land for RM400,000.\n\nRequired:\n(i) Calculate the relevant industrial building allowances / charges for the year of assessment up to 2026.\n(ii) Calculate the agriculture allowance / charges claimed by the following companies for the relevant year assessments until 2026:\n(a) MESB\n(b) RTB\n(Assume MESB made an election to spread the charge under para 27, Schedule 3, Income Tax Act)\n(iii) Explain the tax implication if MESB did not make an election to spread the agriculture charges."
+     "en": "**Question**<br>Mangguo Estate Sdn. Bhd. (MESB) is a subsidiary to Mango Montel Bhd. (MMB). MMB is engaged in the manufacturing of canned mango products for both local and international markets, while MESB is involved in the cultivation of mangoes on a plantation located in Batu Pahat, Johor. Both companies have a financial year ending on 31 July each year.",
+     "ms": "**Soalan**<br>Mangguo Estate Sdn. Bhd. (MESB) is a subsidiary to Mango Montel Bhd. (MMB). MMB is engaged in the manufacturing of canned mango products for both local and international markets, while MESB is involved in the cultivation of mangoes on a plantation located in Batu Pahat, Johor. Both companies have a financial year ending on 31 July each year."
+    },
+    {
+     "k": "p",
+     "en": "MMB constructed an extension to its factory building in the basis period for the year of assessment 2023, and incurred the following expenditure (RM):",
+     "ms": "MMB constructed an extension to its factory building in the basis period for the year of assessment 2023, and incurred the following expenditure (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Cost of land",
+        "200,000"
+       ],
+       "ms": [
+        "Cost of land",
+        "200,000"
+       ]
+      },
+      {
+       "en": [
+        "Cost of architect fees for land",
+        "20,000"
+       ],
+       "ms": [
+        "Cost of architect fees for land",
+        "20,000"
+       ]
+      },
+      {
+       "en": [
+        "Cost of architect fees for the extension",
+        "10,000"
+       ],
+       "ms": [
+        "Cost of architect fees for the extension",
+        "10,000"
+       ]
+      },
+      {
+       "en": [
+        "Legal fees for the extension’s approval",
+        "20,000"
+       ],
+       "ms": [
+        "Legal fees for the extension’s approval",
+        "20,000"
+       ]
+      },
+      {
+       "en": [
+        "Interior design fees for the extension",
+        "10,000"
+       ],
+       "ms": [
+        "Interior design fees for the extension",
+        "10,000"
+       ]
+      },
+      {
+       "en": [
+        "Construction of the extension",
+        "570,000"
+       ],
+       "ms": [
+        "Construction of the extension",
+        "570,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Part of the extension included the construction of a showroom to exhibit the company’s products, which occupied 15% of the total area. In addition, in the same year of assessment, the company constructed two blocks of living accommodation for its employees: one designated for clerical and administrative staff, and the other for manufacturing operators. The total construction cost amounted to RM480,000.",
+     "ms": "Part of the extension included the construction of a showroom to exhibit the company’s products, which occupied 15% of the total area. In addition, in the same year of assessment, the company constructed two blocks of living accommodation for its employees: one designated for clerical and administrative staff, and the other for manufacturing operators. The total construction cost amounted to RM480,000."
+    },
+    {
+     "k": "p",
+     "en": "Meanwhile, MESB incurred the following expenditures in 2023 (RM):",
+     "ms": "Meanwhile, MESB incurred the following expenditures in 2023 (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1 September 2022: Terracing of land to reduce erosion",
+        "100,000"
+       ],
+       "ms": [
+        "1 September 2022: Terracing of land to reduce erosion",
+        "100,000"
+       ]
+      },
+      {
+       "en": [
+        "15 November 2022: Construction of roads",
+        "155,000"
+       ],
+       "ms": [
+        "15 November 2022: Construction of roads",
+        "155,000"
+       ]
+      },
+      {
+       "en": [
+        "1 January 2023: Construction of accommodation for labour",
+        "200,000"
+       ],
+       "ms": [
+        "1 January 2023: Construction of accommodation for labour",
+        "200,000"
+       ]
+      },
+      {
+       "en": [
+        "1 March 2023: Construction of warehouse",
+        "80,000"
+       ],
+       "ms": [
+        "1 March 2023: Construction of warehouse",
+        "80,000"
+       ]
+      },
+      {
+       "en": [
+        "1 May 2023: New planting of mango seedlings",
+        "268,000"
+       ],
+       "ms": [
+        "1 May 2023: New planting of mango seedlings",
+        "268,000"
+       ]
+      },
+      {
+       "en": [
+        "6 July 2025: Repair of roads",
+        "45,000"
+       ],
+       "ms": [
+        "6 July 2025: Repair of roads",
+        "45,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "As a result of a disease outbreak affecting the mango plantation, MESB disposed of the plantation to RiskTaker Bhd. (RTB) for RM1.4 million on 16 September 2025. MMB is facing a shortage of mango supply from the local market and has therefore decided to cease its mango canning operations. The extended factory was sold to Manis Sdn. Bhd. on 2 December 2025 for RM1.5 million including the land for RM400,000.",
+     "ms": "As a result of a disease outbreak affecting the mango plantation, MESB disposed of the plantation to RiskTaker Bhd. (RTB) for RM1.4 million on 16 September 2025. MMB is facing a shortage of mango supply from the local market and has therefore decided to cease its mango canning operations. The extended factory was sold to Manis Sdn. Bhd. on 2 December 2025 for RM1.5 million including the land for RM400,000."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(i) Calculate the relevant industrial building allowances / charges for the year of assessment up to 2026.<br>(ii) Calculate the agriculture allowance / charges claimed by the following companies for the relevant year assessments until 2026:<br>(a) MESB<br>(b) RTB<br>(Assume MESB made an election to spread the charge under para 27, Schedule 3, Income Tax Act)<br>(iii) Explain the tax implication if MESB did not make an election to spread the agriculture charges.",
+     "ms": "**Diperlukan**<br>(i) Calculate the relevant industrial building allowances / charges for the year of assessment up to 2026.<br>(ii) Calculate the agriculture allowance / charges claimed by the following companies for the relevant year assessments until 2026:<br>(a) MESB<br>(b) RTB<br>(Assume MESB made an election to spread the charge under para 27, Schedule 3, Income Tax Act)<br>(iii) Explain the tax implication if MESB did not make an election to spread the agriculture charges."
     },
     {
      "k": "p",
@@ -1211,8 +2159,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nChoco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000.\n\nRequired: Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:\n(i) made an election under Paragraph 27 of the Income Tax Act 1967.\n(ii) made no election under Paragraph 27 of the Income Tax Act 1967.\n(7 marks)",
-     "ms": "Soalan\nChoco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000.\n\nRequired: Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:\n(i) made an election under Paragraph 27 of the Income Tax Act 1967.\n(ii) made no election under Paragraph 27 of the Income Tax Act 1967.\n(7 marks)"
+     "en": "**Question**<br>Choco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000.",
+     "ms": "**Soalan**<br>Choco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:<br>(i) made an election under Paragraph 27 of the Income Tax Act 1967.<br>(ii) made no election under Paragraph 27 of the Income Tax Act 1967.<br>(7 marks)",
+     "ms": "**Diperlukan**<br>Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:<br>(i) made an election under Paragraph 27 of the Income Tax Act 1967.<br>(ii) made no election under Paragraph 27 of the Income Tax Act 1967.<br>(7 marks)"
     },
     {
      "k": "p",

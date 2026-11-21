@@ -451,7 +451,8 @@ function renderBlock(b) {
     case 'je': return `<div class="je"><div class="jt">${esc(b.title)}</div>${b.lines.map(l => `<div class="jl ${l[0] === 'Cr' ? 'cr' : ''}"><span>${l[0]}</span><span>${esc(l[1])}</span><span>${l[2]}</span></div>`).join('')}</div>`;
     case 'table': {
       const mkT = (L) => `<div class="tw"><table><thead><tr>${b.head[L].map(h => `<th>${esc(h)}</th>`).join('')}</tr></thead><tbody>${b.rows.map(r => `<tr>${r[L].map((c, i) => `<${i ? 'td' : 'th'}>${esc(c)}</${i ? 'td' : 'th'}>`).join('')}</tr>`).join('')}</tbody></table></div>`;
-      return S.lang === 'en' ? mkT('en') : S.lang === 'ms' ? mkT('ms') : `<div class="en">${mkT('en')}</div><div class="ms">${mkT('ms')}</div>`;
+      const sameT = same(b.head.en, b.head.ms) && same(b.rows.map(r => r.en), b.rows.map(r => r.ms));
+      return S.lang === 'en' || (S.lang === 'dual' && sameT) ? mkT('en') : S.lang === 'ms' ? mkT('ms') : `<div class="en">${mkT('en')}</div><div class="ms">${mkT('ms')}</div>`;
     }
   }
   return '';

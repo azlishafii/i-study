@@ -50,8 +50,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nSugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:\n18 February 2023: Date of incorporation\n26 May 2023: Land acquired\n11 August 2023: Agreement signed for construction of factory building\n24 October 2024: Construction of factory building was completed and ready for use\n1 December 2024: First batch of raw materials received\n12 January 2025: First sale of products\n\nRequired: Explain when Sugeh Sdn Bhd will be regarded as having commenced trading.",
-     "ms": "Soalan\nSugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:\n18 February 2023: Date of incorporation\n26 May 2023: Land acquired\n11 August 2023: Agreement signed for construction of factory building\n24 October 2024: Construction of factory building was completed and ready for use\n1 December 2024: First batch of raw materials received\n12 January 2025: First sale of products\n\nRequired: Explain when Sugeh Sdn Bhd will be regarded as having commenced trading."
+     "en": "**Question**<br>Sugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:<br>18 February 2023: Date of incorporation<br>26 May 2023: Land acquired<br>11 August 2023: Agreement signed for construction of factory building<br>24 October 2024: Construction of factory building was completed and ready for use<br>1 December 2024: First batch of raw materials received<br>12 January 2025: First sale of products",
+     "ms": "**Soalan**<br>Sugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:<br>18 February 2023: Date of incorporation<br>26 May 2023: Land acquired<br>11 August 2023: Agreement signed for construction of factory building<br>24 October 2024: Construction of factory building was completed and ready for use<br>1 December 2024: First batch of raw materials received<br>12 January 2025: First sale of products"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Explain when Sugeh Sdn Bhd will be regarded as having commenced trading.",
+     "ms": "**Diperlukan**<br>Explain when Sugeh Sdn Bhd will be regarded as having commenced trading."
     },
     {
      "k": "table",
@@ -160,11 +165,6 @@
      "k": "p",
      "en": "Answer: SSB is regarded as having commenced trading on 1 December 2024. Commencement is the start of activities in the course of business, as distinct from preparatory activities (PR 11/2013 para 5.2); for manufacturing, the purchase of raw materials is the indicator. Consequences: the first basis period is 1.12.2024–31.12.2024 (under 12 months, same year), so YA2024 = 1.12.2024–31.12.2024 and YA2025 = 1.1.2025–31.12.2025; revenue expenses incurred before 1.12.2024 that qualify are deemed incurred on that day.",
      "ms": "Jawapan: SSB dianggap memulakan perdagangan pada 1 Disember 2024. Permulaan ialah mula aktiviti dalam perjalanan perniagaan, berbeza daripada aktiviti persediaan (PR 11/2013 para 5.2); bagi pembuatan, pembelian bahan mentah ialah petunjuknya. Akibatnya: tempoh asas pertama 1.12.2024–31.12.2024 (kurang 12 bulan, tahun sama), jadi YA2024 = 1.12.2024–31.12.2024 dan YA2025 = 1.1.2025–31.12.2025; perbelanjaan hasil sebelum 1.12.2024 yang layak dianggap ditanggung pada hari itu."
-    },
-    {
-     "k": "note",
-     "en": "Your slide 7 (Chapter 1) says manufacturing starts when plant and machinery are in place and stock has arrived. Both give 1.12.2024 here, if the machinery was already installed.",
-     "ms": "Slaid 7 anda (Bab 1) menyatakan pembuatan bermula apabila loji dan jentera sedia dan stok tiba. Kedua-duanya memberi 1.12.2024 di sini, jika jentera sudah dipasang."
     }
    ]
   },
@@ -178,122 +178,24 @@
    "ref": "Chapter 1",
    "blocks": [
     {
+     "k": "note",
+     "en": "Your slide 7 (Chapter 1) says manufacturing starts when plant and machinery are in place and stock has arrived. Both give 1.12.2024 here, if the machinery was already installed.",
+     "ms": "Slaid 7 anda (Bab 1) menyatakan pembuatan bermula apabila loji dan jentera sedia dan stok tiba. Kedua-duanya memberi 1.12.2024 di sini, jika jentera sudah dipasang."
+    },
+    {
      "k": "h",
      "en": "(b) Lazat Sdn Bhd: basis periods",
      "ms": "(b) Lazat Sdn Bhd: tempoh asas"
     },
     {
      "k": "ex",
-     "en": "Question\nLazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:\nYear of assessment 2021: 1/7/2020 – 31/3/2021\nYear of assessment 2022: 1/4/2021 – 31/3/2022\nYear of assessment 2022: 1/4/2022 – 31/12/2022\nYear of assessment 2023: 1/1/2023 – 31/12/2023\nYear of assessment 2025: 1/1/2024 – 31/10/2025\n\nRequired: Determine the basis period for all the relevant years of assessment until year of assessment 2025.",
-     "ms": "Soalan\nLazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:\nYear of assessment 2021: 1/7/2020 – 31/3/2021\nYear of assessment 2022: 1/4/2021 – 31/3/2022\nYear of assessment 2022: 1/4/2022 – 31/12/2022\nYear of assessment 2023: 1/1/2023 – 31/12/2023\nYear of assessment 2025: 1/1/2024 – 31/10/2025\n\nRequired: Determine the basis period for all the relevant years of assessment until year of assessment 2025."
+     "en": "**Question**<br>Lazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:<br>Year of assessment 2021: 1/7/2020 – 31/3/2021<br>Year of assessment 2022: 1/4/2021 – 31/3/2022<br>Year of assessment 2022: 1/4/2022 – 31/12/2022<br>Year of assessment 2023: 1/1/2023 – 31/12/2023<br>Year of assessment 2025: 1/1/2024 – 31/10/2025",
+     "ms": "**Soalan**<br>Lazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:<br>Year of assessment 2021: 1/7/2020 – 31/3/2021<br>Year of assessment 2022: 1/4/2021 – 31/3/2022<br>Year of assessment 2022: 1/4/2022 – 31/12/2022<br>Year of assessment 2023: 1/1/2023 – 31/12/2023<br>Year of assessment 2025: 1/1/2024 – 31/10/2025"
     },
     {
-     "k": "table",
-     "head": {
-      "en": [
-       "YA",
-       "Basis period",
-       "Months",
-       "Reason"
-      ],
-      "ms": [
-       "YA",
-       "Tempoh asas",
-       "Bulan",
-       "Sebab"
-      ]
-     },
-     "rows": [
-      {
-       "en": [
-        "2020",
-        "None",
-        "–",
-        "First accounts (9 months) end in 2021, the second year; there is no basis period for the first YA (PR 8/2014 para 4.1)"
-       ],
-       "ms": [
-        "2020",
-        "Tiada",
-        "–",
-        "Akaun pertama (9 bulan) berakhir 2021, tahun kedua; tiada tempoh asas bagi YA pertama (PR 8/2014 para 4.1)"
-       ]
-      },
-      {
-       "en": [
-        "2021",
-        "1.7.2020 – 31.3.2021",
-        "9",
-        "The whole first accounting period"
-       ],
-       "ms": [
-        "2021",
-        "1.7.2020 – 31.3.2021",
-        "9",
-        "Seluruh tempoh perakaunan pertama"
-       ]
-      },
-      {
-       "en": [
-        "2022",
-        "1.4.2021 – 31.3.2022",
-        "12",
-        "The normal accounting period"
-       ],
-       "ms": [
-        "2022",
-        "1.4.2021 – 31.3.2022",
-        "12",
-        "Tempoh perakaunan biasa"
-       ]
-      },
-      {
-       "en": [
-        "2023",
-        "1.4.2022 – 31.12.2023",
-        "21",
-        "The 9-month period 1.4.2022–31.12.2022 closes in YA2022, the same YA as the 31.3.2022 accounts. It is combined with the following year’s accounts (1.1.2023–31.12.2023), so that no two accounts close in the same YA and no YA is missing"
-       ],
-       "ms": [
-        "2023",
-        "1.4.2022 – 31.12.2023",
-        "21",
-        "Tempoh 9 bulan 1.4.2022–31.12.2022 ditutup dalam YA2022, YA sama dengan akaun 31.3.2022. Ia digabung dengan akaun tahun berikutnya (1.1.2023–31.12.2023), supaya tiada dua akaun ditutup dalam YA yang sama dan tiada YA tertinggal"
-       ]
-      },
-      {
-       "en": [
-        "2024",
-        "1.1.2024 – 30.11.2024",
-        "11",
-        "Failure year (no accounts closed on 31.12.2024). The 22-month period ends in the third year, so it is divided into two equal parts"
-       ],
-       "ms": [
-        "2024",
-        "1.1.2024 – 30.11.2024",
-        "11",
-        "Tahun kegagalan (tiada akaun ditutup pada 31.12.2024). Tempoh 22 bulan berakhir pada tahun ketiga, jadi dibahagi dua sama rata"
-       ]
-      },
-      {
-       "en": [
-        "2025",
-        "1.12.2024 – 31.10.2025",
-        "11",
-        "Second half of the 22 months"
-       ],
-       "ms": [
-        "2025",
-        "1.12.2024 – 31.10.2025",
-        "11",
-        "Separuh kedua daripada 22 bulan"
-       ]
-      }
-     ]
-    },
-    {
-     "k": "note",
-     "en": "YA2022 and YA2023 follow your lecturer’s answer (YA2022 = 1.4.21–31.3.22; YA2023 = 1.4.22–31.12.23). The table in the question prints YA2022 twice and has no YA2024; the answer above gives every YA from 2020 to 2025, and YA2024 and YA2025 are my own working, since the lecturer’s answer stops at YA2023. The split follows PR 8/2014 (the ‘two-year’ division; Example 9) and the same pattern as Koperasi Rania Emas on your slides. A 22-month period divides exactly into 11 + 11, so no half-month arises.",
-     "ms": "YA2022 dan YA2023 mengikut jawapan pensyarah anda (YA2022 = 1.4.21–31.3.22; YA2023 = 1.4.22–31.12.23). Jadual dalam soalan mencetak YA2022 dua kali dan tiada YA2024; jawapan di atas memberi setiap YA dari 2020 hingga 2025, dan YA2024 serta YA2025 ialah pengiraan saya sendiri kerana jawapan pensyarah berhenti pada YA2023. Pembahagian ikut PR 8/2014 (pembahagian ‘dua tahun’; Contoh 9) dan corak sama seperti Koperasi Rania Emas dalam slaid anda. Tempoh 22 bulan terbahagi tepat 11 + 11, jadi tiada setengah bulan."
+     "k": "ex",
+     "en": "**Required**<br>Determine the basis period for all the relevant years of assessment until year of assessment 2025.",
+     "ms": "**Diperlukan**<br>Determine the basis period for all the relevant years of assessment until year of assessment 2025."
     }
    ]
   },
@@ -313,8 +215,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nGlory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:\nLand: RM560,000\nStamp duty on land acquired: RM10,000\nDemolition of an existing car showroom building on the land: RM410,000\nCost of construction of the factory building: RM6,300,000\nCost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)\n\nRequired: Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)",
-     "ms": "Soalan\nGlory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:\nLand: RM560,000\nStamp duty on land acquired: RM10,000\nDemolition of an existing car showroom building on the land: RM410,000\nCost of construction of the factory building: RM6,300,000\nCost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)\n\nRequired: Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)"
+     "en": "**Question**<br>Glory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:<br>Land: RM560,000<br>Stamp duty on land acquired: RM10,000<br>Demolition of an existing car showroom building on the land: RM410,000<br>Cost of construction of the factory building: RM6,300,000<br>Cost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)",
+     "ms": "**Soalan**<br>Glory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:<br>Land: RM560,000<br>Stamp duty on land acquired: RM10,000<br>Demolition of an existing car showroom building on the land: RM410,000<br>Cost of construction of the factory building: RM6,300,000<br>Cost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)",
+     "ms": "**Diperlukan**<br>Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)"
     },
     {
      "k": "table",
@@ -559,8 +466,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nChoco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000.\n\nRequired: Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:\n(i) made an election under Paragraph 27 of the Income Tax Act 1967.\n(ii) made no election under Paragraph 27 of the Income Tax Act 1967.\n(7 marks)",
-     "ms": "Soalan\nChoco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000.\n\nRequired: Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:\n(i) made an election under Paragraph 27 of the Income Tax Act 1967.\n(ii) made no election under Paragraph 27 of the Income Tax Act 1967.\n(7 marks)"
+     "en": "**Question**<br>Choco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000.",
+     "ms": "**Soalan**<br>Choco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:<br>(i) made an election under Paragraph 27 of the Income Tax Act 1967.<br>(ii) made no election under Paragraph 27 of the Income Tax Act 1967.<br>(7 marks)",
+     "ms": "**Diperlukan**<br>Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:<br>(i) made an election under Paragraph 27 of the Income Tax Act 1967.<br>(ii) made no election under Paragraph 27 of the Income Tax Act 1967.<br>(7 marks)"
     },
     {
      "k": "p",

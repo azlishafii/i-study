@@ -761,8 +761,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nTeraju Dagang Sdn. Bhd. commenced business on 1 April 2022 and prepared its first set of accounts to 30 June 2023 and to that date for subsequent years. On 1 September 2023, the company decided to change its accounting year end to 31 March 2023 (as printed in the sheet). Accounts are prepared as follows:\n01/07/2023 to 31/03/2024\n01/04/2024 to 31/03/2025\n01/04/2025 to 31/03/2026\n\nRequired:\nState the basis period for each year of assessment up to year assessment of 2026.",
-     "ms": "Soalan\nTeraju Dagang Sdn. Bhd. commenced business on 1 April 2022 and prepared its first set of accounts to 30 June 2023 and to that date for subsequent years. On 1 September 2023, the company decided to change its accounting year end to 31 March 2023 (as printed in the sheet). Accounts are prepared as follows:\n01/07/2023 to 31/03/2024\n01/04/2024 to 31/03/2025\n01/04/2025 to 31/03/2026\n\nRequired:\nState the basis period for each year of assessment up to year assessment of 2026."
+     "en": "**Question**<br>Teraju Dagang Sdn. Bhd. commenced business on 1 April 2022 and prepared its first set of accounts to 30 June 2023 and to that date for subsequent years. On 1 September 2023, the company decided to change its accounting year end to 31 March 2023 (as printed in the sheet). Accounts are prepared as follows:<br>01/07/2023 to 31/03/2024<br>01/04/2024 to 31/03/2025<br>01/04/2025 to 31/03/2026",
+     "ms": "**Soalan**<br>Teraju Dagang Sdn. Bhd. commenced business on 1 April 2022 and prepared its first set of accounts to 30 June 2023 and to that date for subsequent years. On 1 September 2023, the company decided to change its accounting year end to 31 March 2023 (as printed in the sheet). Accounts are prepared as follows:<br>01/07/2023 to 31/03/2024<br>01/04/2024 to 31/03/2025<br>01/04/2025 to 31/03/2026"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>State the basis period for each year of assessment up to year assessment of 2026.",
+     "ms": "**Diperlukan**<br>State the basis period for each year of assessment up to year assessment of 2026."
     },
     {
      "k": "p",
@@ -858,8 +863,23 @@
     },
     {
      "k": "ex",
-     "en": "Question\nFunTastic Sdn. Bhd. first commenced business operations on 1 April 2022 and closes its accounts on 30 June 2023 and subsequently on 30 June annually.\n\nRequired:\n(i) State the basis periods for the years of assessment 2022, 2023 and 2024.\n(ii) State the last date FunTastic Sdn. Bhd. must furnish its first estimate of tax payable to the Inland Revenue Board (IRB) for the year of assessment 2022.\n(iii) Determine the due date for the first instalment payment to the IRB for the year of assessment 2022.\n(iv) The due dates for the submission of tax returns for the years of assessment 2022, 2023 and 2024.\n\nFunTastic Sdn. Bhd. changes its accounting date and now closes its accounts on 30 September annually. The accounts are prepared as follows:\n1 July 2024 to 30 September 2025\n1 October 2025 to 30 September 2026\n\nRequired:\n(i) State the basis periods for the years of assessment 2025 and 2026.\n(ii) Explain TWO implications if a company fails to furnish the Form CP204B in accordance to Section 107C.",
-     "ms": "Soalan\nFunTastic Sdn. Bhd. first commenced business operations on 1 April 2022 and closes its accounts on 30 June 2023 and subsequently on 30 June annually.\n\nRequired:\n(i) State the basis periods for the years of assessment 2022, 2023 and 2024.\n(ii) State the last date FunTastic Sdn. Bhd. must furnish its first estimate of tax payable to the Inland Revenue Board (IRB) for the year of assessment 2022.\n(iii) Determine the due date for the first instalment payment to the IRB for the year of assessment 2022.\n(iv) The due dates for the submission of tax returns for the years of assessment 2022, 2023 and 2024.\n\nFunTastic Sdn. Bhd. changes its accounting date and now closes its accounts on 30 September annually. The accounts are prepared as follows:\n1 July 2024 to 30 September 2025\n1 October 2025 to 30 September 2026\n\nRequired:\n(i) State the basis periods for the years of assessment 2025 and 2026.\n(ii) Explain TWO implications if a company fails to furnish the Form CP204B in accordance to Section 107C."
+     "en": "**Question**<br>FunTastic Sdn. Bhd. first commenced business operations on 1 April 2022 and closes its accounts on 30 June 2023 and subsequently on 30 June annually.",
+     "ms": "**Soalan**<br>FunTastic Sdn. Bhd. first commenced business operations on 1 April 2022 and closes its accounts on 30 June 2023 and subsequently on 30 June annually."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(i) State the basis periods for the years of assessment 2022, 2023 and 2024.<br>(ii) State the last date FunTastic Sdn. Bhd. must furnish its first estimate of tax payable to the Inland Revenue Board (IRB) for the year of assessment 2022.<br>(iii) Determine the due date for the first instalment payment to the IRB for the year of assessment 2022.<br>(iv) The due dates for the submission of tax returns for the years of assessment 2022, 2023 and 2024.",
+     "ms": "**Diperlukan**<br>(i) State the basis periods for the years of assessment 2022, 2023 and 2024.<br>(ii) State the last date FunTastic Sdn. Bhd. must furnish its first estimate of tax payable to the Inland Revenue Board (IRB) for the year of assessment 2022.<br>(iii) Determine the due date for the first instalment payment to the IRB for the year of assessment 2022.<br>(iv) The due dates for the submission of tax returns for the years of assessment 2022, 2023 and 2024."
+    },
+    {
+     "k": "p",
+     "en": "FunTastic Sdn. Bhd. changes its accounting date and now closes its accounts on 30 September annually. The accounts are prepared as follows:<br>1 July 2024 to 30 September 2025<br>1 October 2025 to 30 September 2026",
+     "ms": "FunTastic Sdn. Bhd. changes its accounting date and now closes its accounts on 30 September annually. The accounts are prepared as follows:<br>1 July 2024 to 30 September 2025<br>1 October 2025 to 30 September 2026"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(i) State the basis periods for the years of assessment 2025 and 2026.<br>(ii) Explain TWO implications if a company fails to furnish the Form CP204B in accordance to Section 107C.",
+     "ms": "**Diperlukan**<br>(i) State the basis periods for the years of assessment 2025 and 2026.<br>(ii) Explain TWO implications if a company fails to furnish the Form CP204B in accordance to Section 107C."
     },
     {
      "k": "p",
@@ -989,8 +1009,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nKakak Sdn Bhd (KSB), a tax resident, has been in operations for many years and closes its accounts on 31 May annually. KSB’s tax estimate for the year of assessment 2025 was RM120,000 and the final tax payable for the year was RM150,000.\n\nRequired:\nIn respect of Kakak Sdn Bhd for the year of assessment 2026:\n(i) State and explain the due date for submission of its tax return.\n(ii) State and explain the date by which it should furnish its initial tax estimate.\n(iii) State and explain the minimum amount of estimate it must furnish.\n(iv) State when the tax estimate may be revised.\n(v) State, with reasons, the due dates for the first and last tax instalments to be paid.",
-     "ms": "Soalan\nKakak Sdn Bhd (KSB), a tax resident, has been in operations for many years and closes its accounts on 31 May annually. KSB’s tax estimate for the year of assessment 2025 was RM120,000 and the final tax payable for the year was RM150,000.\n\nRequired:\nIn respect of Kakak Sdn Bhd for the year of assessment 2026:\n(i) State and explain the due date for submission of its tax return.\n(ii) State and explain the date by which it should furnish its initial tax estimate.\n(iii) State and explain the minimum amount of estimate it must furnish.\n(iv) State when the tax estimate may be revised.\n(v) State, with reasons, the due dates for the first and last tax instalments to be paid."
+     "en": "**Question**<br>Kakak Sdn Bhd (KSB), a tax resident, has been in operations for many years and closes its accounts on 31 May annually. KSB’s tax estimate for the year of assessment 2025 was RM120,000 and the final tax payable for the year was RM150,000.",
+     "ms": "**Soalan**<br>Kakak Sdn Bhd (KSB), a tax resident, has been in operations for many years and closes its accounts on 31 May annually. KSB’s tax estimate for the year of assessment 2025 was RM120,000 and the final tax payable for the year was RM150,000."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>In respect of Kakak Sdn Bhd for the year of assessment 2026:<br>(i) State and explain the due date for submission of its tax return.<br>(ii) State and explain the date by which it should furnish its initial tax estimate.<br>(iii) State and explain the minimum amount of estimate it must furnish.<br>(iv) State when the tax estimate may be revised.<br>(v) State, with reasons, the due dates for the first and last tax instalments to be paid.",
+     "ms": "**Diperlukan**<br>In respect of Kakak Sdn Bhd for the year of assessment 2026:<br>(i) State and explain the due date for submission of its tax return.<br>(ii) State and explain the date by which it should furnish its initial tax estimate.<br>(iii) State and explain the minimum amount of estimate it must furnish.<br>(iv) State when the tax estimate may be revised.<br>(v) State, with reasons, the due dates for the first and last tax instalments to be paid."
     },
     {
      "k": "p",
@@ -1081,8 +1106,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nSquare Bhd (SB) initially submits the Estimate of Tax Payable Form (CP204 form) for YA 2026 with estimates of tax payable of RM880,000. Due to the economic slowdown, the company revised its tax payable estimates to RM600,000 in the sixth month and subsequently obtained approval from the IRB. It was subsequently found that the actual SB tax payable is RM890,000.\n\nRequired:\n(i) Determine the amount of tax and penalty due to the IRB based on the above facts.\n(ii) Determine the amount of tax and penalties due to the IRB if SB fails to settle the amount due within one month.",
-     "ms": "Soalan\nSquare Bhd (SB) initially submits the Estimate of Tax Payable Form (CP204 form) for YA 2026 with estimates of tax payable of RM880,000. Due to the economic slowdown, the company revised its tax payable estimates to RM600,000 in the sixth month and subsequently obtained approval from the IRB. It was subsequently found that the actual SB tax payable is RM890,000.\n\nRequired:\n(i) Determine the amount of tax and penalty due to the IRB based on the above facts.\n(ii) Determine the amount of tax and penalties due to the IRB if SB fails to settle the amount due within one month."
+     "en": "**Question**<br>Square Bhd (SB) initially submits the Estimate of Tax Payable Form (CP204 form) for YA 2026 with estimates of tax payable of RM880,000. Due to the economic slowdown, the company revised its tax payable estimates to RM600,000 in the sixth month and subsequently obtained approval from the IRB. It was subsequently found that the actual SB tax payable is RM890,000.",
+     "ms": "**Soalan**<br>Square Bhd (SB) initially submits the Estimate of Tax Payable Form (CP204 form) for YA 2026 with estimates of tax payable of RM880,000. Due to the economic slowdown, the company revised its tax payable estimates to RM600,000 in the sixth month and subsequently obtained approval from the IRB. It was subsequently found that the actual SB tax payable is RM890,000."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(i) Determine the amount of tax and penalty due to the IRB based on the above facts.<br>(ii) Determine the amount of tax and penalties due to the IRB if SB fails to settle the amount due within one month.",
+     "ms": "**Diperlukan**<br>(i) Determine the amount of tax and penalty due to the IRB based on the above facts.<br>(ii) Determine the amount of tax and penalties due to the IRB if SB fails to settle the amount due within one month."
     },
     {
      "k": "p",
@@ -1116,8 +1146,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nBRP Sdn Bhd normally closes its account on 31 December each year. However, in the accounting period 2024, the company changed its account to close on 31 March 2025.\n\nRequired:\nDetermine the failure year and the basis period for the year of assessment 2023, 2024, 2025, and 2026. Explain your reason(s).",
-     "ms": "Soalan\nBRP Sdn Bhd normally closes its account on 31 December each year. However, in the accounting period 2024, the company changed its account to close on 31 March 2025.\n\nRequired:\nDetermine the failure year and the basis period for the year of assessment 2023, 2024, 2025, and 2026. Explain your reason(s)."
+     "en": "**Question**<br>BRP Sdn Bhd normally closes its account on 31 December each year. However, in the accounting period 2024, the company changed its account to close on 31 March 2025.",
+     "ms": "**Soalan**<br>BRP Sdn Bhd normally closes its account on 31 December each year. However, in the accounting period 2024, the company changed its account to close on 31 March 2025."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Determine the failure year and the basis period for the year of assessment 2023, 2024, 2025, and 2026. Explain your reason(s).",
+     "ms": "**Diperlukan**<br>Determine the failure year and the basis period for the year of assessment 2023, 2024, 2025, and 2026. Explain your reason(s)."
     },
     {
      "k": "p",
@@ -1201,8 +1236,8 @@
     },
     {
      "k": "ex",
-     "en": "Question\nDiscuss the legal implications for a taxpayer who does not furnish Forms CP204, CP204A, and CP204B and fails to substantiate that the tax estimate is substantially accurate compared to the actual tax assessed.",
-     "ms": "Soalan\nDiscuss the legal implications for a taxpayer who does not furnish Forms CP204, CP204A, and CP204B and fails to substantiate that the tax estimate is substantially accurate compared to the actual tax assessed."
+     "en": "**Question**<br>Discuss the legal implications for a taxpayer who does not furnish Forms CP204, CP204A, and CP204B and fails to substantiate that the tax estimate is substantially accurate compared to the actual tax assessed.",
+     "ms": "**Soalan**<br>Discuss the legal implications for a taxpayer who does not furnish Forms CP204, CP204A, and CP204B and fails to substantiate that the tax estimate is substantially accurate compared to the actual tax assessed."
     },
     {
      "k": "ul",
@@ -1242,8 +1277,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nSugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:\n18 February 2023: Date of incorporation\n26 May 2023: Land acquired\n11 August 2023: Agreement signed for construction of factory building\n24 October 2024: Construction of factory building was completed and ready for use\n1 December 2024: First batch of raw materials received\n12 January 2025: First sale of products\n\nRequired: Explain when Sugeh Sdn Bhd will be regarded as having commenced trading.",
-     "ms": "Soalan\nSugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:\n18 February 2023: Date of incorporation\n26 May 2023: Land acquired\n11 August 2023: Agreement signed for construction of factory building\n24 October 2024: Construction of factory building was completed and ready for use\n1 December 2024: First batch of raw materials received\n12 January 2025: First sale of products\n\nRequired: Explain when Sugeh Sdn Bhd will be regarded as having commenced trading."
+     "en": "**Question**<br>Sugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:<br>18 February 2023: Date of incorporation<br>26 May 2023: Land acquired<br>11 August 2023: Agreement signed for construction of factory building<br>24 October 2024: Construction of factory building was completed and ready for use<br>1 December 2024: First batch of raw materials received<br>12 January 2025: First sale of products",
+     "ms": "**Soalan**<br>Sugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:<br>18 February 2023: Date of incorporation<br>26 May 2023: Land acquired<br>11 August 2023: Agreement signed for construction of factory building<br>24 October 2024: Construction of factory building was completed and ready for use<br>1 December 2024: First batch of raw materials received<br>12 January 2025: First sale of products"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Explain when Sugeh Sdn Bhd will be regarded as having commenced trading.",
+     "ms": "**Diperlukan**<br>Explain when Sugeh Sdn Bhd will be regarded as having commenced trading."
     },
     {
      "k": "table",
@@ -1365,8 +1405,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nLazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:\nYear of assessment 2021: 1/7/2020 – 31/3/2021\nYear of assessment 2022: 1/4/2021 – 31/3/2022\nYear of assessment 2022: 1/4/2022 – 31/12/2022\nYear of assessment 2023: 1/1/2023 – 31/12/2023\nYear of assessment 2025: 1/1/2024 – 31/10/2025\n\nRequired: Determine the basis period for all the relevant years of assessment until year of assessment 2025.",
-     "ms": "Soalan\nLazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:\nYear of assessment 2021: 1/7/2020 – 31/3/2021\nYear of assessment 2022: 1/4/2021 – 31/3/2022\nYear of assessment 2022: 1/4/2022 – 31/12/2022\nYear of assessment 2023: 1/1/2023 – 31/12/2023\nYear of assessment 2025: 1/1/2024 – 31/10/2025\n\nRequired: Determine the basis period for all the relevant years of assessment until year of assessment 2025."
+     "en": "**Question**<br>Lazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:<br>Year of assessment 2021: 1/7/2020 – 31/3/2021<br>Year of assessment 2022: 1/4/2021 – 31/3/2022<br>Year of assessment 2022: 1/4/2022 – 31/12/2022<br>Year of assessment 2023: 1/1/2023 – 31/12/2023<br>Year of assessment 2025: 1/1/2024 – 31/10/2025",
+     "ms": "**Soalan**<br>Lazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:<br>Year of assessment 2021: 1/7/2020 – 31/3/2021<br>Year of assessment 2022: 1/4/2021 – 31/3/2022<br>Year of assessment 2022: 1/4/2022 – 31/12/2022<br>Year of assessment 2023: 1/1/2023 – 31/12/2023<br>Year of assessment 2025: 1/1/2024 – 31/10/2025"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Determine the basis period for all the relevant years of assessment until year of assessment 2025.",
+     "ms": "**Diperlukan**<br>Determine the basis period for all the relevant years of assessment until year of assessment 2025."
     },
     {
      "k": "table",

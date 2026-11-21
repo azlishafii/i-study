@@ -736,8 +736,128 @@
     },
     {
      "k": "ex",
-     "en": "Question\nEco Bhd, incorporated on 1 April 2021, purchased a piece of land in an industrial area of Sepang to construct a building for its business operations.\n\nThe following expenses were incurred (RM):\n10 April 2023: Cost of land: 1,200,000\n12 April 2023: Stamp duty and legal fees (RM3,600 related to land): 14,400\n30 April 2023: Architecture and planning: 18,600\n15 June 2023: Cost of demolishing an old factory: 300,000\n25 June 2023: Levelling and terracing: 480,000\n10 August 2023: Piling and foundation: 288,000\n2 December 2023: Wiring and plumbing: 105,600\n18 January 2024: Cost of internal roads in the factory compound: 64,800\n31 January 2024: Construction cost: 360,000\n\nThe construction of the building was completed on 30 March 2025. Eco Bhd commenced its business on 1 April 2021 and prepared its first set of accounts to 31 March 2022 and to that date for subsequent years. 80% of the building was used as a factory and the rest as an office and a showroom. (20%)\n\nRequired:\nCompute the industrial building allowances for all relevant years of assessment up to the year of assessment 2026 (Show all relevant workings).",
-     "ms": "Soalan\nEco Bhd, incorporated on 1 April 2021, purchased a piece of land in an industrial area of Sepang to construct a building for its business operations.\n\nThe following expenses were incurred (RM):\n10 April 2023: Cost of land: 1,200,000\n12 April 2023: Stamp duty and legal fees (RM3,600 related to land): 14,400\n30 April 2023: Architecture and planning: 18,600\n15 June 2023: Cost of demolishing an old factory: 300,000\n25 June 2023: Levelling and terracing: 480,000\n10 August 2023: Piling and foundation: 288,000\n2 December 2023: Wiring and plumbing: 105,600\n18 January 2024: Cost of internal roads in the factory compound: 64,800\n31 January 2024: Construction cost: 360,000\n\nThe construction of the building was completed on 30 March 2025. Eco Bhd commenced its business on 1 April 2021 and prepared its first set of accounts to 31 March 2022 and to that date for subsequent years. 80% of the building was used as a factory and the rest as an office and a showroom. (20%)\n\nRequired:\nCompute the industrial building allowances for all relevant years of assessment up to the year of assessment 2026 (Show all relevant workings)."
+     "en": "**Question**<br>Eco Bhd, incorporated on 1 April 2021, purchased a piece of land in an industrial area of Sepang to construct a building for its business operations.",
+     "ms": "**Soalan**<br>Eco Bhd, incorporated on 1 April 2021, purchased a piece of land in an industrial area of Sepang to construct a building for its business operations."
+    },
+    {
+     "k": "p",
+     "en": "The following expenses were incurred (RM):",
+     "ms": "The following expenses were incurred (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "10 April 2023: Cost of land",
+        "1,200,000"
+       ],
+       "ms": [
+        "10 April 2023: Cost of land",
+        "1,200,000"
+       ]
+      },
+      {
+       "en": [
+        "12 April 2023: Stamp duty and legal fees (RM3,600 related to land)",
+        "14,400"
+       ],
+       "ms": [
+        "12 April 2023: Stamp duty and legal fees (RM3,600 related to land)",
+        "14,400"
+       ]
+      },
+      {
+       "en": [
+        "30 April 2023: Architecture and planning",
+        "18,600"
+       ],
+       "ms": [
+        "30 April 2023: Architecture and planning",
+        "18,600"
+       ]
+      },
+      {
+       "en": [
+        "15 June 2023: Cost of demolishing an old factory",
+        "300,000"
+       ],
+       "ms": [
+        "15 June 2023: Cost of demolishing an old factory",
+        "300,000"
+       ]
+      },
+      {
+       "en": [
+        "25 June 2023: Levelling and terracing",
+        "480,000"
+       ],
+       "ms": [
+        "25 June 2023: Levelling and terracing",
+        "480,000"
+       ]
+      },
+      {
+       "en": [
+        "10 August 2023: Piling and foundation",
+        "288,000"
+       ],
+       "ms": [
+        "10 August 2023: Piling and foundation",
+        "288,000"
+       ]
+      },
+      {
+       "en": [
+        "2 December 2023: Wiring and plumbing",
+        "105,600"
+       ],
+       "ms": [
+        "2 December 2023: Wiring and plumbing",
+        "105,600"
+       ]
+      },
+      {
+       "en": [
+        "18 January 2024: Cost of internal roads in the factory compound",
+        "64,800"
+       ],
+       "ms": [
+        "18 January 2024: Cost of internal roads in the factory compound",
+        "64,800"
+       ]
+      },
+      {
+       "en": [
+        "31 January 2024: Construction cost",
+        "360,000"
+       ],
+       "ms": [
+        "31 January 2024: Construction cost",
+        "360,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "The construction of the building was completed on 30 March 2025. Eco Bhd commenced its business on 1 April 2021 and prepared its first set of accounts to 31 March 2022 and to that date for subsequent years. 80% of the building was used as a factory and the rest as an office and a showroom. (20%)",
+     "ms": "The construction of the building was completed on 30 March 2025. Eco Bhd commenced its business on 1 April 2021 and prepared its first set of accounts to 31 March 2022 and to that date for subsequent years. 80% of the building was used as a factory and the rest as an office and a showroom. (20%)"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Compute the industrial building allowances for all relevant years of assessment up to the year of assessment 2026 (Show all relevant workings).",
+     "ms": "**Diperlukan**<br>Compute the industrial building allowances for all relevant years of assessment up to the year of assessment 2026 (Show all relevant workings)."
     },
     {
      "k": "p",
@@ -761,8 +881,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nMega Sdn Bhd (MSB) owns an office building which is used to carry out its business for more than 10 years. For the year of assessment (YA) 2025, MSB carried out the following work to maintain the building in good condition:\n(a) Replaced broken floor tiles on every floor of the building\n(b) Replaced the old zinc roof of the building with a new improved roof with cooling effects\n(c) Replaced old electrical wirings and installed new wirings in one of the floors of the building for safety reasons\n(d) Replaced faulty parts of a generator to continue using the asset\n\nRequired:\nState, with reasons, whether the expenditure in (a) to (d) above are revenue or capital in nature.",
-     "ms": "Soalan\nMega Sdn Bhd (MSB) owns an office building which is used to carry out its business for more than 10 years. For the year of assessment (YA) 2025, MSB carried out the following work to maintain the building in good condition:\n(a) Replaced broken floor tiles on every floor of the building\n(b) Replaced the old zinc roof of the building with a new improved roof with cooling effects\n(c) Replaced old electrical wirings and installed new wirings in one of the floors of the building for safety reasons\n(d) Replaced faulty parts of a generator to continue using the asset\n\nRequired:\nState, with reasons, whether the expenditure in (a) to (d) above are revenue or capital in nature."
+     "en": "**Question**<br>Mega Sdn Bhd (MSB) owns an office building which is used to carry out its business for more than 10 years. For the year of assessment (YA) 2025, MSB carried out the following work to maintain the building in good condition:<br>(a) Replaced broken floor tiles on every floor of the building<br>(b) Replaced the old zinc roof of the building with a new improved roof with cooling effects<br>(c) Replaced old electrical wirings and installed new wirings in one of the floors of the building for safety reasons<br>(d) Replaced faulty parts of a generator to continue using the asset",
+     "ms": "**Soalan**<br>Mega Sdn Bhd (MSB) owns an office building which is used to carry out its business for more than 10 years. For the year of assessment (YA) 2025, MSB carried out the following work to maintain the building in good condition:<br>(a) Replaced broken floor tiles on every floor of the building<br>(b) Replaced the old zinc roof of the building with a new improved roof with cooling effects<br>(c) Replaced old electrical wirings and installed new wirings in one of the floors of the building for safety reasons<br>(d) Replaced faulty parts of a generator to continue using the asset"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>State, with reasons, whether the expenditure in (a) to (d) above are revenue or capital in nature.",
+     "ms": "**Diperlukan**<br>State, with reasons, whether the expenditure in (a) to (d) above are revenue or capital in nature."
     },
     {
      "k": "table",
@@ -841,8 +966,18 @@
     },
     {
      "k": "ex",
-     "en": "Question\nNusaVera Sdn Bhd was incorporated on 1 July 2025. Its accounts are made up to 30 June annually. In August 2025, the company entered into agreement to purchase a piece of industrial land in Nusa Sentral costing RM2 million and constructed the following structures thereon during the financial year ended 30 June 2026.\n(a) A factory-cum-office block at a cost of RM4,500,000 with total built-up area of 150,000 sq. ft of which the administration/sales office occupy 22,500 sq. ft.\n(b) A warehouse for the storage of raw material and finished good and a workshop at a cost of RM200,000.\n(c) A three-storey employee’s quarters at a cost of RM900,000 was constructed adjacent to the current factory building. The three-storey employee’s quarters are used as living accommodation for the company’s employees under Paragraph 42A (2) Schedule 3 of Income Tax Act 1967.\nThe ground floor has been used as employees’ quarters for the following:\n(i) Surau (prayer’s room)\n(ii) Child Care Centre\n\nIn addition, the company incurred RM310,000 on site preparation of the installation of plant and machinery which cost RM90,000.\n\nRequired:\nCalculate the relevant industrial building allowances / charges for the year of assessment 2026.",
-     "ms": "Soalan\nNusaVera Sdn Bhd was incorporated on 1 July 2025. Its accounts are made up to 30 June annually. In August 2025, the company entered into agreement to purchase a piece of industrial land in Nusa Sentral costing RM2 million and constructed the following structures thereon during the financial year ended 30 June 2026.\n(a) A factory-cum-office block at a cost of RM4,500,000 with total built-up area of 150,000 sq. ft of which the administration/sales office occupy 22,500 sq. ft.\n(b) A warehouse for the storage of raw material and finished good and a workshop at a cost of RM200,000.\n(c) A three-storey employee’s quarters at a cost of RM900,000 was constructed adjacent to the current factory building. The three-storey employee’s quarters are used as living accommodation for the company’s employees under Paragraph 42A (2) Schedule 3 of Income Tax Act 1967.\nThe ground floor has been used as employees’ quarters for the following:\n(i) Surau (prayer’s room)\n(ii) Child Care Centre\n\nIn addition, the company incurred RM310,000 on site preparation of the installation of plant and machinery which cost RM90,000.\n\nRequired:\nCalculate the relevant industrial building allowances / charges for the year of assessment 2026."
+     "en": "**Question**<br>NusaVera Sdn Bhd was incorporated on 1 July 2025. Its accounts are made up to 30 June annually. In August 2025, the company entered into agreement to purchase a piece of industrial land in Nusa Sentral costing RM2 million and constructed the following structures thereon during the financial year ended 30 June 2026.<br>(a) A factory-cum-office block at a cost of RM4,500,000 with total built-up area of 150,000 sq. ft of which the administration/sales office occupy 22,500 sq. ft.<br>(b) A warehouse for the storage of raw material and finished good and a workshop at a cost of RM200,000.<br>(c) A three-storey employee’s quarters at a cost of RM900,000 was constructed adjacent to the current factory building. The three-storey employee’s quarters are used as living accommodation for the company’s employees under Paragraph 42A (2) Schedule 3 of Income Tax Act 1967.<br>The ground floor has been used as employees’ quarters for the following:<br>(i) Surau (prayer’s room)<br>(ii) Child Care Centre",
+     "ms": "**Soalan**<br>NusaVera Sdn Bhd was incorporated on 1 July 2025. Its accounts are made up to 30 June annually. In August 2025, the company entered into agreement to purchase a piece of industrial land in Nusa Sentral costing RM2 million and constructed the following structures thereon during the financial year ended 30 June 2026.<br>(a) A factory-cum-office block at a cost of RM4,500,000 with total built-up area of 150,000 sq. ft of which the administration/sales office occupy 22,500 sq. ft.<br>(b) A warehouse for the storage of raw material and finished good and a workshop at a cost of RM200,000.<br>(c) A three-storey employee’s quarters at a cost of RM900,000 was constructed adjacent to the current factory building. The three-storey employee’s quarters are used as living accommodation for the company’s employees under Paragraph 42A (2) Schedule 3 of Income Tax Act 1967.<br>The ground floor has been used as employees’ quarters for the following:<br>(i) Surau (prayer’s room)<br>(ii) Child Care Centre"
+    },
+    {
+     "k": "p",
+     "en": "In addition, the company incurred RM310,000 on site preparation of the installation of plant and machinery which cost RM90,000.",
+     "ms": "In addition, the company incurred RM310,000 on site preparation of the installation of plant and machinery which cost RM90,000."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Calculate the relevant industrial building allowances / charges for the year of assessment 2026.",
+     "ms": "**Diperlukan**<br>Calculate the relevant industrial building allowances / charges for the year of assessment 2026."
     },
     {
      "k": "p",
@@ -943,8 +1078,108 @@
     },
     {
      "k": "ex",
-     "en": "Question\nSunrise Bhd. (accounting date 30 September) constructed a building on 1 April 2022. The expenditures incurred were as follows (RM):\nCost of site / land: 1,250,000\nDemolishing abandoned houses: 15,000\nConstruction cost: 975,000\nArchitect fees: 35,500\nWiring and plumbing: 45,000\nCost of internal roads and drainage system: 64,500\nLegal fee and stamp duty on acquisition of land: 10,500\n\nThe building was completed and brought to use on 1 January 2023. The company used the building as a factory, showroom, and office at the ratio of 10:1:1 respectively. On that same date, the company acquired machinery costs RM110,060 and its installation cost of RM45,000. The costs incurred for preparing, cutting, and levelling land was RM30,000.\n\nOn 1 February 2025, the whole building was sold to Hikari Sdn. Bhd. for RM1,800,000 including RM450,000 for the land. Hikari Sdn. Bhd. uses the whole building as an industrial training center for ‘Sustainable Manufacturing’. Hikari Sdn. Bhd. closes its accounts on every 31 December.\n\nRequired:\n(i) Calculate the Industrial Building Allowances and Balancing Adjustments for both companies for all the relevant years of assessment up to Year of Assessment 2026.\n(ii) Describe the building that store raw materials or finished goods, that qualify as an industrial building (within the same curtilage).",
-     "ms": "Soalan\nSunrise Bhd. (accounting date 30 September) constructed a building on 1 April 2022. The expenditures incurred were as follows (RM):\nCost of site / land: 1,250,000\nDemolishing abandoned houses: 15,000\nConstruction cost: 975,000\nArchitect fees: 35,500\nWiring and plumbing: 45,000\nCost of internal roads and drainage system: 64,500\nLegal fee and stamp duty on acquisition of land: 10,500\n\nThe building was completed and brought to use on 1 January 2023. The company used the building as a factory, showroom, and office at the ratio of 10:1:1 respectively. On that same date, the company acquired machinery costs RM110,060 and its installation cost of RM45,000. The costs incurred for preparing, cutting, and levelling land was RM30,000.\n\nOn 1 February 2025, the whole building was sold to Hikari Sdn. Bhd. for RM1,800,000 including RM450,000 for the land. Hikari Sdn. Bhd. uses the whole building as an industrial training center for ‘Sustainable Manufacturing’. Hikari Sdn. Bhd. closes its accounts on every 31 December.\n\nRequired:\n(i) Calculate the Industrial Building Allowances and Balancing Adjustments for both companies for all the relevant years of assessment up to Year of Assessment 2026.\n(ii) Describe the building that store raw materials or finished goods, that qualify as an industrial building (within the same curtilage)."
+     "en": "**Question**<br>Sunrise Bhd. (accounting date 30 September) constructed a building on 1 April 2022. The expenditures incurred were as follows (RM):",
+     "ms": "**Soalan**<br>Sunrise Bhd. (accounting date 30 September) constructed a building on 1 April 2022. The expenditures incurred were as follows (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Cost of site / land",
+        "1,250,000"
+       ],
+       "ms": [
+        "Cost of site / land",
+        "1,250,000"
+       ]
+      },
+      {
+       "en": [
+        "Demolishing abandoned houses",
+        "15,000"
+       ],
+       "ms": [
+        "Demolishing abandoned houses",
+        "15,000"
+       ]
+      },
+      {
+       "en": [
+        "Construction cost",
+        "975,000"
+       ],
+       "ms": [
+        "Construction cost",
+        "975,000"
+       ]
+      },
+      {
+       "en": [
+        "Architect fees",
+        "35,500"
+       ],
+       "ms": [
+        "Architect fees",
+        "35,500"
+       ]
+      },
+      {
+       "en": [
+        "Wiring and plumbing",
+        "45,000"
+       ],
+       "ms": [
+        "Wiring and plumbing",
+        "45,000"
+       ]
+      },
+      {
+       "en": [
+        "Cost of internal roads and drainage system",
+        "64,500"
+       ],
+       "ms": [
+        "Cost of internal roads and drainage system",
+        "64,500"
+       ]
+      },
+      {
+       "en": [
+        "Legal fee and stamp duty on acquisition of land",
+        "10,500"
+       ],
+       "ms": [
+        "Legal fee and stamp duty on acquisition of land",
+        "10,500"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "The building was completed and brought to use on 1 January 2023. The company used the building as a factory, showroom, and office at the ratio of 10:1:1 respectively. On that same date, the company acquired machinery costs RM110,060 and its installation cost of RM45,000. The costs incurred for preparing, cutting, and levelling land was RM30,000.",
+     "ms": "The building was completed and brought to use on 1 January 2023. The company used the building as a factory, showroom, and office at the ratio of 10:1:1 respectively. On that same date, the company acquired machinery costs RM110,060 and its installation cost of RM45,000. The costs incurred for preparing, cutting, and levelling land was RM30,000."
+    },
+    {
+     "k": "p",
+     "en": "On 1 February 2025, the whole building was sold to Hikari Sdn. Bhd. for RM1,800,000 including RM450,000 for the land. Hikari Sdn. Bhd. uses the whole building as an industrial training center for ‘Sustainable Manufacturing’. Hikari Sdn. Bhd. closes its accounts on every 31 December.",
+     "ms": "On 1 February 2025, the whole building was sold to Hikari Sdn. Bhd. for RM1,800,000 including RM450,000 for the land. Hikari Sdn. Bhd. uses the whole building as an industrial training center for ‘Sustainable Manufacturing’. Hikari Sdn. Bhd. closes its accounts on every 31 December."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(i) Calculate the Industrial Building Allowances and Balancing Adjustments for both companies for all the relevant years of assessment up to Year of Assessment 2026.<br>(ii) Describe the building that store raw materials or finished goods, that qualify as an industrial building (within the same curtilage).",
+     "ms": "**Diperlukan**<br>(i) Calculate the Industrial Building Allowances and Balancing Adjustments for both companies for all the relevant years of assessment up to Year of Assessment 2026.<br>(ii) Describe the building that store raw materials or finished goods, that qualify as an industrial building (within the same curtilage)."
     },
     {
      "k": "p",
@@ -978,8 +1213,113 @@
     },
     {
      "k": "ex",
-     "en": "Question\nUni Spa Sdn. Bhd. (USSB) has been in operation for 5 years. Due to high demand, USSB decided to construct a factory to manufacture its own cosmetic products. In February 2025, USSB purchased a land where an existing industrial building has been previously located. The total costs involved were RM3.5million. The factory was completed and put into operation on 1 June 2025. USSB closes its accounts on 31 December annually. The breakdown of the total cost of the factory is shown below (RM):\nCost of land: 1,000,000\nDemolition of an existing factory building: 45,000\nLegal fees for agreement for purchase of land: 65,000\nLegal fees for agreement with the contractor: 25,000\nArchitect fees and building plan: 30,000\nWiring and plumbing: 70,000\nConstruction costs: 2,225,000\nInstallation of fixtures and fittings: 40,000\n\nUSSB occupies 75% of the building for factory, 12% for administrative use and the remaining areas was canteen which was rented out to Kantin Kita Enterprise. In July 2026, USSB purchased a three-storey building, adjacent to the factory building, for RM3 million and rented it to EduHub Sdn. Bhd. (ESB) for a monthly rental of RM25,000. ESB use the building as an educational institution approved by the Minister of Education.\n\nRequired:\n(i) Calculate the industrial building allowances, balancing allowances / charges (if any) for all relevant years of assessment for USSB.\n(ii) Explain the meaning of ‘within the same curtilage’ in the context of industrial building.",
-     "ms": "Soalan\nUni Spa Sdn. Bhd. (USSB) has been in operation for 5 years. Due to high demand, USSB decided to construct a factory to manufacture its own cosmetic products. In February 2025, USSB purchased a land where an existing industrial building has been previously located. The total costs involved were RM3.5million. The factory was completed and put into operation on 1 June 2025. USSB closes its accounts on 31 December annually. The breakdown of the total cost of the factory is shown below (RM):\nCost of land: 1,000,000\nDemolition of an existing factory building: 45,000\nLegal fees for agreement for purchase of land: 65,000\nLegal fees for agreement with the contractor: 25,000\nArchitect fees and building plan: 30,000\nWiring and plumbing: 70,000\nConstruction costs: 2,225,000\nInstallation of fixtures and fittings: 40,000\n\nUSSB occupies 75% of the building for factory, 12% for administrative use and the remaining areas was canteen which was rented out to Kantin Kita Enterprise. In July 2026, USSB purchased a three-storey building, adjacent to the factory building, for RM3 million and rented it to EduHub Sdn. Bhd. (ESB) for a monthly rental of RM25,000. ESB use the building as an educational institution approved by the Minister of Education.\n\nRequired:\n(i) Calculate the industrial building allowances, balancing allowances / charges (if any) for all relevant years of assessment for USSB.\n(ii) Explain the meaning of ‘within the same curtilage’ in the context of industrial building."
+     "en": "**Question**<br>Uni Spa Sdn. Bhd. (USSB) has been in operation for 5 years. Due to high demand, USSB decided to construct a factory to manufacture its own cosmetic products. In February 2025, USSB purchased a land where an existing industrial building has been previously located. The total costs involved were RM3.5million. The factory was completed and put into operation on 1 June 2025. USSB closes its accounts on 31 December annually. The breakdown of the total cost of the factory is shown below (RM):",
+     "ms": "**Soalan**<br>Uni Spa Sdn. Bhd. (USSB) has been in operation for 5 years. Due to high demand, USSB decided to construct a factory to manufacture its own cosmetic products. In February 2025, USSB purchased a land where an existing industrial building has been previously located. The total costs involved were RM3.5million. The factory was completed and put into operation on 1 June 2025. USSB closes its accounts on 31 December annually. The breakdown of the total cost of the factory is shown below (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Cost of land",
+        "1,000,000"
+       ],
+       "ms": [
+        "Cost of land",
+        "1,000,000"
+       ]
+      },
+      {
+       "en": [
+        "Demolition of an existing factory building",
+        "45,000"
+       ],
+       "ms": [
+        "Demolition of an existing factory building",
+        "45,000"
+       ]
+      },
+      {
+       "en": [
+        "Legal fees for agreement for purchase of land",
+        "65,000"
+       ],
+       "ms": [
+        "Legal fees for agreement for purchase of land",
+        "65,000"
+       ]
+      },
+      {
+       "en": [
+        "Legal fees for agreement with the contractor",
+        "25,000"
+       ],
+       "ms": [
+        "Legal fees for agreement with the contractor",
+        "25,000"
+       ]
+      },
+      {
+       "en": [
+        "Architect fees and building plan",
+        "30,000"
+       ],
+       "ms": [
+        "Architect fees and building plan",
+        "30,000"
+       ]
+      },
+      {
+       "en": [
+        "Wiring and plumbing",
+        "70,000"
+       ],
+       "ms": [
+        "Wiring and plumbing",
+        "70,000"
+       ]
+      },
+      {
+       "en": [
+        "Construction costs",
+        "2,225,000"
+       ],
+       "ms": [
+        "Construction costs",
+        "2,225,000"
+       ]
+      },
+      {
+       "en": [
+        "Installation of fixtures and fittings",
+        "40,000"
+       ],
+       "ms": [
+        "Installation of fixtures and fittings",
+        "40,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "USSB occupies 75% of the building for factory, 12% for administrative use and the remaining areas was canteen which was rented out to Kantin Kita Enterprise. In July 2026, USSB purchased a three-storey building, adjacent to the factory building, for RM3 million and rented it to EduHub Sdn. Bhd. (ESB) for a monthly rental of RM25,000. ESB use the building as an educational institution approved by the Minister of Education.",
+     "ms": "USSB occupies 75% of the building for factory, 12% for administrative use and the remaining areas was canteen which was rented out to Kantin Kita Enterprise. In July 2026, USSB purchased a three-storey building, adjacent to the factory building, for RM3 million and rented it to EduHub Sdn. Bhd. (ESB) for a monthly rental of RM25,000. ESB use the building as an educational institution approved by the Minister of Education."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(i) Calculate the industrial building allowances, balancing allowances / charges (if any) for all relevant years of assessment for USSB.<br>(ii) Explain the meaning of ‘within the same curtilage’ in the context of industrial building.",
+     "ms": "**Diperlukan**<br>(i) Calculate the industrial building allowances, balancing allowances / charges (if any) for all relevant years of assessment for USSB.<br>(ii) Explain the meaning of ‘within the same curtilage’ in the context of industrial building."
     },
     {
      "k": "calc",
@@ -1003,8 +1343,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nCempedak Bhd constructed a factory at a cost of RM2,800,000 of which RM1,200,000 was for the cost of the land. The building was completed on 1 November 2019 and one eleventh (1/11) of the building was used as an office. On 1 February 2025, the building was sold to Nangka Bhd for RM3,750,000 (including RM1,400,000 for the land). Nangka Bhd uses the whole building as a factory. An extension to the building costing RM140,000 was constructed by Nangka Bhd and completed on 2 May 2026. It was used as a warehouse for the storage of raw materials for its manufacturing business. Both companies close their accounts on 31 March annually.\n\nRequired:\nCompute the industrial building allowances and balancing charges (if any) for both companies for all the relevant years of assessment up to the year of assessment 2026.",
-     "ms": "Soalan\nCempedak Bhd constructed a factory at a cost of RM2,800,000 of which RM1,200,000 was for the cost of the land. The building was completed on 1 November 2019 and one eleventh (1/11) of the building was used as an office. On 1 February 2025, the building was sold to Nangka Bhd for RM3,750,000 (including RM1,400,000 for the land). Nangka Bhd uses the whole building as a factory. An extension to the building costing RM140,000 was constructed by Nangka Bhd and completed on 2 May 2026. It was used as a warehouse for the storage of raw materials for its manufacturing business. Both companies close their accounts on 31 March annually.\n\nRequired:\nCompute the industrial building allowances and balancing charges (if any) for both companies for all the relevant years of assessment up to the year of assessment 2026."
+     "en": "**Question**<br>Cempedak Bhd constructed a factory at a cost of RM2,800,000 of which RM1,200,000 was for the cost of the land. The building was completed on 1 November 2019 and one eleventh (1/11) of the building was used as an office. On 1 February 2025, the building was sold to Nangka Bhd for RM3,750,000 (including RM1,400,000 for the land). Nangka Bhd uses the whole building as a factory. An extension to the building costing RM140,000 was constructed by Nangka Bhd and completed on 2 May 2026. It was used as a warehouse for the storage of raw materials for its manufacturing business. Both companies close their accounts on 31 March annually.",
+     "ms": "**Soalan**<br>Cempedak Bhd constructed a factory at a cost of RM2,800,000 of which RM1,200,000 was for the cost of the land. The building was completed on 1 November 2019 and one eleventh (1/11) of the building was used as an office. On 1 February 2025, the building was sold to Nangka Bhd for RM3,750,000 (including RM1,400,000 for the land). Nangka Bhd uses the whole building as a factory. An extension to the building costing RM140,000 was constructed by Nangka Bhd and completed on 2 May 2026. It was used as a warehouse for the storage of raw materials for its manufacturing business. Both companies close their accounts on 31 March annually."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Compute the industrial building allowances and balancing charges (if any) for both companies for all the relevant years of assessment up to the year of assessment 2026.",
+     "ms": "**Diperlukan**<br>Compute the industrial building allowances and balancing charges (if any) for both companies for all the relevant years of assessment up to the year of assessment 2026."
     },
     {
      "k": "calc",
@@ -1023,8 +1368,76 @@
     },
     {
      "k": "ex",
-     "en": "Question\nRemedy Private Hospital is a licensed private hospital, which prepares its accounts to 30 June annually. The business was carried out in a rented building. However, in 16 March 2022, the construction of its own building was completed and operations in its new building started on 17 April 2022. The total area of the new building is 25,000 square feet. Details of the building are as follows:\nLand: cost RM175,000\nLegal fees (RM5,000 relating to land): RM10,000\nLevelling land: RM20,000\nConstruction of hospital building (Block A): 18,750 sq ft, RM565,000\nConstruction of canteen and staff room (Block B): 3,800 sq ft, RM30,000\nConstruction of the Research and Development laboratory (Block C): 2,450 sq ft, RM25,000\nNote: 1/6 of the total floor space of the hospital building was used as an office and mini shop.\n\nDue to high demand, Remedy Private Hospital decided to move its operations to Kuala Lumpur. Consequently, in 16 March 2025, the company disposed of its building to Care Maternity Home Sdn Bhd for RM1,000,000 (inclusive of land worth RM200,000). Care Maternity Home Sdn. Bhd. close their accounts every 31 July.\n\nRequired:\nDetermine the qualifying building expenditure and compute the relevant allowances should both Remedy Private Hospital Sdn Bhd and Care Maternity Home Sdn Bhd claim until year of assessment 2026.",
-     "ms": "Soalan\nRemedy Private Hospital is a licensed private hospital, which prepares its accounts to 30 June annually. The business was carried out in a rented building. However, in 16 March 2022, the construction of its own building was completed and operations in its new building started on 17 April 2022. The total area of the new building is 25,000 square feet. Details of the building are as follows:\nLand: cost RM175,000\nLegal fees (RM5,000 relating to land): RM10,000\nLevelling land: RM20,000\nConstruction of hospital building (Block A): 18,750 sq ft, RM565,000\nConstruction of canteen and staff room (Block B): 3,800 sq ft, RM30,000\nConstruction of the Research and Development laboratory (Block C): 2,450 sq ft, RM25,000\nNote: 1/6 of the total floor space of the hospital building was used as an office and mini shop.\n\nDue to high demand, Remedy Private Hospital decided to move its operations to Kuala Lumpur. Consequently, in 16 March 2025, the company disposed of its building to Care Maternity Home Sdn Bhd for RM1,000,000 (inclusive of land worth RM200,000). Care Maternity Home Sdn. Bhd. close their accounts every 31 July.\n\nRequired:\nDetermine the qualifying building expenditure and compute the relevant allowances should both Remedy Private Hospital Sdn Bhd and Care Maternity Home Sdn Bhd claim until year of assessment 2026."
+     "en": "**Question**<br>Remedy Private Hospital is a licensed private hospital, which prepares its accounts to 30 June annually. The business was carried out in a rented building. However, in 16 March 2022, the construction of its own building was completed and operations in its new building started on 17 April 2022. The total area of the new building is 25,000 square feet. Details of the building are as follows:<br>Land: area -; cost 175,000<br>Legal fees (RM5,000 relating to land): area -; cost 10,000<br>Levelling land: area -; cost 20,000",
+     "ms": "**Soalan**<br>Remedy Private Hospital is a licensed private hospital, which prepares its accounts to 30 June annually. The business was carried out in a rented building. However, in 16 March 2022, the construction of its own building was completed and operations in its new building started on 17 April 2022. The total area of the new building is 25,000 square feet. Details of the building are as follows:<br>Land: area -; cost 175,000<br>Legal fees (RM5,000 relating to land): area -; cost 10,000<br>Levelling land: area -; cost 20,000"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Area",
+       "Cost"
+      ],
+      "ms": [
+       "Item",
+       "Area",
+       "Cost"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Construction of hospital building (Block A)",
+        "18,750",
+        "565,000"
+       ],
+       "ms": [
+        "Construction of hospital building (Block A)",
+        "18,750",
+        "565,000"
+       ]
+      },
+      {
+       "en": [
+        "Construction of canteen and staff room (Block B)",
+        "3,800",
+        "30,000"
+       ],
+       "ms": [
+        "Construction of canteen and staff room (Block B)",
+        "3,800",
+        "30,000"
+       ]
+      },
+      {
+       "en": [
+        "Construction of the Research and Development laboratory (Block C)",
+        "2,450",
+        "25,000"
+       ],
+       "ms": [
+        "Construction of the Research and Development laboratory (Block C)",
+        "2,450",
+        "25,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Note: 1/6 of the total floor space of the hospital building was used as an office and mini shop.",
+     "ms": "Note: 1/6 of the total floor space of the hospital building was used as an office and mini shop."
+    },
+    {
+     "k": "p",
+     "en": "Due to high demand, Remedy Private Hospital decided to move its operations to Kuala Lumpur. Consequently, in 16 March 2025, the company disposed of its building to Care Maternity Home Sdn Bhd for RM1,000,000 (inclusive of land worth RM200,000). Care Maternity Home Sdn. Bhd. close their accounts every 31 July.",
+     "ms": "Due to high demand, Remedy Private Hospital decided to move its operations to Kuala Lumpur. Consequently, in 16 March 2025, the company disposed of its building to Care Maternity Home Sdn Bhd for RM1,000,000 (inclusive of land worth RM200,000). Care Maternity Home Sdn. Bhd. close their accounts every 31 July."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Determine the qualifying building expenditure and compute the relevant allowances should both Remedy Private Hospital Sdn Bhd and Care Maternity Home Sdn Bhd claim until year of assessment 2026.",
+     "ms": "**Diperlukan**<br>Determine the qualifying building expenditure and compute the relevant allowances should both Remedy Private Hospital Sdn Bhd and Care Maternity Home Sdn Bhd claim until year of assessment 2026."
     },
     {
      "k": "calc",
@@ -1043,8 +1456,175 @@
     },
     {
      "k": "ex",
-     "en": "Question\nDingin Sdn Bhd, a manufacturer of air-conditioners and electric fans, prepares its accounts to 31 December each year. The businesses had the following results for the year ended 31 December 2026 (RM):\nAir-conditioner business: gross sales 13,000,000; adjusted income 236,000\nElectric fan business: gross sales 6,000,000; adjusted income 34,000\n\nThe details of the property, plant and equipment for the year ended 31 December 2025 are as follows (year of acquisition; original cost / qualifying expenditure, RM):\nAssets used in the air-conditioner business\nExisting assets: (i) Factory building (including a showroom costing RM105,000): 2022; 1,500,000\nAdditions during the year: (ii) Extension of office administration area: 2025; 151,000\n(iii) Cost of a machine: 2025; 75,000\n(iv) Cost of preparing the site for the installation of the machine: 2025; 225,000\nAssets used in the electric fan business\nExisting assets: (i) Factory building: 2022; 100,000\nAlterations during the year: (ii) Expenditure on removing the entire layer of a slippery cement floor and replacing it with tiles for safety reason in the factory building: 2025; 45,000\n\nOn 3 March 2026, the entire factory building of electric fan business was sold to High Scale Sdn. Bhd. for RM250,000 (including RM140,000 for the land).\n\nRequired:\n(a) Calculate the capital allowances and industrial building allowances which Dingin Sdn. Bhd. can claim for the year of assessment 2025, and\n(b) Determine the statutory income for both the air-conditioner business and the electric fan business in the year of assessment 2026.",
-     "ms": "Soalan\nDingin Sdn Bhd, a manufacturer of air-conditioners and electric fans, prepares its accounts to 31 December each year. The businesses had the following results for the year ended 31 December 2026 (RM):\nAir-conditioner business: gross sales 13,000,000; adjusted income 236,000\nElectric fan business: gross sales 6,000,000; adjusted income 34,000\n\nThe details of the property, plant and equipment for the year ended 31 December 2025 are as follows (year of acquisition; original cost / qualifying expenditure, RM):\nAssets used in the air-conditioner business\nExisting assets: (i) Factory building (including a showroom costing RM105,000): 2022; 1,500,000\nAdditions during the year: (ii) Extension of office administration area: 2025; 151,000\n(iii) Cost of a machine: 2025; 75,000\n(iv) Cost of preparing the site for the installation of the machine: 2025; 225,000\nAssets used in the electric fan business\nExisting assets: (i) Factory building: 2022; 100,000\nAlterations during the year: (ii) Expenditure on removing the entire layer of a slippery cement floor and replacing it with tiles for safety reason in the factory building: 2025; 45,000\n\nOn 3 March 2026, the entire factory building of electric fan business was sold to High Scale Sdn. Bhd. for RM250,000 (including RM140,000 for the land).\n\nRequired:\n(a) Calculate the capital allowances and industrial building allowances which Dingin Sdn. Bhd. can claim for the year of assessment 2025, and\n(b) Determine the statutory income for both the air-conditioner business and the electric fan business in the year of assessment 2026."
+     "en": "**Question**<br>Dingin Sdn Bhd, a manufacturer of air-conditioners and electric fans, prepares its accounts to 31 December each year. The businesses had the following results for the year ended 31 December 2026 (RM):",
+     "ms": "**Soalan**<br>Dingin Sdn Bhd, a manufacturer of air-conditioners and electric fans, prepares its accounts to 31 December each year. The businesses had the following results for the year ended 31 December 2026 (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Gross sales",
+       "Adjusted income"
+      ],
+      "ms": [
+       "Item",
+       "Gross sales",
+       "Adjusted income"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Air-conditioner business",
+        "13,000,000",
+        "236,000"
+       ],
+       "ms": [
+        "Air-conditioner business",
+        "13,000,000",
+        "236,000"
+       ]
+      },
+      {
+       "en": [
+        "Electric fan business",
+        "6,000,000",
+        "34,000"
+       ],
+       "ms": [
+        "Electric fan business",
+        "6,000,000",
+        "34,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "The details of the property, plant and equipment for the year ended 31 December 2025 are as follows (year of acquisition; original cost / qualifying expenditure, RM):<br>Assets used in the air-conditioner business",
+     "ms": "The details of the property, plant and equipment for the year ended 31 December 2025 are as follows (year of acquisition; original cost / qualifying expenditure, RM):<br>Assets used in the air-conditioner business"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Year",
+       "Cost"
+      ],
+      "ms": [
+       "Item",
+       "Year",
+       "Cost"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(i) Factory building (including a showroom costing RM105,000), existing asset",
+        "2022",
+        "1,500,000"
+       ],
+       "ms": [
+        "(i) Factory building (including a showroom costing RM105,000), existing asset",
+        "2022",
+        "1,500,000"
+       ]
+      },
+      {
+       "en": [
+        "(ii) Extension of office administration area, addition during the year",
+        "2025",
+        "151,000"
+       ],
+       "ms": [
+        "(ii) Extension of office administration area, addition during the year",
+        "2025",
+        "151,000"
+       ]
+      },
+      {
+       "en": [
+        "(iii) Cost of a machine, addition during the year",
+        "2025",
+        "75,000"
+       ],
+       "ms": [
+        "(iii) Cost of a machine, addition during the year",
+        "2025",
+        "75,000"
+       ]
+      },
+      {
+       "en": [
+        "(iv) Cost of preparing the site for the installation of the machine, addition during the year",
+        "2025",
+        "225,000"
+       ],
+       "ms": [
+        "(iv) Cost of preparing the site for the installation of the machine, addition during the year",
+        "2025",
+        "225,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Assets used in the electric fan business",
+     "ms": "Assets used in the electric fan business"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Year",
+       "Cost"
+      ],
+      "ms": [
+       "Item",
+       "Year",
+       "Cost"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(i) Factory building, existing asset",
+        "2022",
+        "100,000"
+       ],
+       "ms": [
+        "(i) Factory building, existing asset",
+        "2022",
+        "100,000"
+       ]
+      },
+      {
+       "en": [
+        "(ii) Expenditure on removing the entire layer of a slippery cement floor and replacing it with tiles for safety reason in the factory building, alteration during the year",
+        "2025",
+        "45,000"
+       ],
+       "ms": [
+        "(ii) Expenditure on removing the entire layer of a slippery cement floor and replacing it with tiles for safety reason in the factory building, alteration during the year",
+        "2025",
+        "45,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "On 3 March 2026, the entire factory building of electric fan business was sold to High Scale Sdn. Bhd. for RM250,000 (including RM140,000 for the land).",
+     "ms": "On 3 March 2026, the entire factory building of electric fan business was sold to High Scale Sdn. Bhd. for RM250,000 (including RM140,000 for the land)."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(a) Calculate the capital allowances and industrial building allowances which Dingin Sdn. Bhd. can claim for the year of assessment 2025, and<br>(b) Determine the statutory income for both the air-conditioner business and the electric fan business in the year of assessment 2026.",
+     "ms": "**Diperlukan**<br>(a) Calculate the capital allowances and industrial building allowances which Dingin Sdn. Bhd. can claim for the year of assessment 2025, and<br>(b) Determine the statutory income for both the air-conditioner business and the electric fan business in the year of assessment 2026."
     },
     {
      "k": "p",
@@ -1073,8 +1653,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nSustain Me Manufacturing Industries Sdn. Bhd. (SMMI) with year ending 30 June annually, is a company manufacturing wide range of health products, acquired a piece of land in Bukit Skudai for RM5million in January 2024.\nSMMI subsequently constructed a building consist of factory together with office at a cost of RM2,850,000. The total built up area of this building was 275,000 sq ft of which the sales / administration office occupied 41,250 sq ft. The whole building was completed and brought into use in April 2025. The whole building was sold for RM3,500,000 in May 2026 to SwiftMove (a freight forwarding company involved in the transportation of goods) which used the whole building as a workshop to service and repair the company’s lorries.\nIn June 2026, SMMI purchased a three storey building in Bukit Perdana for RM3million and rented it out to Aurora Education Sdn. Bhd. (AESB). AESB use the building as an educational institution accredited by the Ministry of Education.\n\nRequired:\n(a) Calculate the Industrial Building Allowances / Charges (if any) for all relevant years of assessment for SMMI.\n(b) Explain briefly whether AESB is eligible to claim for IBA.",
-     "ms": "Soalan\nSustain Me Manufacturing Industries Sdn. Bhd. (SMMI) with year ending 30 June annually, is a company manufacturing wide range of health products, acquired a piece of land in Bukit Skudai for RM5million in January 2024.\nSMMI subsequently constructed a building consist of factory together with office at a cost of RM2,850,000. The total built up area of this building was 275,000 sq ft of which the sales / administration office occupied 41,250 sq ft. The whole building was completed and brought into use in April 2025. The whole building was sold for RM3,500,000 in May 2026 to SwiftMove (a freight forwarding company involved in the transportation of goods) which used the whole building as a workshop to service and repair the company’s lorries.\nIn June 2026, SMMI purchased a three storey building in Bukit Perdana for RM3million and rented it out to Aurora Education Sdn. Bhd. (AESB). AESB use the building as an educational institution accredited by the Ministry of Education.\n\nRequired:\n(a) Calculate the Industrial Building Allowances / Charges (if any) for all relevant years of assessment for SMMI.\n(b) Explain briefly whether AESB is eligible to claim for IBA."
+     "en": "**Question**<br>Sustain Me Manufacturing Industries Sdn. Bhd. (SMMI) with year ending 30 June annually, is a company manufacturing wide range of health products, acquired a piece of land in Bukit Skudai for RM5million in January 2024.<br>SMMI subsequently constructed a building consist of factory together with office at a cost of RM2,850,000. The total built up area of this building was 275,000 sq ft of which the sales / administration office occupied 41,250 sq ft. The whole building was completed and brought into use in April 2025. The whole building was sold for RM3,500,000 in May 2026 to SwiftMove (a freight forwarding company involved in the transportation of goods) which used the whole building as a workshop to service and repair the company’s lorries.<br>In June 2026, SMMI purchased a three storey building in Bukit Perdana for RM3million and rented it out to Aurora Education Sdn. Bhd. (AESB). AESB use the building as an educational institution accredited by the Ministry of Education.",
+     "ms": "**Soalan**<br>Sustain Me Manufacturing Industries Sdn. Bhd. (SMMI) with year ending 30 June annually, is a company manufacturing wide range of health products, acquired a piece of land in Bukit Skudai for RM5million in January 2024.<br>SMMI subsequently constructed a building consist of factory together with office at a cost of RM2,850,000. The total built up area of this building was 275,000 sq ft of which the sales / administration office occupied 41,250 sq ft. The whole building was completed and brought into use in April 2025. The whole building was sold for RM3,500,000 in May 2026 to SwiftMove (a freight forwarding company involved in the transportation of goods) which used the whole building as a workshop to service and repair the company’s lorries.<br>In June 2026, SMMI purchased a three storey building in Bukit Perdana for RM3million and rented it out to Aurora Education Sdn. Bhd. (AESB). AESB use the building as an educational institution accredited by the Ministry of Education."
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>(a) Calculate the Industrial Building Allowances / Charges (if any) for all relevant years of assessment for SMMI.<br>(b) Explain briefly whether AESB is eligible to claim for IBA.",
+     "ms": "**Diperlukan**<br>(a) Calculate the Industrial Building Allowances / Charges (if any) for all relevant years of assessment for SMMI.<br>(b) Explain briefly whether AESB is eligible to claim for IBA."
     },
     {
      "k": "calc",
@@ -1093,8 +1678,83 @@
     },
     {
      "k": "ex",
-     "en": "Question\nGlory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2026. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows (RM):\nLand: 560,000\nStamp duty on land acquired: 10,000\nDemolition of an existing car showroom building on the land: 410,000\nCost of construction of the factory building: 6,300,000\nCost of construction of the warehouse within the company’s curtilage: 360,000\nNote: The warehouse is 20% of the total area constructed\n\nRequired:\nDetermine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2026.",
-     "ms": "Soalan\nGlory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2026. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows (RM):\nLand: 560,000\nStamp duty on land acquired: 10,000\nDemolition of an existing car showroom building on the land: 410,000\nCost of construction of the factory building: 6,300,000\nCost of construction of the warehouse within the company’s curtilage: 360,000\nNote: The warehouse is 20% of the total area constructed\n\nRequired:\nDetermine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2026."
+     "en": "**Question**<br>Glory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2026. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows (RM):",
+     "ms": "**Soalan**<br>Glory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2026. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows (RM):"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM"
+      ],
+      "ms": [
+       "Item",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Land",
+        "560,000"
+       ],
+       "ms": [
+        "Land",
+        "560,000"
+       ]
+      },
+      {
+       "en": [
+        "Stamp duty on land acquired",
+        "10,000"
+       ],
+       "ms": [
+        "Stamp duty on land acquired",
+        "10,000"
+       ]
+      },
+      {
+       "en": [
+        "Demolition of an existing car showroom building on the land",
+        "410,000"
+       ],
+       "ms": [
+        "Demolition of an existing car showroom building on the land",
+        "410,000"
+       ]
+      },
+      {
+       "en": [
+        "Cost of construction of the factory building",
+        "6,300,000"
+       ],
+       "ms": [
+        "Cost of construction of the factory building",
+        "6,300,000"
+       ]
+      },
+      {
+       "en": [
+        "Cost of construction of the warehouse within the company’s curtilage",
+        "360,000"
+       ],
+       "ms": [
+        "Cost of construction of the warehouse within the company’s curtilage",
+        "360,000"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Note: The warehouse is 20% of the total area constructed",
+     "ms": "Note: The warehouse is 20% of the total area constructed"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2026.",
+     "ms": "**Diperlukan**<br>Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2026."
     },
     {
      "k": "calc",
@@ -1124,8 +1784,13 @@
     },
     {
      "k": "ex",
-     "en": "Question\nGlory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:\nLand: RM560,000\nStamp duty on land acquired: RM10,000\nDemolition of an existing car showroom building on the land: RM410,000\nCost of construction of the factory building: RM6,300,000\nCost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)\n\nRequired: Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)",
-     "ms": "Soalan\nGlory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:\nLand: RM560,000\nStamp duty on land acquired: RM10,000\nDemolition of an existing car showroom building on the land: RM410,000\nCost of construction of the factory building: RM6,300,000\nCost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)\n\nRequired: Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)"
+     "en": "**Question**<br>Glory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:<br>Land: RM560,000<br>Stamp duty on land acquired: RM10,000<br>Demolition of an existing car showroom building on the land: RM410,000<br>Cost of construction of the factory building: RM6,300,000<br>Cost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)",
+     "ms": "**Soalan**<br>Glory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:<br>Land: RM560,000<br>Stamp duty on land acquired: RM10,000<br>Demolition of an existing car showroom building on the land: RM410,000<br>Cost of construction of the factory building: RM6,300,000<br>Cost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)"
+    },
+    {
+     "k": "ex",
+     "en": "**Required**<br>Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)",
+     "ms": "**Diperlukan**<br>Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)"
     },
     {
      "k": "table",
