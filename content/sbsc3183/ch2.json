@@ -1127,13 +1127,13 @@
         "Demolition of the car showroom",
         "410,000",
         "410,000",
-        "Clearing the old site qualifies when the old structure was not an industrial building (a showroom is not) and the new building is on the same site (para 4.1(d)); same site is assumed"
+        "Clearing the old site qualifies when the old structure was not an industrial building (a showroom is not) and the new building is on the same site (para 4.1(d)); same site is assumed. The cost goes with the factory, the building put up on the cleared site"
        ],
        "ms": [
         "Roboh bilik pameran kereta",
         "410,000",
         "410,000",
-        "Pembersihan tapak lama layak jika struktur lama bukan bangunan industri (bilik pameran bukan) dan bangunan baharu di tapak sama (para 4.1(d)); tapak sama diandaikan"
+        "Pembersihan tapak lama layak jika struktur lama bukan bangunan industri (bilik pameran bukan) dan bangunan baharu di tapak sama (para 4.1(d)); tapak sama diandaikan. Kos ini bersama kilang, bangunan yang didirikan di tapak yang dibersihkan"
        ]
       },
       {
@@ -1166,6 +1166,34 @@
       },
       {
        "en": [
+        "QBE: factory (410,000 + 6,300,000)",
+        "",
+        "6,710,000",
+        "Claimed separately from the warehouse"
+       ],
+       "ms": [
+        "PBL: kilang (410,000 + 6,300,000)",
+        "",
+        "6,710,000",
+        "Dituntut berasingan daripada gudang"
+       ]
+      },
+      {
+       "en": [
+        "QBE: warehouse",
+        "",
+        "360,000",
+        "Claimed separately from the factory"
+       ],
+       "ms": [
+        "PBL: gudang",
+        "",
+        "360,000",
+        "Dituntut berasingan daripada kilang"
+       ]
+      },
+      {
+       "en": [
         "Total",
         "7,640,000",
         "7,070,000",
@@ -1181,9 +1209,93 @@
      ]
     },
     {
-     "k": "calc",
-     "en": "Initial allowance 10% × 7,070,000 = RM707,000\nAnnual allowance 3% × 7,070,000 = RM212,100\nTotal IBA for YA2025 = RM919,100\nResidual expenditure c/f = 7,070,000 − 919,100 = RM6,150,900",
-     "ms": "Elaun permulaan 10% × 7,070,000 = RM707,000\nElaun tahunan 3% × 7,070,000 = RM212,100\nJumlah IBA YA2025 = RM919,100\nPerbelanjaan baki dibawa ke hadapan = 7,070,000 − 919,100 = RM6,150,900"
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Factory (RM)",
+       "Warehouse (RM)",
+       "Total (RM)"
+      ],
+      "ms": [
+       "Item",
+       "Kilang (RM)",
+       "Gudang (RM)",
+       "Jumlah (RM)"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "QBE",
+        "6,710,000",
+        "360,000",
+        "7,070,000"
+       ],
+       "ms": [
+        "PBL",
+        "6,710,000",
+        "360,000",
+        "7,070,000"
+       ]
+      },
+      {
+       "en": [
+        "Initial allowance 10%",
+        "671,000",
+        "36,000",
+        "707,000"
+       ],
+       "ms": [
+        "Elaun permulaan 10%",
+        "671,000",
+        "36,000",
+        "707,000"
+       ]
+      },
+      {
+       "en": [
+        "Annual allowance 3%",
+        "201,300",
+        "10,800",
+        "212,100"
+       ],
+       "ms": [
+        "Elaun tahunan 3%",
+        "201,300",
+        "10,800",
+        "212,100"
+       ]
+      },
+      {
+       "en": [
+        "Total IBA, YA2025",
+        "872,300",
+        "46,800",
+        "919,100"
+       ],
+       "ms": [
+        "Jumlah IBA, YA2025",
+        "872,300",
+        "46,800",
+        "919,100"
+       ]
+      },
+      {
+       "en": [
+        "Residual expenditure c/f",
+        "5,837,700",
+        "313,200",
+        "6,150,900"
+       ],
+       "ms": [
+        "Perbelanjaan baki dibawa ke hadapan",
+        "5,837,700",
+        "313,200",
+        "6,150,900"
+       ]
+      }
+     ]
     },
     {
      "k": "note",
