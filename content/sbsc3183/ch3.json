@@ -421,6 +421,98 @@
      "ms": "Peruntukan am (S33(1))"
     },
     {
+     "k": "p",
+     "en": "Slide 11 gives the general test for a deduction. An expense is deductible under s33(1) only if it passes all five parts; failing any one part means no deduction, whatever the amount.",
+     "ms": "Slaid 11 memberi ujian am bagi potongan. Perbelanjaan boleh ditolak di bawah s33(1) hanya jika ia lulus kelima-lima bahagian; gagal satu bahagian bermakna tiada potongan, berapa pun jumlahnya."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Test",
+       "What it means",
+       "Example from the worked questions"
+      ],
+      "ms": [
+       "Ujian",
+       "Maksud",
+       "Contoh daripada soalan kerja"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1. Outgoing and expenses",
+        "A real payment or cost of the business, a revenue cost rather than the purchase of a lasting asset (capital)",
+        "Air-conditioner installation and the hire purchase agreement fee (Golden Circle) are capital, so they are added back"
+       ],
+       "ms": [
+        "1. Perbelanjaan keluar dan belanja",
+        "Bayaran atau kos sebenar perniagaan, kos hasil dan bukan pembelian aset berpanjangan (modal)",
+        "Pemasangan penyaman udara dan yuran perjanjian sewa beli (Golden Circle) ialah modal, jadi ditambah balik"
+       ]
+      },
+      {
+       "en": [
+        "2. Wholly and exclusively",
+        "Spent only for the business, with no private or other purpose. If part is private, that part is not deductible",
+        "Entertainment for a potential customer, a wedding gift for a customer, or a cash contribution to a customer’s dinner (PR 4/2015); embezzlement by a director (PR 4/2012 para 7.2.2)"
+       ],
+       "ms": [
+        "2. Semata-mata dan sepenuhnya",
+        "Dibelanjakan hanya untuk perniagaan, tanpa tujuan peribadi atau lain. Jika sebahagian peribadi, bahagian itu tidak boleh ditolak",
+        "Keraian bakal pelanggan, hadiah perkahwinan pelanggan, atau sumbangan tunai untuk makan malam pelanggan (PR 4/2015); penyelewengan oleh pengarah (PR 4/2012 para 7.2.2)"
+       ]
+      },
+      {
+       "en": [
+        "3. Incurred",
+        "The cost has actually been incurred, meaning a liability to pay exists. A provision or estimate for a future cost is not yet incurred",
+        "The 0.8% maintenance provision and the general provision for bad debts are not incurred (Styles, Health Best)"
+       ],
+       "ms": [
+        "3. Ditanggung",
+        "Kos benar-benar ditanggung, iaitu liabiliti untuk membayar wujud. Peruntukan atau anggaran kos masa depan belum ditanggung",
+        "Peruntukan penyelenggaraan 0.8% dan peruntukan am hutang lapuk belum ditanggung (Styles, Health Best)"
+       ]
+      },
+      {
+       "en": [
+        "4. During the period",
+        "The expense belongs to the basis period of the year of assessment. Costs paid in advance are spread over the period they cover; costs before the business starts are only deductible as the law allows",
+        "Rent paid in advance for 16 months: only 2 months fall in the year (Styles). Pre-operating costs follow the commencement date (PR 11/2013)"
+       ],
+       "ms": [
+        "4. Dalam tempoh",
+        "Perbelanjaan milik tempoh asas bagi tahun taksiran. Kos dibayar awal dibahagi mengikut tempoh yang dilindungi; kos sebelum perniagaan bermula hanya boleh ditolak seperti yang dibenarkan undang-undang",
+        "Sewa dibayar awal 16 bulan: hanya 2 bulan jatuh dalam tahun itu (Styles). Kos pra-operasi ikut tarikh permulaan (PR 11/2013)"
+       ]
+      },
+      {
+       "en": [
+        "5. In the production of income",
+        "There must be a link between the expense and gross income of the business. Spending that earns no taxable income, or is a gift, is not deductible",
+        "Interest on a loan to buy shares whose dividend is exempt (Health Best); a donation to a political party (Styles, Eco)"
+       ],
+       "ms": [
+        "5. Dalam menjana pendapatan",
+        "Mesti ada kaitan antara perbelanjaan dan pendapatan kasar perniagaan. Perbelanjaan yang tidak menghasilkan pendapatan boleh cukai, atau derma, tidak boleh ditolak",
+        "Faedah pinjaman membeli saham yang dividennya dikecualikan (Health Best); derma kepada parti politik (Styles, Eco)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Passing s33(1) is not the end. The expense must also not be prohibited by s39(1) (for example private expenses, capital, fines, 50% of entertainment) and, for specific items, the special rules of s34 apply. The five-part reading above is my explanation of the slide, using examples from your worked questions.",
+     "ms": "Lulus s33(1) bukan penghujung. Perbelanjaan juga mesti tidak dilarang oleh s39(1) (contohnya perbelanjaan peribadi, modal, denda, 50% keraian) dan, bagi item tertentu, peraturan khas s34 terpakai. Huraian lima bahagian di atas ialah penjelasan saya tentang slaid, dengan contoh daripada soalan kerja anda."
+    },
+    {
+     "k": "h",
+     "en": "Items allowed under S33(1)",
+     "ms": "Item dibenarkan di bawah S33(1)"
+    },
+    {
      "k": "ul",
      "en": [
       "Wages and salaries of employees",
