@@ -1058,106 +1058,142 @@
      "k": "table",
      "head": {
       "en": [
+       "No.",
        "Gift",
-       "Reference"
+       "Reference",
+       "10% limit?"
       ],
       "ms": [
+       "No.",
        "Hadiah",
-       "Rujukan"
+       "Rujukan",
+       "Had 10%?"
       ]
      },
      "rows": [
       {
        "en": [
-        "Money to institutions / organisations / funds approved by the DGIR",
-        "s44(6) and proviso"
-       ],
-       "ms": [
-        "Wang kepada institusi / organisasi / dana diluluskan KPHDN",
-        "s44(6) dan proviso"
-       ]
-      },
-      {
-       "en": [
+        "01",
         "Money to the Government, a State Government or a local authority",
-        "s44(6)"
+        "s44(6)",
+        "No limit"
        ],
        "ms": [
+        "01",
         "Wang kepada Kerajaan, Kerajaan Negeri atau pihak berkuasa tempatan",
-        "s44(6)"
+        "s44(6)",
+        "Tiada had"
        ]
       },
       {
        "en": [
-        "Gift of money for sports approved by the Minister of Finance",
-        "s44(11B) and proviso"
+        "02",
+        "Money to institutions / organisations / funds approved by the Director General of Inland Revenue",
+        "s44(6) and proviso",
+        "Yes, 10%"
        ],
        "ms": [
-        "Hadiah wang untuk sukan diluluskan Menteri Kewangan",
-        "s44(11B) dan proviso"
+        "02",
+        "Wang kepada institusi / organisasi / dana diluluskan Ketua Pengarah Hasil Dalam Negeri",
+        "s44(6) dan proviso",
+        "Ya, 10%"
        ]
       },
       {
        "en": [
-        "Gift of money or contribution in kind for a project of national interest approved by the Minister",
-        "s44(11C) and proviso"
+        "03",
+        "Money for any sports activity approved by the Minister of Finance",
+        "s44(11B) and proviso",
+        "Yes, 10%"
        ],
        "ms": [
-        "Hadiah wang atau sumbangan dalam bentuk barangan untuk projek kepentingan negara diluluskan Menteri",
-        "s44(11C) dan proviso"
+        "03",
+        "Wang untuk sebarang aktiviti sukan diluluskan Menteri Kewangan",
+        "s44(11B) dan proviso",
+        "Ya, 10%"
        ]
       },
       {
        "en": [
-        "Gift of artefacts, manuscripts, paintings to the Government or State Government (valued by Department of Museums / National Archives)",
-        "s44(6A)"
+        "04",
+        "Money or cost of contribution in kind for a project of national interest approved by the Minister of Finance",
+        "s44(11C) and proviso",
+        "Yes, 10%"
        ],
        "ms": [
-        "Hadiah artifak, manuskrip, lukisan kepada Kerajaan atau Kerajaan Negeri (dinilai Jabatan Muzium / Arkib Negara)",
-        "s44(6A)"
+        "04",
+        "Wang atau kos sumbangan dalam bentuk barangan untuk projek kepentingan negara diluluskan Menteri Kewangan",
+        "s44(11C) dan proviso",
+        "Ya, 10%"
        ]
       },
       {
        "en": [
-        "Gift of money up to RM20,000 for public libraries and libraries of schools and higher education institutions (no claim under s34(6)(g) for the same expense)",
-        "s44(8)"
+        "05",
+        "Wakaf to an appropriate religious authority (or body / public university allowed by it), or endowment to a public university, for the purpose of the establishment objective",
+        "s44(11D) and proviso",
+        "Yes, 10%"
        ],
        "ms": [
-        "Hadiah wang sehingga RM20,000 untuk perpustakaan awam dan perpustakaan sekolah dan institusi pengajian tinggi (tiada tuntutan di bawah s34(6)(g) bagi perbelanjaan sama)",
-        "s44(8)"
+        "05",
+        "Wakaf kepada pihak berkuasa agama berkaitan (atau badan / universiti awam yang dibenarkan), atau endowmen kepada universiti awam, untuk tujuan objektif penubuhan",
+        "s44(11D) dan proviso",
+        "Ya, 10%"
        ]
       },
       {
        "en": [
-        "Gift of paintings valued by the National Art Gallery or a state art gallery",
-        "s44(11)"
+        "06",
+        "Artefacts, manuscripts or paintings to the Government or State Government, valued by the Department of Museums Malaysia / National Archives",
+        "s44(6A)",
+        "No (outside the 10% group)"
        ],
        "ms": [
-        "Hadiah lukisan dinilai Galeri Seni Negara atau galeri seni negeri",
-        "s44(11)"
+        "06",
+        "Artifak, manuskrip atau lukisan kepada Kerajaan atau Kerajaan Negeri, dinilai Jabatan Muzium Malaysia / Arkib Negara",
+        "s44(6A)",
+        "Tidak (di luar kumpulan 10%)"
        ]
       },
       {
        "en": [
-        "Wakaf to a religious authority, or endowment to a public university, for its establishment purpose",
-        "s44(11D) and proviso"
+        "07",
+        "Money up to RM20,000 for library facilities of public libraries and libraries of schools and higher education institutions, if no s34(6)(g) claim for the same expense",
+        "s44(8)",
+        "No, capped at RM20,000"
        ],
        "ms": [
-        "Wakaf kepada pihak berkuasa agama, atau endowmen kepada universiti awam, untuk tujuan penubuhannya",
-        "s44(11D) dan proviso"
+        "07",
+        "Wang sehingga RM20,000 untuk kemudahan perpustakaan awam dan perpustakaan sekolah dan institusi pengajian tinggi, jika tiada tuntutan s34(6)(g) bagi perbelanjaan sama",
+        "s44(8)",
+        "Tidak, dihadkan RM20,000"
+       ]
+      },
+      {
+       "en": [
+        "08",
+        "Valuation rule: the value of a gift of painting is based on the value set by the National Art Gallery or a state art gallery",
+        "s44(11)",
+        "Not a separate gift; a valuation rule"
+       ],
+       "ms": [
+        "08",
+        "Peraturan penilaian: nilai hadiah lukisan berdasarkan nilai yang ditentukan Galeri Seni Negara atau galeri seni negeri",
+        "s44(11)",
+        "Bukan hadiah berasingan; peraturan penilaian"
        ]
       }
      ]
     },
     {
      "k": "p",
-     "en": "Gifts numbered 2, 3, 4 and 5 on the slides are restricted to 10% of aggregate income.",
-     "ms": "Hadiah bernombor 2, 3, 4 dan 5 pada slaid dihadkan kepada 10% daripada pendapatan agregat."
+     "en": "Slide 23: gifts 02, 03, 04 and 05 are restricted to 10% of aggregate income. Gift 01 (Government), 06 (artefacts) and 07 (library, RM20,000) are not in the 10% group.",
+     "ms": "Slaid 23: hadiah 02, 03, 04 dan 05 dihadkan kepada 10% daripada pendapatan agregat. Hadiah 01 (Kerajaan), 06 (artifak) dan 07 (perpustakaan, RM20,000) tidak termasuk dalam kumpulan 10%."
     },
     {
      "k": "note",
-     "en": "Slides 21–22 number the gifts 01–08 in separate boxes, and slide 23 refers to gifts ‘2, 3, 4 and 5’; the numbering does not map clearly to my table, so I could not say which gifts are excluded from the limit. Check this with your lecturer.",
-     "ms": "Slaid 21–22 menomborkan hadiah 01–08 dalam kotak berasingan, dan slaid 23 merujuk hadiah ‘2, 3, 4 dan 5’; penomboran tidak jelas dipadankan dengan jadual saya, jadi saya tidak dapat menyatakan hadiah mana dikecualikan daripada had. Semak dengan pensyarah."
+     "en": "The numbers 01 to 08 and the 10% group (02 to 05) come straight from slides 21 to 23. That gifts 01, 06 and 07 fall outside the 10% group is my reading of slide 23, which names only 2, 3, 4 and 5. Gift 08 is a valuation rule for paintings, not a separate gift.",
+     "ms": "Nombor 01 hingga 08 dan kumpulan 10% (02 hingga 05) diambil terus daripada slaid 21 hingga 23. Bahawa hadiah 01, 06 dan 07 di luar kumpulan 10% ialah bacaan saya terhadap slaid 23 yang hanya menamakan 2, 3, 4 dan 5. Hadiah 08 ialah peraturan penilaian lukisan, bukan hadiah berasingan."
     }
    ]
   },
