@@ -1144,6 +1144,272 @@
      "ms": "Menerangkan (iii): tanpa pilihan seluruh caj jatuh dalam satu tahun, yang boleh menyebabkan bil cukai besar dalam satu tahun. Pilihan sebaliknya meletakkan setiap bahagian semula dalam tahun elaun diberi, jadi MESB mesti memaklumkan LHDN dan menyerahkan pengiraan disemak, dan taksiran tambahan dibuat bagi YA terdahulu itu (PR 1/2016 para 9). Pembahagian kos dua blok kediaman, akhir tahun RTB dan tarikh jualan Februari atau September ialah andaian saya apabila soalan tidak menyatakan."
     }
    ]
+  },
+  {
+   "id": "revision",
+   "icon": "📝",
+   "title": {
+    "en": "Revision Test",
+    "ms": "Ujian Ulang Kaji"
+   },
+   "ref": "REVISION_TEST.docx",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "From REVISION_TEST.docx (Choco Farm, 7 marks). No answer key supplied; the answer is mine, from PR 1/2016. The question calls the buyer ‘Sweet Farm’ in the facts and ‘Tawau Farm’ in the requirement; I treat them as the same buyer and call it Sweet Farm.",
+     "ms": "Daripada REVISION_TEST.docx (Choco Farm, 7 markah). Tiada kunci jawapan; jawapan ini saya sediakan daripada PR 1/2016. Soalan menamakan pembeli ‘Sweet Farm’ dalam fakta dan ‘Tawau Farm’ dalam kehendak; saya anggap pembeli yang sama dan panggil Sweet Farm."
+    },
+    {
+     "k": "h",
+     "en": "Choco Farm: estate office RM120,000",
+     "ms": "Choco Farm: pejabat estet RM120,000"
+    },
+    {
+     "k": "p",
+     "en": "The estate office is a farm building: 10% × 120,000 = RM12,000 a year, starting YA2024 (used in the basis period, year end 31 December). It was sold on 31.3.2026, within 5 years of the expenditure, so a charge arises on Choco equal to all the allowances given; the RM88,000 price is ignored. The YA2026 allowance is time-apportioned to the date of disposal, counting the disposal day: 1 Jan to 31 Mar 2026 = 90 days, so 90/365 × 12,000 = RM2,958.90.",
+     "ms": "Pejabat estet ialah bangunan ladang: 10% × 120,000 = RM12,000 setahun, bermula YA2024 (digunakan dalam tempoh asas, akhir tahun 31 Disember). Ia dijual pada 31.3.2026, dalam 5 tahun daripada perbelanjaan, maka caj timbul ke atas Choco sama dengan semua elaun diberi; harga RM88,000 diabaikan. Elaun YA2026 dibahagi masa hingga tarikh pelupusan, termasuk hari pelupusan: 1 Jan hingga 31 Mac 2026 = 90 hari, jadi 90/365 × 12,000 = RM2,958.90."
+    },
+    {
+     "k": "calc",
+     "en": "Charge = 12,000 + 12,000 + 2,958.90 = RM26,958.90\nWith the para 27 election: 26,958.90 ÷ 3 YAs (2024, 2025, 2026) = RM8,986.30 in each year",
+     "ms": "Caj = 12,000 + 12,000 + 2,958.90 = RM26,958.90\nDengan pilihan para 27: 26,958.90 ÷ 3 YA (2024, 2025, 2026) = RM8,986.30 setiap tahun"
+    },
+    {
+     "k": "h",
+     "en": "(i) With the para 27 election: Choco Farm",
+     "ms": "(i) Dengan pilihan para 27: Choco Farm"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "YA",
+       "Allowance",
+       "Charge (spread)",
+       "Net"
+      ],
+      "ms": [
+       "YA",
+       "Elaun",
+       "Caj (disebar)",
+       "Bersih"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2024",
+        "12,000.00",
+        "8,986.30",
+        "3,013.70 allowance"
+       ],
+       "ms": [
+        "2024",
+        "12,000.00",
+        "8,986.30",
+        "3,013.70 elaun"
+       ]
+      },
+      {
+       "en": [
+        "2025",
+        "12,000.00",
+        "8,986.30",
+        "3,013.70 allowance"
+       ],
+       "ms": [
+        "2025",
+        "12,000.00",
+        "8,986.30",
+        "3,013.70 elaun"
+       ]
+      },
+      {
+       "en": [
+        "2026",
+        "2,958.90",
+        "8,986.30",
+        "6,027.40 net charge"
+       ],
+       "ms": [
+        "2026",
+        "2,958.90",
+        "8,986.30",
+        "6,027.40 caj bersih"
+       ]
+      },
+      {
+       "en": [
+        "2027",
+        "Nil",
+        "Nil",
+        "Nil"
+       ],
+       "ms": [
+        "2027",
+        "Nil",
+        "Nil",
+        "Nil"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "(ii) With no election: Choco Farm",
+     "ms": "(ii) Tanpa pilihan: Choco Farm"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "YA",
+       "Allowance",
+       "Charge",
+       "Net"
+      ],
+      "ms": [
+       "YA",
+       "Elaun",
+       "Caj",
+       "Bersih"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2024",
+        "12,000.00",
+        "",
+        "12,000.00 allowance"
+       ],
+       "ms": [
+        "2024",
+        "12,000.00",
+        "",
+        "12,000.00 elaun"
+       ]
+      },
+      {
+       "en": [
+        "2025",
+        "12,000.00",
+        "",
+        "12,000.00 allowance"
+       ],
+       "ms": [
+        "2025",
+        "12,000.00",
+        "",
+        "12,000.00 elaun"
+       ]
+      },
+      {
+       "en": [
+        "2026",
+        "2,958.90",
+        "26,958.90",
+        "24,000.00 net charge"
+       ],
+       "ms": [
+        "2026",
+        "2,958.90",
+        "26,958.90",
+        "24,000.00 caj bersih"
+       ]
+      },
+      {
+       "en": [
+        "2027",
+        "Nil",
+        "Nil",
+        "Nil"
+       ],
+       "ms": [
+        "2027",
+        "Nil",
+        "Nil",
+        "Nil"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Sweet Farm (the buyer): same in both cases",
+     "ms": "Sweet Farm (pembeli): sama dalam kedua-dua kes"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "YA",
+       "Allowance",
+       "Reason"
+      ],
+      "ms": [
+       "YA",
+       "Elaun",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2024",
+        "Nil",
+        "Not yet the owner"
+       ],
+       "ms": [
+        "2024",
+        "Nil",
+        "Belum menjadi pemilik"
+       ]
+      },
+      {
+       "en": [
+        "2025",
+        "Nil",
+        "Not yet the owner"
+       ],
+       "ms": [
+        "2025",
+        "Nil",
+        "Belum menjadi pemilik"
+       ]
+      },
+      {
+       "en": [
+        "2026",
+        "9,041.10",
+        "12,000 − 2,958.90: the rest of the year’s allowance, if the buyer’s basis period also falls in YA2026 (PR 1/2016 para 7.2)"
+       ],
+       "ms": [
+        "2026",
+        "9,041.10",
+        "12,000 − 2,958.90: baki elaun tahun itu, jika tempoh asas pembeli juga dalam YA2026 (PR 1/2016 para 7.2)"
+       ]
+      },
+      {
+       "en": [
+        "2027",
+        "12,000.00",
+        "A full year of 10% of the original cost"
+       ],
+       "ms": [
+        "2027",
+        "12,000.00",
+        "Setahun penuh 10% daripada kos asal"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The election only moves the charge between years; the buyer’s allowance does not change, and the buyer’s allowances continue each year until the 10-year life is used. Assumption: Sweet Farm’s year end is also 31 December (any year end from 31.3.2026 to 30.3.2027 puts the purchase in YA2026 as well). The election is made by the seller; the buyer is not affected.",
+     "ms": "Pilihan hanya memindahkan caj antara tahun; elaun pembeli tidak berubah, dan elaun pembeli berterusan setiap tahun sehingga hayat 10 tahun habis. Andaian: akhir tahun Sweet Farm juga 31 Disember (sebarang akhir tahun dari 31.3.2026 hingga 30.3.2027 meletakkan pembelian dalam YA2026 juga). Pilihan dibuat oleh penjual; pembeli tidak terjejas."
+    }
+   ]
   }
  ],
  "cards": [

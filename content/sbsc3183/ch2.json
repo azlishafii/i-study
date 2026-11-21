@@ -1052,6 +1052,140 @@
      "ms": "QBE: perobohan bilik pameran kereta 410,000 (bilik pameran bukan bangunan industri, dan kilang baharu di tapak sama) + kilang 6,300,000 + gudang 360,000 = RM7,070,000\nDikecualikan: tanah 560,000 dan duti setem tanah 10,000\nGudang berada dalam kawasan kilang dan menyimpan barang syarikat, jadi ia bangunan industri; keluasan 20% bukan bahagian bukan industri, jadi petua 10% tidak mengecualikannya\n\nIA 10% = RM707,000\nAA 3% = RM212,100\nJumlah YA2026 = RM919,100; RE = RM6,150,900"
     }
    ]
+  },
+  {
+   "id": "revision",
+   "icon": "📝",
+   "title": {
+    "en": "Revision Test",
+    "ms": "Ujian Ulang Kaji"
+   },
+   "ref": "REVISION_TEST.docx",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "From REVISION_TEST.docx (Glory Sdn Bhd, 7 marks). No answer key supplied; the answer is mine, from PR 3/2018. It is the same case as Q10 in the IBA example sheet.",
+     "ms": "Daripada REVISION_TEST.docx (Glory Sdn Bhd, 7 markah). Tiada kunci jawapan; jawapan ini saya sediakan daripada PR 3/2018. Ia kes yang sama seperti Q10 dalam lembaran contoh IBA."
+    },
+    {
+     "k": "h",
+     "en": "Glory Sdn Bhd (YA2025): qualifying expenditure and IBA",
+     "ms": "Glory Sdn Bhd (YA2025): perbelanjaan layak dan IBA"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM",
+       "QBE (RM)",
+       "Reason"
+      ],
+      "ms": [
+       "Item",
+       "RM",
+       "PBL (RM)",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Land",
+        "560,000",
+        "Nil",
+        "Cost of land never qualifies (PR 3/2018 para 4.1 note)"
+       ],
+       "ms": [
+        "Tanah",
+        "560,000",
+        "Nil",
+        "Kos tanah tidak pernah layak (PR 3/2018 para 4.1.1 nota)"
+       ]
+      },
+      {
+       "en": [
+        "Stamp duty on the land",
+        "10,000",
+        "Nil",
+        "Cost of acquiring title to the site"
+       ],
+       "ms": [
+        "Duti setem tanah",
+        "10,000",
+        "Nil",
+        "Kos memperoleh hak milik tapak"
+       ]
+      },
+      {
+       "en": [
+        "Demolition of the car showroom",
+        "410,000",
+        "410,000",
+        "Clearing the old site qualifies when the old structure was not an industrial building (a showroom is not) and the new building is on the same site (para 4.1(d)); same site is assumed"
+       ],
+       "ms": [
+        "Roboh bilik pameran kereta",
+        "410,000",
+        "410,000",
+        "Pembersihan tapak lama layak jika struktur lama bukan bangunan industri (bilik pameran bukan) dan bangunan baharu di tapak sama (para 4.1(d)); tapak sama diandaikan"
+       ]
+      },
+      {
+       "en": [
+        "Factory building",
+        "6,300,000",
+        "6,300,000",
+        "Industrial building: a factory"
+       ],
+       "ms": [
+        "Bangunan kilang",
+        "6,300,000",
+        "6,300,000",
+        "Bangunan industri: kilang"
+       ]
+      },
+      {
+       "en": [
+        "Warehouse in the same curtilage",
+        "360,000",
+        "360,000",
+        "A building in the factory’s own compound used to store its goods is an industrial building. The 10% rule applies only to a part not used as an industrial building, so the 20% floor area does not reduce the cost"
+       ],
+       "ms": [
+        "Gudang dalam curtilage sama",
+        "360,000",
+        "360,000",
+        "Bangunan dalam kawasan kilang sendiri untuk menyimpan barangannya ialah bangunan industri. Peraturan 10% hanya untuk bahagian yang tidak digunakan sebagai bangunan industri, jadi 20% luas lantai tidak mengurangkan kos"
+       ]
+      },
+      {
+       "en": [
+        "Total",
+        "7,640,000",
+        "7,070,000",
+        ""
+       ],
+       "ms": [
+        "Jumlah",
+        "7,640,000",
+        "7,070,000",
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Initial allowance 10% × 7,070,000 = RM707,000\nAnnual allowance 3% × 7,070,000 = RM212,100\nTotal IBA for YA2025 = RM919,100\nResidual expenditure c/f = 7,070,000 − 919,100 = RM6,150,900",
+     "ms": "Elaun permulaan 10% × 7,070,000 = RM707,000\nElaun tahunan 3% × 7,070,000 = RM212,100\nJumlah IBA YA2025 = RM919,100\nPerbelanjaan baki dibawa ke hadapan = 7,070,000 − 919,100 = RM6,150,900"
+    },
+    {
+     "k": "note",
+     "en": "Assumptions: both buildings were put into use in the basis period, so IA and AA are both given in YA2025 (AA is a full 3%, not time-apportioned), and the rates are IA 10% and AA 3% as in your lecturer’s sheet. If the warehouse were not for the company’s own goods (for example, for hire to the public), it would need the separate warehouse rules.",
+     "ms": "Andaian: kedua-dua bangunan digunakan dalam tempoh asas, jadi IA dan AA diberi dalam YA2025 (AA penuh 3%, tidak dibahagi masa), dan kadar IA 10% serta AA 3% seperti lembaran pensyarah. Jika gudang bukan untuk barangan syarikat sendiri (contohnya disewakan kepada orang awam), peraturan gudang berasingan terpakai."
+    }
+   ]
   }
  ],
  "cards": [
