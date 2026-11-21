@@ -1288,6 +1288,11 @@
      "ms": "Daripada Example_CORPORATE_26271.pdf (5 soalan). Disemak dengan PR 4/2015 (keraian), PR 4/2019 (hutang), PR 12/2019 (tukaran asing), PR 4/2012 (kehilangan tunai), PR 6/2019 (pembaikan), PR 11/2013 (pra-operasi), PR 3/2019 (OKU), PR 3/2020 (stok dikeluarkan), PR 1/2013 (eksport), PR 5/2020 (R&D), PR 2/2021 (seni) dan Adendum PR 1/2003 (pas cuti). Hanya Q3 dan Q4 ada jawapan pensyarah; Q2 ada susun atur separa; Q1 dan Q5 jawapan saya. Setiap jadual layanan ada (+) untuk jumlah ditambah balik dan (−) untuk jumlah ditolak, dengan sebab di sebelah. Jika lembaran dan PR berbeza saya nyatakan. Baris bertanda ‘sahkan’ bergantung pada peraturan yang tiada dalam PR dalam folder anda atau fakta yang soalan tidak jelaskan: semak dengan pensyarah sebelum ujian."
     },
     {
+     "k": "note",
+     "en": "Each final computation below follows slide 4: four bands, each starting from the amount named at the top of the band (net profit, adjusted income, statutory income, aggregate income) and ending at total / chargeable income. Where a line does not apply I write Nil, so you can see that it was considered. Method 2 (start from net profit) is used because the question gives the accounts.",
+     "ms": "Setiap pengiraan akhir di bawah mengikut slaid 4: empat jalur, setiap satu bermula daripada jumlah yang dinamakan di atas jalur (keuntungan bersih, pendapatan diselaraskan, pendapatan berkanun, pendapatan agregat) dan berakhir pada jumlah / pendapatan bercukai. Jika sesuatu baris tidak terpakai, saya tulis Nil supaya anda nampak ia telah dipertimbangkan. Kaedah 2 (mula daripada keuntungan bersih) digunakan kerana soalan memberi akaun."
+    },
+    {
      "k": "tip",
      "en": "Order of the computation: profit before tax, take off non-business income, add back disallowed items, deduct further (double) deductions, then capital allowances (and balancing charges), losses brought forward, other statutory income, donations, and the rate. Gains are taken off with (−) and losses added back with (+): a gain sitting inside an expense line is taken off, not added.",
      "ms": "Urutan pengiraan: keuntungan sebelum cukai, tolak pendapatan bukan perniagaan, tambah balik item tidak dibenarkan, tolak potongan tambahan (berganda), kemudian elaun modal (dan caj imbangan), kerugian dibawa ke hadapan, pendapatan berkanun lain, derma dan kadar. Untung ditolak dengan (−) dan rugi ditambah balik dengan (+): untung dalam baris belanja ditolak, bukan ditambah."
@@ -1761,9 +1766,261 @@
      ]
     },
     {
-     "k": "calc",
-     "en": "Profit before tax: 215,161,000\nAdd (+) 867,800, less (−) 763,386\nAdjusted business income: 215,265,414\nAdd balancing charge (warehouse): 45,000\nLess capital allowance: (80,000)\nStatutory business income: 215,230,414\nLess adjusted loss b/f: (580,000)\nAdd other statutory income: interest from subsidiary: 124,500\nAggregate income: 214,774,914\nLess donation to local authority (below the 10% limit of 21,477,491): (145,000)\nChargeable income: 214,629,914\nTax at 24% (paid-up capital RM5 million, not SME): RM51,511,179.36",
-     "ms": "Keuntungan sebelum cukai: 215,161,000\nTambah (+) 867,800, tolak (−) 763,386\nPendapatan perniagaan diselaraskan: 215,265,414\nTambah caj imbangan (gudang): 45,000\nTolak elaun modal: (80,000)\nPendapatan berkanun perniagaan: 215,230,414\nTolak kerugian dibawa ke hadapan: (580,000)\nTambah pendapatan berkanun lain: faedah anak syarikat: 124,500\nPendapatan agregat: 214,774,914\nTolak derma kepada pihak berkuasa tempatan (di bawah had 10% iaitu 21,477,491): (145,000)\nPendapatan bercukai: 214,629,914\nCukai pada 24% (modal berbayar RM5 juta, bukan PKS): RM51,511,179.36"
+     "k": "table",
+     "head": {
+      "en": [
+       "Band",
+       "Item (as on slide 4)",
+       "RM"
+      ],
+      "ms": [
+       "Jalur",
+       "Item (seperti slaid 4)",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1",
+        "START: net profit in the accounts (Method 2 of slide 4)",
+        ""
+       ],
+       "ms": [
+        "1",
+        "MULA: keuntungan bersih dalam akaun (Kaedah 2 slaid 4)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "Profit before tax",
+        "215,161,000"
+       ],
+       "ms": [
+        "",
+        "Keuntungan sebelum cukai",
+        "215,161,000"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Non-allowable expenses (from the treatment table)",
+        "867,800"
+       ],
+       "ms": [
+        "",
+        "+ Perbelanjaan tidak dibenarkan (daripada jadual layanan)",
+        "867,800"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Non-business income, double deduction and special deduction",
+        "(763,386)"
+       ],
+       "ms": [
+        "",
+        "− Pendapatan bukan perniagaan, potongan berganda dan potongan khas",
+        "(763,386)"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "ADJUSTED INCOME",
+        "215,265,414"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN DISELARASKAN",
+        "215,265,414"
+       ]
+      },
+      {
+       "en": [
+        "2",
+        "ADJUSTED INCOME: add balancing charges, deduct capital allowance",
+        ""
+       ],
+       "ms": [
+        "2",
+        "PENDAPATAN DISELARASKAN: tambah caj imbangan, tolak elaun modal",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Balancing charge (warehouse)",
+        "45,000"
+       ],
+       "ms": [
+        "",
+        "+ Caj imbangan (gudang)",
+        "45,000"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Capital allowance",
+        "(80,000)"
+       ],
+       "ms": [
+        "",
+        "− Elaun modal",
+        "(80,000)"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY BUSINESS INCOME",
+        "215,230,414"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN PERNIAGAAN",
+        "215,230,414"
+       ]
+      },
+      {
+       "en": [
+        "3",
+        "STATUTORY INCOME: deduct previous years’ losses, add other statutory income",
+        ""
+       ],
+       "ms": [
+        "3",
+        "PENDAPATAN BERKANUN: tolak kerugian tahun lepas, tambah pendapatan berkanun lain",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Previous years’ business losses (adjusted loss b/f)",
+        "(580,000)"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun lepas (kerugian diselaraskan b/h)",
+        "(580,000)"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Statutory income from other sources: interest from subsidiary (s4(c))",
+        "124,500"
+       ],
+       "ms": [
+        "",
+        "+ Pendapatan berkanun daripada sumber lain: faedah anak syarikat (s4(c))",
+        "124,500"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY INCOME (AGGREGATE BEFORE DEDUCTIONS)",
+        "214,774,914"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN (AGREGAT SEBELUM POTONGAN)",
+        "214,774,914"
+       ]
+      },
+      {
+       "en": [
+        "4",
+        "AGGREGATE INCOME: deduct current-year loss, pre-operational expenditure, approved donations, zakat (business)",
+        ""
+       ],
+       "ms": [
+        "4",
+        "PENDAPATAN AGREGAT: tolak kerugian tahun semasa, perbelanjaan pra-operasi, derma diluluskan, zakat (perniagaan)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Current year business loss",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun semasa",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Pre-operational business expenditure",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Perbelanjaan perniagaan pra-operasi",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Approved donation: local authority (below the 10% limit of 21,477,491)",
+        "(145,000)"
+       ],
+       "ms": [
+        "",
+        "− Derma diluluskan: pihak berkuasa tempatan (di bawah had 10% iaitu 21,477,491)",
+        "(145,000)"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Zakat (business)",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Zakat (perniagaan)",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "TOTAL / CHARGEABLE INCOME",
+        "214,629,914"
+       ],
+       "ms": [
+        " =",
+        "JUMLAH / PENDAPATAN BERCUKAI",
+        "214,629,914"
+       ]
+      },
+      {
+       "en": [
+        " ",
+        "Tax at 24% (paid-up capital RM5 million, not SME)",
+        "RM51,511,179.36"
+       ],
+       "ms": [
+        " ",
+        "Cukai pada 24% (modal berbayar RM5 juta, bukan PKS)",
+        "RM51,511,179.36"
+       ]
+      }
+     ]
     },
     {
      "k": "note",
@@ -2324,8 +2581,265 @@
     },
     {
      "k": "calc",
-     "en": "Profit before tax: 20,186,100\nAdd (+) 2,319,700, less (−) 2,229,400\nAdjusted business income: 20,276,400\n\nCapital allowances\nNew factory: QBE 450,000 − 60,000 land = 390,000; first used March 2026\n  IA 10% = 39,000; AA 3% = 11,700 (full year)\nLorry (20% + 20%): cost 120,000; YA2024 48,000; YA2025 24,000; residual 48,000; sold 70,000\n  Balancing charge 70,000 − 48,000: 22,000\nComputer (IA 20% + AA 40%): cost 40,000; YA2025 24,000; residual 16,000; sold 18,000\n  Balancing charge 18,000 − 16,000: 2,000\nAllowances: building 50,700 + other assets 80,000: 130,700\n\nStatutory business income = 20,276,400 + 24,000 − 130,700: 20,169,700\nLess loss b/f: (580,000)\nOther statutory income: Maybank interest 4,000 + Brunei rental 90,000: 94,000\nAggregate income: 19,683,700\nLess donation to approved institution: (140,000)\nChargeable income: 19,543,700\nTax at 24% (gross income above RM50 million, so not SME): RM4,690,488.00",
-     "ms": "Keuntungan sebelum cukai: 20,186,100\nTambah (+) 2,319,700, tolak (−) 2,229,400\nPendapatan perniagaan diselaraskan: 20,276,400\n\nElaun modal\nKilang baharu: PBL 450,000 − 60,000 tanah = 390,000; mula digunakan Mac 2026\n  EP 10% = 39,000; EL 3% = 11,700 (setahun penuh)\nLori (20% + 20%): kos 120,000; YA2024 48,000; YA2025 24,000; baki 48,000; dijual 70,000\n  Caj imbangan 70,000 − 48,000: 22,000\nKomputer (EP 20% + EL 40%): kos 40,000; YA2025 24,000; baki 16,000; dijual 18,000\n  Caj imbangan 18,000 − 16,000: 2,000\nElaun: bangunan 50,700 + aset lain 80,000: 130,700\n\nPendapatan berkanun perniagaan = 20,276,400 + 24,000 − 130,700: 20,169,700\nTolak kerugian b/f: (580,000)\nPendapatan berkanun lain: faedah Maybank 4,000 + sewa Brunei 90,000: 94,000\nPendapatan agregat: 19,683,700\nTolak derma kepada institusi diluluskan: (140,000)\nPendapatan bercukai: 19,543,700\nCukai pada 24% (pendapatan kasar melebihi RM50 juta, jadi bukan PKS): RM4,690,488.00"
+     "en": "Capital allowance workings for Styles\nNew factory: QBE 450,000 − 60,000 land = 390,000; first used March 2026\n  IA 10% = 39,000; AA 3% = 11,700 (full year)\nLorry (20% + 20%): cost 120,000; YA2024 48,000; YA2025 24,000; residual 48,000; sold 70,000\n  Balancing charge 70,000 − 48,000: 22,000\nComputer (IA 20% + AA 40%): cost 40,000; YA2025 24,000; residual 16,000; sold 18,000\n  Balancing charge 18,000 − 16,000: 2,000\nAllowances: building 50,700 + other assets 80,000: 130,700",
+     "ms": "Pengiraan elaun modal untuk Styles\nKilang baharu: PBL 450,000 − 60,000 tanah = 390,000; mula digunakan Mac 2026\n  EP 10% = 39,000; EL 3% = 11,700 (setahun penuh)\nLori (20% + 20%): kos 120,000; YA2024 48,000; YA2025 24,000; baki 48,000; dijual 70,000\n  Caj imbangan 70,000 − 48,000: 22,000\nKomputer (EP 20% + EL 40%): kos 40,000; YA2025 24,000; baki 16,000; dijual 18,000\n  Caj imbangan 18,000 − 16,000: 2,000\nElaun: bangunan 50,700 + aset lain 80,000: 130,700"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Band",
+       "Item (as on slide 4)",
+       "RM"
+      ],
+      "ms": [
+       "Jalur",
+       "Item (seperti slaid 4)",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1",
+        "START: net profit in the accounts (Method 2 of slide 4)",
+        ""
+       ],
+       "ms": [
+        "1",
+        "MULA: keuntungan bersih dalam akaun (Kaedah 2 slaid 4)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "Profit before tax",
+        "20,186,100"
+       ],
+       "ms": [
+        "",
+        "Keuntungan sebelum cukai",
+        "20,186,100"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Non-allowable expenses (from the treatment table)",
+        "2,319,700"
+       ],
+       "ms": [
+        "",
+        "+ Perbelanjaan tidak dibenarkan (daripada jadual layanan)",
+        "2,319,700"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Non-business income, double deduction and special deduction",
+        "(2,229,400)"
+       ],
+       "ms": [
+        "",
+        "− Pendapatan bukan perniagaan, potongan berganda dan potongan khas",
+        "(2,229,400)"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "ADJUSTED INCOME",
+        "20,276,400"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN DISELARASKAN",
+        "20,276,400"
+       ]
+      },
+      {
+       "en": [
+        "2",
+        "ADJUSTED INCOME: add balancing charges, deduct capital allowance",
+        ""
+       ],
+       "ms": [
+        "2",
+        "PENDAPATAN DISELARASKAN: tambah caj imbangan, tolak elaun modal",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Balancing charges (lorry 22,000 + computer 2,000)",
+        "24,000"
+       ],
+       "ms": [
+        "",
+        "+ Caj imbangan (lori 22,000 + komputer 2,000)",
+        "24,000"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Capital allowance (building 50,700 + other assets 80,000)",
+        "(130,700)"
+       ],
+       "ms": [
+        "",
+        "− Elaun modal (bangunan 50,700 + aset lain 80,000)",
+        "(130,700)"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY BUSINESS INCOME",
+        "20,169,700"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN PERNIAGAAN",
+        "20,169,700"
+       ]
+      },
+      {
+       "en": [
+        "3",
+        "STATUTORY INCOME: deduct previous years’ losses, add other statutory income",
+        ""
+       ],
+       "ms": [
+        "3",
+        "PENDAPATAN BERKANUN: tolak kerugian tahun lepas, tambah pendapatan berkanun lain",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Previous years’ business losses (loss b/f)",
+        "(580,000)"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun lepas (kerugian b/h)",
+        "(580,000)"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Statutory income from other sources: Maybank interest 4,000 + Brunei rental 90,000",
+        "94,000"
+       ],
+       "ms": [
+        "",
+        "+ Pendapatan berkanun daripada sumber lain: faedah Maybank 4,000 + sewa Brunei 90,000",
+        "94,000"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY INCOME (AGGREGATE BEFORE DEDUCTIONS)",
+        "19,683,700"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN (AGREGAT SEBELUM POTONGAN)",
+        "19,683,700"
+       ]
+      },
+      {
+       "en": [
+        "4",
+        "AGGREGATE INCOME: deduct current-year loss, pre-operational expenditure, approved donations, zakat (business)",
+        ""
+       ],
+       "ms": [
+        "4",
+        "PENDAPATAN AGREGAT: tolak kerugian tahun semasa, perbelanjaan pra-operasi, derma diluluskan, zakat (perniagaan)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Current year business loss",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun semasa",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Pre-operational business expenditure",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Perbelanjaan perniagaan pra-operasi",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Approved donation: approved institution",
+        "(140,000)"
+       ],
+       "ms": [
+        "",
+        "− Derma diluluskan: institusi diluluskan",
+        "(140,000)"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Zakat (business)",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Zakat (perniagaan)",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "TOTAL / CHARGEABLE INCOME",
+        "19,543,700"
+       ],
+       "ms": [
+        " =",
+        "JUMLAH / PENDAPATAN BERCUKAI",
+        "19,543,700"
+       ]
+      },
+      {
+       "en": [
+        " ",
+        "Tax at 24% (gross income above RM50 million, so not SME)",
+        "RM4,690,488.00"
+       ],
+       "ms": [
+        " ",
+        "Cukai pada 24% (pendapatan kasar melebihi RM50 juta, jadi bukan PKS)",
+        "RM4,690,488.00"
+       ]
+      }
+     ]
     },
     {
      "k": "note",
@@ -2759,9 +3273,273 @@
      ]
     },
     {
-     "k": "calc",
-     "en": "Net loss before tax: (92,000)\nAdd (+) 635,800, less (−) 587,000\nAdjusted business loss: (43,200)\nCapital allowance 203,000: no business income to set against, carried forward (up to 10 YAs): 203,000 c/f\nStatutory business income: Nil\nOther statutory income: interest: 9,000\nLess current-year business loss (set off against all sources): (43,200)\nAggregate income: Nil\nBusiness loss carried forward (up to 10 YAs): 34,200\nChargeable income and tax: Nil",
-     "ms": "Kerugian bersih sebelum cukai: (92,000)\nTambah (+) 635,800, tolak (−) 587,000\nKerugian perniagaan diselaraskan: (43,200)\nElaun modal 203,000: tiada pendapatan perniagaan untuk ditolak, dibawa ke hadapan (sehingga 10 YA): 203,000 c/f\nPendapatan berkanun perniagaan: Nil\nPendapatan berkanun lain: faedah: 9,000\nTolak kerugian perniagaan tahun semasa (ditolak daripada semua sumber): (43,200)\nPendapatan agregat: Nil\nKerugian perniagaan dibawa ke hadapan (sehingga 10 YA): 34,200\nPendapatan bercukai dan cukai: Nil"
+     "k": "table",
+     "head": {
+      "en": [
+       "Band",
+       "Item (as on slide 4)",
+       "RM"
+      ],
+      "ms": [
+       "Jalur",
+       "Item (seperti slaid 4)",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1",
+        "START: net profit in the accounts (Method 2 of slide 4)",
+        ""
+       ],
+       "ms": [
+        "1",
+        "MULA: keuntungan bersih dalam akaun (Kaedah 2 slaid 4)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "Net loss before tax",
+        "(92,000)"
+       ],
+       "ms": [
+        "",
+        "Kerugian bersih sebelum cukai",
+        "(92,000)"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Non-allowable expenses (from the treatment table)",
+        "635,800"
+       ],
+       "ms": [
+        "",
+        "+ Perbelanjaan tidak dibenarkan (daripada jadual layanan)",
+        "635,800"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Non-business income, double deduction and special deduction",
+        "(587,000)"
+       ],
+       "ms": [
+        "",
+        "− Pendapatan bukan perniagaan, potongan berganda dan potongan khas",
+        "(587,000)"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "ADJUSTED BUSINESS LOSS",
+        "(43,200)"
+       ],
+       "ms": [
+        " =",
+        "KERUGIAN PERNIAGAAN DISELARASKAN",
+        "(43,200)"
+       ]
+      },
+      {
+       "en": [
+        "2",
+        "ADJUSTED INCOME: add balancing charges, deduct capital allowance",
+        ""
+       ],
+       "ms": [
+        "2",
+        "PENDAPATAN DISELARASKAN: tambah caj imbangan, tolak elaun modal",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Balancing charges",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "+ Caj imbangan",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Capital allowance 203,000: no business income to set against, so carried forward (up to 10 YAs)",
+        "203,000 c/f"
+       ],
+       "ms": [
+        "",
+        "− Elaun modal 203,000: tiada pendapatan perniagaan untuk ditolak, jadi dibawa ke hadapan (sehingga 10 YA)",
+        "203,000 c/f"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY BUSINESS INCOME",
+        "Nil"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN PERNIAGAAN",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "3",
+        "STATUTORY INCOME: deduct previous years’ losses, add other statutory income",
+        ""
+       ],
+       "ms": [
+        "3",
+        "PENDAPATAN BERKANUN: tolak kerugian tahun lepas, tambah pendapatan berkanun lain",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Previous years’ business losses",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun lepas",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Statutory income from other sources: interest on overdue trade receivables (s4(c))",
+        "9,000"
+       ],
+       "ms": [
+        "",
+        "+ Pendapatan berkanun daripada sumber lain: faedah tunggakan penghutang dagangan (s4(c))",
+        "9,000"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY INCOME (AGGREGATE BEFORE DEDUCTIONS)",
+        "9,000"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN (AGREGAT SEBELUM POTONGAN)",
+        "9,000"
+       ]
+      },
+      {
+       "en": [
+        "4",
+        "AGGREGATE INCOME: deduct current-year loss, pre-operational expenditure, approved donations, zakat (business)",
+        ""
+       ],
+       "ms": [
+        "4",
+        "PENDAPATAN AGREGAT: tolak kerugian tahun semasa, perbelanjaan pra-operasi, derma diluluskan, zakat (perniagaan)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Current year business loss (set off against all sources)",
+        "(43,200)"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun semasa (ditolak daripada semua sumber)",
+        "(43,200)"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Pre-operational business expenditure",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Perbelanjaan perniagaan pra-operasi",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Approved donations",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Derma diluluskan",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Zakat (business)",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Zakat (perniagaan)",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "TOTAL / CHARGEABLE INCOME",
+        "Nil"
+       ],
+       "ms": [
+        " =",
+        "JUMLAH / PENDAPATAN BERCUKAI",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        " ",
+        "Business loss carried forward (up to 10 YAs)",
+        "34,200"
+       ],
+       "ms": [
+        " ",
+        "Kerugian perniagaan dibawa ke hadapan (sehingga 10 YA)",
+        "34,200"
+       ]
+      },
+      {
+       "en": [
+        " ",
+        "Tax payable",
+        "Nil"
+       ],
+       "ms": [
+        " ",
+        "Cukai kena bayar",
+        "Nil"
+       ]
+      }
+     ]
     },
     {
      "k": "note",
@@ -3251,9 +4029,273 @@
      ]
     },
     {
-     "k": "calc",
-     "en": "Profit before tax: 15,182,000\nAdd (+) 1,651,600, less (−) 1,164,000\nAdjusted business income: 15,669,600\nLess capital allowance (25,000 b/f + 120,000 current): (145,000)\nStatutory business income: 15,524,600\nLess business loss b/f: (20,000)\nAdd other statutory income: interest: 795,000\nAggregate income = chargeable income (no donation qualifies): 16,299,600\nTax at 24% (paid-up capital RM2.9 million is above RM2.5 million, not SME): RM3,911,904.00\nIf the FTA is an approved institution, claim 15,000: tax falls by 3,600 to RM3,908,304.00",
-     "ms": "Keuntungan sebelum cukai: 15,182,000\nTambah (+) 1,651,600, tolak (−) 1,164,000\nPendapatan perniagaan diselaraskan: 15,669,600\nTolak elaun modal (25,000 b/f + 120,000 semasa): (145,000)\nPendapatan berkanun perniagaan: 15,524,600\nTolak kerugian perniagaan b/f: (20,000)\nTambah pendapatan berkanun lain: faedah: 795,000\nPendapatan agregat = pendapatan bercukai (tiada derma layak): 16,299,600\nCukai pada 24% (modal berbayar RM2.9 juta melebihi RM2.5 juta, bukan PKS): RM3,911,904.00\nJika FTA institusi diluluskan, tuntut 15,000: cukai turun 3,600 kepada RM3,908,304.00"
+     "k": "table",
+     "head": {
+      "en": [
+       "Band",
+       "Item (as on slide 4)",
+       "RM"
+      ],
+      "ms": [
+       "Jalur",
+       "Item (seperti slaid 4)",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1",
+        "START: net profit in the accounts (Method 2 of slide 4)",
+        ""
+       ],
+       "ms": [
+        "1",
+        "MULA: keuntungan bersih dalam akaun (Kaedah 2 slaid 4)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "Profit before tax",
+        "15,182,000"
+       ],
+       "ms": [
+        "",
+        "Keuntungan sebelum cukai",
+        "15,182,000"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Non-allowable expenses (from the treatment table)",
+        "1,651,600"
+       ],
+       "ms": [
+        "",
+        "+ Perbelanjaan tidak dibenarkan (daripada jadual layanan)",
+        "1,651,600"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Non-business income, double deduction and special deduction",
+        "(1,164,000)"
+       ],
+       "ms": [
+        "",
+        "− Pendapatan bukan perniagaan, potongan berganda dan potongan khas",
+        "(1,164,000)"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "ADJUSTED INCOME",
+        "15,669,600"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN DISELARASKAN",
+        "15,669,600"
+       ]
+      },
+      {
+       "en": [
+        "2",
+        "ADJUSTED INCOME: add balancing charges, deduct capital allowance",
+        ""
+       ],
+       "ms": [
+        "2",
+        "PENDAPATAN DISELARASKAN: tambah caj imbangan, tolak elaun modal",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Balancing charges",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "+ Caj imbangan",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Capital allowance (25,000 b/f + 120,000 current)",
+        "(145,000)"
+       ],
+       "ms": [
+        "",
+        "− Elaun modal (25,000 b/h + 120,000 semasa)",
+        "(145,000)"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY BUSINESS INCOME",
+        "15,524,600"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN PERNIAGAAN",
+        "15,524,600"
+       ]
+      },
+      {
+       "en": [
+        "3",
+        "STATUTORY INCOME: deduct previous years’ losses, add other statutory income",
+        ""
+       ],
+       "ms": [
+        "3",
+        "PENDAPATAN BERKANUN: tolak kerugian tahun lepas, tambah pendapatan berkanun lain",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Previous years’ business losses",
+        "(20,000)"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun lepas",
+        "(20,000)"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Statutory income from other sources: interest (s4(c)); the foreign dividend is exempt",
+        "795,000"
+       ],
+       "ms": [
+        "",
+        "+ Pendapatan berkanun daripada sumber lain: faedah (s4(c)); dividen luar negara dikecualikan",
+        "795,000"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY INCOME (AGGREGATE BEFORE DEDUCTIONS)",
+        "16,299,600"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN (AGREGAT SEBELUM POTONGAN)",
+        "16,299,600"
+       ]
+      },
+      {
+       "en": [
+        "4",
+        "AGGREGATE INCOME: deduct current-year loss, pre-operational expenditure, approved donations, zakat (business)",
+        ""
+       ],
+       "ms": [
+        "4",
+        "PENDAPATAN AGREGAT: tolak kerugian tahun semasa, perbelanjaan pra-operasi, derma diluluskan, zakat (perniagaan)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Current year business loss",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun semasa",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Pre-operational business expenditure",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Perbelanjaan perniagaan pra-operasi",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Approved donations (none qualifies)",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Derma diluluskan (tiada yang layak)",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Zakat (business)",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Zakat (perniagaan)",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "TOTAL / CHARGEABLE INCOME",
+        "16,299,600"
+       ],
+       "ms": [
+        " =",
+        "JUMLAH / PENDAPATAN BERCUKAI",
+        "16,299,600"
+       ]
+      },
+      {
+       "en": [
+        " ",
+        "Tax at 24% (paid-up capital RM2.9 million is above RM2.5 million, not SME)",
+        "RM3,911,904.00"
+       ],
+       "ms": [
+        " ",
+        "Cukai pada 24% (modal berbayar RM2.9 juta melebihi RM2.5 juta, bukan PKS)",
+        "RM3,911,904.00"
+       ]
+      },
+      {
+       "en": [
+        " ",
+        "If the FTA is an approved institution, claim 15,000: tax falls by 3,600 to RM3,908,304.00",
+        ""
+       ],
+       "ms": [
+        " ",
+        "Jika FTA institusi diluluskan, tuntut 15,000: cukai turun 3,600 kepada RM3,908,304.00",
+        ""
+       ]
+      }
+     ]
     },
     {
      "k": "calc",
@@ -3734,9 +4776,261 @@
      ]
     },
     {
-     "k": "calc",
-     "en": "Profit before tax: 232,850,000\nAdd (+) 1,592,040, less (−) 114,000\nAdjusted business income: 234,328,040\nLess capital allowance: (46,024,000)\nStatutory business income: 188,304,040\nAdd other statutory income: late-payment interest: 40,000\nAggregate income: 188,344,040\nLess donation to State Government (within the 10% limit of 18,834,404): (200,000)\nChargeable income: 188,144,040\nTax at 24% (paid-up capital RM5 million, not SME): RM45,154,569.60",
-     "ms": "Keuntungan sebelum cukai: 232,850,000\nTambah (+) 1,592,040, tolak (−) 114,000\nPendapatan perniagaan diselaraskan: 234,328,040\nTolak elaun modal: (46,024,000)\nPendapatan berkanun perniagaan: 188,304,040\nTambah pendapatan berkanun lain: faedah lewat bayar: 40,000\nPendapatan agregat: 188,344,040\nTolak derma kepada Kerajaan Negeri (dalam had 10% iaitu 18,834,404): (200,000)\nPendapatan bercukai: 188,144,040\nCukai pada 24% (modal berbayar RM5 juta, bukan PKS): RM45,154,569.60"
+     "k": "table",
+     "head": {
+      "en": [
+       "Band",
+       "Item (as on slide 4)",
+       "RM"
+      ],
+      "ms": [
+       "Jalur",
+       "Item (seperti slaid 4)",
+       "RM"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "1",
+        "START: net profit in the accounts (Method 2 of slide 4)",
+        ""
+       ],
+       "ms": [
+        "1",
+        "MULA: keuntungan bersih dalam akaun (Kaedah 2 slaid 4)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "Profit before tax",
+        "232,850,000"
+       ],
+       "ms": [
+        "",
+        "Keuntungan sebelum cukai",
+        "232,850,000"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Non-allowable expenses (from the treatment table)",
+        "1,592,040"
+       ],
+       "ms": [
+        "",
+        "+ Perbelanjaan tidak dibenarkan (daripada jadual layanan)",
+        "1,592,040"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Non-business income, double deduction and special deduction",
+        "(114,000)"
+       ],
+       "ms": [
+        "",
+        "− Pendapatan bukan perniagaan, potongan berganda dan potongan khas",
+        "(114,000)"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "ADJUSTED INCOME",
+        "234,328,040"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN DISELARASKAN",
+        "234,328,040"
+       ]
+      },
+      {
+       "en": [
+        "2",
+        "ADJUSTED INCOME: add balancing charges, deduct capital allowance",
+        ""
+       ],
+       "ms": [
+        "2",
+        "PENDAPATAN DISELARASKAN: tambah caj imbangan, tolak elaun modal",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Balancing charges",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "+ Caj imbangan",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Capital allowance",
+        "(46,024,000)"
+       ],
+       "ms": [
+        "",
+        "− Elaun modal",
+        "(46,024,000)"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY BUSINESS INCOME",
+        "188,304,040"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN PERNIAGAAN",
+        "188,304,040"
+       ]
+      },
+      {
+       "en": [
+        "3",
+        "STATUTORY INCOME: deduct previous years’ losses, add other statutory income",
+        ""
+       ],
+       "ms": [
+        "3",
+        "PENDAPATAN BERKANUN: tolak kerugian tahun lepas, tambah pendapatan berkanun lain",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Previous years’ business losses",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun lepas",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "+ Statutory income from other sources: late-payment interest (s4(c))",
+        "40,000"
+       ],
+       "ms": [
+        "",
+        "+ Pendapatan berkanun daripada sumber lain: faedah lewat bayar (s4(c))",
+        "40,000"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "STATUTORY INCOME (AGGREGATE BEFORE DEDUCTIONS)",
+        "188,344,040"
+       ],
+       "ms": [
+        " =",
+        "PENDAPATAN BERKANUN (AGREGAT SEBELUM POTONGAN)",
+        "188,344,040"
+       ]
+      },
+      {
+       "en": [
+        "4",
+        "AGGREGATE INCOME: deduct current-year loss, pre-operational expenditure, approved donations, zakat (business)",
+        ""
+       ],
+       "ms": [
+        "4",
+        "PENDAPATAN AGREGAT: tolak kerugian tahun semasa, perbelanjaan pra-operasi, derma diluluskan, zakat (perniagaan)",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Current year business loss",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Kerugian perniagaan tahun semasa",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Pre-operational business expenditure",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Perbelanjaan perniagaan pra-operasi",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Approved donation: State Government (within the 10% limit of 18,834,404)",
+        "(200,000)"
+       ],
+       "ms": [
+        "",
+        "− Derma diluluskan: Kerajaan Negeri (dalam had 10% iaitu 18,834,404)",
+        "(200,000)"
+       ]
+      },
+      {
+       "en": [
+        "",
+        "− Zakat (business)",
+        "Nil"
+       ],
+       "ms": [
+        "",
+        "− Zakat (perniagaan)",
+        "Nil"
+       ]
+      },
+      {
+       "en": [
+        " =",
+        "TOTAL / CHARGEABLE INCOME",
+        "188,144,040"
+       ],
+       "ms": [
+        " =",
+        "JUMLAH / PENDAPATAN BERCUKAI",
+        "188,144,040"
+       ]
+      },
+      {
+       "en": [
+        " ",
+        "Tax at 24% (paid-up capital RM5 million, not SME)",
+        "RM45,154,569.60"
+       ],
+       "ms": [
+        " ",
+        "Cukai pada 24% (modal berbayar RM5 juta, bukan PKS)",
+        "RM45,154,569.60"
+       ]
+      }
+     ]
     },
     {
      "k": "note",
