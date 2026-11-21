@@ -4082,13 +4082,13 @@
         "Travel: marketing manager, 4 days (2,500)",
         "",
         "1,800",
-        "Same cap, 1,800. Ref: PR 1/2013 para 6.2.1(e), p. 8."
+        "Further deduction, same cap as the director: (300 + 150) × 4 days = 1,800. Ref: PR 1/2013 para 6.2.1(e), p. 8."
        ],
        "ms": [
         "Perjalanan: pengurus pemasaran, 4 hari (2,500)",
         "",
         "1,800",
-        "Had sama, 1,800. Rujukan: PR 1/2013 para 6.2.1(e), m/s 8."
+        "Potongan tambahan, had sama seperti pengarah: (300 + 150) × 4 hari = 1,800. Rujukan: PR 1/2013 para 6.2.1(e), m/s 8."
        ]
       },
       {
@@ -4582,13 +4582,13 @@
         "LESS: OTHER INCOME AND NON-BUSINESS ITEMS",
         "",
         "",
-        "(1,791,600)"
+        "(1,789,800)"
        ],
        "ms": [
         "TOLAK: PENDAPATAN LAIN DAN ITEM BUKAN PERNIAGAAN",
         "",
         "",
-        "(1,791,600)"
+        "(1,789,800)"
        ]
       },
       {
@@ -4616,20 +4616,6 @@
         "Jualan: hak tanda dagangan RM1,500,000 dalam enam ansuran",
         "",
         "1,500,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Travel: marketing manager, 4 days (2,500)",
-        "",
-        "1,800",
-        ""
-       ],
-       "ms": [
-        "Perjalanan: pengurus pemasaran, 4 hari (2,500)",
-        "",
-        "1,800",
         ""
        ]
       },
@@ -4988,13 +4974,13 @@
         "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
         "",
         "",
-        "(67,800)"
+        "(69,600)"
        ],
        "ms": [
         "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
         "",
         "",
-        "(67,800)"
+        "(69,600)"
        ]
       },
       {
@@ -5006,6 +4992,20 @@
        ],
        "ms": [
         "Perjalanan: pengarah pemasaran, 4 hari (3,000)",
+        "",
+        "1,800",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Travel: marketing manager, 4 days (2,500)",
+        "",
+        "1,800",
+        ""
+       ],
+       "ms": [
+        "Perjalanan: pengurus pemasaran, 4 hari (2,500)",
         "",
         "1,800",
         ""
