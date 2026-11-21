@@ -364,8 +364,8 @@
     },
     {
      "k": "tip",
-     "en": "Eco Furniture (lecturer’s answer as given; my corrected figure is RM3,911,904 in Worked Examples): adjusted income RM15,540,600 − capital allowance b/f 25,000 − current 120,000 = statutory business income 15,395,600; − losses b/f 20,000 = 15,375,600; + interest 795,000 (dividend exempt) = aggregate income 16,170,600; − donation 15,000 = chargeable income 16,155,600; tax at 24% = RM3,877,344.",
-     "ms": "Eco Furniture (jawapan pensyarah seperti diberi; angka betul saya RM3,911,904 dalam Contoh Kerja): pendapatan diselaraskan RM15,540,600 − elaun modal b/h 25,000 − semasa 120,000 = pendapatan berkanun perniagaan 15,395,600; − kerugian b/h 20,000 = 15,375,600; + faedah 795,000 (dividen dikecualikan) = pendapatan agregat 16,170,600; − derma 15,000 = pendapatan bercukai 16,155,600; cukai pada 24% = RM3,877,344."
+     "en": "Eco Furniture (lecturer’s answer as given; my corrected figure is RM3,921,504 in Worked Examples): adjusted income RM15,540,600 − capital allowance b/f 25,000 − current 120,000 = statutory business income 15,395,600; − losses b/f 20,000 = 15,375,600; + interest 795,000 (dividend exempt) = aggregate income 16,170,600; − donation 15,000 = chargeable income 16,155,600; tax at 24% = RM3,877,344.",
+     "ms": "Eco Furniture (jawapan pensyarah seperti diberi; angka betul saya RM3,921,504 dalam Contoh Kerja): pendapatan diselaraskan RM15,540,600 − elaun modal b/h 25,000 − semasa 120,000 = pendapatan berkanun perniagaan 15,395,600; − kerugian b/h 20,000 = 15,375,600; + faedah 795,000 (dividen dikecualikan) = pendapatan agregat 16,170,600; − derma 15,000 = pendapatan bercukai 16,155,600; cukai pada 24% = RM3,877,344."
     }
    ]
   },
@@ -2188,29 +2188,29 @@
       {
        "en": [
         "Lease: motor car 1, 30,000",
-        "Nil",
+        "30,000",
         "",
-        "Not above RM50,000"
+        "Cost 312,000 is above RM150,000, so the cumulative limit is RM50,000 over the lease (s39(1)(k)). Payments up to 30 June 2025 (60,000) already exceed it, so the whole 30,000 is disallowed"
        ],
        "ms": [
         "Sewa: kereta 1, 30,000",
-        "Nil",
+        "30,000",
         "",
-        "Tidak melebihi RM50,000"
+        "Kos 312,000 melebihi RM150,000, jadi had kumulatif ialah RM50,000 sepanjang pajakan (s39(1)(k)). Bayaran hingga 30 Jun 2025 (60,000) sudah melebihinya, jadi keseluruhan 30,000 ditolak"
        ]
       },
       {
        "en": [
         "Lease: motor car 2, 80,000",
-        "30,000",
+        "70,000",
         "",
-        "Excess over RM50,000 disallowed (s39(1)(k)); not stated as brand new, so no RM100,000 limit"
+        "Cost when new 110,000. Not stated as brand new, so the cumulative limit is RM50,000 (s39(1)(k)). 40,000 was allowed before, so only 10,000 is allowed this year and 70,000 is added back. If the car was brand new the limit would be RM100,000 and the add-back 20,000: confirm"
        ],
        "ms": [
         "Sewa: kereta 2, 80,000",
-        "30,000",
+        "70,000",
         "",
-        "Lebihan atas RM50,000 ditolak (s39(1)(k)); tidak dinyatakan baharu, jadi tiada had RM100,000"
+        "Kos baharu 110,000. Tidak dinyatakan baharu, jadi had kumulatif ialah RM50,000 (s39(1)(k)). 40,000 telah dibenarkan sebelum ini, jadi hanya 10,000 dibenarkan tahun ini dan 70,000 ditambah balik. Jika kereta baharu, had ialah RM100,000 dan tambah balik 20,000: sahkan"
        ]
       },
       {
@@ -2271,30 +2271,30 @@
       },
       {
        "en": [
-        "Donations 247,000 (all)",
-        "247,000",
+        "Donation: Majlis Bandaraya Iskandar Puteri 145,000",
+        "145,000",
         "",
-        "Add back, then claim what qualifies"
+        "Add back; claimed as an approved donation under s44(6) in band 4"
        ],
        "ms": [
-        "Derma 247,000 (semua)",
-        "247,000",
+        "Derma: Majlis Bandaraya Iskandar Puteri 145,000",
+        "145,000",
         "",
-        "Tambah balik, kemudian tuntut yang layak"
+        "Tambah balik; dituntut sebagai derma diluluskan di bawah s44(6) dalam jalur 4"
        ]
       },
       {
        "en": [
-        "Library contribution 102,000 (limit 100,000)",
+        "Library contribution 102,000: excess over the RM100,000 limit",
+        "2,000",
         "",
-        "100,000",
-        "Allowed as a business deduction up to RM100,000 (s34(6)(g)); RM2,000 stays disallowed. Assumes the library is open to the public"
+        "Deductible up to RM100,000 (s34(6)(g)); only the excess 2,000 is added back. Assumes the library is open to the public"
        ],
        "ms": [
-        "Sumbangan perpustakaan 102,000 (had 100,000)",
+        "Sumbangan perpustakaan 102,000: lebihan atas had RM100,000",
+        "2,000",
         "",
-        "100,000",
-        "Dibenarkan sebagai potongan perniagaan sehingga RM100,000 (s34(6)(g)); RM2,000 kekal ditolak. Andaian perpustakaan terbuka kepada orang awam"
+        "Boleh ditolak sehingga RM100,000 (s34(6)(g)); hanya lebihan 2,000 ditambah balik. Andaian perpustakaan terbuka kepada orang awam"
        ]
       },
       {
@@ -2384,14 +2384,14 @@
       {
        "en": [
         "Total",
-        "867,800",
-        "763,386",
+        "837,800",
+        "663,386",
         ""
        ],
        "ms": [
         "Jumlah",
-        "867,800",
-        "763,386",
+        "837,800",
+        "663,386",
         ""
        ]
       }
@@ -2503,13 +2503,13 @@
         "ADD: NON-ALLOWABLE EXPENSES",
         "",
         "",
-        "867,800"
+        "837,800"
        ],
        "ms": [
         "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
         "",
         "",
-        "867,800"
+        "837,800"
        ]
       },
       {
@@ -2570,14 +2570,28 @@
       },
       {
        "en": [
-        "Lease: motor car 2, 80,000",
+        "Lease: motor car 1, 30,000",
         "30,000",
         "",
         ""
        ],
        "ms": [
-        "Sewa: kereta 2, 80,000",
+        "Sewa: kereta 1, 30,000",
         "30,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Lease: motor car 2, 80,000",
+        "70,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Sewa: kereta 2, 80,000",
+        "70,000",
         "",
         ""
        ]
@@ -2626,14 +2640,28 @@
       },
       {
        "en": [
-        "Donations 247,000 (all)",
-        "247,000",
+        "Donation: Majlis Bandaraya Iskandar Puteri 145,000",
+        "145,000",
         "",
         ""
        ],
        "ms": [
-        "Derma 247,000 (semua)",
-        "247,000",
+        "Derma: Majlis Bandaraya Iskandar Puteri 145,000",
+        "145,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Library contribution 102,000: excess over the RM100,000 limit",
+        "2,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Sumbangan perpustakaan 102,000: lebihan atas had RM100,000",
+        "2,000",
         "",
         ""
        ]
@@ -2671,13 +2699,13 @@
         "LESS: SPECIAL / FURTHER DEDUCTION (S34)",
         "",
         "",
-        "(324,886)"
+        "(224,886)"
        ],
        "ms": [
         "TOLAK: POTONGAN KHAS / TAMBAHAN (S34)",
         "",
         "",
-        "(324,886)"
+        "(224,886)"
        ]
       },
       {
@@ -2705,20 +2733,6 @@
         "Saraan: pekerja OKU 56,000",
         "",
         "56,000",
-        ""
-       ]
-      },
-      {
-       "en": [
-        "Library contribution 102,000 (limit 100,000)",
-        "",
-        "100,000",
-        ""
-       ],
-       "ms": [
-        "Sumbangan perpustakaan 102,000 (had 100,000)",
-        "",
-        "100,000",
         ""
        ]
       },
@@ -2836,20 +2850,6 @@
       },
       {
        "en": [
-        "Lease: motor car 1, 30,000",
-        "Nil",
-        "",
-        ""
-       ],
-       "ms": [
-        "Sewa: kereta 1, 30,000",
-        "Nil",
-        "",
-        ""
-       ]
-      },
-      {
-       "en": [
         "Bad debts: trade debts written off 105,000",
         "Nil",
         "",
@@ -2907,15 +2907,15 @@
       {
        "en": [
         "2 · ADJUSTED INCOME",
-        "867,800",
-        "763,386",
-        "215,265,414"
+        "837,800",
+        "663,386",
+        "215,335,414"
        ],
        "ms": [
         "2 · PENDAPATAN DISELARASKAN",
-        "867,800",
-        "763,386",
-        "215,265,414"
+        "837,800",
+        "663,386",
+        "215,335,414"
        ]
       },
       {
@@ -2979,13 +2979,13 @@
         "3 · STATUTORY INCOME (BUSINESS)",
         "",
         "",
-        "215,230,414"
+        "215,300,414"
        ],
        "ms": [
         "3 · PENDAPATAN BERKANUN (PERNIAGAAN)",
         "",
         "",
-        "215,230,414"
+        "215,300,414"
        ]
       },
       {
@@ -3049,13 +3049,13 @@
         "4 · AGGREGATE INCOME",
         "",
         "",
-        "214,774,914"
+        "214,844,914"
        ],
        "ms": [
         "4 · PENDAPATAN AGREGAT",
         "",
         "",
-        "214,774,914"
+        "214,844,914"
        ]
       },
       {
@@ -3102,13 +3102,13 @@
       },
       {
        "en": [
-        "Donation: Majlis Bandaraya Iskandar Puteri (below the 10% limit of 21,477,491)",
+        "Donation: Majlis Bandaraya Iskandar Puteri (below the 10% limit of 21,484,491)",
         "",
         "145,000",
         ""
        ],
        "ms": [
-        "Derma: Majlis Bandaraya Iskandar Puteri (di bawah had 10% iaitu 21,477,491)",
+        "Derma: Majlis Bandaraya Iskandar Puteri (di bawah had 10% iaitu 21,484,491)",
         "",
         "145,000",
         ""
@@ -3133,13 +3133,13 @@
         "TOTAL / CHARGEABLE INCOME",
         "",
         "",
-        "214,629,914"
+        "214,699,914"
        ],
        "ms": [
         "JUMLAH / PENDAPATAN BERCUKAI",
         "",
         "",
-        "214,629,914"
+        "214,699,914"
        ]
       },
       {
@@ -3147,13 +3147,13 @@
         "Tax at 24% (paid-up capital RM5 million, not SME)",
         "",
         "",
-        "RM51,511,179.36"
+        "RM51,527,979.36"
        ],
        "ms": [
         "Cukai pada 24% (modal berbayar RM5 juta, bukan PKS)",
         "",
         "",
-        "RM51,511,179.36"
+        "RM51,527,979.36"
        ]
       }
      ]
@@ -8258,8 +8258,8 @@
     },
     {
      "k": "p",
-     "en": "The sheet is correct on most lines. I changed four: the furniture gift (taxed at market value, so add 42,000, not deduct), the realised forex gain from last year (add 5,000), the advance to the supplier (add back 40,000) and the Furniture Trade Association donation (no s44(6) claim unless approval is stated). Not an SME: paid-up capital RM2.9 million.",
-     "ms": "Lembaran betul pada kebanyakan baris. Saya ubah empat: derma perabot (dicukai pada nilai pasaran, jadi tambah 42,000, bukan tolak), untung tukaran asing nyata tahun lepas (tambah 5,000), pendahuluan kepada pembekal (tambah balik 40,000) dan derma Persatuan Perdagangan Perabot (tiada tuntutan s44(6) kecuali kelulusan dinyatakan). Bukan PKS: modal berbayar RM2.9 juta."
+     "en": "The sheet is correct on most lines. I changed five: the furniture gift (taxed at market value, so add 42,000, not deduct), the realised forex gain from last year (add 5,000), the advance to the supplier (add back 40,000), the Furniture Trade Association donation (no s44(6) claim unless approval is stated) and the car lease rentals (the RM50,000 limit under s39(1)(k) is cumulative over the lease, so 22,000 and 18,000 are added back). Not an SME: paid-up capital RM2.9 million.",
+     "ms": "Lembaran betul pada kebanyakan baris. Saya ubah lima: derma perabot (dicukai pada nilai pasaran, jadi tambah 42,000, bukan tolak), untung tukaran asing nyata tahun lepas (tambah 5,000), pendahuluan kepada pembekal (tambah balik 40,000), derma Persatuan Perdagangan Perabot (tiada tuntutan s44(6) kecuali kelulusan dinyatakan) dan sewa kereta (had RM50,000 di bawah s39(1)(k) ialah kumulatif sepanjang pajakan, jadi 22,000 dan 18,000 ditambah balik). Bukan PKS: modal berbayar RM2.9 juta."
     },
     {
      "k": "table",
@@ -8644,16 +8644,44 @@
       },
       {
        "en": [
-        "Lease rental: three vehicles (28,000; 16,000; 18,000)",
-        "Nil",
+        "Lease rental: JXX1095 (2023 20,000; 2024 24,000; 2025 28,000)",
+        "22,000",
         "",
-        "Each below RM50,000"
+        "Cost above RM150,000: cumulative limit RM50,000 (s39(1)(k)). 44,000 was allowed in 2023 and 2024, so only 6,000 is allowed in 2025 and 22,000 is added back. The lecturer’s sheet shows Nil"
        ],
        "ms": [
-        "Sewa: tiga kenderaan (28,000; 16,000; 18,000)",
+        "Sewa: JXX1095 (2023 20,000; 2024 24,000; 2025 28,000)",
+        "22,000",
+        "",
+        "Kos melebihi RM150,000: had kumulatif RM50,000 (s39(1)(k)). 44,000 dibenarkan pada 2023 dan 2024, jadi hanya 6,000 dibenarkan pada 2025 dan 22,000 ditambah balik. Lembaran pensyarah menunjukkan Nil"
+       ]
+      },
+      {
+       "en": [
+        "Lease rental: JVT3648 (2023 10,000; 2024 20,000; 2025 16,000)",
         "Nil",
         "",
-        "Setiap satu di bawah RM50,000"
+        "Cumulative 46,000 is within the RM50,000 limit: allowed"
+       ],
+       "ms": [
+        "Sewa: JVT3648 (2023 10,000; 2024 20,000; 2025 16,000)",
+        "Nil",
+        "",
+        "Kumulatif 46,000 dalam had RM50,000: dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Lease rental: JWN3333 (2023 24,000; 2024 26,000; 2025 18,000)",
+        "18,000",
+        "",
+        "50,000 was allowed in 2023 and 2024, which uses up the limit, so the whole 18,000 in 2025 is added back. The lecturer’s sheet shows Nil"
+       ],
+       "ms": [
+        "Sewa: JWN3333 (2023 24,000; 2024 26,000; 2025 18,000)",
+        "18,000",
+        "",
+        "50,000 dibenarkan pada 2023 dan 2024 yang menghabiskan had, jadi keseluruhan 18,000 pada 2025 ditambah balik. Lembaran pensyarah menunjukkan Nil"
        ]
       },
       {
@@ -8715,13 +8743,13 @@
       {
        "en": [
         "Total",
-        "1,651,600",
+        "1,691,600",
         "1,164,000",
         ""
        ],
        "ms": [
         "Jumlah",
-        "1,651,600",
+        "1,691,600",
         "1,164,000",
         ""
        ]
@@ -8820,13 +8848,13 @@
         "ADD: NON-ALLOWABLE EXPENSES",
         "",
         "",
-        "1,651,600"
+        "1,691,600"
        ],
        "ms": [
         "TAMBAH: PERBELANJAAN TIDAK DIBENARKAN",
         "",
         "",
-        "1,651,600"
+        "1,691,600"
        ]
       },
       {
@@ -8979,6 +9007,34 @@
        "ms": [
         "Keraian: makan malam pembekal 50,000",
         "25,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Lease rental: JXX1095 (2023 20,000; 2024 24,000; 2025 28,000)",
+        "22,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Sewa: JXX1095 (2023 20,000; 2024 24,000; 2025 28,000)",
+        "22,000",
+        "",
+        ""
+       ]
+      },
+      {
+       "en": [
+        "Lease rental: JWN3333 (2023 24,000; 2024 26,000; 2025 18,000)",
+        "18,000",
+        "",
+        ""
+       ],
+       "ms": [
+        "Sewa: JWN3333 (2023 24,000; 2024 26,000; 2025 18,000)",
+        "18,000",
         "",
         ""
        ]
@@ -9223,13 +9279,13 @@
       },
       {
        "en": [
-        "Lease rental: three vehicles (28,000; 16,000; 18,000)",
+        "Lease rental: JVT3648 (2023 10,000; 2024 20,000; 2025 16,000)",
         "Nil",
         "",
         ""
        ],
        "ms": [
-        "Sewa: tiga kenderaan (28,000; 16,000; 18,000)",
+        "Sewa: JVT3648 (2023 10,000; 2024 20,000; 2025 16,000)",
         "Nil",
         "",
         ""
@@ -9252,15 +9308,15 @@
       {
        "en": [
         "2 · ADJUSTED INCOME",
-        "1,651,600",
+        "1,691,600",
         "1,164,000",
-        "15,669,600"
+        "15,709,600"
        ],
        "ms": [
         "2 · PENDAPATAN DISELARASKAN",
-        "1,651,600",
+        "1,691,600",
         "1,164,000",
-        "15,669,600"
+        "15,709,600"
        ]
       },
       {
@@ -9338,13 +9394,13 @@
         "3 · STATUTORY INCOME (BUSINESS)",
         "",
         "",
-        "15,524,600"
+        "15,564,600"
        ],
        "ms": [
         "3 · PENDAPATAN BERKANUN (PERNIAGAAN)",
         "",
         "",
-        "15,524,600"
+        "15,564,600"
        ]
       },
       {
@@ -9422,13 +9478,13 @@
         "4 · AGGREGATE INCOME",
         "",
         "",
-        "16,299,600"
+        "16,339,600"
        ],
        "ms": [
         "4 · PENDAPATAN AGREGAT",
         "",
         "",
-        "16,299,600"
+        "16,339,600"
        ]
       },
       {
@@ -9506,13 +9562,13 @@
         "TOTAL / CHARGEABLE INCOME",
         "",
         "",
-        "16,299,600"
+        "16,339,600"
        ],
        "ms": [
         "JUMLAH / PENDAPATAN BERCUKAI",
         "",
         "",
-        "16,299,600"
+        "16,339,600"
        ]
       },
       {
@@ -9520,24 +9576,24 @@
         "Tax at 24% (paid-up capital RM2.9 million is above RM2.5 million, not SME)",
         "",
         "",
-        "RM3,911,904.00"
+        "RM3,921,504.00"
        ],
        "ms": [
         "Cukai pada 24% (modal berbayar RM2.9 juta melebihi RM2.5 juta, bukan PKS)",
         "",
         "",
-        "RM3,911,904.00"
+        "RM3,921,504.00"
        ]
       },
       {
        "en": [
-        "If the FTA is an approved institution, claim 15,000: tax falls by 3,600 to RM3,908,304.00",
+        "If the FTA is an approved institution, claim 15,000: tax falls by 3,600 to RM3,917,904.00",
         "",
         "",
         ""
        ],
        "ms": [
-        "Jika FTA institusi diluluskan, tuntut 15,000: cukai turun 3,600 kepada RM3,908,304.00",
+        "Jika FTA institusi diluluskan, tuntut 15,000: cukai turun 3,600 kepada RM3,917,904.00",
         "",
         "",
         ""
