@@ -103,6 +103,22 @@
      "k": "tip",
      "en": "Task force and problem-solving team end when the goal is done. A committee is long-lived.",
      "ms": "Task force dan pasukan penyelesaian masalah tamat bila matlamat siap. Jawatankuasa berpanjangan."
+    },
+    {
+     "k": "h",
+     "en": "From the slide notes",
+     "ms": "Daripada nota slaid"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Collaboration** = working together to solve complex problems; an essential skill in nearly every profession.",
+      "Team members share a mission and are **collectively responsible** for their work."
+     ],
+     "ms": [
+      "**Kolaborasi** = bekerjasama menyelesaikan masalah kompleks; kemahiran penting hampir semua profesion.",
+      "Ahli pasukan berkongsi misi dan **bertanggungjawab secara kolektif**."
+     ]
     }
    ]
   },
@@ -191,6 +207,56 @@
       "Kreativiti",
       "Penyelesaian konflik berkesan"
      ]
+    },
+    {
+     "k": "h",
+     "en": "From the slide notes",
+     "ms": "Daripada nota slaid"
+    },
+    {
+     "k": "p",
+     "en": "Effective teams pool knowledge, use diverse viewpoints, increase acceptance of solutions and achieve higher performance. They can improve productivity, creativity, employee involvement and even job security, and sit at the core of **participative management** (involving employees in decisions).",
+     "ms": "Pasukan berkesan menghimpun pengetahuan, memanfaat pandangan pelbagai, meningkatkan penerimaan penyelesaian dan prestasi. Ia teras **pengurusan penyertaan**."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Information and knowledge**: pooling experience gives access to more information.",
+      "**Diverse views**: varied perspectives, as long as guided by a shared goal.",
+      "**Acceptance**: people who take part in a decision are more likely to support it.",
+      "**Higher performance**: creativity and energy from shared purpose and mutual accountability; effective teams can beat top individuals on complex problems."
+     ],
+     "ms": [
+      "**Maklumat dan pengetahuan**: menghimpun pengalaman memberi lebih maklumat.",
+      "**Pandangan pelbagai**: asalkan dipandu matlamat bersama.",
+      "**Penerimaan**: yang terlibat lebih menyokong keputusan.",
+      "**Prestasi tinggi**: kreativiti dan tenaga daripada tujuan bersama."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Disadvantages in detail",
+     "ms": "Kekurangan secara terperinci"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Groupthink**: pressure to conform makes members withhold contrary opinions; teams oversimplify problems, ignore threatening information and fail to consider risks.",
+      "**Hidden agenda**: private counterproductive motive (control the group, undermine someone, pursue a goal against the team’s mission).",
+      "**Cost**: aligning schedules, meetings and coordination eat time and money.",
+      "**Overload**: best contributors get invited to even more teams; individual work is pushed to nights and weekends, causing exhaustion and lower productivity."
+     ],
+     "ms": [
+      "**Groupthink**: tekanan mematuhi menyebabkan ahli menyimpan pendapat berbeza; masalah dipermudah dan risiko diabaikan.",
+      "**Agenda tersembunyi**: motif peribadi menjejaskan (kawal kumpulan, menjatuhkan orang).",
+      "**Kos**: menyelaras jadual, mesyuarat dan kerja memakan masa dan wang.",
+      "**Beban berlebihan**: penyumbang terbaik dijemput ke lebih banyak pasukan; kerja individu ditolak ke malam/hujung minggu."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Why teams become dysfunctional: unclear or unaccepted management expectations; reluctance to put team goals before personal goals; reward systems that ignore team contributions; leadership that tolerates negative behaviour.",
+     "ms": "Punca pasukan tidak berfungsi: jangkaan pengurusan tidak jelas; enggan utamakan matlamat pasukan; sistem ganjaran abaikan sumbangan pasukan; kepimpinan membiarkan tingkah laku negatif."
     }
    ]
   },
@@ -323,6 +389,59 @@
       "Tanya soalan",
       "Bergerak ke penyelesaian melalui kolaborasi"
      ]
+    },
+    {
+     "k": "h",
+     "en": "From the slide notes",
+     "ms": "Daripada nota slaid"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Group dynamics** = interactions and processes within a team. Productive teams develop clear **norms** (informal standards of conduct).",
+      "Self-oriented members fulfil personal needs and are less productive. “Dream teams” of superstars often underperform because stars struggle to put the team first; difficult personalities may be avoided. Team-maintenance and task-oriented roles contribute most.",
+      "**Tuckman’s phases**: forming, storming, norming, performing, adjourning. Teams may move back and forth, or be productive immediately even while in conflict.",
+      "**Causes of conflict**: competition for resources, disagreement over goals or responsibilities, poor communication, power struggles, differences in values, attitudes and personalities.",
+      "Conflict is **constructive** if it brings issues into the open, increases involvement and generates creative ideas; **destructive** if it diverts energy, destroys morale or polarises the team."
+     ],
+     "ms": [
+      "**Dinamik kumpulan** = interaksi dan proses dalam pasukan. Pasukan produktif ada **norma** jelas (piawaian tidak formal).",
+      "Ahli berorientasi diri kurang produktif. “Dream team” bintang sering kurang berprestasi. Peranan penyelenggaraan dan tugas menyumbang paling banyak.",
+      "**Fasa Tuckman**: forming, storming, norming, performing, adjourning. Pasukan boleh bergerak ke depan dan belakang.",
+      "**Punca konflik**: persaingan sumber, percanggahan matlamat/tanggungjawab, komunikasi lemah, perebutan kuasa, perbezaan nilai.",
+      "Konflik **membina** jika membawa isu terbuka dan idea kreatif; **memusnah** jika mengalih tenaga, merosakkan moral atau memecahbelahkan."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Seven ways to resolve conflict",
+     "ms": "Tujuh cara menyelesaikan konflik"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Proactive behaviour**: deal with minor conflict before it becomes major.",
+      "**Communication**: involve those directly affected; choose words and gestures carefully.",
+      "**Openness**: get feelings out before the main issues.",
+      "**Research**: seek factual reasons before solutions.",
+      "**Flexibility**: don’t lock into a position.",
+      "**Fair play**: insist on fair outcomes; no hiding behind rules.",
+      "**Alliance**: unite opponents against an “outside force”."
+     ],
+     "ms": [
+      "**Proaktif**: tangani konflik kecil sebelum membesar.",
+      "**Komunikasi**: libatkan yang terlibat; pilih kata dan isyarat.",
+      "**Keterbukaan**: luahkan perasaan dahulu.",
+      "**Kajian**: cari sebab fakta sebelum penyelesaian.",
+      "**Fleksibiliti**: jangan terkunci pada satu pendirian.",
+      "**Adil**: tuntut hasil adil.",
+      "**Pakatan**: satukan pihak bertentangan menentang “kuasa luar”."
+     ]
+    },
+    {
+     "k": "p",
+     "en": "**Resistance to change** can be irrational (resisting any change) or logical (giving up authority or comfortable ways). Overcome it by actively listening, expressing interest, asking questions and moving toward resolution via collaboration.",
+     "ms": "**Penentangan terhadap perubahan** boleh tidak rasional atau logik (kehilangan kuasa/cara selesa). Atasi dengan mendengar aktif, tunjuk minat, bertanya dan bergerak ke arah resolusi."
     }
    ]
   },
@@ -421,6 +540,66 @@
      "k": "tip",
      "en": "Say “here is how to make it clearer”, not “this is confusing”. Comment on the message, not the person.",
      "ms": "Cakap “beginilah cara menjadikannya lebih jelas”, bukan “ini mengelirukan”. Komen mesej, bukan orang."
+    },
+    {
+     "k": "h",
+     "en": "From the slide notes",
+     "ms": "Daripada nota slaid"
+    },
+    {
+     "k": "p",
+     "en": "Team collaboration can produce results beyond what individuals do alone, but needs special effort and planning. Members must be flexible and open, focusing on team objectives and avoiding a “my way is best” attitude.",
+     "ms": "Kolaborasi boleh menghasilkan lebih daripada kerja individu tetapi perlukan usaha dan perancangan. Ahli mesti fleksibel dan elak sikap “cara saya terbaik”."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Select collaborators carefully** for combined experience, information and talent.",
+      "**Agree on goals** before starting (otherwise frustration and wasted time).",
+      "**Let the team bond** before diving in.",
+      "**Clarify individual responsibilities**.",
+      "**Establish clear processes** from start to finish.",
+      "**Avoid composing as a group**: plan, research and outline together, then assign writing to one person or split it; have one person do the final revision for consistent style. (Short texts such as slogans can be brainstormed.)",
+      "**Ensure tools are compatible** (even software versions can delay).",
+      "**Check progress** along the way; no news is not good news."
+     ],
+     "ms": [
+      "**Pilih rakan** untuk gabungan pengalaman, maklumat dan bakat.",
+      "**Setuju matlamat** sebelum mula.",
+      "**Beri masa berkenalan**.",
+      "**Jelaskan tanggungjawab individu**.",
+      "**Tetapkan proses jelas**.",
+      "**Elak menulis berkumpulan**: rancang, kaji dan buat rangka bersama, kemudian satu orang menulis atau bahagikan; satu orang semak akhir.",
+      "**Pastikan alat serasi**.",
+      "**Semak kemajuan**; tiada aduan tidak bermakna semuanya baik."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Collaboration technologies",
+     "ms": "Teknologi kolaborasi"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Simple tools**: commenting (notes without changing text), tracking changes (separate, reversible edits), Adobe Acrobat PDF group review.",
+      "**Content management systems** organise and control website content and help teams work on pages.",
+      "**Shared online workspaces** = virtual offices; **intranets** (employees only) and **extranets** (employees plus invited outsiders).",
+      "**Social networks and virtual communities / communities of practice** erase geographic and organisational boundaries.",
+      "**Mobile collaboration** apps support nearly all features of computer platforms; linked to **unified communication**."
+     ],
+     "ms": [
+      "**Alat mudah**: komen, jejak perubahan, semakan PDF Acrobat.",
+      "**CMS** mengurus kandungan web dan membantu kerja pasukan.",
+      "**Ruang kerja dalam talian** = pejabat maya; **intranet** (pekerja sahaja) dan **extranet** (pekerja dan pihak luar dijemput).",
+      "**Rangkaian sosial dan komuniti maya** menghapus sempadan geografi.",
+      "**Kolaborasi mudah alih** menyokong hampir semua ciri komputer; dikaitkan dengan **komunikasi bersepadu**."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Feedback: be constructive by focusing on how material can be improved. When receiving feedback, keep your emotions in check and view it as a chance to improve.",
+     "ms": "Maklum balas: fokus cara menambah baik. Apabila menerima, kawal emosi dan anggap peluang memperbaiki."
     }
    ]
   },
@@ -512,6 +691,68 @@
      "k": "note",
      "en": "Slides 24 and 25 (Typical Meeting Agenda; Capturing Key Decisions) are figures with no text.",
      "ms": "Slaid 24 dan 25 (Agenda Mesyuarat; Merekod Keputusan) ialah rajah tanpa teks."
+    },
+    {
+     "k": "h",
+     "en": "From the slide notes",
+     "ms": "Daripada nota slaid"
+    },
+    {
+     "k": "p",
+     "en": "Well-run meetings solve problems, develop ideas, find opportunities and promote team building. Prepare carefully, conduct efficiently and use meeting technology wisely.",
+     "ms": "Mesyuarat baik menyelesaikan masalah, membangun idea, mencari peluang dan membina pasukan."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Define purpose**: exchange information, reach decisions, or collaborate; define the best possible result.",
+      "**Select participants**: invite everyone who really needs to be there and no one else; more than 10 or 12 becomes unmanageable.",
+      "**Venue and time**: online for multiple locations; check seating, temperature, lighting, ventilation, acoustics, refreshments; mornings are often more productive.",
+      "**Agenda** answers: What must we do to meet goals? What issues matter most to all? What information is needed? Use a detailed planning agenda, then a simple display agenda with time limits."
+     ],
+     "ms": [
+      "**Takrif tujuan**: bertukar maklumat, membuat keputusan atau berkolaborasi.",
+      "**Pilih peserta**: jemput yang perlu sahaja; lebih 10–12 sukar diurus.",
+      "**Tempat dan masa**: dalam talian untuk lokasi berbeza; semak tempat duduk, suhu, cahaya; pagi lebih produktif.",
+      "**Agenda** menjawab: apa perlu dibuat? isu paling penting? maklumat diperlukan? Guna agenda perancangan terperinci, kemudian agenda paparan ringkas bermasa."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Conducting meetings",
+     "ms": "Mengendalikan mesyuarat"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Keep discussion on track: guide, mediate, probe, stimulate, summarise, redirect.",
+      "Follow agreed rules; formal meetings use **parliamentary procedure** (*Robert’s Rules of Order*); larger meetings need more formality.",
+      "Encourage participation: draw out quiet members; tell talkative ones time is limited.",
+      "Participate actively but don’t talk just to show knowledge.",
+      "Use mobile devices respectfully (notes, tweeting key points = fine; Facebook = not).",
+      "Close effectively: verify objectives, summarise conclusions and actions, clear up misunderstandings."
+     ],
+     "ms": [
+      "Pastikan perbincangan fokus.",
+      "Ikut peraturan; mesyuarat formal guna **prosedur parlimen** (*Robert’s Rules of Order*).",
+      "Galak penyertaan.",
+      "Sertai aktif tetapi jangan bercakap sekadar menunjuk pandai.",
+      "Guna peranti dengan hormat.",
+      "Tutup dengan berkesan: sahkan objektif, ringkaskan tindakan."
+     ]
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Minutes** = written summary of important information and decisions; record responsibilities assigned; software can forward action items and store audio and documents (Figure 2.5).",
+      "**Virtual meetings**: IM and teleconferencing (simplest); videoconferencing; **telepresence** (realistic, conveys facial expressions and gestures, good for negotiation and complex discussion); web-based systems with virtual whiteboards; webinars; online brainstorming (“idea campaigns”).",
+      "Successful virtual meetings need **extra planning**, awareness of limits (less nonverbal contact), keeping people engaged, background material sent beforehand so time is for discussion, and chances to participate."
+     ],
+     "ms": [
+      "**Minit** = ringkasan bertulis maklumat dan keputusan; rekod tanggungjawab; perisian boleh hantar tindakan.",
+      "**Mesyuarat maya**: IM, telesidang, sidang video, **telepresence**, sistem web dengan papan putih maya, webinar, sumbang saran dalam talian.",
+      "Mesyuarat maya perlukan **perancangan tambahan**, kesedaran had teknologi, penglibatan, bahan latar dihantar awal."
+     ]
     }
    ]
   },
@@ -700,6 +941,68 @@
      "k": "note",
      "en": "Selective listening (LO 2.5) is not explained in the slide text. Extra (not in slides): it means hearing only what you want to hear. Check your textbook.",
      "ms": "Pendengaran terpilih (LO 2.5) tidak dijelaskan dalam teks slaid. Extra (bukan dalam slaid): bermaksud hanya mendengar apa yang anda mahu dengar. Semak buku teks."
+    },
+    {
+     "k": "h",
+     "en": "From the slide notes",
+     "ms": "Daripada nota slaid"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "About **80%** of top executives say listening is the most important skill for getting things done. Poor listening costs companies millions through lost opportunities and legal mistakes.",
+      "**Content listening**: understand and retain information; don’t evaluate; overlook style.",
+      "**Critical listening**: evaluate logic, evidence, validity, implications, motives and omissions; separate fact from opinion; watch for bias.",
+      "**Empathic listening**: understand the speaker’s feelings, needs and wants; helps the person vent emotions.",
+      "**Active listening**: turn off your own filters and biases; ask questions to verify; show positive body language."
+     ],
+     "ms": [
+      "Kira-kira **80%** eksekutif kata mendengar ialah kemahiran terpenting. Pendengaran lemah merugikan berjuta.",
+      "**Mendengar kandungan**: faham dan ingat; tidak menilai.",
+      "**Mendengar kritis**: nilai logik, bukti, motif, kecuaian; bezakan fakta dan pendapat.",
+      "**Mendengar empati**: faham perasaan dan keperluan penutur.",
+      "**Mendengar aktif**: matikan penapis dan bias; tanya untuk sahkan."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Five steps of the listening process",
+     "ms": "Lima langkah proses mendengar"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Receiving**: physically hearing and acknowledging; blocked by noise, impaired hearing or inattention.",
+      "**Decoding**: assigning meaning using values, beliefs, expectations and nonverbal signals (e.g. sarcasm: “Well, that’s just lovely”).",
+      "**Remembering**: short-term memory then long-term memory.",
+      "**Evaluating**: critical thinking; separate fact from opinion; assess evidence.",
+      "**Responding**: verbal feedback one-on-one; applause, laughter or silence in an audience; later action."
+     ],
+     "ms": [
+      "**Menerima**: mendengar dan mengakui; terhalang oleh bunyi atau kurang perhatian.",
+      "**Menyahkod**: memberi makna ikut nilai, kepercayaan dan isyarat bukan lisan (cth sindiran).",
+      "**Mengingat**: memori jangka pendek ke panjang.",
+      "**Menilai**: pemikiran kritis.",
+      "**Bertindak balas**: maklum balas lisan; tepukan, ketawa atau senyap; kemudian tindakan."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Barriers",
+     "ms": "Halangan"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Some factors (acoustics, poor phone reception) are outside your control; others you can control (don’t interrupt, don’t create distractions). Texting or checking your watch also interrupts the speaker.",
+      "**Selective listening**: mind wanders, then you recall what you think the speaker probably said.",
+      "**Defensive listening**: protecting the ego by tuning out what doesn’t confirm your beliefs; deciding before the speaker finishes."
+     ],
+     "ms": [
+      "Sesetengah faktor di luar kawalan; yang lain boleh dikawal. Menghantar teks atau melihat jam juga mengganggu penutur.",
+      "**Mendengar terpilih**: fikiran melayang, kemudian anda ingat apa yang disangka.",
+      "**Mendengar defensif**: melindungi ego dengan mengabaikan apa yang tidak sepadan kepercayaan."
+     ]
     }
    ]
   },
@@ -758,6 +1061,40 @@
      "k": "tip",
      "en": "Memory hook: F-G-V-P-T-T (Face, Gesture, Voice, Personal look, Touch, Time/space).",
      "ms": "Cara ingat: F-G-V-P-T-T (Face, Gesture, Voice, Personal look, Touch, Time/space)."
+    },
+    {
+     "k": "h",
+     "en": "From the slide notes",
+     "ms": "Daripada nota slaid"
+    },
+    {
+     "k": "p",
+     "en": "Nonverbal communication can supplement or even replace verbal messages.",
+     "ms": "Komunikasi bukan lisan boleh menambah atau menggantikan mesej lisan."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Facial expression**: primary vehicle for emotion (type and intensity); eyes show attention and interest, influence, regulate interaction and establish dominance.",
+      "**Gesture and posture**: voluntary and involuntary messages; a wave has a specific meaning.",
+      "**Vocal characteristics**: intentional and unintentional messages; control pitch, pace and stress.",
+      "**Personal appearance**: people respond to physical appearance, sometimes unfairly.",
+      "**Touch**: warmth, comfort, reassurance and control; governed by cultural customs. When in doubt, don’t touch.",
+      "**Time and space**: assert authority or imply intimacy; expectations vary by culture."
+     ],
+     "ms": [
+      "**Riak wajah**: wahana utama emosi; mata menunjukkan perhatian dan dominasi.",
+      "**Gerak isyarat dan postur**: mesej sukarela dan tidak sukarela.",
+      "**Ciri vokal**: kawal nada, rentak dan tekanan.",
+      "**Penampilan peribadi**: orang bertindak balas pada penampilan, kadang tidak adil.",
+      "**Sentuhan**: kemesraan dan kawalan; ikut budaya. Jika ragu, jangan sentuh.",
+      "**Masa dan ruang**: tunjuk kuasa atau keakraban; berbeza mengikut budaya."
+     ]
+    },
+    {
+     "k": "tip",
+     "en": "Make nonverbal signals match your spoken tone and content. When talking, be aware of cues you send; when not talking, clothes, posture and walk still communicate; when listening, watch the speaker’s cues and ask an honest, respectful question if something feels wrong.",
+     "ms": "Pastikan isyarat sepadan dengan kata-kata. Semasa bercakap, tidak bercakap dan mendengar, perhatikan isyarat."
     }
    ]
   },
@@ -882,6 +1219,80 @@
      "k": "note",
      "en": "Table 2.4 (Dressing for Success) has four columns of wardrobe advice: smooth and finished; elegant and refined; crisp and starched; up-to-the-minute trendy. Each column builds on the one before.",
      "ms": "Jadual 2.4 (Dressing for Success) ada empat lajur nasihat pakaian: kemas dan licin; elegan dan halus; kemas berkanji; terkini dan bergaya. Setiap lajur menambah lajur sebelumnya."
+    },
+    {
+     "k": "h",
+     "en": "From the slide notes",
+     "ms": "Daripada nota slaid"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Etiquette is part of every aspect of business communication. Be aware of your effect on others, treat everyone with respect, remember the lasting impression. “Respect, consideration and honesty are universal and timeless” (Cindy Post Senning).",
+      "**Workplace**: match the dress style where you work; grooming matters; avoid strong scents (perfume, cologne, aftershave) because some people are allergic; phone skills remain essential even with IM."
+     ],
+     "ms": [
+      "Etiket ialah sebahagian setiap aspek komunikasi. Sedar kesan anda, hormati semua orang. “Hormat, pertimbangan dan kejujuran sejagat dan abadi.”",
+      "**Tempat kerja**: padankan gaya pakaian; kekemasan penting; elak wangian kuat; kemahiran telefon tetap penting."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Phone etiquette",
+     "ms": "Etiket telefon"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Vary your pitch (avoid monotone); slow down for non-native speakers.",
+      "When calling: identify yourself and organisation, state the reason, check it is a good time, plan important calls.",
+      "When answering: promptly, with a smile, identify yourself and company, ask “How may I help you?”",
+      "End with courtesy and clarity; double-check vital details.",
+      "Brief professional outgoing voicemail; when leaving voicemail give name, number, reason and times reachable; speak slowly."
+     ],
+     "ms": [
+      "Variasi nada; perlahan untuk bukan penutur asli.",
+      "Semasa menelefon: kenal diri, nyatakan sebab, tanya masa sesuai.",
+      "Menjawab: segera, senyum, kenal diri, tanya “How may I help you?”",
+      "Tamat dengan sopan; semak butiran penting.",
+      "Mesej peti suara ringkas; tinggalkan nama, nombor, sebab dan masa; cakap perlahan."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Online etiquette (notes)",
+     "ms": "Etiket dalam talian (nota)"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Avoid personal attacks; stay on topic (start a new message for a new subject); don’t present opinions as facts.",
+      "Follow spelling, punctuation and capitalisation; use up-to-date virus protection and secure passwords.",
+      "Ask if it is a good time for an IM chat; watch your language; avoid multitasking; **never assume privacy** (everything may be stored forever and forwarded).",
+      "Don’t use **Reply All** unless everyone benefits; don’t send sloppy or confusing messages; respect boundaries of time and virtual space; be careful with online commenting (Facebook login may reveal job title and company)."
+     ],
+     "ms": [
+      "Elak serangan peribadi; kekal topik; jangan nyatakan pendapat sebagai fakta.",
+      "Ikut ejaan dan tanda baca; guna perlindungan virus dan kata laluan selamat.",
+      "Tanya jika sesuai untuk IM; jaga bahasa; elak multitugas; **jangan anggap privasi**.",
+      "Jangan guna **Reply All** kecuali semua mendapat manfaat; hormati sempadan masa dan ruang maya; hati-hati komen dalam talian."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Mobile etiquette",
+     "ms": "Etiket mudah alih"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Disrespectful habits: obnoxious ringtones, loud talk in open offices, excessive personal calls, camera use without permission, calls in restrooms, texting during a meal or while someone speaks, calls interrupting meetings.",
+      "Older employees, managers and customers are less tolerant than younger people. Virtual assistants (e.g. Siri) can distract and annoy others."
+     ],
+     "ms": [
+      "Tabiat tidak hormat: nada dering kuat, bercakap kuat, panggilan peribadi berlebihan, guna kamera tanpa izin, teks semasa makan atau orang bercakap.",
+      "Pekerja lebih tua, pengurus dan pelanggan kurang bertoleransi. Pembantu maya (cth Siri) boleh mengganggu."
+     ]
     }
    ]
   }
@@ -1701,6 +2112,234 @@
     "en": "Slide 43.",
     "ms": "Slaid 43."
    }
+  },
+  {
+   "id": "q28",
+   "t": "proscons",
+   "q": {
+    "en": "Groupthink occurs when:",
+    "ms": "Groupthink occurs when:"
+   },
+   "o": [
+    "Team members compete for limited resources",
+    "Peer pressure causes members to withhold contrary or unpopular opinions",
+    "A member pursues a private, counterproductive motive",
+    "Too many team assignments overload employees"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 7 notes. The other options describe conflict, hidden agenda and overload.",
+    "ms": "Nota slaid 7. Pilihan lain ialah konflik, agenda tersembunyi dan beban."
+   }
+  },
+  {
+   "id": "q29",
+   "t": "dynamics",
+   "q": {
+    "en": "A team member keeps steering the discussion toward topics that interest him personally rather than the task. Which dysfunctional, self-oriented role is he playing?",
+    "ms": "A team member keeps steering the discussion toward topics that interest him personally rather than the task. Which dysfunctional, self-oriented role is he playing?"
+   },
+   "o": [
+    "Controlling",
+    "Withdrawing",
+    "Attention seeking",
+    "Diverting"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Diverting: focusing discussion on topics of personal interest rather than relevant to the task.",
+    "ms": "Diverting: memfokus perbincangan pada minat peribadi."
+   }
+  },
+  {
+   "id": "q30",
+   "t": "dynamics",
+   "q": {
+    "en": "In Tuckman’s model of group development, which phase follows “storming”?",
+    "ms": "In Tuckman’s model of group development, which phase follows “storming”?"
+   },
+   "o": [
+    "Forming",
+    "Norming",
+    "Performing",
+    "Adjourning"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Order: forming, storming, norming, performing, adjourning.",
+    "ms": "Urutan: forming, storming, norming, performing, adjourning."
+   }
+  },
+  {
+   "id": "q31",
+   "t": "dynamics",
+   "q": {
+    "en": "To resolve conflict by getting opponents to fight together against an “outside force” instead of against each other, a team uses:",
+    "ms": "To resolve conflict by getting opponents to fight together against an “outside force” instead of against each other, a team uses:"
+   },
+   "o": [
+    "Flexibility",
+    "Fair play",
+    "Alliance",
+    "Openness"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Alliance is one of the seven conflict-resolution measures.",
+    "ms": "Pakatan ialah satu daripada tujuh langkah menyelesaikan konflik."
+   }
+  },
+  {
+   "id": "q32",
+   "t": "collab",
+   "q": {
+    "en": "In collaborative writing, which part of the process does NOT usually benefit from group participation?",
+    "ms": "In collaborative writing, which part of the process does NOT usually benefit from group participation?"
+   },
+   "o": [
+    "Planning",
+    "Researching",
+    "Outlining",
+    "The actual composition"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Plan, research and outline together; assign the writing to one person or divide it.",
+    "ms": "Rancang, kaji dan buat rangka bersama; penulisan oleh seorang atau dibahagikan."
+   }
+  },
+  {
+   "id": "q33",
+   "t": "collab",
+   "q": {
+    "en": "Which is an example of constructive feedback?",
+    "ms": "Which is an example of constructive feedback?"
+   },
+   "o": [
+    "“This section is confusing.”",
+    "“I don’t get this.”",
+    "“You are not a good writer.”",
+    "“This section could be clearer if you add a short example before the data.”"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Discuss improvements rather than flaws; be specific and keep it impersonal.",
+    "ms": "Bincang penambahbaikan, bukan kelemahan; spesifik dan tidak peribadi."
+   }
+  },
+  {
+   "id": "q34",
+   "t": "meetings",
+   "q": {
+    "en": "According to the notes, meetings with more than ___ people become unmanageable if everyone is expected to participate.",
+    "ms": "According to the notes, meetings with more than ___ people become unmanageable if everyone is expected to participate."
+   },
+   "o": [
+    "5 or 6",
+    "10 or 12",
+    "20 or 25",
+    "30"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Slide 22 notes: more than 10 or 12 people can become unmanageable.",
+    "ms": "Nota slaid 22: lebih 10 atau 12 orang sukar diurus."
+   }
+  },
+  {
+   "id": "q35",
+   "t": "meetings",
+   "q": {
+    "en": "Telepresence is particularly good for negotiations and complex discussions because it:",
+    "ms": "Telepresence is particularly good for negotiations and complex discussions because it:"
+   },
+   "o": [
+    "Is the cheapest form of virtual meeting",
+    "Does not require any planning",
+    "Conveys nonverbal subtleties such as facial expressions and hand gestures",
+    "Replaces the need for an agenda"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Slide 27 notes.",
+    "ms": "Nota slaid 27."
+   }
+  },
+  {
+   "id": "q36",
+   "t": "listen",
+   "q": {
+    "en": "The goal of critical listening is to:",
+    "ms": "The goal of critical listening is to:"
+   },
+   "o": [
+    "Understand and retain information without evaluating it",
+    "Understand the speaker’s feelings, needs and wants",
+    "Understand and evaluate the logic, evidence, conclusions and motives of the message",
+    "Turn off your own filters and biases"
+   ],
+   "a": 2,
+   "e": {
+    "en": "The first is content listening, the second empathic, the last active listening.",
+    "ms": "Pertama ialah mendengar kandungan, kedua empati, terakhir aktif."
+   }
+  },
+  {
+   "id": "q37",
+   "t": "listen",
+   "q": {
+    "en": "You hear “Well, that’s just lovely” in a sarcastic tone and understand it to mean the opposite. In the listening process, this occurs at the ___ stage.",
+    "ms": "You hear “Well, that’s just lovely” in a sarcastic tone and understand it to mean the opposite. In the listening process, this occurs at the ___ stage."
+   },
+   "o": [
+    "Receiving",
+    "Decoding",
+    "Remembering",
+    "Evaluating"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Decoding assigns meaning using tone, nonverbal signals, beliefs and expectations.",
+    "ms": "Menyahkod memberi makna menggunakan nada dan isyarat."
+   }
+  },
+  {
+   "id": "q38",
+   "t": "nonverbal",
+   "q": {
+    "en": "Which of the following is NOT one of the six categories of nonverbal communication?",
+    "ms": "Which of the following is NOT one of the six categories of nonverbal communication?"
+   },
+   "o": [
+    "Facial expression",
+    "Touch",
+    "Time and space",
+    "Written words"
+   ],
+   "a": 3,
+   "e": {
+    "en": "The six: facial expression, gesture and posture, vocal characteristics, personal appearance, touch, time and space.",
+    "ms": "Enam: riak wajah, gerak isyarat dan postur, ciri vokal, penampilan, sentuhan, masa dan ruang."
+   }
+  },
+  {
+   "id": "q39",
+   "t": "etiq",
+   "q": {
+    "en": "Which online etiquette guideline is correct?",
+    "ms": "Which online etiquette guideline is correct?"
+   },
+   "o": [
+    "Use “Reply All” for every email to keep everyone informed",
+    "Assume an online conversation is private",
+    "Ask if it is a good time before starting an IM chat",
+    "Present your opinions as facts to sound confident"
+   ],
+   "a": 2,
+   "e": {
+    "en": "Don’t assume “available” means ready to chat; never assume privacy.",
+    "ms": "Jangan anggap “available” bermakna bersedia; jangan anggap privasi."
+   }
   }
  ],
  "essay": [
@@ -1845,6 +2484,31 @@
      "Tempat kerja: penampilan, dandanan, kemahiran telefon (2)",
      "Sosial: perkenalan, adat, jamuan, elak alkohol (2)",
      "Dalam talian: tiada serangan peribadi, jangan anggap privasi, elak Reply All, tatabahasa betul (2)"
+    ]
+   }
+  },
+  {
+   "id": "e7",
+   "t": "meetings",
+   "marks": 10,
+   "q": {
+    "en": "Analyse the advantages and disadvantages of virtual meetings versus in-person meetings for a team with members in different locations, and justify which you would recommend.",
+    "ms": "Analisis kelebihan dan kekurangan mesyuarat maya berbanding bersemuka untuk pasukan di lokasi berbeza, dan justifikasikan pilihan anda."
+   },
+   "pts": {
+    "en": [
+     "Virtual: connects people across locations, saves travel, webinars and shared tools (2)",
+     "Virtual limits: less visual contact and nonverbal communication, engagement and multitasking risk (2)",
+     "In-person: richer nonverbal cues; cost and scheduling disadvantages (2)",
+     "Telepresence and videoconferencing bridge the gap for negotiation and complex discussion (2)",
+     "Clear recommendation justified by purpose (information, decision, collaboration), plus extra planning for virtual meetings (2)"
+    ],
+    "ms": [
+     "Maya: hubungkan lokasi berbeza, jimat perjalanan, webinar dan alat kongsi (2)",
+     "Had maya: kurang hubungan visual dan bukan lisan, risiko penglibatan dan multitugas (2)",
+     "Bersemuka: isyarat bukan lisan lebih kaya; kos dan penjadualan (2)",
+     "Telepresence dan sidang video merapatkan jurang untuk rundingan dan perbincangan kompleks (2)",
+     "Cadangan jelas berdasarkan tujuan, dengan perancangan tambahan untuk maya (2)"
     ]
    }
   }
