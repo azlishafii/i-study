@@ -1,0 +1,927 @@
+{
+ "subject": {
+  "id": "sbsc3183",
+  "code": "SBSC3183",
+  "name": {
+   "en": "Taxation 2",
+   "ms": "Percukaian 2"
+  }
+ },
+ "id": "rev",
+ "num": 999,
+ "title": {
+  "en": "Revision Test",
+  "ms": "Ujian Ulang Kaji"
+ },
+ "standard": "SBSC3183 · Revision Test",
+ "outcomes": {
+  "en": [
+   "Decide when a manufacturing business commences",
+   "Find basis periods through two changes of accounting date",
+   "Compute qualifying building expenditure and IBA",
+   "Compute agriculture allowance, charge and the para 27 election"
+  ],
+  "ms": [
+   "Tentukan bila perniagaan pembuatan bermula",
+   "Cari tempoh asas melalui dua pertukaran tarikh perakaunan",
+   "Hitung perbelanjaan bangunan layak dan IBA",
+   "Hitung elaun pertanian, caj dan pilihan para 27"
+  ]
+ },
+ "sections": [
+  {
+   "id": "q1",
+   "icon": "🏭",
+   "title": {
+    "en": "Q1: Sugeh, commencement of trading",
+    "ms": "Q1: Sugeh, permulaan perdagangan"
+   },
+   "ref": "Chapter 1",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "The test paper REVISION_TEST.docx has four questions. Each section below gives the question as printed, then the answer. The paper comes without an answer key, so the answers are mine, from PR 11/2013, PR 8/2014, PR 3/2018 and PR 1/2016; check them with your lecturer. The same answers also sit in the Revision Test card of Chapters 1, 2 and 2B.",
+     "ms": "Kertas ujian REVISION_TEST.docx ada empat soalan. Setiap bahagian di bawah memberi soalan seperti dicetak, kemudian jawapan. Kertas tiada kunci jawapan, jadi jawapan ini saya sediakan daripada PR 11/2013, PR 8/2014, PR 3/2018 dan PR 1/2016; semak dengan pensyarah. Jawapan sama juga ada dalam kad Revision Test di Bab 1, 2 dan 2B."
+    },
+    {
+     "k": "h",
+     "en": "(a) Sugeh Sdn Bhd: when does trading commence?",
+     "ms": "(a) Sugeh Sdn Bhd: bilakah perdagangan bermula?"
+    },
+    {
+     "k": "ex",
+     "en": "Question\nSugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:\n18 February 2023: Date of incorporation\n26 May 2023: Land acquired\n11 August 2023: Agreement signed for construction of factory building\n24 October 2024: Construction of factory building was completed and ready for use\n1 December 2024: First batch of raw materials received\n12 January 2025: First sale of products\n\nRequired: Explain when Sugeh Sdn Bhd will be regarded as having commenced trading.",
+     "ms": "Soalan\nSugeh Sdn Bhd (SSB), a newly formed Malaysian tax resident company, closes accounts annually on 31 December. SSB acquired a piece of land to construct a factory building for the manufacture of refrigeration products. Relevant details are provided below:\n18 February 2023: Date of incorporation\n26 May 2023: Land acquired\n11 August 2023: Agreement signed for construction of factory building\n24 October 2024: Construction of factory building was completed and ready for use\n1 December 2024: First batch of raw materials received\n12 January 2025: First sale of products\n\nRequired: Explain when Sugeh Sdn Bhd will be regarded as having commenced trading."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Date",
+       "Event",
+       "Commencement?",
+       "Reason"
+      ],
+      "ms": [
+       "Tarikh",
+       "Peristiwa",
+       "Permulaan?",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "18.2.2023",
+        "Incorporation",
+        "No",
+        "Only creates the company"
+       ],
+       "ms": [
+        "18.2.2023",
+        "Penubuhan",
+        "Tidak",
+        "Hanya mewujudkan syarikat"
+       ]
+      },
+      {
+       "en": [
+        "26.5.2023",
+        "Land acquired",
+        "No",
+        "Preparatory"
+       ],
+       "ms": [
+        "26.5.2023",
+        "Tanah diperoleh",
+        "Tidak",
+        "Persediaan"
+       ]
+      },
+      {
+       "en": [
+        "11.8.2023",
+        "Construction agreement signed",
+        "No",
+        "Preparatory"
+       ],
+       "ms": [
+        "11.8.2023",
+        "Perjanjian pembinaan ditandatangani",
+        "Tidak",
+        "Persediaan"
+       ]
+      },
+      {
+       "en": [
+        "24.10.2024",
+        "Factory ready for use",
+        "No",
+        "Preparatory: the business has not yet begun its income-producing activity"
+       ],
+       "ms": [
+        "24.10.2024",
+        "Kilang sedia digunakan",
+        "Tidak",
+        "Persediaan: perniagaan belum memulakan aktiviti menjana pendapatan"
+       ]
+      },
+      {
+       "en": [
+        "1.12.2024",
+        "First raw materials received",
+        "Yes",
+        "Purchase of raw materials is the first act in the income-producing process of a manufacturer (PR 11/2013 para 5.2(a))"
+       ],
+       "ms": [
+        "1.12.2024",
+        "Bahan mentah pertama diterima",
+        "Ya",
+        "Pembelian bahan mentah ialah tindakan pertama dalam proses menjana pendapatan pengeluar (PR 11/2013 para 5.2(a))"
+       ]
+      },
+      {
+       "en": [
+        "12.1.2025",
+        "First sale",
+        "No (too late)",
+        "Sales are the result of trading, not its start"
+       ],
+       "ms": [
+        "12.1.2025",
+        "Jualan pertama",
+        "Tidak (terlalu lewat)",
+        "Jualan ialah hasil perdagangan, bukan permulaan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Answer: SSB is regarded as having commenced trading on 1 December 2024. Commencement is the start of activities in the course of business, as distinct from preparatory activities (PR 11/2013 para 5.2); for manufacturing, the purchase of raw materials is the indicator. Consequences: the first basis period is 1.12.2024–31.12.2024 (under 12 months, same year), so YA2024 = 1.12.2024–31.12.2024 and YA2025 = 1.1.2025–31.12.2025; revenue expenses incurred before 1.12.2024 that qualify are deemed incurred on that day.",
+     "ms": "Jawapan: SSB dianggap memulakan perdagangan pada 1 Disember 2024. Permulaan ialah mula aktiviti dalam perjalanan perniagaan, berbeza daripada aktiviti persediaan (PR 11/2013 para 5.2); bagi pembuatan, pembelian bahan mentah ialah petunjuknya. Akibatnya: tempoh asas pertama 1.12.2024–31.12.2024 (kurang 12 bulan, tahun sama), jadi YA2024 = 1.12.2024–31.12.2024 dan YA2025 = 1.1.2025–31.12.2025; perbelanjaan hasil sebelum 1.12.2024 yang layak dianggap ditanggung pada hari itu."
+    },
+    {
+     "k": "note",
+     "en": "Your slide 7 (Chapter 1) says manufacturing starts when plant and machinery are in place and stock has arrived. Both give 1.12.2024 here, if the machinery was already installed.",
+     "ms": "Slaid 7 anda (Bab 1) menyatakan pembuatan bermula apabila loji dan jentera sedia dan stok tiba. Kedua-duanya memberi 1.12.2024 di sini, jika jentera sudah dipasang."
+    }
+   ]
+  },
+  {
+   "id": "q2",
+   "icon": "🔄",
+   "title": {
+    "en": "Q2: Lazat, basis periods",
+    "ms": "Q2: Lazat, tempoh asas"
+   },
+   "ref": "Chapter 1",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "(b) Lazat Sdn Bhd: basis periods",
+     "ms": "(b) Lazat Sdn Bhd: tempoh asas"
+    },
+    {
+     "k": "ex",
+     "en": "Question\nLazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:\nYear of assessment 2021: 1/7/2020 – 31/3/2021\nYear of assessment 2022: 1/4/2021 – 31/3/2022\nYear of assessment 2022: 1/4/2022 – 31/12/2022\nYear of assessment 2023: 1/1/2023 – 31/12/2023\nYear of assessment 2025: 1/1/2024 – 31/10/2025\n\nRequired: Determine the basis period for all the relevant years of assessment until year of assessment 2025.",
+     "ms": "Soalan\nLazat Sdn. Bhd. commenced business on 1 July 2020 and prepare its first set of accounts to 31 March 2021. The company decided to change its accounting period to end on 31 December annually. Later, after the appointment of the new Chairman and Board of Directors in 2024, the company again change its accounting period to 31 October annually. The following information pertaining to the accounting periods:\nYear of assessment 2021: 1/7/2020 – 31/3/2021\nYear of assessment 2022: 1/4/2021 – 31/3/2022\nYear of assessment 2022: 1/4/2022 – 31/12/2022\nYear of assessment 2023: 1/1/2023 – 31/12/2023\nYear of assessment 2025: 1/1/2024 – 31/10/2025\n\nRequired: Determine the basis period for all the relevant years of assessment until year of assessment 2025."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "YA",
+       "Basis period",
+       "Months",
+       "Reason"
+      ],
+      "ms": [
+       "YA",
+       "Tempoh asas",
+       "Bulan",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2020",
+        "None",
+        "–",
+        "First accounts (9 months) end in 2021, the second year; there is no basis period for the first YA (PR 8/2014 para 4.1)"
+       ],
+       "ms": [
+        "2020",
+        "Tiada",
+        "–",
+        "Akaun pertama (9 bulan) berakhir 2021, tahun kedua; tiada tempoh asas bagi YA pertama (PR 8/2014 para 4.1)"
+       ]
+      },
+      {
+       "en": [
+        "2021",
+        "1.7.2020 – 31.3.2021",
+        "9",
+        "The whole first accounting period"
+       ],
+       "ms": [
+        "2021",
+        "1.7.2020 – 31.3.2021",
+        "9",
+        "Seluruh tempoh perakaunan pertama"
+       ]
+      },
+      {
+       "en": [
+        "2022",
+        "1.4.2021 – 31.12.2022",
+        "21",
+        "Two accounts close in YA2022 (31.3.2022 and 31.12.2022). They are combined so that no two accounts close in the same YA"
+       ],
+       "ms": [
+        "2022",
+        "1.4.2021 – 31.12.2022",
+        "21",
+        "Dua akaun ditutup dalam YA2022 (31.3.2022 dan 31.12.2022). Digabung supaya tiada dua akaun ditutup dalam YA yang sama"
+       ]
+      },
+      {
+       "en": [
+        "2023",
+        "1.1.2023 – 31.12.2023",
+        "12",
+        "Normal year to the new date"
+       ],
+       "ms": [
+        "2023",
+        "1.1.2023 – 31.12.2023",
+        "12",
+        "Tahun biasa ke tarikh baharu"
+       ]
+      },
+      {
+       "en": [
+        "2024",
+        "1.1.2024 – 30.11.2024",
+        "11",
+        "Failure year (no accounts closed on 31.12.2024). The 22-month period ends in the third year, so it is divided into two equal parts"
+       ],
+       "ms": [
+        "2024",
+        "1.1.2024 – 30.11.2024",
+        "11",
+        "Tahun kegagalan (tiada akaun ditutup pada 31.12.2024). Tempoh 22 bulan berakhir pada tahun ketiga, jadi dibahagi dua sama rata"
+       ]
+      },
+      {
+       "en": [
+        "2025",
+        "1.12.2024 – 31.10.2025",
+        "11",
+        "Second half of the 22 months"
+       ],
+       "ms": [
+        "2025",
+        "1.12.2024 – 31.10.2025",
+        "11",
+        "Separuh kedua daripada 22 bulan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The table in the question prints YA2022 twice and has no YA2024; the answer above gives every YA from 2020 to 2025. The split follows PR 8/2014 (the ‘two-year’ division; Example 9) and the same pattern as Koperasi Rania Emas on your slides. A 22-month period divides exactly into 11 + 11, so no half-month arises.",
+     "ms": "Jadual dalam soalan mencetak YA2022 dua kali dan tiada YA2024; jawapan di atas memberi setiap YA dari 2020 hingga 2025. Pembahagian ikut PR 8/2014 (pembahagian ‘dua tahun’; Contoh 9) dan corak sama seperti Koperasi Rania Emas dalam slaid anda. Tempoh 22 bulan terbahagi tepat 11 + 11, jadi tiada setengah bulan."
+    }
+   ]
+  },
+  {
+   "id": "q3",
+   "icon": "🏢",
+   "title": {
+    "en": "Q3: Glory, IBA (7 marks)",
+    "ms": "Q3: Glory, IBA (7 markah)"
+   },
+   "ref": "Chapter 2",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Glory Sdn Bhd (YA2025): qualifying expenditure and IBA",
+     "ms": "Glory Sdn Bhd (YA2025): perbelanjaan layak dan IBA"
+    },
+    {
+     "k": "ex",
+     "en": "Question\nGlory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:\nLand: RM560,000\nStamp duty on land acquired: RM10,000\nDemolition of an existing car showroom building on the land: RM410,000\nCost of construction of the factory building: RM6,300,000\nCost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)\n\nRequired: Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)",
+     "ms": "Soalan\nGlory Sdn Bhd (GSB), a Malaysian tax resident manufacturing company, constructed its second factory building and a warehouse, as part of its expansion plans during the year of assessment 2025. GSB closes its accounts annually on 31 December. Details of the costs incurred in relation to the buildings which were completed and put into business use by GSB during the year, are as follows:\nLand: RM560,000\nStamp duty on land acquired: RM10,000\nDemolition of an existing car showroom building on the land: RM410,000\nCost of construction of the factory building: RM6,300,000\nCost of construction of the warehouse within the company’s curtilage: RM360,000 (Note: The warehouse is 20% of the total area constructed)\n\nRequired: Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for the year of assessment 2025. (7 marks)"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM",
+       "QBE (RM)",
+       "Reason"
+      ],
+      "ms": [
+       "Item",
+       "RM",
+       "PBL (RM)",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Land",
+        "560,000",
+        "Nil",
+        "Cost of land never qualifies (PR 3/2018 para 4.1 note)"
+       ],
+       "ms": [
+        "Tanah",
+        "560,000",
+        "Nil",
+        "Kos tanah tidak pernah layak (PR 3/2018 para 4.1.1 nota)"
+       ]
+      },
+      {
+       "en": [
+        "Stamp duty on the land",
+        "10,000",
+        "Nil",
+        "Cost of acquiring title to the site"
+       ],
+       "ms": [
+        "Duti setem tanah",
+        "10,000",
+        "Nil",
+        "Kos memperoleh hak milik tapak"
+       ]
+      },
+      {
+       "en": [
+        "Demolition of the car showroom",
+        "410,000",
+        "410,000",
+        "Clearing the old site qualifies when the old structure was not an industrial building (a showroom is not) and the new building is on the same site (para 4.1(d)); same site is assumed"
+       ],
+       "ms": [
+        "Roboh bilik pameran kereta",
+        "410,000",
+        "410,000",
+        "Pembersihan tapak lama layak jika struktur lama bukan bangunan industri (bilik pameran bukan) dan bangunan baharu di tapak sama (para 4.1(d)); tapak sama diandaikan"
+       ]
+      },
+      {
+       "en": [
+        "Factory building",
+        "6,300,000",
+        "6,300,000",
+        "Industrial building: a factory"
+       ],
+       "ms": [
+        "Bangunan kilang",
+        "6,300,000",
+        "6,300,000",
+        "Bangunan industri: kilang"
+       ]
+      },
+      {
+       "en": [
+        "Warehouse in the same curtilage",
+        "360,000",
+        "360,000",
+        "A building in the factory’s own compound used to store its goods is an industrial building. The 10% rule applies only to a part not used as an industrial building, so the 20% floor area does not reduce the cost"
+       ],
+       "ms": [
+        "Gudang dalam curtilage sama",
+        "360,000",
+        "360,000",
+        "Bangunan dalam kawasan kilang sendiri untuk menyimpan barangannya ialah bangunan industri. Peraturan 10% hanya untuk bahagian yang tidak digunakan sebagai bangunan industri, jadi 20% luas lantai tidak mengurangkan kos"
+       ]
+      },
+      {
+       "en": [
+        "Total",
+        "7,640,000",
+        "7,070,000",
+        ""
+       ],
+       "ms": [
+        "Jumlah",
+        "7,640,000",
+        "7,070,000",
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Initial allowance 10% × 7,070,000 = RM707,000\nAnnual allowance 3% × 7,070,000 = RM212,100\nTotal IBA for YA2025 = RM919,100\nResidual expenditure c/f = 7,070,000 − 919,100 = RM6,150,900",
+     "ms": "Elaun permulaan 10% × 7,070,000 = RM707,000\nElaun tahunan 3% × 7,070,000 = RM212,100\nJumlah IBA YA2025 = RM919,100\nPerbelanjaan baki dibawa ke hadapan = 7,070,000 − 919,100 = RM6,150,900"
+    },
+    {
+     "k": "note",
+     "en": "Assumptions: both buildings were put into use in the basis period, so IA and AA are both given in YA2025 (AA is a full 3%, not time-apportioned), and the rates are IA 10% and AA 3% as in your lecturer’s sheet. If the warehouse were not for the company’s own goods (for example, for hire to the public), it would need the separate warehouse rules.",
+     "ms": "Andaian: kedua-dua bangunan digunakan dalam tempoh asas, jadi IA dan AA diberi dalam YA2025 (AA penuh 3%, tidak dibahagi masa), dan kadar IA 10% serta AA 3% seperti lembaran pensyarah. Jika gudang bukan untuk barangan syarikat sendiri (contohnya disewakan kepada orang awam), peraturan gudang berasingan terpakai."
+    }
+   ]
+  },
+  {
+   "id": "q4",
+   "icon": "🌴",
+   "title": {
+    "en": "Q4: Choco Farm, agriculture allowance (7 marks)",
+    "ms": "Q4: Choco Farm, elaun pertanian (7 markah)"
+   },
+   "ref": "Chapter 2B",
+   "blocks": [
+    {
+     "k": "h",
+     "en": "Choco Farm: estate office RM120,000",
+     "ms": "Choco Farm: pejabat estet RM120,000"
+    },
+    {
+     "k": "ex",
+     "en": "Question\nChoco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000.\n\nRequired: Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:\n(i) made an election under Paragraph 27 of the Income Tax Act 1967.\n(ii) made no election under Paragraph 27 of the Income Tax Act 1967.\n(7 marks)",
+     "ms": "Soalan\nChoco Farm Sdn. Bhd. operates an agriculture business producing cocoa and makes up its accounts to 31 December each year. In June 2024, Choco Farm constructed an estate office building for RM120,000 and it was used during the basis period for the year of assessment 2024. On 31 March 2026, Choco Farm disposed of the estate office to Sweet Farm Sdn. Bhd. for RM88,000.\n\nRequired: Compute the agriculture allowances / charges claimable in respect of the estate office in each of the years of assessment 2024 to 2027 by both Choco Farm Sdn. Bhd. and Tawau Farm Sdn. Bhd., assuming Choco Farm:\n(i) made an election under Paragraph 27 of the Income Tax Act 1967.\n(ii) made no election under Paragraph 27 of the Income Tax Act 1967.\n(7 marks)"
+    },
+    {
+     "k": "p",
+     "en": "The estate office is a farm building: 10% × 120,000 = RM12,000 a year, starting YA2024 (used in the basis period, year end 31 December). It was sold on 31.3.2026, within 5 years of the expenditure, so a charge arises on Choco equal to all the allowances given; the RM88,000 price is ignored. The YA2026 allowance is time-apportioned to the date of disposal, counting the disposal day: 1 Jan to 31 Mar 2026 = 90 days, so 90/365 × 12,000 = RM2,958.90.",
+     "ms": "Pejabat estet ialah bangunan ladang: 10% × 120,000 = RM12,000 setahun, bermula YA2024 (digunakan dalam tempoh asas, akhir tahun 31 Disember). Ia dijual pada 31.3.2026, dalam 5 tahun daripada perbelanjaan, maka caj timbul ke atas Choco sama dengan semua elaun diberi; harga RM88,000 diabaikan. Elaun YA2026 dibahagi masa hingga tarikh pelupusan, termasuk hari pelupusan: 1 Jan hingga 31 Mac 2026 = 90 hari, jadi 90/365 × 12,000 = RM2,958.90."
+    },
+    {
+     "k": "calc",
+     "en": "Charge = 12,000 + 12,000 + 2,958.90 = RM26,958.90\nWith the para 27 election: 26,958.90 ÷ 3 YAs (2024, 2025, 2026) = RM8,986.30 in each year",
+     "ms": "Caj = 12,000 + 12,000 + 2,958.90 = RM26,958.90\nDengan pilihan para 27: 26,958.90 ÷ 3 YA (2024, 2025, 2026) = RM8,986.30 setiap tahun"
+    },
+    {
+     "k": "h",
+     "en": "(i) With the para 27 election: Choco Farm",
+     "ms": "(i) Dengan pilihan para 27: Choco Farm"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "YA",
+       "Allowance",
+       "Charge (spread)",
+       "Net"
+      ],
+      "ms": [
+       "YA",
+       "Elaun",
+       "Caj (disebar)",
+       "Bersih"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2024",
+        "12,000.00",
+        "8,986.30",
+        "3,013.70 allowance"
+       ],
+       "ms": [
+        "2024",
+        "12,000.00",
+        "8,986.30",
+        "3,013.70 elaun"
+       ]
+      },
+      {
+       "en": [
+        "2025",
+        "12,000.00",
+        "8,986.30",
+        "3,013.70 allowance"
+       ],
+       "ms": [
+        "2025",
+        "12,000.00",
+        "8,986.30",
+        "3,013.70 elaun"
+       ]
+      },
+      {
+       "en": [
+        "2026",
+        "2,958.90",
+        "8,986.30",
+        "6,027.40 net charge"
+       ],
+       "ms": [
+        "2026",
+        "2,958.90",
+        "8,986.30",
+        "6,027.40 caj bersih"
+       ]
+      },
+      {
+       "en": [
+        "2027",
+        "Nil",
+        "Nil",
+        "Nil"
+       ],
+       "ms": [
+        "2027",
+        "Nil",
+        "Nil",
+        "Nil"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "(ii) With no election: Choco Farm",
+     "ms": "(ii) Tanpa pilihan: Choco Farm"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "YA",
+       "Allowance",
+       "Charge",
+       "Net"
+      ],
+      "ms": [
+       "YA",
+       "Elaun",
+       "Caj",
+       "Bersih"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2024",
+        "12,000.00",
+        "",
+        "12,000.00 allowance"
+       ],
+       "ms": [
+        "2024",
+        "12,000.00",
+        "",
+        "12,000.00 elaun"
+       ]
+      },
+      {
+       "en": [
+        "2025",
+        "12,000.00",
+        "",
+        "12,000.00 allowance"
+       ],
+       "ms": [
+        "2025",
+        "12,000.00",
+        "",
+        "12,000.00 elaun"
+       ]
+      },
+      {
+       "en": [
+        "2026",
+        "2,958.90",
+        "26,958.90",
+        "24,000.00 net charge"
+       ],
+       "ms": [
+        "2026",
+        "2,958.90",
+        "26,958.90",
+        "24,000.00 caj bersih"
+       ]
+      },
+      {
+       "en": [
+        "2027",
+        "Nil",
+        "Nil",
+        "Nil"
+       ],
+       "ms": [
+        "2027",
+        "Nil",
+        "Nil",
+        "Nil"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Sweet Farm (the buyer): same in both cases",
+     "ms": "Sweet Farm (pembeli): sama dalam kedua-dua kes"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "YA",
+       "Allowance",
+       "Reason"
+      ],
+      "ms": [
+       "YA",
+       "Elaun",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2024",
+        "Nil",
+        "Not yet the owner"
+       ],
+       "ms": [
+        "2024",
+        "Nil",
+        "Belum menjadi pemilik"
+       ]
+      },
+      {
+       "en": [
+        "2025",
+        "Nil",
+        "Not yet the owner"
+       ],
+       "ms": [
+        "2025",
+        "Nil",
+        "Belum menjadi pemilik"
+       ]
+      },
+      {
+       "en": [
+        "2026",
+        "9,041.10",
+        "12,000 − 2,958.90: the rest of the year’s allowance, if the buyer’s basis period also falls in YA2026 (PR 1/2016 para 7.2)"
+       ],
+       "ms": [
+        "2026",
+        "9,041.10",
+        "12,000 − 2,958.90: baki elaun tahun itu, jika tempoh asas pembeli juga dalam YA2026 (PR 1/2016 para 7.2)"
+       ]
+      },
+      {
+       "en": [
+        "2027",
+        "12,000.00",
+        "A full year of 10% of the original cost"
+       ],
+       "ms": [
+        "2027",
+        "12,000.00",
+        "Setahun penuh 10% daripada kos asal"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The election only moves the charge between years; the buyer’s allowance does not change, and the buyer’s allowances continue each year until the 10-year life is used. Assumption: Sweet Farm’s year end is also 31 December (any year end from 31.3.2026 to 30.3.2027 puts the purchase in YA2026 as well). The election is made by the seller; the buyer is not affected.",
+     "ms": "Pilihan hanya memindahkan caj antara tahun; elaun pembeli tidak berubah, dan elaun pembeli berterusan setiap tahun sehingga hayat 10 tahun habis. Andaian: akhir tahun Sweet Farm juga 31 Disember (sebarang akhir tahun dari 31.3.2026 hingga 30.3.2027 meletakkan pembelian dalam YA2026 juga). Pilihan dibuat oleh penjual; pembeli tidak terjejas."
+    }
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": "q1",
+   "q": {
+    "en": "When does a manufacturer commence trading (Sugeh)?",
+    "ms": "Bilakah pengeluar memulakan perdagangan (Sugeh)?"
+   },
+   "a": {
+    "en": "When it starts activity in the income-producing process: the purchase of raw materials, 1.12.2024. Incorporation, land, construction and a ready factory are preparatory; the first sale is later.",
+    "ms": "Apabila ia memulakan aktiviti dalam proses menjana pendapatan: pembelian bahan mentah, 1.12.2024. Penubuhan, tanah, pembinaan dan kilang siap ialah persediaan; jualan pertama terlewat."
+   }
+  },
+  {
+   "id": "c2",
+   "t": "q2",
+   "q": {
+    "en": "Lazat: why is YA2022 = 1.4.2021–31.12.2022 (21 months)?",
+    "ms": "Lazat: mengapa YA2022 = 1.4.2021–31.12.2022 (21 bulan)?"
+   },
+   "a": {
+    "en": "Two accounts close in YA2022 (31.3.2022 and 31.12.2022); no two accounts may close in the same YA, so they are combined.",
+    "ms": "Dua akaun ditutup dalam YA2022 (31.3.2022 dan 31.12.2022); tiada dua akaun boleh ditutup dalam YA yang sama, jadi digabung."
+   }
+  },
+  {
+   "id": "c3",
+   "t": "q2",
+   "q": {
+    "en": "Lazat: how is the 22-month period 1.1.2024–31.10.2025 split?",
+    "ms": "Lazat: bagaimana tempoh 22 bulan 1.1.2024–31.10.2025 dibahagi?"
+   },
+   "a": {
+    "en": "It ends in the third year from the last normal year, so it is divided in two: YA2024 = 1.1.2024–30.11.2024 and YA2025 = 1.12.2024–31.10.2025 (11 months each).",
+    "ms": "Ia berakhir pada tahun ketiga daripada tahun biasa terakhir, jadi dibahagi dua: YA2024 = 1.1.2024–30.11.2024 dan YA2025 = 1.12.2024–31.10.2025 (11 bulan setiap satu)."
+   }
+  },
+  {
+   "id": "c4",
+   "t": "q3",
+   "q": {
+    "en": "Glory: which items form the QBE?",
+    "ms": "Glory: item mana membentuk PBL?"
+   },
+   "a": {
+    "en": "Demolition 410,000 (old building not an industrial building), factory 6,300,000 and warehouse 360,000 = RM7,070,000. Land and stamp duty are excluded. IA 707,000 + AA 212,100 = RM919,100.",
+    "ms": "Roboh 410,000 (bangunan lama bukan bangunan industri), kilang 6,300,000 dan gudang 360,000 = RM7,070,000. Tanah dan duti setem dikecualikan. IA 707,000 + AA 212,100 = RM919,100."
+   }
+  },
+  {
+   "id": "c5",
+   "t": "q4",
+   "q": {
+    "en": "Choco Farm: how is the charge worked out?",
+    "ms": "Choco Farm: bagaimana caj dikira?"
+   },
+   "a": {
+    "en": "10% × 120,000 = 12,000 a year. Charge = 12,000 + 12,000 + 90/365 × 12,000 (2,958.90) = RM26,958.90; the price is ignored. With the para 27 election, 8,986.30 in each of YA2024 to YA2026.",
+    "ms": "10% × 120,000 = 12,000 setahun. Caj = 12,000 + 12,000 + 90/365 × 12,000 (2,958.90) = RM26,958.90; harga diabaikan. Dengan pilihan para 27, 8,986.30 dalam setiap YA2024 hingga YA2026."
+   }
+  }
+ ],
+ "quiz": [
+  {
+   "id": "q1",
+   "t": "q1",
+   "q": {
+    "en": "Sugeh Sdn Bhd, a manufacturer, received its first raw materials on 1.12.2024 and made its first sale on 12.1.2025. When did it commence trading?",
+    "ms": "Sugeh Sdn Bhd, pengeluar, menerima bahan mentah pertama pada 1.12.2024 dan membuat jualan pertama pada 12.1.2025. Bilakah ia memulakan perdagangan?"
+   },
+   "o": [
+    "26.5.2023, when the land was acquired",
+    "1.12.2024, when raw materials were first received",
+    "24.10.2024, when the factory was ready",
+    "12.1.2025, when the first sale was made"
+   ],
+   "a": 1,
+   "e": {
+    "en": "Commencement is the start of the income-producing process; for manufacturing, the purchase of raw materials (PR 11/2013 para 5.2).",
+    "ms": "Permulaan ialah mula proses menjana pendapatan; bagi pembuatan, pembelian bahan mentah (PR 11/2013 para 5.2)."
+   }
+  },
+  {
+   "id": "q2",
+   "t": "q2",
+   "q": {
+    "en": "Lazat Sdn Bhd (normal year end 31 December) changed to a 22-month period 1.1.2024–31.10.2025. What is the basis period for YA2024?",
+    "ms": "Lazat Sdn Bhd (akhir tahun biasa 31 Disember) bertukar kepada tempoh 22 bulan 1.1.2024–31.10.2025. Apakah tempoh asas YA2024?"
+   },
+   "o": [
+    "1.1.2024 – 31.12.2024",
+    "1.1.2024 – 30.11.2024",
+    "1.1.2024 – 31.10.2025",
+    "None"
+   ],
+   "a": 1,
+   "e": {
+    "en": "A period of more than 12 months ending in the third year is divided into two: 11 months each, so YA2024 = 1.1.2024–30.11.2024.",
+    "ms": "Tempoh lebih 12 bulan yang berakhir pada tahun ketiga dibahagi dua: 11 bulan setiap satu, jadi YA2024 = 1.1.2024–30.11.2024."
+   }
+  },
+  {
+   "id": "q3",
+   "t": "q3",
+   "q": {
+    "en": "Glory: land 560,000, stamp duty 10,000, demolition of a car showroom 410,000, factory 6,300,000, warehouse in the same compound 360,000. What is the QBE?",
+    "ms": "Glory: tanah 560,000, duti setem 10,000, roboh bilik pameran kereta 410,000, kilang 6,300,000, gudang dalam kawasan sama 360,000. Berapakah PBL?"
+   },
+   "o": [
+    "RM6,300,000",
+    "RM7,640,000",
+    "RM6,660,000",
+    "RM7,070,000"
+   ],
+   "a": 3,
+   "e": {
+    "en": "Land and stamp duty are out; demolition qualifies because a showroom is not an industrial building; the warehouse in the curtilage is an industrial building. 410,000 + 6,300,000 + 360,000.",
+    "ms": "Tanah dan duti setem tidak layak; roboh layak kerana bilik pameran bukan bangunan industri; gudang dalam curtilage ialah bangunan industri. 410,000 + 6,300,000 + 360,000."
+   }
+  },
+  {
+   "id": "q4",
+   "t": "q4",
+   "q": {
+    "en": "Choco Farm sold an estate office (cost 120,000, used from YA2024) on 31.3.2026 for 88,000, with no para 27 election. What is the charge?",
+    "ms": "Choco Farm menjual pejabat estet (kos 120,000, digunakan dari YA2024) pada 31.3.2026 dengan harga 88,000, tanpa pilihan para 27. Berapakah caj?"
+   },
+   "o": [
+    "RM26,958.90",
+    "RM24,000.00",
+    "RM88,000.00",
+    "RM120,000.00"
+   ],
+   "a": 0,
+   "e": {
+    "en": "Charge = all allowances given: 12,000 + 12,000 + 90/365 × 12,000 = 26,958.90. The price is ignored.",
+    "ms": "Caj = semua elaun diberi: 12,000 + 12,000 + 90/365 × 12,000 = 26,958.90. Harga diabaikan."
+   }
+  }
+ ],
+ "essay": [
+  {
+   "id": "e1",
+   "t": "q3",
+   "marks": 7,
+   "q": {
+    "en": "Determine the qualifying expenditure for industrial building purpose, and calculate the industrial building allowances which GSB may claim for YA2025 (Glory Sdn Bhd).",
+    "ms": "Tentukan perbelanjaan layak bagi tujuan bangunan industri, dan hitung elaun bangunan industri yang boleh dituntut GSB bagi YA2025 (Glory Sdn Bhd)."
+   },
+   "pts": {
+    "en": [
+     "Exclude land 560,000 and stamp duty 10,000 (2)",
+     "Demolition 410,000 qualifies: old showroom was not an industrial building (1)",
+     "Warehouse in the curtilage is an industrial building; the 10% rule is not triggered (1)",
+     "QBE = RM7,070,000 (1)",
+     "IA 707,000 and AA 212,100, total RM919,100 (2)"
+    ],
+    "ms": [
+     "Kecualikan tanah 560,000 dan duti setem 10,000 (2)",
+     "Roboh 410,000 layak: bilik pameran lama bukan bangunan industri (1)",
+     "Gudang dalam curtilage ialah bangunan industri; peraturan 10% tidak terpakai (1)",
+     "PBL = RM7,070,000 (1)",
+     "IA 707,000 dan AA 212,100, jumlah RM919,100 (2)"
+    ]
+   }
+  },
+  {
+   "id": "e2",
+   "t": "q4",
+   "marks": 7,
+   "q": {
+    "en": "Compute the agriculture allowances and charges on the estate office for YA2024 to YA2027 for Choco Farm and the buyer, with and without the para 27 election.",
+    "ms": "Hitung elaun dan caj pertanian bagi pejabat estet untuk YA2024 hingga YA2027 bagi Choco Farm dan pembeli, dengan dan tanpa pilihan para 27."
+   },
+   "pts": {
+    "en": [
+     "Rate 10%, allowance 12,000 a year from YA2024 (1)",
+     "Sold within 5 years, so a charge equal to all allowances given (1)",
+     "YA2026 allowance 90/365 × 12,000 = 2,958.90 (1)",
+     "Charge RM26,958.90 (1)",
+     "Election: 8,986.30 in each of YA2024 to YA2026 (1)",
+     "Net amount for each YA, with and without election (1)",
+     "Buyer: 9,041.10 in YA2026 and 12,000 in YA2027 (1)"
+    ],
+    "ms": [
+     "Kadar 10%, elaun 12,000 setahun dari YA2024 (1)",
+     "Dijual dalam 5 tahun, jadi caj sama dengan semua elaun diberi (1)",
+     "Elaun YA2026 90/365 × 12,000 = 2,958.90 (1)",
+     "Caj RM26,958.90 (1)",
+     "Pilihan: 8,986.30 dalam setiap YA2024 hingga YA2026 (1)",
+     "Jumlah bersih setiap YA, dengan dan tanpa pilihan (1)",
+     "Pembeli: 9,041.10 dalam YA2026 dan 12,000 dalam YA2027 (1)"
+    ]
+   }
+  }
+ ],
+ "glossary": [
+  [
+   "Commencement of business",
+   "Permulaan perniagaan"
+  ],
+  [
+   "Basis period",
+   "Tempoh asas"
+  ],
+  [
+   "Failure year",
+   "Tahun kegagalan"
+  ],
+  [
+   "Qualifying building expenditure",
+   "Perbelanjaan bangunan layak"
+  ],
+  [
+   "Industrial building allowance",
+   "Elaun bangunan industri"
+  ],
+  [
+   "Agriculture charge",
+   "Caj pertanian"
+  ],
+  [
+   "Election to spread",
+   "Pilihan menyebar"
+  ]
+ ]
+}
