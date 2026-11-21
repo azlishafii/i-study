@@ -947,6 +947,2453 @@
      "ms": "Pendapatan bercukai RM2,000,000: syarikat besar 24% = RM480,000. PKS: 150,000 × 15% = 22,500; 450,000 × 17% = 76,500; 1,400,000 × 24% = 336,000; jumlah RM435,000 (jawapan Health Best pensyarah)."
     }
    ]
+  },
+  {
+   "id": "worked",
+   "icon": "🧪",
+   "title": {
+    "en": "Worked Examples",
+    "ms": "Contoh Kerja"
+   },
+   "ref": "Example_CORPORATE_26271.pdf",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "From Example_CORPORATE_26271.pdf (5 questions). Checked against PR 4/2015 (entertainment), PR 4/2019 (debts), PR 12/2019 (forex), PR 4/2012 (loss of cash), PR 6/2019 (repairs), PR 11/2013 (pre-operating), PR 3/2019 (disabled), PR 3/2020 (stock withdrawn), PR 1/2013 (exports), PR 5/2020 (R&D), PR 2/2021 (arts) and PR 1/2003 Addendum (leave passage). Only Q3 and Q4 have lecturer answers; Q2 has a partial layout; Q1 and Q5 are mine. Each treatment table has (+) for amounts added back and (−) for amounts taken off, with the reason beside it. Where the sheet and the PR differ I say so. A line marked ‘confirm’ rests on a rule that is not in the PRs in your folder or on a fact the question leaves open: check it with your lecturer before the test.",
+     "ms": "Daripada Example_CORPORATE_26271.pdf (5 soalan). Disemak dengan PR 4/2015 (keraian), PR 4/2019 (hutang), PR 12/2019 (tukaran asing), PR 4/2012 (kehilangan tunai), PR 6/2019 (pembaikan), PR 11/2013 (pra-operasi), PR 3/2019 (OKU), PR 3/2020 (stok dikeluarkan), PR 1/2013 (eksport), PR 5/2020 (R&D), PR 2/2021 (seni) dan Adendum PR 1/2003 (pas cuti). Hanya Q3 dan Q4 ada jawapan pensyarah; Q2 ada susun atur separa; Q1 dan Q5 jawapan saya. Setiap jadual layanan ada (+) untuk jumlah ditambah balik dan (−) untuk jumlah ditolak, dengan sebab di sebelah. Jika lembaran dan PR berbeza saya nyatakan. Baris bertanda ‘sahkan’ bergantung pada peraturan yang tiada dalam PR dalam folder anda atau fakta yang soalan tidak jelaskan: semak dengan pensyarah sebelum ujian."
+    },
+    {
+     "k": "tip",
+     "en": "Order of the computation: profit before tax, take off non-business income, add back disallowed items, deduct further (double) deductions, then capital allowances (and balancing charges), losses brought forward, other statutory income, donations, and the rate. Gains are taken off with (−) and losses added back with (+): a gain sitting inside an expense line is taken off, not added.",
+     "ms": "Urutan pengiraan: keuntungan sebelum cukai, tolak pendapatan bukan perniagaan, tambah balik item tidak dibenarkan, tolak potongan tambahan (berganda), kemudian elaun modal (dan caj imbangan), kerugian dibawa ke hadapan, pendapatan berkanun lain, derma dan kadar. Untung ditolak dengan (−) dan rugi ditambah balik dengan (+): untung dalam baris belanja ditolak, bukan ditambah."
+    },
+    {
+     "k": "h",
+     "en": "Q1: Golden Circle Bhd (YE 30 June 2026)",
+     "ms": "Q1: Golden Circle Bhd (HT 30 Jun 2026)"
+    },
+    {
+     "k": "p",
+     "en": "No lecturer answer: this one is mine. Units: the statement is in RM’000 and the notes are in RM, as printed. The figures do not tie in two places (entertainment 190 in the statement against 340,000 in the note; other income 430 against 238,500 in the note), so I use the note amounts for treatment and leave any unexplained balance unadjusted.",
+     "ms": "Tiada jawapan pensyarah: ini jawapan saya. Unit: penyata dalam RM’000 dan nota dalam RM, seperti dicetak. Angka tidak sepadan di dua tempat (keraian 190 dalam penyata berbanding 340,000 dalam nota; pendapatan lain 430 berbanding 238,500 dalam nota), jadi saya guna jumlah nota untuk layanan dan baki tidak dijelaskan tidak dilaraskan."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Treatment and reason"
+      ],
+      "ms": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Layanan dan sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Forfeited deposit (buyer declined to buy the land)",
+        "",
+        "92,000",
+        "Capital receipt (land is a capital asset): not business income"
+       ],
+       "ms": [
+        "Deposit dilucut (pembeli enggan beli tanah)",
+        "",
+        "92,000",
+        "Terimaan modal (tanah aset modal): bukan pendapatan perniagaan"
+       ]
+      },
+      {
+       "en": [
+        "Interest from loan to subsidiary",
+        "",
+        "124,500",
+        "Not trade income: moved to other statutory income (s4(c))"
+       ],
+       "ms": [
+        "Faedah daripada pinjaman kepada anak syarikat",
+        "",
+        "124,500",
+        "Bukan pendapatan dagangan: dialihkan ke pendapatan berkanun lain (s4(c))"
+       ]
+      },
+      {
+       "en": [
+        "Gain on disposal of warehouse",
+        "",
+        "22,000",
+        "Capital gain, not taxed. The balancing charge of RM45,000 is added later"
+       ],
+       "ms": [
+        "Untung pelupusan gudang",
+        "",
+        "22,000",
+        "Untung modal, tidak dicukai. Caj imbangan RM45,000 ditambah kemudian"
+       ]
+      },
+      {
+       "en": [
+        "Cost of sales: air-conditioner installation",
+        "1,800",
+        "",
+        "Capital (new installation for the building)"
+       ],
+       "ms": [
+        "Kos jualan: pemasangan penyaman udara",
+        "1,800",
+        "",
+        "Modal (pemasangan baharu untuk bangunan)"
+       ]
+      },
+      {
+       "en": [
+        "Cost of sales: trademark registration in Vietnam (for export)",
+        "",
+        "168,886",
+        "Further deduction: registration of trademarks overseas gets a second deduction (PR 1/2013 para 5.3). The first is already in the accounts"
+       ],
+       "ms": [
+        "Kos jualan: pendaftaran tanda dagangan di Vietnam (eksport)",
+        "",
+        "168,886",
+        "Potongan tambahan: pendaftaran tanda dagangan luar negara dapat potongan kedua (PR 1/2013 para 5.3). Yang pertama sudah dalam akaun"
+       ]
+      },
+      {
+       "en": [
+        "Cost of sales: import duty and sales tax",
+        "Nil",
+        "",
+        "Part of the cost of goods: allowable"
+       ],
+       "ms": [
+        "Kos jualan: duti import dan cukai jualan",
+        "Nil",
+        "",
+        "Sebahagian kos barang: dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Remuneration: retrenchment compensation 54,000",
+        "Nil",
+        "",
+        "Allowable employment cost"
+       ],
+       "ms": [
+        "Saraan: pampasan pemberhentian 54,000",
+        "Nil",
+        "",
+        "Kos pekerjaan dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Remuneration: disabled employees 56,000",
+        "",
+        "56,000",
+        "Further deduction equal to the remuneration (PR 3/2019 para 6.1)"
+       ],
+       "ms": [
+        "Saraan: pekerja OKU 56,000",
+        "",
+        "56,000",
+        "Potongan tambahan sama dengan saraan (PR 3/2019 para 6.1)"
+       ]
+      },
+      {
+       "en": [
+        "Remuneration: yearly staff and family trip to Korea 24,000",
+        "Nil",
+        "",
+        "Entertainment for employees, allowed in full (PR 4/2015 para 7.1). Overseas fares are not covered by proviso (viii), which is for events in Malaysia: I follow the usual class answer; confirm with your lecturer"
+       ],
+       "ms": [
+        "Saraan: lawatan tahunan staf dan keluarga ke Korea 24,000",
+        "Nil",
+        "",
+        "Keraian untuk pekerja, dibenarkan penuh (PR 4/2015 para 7.1). Tambang luar negara tidak dalam proviso (viii) yang untuk acara di Malaysia: saya ikut jawapan kelas biasa; sahkan dengan pensyarah"
+       ]
+      },
+      {
+       "en": [
+        "Legal: tax filing and secretarial 13,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Guaman: pemfailan cukai dan setiausaha 13,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Legal: drafting hire purchase agreement 15,000",
+        "15,000",
+        "",
+        "Capital: a cost of acquiring the asset"
+       ],
+       "ms": [
+        "Guaman: penyediaan perjanjian sewa beli 15,000",
+        "15,000",
+        "",
+        "Modal: kos memperoleh aset"
+       ]
+      },
+      {
+       "en": [
+        "Legal: collecting trade debts 37,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Guaman: kutipan hutang dagangan 37,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Depreciation",
+        "124,000",
+        "",
+        "Replaced by capital allowance"
+       ],
+       "ms": [
+        "Susut nilai",
+        "124,000",
+        "",
+        "Diganti dengan elaun modal"
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: 50% of (280,000 customers + 60,000 allowances to marketing staff)",
+        "170,000",
+        "",
+        "s39(1)(l) disallows 50%, including sums paid to employees for entertainment"
+       ],
+       "ms": [
+        "Keraian: 50% daripada (280,000 pelanggan + 60,000 elaun kakitangan pemasaran)",
+        "170,000",
+        "",
+        "s39(1)(l) menolak 50%, termasuk sumber dibayar kepada pekerja untuk keraian"
+       ]
+      },
+      {
+       "en": [
+        "Repair: office renovation for disabled employees 10,500",
+        "Nil",
+        "",
+        "Capital but allowed once under s34(6)(e) (PR 3/2019 para 6.3)"
+       ],
+       "ms": [
+        "Baik pulih: ubah suai pejabat untuk pekerja OKU 10,500",
+        "Nil",
+        "",
+        "Modal tetapi dibenarkan sekali di bawah s34(6)(e) (PR 3/2019 para 6.3)"
+       ]
+      },
+      {
+       "en": [
+        "Lease: lorry 140,000",
+        "Nil",
+        "",
+        "Licensed for commercial transport: no limit"
+       ],
+       "ms": [
+        "Sewa: lori 140,000",
+        "Nil",
+        "",
+        "Berlesen pengangkutan komersial: tiada had"
+       ]
+      },
+      {
+       "en": [
+        "Lease: motor car 1, 30,000",
+        "Nil",
+        "",
+        "Not above RM50,000"
+       ],
+       "ms": [
+        "Sewa: kereta 1, 30,000",
+        "Nil",
+        "",
+        "Tidak melebihi RM50,000"
+       ]
+      },
+      {
+       "en": [
+        "Lease: motor car 2, 80,000",
+        "30,000",
+        "",
+        "Excess over RM50,000 disallowed (s39(1)(k)); not stated as brand new, so no RM100,000 limit"
+       ],
+       "ms": [
+        "Sewa: kereta 2, 80,000",
+        "30,000",
+        "",
+        "Lebihan atas RM50,000 ditolak (s39(1)(k)); tidak dinyatakan baharu, jadi tiada had RM100,000"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: trade debts written off 105,000",
+        "Nil",
+        "",
+        "Trade debt: allowable (PR 4/2019)"
+       ],
+       "ms": [
+        "Hutang lapuk: hutang dagangan dihapus kira 105,000",
+        "Nil",
+        "",
+        "Hutang dagangan: dibenarkan (PR 4/2019)"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: general provision 35,000",
+        "35,000",
+        "",
+        "General provision not allowed"
+       ],
+       "ms": [
+        "Hutang lapuk: peruntukan am 35,000",
+        "35,000",
+        "",
+        "Peruntukan am tidak dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: specific provision for loan debts 88,000",
+        "88,000",
+        "",
+        "Non-trade debt (PR 4/2019 para 7.2)"
+       ],
+       "ms": [
+        "Hutang lapuk: peruntukan spesifik hutang pinjaman 88,000",
+        "88,000",
+        "",
+        "Hutang bukan dagangan (PR 4/2019 para 7.2)"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: advances to customer 30,000 and supplier 56,000 written off",
+        "86,000",
+        "",
+        "Advances are not trade debts that were taxed earlier: not allowable"
+       ],
+       "ms": [
+        "Hutang lapuk: pendahuluan kepada pelanggan 30,000 dan pembekal 56,000",
+        "86,000",
+        "",
+        "Pendahuluan bukan hutang dagangan yang dicukai terdahulu: tidak dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Donations 247,000 (all)",
+        "247,000",
+        "",
+        "Add back, then claim what qualifies"
+       ],
+       "ms": [
+        "Derma 247,000 (semua)",
+        "247,000",
+        "",
+        "Tambah balik, kemudian tuntut yang layak"
+       ]
+      },
+      {
+       "en": [
+        "Library contribution 102,000 (limit 100,000)",
+        "",
+        "100,000",
+        "Allowed as a business deduction up to RM100,000 (s34(6)(g)); RM2,000 stays disallowed. Assumes the library is open to the public"
+       ],
+       "ms": [
+        "Sumbangan perpustakaan 102,000 (had 100,000)",
+        "",
+        "100,000",
+        "Dibenarkan sebagai potongan perniagaan sehingga RM100,000 (s34(6)(g)); RM2,000 kekal ditolak. Andaian perpustakaan terbuka kepada orang awam"
+       ]
+      },
+      {
+       "en": [
+        "Selling: realised forex loss, trade 90,000",
+        "Nil",
+        "",
+        "Realised revenue loss: allowable (PR 12/2019)"
+       ],
+       "ms": [
+        "Jualan: rugi tukaran asing nyata, dagangan 90,000",
+        "Nil",
+        "",
+        "Rugi hasil nyata: dibenarkan (PR 12/2019)"
+       ]
+      },
+      {
+       "en": [
+        "Selling: unrealised forex gain on loan to subsidiary 200,000",
+        "",
+        "200,000",
+        "Unrealised and capital: not taxable, so remove it"
+       ],
+       "ms": [
+        "Jualan: untung tukaran asing belum nyata pinjaman anak syarikat 200,000",
+        "",
+        "200,000",
+        "Belum nyata dan modal: tidak dicukai, jadi buang"
+       ]
+      },
+      {
+       "en": [
+        "Selling: unrealised forex loss, raw materials 9,000",
+        "9,000",
+        "",
+        "Unrealised loss not allowable until realised"
+       ],
+       "ms": [
+        "Jualan: rugi tukaran asing belum nyata, bahan mentah 9,000",
+        "9,000",
+        "",
+        "Rugi belum nyata tidak dibenarkan sehingga nyata"
+       ]
+      },
+      {
+       "en": [
+        "Selling: unrealised forex loss, refrigerator sales 62,000",
+        "62,000",
+        "",
+        "Unrealised loss not allowable until realised"
+       ],
+       "ms": [
+        "Jualan: rugi tukaran asing belum nyata, jualan peti sejuk 62,000",
+        "62,000",
+        "",
+        "Rugi belum nyata tidak dibenarkan sehingga nyata"
+       ]
+      },
+      {
+       "en": [
+        "Selling: social media advertisement 240,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Jualan: iklan media sosial 240,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Other: tax agent fees 10,000",
+        "Nil",
+        "",
+        "Allowable (tax return preparation)"
+       ],
+       "ms": [
+        "Lain-lain: yuran ejen cukai 10,000",
+        "Nil",
+        "",
+        "Dibenarkan (penyediaan borang cukai)"
+       ]
+      },
+      {
+       "en": [
+        "Total",
+        "867,800",
+        "763,386",
+        ""
+       ],
+       "ms": [
+        "Jumlah",
+        "867,800",
+        "763,386",
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Profit before tax: 215,161,000\nAdd (+) 867,800, less (−) 763,386\nAdjusted business income: 215,265,414\nAdd balancing charge (warehouse): 45,000\nLess capital allowance: (80,000)\nStatutory business income: 215,230,414\nLess adjusted loss b/f: (580,000)\nAdd other statutory income: interest from subsidiary: 124,500\nAggregate income: 214,774,914\nLess donation to local authority (below the 10% limit of 21,477,491): (145,000)\nChargeable income: 214,629,914\nTax at 24% (paid-up capital RM5 million, not SME): RM51,511,179.36",
+     "ms": "Keuntungan sebelum cukai: 215,161,000\nTambah (+) 867,800, tolak (−) 763,386\nPendapatan perniagaan diselaraskan: 215,265,414\nTambah caj imbangan (gudang): 45,000\nTolak elaun modal: (80,000)\nPendapatan berkanun perniagaan: 215,230,414\nTolak kerugian dibawa ke hadapan: (580,000)\nTambah pendapatan berkanun lain: faedah anak syarikat: 124,500\nPendapatan agregat: 214,774,914\nTolak derma kepada pihak berkuasa tempatan (di bawah had 10% iaitu 21,477,491): (145,000)\nPendapatan bercukai: 214,629,914\nCukai pada 24% (modal berbayar RM5 juta, bukan PKS): RM51,511,179.36"
+    },
+    {
+     "k": "note",
+     "en": "Judgement calls: the Sultanah Najiha Library is taken as open to the public (s34(6)(g)); the HP agreement fee is capital; the Korea trip follows the class answer. The 80,000 capital allowance is as given.",
+     "ms": "Pertimbangan: Perpustakaan Sultanah Najiha dianggap terbuka kepada orang awam (s34(6)(g)); yuran perjanjian SB ialah modal; lawatan Korea ikut jawapan kelas. Elaun modal 80,000 seperti diberi."
+    },
+    {
+     "k": "h",
+     "en": "Q2: Styles Sdn Bhd (YA2026)",
+     "ms": "Q2: Styles Sdn Bhd (YA2026)"
+    },
+    {
+     "k": "p",
+     "en": "The lecturer’s sheet lists every item but stops at ‘Tax payable’ with no total. I completed it and corrected it against the PRs. Corrections to the sheet: trademark receipt direction, local leave passage, lorry gain direction, maintenance provision 544,000, rent in advance 21,000, market research (not R&D), Affin interest timing, and the 24% rate.",
+     "ms": "Lembaran pensyarah menyenaraikan setiap item tetapi berhenti pada ‘Tax payable’ tanpa jumlah. Saya lengkapkan dan betulkan mengikut PR. Pembetulan pada lembaran: arah terimaan tanda dagangan, pas cuti tempatan, arah untung lori, peruntukan penyelenggaraan 544,000, sewa awal 21,000, kajian pasaran (bukan R&D), masa faedah Affin, dan kadar 24%."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Treatment and reason"
+      ],
+      "ms": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Layanan dan sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Other income: interest 13,000, rental 90,000, dividend 56,000",
+        "",
+        "159,000",
+        "Not business income: dealt with as other income below"
+       ],
+       "ms": [
+        "Pendapatan lain: faedah 13,000, sewa 90,000, dividen 56,000",
+        "",
+        "159,000",
+        "Bukan pendapatan perniagaan: dikendalikan sebagai pendapatan lain di bawah"
+       ]
+      },
+      {
+       "en": [
+        "Sales: trademark right RM1,500,000 in six instalments",
+        "",
+        "1,500,000",
+        "Capital receipt from disposing of a capital asset, so remove it. The lecturer added it back (+), the wrong direction. If it were a licence (royalty), only the instalment due each year is taxed under s4(d)"
+       ],
+       "ms": [
+        "Jualan: hak tanda dagangan RM1,500,000 dalam enam ansuran",
+        "",
+        "1,500,000",
+        "Terimaan modal daripada pelupusan aset modal, jadi buang. Pensyarah menambah balik (+), arah salah. Jika lesen (royalti), hanya ansuran yang kena bayar setiap tahun dicukai di bawah s4(d)"
+       ]
+      },
+      {
+       "en": [
+        "Cost of sales: equipment for disabled employees 26,000",
+        "Nil",
+        "",
+        "Allowed once under s34(6)(e), already in the accounts (PR 3/2019)"
+       ],
+       "ms": [
+        "Kos jualan: peralatan pekerja OKU 26,000",
+        "Nil",
+        "",
+        "Dibenarkan sekali di bawah s34(6)(e), sudah dalam akaun (PR 3/2019)"
+       ]
+      },
+      {
+       "en": [
+        "Travel: marketing director, 4 days (3,000)",
+        "",
+        "1,800",
+        "Further deduction capped at (300 + 150) × 4 days = 1,800 (PR 1/2013 para 6.2.1(e))"
+       ],
+       "ms": [
+        "Perjalanan: pengarah pemasaran, 4 hari (3,000)",
+        "",
+        "1,800",
+        "Potongan tambahan had (300 + 150) × 4 hari = 1,800 (PR 1/2013 para 6.2.1(e))"
+       ]
+      },
+      {
+       "en": [
+        "Travel: marketing manager, 4 days (2,500)",
+        "",
+        "1,800",
+        "Same cap, 1,800"
+       ],
+       "ms": [
+        "Perjalanan: pengurus pemasaran, 4 hari (2,500)",
+        "",
+        "1,800",
+        "Had sama, 1,800"
+       ]
+      },
+      {
+       "en": [
+        "Leave passage: local 53,000 (14,000 + 30,000 + 9,000)",
+        "Nil",
+        "",
+        "Two local passages each, within the three a year (PR 1/2003 Addendum). The lecturer added back 9,000 with no basis"
+       ],
+       "ms": [
+        "Pas cuti: tempatan 53,000 (14,000 + 30,000 + 9,000)",
+        "Nil",
+        "",
+        "Dua pas tempatan setiap seorang, dalam had tiga setahun (PR 1/2003 Adendum). Pensyarah menambah balik 9,000 tanpa asas"
+       ]
+      },
+      {
+       "en": [
+        "Leave passage: overseas 107,000 (51,000 + 56,000)",
+        "107,000",
+        "",
+        "Overseas leave passage is not allowable (proviso (viii) covers events in Malaysia)"
+       ],
+       "ms": [
+        "Pas cuti: luar negara 107,000 (51,000 + 56,000)",
+        "107,000",
+        "",
+        "Pas cuti luar negara tidak dibenarkan (proviso (viii) meliputi acara di Malaysia)"
+       ]
+      },
+      {
+       "en": [
+        "Marketing: product testing in Singapore 26,000",
+        "",
+        "26,000",
+        "Further deduction: export market research and product testing overseas (PR 1/2013 para 6.2.1(c)), as the lecturer"
+       ],
+       "ms": [
+        "Pemasaran: ujian produk di Singapura 26,000",
+        "",
+        "26,000",
+        "Potongan tambahan: penyelidikan pasaran eksport dan ujian produk luar negara (PR 1/2013 para 6.2.1(c)), seperti pensyarah"
+       ]
+      },
+      {
+       "en": [
+        "Marketing: embezzled by Finance Director 92,000",
+        "92,000",
+        "",
+        "Loss by a director is not deductible (PR 4/2012 para 7.2.2)"
+       ],
+       "ms": [
+        "Pemasaran: diselewengkan Pengarah Kewangan 92,000",
+        "92,000",
+        "",
+        "Kerugian oleh pengarah tidak boleh ditolak (PR 4/2012 para 7.2.2)"
+       ]
+      },
+      {
+       "en": [
+        "Marketing: embezzled by cashier 15,000",
+        "Nil",
+        "",
+        "Employee handling cash: allowable (PR 4/2012)"
+       ],
+       "ms": [
+        "Pemasaran: diselewengkan juruwang 15,000",
+        "Nil",
+        "",
+        "Pekerja mengendali tunai: dibenarkan (PR 4/2012)"
+       ]
+      },
+      {
+       "en": [
+        "Repairs: tools replaced 30,000",
+        "Nil",
+        "",
+        "Replacement of short-life tools: allowable (PR 6/2019 para 6.5)"
+       ],
+       "ms": [
+        "Baik pulih: alat diganti 30,000",
+        "Nil",
+        "",
+        "Gantian alat jangka hayat pendek: dibenarkan (PR 6/2019 para 6.5)"
+       ]
+      },
+      {
+       "en": [
+        "Repairs: additional tools 18,000",
+        "18,000",
+        "",
+        "Allowed on a replacement basis only, so additions are capital"
+       ],
+       "ms": [
+        "Baik pulih: alat tambahan 18,000",
+        "18,000",
+        "",
+        "Dibenarkan atas asas penggantian sahaja, jadi tambahan ialah modal"
+       ]
+      },
+      {
+       "en": [
+        "Maintenance provision: 0.8% × 68,000,000",
+        "544,000",
+        "",
+        "General provision, not incurred. The sheet says 554,000, an arithmetic slip"
+       ],
+       "ms": [
+        "Peruntukan penyelenggaraan: 0.8% × 68,000,000",
+        "544,000",
+        "",
+        "Peruntukan am, tidak ditanggung. Lembaran tulis 554,000, silap aritmetik"
+       ]
+      },
+      {
+       "en": [
+        "Insurance: import of raw materials from UK, Malaysian insurer 40,000",
+        "",
+        "40,000",
+        "Further deduction as the lecturer (premium paid to a Malaysian insurer for imports). This rule is not in the PRs in your folder: confirm"
+       ],
+       "ms": [
+        "Insurans: import bahan mentah dari UK, penanggung insurans Malaysia 40,000",
+        "",
+        "40,000",
+        "Potongan tambahan seperti pensyarah (premium kepada penanggung insurans Malaysia untuk import). Peraturan ini tiada dalam PR dalam folder anda: sahkan"
+       ]
+      },
+      {
+       "en": [
+        "Rental paid in advance (1.5.2026 to 31.8.2027, 24,000)",
+        "21,000",
+        "",
+        "16 months, 1,500 a month: 2 months belong to this year, 14 months (21,000) to later years. The sheet's 12,000 is wrong"
+       ],
+       "ms": [
+        "Sewa dibayar awal (1.5.2026 hingga 31.8.2027, 24,000)",
+        "21,000",
+        "",
+        "16 bulan, 1,500 sebulan: 2 bulan milik tahun ini, 14 bulan (21,000) tahun kemudian. 12,000 dalam lembaran salah"
+       ]
+      },
+      {
+       "en": [
+        "R&D: market research on customers in Malaysia 120,000",
+        "Nil",
+        "",
+        "Not R&D and not export research: single deduction only. The sheet gave a double deduction, which is wrong"
+       ],
+       "ms": [
+        "R&D: kajian pasaran pelanggan di Malaysia 120,000",
+        "Nil",
+        "",
+        "Bukan R&D dan bukan penyelidikan eksport: potongan tunggal sahaja. Lembaran beri potongan berganda, salah"
+       ]
+      },
+      {
+       "en": [
+        "R&D: cash contribution to approved research institute 90,000",
+        "",
+        "90,000",
+        "Double deduction (PR 5/2020)"
+       ],
+       "ms": [
+        "R&D: sumbangan tunai kepada institut penyelidikan diluluskan 90,000",
+        "",
+        "90,000",
+        "Potongan berganda (PR 5/2020)"
+       ]
+      },
+      {
+       "en": [
+        "R&D: quality control testing 140,000",
+        "Nil",
+        "",
+        "Routine testing is not R&D: single deduction (PR 5/2020)"
+       ],
+       "ms": [
+        "R&D: ujian kawalan kualiti 140,000",
+        "Nil",
+        "",
+        "Ujian rutin bukan R&D: potongan tunggal (PR 5/2020)"
+       ]
+      },
+      {
+       "en": [
+        "R&D: services of approved research institute, Melaka 280,000",
+        "",
+        "280,000",
+        "Double deduction (PR 5/2020)"
+       ],
+       "ms": [
+        "R&D: perkhidmatan institut penyelidikan diluluskan, Melaka 280,000",
+        "",
+        "280,000",
+        "Potongan berganda (PR 5/2020)"
+       ]
+      },
+      {
+       "en": [
+        "Depreciation 256,000",
+        "256,000",
+        "",
+        "Replaced by capital allowance"
+       ],
+       "ms": [
+        "Susut nilai 256,000",
+        "256,000",
+        "",
+        "Diganti dengan elaun modal"
+       ]
+      },
+      {
+       "en": [
+        "Gain on sale of lorry (5,800)",
+        "",
+        "5,800",
+        "Credited in the accounts; remove it (the balancing charge is dealt with below). The sheet added it (+), wrong direction"
+       ],
+       "ms": [
+        "Untung jualan lori (5,800)",
+        "",
+        "5,800",
+        "Dikreditkan dalam akaun; buang (caj imbangan di bawah). Lembaran menambah (+), arah salah"
+       ]
+      },
+      {
+       "en": [
+        "Fine for parking offence 1,300",
+        "1,300",
+        "",
+        "Fines are not allowable"
+       ],
+       "ms": [
+        "Denda kesalahan parkir 1,300",
+        "1,300",
+        "",
+        "Denda tidak dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Loss on sale of computer 2,400",
+        "2,400",
+        "",
+        "Dealt with by balancing charge"
+       ],
+       "ms": [
+        "Rugi jualan komputer 2,400",
+        "2,400",
+        "",
+        "Dikendalikan melalui caj imbangan"
+       ]
+      },
+      {
+       "en": [
+        "Annual general meeting 150,000",
+        "150,000",
+        "",
+        "Not wholly and exclusively incurred (PR 4/2015, Appendix item 5)"
+       ],
+       "ms": [
+        "Mesyuarat agung tahunan 150,000",
+        "150,000",
+        "",
+        "Bukan wholly and exclusively (PR 4/2015, Lampiran item 5)"
+       ]
+      },
+      {
+       "en": [
+        "Pre-operating expenses (amortised 50,000)",
+        "50,000",
+        "",
+        "Tax follows the commencement date, not the amortisation (PR 11/2013). Added back. If the business started this year, the whole 200,000 would be deductible instead: confirm the start date"
+       ],
+       "ms": [
+        "Perbelanjaan pra-operasi (dilunaskan 50,000)",
+        "50,000",
+        "",
+        "Cukai ikut tarikh mula, bukan pelunasan (PR 11/2013). Ditambah balik. Jika perniagaan bermula tahun ini, keseluruhan 200,000 boleh ditolak: sahkan tarikh mula"
+       ]
+      },
+      {
+       "en": [
+        "Forex: loss on equipment A, realised 220,000",
+        "220,000",
+        "",
+        "Capital item (PR 12/2019)"
+       ],
+       "ms": [
+        "Tukaran asing: rugi peralatan A, nyata 220,000",
+        "220,000",
+        "",
+        "Item modal (PR 12/2019)"
+       ]
+      },
+      {
+       "en": [
+        "Forex: gain on raw materials, unrealised (35,000)",
+        "",
+        "35,000",
+        "Unrealised gain not taxed until realised"
+       ],
+       "ms": [
+        "Tukaran asing: untung bahan mentah, belum nyata (35,000)",
+        "",
+        "35,000",
+        "Untung belum nyata tidak dicukai sehingga nyata"
+       ]
+      },
+      {
+       "en": [
+        "Forex: gain on equipment B, unrealised (75,000)",
+        "",
+        "75,000",
+        "Capital and unrealised"
+       ],
+       "ms": [
+        "Tukaran asing: untung peralatan B, belum nyata (75,000)",
+        "",
+        "75,000",
+        "Modal dan belum nyata"
+       ]
+      },
+      {
+       "en": [
+        "Forex: loss on raw materials, realised 85,000",
+        "Nil",
+        "",
+        "Realised revenue loss: allowable"
+       ],
+       "ms": [
+        "Tukaran asing: rugi bahan mentah, nyata 85,000",
+        "Nil",
+        "",
+        "Rugi hasil nyata: dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Contribution: public library 210,000",
+        "110,000",
+        "",
+        "Allowed up to RM100,000 (s34(6)(g)); excess 110,000 disallowed"
+       ],
+       "ms": [
+        "Sumbangan: perpustakaan awam 210,000",
+        "110,000",
+        "",
+        "Dibenarkan sehingga RM100,000 (s34(6)(g)); lebihan 110,000 ditolak"
+       ]
+      },
+      {
+       "en": [
+        "Contribution: approved institution 140,000",
+        "140,000",
+        "",
+        "Add back, then claim under s44(6) from aggregate income"
+       ],
+       "ms": [
+        "Sumbangan: institusi diluluskan 140,000",
+        "140,000",
+        "",
+        "Tambah balik, kemudian tuntut di bawah s44(6) daripada pendapatan agregat"
+       ]
+      },
+      {
+       "en": [
+        "Contribution: political party 130,000",
+        "130,000",
+        "",
+        "Not allowable and no claim"
+       ],
+       "ms": [
+        "Sumbangan: parti politik 130,000",
+        "130,000",
+        "",
+        "Tidak dibenarkan dan tiada tuntutan"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts recovered 56,000: of which non-trade 15,000",
+        "",
+        "15,000",
+        "Non-trade recovery is not taxable (PR 4/2019 para 7.2); the trade 41,000 stays taxable"
+       ],
+       "ms": [
+        "Hutang lapuk dipulih 56,000: bukan dagangan 15,000",
+        "",
+        "15,000",
+        "Pulihan bukan dagangan tidak dicukai (PR 4/2019 para 7.2); dagangan 41,000 kekal dicukai"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts written off 70,000: car loan to ex-employee 23,000",
+        "23,000",
+        "",
+        "Non-trade; the trade 47,000 is allowable"
+       ],
+       "ms": [
+        "Hutang lapuk dihapus kira 70,000: pinjaman kereta bekas pekerja 23,000",
+        "23,000",
+        "",
+        "Bukan dagangan; dagangan 47,000 dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Specific provision, non-trade part 45,000",
+        "45,000",
+        "",
+        "Non-trade; the trade 65,000 is allowable"
+       ],
+       "ms": [
+        "Peruntukan spesifik, bahagian bukan dagangan 45,000",
+        "45,000",
+        "",
+        "Bukan dagangan; dagangan 65,000 dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "General provision 410,000",
+        "410,000",
+        "",
+        "Not allowable"
+       ],
+       "ms": [
+        "Peruntukan am 410,000",
+        "410,000",
+        "",
+        "Tidak dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Total",
+        "2,319,700",
+        "2,229,400",
+        ""
+       ],
+       "ms": [
+        "Jumlah",
+        "2,319,700",
+        "2,229,400",
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Profit before tax: 20,186,100\nAdd (+) 2,319,700, less (−) 2,229,400\nAdjusted business income: 20,276,400\n\nCapital allowances\nNew factory: QBE 450,000 − 60,000 land = 390,000; first used March 2026\n  IA 10% = 39,000; AA 3% = 11,700 (full year)\nLorry (20% + 20%): cost 120,000; YA2024 48,000; YA2025 24,000; residual 48,000; sold 70,000\n  Balancing charge 70,000 − 48,000: 22,000\nComputer (IA 20% + AA 40%): cost 40,000; YA2025 24,000; residual 16,000; sold 18,000\n  Balancing charge 18,000 − 16,000: 2,000\nAllowances: building 50,700 + other assets 80,000: 130,700\n\nStatutory business income = 20,276,400 + 24,000 − 130,700: 20,169,700\nLess loss b/f: (580,000)\nOther statutory income: Maybank interest 4,000 + Brunei rental 90,000: 94,000\nAggregate income: 19,683,700\nLess donation to approved institution: (140,000)\nChargeable income: 19,543,700\nTax at 24% (gross income above RM50 million, so not SME): RM4,690,488.00",
+     "ms": "Keuntungan sebelum cukai: 20,186,100\nTambah (+) 2,319,700, tolak (−) 2,229,400\nPendapatan perniagaan diselaraskan: 20,276,400\n\nElaun modal\nKilang baharu: PBL 450,000 − 60,000 tanah = 390,000; mula digunakan Mac 2026\n  EP 10% = 39,000; EL 3% = 11,700 (setahun penuh)\nLori (20% + 20%): kos 120,000; YA2024 48,000; YA2025 24,000; baki 48,000; dijual 70,000\n  Caj imbangan 70,000 − 48,000: 22,000\nKomputer (EP 20% + EL 40%): kos 40,000; YA2025 24,000; baki 16,000; dijual 18,000\n  Caj imbangan 18,000 − 16,000: 2,000\nElaun: bangunan 50,700 + aset lain 80,000: 130,700\n\nPendapatan berkanun perniagaan = 20,276,400 + 24,000 − 130,700: 20,169,700\nTolak kerugian b/f: (580,000)\nPendapatan berkanun lain: faedah Maybank 4,000 + sewa Brunei 90,000: 94,000\nPendapatan agregat: 19,683,700\nTolak derma kepada institusi diluluskan: (140,000)\nPendapatan bercukai: 19,543,700\nCukai pada 24% (pendapatan kasar melebihi RM50 juta, jadi bukan PKS): RM4,690,488.00"
+    },
+    {
+     "k": "note",
+     "en": "Interest: Maybank interest credited monthly in the year is taxed now. The Affin fixed deposit matured on 15 July 2026, after year end, so the 9,000 is taxed in YA2027 (interest is taxed when it is due and paid, not when it accrues); the sheet taxed it in YA2026. The dividends (pioneer and single tier) are exempt. Brunei rental received in Malaysia is taxable from 1 January 2022 (foreign dividends are the exempt exception); I took the 90,000 as net of expenses. The sheet also lists a computer loss and a lorry gain: both are replaced by the capital allowance schedule. Confirm: the trademark RM1.5 million is a sale of the right (capital); the pre-operating start date; the further deduction for import insurance and for product testing.",
+     "ms": "Faedah: faedah Maybank dikreditkan bulanan dalam tahun dicukai sekarang. Deposit tetap Affin matang 15 Julai 2026, selepas akhir tahun, jadi 9,000 dicukai dalam YA2027 (faedah dicukai apabila kena bayar dan dibayar, bukan apabila terakru); lembaran mencukainya dalam YA2026. Dividen (perintis dan satu peringkat) dikecualikan. Sewa Brunei diterima di Malaysia boleh cukai dari 1 Januari 2022 (dividen luar negara ialah pengecualian); saya ambil 90,000 sebagai bersih. Lembaran juga menyenaraikan rugi komputer dan untung lori: kedua-duanya diganti oleh jadual elaun modal. Sahkan: RM1.5 juta tanda dagangan ialah jualan hak (modal); tarikh mula pra-operasi; potongan tambahan untuk insurans import dan ujian produk."
+    },
+    {
+     "k": "h",
+     "en": "Q3: Health Best Sdn Bhd (YA2025)",
+     "ms": "Q3: Health Best Sdn Bhd (YA2025)"
+    },
+    {
+     "k": "p",
+     "en": "The sheet started from ‘Nil (CYL 92,000)’, which mixed the loss into the later steps. The right start is the loss of 92,000. The sheet also deducted the government grant and allowed the RM8,000 community project; I do not find support for either in the PRs. Paid-up capital RM2.9 million is above RM2.5 million, so the company is not an SME and the SME table on the sheet does not apply.",
+     "ms": "Lembaran bermula daripada ‘Nil (CYL 92,000)’, yang mencampur kerugian dalam langkah kemudian. Permulaan yang betul ialah kerugian 92,000. Lembaran juga menolak geran kerajaan dan membenarkan projek komuniti RM8,000; saya tidak jumpa sokongan untuk kedua-duanya dalam PR. Modal berbayar RM2.9 juta melebihi RM2.5 juta, jadi syarikat bukan PKS dan jadual PKS pada lembaran tidak terpakai."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Treatment and reason"
+      ],
+      "ms": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Layanan dan sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Insurance recovery: stolen product 54,000",
+        "Nil",
+        "",
+        "Taxable business receipt: no adjustment"
+       ],
+       "ms": [
+        "Pemulihan insurans: produk dicuri 54,000",
+        "Nil",
+        "",
+        "Terimaan perniagaan boleh cukai: tiada pelarasan"
+       ]
+      },
+      {
+       "en": [
+        "Interest from overdue trade receivables 9,000",
+        "",
+        "9,000",
+        "Moved to other statutory income, as the lecturer"
+       ],
+       "ms": [
+        "Faedah daripada penghutang dagangan tertunggak 9,000",
+        "",
+        "9,000",
+        "Dialihkan ke pendapatan berkanun lain, seperti pensyarah"
+       ]
+      },
+      {
+       "en": [
+        "Government grant for training 32,000",
+        "Nil",
+        "",
+        "Revenue grant that repays an allowed expense: taxable. The lecturer deducted it, which I do not find support for in the PRs"
+       ],
+       "ms": [
+        "Geran kerajaan untuk latihan 32,000",
+        "Nil",
+        "",
+        "Geran hasil yang menggantikan perbelanjaan dibenarkan: boleh cukai. Pensyarah menolaknya, saya tidak jumpa sokongan dalam PR"
+       ]
+      },
+      {
+       "en": [
+        "Depreciation and amortisation 380,000",
+        "380,000",
+        "",
+        "Replaced by capital allowance"
+       ],
+       "ms": [
+        "Susut nilai dan pelunasan 380,000",
+        "380,000",
+        "",
+        "Diganti dengan elaun modal"
+       ]
+      },
+      {
+       "en": [
+        "R&D paid to contract R&D company 102,000",
+        "",
+        "102,000",
+        "Double deduction (PR 5/2020)"
+       ],
+       "ms": [
+        "R&D dibayar kepada syarikat R&D kontrak 102,000",
+        "",
+        "102,000",
+        "Potongan berganda (PR 5/2020)"
+       ]
+      },
+      {
+       "en": [
+        "Salaries of disabled employees 155,000",
+        "",
+        "155,000",
+        "Further deduction (PR 3/2019 para 6.1)"
+       ],
+       "ms": [
+        "Gaji pekerja OKU 155,000",
+        "",
+        "155,000",
+        "Potongan tambahan (PR 3/2019 para 6.1)"
+       ]
+      },
+      {
+       "en": [
+        "Training for sales staff 48,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Latihan kakitangan jualan 48,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Key-man endowment policy, directors 24,000",
+        "24,000",
+        "",
+        "Endowment is savings, not a business cost"
+       ],
+       "ms": [
+        "Polisi endowmen orang kunci, pengarah 24,000",
+        "24,000",
+        "",
+        "Endowmen ialah simpanan, bukan kos perniagaan"
+       ]
+      },
+      {
+       "en": [
+        "EPF 22% × 560,000 = 123,200 against the 19% limit 106,400",
+        "16,800",
+        "",
+        "Employer contribution above 19% disallowed"
+       ],
+       "ms": [
+        "KWSP 22% × 560,000 = 123,200 melawan had 19% 106,400",
+        "16,800",
+        "",
+        "Caruman majikan melebihi 19% ditolak"
+       ]
+      },
+      {
+       "en": [
+        "Repair: renovation for disabled employees 29,000",
+        "Nil",
+        "",
+        "Allowed once under s34(6)(e)"
+       ],
+       "ms": [
+        "Baik pulih: ubah suai untuk pekerja OKU 29,000",
+        "Nil",
+        "",
+        "Dibenarkan sekali di bawah s34(6)(e)"
+       ]
+      },
+      {
+       "en": [
+        "Repair: small machine parts 16,000",
+        "Nil",
+        "",
+        "Repair: allowable"
+       ],
+       "ms": [
+        "Baik pulih: bahagian kecil mesin 16,000",
+        "Nil",
+        "",
+        "Baik pulih: dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Interest: investment loan 120,000",
+        "120,000",
+        "",
+        "Investment income (dividend) is exempt, so no deduction"
+       ],
+       "ms": [
+        "Faedah: pinjaman pelaburan 120,000",
+        "120,000",
+        "",
+        "Pendapatan pelaburan (dividen) dikecualikan, jadi tiada potongan"
+       ]
+      },
+      {
+       "en": [
+        "Interest: working capital 24,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Faedah: modal kerja 24,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: general provision 20,000",
+        "20,000",
+        "",
+        "Not allowable"
+       ],
+       "ms": [
+        "Hutang lapuk: peruntukan am 20,000",
+        "20,000",
+        "",
+        "Tidak dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: specific provision 68,000",
+        "Nil",
+        "",
+        "Trade: allowable"
+       ],
+       "ms": [
+        "Hutang lapuk: peruntukan spesifik 68,000",
+        "Nil",
+        "",
+        "Dagangan: dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Bad debt recovery on debt bought from another company (14,000)",
+        "",
+        "14,000",
+        "Never taxed before as income, so the recovery is not taxable (PR 4/2019)"
+       ],
+       "ms": [
+        "Pulihan hutang lapuk bagi hutang dibeli daripada syarikat lain (14,000)",
+        "",
+        "14,000",
+        "Tidak pernah dicukai sebagai pendapatan, jadi pulihan tidak dicukai (PR 4/2019)"
+       ]
+      },
+      {
+       "en": [
+        "Lease: Mercedes 10,000 × 9 months = 90,000",
+        "40,000",
+        "",
+        "Over RM50,000 disallowed (s39(1)(k)); cost above 150,000 so no RM100,000 limit"
+       ],
+       "ms": [
+        "Sewa: Mercedes 10,000 × 9 bulan = 90,000",
+        "40,000",
+        "",
+        "Melebihi RM50,000 ditolak (s39(1)(k)); kos melebihi 150,000 jadi tiada had RM100,000"
+       ]
+      },
+      {
+       "en": [
+        "Advertisement in the Middle East 148,000",
+        "",
+        "148,000",
+        "Further deduction: media advertising abroad (PR 1/2013 para 6.2.1(a))"
+       ],
+       "ms": [
+        "Iklan di Timur Tengah 148,000",
+        "",
+        "148,000",
+        "Potongan tambahan: iklan media luar negara (PR 1/2013 para 6.2.1(a))"
+       ]
+      },
+      {
+       "en": [
+        "Economy fare to Korea 16,000 (contract not won)",
+        "",
+        "16,000",
+        "Further deduction: fare to negotiate or conclude a sales contract, success not required (PR 1/2013 para 6.2.1(e))"
+       ],
+       "ms": [
+        "Tambang kelas ekonomi ke Korea 16,000 (kontrak tidak berjaya)",
+        "",
+        "16,000",
+        "Potongan tambahan: tambang untuk berunding atau memuktamadkan kontrak jualan, kejayaan tidak disyaratkan (PR 1/2013 para 6.2.1(e))"
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: dealers for sales target 15,000",
+        "Nil",
+        "",
+        "Wholly related to sales: 100% (proviso (vii))"
+       ],
+       "ms": [
+        "Keraian: peniaga yang mencapai sasaran jualan 15,000",
+        "Nil",
+        "",
+        "Berkaitan jualan sepenuhnya: 100% (proviso (vii))"
+       ]
+      },
+      {
+       "en": [
+        "Forex: realised loss, trade debtors 6,000",
+        "Nil",
+        "",
+        "Revenue: allowable"
+       ],
+       "ms": [
+        "Tukaran asing: rugi nyata, penghutang dagangan 6,000",
+        "Nil",
+        "",
+        "Hasil: dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Forex: realised loss, import of machinery 4,000",
+        "4,000",
+        "",
+        "Capital (PR 12/2019)"
+       ],
+       "ms": [
+        "Tukaran asing: rugi nyata, import mesin 4,000",
+        "4,000",
+        "",
+        "Modal (PR 12/2019)"
+       ]
+      },
+      {
+       "en": [
+        "Donation: approved charity 23,000",
+        "23,000",
+        "",
+        "Add back; claimed from aggregate income, but there is none"
+       ],
+       "ms": [
+        "Derma: badan amal diluluskan 23,000",
+        "23,000",
+        "",
+        "Tambah balik; dituntut daripada pendapatan agregat, tetapi tiada"
+       ]
+      },
+      {
+       "en": [
+        "Donation: community health project 8,000",
+        "8,000",
+        "",
+        "Not an approved gift and no business return stated: add back. The lecturer allowed it"
+       ],
+       "ms": [
+        "Derma: projek kesihatan komuniti 8,000",
+        "8,000",
+        "",
+        "Bukan derma diluluskan dan tiada pulangan perniagaan dinyatakan: tambah balik. Pensyarah membenarkannya"
+       ]
+      },
+      {
+       "en": [
+        "Scholarships to 5 students 120,000",
+        "",
+        "120,000",
+        "Further deduction as the lecturer (guardian income condition). Rule not in the PRs given: confirm"
+       ],
+       "ms": [
+        "Biasiswa kepada 5 pelajar 120,000",
+        "",
+        "120,000",
+        "Potongan tambahan seperti pensyarah (syarat pendapatan penjaga). Peraturan tiada dalam PR diberi: sahkan"
+       ]
+      },
+      {
+       "en": [
+        "Halal certification 23,000",
+        "",
+        "23,000",
+        "Further deduction as the lecturer. Rule not in the PRs given: confirm"
+       ],
+       "ms": [
+        "Pensijilan halal 23,000",
+        "",
+        "23,000",
+        "Potongan tambahan seperti pensyarah. Peraturan tiada dalam PR diberi: sahkan"
+       ]
+      },
+      {
+       "en": [
+        "Trade association subscription 2,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Yuran persatuan perdagangan 2,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Total",
+        "635,800",
+        "587,000",
+        ""
+       ],
+       "ms": [
+        "Jumlah",
+        "635,800",
+        "587,000",
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Net loss before tax: (92,000)\nAdd (+) 635,800, less (−) 587,000\nAdjusted business loss: (43,200)\nCapital allowance 203,000: no business income to set against, carried forward (up to 10 YAs): 203,000 c/f\nStatutory business income: Nil\nOther statutory income: interest: 9,000\nLess current-year business loss (set off against all sources): (43,200)\nAggregate income: Nil\nBusiness loss carried forward (up to 7 YAs): 34,200\nChargeable income and tax: Nil",
+     "ms": "Kerugian bersih sebelum cukai: (92,000)\nTambah (+) 635,800, tolak (−) 587,000\nKerugian perniagaan diselaraskan: (43,200)\nElaun modal 203,000: tiada pendapatan perniagaan untuk ditolak, dibawa ke hadapan (sehingga 10 YA): 203,000 c/f\nPendapatan berkanun perniagaan: Nil\nPendapatan berkanun lain: faedah: 9,000\nTolak kerugian perniagaan tahun semasa (ditolak daripada semua sumber): (43,200)\nPendapatan agregat: Nil\nKerugian perniagaan dibawa ke hadapan (sehingga 7 YA): 34,200\nPendapatan bercukai dan cukai: Nil"
+    },
+    {
+     "k": "note",
+     "en": "The lecturer’s other lines match: R&D, disabled employees, EPF 16,800, lease 40,000, the Middle East advertisement, the Korea fare, depreciation, endowment, investment interest, the general provision and the bad debt recovery. Her ending (‘CI 83,000 CF’ and the Big and SME tax tables on RM2 million) is not the answer to this question: the company has a loss and pays no tax.",
+     "ms": "Baris lain pensyarah sepadan: R&D, pekerja OKU, KWSP 16,800, sewa 40,000, iklan Timur Tengah, tambang Korea, susut nilai, endowmen, faedah pelaburan, peruntukan am dan pulihan hutang lapuk. Pengakhirannya (‘CI 83,000 CF’ dan jadual cukai Besar dan PKS pada RM2 juta) bukan jawapan soalan ini: syarikat rugi dan tidak membayar cukai."
+    },
+    {
+     "k": "h",
+     "en": "Q4: Eco Furniture Bhd (YA2025)",
+     "ms": "Q4: Eco Furniture Bhd (YA2025)"
+    },
+    {
+     "k": "p",
+     "en": "The sheet is correct on most lines. I changed four: the furniture gift (taxed at market value, so add 42,000, not deduct), the realised forex gain from last year (add 5,000), the advance to the supplier (add back 40,000) and the Furniture Trade Association donation (no s44(6) claim unless approval is stated). Not an SME: paid-up capital RM2.9 million.",
+     "ms": "Lembaran betul pada kebanyakan baris. Saya ubah empat: derma perabot (dicukai pada nilai pasaran, jadi tambah 42,000, bukan tolak), untung tukaran asing nyata tahun lepas (tambah 5,000), pendahuluan kepada pembekal (tambah balik 40,000) dan derma Persatuan Perdagangan Perabot (tiada tuntutan s44(6) kecuali kelulusan dinyatakan). Bukan PKS: modal berbayar RM2.9 juta."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Treatment and reason"
+      ],
+      "ms": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Layanan dan sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Interest from overdue trade receivables 795,000",
+        "",
+        "795,000",
+        "Moved to other statutory income"
+       ],
+       "ms": [
+        "Faedah daripada penghutang dagangan tertunggak 795,000",
+        "",
+        "795,000",
+        "Dialihkan ke pendapatan berkanun lain"
+       ]
+      },
+      {
+       "en": [
+        "Dividend from MT Plc, Japan 300,000",
+        "",
+        "300,000",
+        "Foreign dividend received by a resident company: exempt (P.U.(A) 235/2022), if its conditions are met"
+       ],
+       "ms": [
+        "Dividen daripada MT Plc, Jepun 300,000",
+        "",
+        "300,000",
+        "Dividen luar negara diterima syarikat residen: dikecualikan (P.U.(A) 235/2022), jika syarat dipenuhi"
+       ]
+      },
+      {
+       "en": [
+        "Insurance compensation, flood 230,000",
+        "Nil",
+        "",
+        "Replaces trading stock: taxable (PR 4/2012)"
+       ],
+       "ms": [
+        "Pampasan insurans, banjir 230,000",
+        "Nil",
+        "",
+        "Menggantikan stok dagangan: boleh cukai (PR 4/2012)"
+       ]
+      },
+      {
+       "en": [
+        "Depreciation 1,090,000",
+        "1,090,000",
+        "",
+        "Replaced by capital allowance"
+       ],
+       "ms": [
+        "Susut nilai 1,090,000",
+        "1,090,000",
+        "",
+        "Diganti dengan elaun modal"
+       ]
+      },
+      {
+       "en": [
+        "Export cargo insurance, Malaysian insurer 1,132,000",
+        "Nil",
+        "",
+        "Allowable. The further deduction applies to import premiums, as the lecturer treats it"
+       ],
+       "ms": [
+        "Insurans kargo eksport, penanggung insurans Malaysia 1,132,000",
+        "Nil",
+        "",
+        "Dibenarkan. Potongan tambahan untuk premium import, seperti layanan pensyarah"
+       ]
+      },
+      {
+       "en": [
+        "Furniture donated: cost 38,000, selling price 42,000",
+        "42,000",
+        "",
+        "Stock given away is taxed at market value (PR 3/2020). The sheet deducted 42,000: wrong direction. The cost stays in cost of sales. A gift in kind is not a s44(6) gift"
+       ],
+       "ms": [
+        "Perabot didermakan: kos 38,000, harga jualan 42,000",
+        "42,000",
+        "",
+        "Stok diberi dicukai pada nilai pasaran (PR 3/2020). Lembaran menolak 42,000: arah salah. Kos kekal dalam kos jualan. Derma barangan bukan derma s44(6)"
+       ]
+      },
+      {
+       "en": [
+        "Non-trade debt collection 5,000",
+        "5,000",
+        "",
+        "Non-trade"
+       ],
+       "ms": [
+        "Kos kutipan hutang bukan dagangan 5,000",
+        "5,000",
+        "",
+        "Bukan dagangan"
+       ]
+      },
+      {
+       "en": [
+        "Trade fair in China 25,000",
+        "Nil",
+        "",
+        "Single deduction. The further deduction needs MATRADE approval (PR 1/2013), not stated"
+       ],
+       "ms": [
+        "Pameran perdagangan di China 25,000",
+        "Nil",
+        "",
+        "Potongan tunggal. Potongan tambahan perlu kelulusan MATRADE (PR 1/2013), tidak dinyatakan"
+       ]
+      },
+      {
+       "en": [
+        "Statutory audit 1,100,000; tax filing 4,000 + 4,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Audit berkanun 1,100,000; pemfailan cukai 4,000 + 4,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Staff recruitment ad 188,000; customer subsidy 12,000",
+        "Nil",
+        "",
+        "Allowable (free item with purchase is related to sales)"
+       ],
+       "ms": [
+        "Iklan pengambilan staf 188,000; subsidi pelanggan 12,000",
+        "Nil",
+        "",
+        "Dibenarkan (barang percuma dengan pembelian berkaitan jualan)"
+       ]
+      },
+      {
+       "en": [
+        "Salary of senior citizen aged 62: 66,000",
+        "",
+        "66,000",
+        "Further deduction as the lecturer. Rule not in the PRs given: confirm"
+       ],
+       "ms": [
+        "Gaji warga emas berumur 62: 66,000",
+        "",
+        "66,000",
+        "Potongan tambahan seperti pensyarah. Peraturan tiada dalam PR diberi: sahkan"
+       ]
+      },
+      {
+       "en": [
+        "EPF 528,000 against 19% × 2,400,000 = 456,000",
+        "72,000",
+        "",
+        "Above 19% disallowed"
+       ],
+       "ms": [
+        "KWSP 528,000 melawan 19% × 2,400,000 = 456,000",
+        "72,000",
+        "",
+        "Melebihi 19% ditolak"
+       ]
+      },
+      {
+       "en": [
+        "E-invoicing training 20,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Latihan e-invois 20,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Repair: general 182,000; cleaning and repainting 35,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Baik pulih: am 182,000; pembersihan dan cat semula 35,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Office chairs and tables 30,000",
+        "30,000",
+        "",
+        "Capital"
+       ],
+       "ms": [
+        "Kerusi dan meja pejabat 30,000",
+        "30,000",
+        "",
+        "Modal"
+       ]
+      },
+      {
+       "en": [
+        "Ramp for disabled customers 3,000",
+        "Nil",
+        "",
+        "Lecturer allows it. PR 3/2019 para 6.3.2 speaks of disabled persons, but its context is employees: confirm"
+       ],
+       "ms": [
+        "Tanjakan untuk pelanggan OKU 3,000",
+        "Nil",
+        "",
+        "Pensyarah membenarkan. PR 3/2019 para 6.3.2 sebut OKU, tetapi konteksnya pekerja: sahkan"
+       ]
+      },
+      {
+       "en": [
+        "Interest: 40% of loan used to buy shares in KayuKraf",
+        "57,600",
+        "",
+        "40% × 144,000: investment borrowing, no taxable income from it"
+       ],
+       "ms": [
+        "Faedah: 40% pinjaman digunakan membeli saham KayuKraf",
+        "57,600",
+        "",
+        "40% × 144,000: pinjaman pelaburan, tiada pendapatan boleh cukai daripadanya"
+       ]
+      },
+      {
+       "en": [
+        "General provision 2,000",
+        "2,000",
+        "",
+        "Not allowable"
+       ],
+       "ms": [
+        "Peruntukan am 2,000",
+        "2,000",
+        "",
+        "Tidak dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Specific provision, trade 25,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Peruntukan spesifik, dagangan 25,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Advance to a new supplier written off 40,000",
+        "40,000",
+        "",
+        "Not a trade debt that was taxed earlier (PR 4/2019 paras 5.2 and 7.2). The lecturer gave Nil: wrong"
+       ],
+       "ms": [
+        "Pendahuluan kepada pembekal baharu dihapus kira 40,000",
+        "40,000",
+        "",
+        "Bukan hutang dagangan yang dicukai terdahulu (PR 4/2019 para 5.2 dan 7.2). Pensyarah beri Nil: salah"
+       ]
+      },
+      {
+       "en": [
+        "Forex: unrealised loss, trade debts 8,000",
+        "8,000",
+        "",
+        "Unrealised"
+       ],
+       "ms": [
+        "Tukaran asing: rugi belum nyata, hutang dagangan 8,000",
+        "8,000",
+        "",
+        "Belum nyata"
+       ]
+      },
+      {
+       "en": [
+        "Forex: realised gain, machinery (3,000)",
+        "",
+        "3,000",
+        "Capital gain"
+       ],
+       "ms": [
+        "Tukaran asing: untung nyata, mesin (3,000)",
+        "",
+        "3,000",
+        "Untung modal"
+       ]
+      },
+      {
+       "en": [
+        "Forex: realised loss, stock 9,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Tukaran asing: rugi nyata, stok 9,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Forex: gain on last year's trade receivable, realised now (5,000)",
+        "5,000",
+        "",
+        "Taxable when realised, and not in the accounts, so add it. The lecturer gave Nil: wrong"
+       ],
+       "ms": [
+        "Tukaran asing: untung penghutang dagangan tahun lepas, nyata kini (5,000)",
+        "5,000",
+        "",
+        "Boleh cukai apabila nyata, dan tiada dalam akaun, jadi tambah. Pensyarah beri Nil: salah"
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: staff lunches 45,000; staff and family trip 105,000",
+        "Nil",
+        "",
+        "Employees: 100%"
+       ],
+       "ms": [
+        "Keraian: makan tengah hari staf 45,000; lawatan staf dan keluarga 105,000",
+        "Nil",
+        "",
+        "Pekerja: 100%"
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: dinners with suppliers 50,000",
+        "25,000",
+        "",
+        "Suppliers are not in the provisos: 50% disallowed (PR 4/2015 para 8)"
+       ],
+       "ms": [
+        "Keraian: makan malam pembekal 50,000",
+        "25,000",
+        "",
+        "Pembekal tiada dalam proviso: 50% ditolak (PR 4/2015 para 8)"
+       ]
+      },
+      {
+       "en": [
+        "Lease rental: three vehicles (28,000; 16,000; 18,000)",
+        "Nil",
+        "",
+        "Each below RM50,000"
+       ],
+       "ms": [
+        "Sewa: tiga kenderaan (28,000; 16,000; 18,000)",
+        "Nil",
+        "",
+        "Setiap satu di bawah RM50,000"
+       ]
+      },
+      {
+       "en": [
+        "Donation: Furniture Trade Association dinner 15,000",
+        "15,000",
+        "",
+        "A contribution to a dinner is not wholly and exclusively for business (PR 4/2015 Appendix item 6). The lecturer also claimed it under s44(6), but approval is not stated"
+       ],
+       "ms": [
+        "Derma: makan malam Persatuan Perdagangan Perabot 15,000",
+        "15,000",
+        "",
+        "Sumbangan makan malam bukan wholly and exclusively (PR 4/2015 Lampiran item 6). Pensyarah juga menuntutnya di bawah s44(6), tetapi kelulusan tidak dinyatakan"
+       ]
+      },
+      {
+       "en": [
+        "Sponsorship: Johor Bahru Think City cultural and heritage 300,000",
+        "Nil",
+        "",
+        "Allowed under s34(6) if approved, limit RM1,000,000 (PR 2/2021). Approval assumed"
+       ],
+       "ms": [
+        "Tajaan: Think City Johor Bahru budaya dan warisan 300,000",
+        "Nil",
+        "",
+        "Dibenarkan di bawah s34(6) jika diluluskan, had RM1,000,000 (PR 2/2021). Kelulusan diandaikan"
+       ]
+      },
+      {
+       "en": [
+        "Donation: political party (PKR) 250,000",
+        "250,000",
+        "",
+        "Not allowable, no claim"
+       ],
+       "ms": [
+        "Derma: parti politik (PKR) 250,000",
+        "250,000",
+        "",
+        "Tidak dibenarkan, tiada tuntutan"
+       ]
+      },
+      {
+       "en": [
+        "Contribution: school library 110,000",
+        "10,000",
+        "",
+        "Allowed up to RM100,000 under s34(6)(g); excess 10,000 disallowed (as the lecturer)"
+       ],
+       "ms": [
+        "Sumbangan: perpustakaan sekolah 110,000",
+        "10,000",
+        "",
+        "Dibenarkan sehingga RM100,000 di bawah s34(6)(g); lebihan 10,000 ditolak (seperti pensyarah)"
+       ]
+      },
+      {
+       "en": [
+        "Total",
+        "1,651,600",
+        "1,164,000",
+        ""
+       ],
+       "ms": [
+        "Jumlah",
+        "1,651,600",
+        "1,164,000",
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Profit before tax: 15,182,000\nAdd (+) 1,651,600, less (−) 1,164,000\nAdjusted business income: 15,669,600\nLess capital allowance (25,000 b/f + 120,000 current): (145,000)\nStatutory business income: 15,524,600\nLess business loss b/f: (20,000)\nAdd other statutory income: interest: 795,000\nAggregate income = chargeable income (no donation qualifies): 16,299,600\nTax at 24% (paid-up capital RM2.9 million is above RM2.5 million, not SME): RM3,911,904.00\nIf the FTA is an approved institution, claim 15,000: tax falls by 3,600 to RM3,908,304.00",
+     "ms": "Keuntungan sebelum cukai: 15,182,000\nTambah (+) 1,651,600, tolak (−) 1,164,000\nPendapatan perniagaan diselaraskan: 15,669,600\nTolak elaun modal (25,000 b/f + 120,000 semasa): (145,000)\nPendapatan berkanun perniagaan: 15,524,600\nTolak kerugian perniagaan b/f: (20,000)\nTambah pendapatan berkanun lain: faedah: 795,000\nPendapatan agregat = pendapatan bercukai (tiada derma layak): 16,299,600\nCukai pada 24% (modal berbayar RM2.9 juta melebihi RM2.5 juta, bukan PKS): RM3,911,904.00\nJika FTA institusi diluluskan, tuntut 15,000: cukai turun 3,600 kepada RM3,908,304.00"
+    },
+    {
+     "k": "calc",
+     "en": "(b) Management and control: a company is resident in Malaysia if its management and control are exercised in Malaysia, which is normally where the directors’ meetings that make the key decisions are held.\nTwo advantages of resident status:\n1. SME rates of 15% and 17% on the first RM600,000 are for resident companies (paid-up capital not above RM2.5 million); a non-resident pays 24%.\n2. Tax incentives under the ITA and the Promotion of Investments Act, group relief for losses and the benefit of double taxation agreements are open to residents; payments to a non-resident are subject to withholding tax, which a resident does not suffer on payments to it.\n(The sheet’s second point, about dividends of non-resident companies not being derived from Malaysia, is not an advantage of residence. The sheet also lists four points when two were asked.)",
+     "ms": "(b) Pengurusan dan kawalan: syarikat ialah residen di Malaysia jika pengurusan dan kawalannya dijalankan di Malaysia, lazimnya di tempat mesyuarat pengarah yang membuat keputusan utama diadakan.\nDua kelebihan status residen:\n1. Kadar PKS 15% dan 17% atas RM600,000 pertama untuk syarikat residen (modal berbayar tidak melebihi RM2.5 juta); bukan residen membayar 24%.\n2. Insentif cukai di bawah ITA dan Akta Menggalakkan Pelaburan, pelepasan kumpulan untuk kerugian dan manfaat perjanjian cukai berganda terbuka kepada residen; bayaran kepada bukan residen tertakluk kepada cukai pegangan balik, yang tidak dikenakan atas bayaran kepada residen.\n(Mata kedua lembaran, tentang dividen syarikat bukan residen tidak diperoleh dari Malaysia, bukan kelebihan residen. Lembaran juga menyenaraikan empat mata sedangkan dua diminta.)"
+    },
+    {
+     "k": "note",
+     "en": "Confirm: the senior citizen further deduction, the school library under s34(6)(g) (otherwise s44(8), RM20,000) and the approval of the Think City sponsorship.",
+     "ms": "Sahkan: potongan tambahan warga emas, perpustakaan sekolah di bawah s34(6)(g) (jika tidak s44(8), RM20,000) dan kelulusan tajaan Think City."
+    },
+    {
+     "k": "h",
+     "en": "Q5: Cabin Comfort Sdn Bhd (YA2025)",
+     "ms": "Q5: Cabin Comfort Sdn Bhd (YA2025)"
+    },
+    {
+     "k": "p",
+     "en": "No lecturer answer: this one is mine. The statement is in RM’000 and the notes in RM (they tie). Paid-up capital RM5 million, so 24%. The capital allowance of RM46,024,000 is as given in the question.",
+     "ms": "Tiada jawapan pensyarah: ini jawapan saya. Penyata dalam RM’000 dan nota dalam RM (sepadan). Modal berbayar RM5 juta, jadi 24%. Elaun modal RM46,024,000 seperti diberi dalam soalan."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Treatment and reason"
+      ],
+      "ms": [
+       "Item",
+       "(+) RM",
+       "(−) RM",
+       "Layanan dan sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Dividends: single tier 25,000 and foreign 20,000",
+        "",
+        "45,000",
+        "Exempt (single tier; foreign dividend received in Malaysia, P.U.(A) 235/2022, if its conditions are met)"
+       ],
+       "ms": [
+        "Dividen: satu peringkat 25,000 dan luar negara 20,000",
+        "",
+        "45,000",
+        "Dikecualikan (satu peringkat; dividen luar negara diterima di Malaysia, P.U.(A) 235/2022, jika syarat dipenuhi)"
+       ]
+      },
+      {
+       "en": [
+        "Interest (late-payment fees from customers) 40,000",
+        "",
+        "40,000",
+        "Moved to other statutory income, as in Q3 and Q4"
+       ],
+       "ms": [
+        "Faedah (caj lewat bayar daripada pelanggan) 40,000",
+        "",
+        "40,000",
+        "Dialihkan ke pendapatan berkanun lain, seperti Q3 dan Q4"
+       ]
+      },
+      {
+       "en": [
+        "Insurance recovery, fire 45,000",
+        "Nil",
+        "",
+        "Replaces trading stock: taxable"
+       ],
+       "ms": [
+        "Pemulihan insurans, kebakaran 45,000",
+        "Nil",
+        "",
+        "Menggantikan stok dagangan: boleh cukai"
+       ]
+      },
+      {
+       "en": [
+        "MD salary 384,000: EPF 84,000 against 19% = 72,960",
+        "11,040",
+        "",
+        "Above 19% disallowed"
+       ],
+       "ms": [
+        "Gaji PP 384,000: KWSP 84,000 melawan 19% = 72,960",
+        "11,040",
+        "",
+        "Melebihi 19% ditolak"
+       ]
+      },
+      {
+       "en": [
+        "MD: free overseas trip 32,000",
+        "32,000",
+        "",
+        "Treated as an overseas leave passage: not allowable. If it is plain remuneration, it would be allowable: confirm"
+       ],
+       "ms": [
+        "PP: lawatan percuma luar negara 32,000",
+        "32,000",
+        "",
+        "Dianggap pas cuti luar negara: tidak dibenarkan. Jika saraan biasa, ia dibenarkan: sahkan"
+       ]
+      },
+      {
+       "en": [
+        "Interest: loan to invest in Thailand company 38,000",
+        "38,000",
+        "",
+        "The dividend is exempt, so no deduction"
+       ],
+       "ms": [
+        "Faedah: pinjaman melabur di syarikat Thailand 38,000",
+        "38,000",
+        "",
+        "Dividen dikecualikan, jadi tiada potongan"
+       ]
+      },
+      {
+       "en": [
+        "Interest: working capital 87,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Faedah: modal kerja 87,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: staff annual dinner 38,000",
+        "Nil",
+        "",
+        "Employees: 100%"
+       ],
+       "ms": [
+        "Keraian: makan malam tahunan staf 38,000",
+        "Nil",
+        "",
+        "Pekerja: 100%"
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: existing customers 174,000",
+        "87,000",
+        "",
+        "50% disallowed"
+       ],
+       "ms": [
+        "Keraian: pelanggan sedia ada 174,000",
+        "87,000",
+        "",
+        "50% ditolak"
+       ]
+      },
+      {
+       "en": [
+        "Entertainment: dealers, new product line 151,000",
+        "Nil",
+        "",
+        "Launch of a new product: 100% (proviso (vii))"
+       ],
+       "ms": [
+        "Keraian: peniaga, barisan produk baharu 151,000",
+        "Nil",
+        "",
+        "Pelancaran produk baharu: 100% (proviso (vii))"
+       ]
+      },
+      {
+       "en": [
+        "Depreciation 119,000",
+        "119,000",
+        "",
+        "Replaced by capital allowance"
+       ],
+       "ms": [
+        "Susut nilai 119,000",
+        "119,000",
+        "",
+        "Diganti dengan elaun modal"
+       ]
+      },
+      {
+       "en": [
+        "Repair: showroom extension 273,000",
+        "273,000",
+        "",
+        "Capital"
+       ],
+       "ms": [
+        "Baik pulih: lanjutan bilik pameran 273,000",
+        "273,000",
+        "",
+        "Modal"
+       ]
+      },
+      {
+       "en": [
+        "Repair: plant maintenance 95,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Baik pulih: penyelenggaraan loji 95,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: trade written off 165,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Hutang lapuk: dagangan dihapus kira 165,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: general provision 400,000",
+        "400,000",
+        "",
+        "Not allowable"
+       ],
+       "ms": [
+        "Hutang lapuk: peruntukan am 400,000",
+        "400,000",
+        "",
+        "Tidak dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: specific provision, loan debts 208,000",
+        "208,000",
+        "",
+        "Non-trade"
+       ],
+       "ms": [
+        "Hutang lapuk: peruntukan spesifik, hutang pinjaman 208,000",
+        "208,000",
+        "",
+        "Bukan dagangan"
+       ]
+      },
+      {
+       "en": [
+        "Bad debts: advances written off 30,000 + 56,000",
+        "86,000",
+        "",
+        "Not trade debts taxed earlier"
+       ],
+       "ms": [
+        "Hutang lapuk: pendahuluan dihapus kira 30,000 + 56,000",
+        "86,000",
+        "",
+        "Bukan hutang dagangan yang dicukai terdahulu"
+       ]
+      },
+      {
+       "en": [
+        "Vehicles: traffic offences 20,000",
+        "20,000",
+        "",
+        "Fines not allowable"
+       ],
+       "ms": [
+        "Kenderaan: kesalahan lalu lintas 20,000",
+        "20,000",
+        "",
+        "Denda tidak dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Vehicles: maintenance 50,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Kenderaan: penyelenggaraan 50,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Lease: saloon car 150,000 (new cost 600,000)",
+        "100,000",
+        "",
+        "Over RM50,000 disallowed (s39(1)(k))"
+       ],
+       "ms": [
+        "Sewa: kereta saloon 150,000 (kos baharu 600,000)",
+        "100,000",
+        "",
+        "Melebihi RM50,000 ditolak (s39(1)(k))"
+       ]
+      },
+      {
+       "en": [
+        "Lease: fabricating machine 170,000 (3 months)",
+        "Nil",
+        "",
+        "Revenue rental: allowable"
+       ],
+       "ms": [
+        "Sewa: mesin fabrikasi 170,000 (3 bulan)",
+        "Nil",
+        "",
+        "Sewa hasil: dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Advertising: newspapers 620,000; free gifts for purchases 95,000",
+        "Nil",
+        "",
+        "Allowable; gifts for purchases are related to sales (100%)"
+       ],
+       "ms": [
+        "Iklan: akhbar 620,000; hadiah percuma pembelian 95,000",
+        "Nil",
+        "",
+        "Dibenarkan; hadiah pembelian berkaitan jualan (100%)"
+       ]
+      },
+      {
+       "en": [
+        "Advertising: sponsorship of approved motor event 151,000",
+        "Nil",
+        "",
+        "Allowable promotion of own brand. A further deduction may apply to approved sponsorship: not in the PRs given, so not claimed"
+       ],
+       "ms": [
+        "Iklan: tajaan acara permotoran diluluskan 151,000",
+        "Nil",
+        "",
+        "Promosi jenama sendiri dibenarkan. Potongan tambahan mungkin terpakai bagi tajaan diluluskan: tiada dalam PR diberi, jadi tidak dituntut"
+       ]
+      },
+      {
+       "en": [
+        "Malaysian patent acquired for 600,000 two years ago",
+        "Nil",
+        "",
+        "Capital and no amount is in the accounts: no adjustment"
+       ],
+       "ms": [
+        "Paten Malaysia diperoleh pada 600,000 dua tahun lalu",
+        "Nil",
+        "",
+        "Modal dan tiada jumlah dalam akaun: tiada pelarasan"
+       ]
+      },
+      {
+       "en": [
+        "Professional: lease agreement 19,000; secretarial 10,000; tax filing 18,000",
+        "Nil",
+        "",
+        "Allowable (the lease is an operating lease)"
+       ],
+       "ms": [
+        "Profesional: perjanjian sewa 19,000; setiausaha 10,000; pemfailan cukai 18,000",
+        "Nil",
+        "",
+        "Dibenarkan (sewa ialah pajakan operasi)"
+       ]
+      },
+      {
+       "en": [
+        "Insurance: import of PVC, local insurer 29,000",
+        "",
+        "29,000",
+        "Further deduction as for Styles (rule not in the PRs given: confirm)"
+       ],
+       "ms": [
+        "Insurans: import PVC, penanggung insurans tempatan 29,000",
+        "",
+        "29,000",
+        "Potongan tambahan seperti Styles (peraturan tiada dalam PR diberi: sahkan)"
+       ]
+      },
+      {
+       "en": [
+        "Insurance: export to Thailand 38,000; fire cover 50,000",
+        "Nil",
+        "",
+        "Allowable"
+       ],
+       "ms": [
+        "Insurans: eksport ke Thailand 38,000; perlindungan kebakaran 50,000",
+        "Nil",
+        "",
+        "Dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Forex: realised loss, stock 13,000; machinery spare parts 15,000",
+        "Nil",
+        "",
+        "Realised, revenue (spare parts used in repairs): allowable"
+       ],
+       "ms": [
+        "Tukaran asing: rugi nyata, stok 13,000; alat ganti mesin 15,000",
+        "Nil",
+        "",
+        "Nyata, hasil (alat ganti untuk pembaikan): dibenarkan"
+       ]
+      },
+      {
+       "en": [
+        "Forex: unrealised loss, fabricating machine 18,000",
+        "18,000",
+        "",
+        "Capital and unrealised"
+       ],
+       "ms": [
+        "Tukaran asing: rugi belum nyata, mesin fabrikasi 18,000",
+        "18,000",
+        "",
+        "Modal dan belum nyata"
+       ]
+      },
+      {
+       "en": [
+        "Donation to Johor State Government 200,000",
+        "200,000",
+        "",
+        "Add back, then claim under s44(6) from aggregate income"
+       ],
+       "ms": [
+        "Derma kepada Kerajaan Negeri Johor 200,000",
+        "200,000",
+        "",
+        "Tambah balik, kemudian tuntut di bawah s44(6) daripada pendapatan agregat"
+       ]
+      },
+      {
+       "en": [
+        "Total",
+        "1,592,040",
+        "114,000",
+        ""
+       ],
+       "ms": [
+        "Jumlah",
+        "1,592,040",
+        "114,000",
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Profit before tax: 232,850,000\nAdd (+) 1,592,040, less (−) 114,000\nAdjusted business income: 234,328,040\nLess capital allowance: (46,024,000)\nStatutory business income: 188,304,040\nAdd other statutory income: late-payment interest: 40,000\nAggregate income: 188,344,040\nLess donation to State Government (within the 10% limit of 18,834,404): (200,000)\nChargeable income: 188,144,040\nTax at 24% (paid-up capital RM5 million, not SME): RM45,154,569.60",
+     "ms": "Keuntungan sebelum cukai: 232,850,000\nTambah (+) 1,592,040, tolak (−) 114,000\nPendapatan perniagaan diselaraskan: 234,328,040\nTolak elaun modal: (46,024,000)\nPendapatan berkanun perniagaan: 188,304,040\nTambah pendapatan berkanun lain: faedah lewat bayar: 40,000\nPendapatan agregat: 188,344,040\nTolak derma kepada Kerajaan Negeri (dalam had 10% iaitu 18,834,404): (200,000)\nPendapatan bercukai: 188,144,040\nCukai pada 24% (modal berbayar RM5 juta, bukan PKS): RM45,154,569.60"
+    },
+    {
+     "k": "note",
+     "en": "Judgement calls: late-payment fees are treated as interest moved to other statutory income (the chargeable income is the same if you leave them in business income); the free overseas trip for the MD as an overseas leave passage; spare parts as revenue.",
+     "ms": "Pertimbangan: caj lewat bayar dianggap faedah dialihkan ke pendapatan berkanun lain (pendapatan bercukai sama jika dibiarkan dalam pendapatan perniagaan); lawatan percuma luar negara PP sebagai pas cuti luar negara; alat ganti sebagai hasil."
+    }
+   ]
   }
  ],
  "cards": [

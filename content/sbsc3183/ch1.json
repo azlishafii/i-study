@@ -739,6 +739,457 @@
      ]
     }
    ]
+  },
+  {
+   "id": "worked",
+   "icon": "🧪",
+   "title": {
+    "en": "Worked Examples",
+    "ms": "Contoh Kerja"
+   },
+   "ref": "Exercise_basis period.pdf",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "The lecturer’s file Exercise_basis period.pdf has questions only, with no answers. The answers below are worked out from the slides and PR 8/2014, PR 4/2025 and PR 7/2016, so treat them as my application of the rules, not an official key.",
+     "ms": "Fail pensyarah Exercise_basis period.pdf hanya ada soalan, tiada jawapan. Jawapan di bawah dikira daripada slaid serta PR 8/2014, PR 4/2025 dan PR 7/2016, jadi anggap ia aplikasi saya terhadap peraturan, bukan kunci rasmi."
+    },
+    {
+     "k": "h",
+     "en": "Exercise 1: Teraju Dagang Sdn Bhd",
+     "ms": "Latihan 1: Teraju Dagang Sdn Bhd"
+    },
+    {
+     "k": "p",
+     "en": "Commenced 1.4.2022; first accounts to 30.6.2023 and then each 30 June. On 1.9.2023 it changed its year end to 31 March. Accounts: 1.7.2023–31.3.2024, 1.4.2024–31.3.2025, 1.4.2025–31.3.2026. State the basis period for each YA up to YA2026.",
+     "ms": "Mula 1.4.2022; akaun pertama hingga 30.6.2023 dan kemudian setiap 30 Jun. Pada 1.9.2023 ia menukar akhir tahun ke 31 Mac. Akaun: 1.7.2023–31.3.2024, 1.4.2024–31.3.2025, 1.4.2025–31.3.2026. Nyatakan tempoh asas setiap YA hingga YA2026."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "YA",
+       "Basis period",
+       "Reason"
+      ],
+      "ms": [
+       "YA",
+       "Tempoh asas",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2022",
+        "None",
+        "First accounts (15 months) end in 2023, the second year"
+       ],
+       "ms": [
+        "2022",
+        "Tiada",
+        "Akaun pertama (15 bulan) berakhir pada 2023, tahun kedua"
+       ]
+      },
+      {
+       "en": [
+        "2023",
+        "1.4.2022–30.6.2023",
+        "The whole first period is the basis period for the second year (PR 8/2014 para 4.1)"
+       ],
+       "ms": [
+        "2023",
+        "1.4.2022–30.6.2023",
+        "Seluruh tempoh pertama ialah tempoh asas tahun kedua (PR 8/2014 para 4.1)"
+       ]
+      },
+      {
+       "en": [
+        "2024",
+        "1.7.2023–31.3.2024",
+        "9-month accounts, the only accounts closing in 2024; no YA is missing"
+       ],
+       "ms": [
+        "2024",
+        "1.7.2023–31.3.2024",
+        "Akaun 9 bulan, satu-satunya akaun ditutup pada 2024; tiada YA tertinggal"
+       ]
+      },
+      {
+       "en": [
+        "2025",
+        "1.4.2024–31.3.2025",
+        "Normal 12 months"
+       ],
+       "ms": [
+        "2025",
+        "1.4.2024–31.3.2025",
+        "12 bulan biasa"
+       ]
+      },
+      {
+       "en": [
+        "2026",
+        "1.4.2025–31.3.2026",
+        "Normal 12 months"
+       ],
+       "ms": [
+        "2026",
+        "1.4.2025–31.3.2026",
+        "12 bulan biasa"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "The question says the company changed to ‘31 March 2023’, but the accounts listed end 31 March 2024, so I treated 2023 as a misprint of 2024.",
+     "ms": "Soalan menyebut ‘31 Mac 2023’ tetapi akaun disenaraikan berakhir 31 Mac 2024, jadi saya anggap 2023 sebagai salah cetak bagi 2024."
+    },
+    {
+     "k": "h",
+     "en": "Exercise 2: FunTastic Sdn Bhd",
+     "ms": "Latihan 2: FunTastic Sdn Bhd"
+    },
+    {
+     "k": "p",
+     "en": "Commenced 1.4.2022; first accounts to 30.6.2023, then each 30 June.",
+     "ms": "Mula 1.4.2022; akaun pertama hingga 30.6.2023, kemudian setiap 30 Jun."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Part",
+       "Answer",
+       "Working"
+      ],
+      "ms": [
+       "Bahagian",
+       "Jawapan",
+       "Pengiraan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(i) Basis periods",
+        "YA2022: none. YA2023: 1.4.2022–30.6.2023. YA2024: 1.7.2023–30.6.2024",
+        "The first accounts are 15 months and end in the second year, so YA2022 has no basis period (PR 8/2014)"
+       ],
+       "ms": [
+        "(i) Tempoh asas",
+        "YA2022: tiada. YA2023: 1.4.2022–30.6.2023. YA2024: 1.7.2023–30.6.2024",
+        "Akaun pertama 15 bulan dan berakhir pada tahun kedua, jadi YA2022 tiada tempoh asas (PR 8/2014)"
+       ]
+      },
+      {
+       "en": [
+        "(ii) First estimate",
+        "30 June 2022",
+        "New company with a basis period over 6 months: within 3 months of commencing operations [s107C(4)(a)]. 1.4.2022 + 3 months"
+       ],
+       "ms": [
+        "(ii) Anggaran pertama",
+        "30 Jun 2022",
+        "Syarikat baru dengan tempoh asas melebihi 6 bulan: dalam 3 bulan selepas operasi bermula [s107C(4)(a)]. 1.4.2022 + 3 bulan"
+       ]
+      },
+      {
+       "en": [
+        "(iii) First instalment",
+        "15 September 2022",
+        "New entity: instalments start in the 6th month of the basis period (1.4.2022 → September 2022), due on the 15th"
+       ],
+       "ms": [
+        "(iii) Ansuran pertama",
+        "15 September 2022",
+        "Entiti baru: ansuran bermula pada bulan ke-6 tempoh asas (1.4.2022 → September 2022), perlu dibayar pada hari ke-15"
+       ]
+      },
+      {
+       "en": [
+        "(iv) Returns",
+        "YA2022: no return (no basis period). YA2023: 31 January 2024. YA2024: 31 January 2025",
+        "Return due 7 months after the end of the basis period: 30.6.2023 + 7 months; 30.6.2024 + 7 months"
+       ],
+       "ms": [
+        "(iv) Borang nyata",
+        "YA2022: tiada borang (tiada tempoh asas). YA2023: 31 Januari 2024. YA2024: 31 Januari 2025",
+        "Borang nyata perlu 7 bulan selepas akhir tempoh asas: 30.6.2023 + 7 bulan; 30.6.2024 + 7 bulan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "Part (ii) and (iii) are asked ‘for YA2022’ but YA2022 has no basis period, so the estimate really covers the 15-month first basis period. The deadlines are counted from the date operations commenced. A resident company with paid-up capital of RM2.5m or less may be exempt from CP204 for its first YAs [s107C(4A)] if the conditions are met.",
+     "ms": "Bahagian (ii) dan (iii) ditanya ‘bagi YA2022’ tetapi YA2022 tiada tempoh asas, jadi anggaran sebenarnya meliputi tempoh asas pertama 15 bulan. Tarikh akhir dikira dari tarikh operasi bermula. Syarikat residen dengan modal berbayar RM2.5j atau kurang mungkin dikecualikan CP204 bagi YA awal [s107C(4A)] jika syarat dipenuhi."
+    },
+    {
+     "k": "p",
+     "en": "FunTastic changes its year end to 30 September: accounts 1.7.2024–30.9.2025 (15 months) and 1.10.2025–30.9.2026.",
+     "ms": "FunTastic menukar akhir tahun ke 30 September: akaun 1.7.2024–30.9.2025 (15 bulan) dan 1.10.2025–30.9.2026."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Part",
+       "Answer",
+       "Working"
+      ],
+      "ms": [
+       "Bahagian",
+       "Jawapan",
+       "Pengiraan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(i) Basis periods",
+        "YA2025: 1.7.2024–30.9.2025 (15 months). YA2026: 1.10.2025–30.9.2026",
+        "Last normal year is YA2024 (to 30.6.2024). The 15-month period ends in the following year, so it is accepted as the basis period for YA2025; no YA is missing and no two accounts close in one YA (PR 8/2014 para 5.2, like Aizah Wahab)"
+       ],
+       "ms": [
+        "(i) Tempoh asas",
+        "YA2025: 1.7.2024–30.9.2025 (15 bulan). YA2026: 1.10.2025–30.9.2026",
+        "Tahun biasa terakhir ialah YA2024 (hingga 30.6.2024). Tempoh 15 bulan berakhir pada tahun berikutnya, jadi diterima sebagai tempoh asas YA2025; tiada YA tertinggal dan tiada dua akaun ditutup dalam satu YA (PR 8/2014 para 5.2, seperti Aizah Wahab)"
+       ]
+      },
+      {
+       "en": [
+        "(ii) Failing to furnish CP204B (any two)",
+        "10% increase on unpaid instalments; 10% increase on tax above the estimate by more than 30%",
+        "s107C(9) and s107C(10). Other consequences: penalty s112(3A) on an estimated assessment, and prosecution under s120(1)(i) (fine RM200–RM20,000, or up to 6 months’ jail, or both)"
+       ],
+       "ms": [
+        "(ii) Gagal kemukakan CP204B (mana-mana dua)",
+        "Kenaan 10% atas ansuran tidak dibayar; kenaan 10% atas cukai melebihi anggaran lebih 30%",
+        "s107C(9) dan s107C(10). Akibat lain: penalti s112(3A) atas taksiran anggaran, dan pendakwaan di bawah s120(1)(i) (denda RM200–RM20,000, atau penjara sehingga 6 bulan, atau kedua-duanya)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Exercise 3: Kakak Sdn Bhd (YA2026)",
+     "ms": "Latihan 3: Kakak Sdn Bhd (YA2026)"
+    },
+    {
+     "k": "p",
+     "en": "In operation for many years, year end 31 May. YA2025 estimate RM120,000; final tax RM150,000. The YA2026 basis period is 1.6.2025–31.5.2026.",
+     "ms": "Beroperasi bertahun-tahun, akhir tahun 31 Mei. Anggaran YA2025 RM120,000; cukai akhir RM150,000. Tempoh asas YA2026 ialah 1.6.2025–31.5.2026."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Part",
+       "Answer",
+       "Explanation"
+      ],
+      "ms": [
+       "Bahagian",
+       "Jawapan",
+       "Penjelasan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(i) Return due date",
+        "31 December 2026",
+        "7 months after the end of the basis period (31.5.2026)"
+       ],
+       "ms": [
+        "(i) Tarikh borang nyata",
+        "31 Disember 2026",
+        "7 bulan selepas akhir tempoh asas (31.5.2026)"
+       ]
+      },
+      {
+       "en": [
+        "(ii) Initial estimate",
+        "2 May 2025",
+        "An existing company files no later than 30 days before the start of the basis period [s107C(2)]: 1.6.2025 less 30 days"
+       ],
+       "ms": [
+        "(ii) Anggaran awal",
+        "2 Mei 2025",
+        "Syarikat sedia ada memfailkan selewat-lewatnya 30 hari sebelum permulaan tempoh asas [s107C(2)]: 1.6.2025 tolak 30 hari"
+       ]
+      },
+      {
+       "en": [
+        "(iii) Minimum estimate",
+        "RM102,000",
+        "At least 85% of the YA2025 estimate (revised, if it was revised): 85% × RM120,000. The final tax of RM150,000 is not the base [s107C(3), PR 4/2025 Example 1]"
+       ],
+       "ms": [
+        "(iii) Anggaran minimum",
+        "RM102,000",
+        "Sekurang-kurangnya 85% daripada anggaran YA2025 (disemak, jika disemak): 85% × RM120,000. Cukai akhir RM150,000 bukan asas [s107C(3), PR 4/2025 Contoh 1]"
+       ]
+      },
+      {
+       "en": [
+        "(iv) Revision",
+        "In the 6th, 9th or 11th month of the basis period: by 30.11.2025, 28.2.2026 or 30.4.2026",
+        "e-CP204A under s107C(7)"
+       ],
+       "ms": [
+        "(iv) Semakan",
+        "Pada bulan ke-6, ke-9 atau ke-11 tempoh asas: menjelang 30.11.2025, 28.2.2026 atau 30.4.2026",
+        "e-CP204A di bawah s107C(7)"
+       ]
+      },
+      {
+       "en": [
+        "(v) First and last instalments",
+        "First: 15 July 2025. Last: 15 June 2026",
+        "An existing company pays 12 equal instalments from the 2nd month, each due on the 15th (July 2025 to June 2026), as in PR 4/2025 Dedaun Lebar"
+       ],
+       "ms": [
+        "(v) Ansuran pertama dan akhir",
+        "Pertama: 15 Julai 2025. Akhir: 15 Jun 2026",
+        "Syarikat sedia ada membayar 12 ansuran sama dari bulan ke-2, setiap satu pada hari ke-15 (Julai 2025 hingga Jun 2026), seperti Dedaun Lebar PR 4/2025"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Exercise 4: Square Bhd (YA2026)",
+     "ms": "Latihan 4: Square Bhd (YA2026)"
+    },
+    {
+     "k": "p",
+     "en": "Original estimate RM880,000, revised to RM600,000 in the 6th month with IRB approval. Actual tax payable RM890,000.",
+     "ms": "Anggaran asal RM880,000, disemak kepada RM600,000 pada bulan ke-6 dengan kelulusan LHDN. Cukai sebenar RM890,000."
+    },
+    {
+     "k": "calc",
+     "en": "(i) Difference = 890,000 − 600,000 = RM290,000\nSafe margin = 30% × 890,000 = RM267,000\nExcess = 290,000 − 267,000 = RM23,000\nPenalty = 10% × 23,000 = RM2,300\nTotal due = RM890,000 + RM2,300 = RM892,300, i.e. RM292,300 after the RM600,000 instalments",
+     "ms": "(i) Beza = 890,000 − 600,000 = RM290,000\nHad selamat = 30% × 890,000 = RM267,000\nLebihan = 290,000 − 267,000 = RM23,000\nPenalti = 10% × 23,000 = RM2,300\nJumlah perlu dibayar = RM890,000 + RM2,300 = RM892,300, iaitu RM292,300 selepas ansuran RM600,000"
+    },
+    {
+     "k": "p",
+     "en": "The test uses the latest revised estimate (RM600,000), not the original RM880,000.",
+     "ms": "Ujian menggunakan anggaran disemak terkini (RM600,000), bukan RM880,000 asal."
+    },
+    {
+     "k": "calc",
+     "en": "(ii) If the RM290,000 balance of tax is not settled in time, a further 10% late-payment penalty applies: 10% × 290,000 = RM29,000\nTotal = 290,000 + 2,300 + 29,000 = RM321,300",
+     "ms": "(ii) Jika baki cukai RM290,000 tidak dijelaskan tepat masa, penalti lewat bayar 10% tambahan dikenakan: 10% × 290,000 = RM29,000\nJumlah = 290,000 + 2,300 + 29,000 = RM321,300"
+    },
+    {
+     "k": "note",
+     "en": "Part (ii) is my reading: the 10% late-payment penalty is applied to the unpaid balance of tax (RM290,000). The lecturer has not given a key, so check how your class applies it to the RM2,300.",
+     "ms": "Bahagian (ii) ialah bacaan saya: penalti lewat bayar 10% dikenakan atas baki cukai tidak dibayar (RM290,000). Pensyarah tidak memberi kunci, jadi semak bagaimana kelas anda mengenakannya pada RM2,300."
+    },
+    {
+     "k": "h",
+     "en": "Exercise 5: BRP Sdn Bhd",
+     "ms": "Latihan 5: BRP Sdn Bhd"
+    },
+    {
+     "k": "p",
+     "en": "Normally closes 31 December. For the 2024 accounting period it changed to close on 31 March 2025.",
+     "ms": "Biasanya tutup 31 Disember. Bagi tempoh perakaunan 2024 ia menukar untuk tutup pada 31 Mac 2025."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "YA",
+       "Basis period",
+       "Reason"
+      ],
+      "ms": [
+       "YA",
+       "Tempoh asas",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "2023",
+        "1.1.2023–31.12.2023",
+        "Last normal year"
+       ],
+       "ms": [
+        "2023",
+        "1.1.2023–31.12.2023",
+        "Tahun biasa terakhir"
+       ]
+      },
+      {
+       "en": [
+        "2024",
+        "1.1.2024–31.8.2024 (8 months)",
+        "Failure year is 2024: the accounts that should close 31.12.2024 close 31.3.2025 (15 months, ending in the third year). The period is divided into two, the half month in the first"
+       ],
+       "ms": [
+        "2024",
+        "1.1.2024–31.8.2024 (8 bulan)",
+        "Tahun kegagalan ialah 2024: akaun yang patut ditutup 31.12.2024 ditutup 31.3.2025 (15 bulan, berakhir pada tahun ketiga). Tempoh dibahagi dua, separuh bulan dalam tempoh pertama"
+       ]
+      },
+      {
+       "en": [
+        "2025",
+        "1.9.2024–31.3.2025 (7 months)",
+        "Second half of the divided period"
+       ],
+       "ms": [
+        "2025",
+        "1.9.2024–31.3.2025 (7 bulan)",
+        "Separuh kedua tempoh yang dibahagi"
+       ]
+      },
+      {
+       "en": [
+        "2026",
+        "1.4.2025–31.3.2026",
+        "Normal 12 months"
+       ],
+       "ms": [
+        "2026",
+        "1.4.2025–31.3.2026",
+        "12 bulan biasa"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "p",
+     "en": "Reason: no YA is missing and no two accounts close in the same YA (PR 8/2014 para 5.2). A 15-month period would otherwise leave no basis period for YA2024.",
+     "ms": "Sebab: tiada YA tertinggal dan tiada dua akaun ditutup dalam YA yang sama (PR 8/2014 para 5.2). Tempoh 15 bulan jika tidak dibahagi akan menyebabkan YA2024 tiada tempoh asas."
+    },
+    {
+     "k": "h",
+     "en": "Homework: no CP204, CP204A or CP204B",
+     "ms": "Kerja rumah: tiada CP204, CP204A atau CP204B"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "No CP204: the DGIR may issue a CP205 notice directing the instalments [s107C(8)]",
+      "Unpaid instalments: 10% increase on each instalment not paid by its due date [s107C(9)]",
+      "Actual tax above the estimate by more than 30% (no valid estimate to defend): 10% increase on the excess [s107C(10)]",
+      "No CP204B for a change of accounting period: the same increases apply, plus penalty s112(3A) on an estimated assessment under s90(3), and prosecution under s120(1)(i)"
+     ],
+     "ms": [
+      "Tiada CP204: KPHDN boleh mengeluarkan notis CP205 yang mengarahkan ansuran [s107C(8)]",
+      "Ansuran tidak dibayar: kenaan 10% atas setiap ansuran yang tidak dibayar pada tarikh akhir [s107C(9)]",
+      "Cukai sebenar melebihi anggaran lebih 30% (tiada anggaran sah untuk dipertahankan): kenaan 10% ke atas lebihan [s107C(10)]",
+      "Tiada CP204B bagi pertukaran tempoh perakaunan: kenaan sama, serta penalti s112(3A) atas taksiran anggaran di bawah s90(3), dan pendakwaan di bawah s120(1)(i)"
+     ]
+    }
+   ]
   }
  ],
  "cards": [

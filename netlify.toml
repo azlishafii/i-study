@@ -1,0 +1,12 @@
+# Tapak statik: tiada build step (tailwind.css sudah di-commit).
+[build]
+  publish = "."
+  # Exit 0 = langkau build/deploy. Hanya deploy jika fail aplikasi sebenar berubah.
+  # Perubahan pada docs, README, sumber Tailwind, dan package files tidak mencetuskan deploy.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)docs' ':(exclude)README.md' ':(exclude)src' ':(exclude)package.json' ':(exclude)package-lock.json' ':(exclude)tailwind.config.js' ':(exclude).gitignore'"
+
+[context.deploy-preview]
+  ignore = "exit 0"
+
+[context.branch-deploy]
+  ignore = "exit 0"

@@ -431,6 +431,719 @@
      "ms": "273 hari (1 Jan–30 Sep) mengandaikan akhir tahun Hibiscus 31 Disember. Lembaran jawapan juga mengira elaun pembeli bagi akhir tahun 30 Jun dan 30 Nov; saya tidak mengulanginya."
     }
    ]
+  },
+  {
+   "id": "worked",
+   "icon": "🧪",
+   "title": {
+    "en": "Worked Examples",
+    "ms": "Contoh Kerja"
+   },
+   "ref": "Example_AA.pdf",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "From Example_AA.pdf (10 questions). Checked against PR 1/2016. Rules used: 50% (clearing, planting, roads, bridges, drains), 20% (workers’ living quarters and welfare buildings), 10% (other farm buildings such as office, mill, godown); charge if disposed within 5 years of the expenditure, equal to all allowances given, proceeds ignored (para 8.1); transmitter’s allowance is time-apportioned to the date of disposal, counting the disposal day (days / 365); the recipient shares the same year’s allowance only if both fall in the same YA, otherwise the balance of that year is disregarded (para 7.2); an election spreads the charge equally over the YAs in which allowances were given, including the year of disposal (para 9). Land and replanting never qualify (replanting is a revenue deduction). Only Q1 has a lecturer answer for every part; where the sheet disagrees with the PR I say so.",
+     "ms": "Daripada Example_AA.pdf (10 soalan). Disemak dengan PR 1/2016. Peraturan: 50% (pembersihan, penanaman, jalan, jambatan, longkang), 20% (kuarters pekerja dan bangunan kebajikan), 10% (bangunan ladang lain seperti pejabat, kilang, gudang); caj jika dilupuskan dalam 5 tahun daripada perbelanjaan, sama dengan semua elaun diberi, hasil jualan diabaikan (para 8.1); elaun pemindah dibahagi mengikut masa hingga tarikh pelupusan, termasuk hari pelupusan (hari / 365); penerima berkongsi elaun tahun sama hanya jika kedua-duanya dalam YA sama, jika tidak baki tahun itu diabaikan (para 7.2); pilihan menyebar caj sama rata ke atas YA yang elaun diberi, termasuk tahun pelupusan (para 9). Tanah dan penanaman semula tidak layak (penanaman semula ialah potongan hasil). Hanya Q1 mempunyai jawapan pensyarah bagi setiap bahagian; jika lembaran bercanggah dengan PR saya nyatakan."
+    },
+    {
+     "k": "h",
+     "en": "Q1: BioBloom Farm",
+     "ms": "Q1: BioBloom Farm"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "YA2023",
+       "YA2024",
+       "Reason"
+      ],
+      "ms": [
+       "Item",
+       "YA2023",
+       "YA2024",
+       "Sebab"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(i) Land 25,000",
+        "Nil",
+        "Nil",
+        "Land never qualifies"
+       ],
+       "ms": [
+        "(i) Tanah 25,000",
+        "Nil",
+        "Nil",
+        "Tanah tidak pernah layak"
+       ]
+      },
+      {
+       "en": [
+        "(ii) Mill 300,000 (10%)",
+        "30,000",
+        "30,000",
+        "Farm building"
+       ],
+       "ms": [
+        "(ii) Kilang 300,000 (10%)",
+        "30,000",
+        "30,000",
+        "Bangunan ladang"
+       ]
+      },
+      {
+       "en": [
+        "(iii) Clearing 10,000 (50%)",
+        "5,000",
+        "5,000",
+        "Two years at 50%"
+       ],
+       "ms": [
+        "(iii) Pembersihan 10,000 (50%)",
+        "5,000",
+        "5,000",
+        "Dua tahun pada 50%"
+       ]
+      },
+      {
+       "en": [
+        "(iv) Planting 8,000 (50%)",
+        "4,000",
+        "4,000",
+        "New planting"
+       ],
+       "ms": [
+        "(iv) Penanaman 8,000 (50%)",
+        "4,000",
+        "4,000",
+        "Penanaman baharu"
+       ]
+      },
+      {
+       "en": [
+        "(v) Bridge 60,000 (50%)",
+        "",
+        "30,000",
+        "Incurred in 2024"
+       ],
+       "ms": [
+        "(v) Jambatan 60,000 (50%)",
+        "",
+        "30,000",
+        "Ditanggung pada 2024"
+       ]
+      },
+      {
+       "en": [
+        "(vi) Shed 12,000 (10%)",
+        "",
+        "1,200",
+        "Farm building"
+       ],
+       "ms": [
+        "(vi) Bangsal 12,000 (10%)",
+        "",
+        "1,200",
+        "Bangunan ladang"
+       ]
+      },
+      {
+       "en": [
+        "(vii) Worker accommodation 140,000 (20%)",
+        "",
+        "28,000",
+        "On the farm"
+       ],
+       "ms": [
+        "(vii) Penginapan pekerja 140,000 (20%)",
+        "",
+        "28,000",
+        "Di ladang"
+       ]
+      },
+      {
+       "en": [
+        "(viii) Manager’s house in town",
+        "",
+        "Nil",
+        "Not on the farm, so it keeps its value if the farm stops (PR 3)"
+       ],
+       "ms": [
+        "(viii) Rumah pengurus di bandar",
+        "",
+        "Nil",
+        "Bukan di ladang, jadi ia kekal bernilai jika ladang berhenti (PR 3)"
+       ]
+      },
+      {
+       "en": [
+        "(ix) Replanting 2,000",
+        "",
+        "Nil",
+        "Revenue deduction, not an allowance"
+       ],
+       "ms": [
+        "(ix) Penanaman semula 2,000",
+        "",
+        "Nil",
+        "Potongan hasil, bukan elaun"
+       ]
+      },
+      {
+       "en": [
+        "Total",
+        "39,000",
+        "98,200",
+        ""
+       ],
+       "ms": [
+        "Jumlah",
+        "39,000",
+        "98,200",
+        ""
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "(b) Mill sold 10.1.2026 (within 5 years of 2023). YA2026 allowance to BBF = 10/365 × 30,000 = 822\nCharge = 30,000 + 30,000 + 30,000 + 822 = RM90,822 (the RM180,000 price is not used)\n(c) Sold in 2030: more than 5 years after the 2023 expenditure, so no charge.",
+     "ms": "(b) Kilang dijual 10.1.2026 (dalam 5 tahun daripada 2023). Elaun YA2026 kepada BBF = 10/365 × 30,000 = 822\nCaj = 30,000 + 30,000 + 30,000 + 822 = RM90,822 (harga RM180,000 tidak digunakan)\n(c) Dijual 2030: lebih 5 tahun selepas perbelanjaan 2023, jadi tiada caj."
+    },
+    {
+     "k": "note",
+     "en": "Q1 matches the lecturer’s answer.",
+     "ms": "Q1 sepadan dengan jawapan pensyarah."
+    },
+    {
+     "k": "h",
+     "en": "Q2: Sunleaf Plantations and Terra Estate",
+     "ms": "Q2: Sunleaf Plantations dan Terra Estate"
+    },
+    {
+     "k": "p",
+     "en": "No lecturer answer. SPSB year end 30 June; sold 31.12.2022 (YA2023, BP 1.7.2022–30.6.2023). TESB year end 31 March: BP 1.4.2022–31.3.2023 is also YA2023, so the same-year apportionment applies. Days 1.7.2022–31.12.2022 = 184.",
+     "ms": "Tiada jawapan pensyarah. SPSB akhir tahun 30 Jun; dijual 31.12.2022 (YA2023, TP 1.7.2022–30.6.2023). TESB akhir tahun 31 Mac: TP 1.4.2022–31.3.2023 juga YA2023, jadi pengagihan tahun sama terpakai. Hari 1.7.2022–31.12.2022 = 184."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Qualifies?",
+       "Allowances to SPSB"
+      ],
+      "ms": [
+       "Item",
+       "Layak?",
+       "Elaun kepada SPSB"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Planting 35,500 (1.5.2019, YA2019)",
+        "Yes, 50%",
+        "YA2019 17,750; YA2020 17,750"
+       ],
+       "ms": [
+        "Penanaman 35,500 (1.5.2019, YA2019)",
+        "Ya, 50%",
+        "YA2019 17,750; YA2020 17,750"
+       ]
+      },
+      {
+       "en": [
+        "Estate office 10,000 (1.8.2019, YA2020)",
+        "Yes, 10% = 1,000",
+        "YA2020, 2021, 2022: 1,000 each; YA2023: 184/365 × 1,000 = 504.11"
+       ],
+       "ms": [
+        "Pejabat estet 10,000 (1.8.2019, YA2020)",
+        "Ya, 10% = 1,000",
+        "YA2020, 2021, 2022: 1,000 setiap satu; YA2023: 184/365 × 1,000 = 504.11"
+       ]
+      },
+      {
+       "en": [
+        "Quarters 60,000 (15.9.2020, YA2021)",
+        "Yes, 20% = 12,000",
+        "YA2021, 2022: 12,000 each; YA2023: 184/365 × 12,000 = 6,049.32"
+       ],
+       "ms": [
+        "Kuarters 60,000 (15.9.2020, YA2021)",
+        "Ya, 20% = 12,000",
+        "YA2021, 2022: 12,000 setiap satu; YA2023: 184/365 × 12,000 = 6,049.32"
+       ]
+      },
+      {
+       "en": [
+        "Replanting 19,000 (1.1.2021)",
+        "No",
+        "Revenue deduction under s34(6)(d)"
+       ],
+       "ms": [
+        "Penanaman semula 19,000 (1.1.2021)",
+        "Tidak",
+        "Potongan hasil di bawah s34(6)(d)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Charge on the sale in YA2023 (all assets within 5 years; the prices are ignored):\nPlanting 35,500 + office (3,000 + 504.11 = 3,504.11) + quarters (24,000 + 6,049.32 = 30,049.32) = RM69,053.43 if not spread\n\nWith the election (equal share over the YAs in which allowances were given):\nPlanting 35,500 / 2 YAs (2019, 2020) = 17,750 each\nOffice 3,504.11 / 4 YAs (2020–2023) = 876.03 each\nQuarters 30,049.32 / 3 YAs (2021–2023) = 10,016.44 each\nYA2019: 17,750; YA2020: 18,626.03; YA2021: 10,892.47; YA2022: 10,892.47; YA2023: 10,892.47\n\nTESB (YA2023): office 1,000 − 504.11 = 495.89; quarters 12,000 − 6,049.32 = 5,950.68; planting nil (allowances already used up)\nYA2024 to YA2026: office 1,000 a year; quarters 12,000 in YA2024 and YA2025, nil in YA2026 (its 5 years end YA2025). The price TESB paid is ignored.",
+     "ms": "Caj atas jualan dalam YA2023 (semua aset dalam 5 tahun; harga diabaikan):\nPenanaman 35,500 + pejabat (3,000 + 504.11 = 3,504.11) + kuarters (24,000 + 6,049.32 = 30,049.32) = RM69,053.43 jika tidak disebar\n\nDengan pilihan (bahagian sama rata ke atas YA yang elaun diberi):\nPenanaman 35,500 / 2 YA (2019, 2020) = 17,750 setiap satu\nPejabat 3,504.11 / 4 YA (2020–2023) = 876.03 setiap satu\nKuarters 30,049.32 / 3 YA (2021–2023) = 10,016.44 setiap satu\nYA2019: 17,750; YA2020: 18,626.03; YA2021: 10,892.47; YA2022: 10,892.47; YA2023: 10,892.47\n\nTESB (YA2023): pejabat 1,000 − 504.11 = 495.89; kuarters 12,000 − 6,049.32 = 5,950.68; penanaman tiada (elaun sudah habis)\nYA2024 hingga YA2026: pejabat 1,000 setahun; kuarters 12,000 pada YA2024 dan YA2025, tiada pada YA2026 (5 tahunnya tamat YA2025). Harga yang TESB bayar diabaikan."
+    },
+    {
+     "k": "h",
+     "en": "Q3: Dense Palm Oil Sdn Bhd (YA2026)",
+     "ms": "Q3: Dense Palm Oil Sdn Bhd (YA2026)"
+    },
+    {
+     "k": "p",
+     "en": "No lecturer answer. Year end 31 March: July 2023 and February 2024 fall in YA2024 (1.4.2023–31.3.2024); February 2025 falls in YA2025. The disposal in February 2026 is in YA2026 (1.4.2025–31.3.2026); I take it as 28.2.2026, so the days from 1.4.2025 are 334.",
+     "ms": "Tiada jawapan pensyarah. Akhir tahun 31 Mac: Julai 2023 dan Februari 2024 jatuh dalam YA2024 (1.4.2023–31.3.2024); Februari 2025 dalam YA2025. Pelupusan Februari 2026 dalam YA2026 (1.4.2025–31.3.2026); saya ambil 28.2.2026, jadi hari dari 1.4.2025 ialah 334."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "RM",
+       "Treatment"
+      ],
+      "ms": [
+       "Item",
+       "RM",
+       "Layanan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Cutting forest trees",
+        "300,000",
+        "Clearing, 50%"
+       ],
+       "ms": [
+        "Menebang pokok hutan",
+        "300,000",
+        "Pembersihan, 50%"
+       ]
+      },
+      {
+       "en": [
+        "Seedlings 65,000, fertilizer and insecticides 145,000, planting 100,000",
+        "310,000",
+        "New planting, 50% (fertilizer in the establishment stage is treated as part of planting)"
+       ],
+       "ms": [
+        "Anak benih 65,000, baja dan racun serangga 145,000, penanaman 100,000",
+        "310,000",
+        "Penanaman baharu, 50% (baja pada peringkat penubuhan dianggap sebahagian penanaman)"
+       ]
+      },
+      {
+       "en": [
+        "Roads, bridges and drains",
+        "500,000",
+        "50%"
+       ],
+       "ms": [
+        "Jalan, jambatan dan longkang",
+        "500,000",
+        "50%"
+       ]
+      },
+      {
+       "en": [
+        "Fencing",
+        "410,000",
+        "Nil: not in the PR’s list of qualifying expenditure (PR 1/2016 para 5.1)"
+       ],
+       "ms": [
+        "Pagar",
+        "410,000",
+        "Nil: tiada dalam senarai perbelanjaan layak PR (PR 1/2016 para 5.1)"
+       ]
+      },
+      {
+       "en": [
+        "Office building",
+        "62,000",
+        "10%"
+       ],
+       "ms": [
+        "Bangunan pejabat",
+        "62,000",
+        "10%"
+       ]
+      },
+      {
+       "en": [
+        "Fruit sorting building and loading bay",
+        "100,000",
+        "10% (farm building)"
+       ],
+       "ms": [
+        "Bangunan sortir buah dan ruang muat",
+        "100,000",
+        "10% (bangunan ladang)"
+       ]
+      },
+      {
+       "en": [
+        "Workers’ accommodation",
+        "650,000",
+        "20%"
+       ],
+       "ms": [
+        "Penginapan pekerja",
+        "650,000",
+        "20%"
+       ]
+      },
+      {
+       "en": [
+        "Administration staff accommodation",
+        "150,000",
+        "20% (living accommodation for a person employed in the farm; incurred YA2025)"
+       ],
+       "ms": [
+        "Penginapan kakitangan pentadbiran",
+        "150,000",
+        "20% (penginapan untuk orang bekerja di ladang; ditanggung YA2025)"
+       ]
+      },
+      {
+       "en": [
+        "Land 3,000,000 and legal fee and stamp duty 550,000",
+        "Nil",
+        "Cost of land and its legal costs"
+       ],
+       "ms": [
+        "Tanah 3,000,000 dan fi guaman serta duti setem 550,000",
+        "Nil",
+        "Kos tanah dan kos guamannya"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "(a) YA2026 agriculture allowance\n50% items (clearing, planting, roads): fully claimed in YA2024 and YA2025: nil\nFruit sorting building: 10% × 100,000 = 10,000\nWorkers’ accommodation: 20% × 650,000 = 130,000 (third year)\nOffice (sold): 334/365 × 6,200 = 5,673.42\nAdministration accommodation (sold): 334/365 × 30,000 = 27,452.05\nTotal = RM173,125.47\n\n(b) Statutory income YA2026 = adjusted income 563,000 − 173,125.47 = RM389,874.53, before any charge\n\n(c) Charge (disposal within 5 years):\nOffice: 6,200 + 6,200 + 5,673.42 = 18,073.42\nAdministration accommodation: 30,000 + 27,452.05 = 57,452.05\nTotal charge = RM75,525.47. Without the election it all falls in YA2026, so statutory income would be RM465,400.00\n\nWith the election: office 18,073.42 / 3 YAs (2024–2026) = 6,024.47; accommodation 57,452.05 / 2 YAs (2025–2026) = 28,726.03\nYA2024: 6,024.47; YA2025: 34,750.50; YA2026: 34,750.50\nYA2026 statutory income = 389,874.53 + 34,750.50 = RM424,625.03 (YA2024 and YA2025 are reassessed)",
+     "ms": "(a) Elaun pertanian YA2026\nItem 50% (pembersihan, penanaman, jalan): dituntut sepenuhnya dalam YA2024 dan YA2025: tiada\nBangunan sortir buah: 10% × 100,000 = 10,000\nPenginapan pekerja: 20% × 650,000 = 130,000 (tahun ketiga)\nPejabat (dijual): 334/365 × 6,200 = 5,673.42\nPenginapan pentadbiran (dijual): 334/365 × 30,000 = 27,452.05\nJumlah = RM173,125.47\n\n(b) Pendapatan berkanun YA2026 = pendapatan diselaraskan 563,000 − 173,125.47 = RM389,874.53, sebelum sebarang caj\n\n(c) Caj (pelupusan dalam 5 tahun):\nPejabat: 6,200 + 6,200 + 5,673.42 = 18,073.42\nPenginapan pentadbiran: 30,000 + 27,452.05 = 57,452.05\nJumlah caj = RM75,525.47. Tanpa pilihan semuanya jatuh dalam YA2026, jadi pendapatan berkanun ialah RM465,400.00\n\nDengan pilihan: pejabat 18,073.42 / 3 YA (2024–2026) = 6,024.47; penginapan 57,452.05 / 2 YA (2025–2026) = 28,726.03\nYA2024: 6,024.47; YA2025: 34,750.50; YA2026: 34,750.50\nPendapatan berkanun YA2026 = 389,874.53 + 34,750.50 = RM424,625.03 (YA2024 dan YA2025 ditaksir semula)"
+    },
+    {
+     "k": "note",
+     "en": "Judgement calls: fencing is not in the PR’s list, so I gave nil; fertilizer is put with planting. If your class treats either differently, the totals change. Check these two with your lecturer.",
+     "ms": "Pertimbangan: pagar tiada dalam senarai PR, jadi saya beri nil; baja dimasukkan bersama penanaman. Jika kelas anda melayannya berbeza, jumlah berubah. Sahkan dua perkara ini dengan pensyarah."
+    },
+    {
+     "k": "h",
+     "en": "Q4: Maroon Sdn Bhd and Violet Bhd",
+     "ms": "Q4: Maroon Sdn Bhd dan Violet Bhd"
+    },
+    {
+     "k": "p",
+     "en": "Maroon year end 30 June; sold 29.7.2025 in YA2026 (1.7.2025–30.6.2026), so 29 days. Violet year end 31 December: the sale falls in its BP 1.1.2025–31.12.2025, which is YA2025, a different YA.",
+     "ms": "Maroon akhir tahun 30 Jun; dijual 29.7.2025 dalam YA2026 (1.7.2025–30.6.2026), jadi 29 hari. Violet akhir tahun 31 Disember: jualan jatuh dalam TP 1.1.2025–31.12.2025, iaitu YA2025, YA yang berbeza."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Treatment",
+       "Maroon allowances"
+      ],
+      "ms": [
+       "Item",
+       "Layanan",
+       "Elaun Maroon"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Land 120,000",
+        "Nil",
+        "-"
+       ],
+       "ms": [
+        "Tanah 120,000",
+        "Nil",
+        "-"
+       ]
+      },
+      {
+       "en": [
+        "Clearing 35,000 (YA2023)",
+        "50%",
+        "17,500 in YA2023 and YA2024"
+       ],
+       "ms": [
+        "Pembersihan 35,000 (YA2023)",
+        "50%",
+        "17,500 dalam YA2023 dan YA2024"
+       ]
+      },
+      {
+       "en": [
+        "Seedlings 28,000 (YA2023)",
+        "50%",
+        "14,000 in YA2023 and YA2024"
+       ],
+       "ms": [
+        "Anak benih 28,000 (YA2023)",
+        "50%",
+        "14,000 dalam YA2023 dan YA2024"
+       ]
+      },
+      {
+       "en": [
+        "Container for workers 40,000 (10.11.2023, YA2024)",
+        "20% = 8,000",
+        "YA2024 8,000; YA2025 8,000; YA2026 29/365 × 8,000 = 635.62"
+       ],
+       "ms": [
+        "Kontena pekerja 40,000 (10.11.2023, YA2024)",
+        "20% = 8,000",
+        "YA2024 8,000; YA2025 8,000; YA2026 29/365 × 8,000 = 635.62"
+       ]
+      },
+      {
+       "en": [
+        "Container for office 24,000 (4.8.2024, YA2025)",
+        "10% = 2,400",
+        "YA2025 2,400; YA2026 29/365 × 2,400 = 190.68"
+       ],
+       "ms": [
+        "Kontena pejabat 24,000 (4.8.2024, YA2025)",
+        "10% = 2,400",
+        "YA2025 2,400; YA2026 29/365 × 2,400 = 190.68"
+       ]
+      },
+      {
+       "en": [
+        "Harvesting machine 52,000",
+        "Capital allowance",
+        "Plant, not agriculture allowance"
+       ],
+       "ms": [
+        "Mesin penuai 52,000",
+        "Elaun modal",
+        "Loji, bukan elaun pertanian"
+       ]
+      },
+      {
+       "en": [
+        "Second seedlings 33,000 (9.5.2025)",
+        "Nil",
+        "Replanting of the same crop: revenue deduction, not an allowance"
+       ],
+       "ms": [
+        "Anak benih kali kedua 33,000 (9.5.2025)",
+        "Nil",
+        "Penanaman semula tanaman sama: potongan hasil, bukan elaun"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "(b) Charge (sold within 5 years; the RM640,000 price is ignored):\nClearing 35,000 + seedlings 28,000 + workers’ container (8,000 + 8,000 + 635.62 = 16,635.62) + office container (2,400 + 190.68 = 2,590.68) = RM82,226.30\nWith the election, each item over its own number of YAs:\nYA2023: 17,500 + 14,000 = 31,500\nYA2024: 17,500 + 14,000 + 5,545.21 = 37,045.21\nYA2025: 5,545.21 + 1,295.34 = 6,840.55\nYA2026: 5,545.21 + 1,295.34 = 6,840.55\n\nViolet: different YA from Maroon’s, so the balance of YA2025 is disregarded (PR 1/2016 para 7.2): YA2025 nil. For YA2026 I also give nil, because that year’s balance belongs to Maroon’s apportionment. From YA2027 Violet takes the remaining annual allowances: 8,000 (container for workers, to YA2028) and 2,400 (office).",
+     "ms": "(b) Caj (dijual dalam 5 tahun; harga RM640,000 diabaikan):\nPembersihan 35,000 + anak benih 28,000 + kontena pekerja (8,000 + 8,000 + 635.62 = 16,635.62) + kontena pejabat (2,400 + 190.68 = 2,590.68) = RM82,226.30\nDengan pilihan, setiap item atas bilangan YA sendiri:\nYA2023: 17,500 + 14,000 = 31,500\nYA2024: 17,500 + 14,000 + 5,545.21 = 37,045.21\nYA2025: 5,545.21 + 1,295.34 = 6,840.55\nYA2026: 5,545.21 + 1,295.34 = 6,840.55\n\nViolet: YA berbeza daripada Maroon, jadi baki YA2025 diabaikan (PR 1/2016 para 7.2): YA2025 tiada. Bagi YA2026 saya juga beri tiada, kerana baki tahun itu milik pengagihan Maroon. Dari YA2027 Violet mengambil baki elaun tahunan: 8,000 (kontena pekerja, hingga YA2028) dan 2,400 (pejabat)."
+    },
+    {
+     "k": "note",
+     "en": "The lecturer’s Violet row (7,364 and 2,209.32 for YA2026) assumes Maroon and Violet share the same YA. They do not (Violet’s year end is 31 December), so PR 1/2016 para 7.2 does not allow it. The lecturer’s other figures match mine, but the sheet also puts charges of 35,000 and 28,000 in YA2026, which is the unspread amount; under the election they stay in YA2023 and YA2024.",
+     "ms": "Baris Violet pensyarah (7,364 dan 2,209.32 bagi YA2026) menganggap Maroon dan Violet berkongsi YA yang sama. Ia tidak (akhir tahun Violet ialah 31 Disember), jadi PR 1/2016 para 7.2 tidak membenarkannya. Angka pensyarah lain sepadan dengan saya, tetapi lembaran juga meletakkan caj 35,000 dan 28,000 dalam YA2026, iaitu jumlah tanpa sebaran; di bawah pilihan ia kekal dalam YA2023 dan YA2024."
+    },
+    {
+     "k": "h",
+     "en": "Q5: Lai Lai Sdn Bhd and Bye Bye Sdn Bhd",
+     "ms": "Q5: Lai Lai Sdn Bhd dan Bye Bye Sdn Bhd"
+    },
+    {
+     "k": "p",
+     "en": "No lecturer answer. Lai Lai year end 30 June; sold 21.8.2025 in YA2026 (52 days from 1.7.2025). Bye Bye year end 31 December: the sale is in its YA2025, a different YA.",
+     "ms": "Tiada jawapan pensyarah. Lai Lai akhir tahun 30 Jun; dijual 21.8.2025 dalam YA2026 (52 hari dari 1.7.2025). Bye Bye akhir tahun 31 Disember: jualan dalam YA2025 mereka, YA yang berbeza."
+    },
+    {
+     "k": "calc",
+     "en": "Qualifying: clearing 16,000 (YA2023, 50% = 8,000 × 2); seedling and fertilizing 7,000 (YA2023, 3,500 × 2); quarters 20,000 (6.7.2023, YA2024, 20% = 4,000); store 10,000 (25.11.2023, YA2024, 10% = 1,000). Land 500,000 does not qualify.\n\nLai Lai allowances (a)\nYA2023: 8,000 + 3,500 = 11,500\nYA2024: 8,000 + 3,500 + 4,000 + 1,000 = 16,500\nYA2025: 4,000 + 1,000 = 5,000\nYA2026: quarters 52/365 × 4,000 = 569.86; store 52/365 × 1,000 = 142.47; total 712.33\nCharge YA2026 (no election) = 16,000 + 7,000 + (4,000 + 4,000 + 569.86) + (1,000 + 1,000 + 142.47) = RM33,712.33\n\n(b) Bye Bye: its sale year is YA2025, different from Lai Lai’s YA2026, so the balance is disregarded: nil for YA2025 and YA2026. From YA2027 it claims quarters 4,000 (to YA2028) and store 1,000 a year.",
+     "ms": "Layak: pembersihan 16,000 (YA2023, 50% = 8,000 × 2); anak benih dan baja 7,000 (YA2023, 3,500 × 2); kuarters 20,000 (6.7.2023, YA2024, 20% = 4,000); stor 10,000 (25.11.2023, YA2024, 10% = 1,000). Tanah 500,000 tidak layak.\n\nElaun Lai Lai (a)\nYA2023: 8,000 + 3,500 = 11,500\nYA2024: 8,000 + 3,500 + 4,000 + 1,000 = 16,500\nYA2025: 4,000 + 1,000 = 5,000\nYA2026: kuarters 52/365 × 4,000 = 569.86; stor 52/365 × 1,000 = 142.47; jumlah 712.33\nCaj YA2026 (tanpa pilihan) = 16,000 + 7,000 + (4,000 + 4,000 + 569.86) + (1,000 + 1,000 + 142.47) = RM33,712.33\n\n(b) Bye Bye: tahun jualan ialah YA2025, berbeza daripada YA2026 Lai Lai, jadi baki diabaikan: tiada bagi YA2025 dan YA2026. Dari YA2027 ia menuntut kuarters 4,000 (hingga YA2028) dan stor 1,000 setahun."
+    },
+    {
+     "k": "calc",
+     "en": "(c) Total income\nYA2025: adjusted income 123,000 − allowance 5,000 = statutory income 118,000; + fixed deposit income 10,000 = aggregate income 128,000; − donation 4,000 (within 10% of 128,000 = 12,800) = total income RM124,000\n\nYA2026: adjusted loss (48,000) − allowance 712.33 + charge 33,712.33 = business loss (15,000)\nThe loss is set off against the deposit income 12,000, so aggregate income = nil; unabsorbed loss 3,000 is carried forward\nThe donation 6,000 cannot be deducted (no aggregate income) and is lost\nTotal income = RM nil",
+     "ms": "(c) Jumlah pendapatan\nYA2025: pendapatan diselaraskan 123,000 − elaun 5,000 = pendapatan berkanun 118,000; + pendapatan deposit tetap 10,000 = pendapatan agregat 128,000; − derma 4,000 (dalam 10% daripada 128,000 = 12,800) = jumlah pendapatan RM124,000\n\nYA2026: kerugian diselaraskan (48,000) − elaun 712.33 + caj 33,712.33 = kerugian perniagaan (15,000)\nKerugian ditolak daripada pendapatan deposit 12,000, jadi pendapatan agregat = nil; kerugian tidak terserap 3,000 dibawa ke hadapan\nDerma 6,000 tidak boleh ditolak (tiada pendapatan agregat) dan hilang\nJumlah pendapatan = RM nil"
+    },
+    {
+     "k": "h",
+     "en": "Q6 and Q9: Hibiscus / Hijau Sdn Bhd (same facts)",
+     "ms": "Q6 dan Q9: Hibiscus / Hijau Sdn Bhd (fakta sama)"
+    },
+    {
+     "k": "p",
+     "en": "Six quarters costing RM80,000 used from 1.9.2023 (year end 31 December). On 30.9.2026 three units were sold for RM40,000. Allowance 20% a year; each three units cost 40,000, so 8,000 a year. Days 1.1.2026–30.9.2026 = 273.",
+     "ms": "Enam kuarters berharga RM80,000 digunakan dari 1.9.2023 (akhir tahun 31 Disember). Pada 30.9.2026 tiga unit dijual pada RM40,000. Elaun 20% setahun; setiap tiga unit berharga 40,000, jadi 8,000 setahun. Hari 1.1.2026–30.9.2026 = 273."
+    },
+    {
+     "k": "calc",
+     "en": "(i) Allowances: YA2023, 2024, 2025: 16,000 each (20% × 80,000)\nYA2026: 3 units kept 8,000 + 3 units sold 273/365 × 8,000 = 5,984 = RM13,984\n\n(ii) The sale is within 5 years, so a charge arises on the 3 units sold. No election: 8,000 × 3 + 5,984 = RM29,984 in YA2026 (the RM40,000 price is ignored)\n\n(iii) With the election: 29,984 / 4 YAs (2023–2026) = RM7,496 in each of YA2023, 2024, 2025 and 2026\n\n(iv) Rose / Ria:\n(a) Year end 30 June: BP 1.7.2025–30.6.2026 ends before the 30.9.2026 purchase, so nil for YA2026. The purchase falls in its YA2027, a different YA from HSB’s YA2026, so under PR 1/2016 para 7.2 the 92-day balance (2,016) is disregarded\n(b) Year end 30 November: BP 1.12.2025–30.11.2026 is YA2026, the same as HSB, so Rose takes the rest of the year: 8,000 − 5,984 = RM2,016",
+     "ms": "(i) Elaun: YA2023, 2024, 2025: 16,000 setiap satu (20% × 80,000)\nYA2026: 3 unit disimpan 8,000 + 3 unit dijual 273/365 × 8,000 = 5,984 = RM13,984\n\n(ii) Jualan dalam 5 tahun, jadi caj timbul atas 3 unit dijual. Tanpa pilihan: 8,000 × 3 + 5,984 = RM29,984 dalam YA2026 (harga RM40,000 diabaikan)\n\n(iii) Dengan pilihan: 29,984 / 4 YA (2023–2026) = RM7,496 dalam setiap YA2023, 2024, 2025 dan 2026\n\n(iv) Rose / Ria:\n(a) Akhir tahun 30 Jun: TP 1.7.2025–30.6.2026 tamat sebelum belian 30.9.2026, jadi tiada bagi YA2026. Belian jatuh dalam YA2027 mereka, YA berbeza daripada YA2026 HSB, jadi di bawah PR 1/2016 para 7.2 baki 92 hari (2,016) diabaikan\n(b) Akhir tahun 30 November: TP 1.12.2025–30.11.2026 ialah YA2026, sama seperti HSB, jadi Rose mengambil baki tahun itu: 8,000 − 5,984 = RM2,016"
+    },
+    {
+     "k": "note",
+     "en": "Q6’s answer sheet applies the charge to all six units (RM59,967.12 and 16,000 a year). Only three units were sold, so only their allowances are charged; the Q9 sheet (RM29,984; RM7,496) is the correct version and I follow it. The Q9 sheet gives 2,016 for the 30 June recipient too, which PR 7.2 does not allow when the years of assessment differ.",
+     "ms": "Lembaran jawapan Q6 mengenakan caj ke atas kesemua enam unit (RM59,967.12 dan 16,000 setahun). Hanya tiga unit dijual, jadi hanya elaunnya dicaj; lembaran Q9 (RM29,984; RM7,496) ialah versi yang betul dan saya ikut. Lembaran Q9 juga memberi 2,016 bagi penerima 30 Jun, yang tidak dibenarkan PR 7.2 apabila YA berbeza."
+    },
+    {
+     "k": "h",
+     "en": "Q7: Dusun Baik Sdn Bhd and Star Farm Sdn Bhd",
+     "ms": "Q7: Dusun Baik Sdn Bhd dan Star Farm Sdn Bhd"
+    },
+    {
+     "k": "p",
+     "en": "Year end 30 November, first accounts 1.4.2022–30.11.2022. YA2022 = 1.4.2022–30.11.2022; YA2023 = 1.12.2022–30.11.2023; YA2024 = 1.12.2023–30.11.2024; YA2025 = 1.12.2024–30.11.2025; YA2026 = 1.12.2025 to 28.2.2026 (business ceases). The answer sheet’s basis periods (1 October to 30 September) do not match this year end, so I recomputed.",
+     "ms": "Akhir tahun 30 November, akaun pertama 1.4.2022–30.11.2022. YA2022 = 1.4.2022–30.11.2022; YA2023 = 1.12.2022–30.11.2023; YA2024 = 1.12.2023–30.11.2024; YA2025 = 1.12.2024–30.11.2025; YA2026 = 1.12.2025 hingga 28.2.2026 (perniagaan berhenti). Tempoh asas pada lembaran jawapan (1 Oktober hingga 30 September) tidak sepadan dengan akhir tahun ini, jadi saya kira semula."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "Rate",
+       "Allowances"
+      ],
+      "ms": [
+       "Item",
+       "Kadar",
+       "Elaun"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Land 1,500,000; tractor 95,000",
+        "Nil",
+        "Land never qualifies; tractor is plant (capital allowance)"
+       ],
+       "ms": [
+        "Tanah 1,500,000; traktor 95,000",
+        "Nil",
+        "Tanah tidak layak; traktor ialah loji (elaun modal)"
+       ]
+      },
+      {
+       "en": [
+        "Clearing 200,000 (21.8.2022, YA2022)",
+        "50%",
+        "YA2022 100,000; YA2023 100,000"
+       ],
+       "ms": [
+        "Pembersihan 200,000 (21.8.2022, YA2022)",
+        "50%",
+        "YA2022 100,000; YA2023 100,000"
+       ]
+      },
+      {
+       "en": [
+        "Office 120,000 (1.2.2023, YA2023)",
+        "10% = 12,000",
+        "YA2023 12,000; YA2024 12,000; YA2025 151/365 × 12,000 = 4,964.38 (sold 30.4.2025)"
+       ],
+       "ms": [
+        "Pejabat 120,000 (1.2.2023, YA2023)",
+        "10% = 12,000",
+        "YA2023 12,000; YA2024 12,000; YA2025 151/365 × 12,000 = 4,964.38 (dijual 30.4.2025)"
+       ]
+      },
+      {
+       "en": [
+        "Planting 350,000 (18.3.2023, YA2023)",
+        "50%",
+        "YA2023 175,000; YA2024 175,000"
+       ],
+       "ms": [
+        "Penanaman 350,000 (18.3.2023, YA2023)",
+        "50%",
+        "YA2023 175,000; YA2024 175,000"
+       ]
+      },
+      {
+       "en": [
+        "Quarters 85,000 (1.12.2023, YA2024)",
+        "20% = 17,000",
+        "YA2024 17,000; YA2025 17,000; YA2026 90/365 × 17,000 = 4,191.78 (sold 28.2.2026)"
+       ],
+       "ms": [
+        "Kuarters 85,000 (1.12.2023, YA2024)",
+        "20% = 17,000",
+        "YA2024 17,000; YA2025 17,000; YA2026 90/365 × 17,000 = 4,191.78 (dijual 28.2.2026)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Charge on the office, YA2025: 12,000 + 12,000 + 4,964.38 = 28,964.38\nCharge on the plantation, YA2026: clearing 200,000 + planting 350,000 + quarters (17,000 + 17,000 + 4,191.78 = 38,191.78) = 588,191.78\n(The sale prices are ignored; all sales are within 5 years.)\n\n(1) With the election: each item is spread over the YAs in which allowances were given\nOffice 28,964.38 / 3 YAs (2023–2025) = 9,654.79 in YA2023, YA2024, YA2025\nClearing 100,000 in YA2022 and YA2023\nPlanting 175,000 in YA2023 and YA2024\nQuarters 38,191.78 / 3 YAs (2024–2026) = 12,730.59 in YA2024, YA2025, YA2026\n\n(2) No election: YA2025 charge 28,964.38; YA2026 charge 588,191.78\n\nStar Farm (year end 31 January): the office bought 30.4.2025 falls in its BP 1.2.2025–31.1.2026 (YA2026), a different YA from Dusun’s YA2025, so the balance is disregarded: nil up to YA2026. The plantation bought 28.2.2026 falls in its YA2027, beyond the question.",
+     "ms": "Caj atas pejabat, YA2025: 12,000 + 12,000 + 4,964.38 = 28,964.38\nCaj atas ladang, YA2026: pembersihan 200,000 + penanaman 350,000 + kuarters (17,000 + 17,000 + 4,191.78 = 38,191.78) = 588,191.78\n(Harga jualan diabaikan; semua jualan dalam 5 tahun.)\n\n(1) Dengan pilihan: setiap item disebar atas YA yang elaun diberi\nPejabat 28,964.38 / 3 YA (2023–2025) = 9,654.79 dalam YA2023, YA2024, YA2025\nPembersihan 100,000 dalam YA2022 dan YA2023\nPenanaman 175,000 dalam YA2023 dan YA2024\nKuarters 38,191.78 / 3 YA (2024–2026) = 12,730.59 dalam YA2024, YA2025, YA2026\n\n(2) Tanpa pilihan: caj YA2025 28,964.38; caj YA2026 588,191.78\n\nStar Farm (akhir tahun 31 Januari): pejabat dibeli 30.4.2025 jatuh dalam TP 1.2.2025–31.1.2026 (YA2026), YA berbeza daripada YA2025 Dusun, jadi baki diabaikan: tiada hingga YA2026. Ladang dibeli 28.2.2026 jatuh dalam YA2027, di luar soalan."
+    },
+    {
+     "k": "note",
+     "en": "The lecturer’s sheet uses 211/365 for the office and shows Star Farm claiming 5,063 in YA2026; both rest on the wrong basis periods and on the same-year assumption. I recomputed with the actual year ends.",
+     "ms": "Lembaran pensyarah menggunakan 211/365 bagi pejabat dan menunjukkan Star Farm menuntut 5,063 dalam YA2026; kedua-duanya berdasarkan tempoh asas yang salah dan andaian tahun sama. Saya kira semula dengan akhir tahun sebenar."
+    },
+    {
+     "k": "h",
+     "en": "Q8: Semalu Bhd",
+     "ms": "Q8: Semalu Bhd"
+    },
+    {
+     "k": "p",
+     "en": "Expenditure in the year ended 30.9.2024 (YA2024). Sold 31.7.2026 in YA2026 (1.10.2025–30.9.2026): days 1.10.2025–31.7.2026 = 304. The sheet leaves out the planting; seedlings qualify as new planting, so I include them.",
+     "ms": "Perbelanjaan dalam tahun berakhir 30.9.2024 (YA2024). Dijual 31.7.2026 dalam YA2026 (1.10.2025–30.9.2026): hari 1.10.2025–31.7.2026 = 304. Lembaran tidak memasukkan penanaman; anak benih layak sebagai penanaman baharu, jadi saya masukkan."
+    },
+    {
+     "k": "calc",
+     "en": "Land clearing 100,000 (50%): 50,000 in YA2024 and YA2025\nPlanting 240,000 (50%): 120,000 in YA2024 and YA2025\nWarehouse 60,000 (10%): 6,000 in YA2024 and YA2025; YA2026 304/365 × 6,000 = 4,997.26\n\nCharge (within 5 years; price 650,000 ignored): 100,000 + 240,000 + (6,000 + 6,000 + 4,997.26 = 16,997.26) = RM356,997.26\nWith the election: clearing 50,000 and planting 120,000 in each of YA2024 and YA2025; warehouse 16,997.26 / 3 YAs = 5,665.75 in YA2024, YA2025, YA2026\nYA2024 and YA2025: charge 175,665.75 each; YA2026: charge 5,665.75, allowance 4,997.26",
+     "ms": "Pembersihan tanah 100,000 (50%): 50,000 dalam YA2024 dan YA2025\nPenanaman 240,000 (50%): 120,000 dalam YA2024 dan YA2025\nGudang 60,000 (10%): 6,000 dalam YA2024 dan YA2025; YA2026 304/365 × 6,000 = 4,997.26\n\nCaj (dalam 5 tahun; harga 650,000 diabaikan): 100,000 + 240,000 + (6,000 + 6,000 + 4,997.26 = 16,997.26) = RM356,997.26\nDengan pilihan: pembersihan 50,000 dan penanaman 120,000 dalam setiap YA2024 dan YA2025; gudang 16,997.26 / 3 YA = 5,665.75 dalam YA2024, YA2025, YA2026\nYA2024 dan YA2025: caj 175,665.75 setiap satu; YA2026: caj 5,665.75, elaun 4,997.26"
+    },
+    {
+     "k": "note",
+     "en": "The sheet starts the allowances in YA2025 and counts 303 days; the question says the expenditure was in the year ended 30.9.2024, which is YA2024, and the sale day is counted (304), as in Q1.",
+     "ms": "Lembaran memulakan elaun dalam YA2025 dan mengira 303 hari; soalan menyatakan perbelanjaan dalam tahun berakhir 30.9.2024, iaitu YA2024, dan hari jualan dikira (304), seperti Q1."
+    },
+    {
+     "k": "h",
+     "en": "Q10: Mangguo Estate (MESB) and Mango Montel (MMB)",
+     "ms": "Q10: Mangguo Estate (MESB) dan Mango Montel (MMB)"
+    },
+    {
+     "k": "p",
+     "en": "No lecturer answer. Year end 31 July. (i) MMB’s factory extension: costs that qualify are architect fees for the extension 10,000, legal fees for approval 20,000, interior design 10,000 and construction 570,000 = 610,000; the land and the architect fees for the land are excluded. The showroom is 15% of the area, above 10%, so only 85% qualifies: 518,500. The two living blocks cost 480,000 together, and I assume 240,000 each; the block for clerical and administrative staff does not qualify (para 42(2)), so 240,000.",
+     "ms": "Tiada jawapan pensyarah. Akhir tahun 31 Julai. (i) Sambungan kilang MMB: kos layak ialah fi arkitek sambungan 10,000, fi guaman kelulusan 20,000, reka bentuk dalaman 10,000 dan pembinaan 570,000 = 610,000; tanah dan fi arkitek tanah dikecualikan. Bilik pameran 15% keluasan, melebihi 10%, jadi hanya 85% layak: 518,500. Dua blok kediaman berharga 480,000 bersama, dan saya andaikan 240,000 setiap satu; blok untuk kakitangan perkeranian dan pentadbiran tidak layak (para 42(2)), jadi 240,000."
+    },
+    {
+     "k": "calc",
+     "en": "MMB IBA (YA2023 = 1.8.2022–31.7.2023)\nExtension: QBE 518,500; IA 51,850; AA 15,555\nQuarters for operators: QBE 240,000; IA 24,000; AA 7,200\nYA2023: 51,850 + 15,555 + 24,000 + 7,200 = 98,605\nYA2024 and YA2025: AA 15,555 + 7,200 = 22,755 each\nYA2026 (1.8.2025–31.7.2026): extended factory sold 2.12.2025 for 1,500,000 − 400,000 land = 1,100,000; no AA that year. Allowances given on the extension = 51,850 + 15,555 × 3 = 98,515, residual 419,985, so the sale price is above the residual and the balancing charge is the allowances given: RM98,515\nThe quarters were not said to be sold: AA 7,200 continues only if still used; if the business has ceased, treat them as disposed and compute a balancing adjustment\n\n(ii)(a) MESB agriculture allowances (YA2023 = 1.8.2022–31.7.2023)\nTerracing 100,000 (50%), roads 155,000 (50%), planting 268,000 (50%): 50,000 + 77,500 + 134,000 = 261,500 in YA2023 and YA2024\nLabour accommodation 200,000 (20%) = 40,000: YA2023–2025; YA2026 sold 16.9.2025: 47/365 × 40,000 = 5,150.68\nWarehouse 80,000 (10%) = 8,000: YA2023–2025; YA2026: 47/365 × 8,000 = 1,030.14\nRoad repair 45,000 (6.7.2025): revenue deduction, nil\nTotal allowances: YA2023 309,500; YA2024 309,500; YA2025 48,000; YA2026 6,180.82\nCharge = all allowances given = 673,180.82. With the election it is divided by the number of YAs for each item (terracing, roads, planting over 2 YAs; accommodation and warehouse over 4 YAs):\nYA2023 and YA2024: 50,000 + 77,500 + 134,000 + 31,287.67 + 6,257.53 = 299,045.20 each\nYA2025 and YA2026: 31,287.67 + 6,257.53 = 37,545.20 each\n\n(ii)(b) RTB (assumed to have a 31 July year end, so the same YA2026 as MESB): accommodation 40,000 − 5,150.68 = 34,849.32; warehouse 8,000 − 1,030.14 = 6,969.86; the 50% items are used up. From YA2027: accommodation 40,000 (last year) and warehouse 8,000 a year to YA2032.\n\n(iii) Without the election: the whole RM673,180.82 is taxed in YA2026 alone.",
+     "ms": "IBA MMB (YA2023 = 1.8.2022–31.7.2023)\nSambungan: QBE 518,500; IA 51,850; AA 15,555\nKuarters pengendali: QBE 240,000; IA 24,000; AA 7,200\nYA2023: 51,850 + 15,555 + 24,000 + 7,200 = 98,605\nYA2024 dan YA2025: AA 15,555 + 7,200 = 22,755 setiap satu\nYA2026 (1.8.2025–31.7.2026): kilang diperluas dijual 2.12.2025 pada 1,500,000 − tanah 400,000 = 1,100,000; tiada AA tahun itu. Elaun diberi atas sambungan = 51,850 + 15,555 × 3 = 98,515, baki 419,985, jadi harga jualan melebihi baki dan caj imbangan ialah elaun diberi: RM98,515\nKuarters tidak dinyatakan dijual: AA 7,200 berterusan hanya jika masih digunakan; jika perniagaan telah berhenti, anggap dilupuskan dan kira pelarasan imbangan\n\n(ii)(a) Elaun pertanian MESB (YA2023 = 1.8.2022–31.7.2023)\nTeres 100,000 (50%), jalan 155,000 (50%), penanaman 268,000 (50%): 50,000 + 77,500 + 134,000 = 261,500 dalam YA2023 dan YA2024\nPenginapan buruh 200,000 (20%) = 40,000: YA2023–2025; YA2026 dijual 16.9.2025: 47/365 × 40,000 = 5,150.68\nGudang 80,000 (10%) = 8,000: YA2023–2025; YA2026: 47/365 × 8,000 = 1,030.14\nPembaikan jalan 45,000 (6.7.2025): potongan hasil, tiada\nJumlah elaun: YA2023 309,500; YA2024 309,500; YA2025 48,000; YA2026 6,180.82\nCaj = semua elaun diberi = 673,180.82. Dengan pilihan ia dibahagi dengan bilangan YA bagi setiap item (teres, jalan, penanaman atas 2 YA; penginapan dan gudang atas 4 YA):\nYA2023 dan YA2024: 50,000 + 77,500 + 134,000 + 31,287.67 + 6,257.53 = 299,045.20 setiap satu\nYA2025 dan YA2026: 31,287.67 + 6,257.53 = 37,545.20 setiap satu\n\n(ii)(b) RTB (andaian akhir tahun 31 Julai, jadi YA2026 sama dengan MESB): penginapan 40,000 − 5,150.68 = 34,849.32; gudang 8,000 − 1,030.14 = 6,969.86; item 50% sudah habis. Dari YA2027: penginapan 40,000 (tahun terakhir) dan gudang 8,000 setahun hingga YA2032.\n\n(iii) Tanpa pilihan: seluruh RM673,180.82 dicukai dalam YA2026 sahaja."
+    },
+    {
+     "k": "note",
+     "en": "Explaining (iii): with no election the full charge lands in one year, which can push the company into a large single-year tax bill. The election instead puts each part back in the years the allowances were given, so MESB must inform the IRBM and submit revised computations, and additional assessments are raised for those earlier YAs (PR 1/2016 para 9). The cost split of the two living blocks, RTB’s year end and the date of the February or September sales are my assumptions where the question is silent.",
+     "ms": "Menerangkan (iii): tanpa pilihan seluruh caj jatuh dalam satu tahun, yang boleh menyebabkan bil cukai besar dalam satu tahun. Pilihan sebaliknya meletakkan setiap bahagian semula dalam tahun elaun diberi, jadi MESB mesti memaklumkan LHDN dan menyerahkan pengiraan disemak, dan taksiran tambahan dibuat bagi YA terdahulu itu (PR 1/2016 para 9). Pembahagian kos dua blok kediaman, akhir tahun RTB dan tarikh jualan Februari atau September ialah andaian saya apabila soalan tidak menyatakan."
+    }
+   ]
   }
  ],
  "cards": [

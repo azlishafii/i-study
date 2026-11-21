@@ -1,0 +1,30 @@
+# Cache headers. File aset tiada hash dalam nama, jadi jangan guna "immutable".
+# Service worker mesti sentiasa disemak semula supaya kemas kini sampai.
+
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/manifest.webmanifest
+  Cache-Control: public, max-age=86400
+
+# Kod aplikasi: cache 5 minit (kurangkan request berulang)
+/app.js
+  Cache-Control: public, max-age=300, must-revalidate
+/tools-far2.js
+  Cache-Control: public, max-age=300, must-revalidate
+/tailwind.css
+  Cache-Control: public, max-age=300, must-revalidate
+
+# Kandungan nota
+/content/*
+  Cache-Control: public, max-age=300, must-revalidate
+
+# Ikon jarang berubah: cache 30 hari
+/icons/*
+  Cache-Control: public, max-age=2592000

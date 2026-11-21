@@ -714,6 +714,344 @@
      "ms": "Slaid 21, 22 dan 30 tiada teks yang boleh dibaca; kadar, nisbah 75%/10% dan layanan bangunan terpakai datang daripada lembaran contoh pensyarah dan bukan slaid."
     }
    ]
+  },
+  {
+   "id": "worked",
+   "icon": "🧪",
+   "title": {
+    "en": "Worked Examples",
+    "ms": "Contoh Kerja"
+   },
+   "ref": "Example_exercise_IBA.pdf",
+   "blocks": [
+    {
+     "k": "note",
+     "en": "From Example_exercise_IBA.pdf (10 questions). I checked each lecturer’s answer against PR 3/2018 and PR 8/2016 and corrected what did not match; Q2, Q3, Q8, Q9 and Q10 have no lecturer answer, so those are my own workings. Rates used: IA 10% and AA 3% of QBE unless stated. QBE excludes land, legal fees on land, and demolition of an old industrial building (PR 3/2018 para 4.1.1).",
+     "ms": "Daripada Example_exercise_IBA.pdf (10 soalan). Saya semak setiap jawapan pensyarah dengan PR 3/2018 dan PR 8/2016 dan betulkan yang tidak sepadan; Q2, Q3, Q8, Q9 dan Q10 tiada jawapan pensyarah, jadi itu pengiraan saya sendiri. Kadar: IA 10% dan AA 3% daripada QBE melainkan dinyatakan. QBE tidak termasuk tanah, fi guaman tanah, dan perobohan bangunan industri lama (PR 3/2018 para 4.1.1)."
+    },
+    {
+     "k": "h",
+     "en": "Q1: Eco Bhd (corrected basis periods)",
+     "ms": "Q1: Eco Bhd (tempoh asas dibetulkan)"
+    },
+    {
+     "k": "p",
+     "en": "The building was completed 30.3.2025 and the year end is 31 March, so it is used in the basis period 1.4.2024–31.3.2025, which is YA2025.",
+     "ms": "Bangunan siap 30.3.2025 dan akhir tahun 31 Mac, jadi ia digunakan dalam tempoh asas 1.4.2024–31.3.2025, iaitu YA2025."
+    },
+    {
+     "k": "calc",
+     "en": "QBE: legal and stamp duty (14,400 − 3,600 land) 10,800\n+ architect 18,600 + levelling and terracing 480,000 + piling and foundation 288,000\n+ wiring and plumbing 105,600 + internal roads 64,800 + construction 360,000 = RM1,327,800\nExcluded: land 1,200,000; land legal 3,600; demolition of the old factory 300,000 (an old industrial building, PR 3/2018 para 4.1.1 note (ii))\nNon-industrial part 20% (office and showroom) is above 10%, so QBE = 80% × 1,327,800 = RM1,062,240\n\nYA2025: IA 10% = 106,224; AA 3% = 31,867; RE = 1,062,240 − 138,091 = RM924,149\nYA2026: AA 3% = 31,867; RE = RM892,282",
+     "ms": "QBE: guaman dan duti setem (14,400 − 3,600 tanah) 10,800\n+ arkitek 18,600 + ratakan dan teres 480,000 + cerucuk dan asas 288,000\n+ pendawaian dan paip 105,600 + jalan dalaman 64,800 + pembinaan 360,000 = RM1,327,800\nDikecualikan: tanah 1,200,000; guaman tanah 3,600; perobohan kilang lama 300,000 (bangunan industri lama, PR 3/2018 para 4.1.1 nota (ii))\nBahagian bukan industri 20% (pejabat dan bilik pameran) melebihi 10%, jadi QBE = 80% × 1,327,800 = RM1,062,240\n\nYA2025: IA 10% = 106,224; AA 3% = 31,867; RE = 1,062,240 − 138,091 = RM924,149\nYA2026: AA 3% = 31,867; RE = RM892,282"
+    },
+    {
+     "k": "note",
+     "en": "The lecturer’s numbers match, but the answer sheet’s YA table is shifted a year (it shows 1.4.24–31.3.25 as YA2026; a basis period ending in 2025 is YA2025). The lecturer also shows YA26–27 AA, but the question stops at YA2026, so RE after YA2026 is RM892,282 (the sheet’s RM860,415 is after YA2027).",
+     "ms": "Nombor pensyarah sepadan, tetapi jadual YA pada lembaran jawapan beralih setahun (ia tunjuk 1.4.24–31.3.25 sebagai YA2026; tempoh asas berakhir 2025 ialah YA2025). Pensyarah juga tunjuk AA YA26–27, tetapi soalan berhenti pada YA2026, jadi RE selepas YA2026 ialah RM892,282 (RM860,415 pada lembaran ialah selepas YA2027)."
+    },
+    {
+     "k": "h",
+     "en": "Q2: Mega Sdn Bhd (revenue or capital)",
+     "ms": "Q2: Mega Sdn Bhd (hasil atau modal)"
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Work",
+       "Nature",
+       "Reason (PR 6/2019)"
+      ],
+      "ms": [
+       "Kerja",
+       "Sifat",
+       "Sebab (PR 6/2019)"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "(a) Replace broken floor tiles on every floor",
+        "Revenue",
+        "Restores the asset to its original condition with no improvement; deductible under s33(1)(c)"
+       ],
+       "ms": [
+        "(a) Ganti jubin lantai pecah di setiap tingkat",
+        "Hasil",
+        "Memulihkan aset kepada keadaan asal tanpa penambahbaikan; boleh ditolak di bawah s33(1)(c)"
+       ]
+      },
+      {
+       "en": [
+        "(b) Replace the old zinc roof with a new improved roof with cooling effects",
+        "Capital",
+        "A better roof with a new feature is an improvement that changes the original structure (compare the PR’s factory roof examples)"
+       ],
+       "ms": [
+        "(b) Ganti bumbung zink lama dengan bumbung baharu yang lebih baik dengan kesan penyejukan",
+        "Modal",
+        "Bumbung lebih baik dengan ciri baharu ialah penambahbaikan yang mengubah struktur asal (bandingkan contoh bumbung kilang dalam PR)"
+       ]
+      },
+      {
+       "en": [
+        "(c) Replace old wiring with new wiring on one floor for safety",
+        "Revenue",
+        "Replacing a worn part of the whole building with equivalent wiring is a repair; one floor only, no change in the building’s character. It would be capital if the wiring were a higher specification upgrade"
+       ],
+       "ms": [
+        "(c) Ganti pendawaian lama dengan pendawaian baharu pada satu tingkat atas sebab keselamatan",
+        "Hasil",
+        "Menggantikan bahagian usang bangunan dengan pendawaian setara ialah pembaikan; satu tingkat sahaja, tiada perubahan sifat bangunan. Ia modal jika pendawaian itu penaiktarafan spesifikasi lebih tinggi"
+       ]
+      },
+      {
+       "en": [
+        "(d) Replace faulty generator parts to keep using it",
+        "Revenue",
+        "Replacing parts of the asset to continue using it, without improving it, is a repair"
+       ],
+       "ms": [
+        "(d) Ganti bahagian generator rosak supaya terus digunakan",
+        "Hasil",
+        "Menggantikan bahagian aset untuk terus menggunakannya, tanpa menambah baik, ialah pembaikan"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "note",
+     "en": "An office building is not an industrial building, so the capital cost in (b) earns no IBA.",
+     "ms": "Bangunan pejabat bukan bangunan industri, jadi kos modal dalam (b) tidak mendapat IBA."
+    },
+    {
+     "k": "h",
+     "en": "Q3: NusaVera Sdn Bhd (YA2026)",
+     "ms": "Q3: NusaVera Sdn Bhd (YA2026)"
+    },
+    {
+     "k": "p",
+     "en": "Incorporated 1.7.2025, year end 30 June, so the first basis period is 1.7.2025–30.6.2026 (YA2026).",
+     "ms": "Diperbadankan 1.7.2025, akhir tahun 30 Jun, jadi tempoh asas pertama ialah 1.7.2025–30.6.2026 (YA2026)."
+    },
+    {
+     "k": "table",
+     "head": {
+      "en": [
+       "Item",
+       "QBE",
+       "Working"
+      ],
+      "ms": [
+       "Item",
+       "QBE",
+       "Pengiraan"
+      ]
+     },
+     "rows": [
+      {
+       "en": [
+        "Land RM2,000,000",
+        "Nil",
+        "Cost of land is not QBE"
+       ],
+       "ms": [
+        "Tanah RM2,000,000",
+        "Nil",
+        "Kos tanah bukan QBE"
+       ]
+      },
+      {
+       "en": [
+        "(a) Factory-cum-office block RM4,500,000",
+        "3,825,000",
+        "Office 22,500 / 150,000 = 15%, above 10%, so the non-industrial part is excluded: 85% × 4,500,000"
+       ],
+       "ms": [
+        "(a) Blok kilang dan pejabat RM4,500,000",
+        "3,825,000",
+        "Pejabat 22,500 / 150,000 = 15%, melebihi 10%, jadi bahagian bukan industri dikecualikan: 85% × 4,500,000"
+       ]
+      },
+      {
+       "en": [
+        "(b) Warehouse and workshop RM200,000",
+        "200,000",
+        "Storage of raw materials and finished goods within the factory curtilage, and workshop: industrial building"
+       ],
+       "ms": [
+        "(b) Gudang dan bengkel RM200,000",
+        "200,000",
+        "Penyimpanan bahan mentah dan barang siap dalam kawasan kilang, serta bengkel: bangunan industri"
+       ]
+      },
+      {
+       "en": [
+        "(c) Employees’ quarters RM900,000",
+        "900,000",
+        "Living accommodation by a manufacturer (para 42A(1)); the ground-floor surau and child care centre also serve employees (child care centre, para 42A(2); PR 8/2016 para 4.2)"
+       ],
+       "ms": [
+        "(c) Kuarters pekerja RM900,000",
+        "900,000",
+        "Penginapan pekerja oleh pengilang (para 42A(1)); surau dan pusat jagaan kanak-kanak di tingkat bawah juga untuk pekerja (pusat jagaan, para 42A(2); PR 8/2016 para 4.2)"
+       ]
+      },
+      {
+       "en": [
+        "Site preparation RM310,000 + machine RM90,000",
+        "400,000",
+        "Preparation cost 310,000 / aggregate 400,000 = 77.5%, above 75%, so the whole 400,000 is QBE and no capital allowance is given on the machine (PR 3/2018 para 5)"
+       ],
+       "ms": [
+        "Penyediaan tapak RM310,000 + mesin RM90,000",
+        "400,000",
+        "Kos penyediaan 310,000 / agregat 400,000 = 77.5%, melebihi 75%, jadi seluruh 400,000 ialah QBE dan tiada elaun modal untuk mesin (PR 3/2018 para 5)"
+       ]
+      }
+     ]
+    },
+    {
+     "k": "calc",
+     "en": "Total QBE = 3,825,000 + 200,000 + 900,000 + 400,000 = RM5,325,000\nIA 10% = RM532,500\nAA 3% = RM159,750\nTotal allowance YA2026 = RM692,250; RE = RM4,632,750",
+     "ms": "Jumlah QBE = 3,825,000 + 200,000 + 900,000 + 400,000 = RM5,325,000\nIA 10% = RM532,500\nAA 3% = RM159,750\nJumlah elaun YA2026 = RM692,250; RE = RM4,632,750"
+    },
+    {
+     "k": "note",
+     "en": "Assumption: the surau is treated as an employee welfare facility. If the ground floor (one third) were not treated as industrial, QBE of the quarters would be 600,000 under the 10% rule.",
+     "ms": "Andaian: surau dianggap kemudahan kebajikan pekerja. Jika tingkat bawah (satu pertiga) tidak dianggap industri, QBE kuarters ialah 600,000 di bawah petua 10%."
+    },
+    {
+     "k": "h",
+     "en": "Q4: Sunrise Bhd and Hikari Sdn Bhd",
+     "ms": "Q4: Sunrise Bhd dan Hikari Sdn Bhd"
+    },
+    {
+     "k": "p",
+     "en": "Sunrise: year end 30 September; the building is used from 1.1.2023, in basis period 1.10.2022–30.9.2023 (YA2023). Sold 1.2.2025, in basis period 1.10.2024–30.9.2025 (YA2025). Hikari: year end 31 December, buys 1.2.2025 (YA2025).",
+     "ms": "Sunrise: akhir tahun 30 September; bangunan digunakan dari 1.1.2023, dalam tempoh asas 1.10.2022–30.9.2023 (YA2023). Dijual 1.2.2025, dalam tempoh asas 1.10.2024–30.9.2025 (YA2025). Hikari: akhir tahun 31 Disember, beli 1.2.2025 (YA2025)."
+    },
+    {
+     "k": "calc",
+     "en": "Sunrise QBE: demolition of abandoned houses 15,000 (not an industrial building, new building on the same site) + construction 975,000 + architect 35,500 + wiring and plumbing 45,000 + roads and drainage 64,500 = RM1,135,000\nExcluded: land 1,250,000 and land legal fee 10,500\nShowroom and office = 2/12 = 16.7%, above 10%, so QBE = 10/12 × 1,135,000 = RM945,833\n\nMachine 110,060 + installation 45,000 = 155,060; land preparation 30,000. Preparation 30,000 / aggregate 185,060 = 16%, not above 75%, so it is not QBE: claim plant allowances instead\n\nYA2023: IA 94,583 + AA 28,375; RE = 822,875\nYA2024: AA 28,375; RE = 794,500\nYA2025 (sold 1.2.2025): no AA. Disposal value 1,800,000 − 450,000 land = 1,350,000, above RE 794,500 by 555,500\nBalancing charge = the lower of 555,500 and the allowances given (94,583 + 28,375 + 28,375 = 151,333) = RM151,333",
+     "ms": "QBE Sunrise: perobohan rumah terbiar 15,000 (bukan bangunan industri, bangunan baharu di tapak sama) + pembinaan 975,000 + arkitek 35,500 + pendawaian dan paip 45,000 + jalan dan saliran 64,500 = RM1,135,000\nDikecualikan: tanah 1,250,000 dan fi guaman tanah 10,500\nBilik pameran dan pejabat = 2/12 = 16.7%, melebihi 10%, jadi QBE = 10/12 × 1,135,000 = RM945,833\n\nMesin 110,060 + pemasangan 45,000 = 155,060; penyediaan tanah 30,000. Penyediaan 30,000 / agregat 185,060 = 16%, tidak melebihi 75%, jadi bukan QBE: tuntut elaun loji\n\nYA2023: IA 94,583 + AA 28,375; RE = 822,875\nYA2024: AA 28,375; RE = 794,500\nYA2025 (dijual 1.2.2025): tiada AA. Nilai pelupusan 1,800,000 − tanah 450,000 = 1,350,000, melebihi RE 794,500 sebanyak 555,500\nCaj imbangan = yang lebih rendah antara 555,500 dan elaun diberi (94,583 + 28,375 + 28,375 = 151,333) = RM151,333"
+    },
+    {
+     "k": "calc",
+     "en": "Hikari QBE = purchase price of the building RM1,350,000 (PR 3/2018 para 4.2.4)\nUsing the lecturer’s rate for a training centre (IA nil, AA 10%):\nYA2025: AA 135,000; RE = 1,215,000\nYA2026: AA 135,000; RE = RM1,080,000",
+     "ms": "QBE Hikari = harga belian bangunan RM1,350,000 (PR 3/2018 para 4.2.4)\nMenggunakan kadar pensyarah bagi pusat latihan (IA tiada, AA 10%):\nYA2025: AA 135,000; RE = 1,215,000\nYA2026: AA 135,000; RE = RM1,080,000"
+    },
+    {
+     "k": "note",
+     "en": "Corrections: the lecturer used .83 × 1,135,000 = 942,050 for Sunrise. The exact fraction is 10/12, which gives 945,833, so IA, AA and the charge change slightly (the charge becomes 151,333, not 150,728). Both answer sheets write ‘31/9’, which does not exist; use 30 September. Hikari’s AA 10% is the lecturer’s rate, which this PR does not state for a training centre; confirm it with your lecturer. If the general rates applied, Hikari would claim IA 135,000 + AA 40,500 in YA2025.",
+     "ms": "Pembetulan: pensyarah guna .83 × 1,135,000 = 942,050 bagi Sunrise. Pecahan tepat ialah 10/12, memberi 945,833, jadi IA, AA dan caj berubah sedikit (caj menjadi 151,333, bukan 150,728). Kedua-dua lembaran jawapan menulis ‘31/9’ yang tidak wujud; guna 30 September. AA 10% Hikari ialah kadar pensyarah, yang tidak dinyatakan dalam PR ini bagi pusat latihan; sahkan dengan pensyarah. Jika kadar am terpakai, Hikari akan menuntut IA 135,000 + AA 40,500 dalam YA2025."
+    },
+    {
+     "k": "p",
+     "en": "(ii) A building that stores raw materials or finished goods is an industrial building if it is within the same curtilage as the factory: adjoining the factory building or on the land immediately surrounding it.",
+     "ms": "(ii) Bangunan yang menyimpan bahan mentah atau barang siap ialah bangunan industri jika berada dalam kawasan (curtilage) yang sama dengan kilang: bersebelahan bangunan kilang atau di tanah yang betul-betul mengelilinginya."
+    },
+    {
+     "k": "h",
+     "en": "Q5: Uni Spa Sdn Bhd (USSB)",
+     "ms": "Q5: Uni Spa Sdn Bhd (USSB)"
+    },
+    {
+     "k": "calc",
+     "en": "In use 1.6.2025 (YA2025, year end 31 December).\nQBE: contractor agreement legal 25,000 + architect and plan 30,000 + wiring and plumbing 70,000 + construction 2,225,000 + fixtures and fittings 40,000 = RM2,390,000\nExcluded: land 1,000,000; legal on land 65,000; demolition of the existing factory 45,000 (an old industrial building)\nAdministration 12% and the rented-out canteen (about 13%) are each above 10%, so only 75% qualifies: QBE = 75% × 2,390,000 = RM1,792,500\n\nYA2025: IA 179,250; AA 53,775; RE = 1,559,475\nYA2026: AA 53,775; RE = RM1,505,700\n\nThree-storey building bought July 2026 for RM3,000,000 and rented to an approved educational institution: USSB is not the business operator, so it cannot claim IBA (PR 3/2018 para 8.1.2, Example 8).",
+     "ms": "Digunakan 1.6.2025 (YA2025, akhir tahun 31 Disember).\nQBE: guaman perjanjian kontraktor 25,000 + arkitek dan pelan 30,000 + pendawaian dan paip 70,000 + pembinaan 2,225,000 + lekapan dan kelengkapan 40,000 = RM2,390,000\nDikecualikan: tanah 1,000,000; guaman tanah 65,000; perobohan kilang sedia ada 45,000 (bangunan industri lama)\nPentadbiran 12% dan kantin disewakan (kira-kira 13%) masing-masing melebihi 10%, jadi hanya 75% layak: QBE = 75% × 2,390,000 = RM1,792,500\n\nYA2025: IA 179,250; AA 53,775; RE = 1,559,475\nYA2026: AA 53,775; RE = RM1,505,700\n\nBangunan tiga tingkat dibeli Julai 2026 pada RM3,000,000 dan disewakan kepada institusi pendidikan diluluskan: USSB bukan pengendali perniagaan, jadi tidak boleh menuntut IBA (PR 3/2018 para 8.1.2, Contoh 8)."
+    },
+    {
+     "k": "p",
+     "en": "(ii) ‘Within the same curtilage’: a building adjoining, or on the land immediately surrounding, a building used as a factory.",
+     "ms": "(ii) ‘Dalam kawasan yang sama’: bangunan bersebelahan, atau di tanah yang betul-betul mengelilingi, bangunan yang digunakan sebagai kilang."
+    },
+    {
+     "k": "note",
+     "en": "The lecturer’s answer for the factory matches PR 3/2018. The second purchase is not answered on the sheet; the answer above is mine.",
+     "ms": "Jawapan pensyarah bagi kilang sepadan dengan PR 3/2018. Pembelian kedua tidak dijawab pada lembaran; jawapan di atas ialah jawapan saya."
+    },
+    {
+     "k": "h",
+     "en": "Q6: Cempedak Bhd and Nangka Bhd",
+     "ms": "Q6: Cempedak Bhd dan Nangka Bhd"
+    },
+    {
+     "k": "calc",
+     "en": "Year end 31 March. Cempedak: completed 1.11.2019 is YA2020 (1.4.2019–31.3.2020). Sold 1.2.2025 is YA2025.\nQBE = 2,800,000 − land 1,200,000 = 1,600,000 (office 1/11 = 9.1%, within 10%, so the whole building qualifies)\nYA2020: IA 160,000 + AA 48,000; RE = 1,392,000\nYA2021–2024: AA 48,000 × 4 = 192,000; RE = 1,200,000\nYA2025: disposal value 3,750,000 − 1,400,000 = 2,350,000; excess 1,150,000; allowances given 400,000\nBalancing charge = RM400,000 (the lower)\n\nNangka (YA2025): QBE = purchase price of the building RM2,350,000; IA 10% = 235,000; AA 3% = 70,500; RE = 2,044,500\nYA2026: AA 3% = 70,500; RE = RM1,974,000\nThe RM140,000 warehouse extension was completed 2.5.2026, which is in the basis period 1.4.2026–31.3.2027 (YA2027), so nothing for YA2026.",
+     "ms": "Akhir tahun 31 Mac. Cempedak: siap 1.11.2019 ialah YA2020 (1.4.2019–31.3.2020). Dijual 1.2.2025 ialah YA2025.\nQBE = 2,800,000 − tanah 1,200,000 = 1,600,000 (pejabat 1/11 = 9.1%, dalam 10%, jadi seluruh bangunan layak)\nYA2020: IA 160,000 + AA 48,000; RE = 1,392,000\nYA2021–2024: AA 48,000 × 4 = 192,000; RE = 1,200,000\nYA2025: nilai pelupusan 3,750,000 − 1,400,000 = 2,350,000; lebihan 1,150,000; elaun diberi 400,000\nCaj imbangan = RM400,000 (yang lebih rendah)\n\nNangka (YA2025): QBE = harga belian bangunan RM2,350,000; IA 10% = 235,000; AA 3% = 70,500; RE = 2,044,500\nYA2026: AA 3% = 70,500; RE = RM1,974,000\nSambungan gudang RM140,000 siap 2.5.2026, iaitu dalam tempoh asas 1.4.2026–31.3.2027 (YA2027), jadi tiada untuk YA2026."
+    },
+    {
+     "k": "note",
+     "en": "Cempedak matches the lecturer. For Nangka the sheet writes IA 0% and AA 10% = 235,000, then ‘3%’ with 235,000 again; that is inconsistent, and the PR’s general rate (IA 10% + AA 3%) gives the figures above. The sheet’s RE lines for Nangka are blank.",
+     "ms": "Cempedak sepadan dengan pensyarah. Bagi Nangka lembaran menulis IA 0% dan AA 10% = 235,000, kemudian ‘3%’ dengan 235,000 lagi; ia tidak konsisten, dan kadar am PR (IA 10% + AA 3%) memberi angka di atas. Baris RE Nangka pada lembaran kosong."
+    },
+    {
+     "k": "h",
+     "en": "Q7: Remedy Private Hospital and Care Maternity Home",
+     "ms": "Q7: Remedy Private Hospital dan Care Maternity Home"
+    },
+    {
+     "k": "calc",
+     "en": "Remedy (year end 30 June): in use 17.4.2022, in basis period 1.7.2021–30.6.2022 (YA2022). Licensed private hospital, para 37A.\nQBE before exclusion: legal on the building 5,000 + levelling 20,000 + Block A 565,000 + canteen and staff room 30,000 + R&D lab 25,000 = RM645,000. (Land 175,000 and land legal 5,000 are out.)\nOffice and mini shop = 1/6 of the hospital block = 94,167 (about 14.6% of 645,000), above 10%, so it is excluded: QBE = 645,000 − 94,167 = RM550,833\n\nYA2022: IA 55,083; AA 16,525; RE = 479,225\nYA2023 and YA2024: AA 16,525 × 2 = 33,050; RE = 446,175\nYA2025 (sold 16.3.2025, basis period 1.7.2024–30.6.2025): no AA. Disposal value 1,000,000 − 200,000 land = 800,000, above RE by 353,825; allowances given 55,083 + 49,575 = 104,658\nBalancing charge = RM104,658\n\nCare Maternity (year end 31 July): purchase 16.3.2025 is in basis period 1.8.2024–31.7.2025 (YA2025).\nQBE = purchase price of the building RM800,000\nYA2025: IA 80,000 + AA 24,000; RE = 696,000\nYA2026: AA 24,000; RE = RM672,000",
+     "ms": "Remedy (akhir tahun 30 Jun): digunakan 17.4.2022, dalam tempoh asas 1.7.2021–30.6.2022 (YA2022). Hospital swasta berlesen, para 37A.\nQBE sebelum pengecualian: guaman bangunan 5,000 + ratakan 20,000 + Blok A 565,000 + kantin dan bilik staf 30,000 + makmal R&D 25,000 = RM645,000. (Tanah 175,000 dan guaman tanah 5,000 dikecualikan.)\nPejabat dan kedai mini = 1/6 blok hospital = 94,167 (kira-kira 14.6% daripada 645,000), melebihi 10%, jadi dikecualikan: QBE = 645,000 − 94,167 = RM550,833\n\nYA2022: IA 55,083; AA 16,525; RE = 479,225\nYA2023 dan YA2024: AA 16,525 × 2 = 33,050; RE = 446,175\nYA2025 (dijual 16.3.2025, tempoh asas 1.7.2024–30.6.2025): tiada AA. Nilai pelupusan 1,000,000 − tanah 200,000 = 800,000, melebihi RE sebanyak 353,825; elaun diberi 55,083 + 49,575 = 104,658\nCaj imbangan = RM104,658\n\nCare Maternity (akhir tahun 31 Julai): belian 16.3.2025 dalam tempoh asas 1.8.2024–31.7.2025 (YA2025).\nQBE = harga belian bangunan RM800,000\nYA2025: IA 80,000 + AA 24,000; RE = 696,000\nYA2026: AA 24,000; RE = RM672,000"
+    },
+    {
+     "k": "note",
+     "en": "The lecturer gave two Remedy workings (QBE 535,350 and 530,833) that disagree with each other, and left the charge blank. Neither includes the levelling cost and the 10% test consistently; I included levelling (site works, PR 3/2018 para 4.1.1(e)) and took 1/6 of the hospital block’s cost as the non-industrial part. Care Maternity matches the lecturer.",
+     "ms": "Pensyarah memberi dua pengiraan Remedy (QBE 535,350 dan 530,833) yang bercanggah, dan membiarkan caj kosong. Kedua-duanya tidak memasukkan kos ratakan dan ujian 10% secara konsisten; saya masukkan ratakan (kerja tapak, PR 3/2018 para 4.1.1(e)) dan ambil 1/6 kos blok hospital sebagai bahagian bukan industri. Care Maternity sepadan dengan pensyarah."
+    },
+    {
+     "k": "h",
+     "en": "Q8: Dingin Sdn Bhd",
+     "ms": "Q8: Dingin Sdn Bhd"
+    },
+    {
+     "k": "p",
+     "en": "The lecturer’s answer for Q8 is a copy of the Remedy sheet, so this is my own working. Year end 31 December: YA2025 = 1.1.2025–31.12.2025; YA2026 = 1.1.2026–31.12.2026.",
+     "ms": "Jawapan pensyarah bagi Q8 ialah salinan lembaran Remedy, jadi ini pengiraan saya sendiri. Akhir tahun 31 Disember: YA2025 = 1.1.2025–31.12.2025; YA2026 = 1.1.2026–31.12.2026."
+    },
+    {
+     "k": "calc",
+     "en": "(a) YA2025\nAir-conditioner business\n- Factory 1,500,000: the showroom 105,000 is 7%, within 10%, so the whole building qualifies. AA 3% = 45,000 (IA was given in YA2022)\n- Office extension 151,000: wholly non-industrial, not QBE: nil\n- Machine 75,000 + site preparation 225,000 = 300,000. Preparation is exactly 75%, not above 75%, so it is not QBE; claim plant allowances on 300,000 (assuming general rates IA 20%, AA 14%): 60,000 + 42,000 = 102,000\nElectric fan business\n- Factory 100,000: AA 3% = 3,000\n- Replacing the whole cement floor with tiles, 45,000: an improvement (capital), qualifying as an alteration to an industrial building: IA 4,500 + AA 1,350 = 5,850\nTotal IBA YA2025 = 45,000 + 3,000 + 5,850 = RM53,850; plant allowances = RM102,000",
+     "ms": "(a) YA2025\nPerniagaan penyaman udara\n- Kilang 1,500,000: bilik pameran 105,000 ialah 7%, dalam 10%, jadi seluruh bangunan layak. AA 3% = 45,000 (IA diberi dalam YA2022)\n- Sambungan pejabat 151,000: sepenuhnya bukan industri, bukan QBE: tiada\n- Mesin 75,000 + penyediaan tapak 225,000 = 300,000. Penyediaan tepat 75%, tidak melebihi 75%, jadi bukan QBE; tuntut elaun loji atas 300,000 (andaian kadar am IA 20%, AA 14%): 60,000 + 42,000 = 102,000\nPerniagaan kipas elektrik\n- Kilang 100,000: AA 3% = 3,000\n- Menggantikan seluruh lapisan lantai simen dengan jubin, 45,000: penambahbaikan (modal), layak sebagai ubahan bangunan industri: IA 4,500 + AA 1,350 = 5,850\nJumlah IBA YA2025 = 45,000 + 3,000 + 5,850 = RM53,850; elaun loji = RM102,000"
+    },
+    {
+     "k": "calc",
+     "en": "(b) YA2026\nAir-conditioner business: adjusted income 236,000\n− IBA on the factory 45,000 − plant AA 14% × 300,000 = 42,000\nStatutory income = RM149,000\n\nElectric fan business: factory sold 3.3.2026 for 250,000 − land 140,000 = 110,000\nQBE 100,000 + 45,000 = 145,000; allowances given: 10,000 + 3,000 × 4 (YA2022–25) + 5,850 = 27,850; RE = 117,150\nSale below RE: balancing allowance = 117,150 − 110,000 = 7,150 (no AA in the year of sale)\nStatutory income = 34,000 − 7,150 = RM26,850",
+     "ms": "(b) YA2026\nPerniagaan penyaman udara: pendapatan diselaraskan 236,000\n− IBA kilang 45,000 − AA loji 14% × 300,000 = 42,000\nPendapatan berkanun = RM149,000\n\nPerniagaan kipas elektrik: kilang dijual 3.3.2026 pada 250,000 − tanah 140,000 = 110,000\nQBE 100,000 + 45,000 = 145,000; elaun diberi: 10,000 + 3,000 × 4 (YA2022–25) + 5,850 = 27,850; RE = 117,150\nJualan di bawah RE: elaun imbangan = 117,150 − 110,000 = 7,150 (tiada AA dalam tahun jualan)\nPendapatan berkanun = 34,000 − 7,150 = RM26,850"
+    },
+    {
+     "k": "note",
+     "en": "Plant allowances use the general rates (IA 20%, AA 14%), which belong to the capital allowance chapter, not these slides. The 70% restriction on capital allowances does not bite here: 42,000 is well below 70% of the adjusted income net of IBA.",
+     "ms": "Elaun loji menggunakan kadar am (IA 20%, AA 14%), yang tergolong dalam bab elaun modal, bukan slaid ini. Had 70% elaun modal tidak menjejaskan di sini: 42,000 jauh di bawah 70% pendapatan diselaraskan bersih IBA."
+    },
+    {
+     "k": "h",
+     "en": "Q9: Sustain Me Manufacturing Industries (SMMI)",
+     "ms": "Q9: Sustain Me Manufacturing Industries (SMMI)"
+    },
+    {
+     "k": "calc",
+     "en": "Year end 30 June. The building is used from April 2025, in basis period 1.7.2024–30.6.2025 (YA2025).\nQBE: building cost 2,850,000 (land 5,000,000 excluded)\nSales/administration office 41,250 / 275,000 = 15%, above 10%, so QBE = 85% × 2,850,000 = RM2,422,500\nYA2025: IA 242,250; AA 72,675; RE = 2,107,575\n\nSold May 2026 (YA2026, basis period 1.7.2025–30.6.2026) for RM3,500,000 (taken as the price of the building): no AA in YA2026\nDisposal value 3,500,000 is above RE 2,107,575 by 1,392,425; allowances given 314,925\nBalancing charge = RM314,925\n\nThe three-storey building bought June 2026 and rented to an educational institution: SMMI is not the business operator, so no IBA (PR 3/2018 para 8.1.2).",
+     "ms": "Akhir tahun 30 Jun. Bangunan digunakan dari April 2025, dalam tempoh asas 1.7.2024–30.6.2025 (YA2025).\nQBE: kos bangunan 2,850,000 (tanah 5,000,000 dikecualikan)\nPejabat jualan/pentadbiran 41,250 / 275,000 = 15%, melebihi 10%, jadi QBE = 85% × 2,850,000 = RM2,422,500\nYA2025: IA 242,250; AA 72,675; RE = 2,107,575\n\nDijual Mei 2026 (YA2026, tempoh asas 1.7.2025–30.6.2026) pada RM3,500,000 (diambil sebagai harga bangunan): tiada AA dalam YA2026\nNilai pelupusan 3,500,000 melebihi RE 2,107,575 sebanyak 1,392,425; elaun diberi 314,925\nCaj imbangan = RM314,925\n\nBangunan tiga tingkat dibeli Jun 2026 dan disewakan kepada institusi pendidikan: SMMI bukan pengendali perniagaan, jadi tiada IBA (PR 3/2018 para 8.1.2)."
+    },
+    {
+     "k": "p",
+     "en": "(b) AESB is not eligible. It only rents the building and has not incurred the QBE; IBA belongs to the owner, and for an educational institution the owner must also be the business operator (para 16B(1); PR 3/2018 Example 8).",
+     "ms": "(b) AESB tidak layak. Ia hanya menyewa bangunan dan tidak menanggung QBE; IBA milik pemilik, dan bagi institusi pendidikan pemilik mesti juga pengendali perniagaan (para 16B(1); PR 3/2018 Contoh 8)."
+    },
+    {
+     "k": "h",
+     "en": "Q10: Glory Sdn Bhd (YA2026)",
+     "ms": "Q10: Glory Sdn Bhd (YA2026)"
+    },
+    {
+     "k": "calc",
+     "en": "QBE: demolition of the car showroom 410,000 (a showroom is not an industrial building, and the new factory is on the same site) + factory 6,300,000 + warehouse 360,000 = RM7,070,000\nExcluded: land 560,000 and stamp duty on the land 10,000\nThe warehouse is within the factory curtilage and stores the company’s goods, so it is an industrial building; the 20% area is not a non-industrial part, so the 10% rule does not remove it\n\nIA 10% = RM707,000\nAA 3% = RM212,100\nTotal YA2026 = RM919,100; RE = RM6,150,900",
+     "ms": "QBE: perobohan bilik pameran kereta 410,000 (bilik pameran bukan bangunan industri, dan kilang baharu di tapak sama) + kilang 6,300,000 + gudang 360,000 = RM7,070,000\nDikecualikan: tanah 560,000 dan duti setem tanah 10,000\nGudang berada dalam kawasan kilang dan menyimpan barang syarikat, jadi ia bangunan industri; keluasan 20% bukan bahagian bukan industri, jadi petua 10% tidak mengecualikannya\n\nIA 10% = RM707,000\nAA 3% = RM212,100\nJumlah YA2026 = RM919,100; RE = RM6,150,900"
+    }
+   ]
   }
  ],
  "cards": [
