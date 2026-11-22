@@ -41,57 +41,6 @@
    "ref": "Slides 4–6",
    "blocks": [
     {
-     "k": "h",
-     "en": "Types of visuals",
-     "ms": "Jenis visual"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "Prezis",
-      "Slides",
-      "Overhead transparencies",
-      "Chalkboards and whiteboards",
-      "Flip charts",
-      "Other visuals"
-     ],
-     "ms": [
-      "Prezi",
-      "Slaid",
-      "Overhead transparency",
-      "Papan hitam dan papan putih",
-      "Carta selak (flip chart)",
-      "Visual lain"
-     ]
-    },
-    {
-     "k": "h",
-     "en": "Verifying your design plans",
-     "ms": "Mengesahkan pelan reka bentuk"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "Review the plan",
-      "Check presentation style",
-      "Double-check cultural assumptions",
-      "Keep it simple",
-      "Use your time wisely"
-     ],
-     "ms": [
-      "Semak pelan",
-      "Semak gaya pembentangan",
-      "Semak semula andaian budaya",
-      "Pastikan ringkas",
-      "Guna masa dengan bijak"
-     ]
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
      "k": "ul",
      "en": [
       "Visuals create interest, illustrate points hard to explain in words, add variety, and help audiences absorb and remember information. Research: learning can improve by up to **400%** because humans process visuals **60,000 times faster** than text.",
@@ -110,20 +59,42 @@
     {
      "k": "ul",
      "en": [
-      "**Prezis**: nonlinear; flexible structure and access, can include video and media, dynamic look.",
-      "**Slides** (PowerPoint): easy to create, edit and customise, easy for online meetings; disadvantage is **linear** flow (harder to jump).",
-      "**Overhead transparencies**: old school; need only a marker, no latest equipment, can write on them, never malfunction; limited to static displays.",
-      "**Chalkboards and whiteboards**: record points in small groups; digital whiteboards can print, save and share.",
-      "**Flip charts**: dependable low-tech; “group memory” in brainstorming.",
-      "**Other visuals**: e.g. a video of a focus group or a product sample can have more impact than text slides."
+      "Prezis — Nonlinear; flexible structure and access, can include video and media, dynamic look.",
+      "Slides — (PowerPoint): easy to create, edit and customise, easy for online meetings; disadvantage is **linear** flow (harder to jump).",
+      "Overhead transparencies — Old school; need only a marker, no latest equipment, can write on them, never malfunction; limited to static displays.",
+      "Chalkboards and whiteboards — Record points in small groups; digital whiteboards can print, save and share.",
+      "Flip charts — Dependable low-tech; “group memory” in brainstorming.",
+      "Other visuals — E.g. a video of a focus group or a product sample can have more impact than text slides."
      ],
      "ms": [
-      "**Prezi**: tidak linear; fleksibel, boleh masuk video, dinamik.",
-      "**Slaid**: mudah dicipta dan disunting; kelemahan aliran **linear**.",
-      "**Transparensi**: lama; hanya perlu pen; terhad kepada paparan statik.",
-      "**Papan hitam/putih**: rekod perkara kumpulan kecil.",
-      "**Carta selak**: “memori kumpulan” semasa sumbang saran.",
-      "**Lain-lain**: video kumpulan fokus atau sampel produk."
+      "Prezi — Tidak linear; fleksibel, boleh masuk video, dinamik.",
+      "Slaid — Mudah dicipta dan disunting; kelemahan aliran **linear**.",
+      "Overhead transparency — Lama; hanya perlu pen; terhad kepada paparan statik.",
+      "Papan hitam dan papan putih — Rekod perkara kumpulan kecil.",
+      "Carta selak (flip chart) — “memori kumpulan” semasa sumbang saran.",
+      "Visual lain — Video kumpulan fokus atau sampel produk."
+     ]
+    },
+    {
+     "k": "h",
+     "en": "Verifying your design plans",
+     "ms": "Mengesahkan pelan reka bentuk"
+    },
+    {
+     "k": "ul",
+     "en": [
+      "Review the plan",
+      "Check presentation style — Match style to subject, audience and setting; check **cultural assumptions** (colours with negative connotations, too playful vs too serious).",
+      "Double-check cultural assumptions",
+      "Keep it simple — Faster to create, reduces distraction and misinterpretation, fewer things to go wrong.",
+      "Use your time wisely — Decide up front how much design is enough, stop there and use the time saved to **rehearse**."
+     ],
+     "ms": [
+      "Semak pelan",
+      "Semak gaya pembentangan — Padankan gaya; semak **andaian budaya** (warna bermakna negatif).",
+      "Semak semula andaian budaya",
+      "Pastikan ringkas — Lebih cepat, kurang gangguan, kurang risiko.",
+      "Guna masa dengan bijak — Tentukan tahap reka bentuk dan gunakan masa untuk **latihan**."
      ]
     },
     {
@@ -134,16 +105,10 @@
     {
      "k": "ul",
      "en": [
-      "Discerning audiences are not fooled by visual razzle-dazzle; a shaky analysis won’t be saved by an over-the-top production. Ask how each visual helps the audience.",
-      "Match style to subject, audience and setting; check **cultural assumptions** (colours with negative connotations, too playful vs too serious).",
-      "**Simplicity**: faster to create, reduces distraction and misinterpretation, fewer things to go wrong.",
-      "**Use time wisely**: decide up front how much design is enough, stop there and use the time saved to **rehearse**."
+      "Discerning audiences are not fooled by visual razzle-dazzle; a shaky analysis won’t be saved by an over-the-top production. Ask how each visual helps the audience."
      ],
      "ms": [
-      "Audiens bijak tidak terpedaya dengan visual berlebihan.",
-      "Padankan gaya; semak **andaian budaya** (warna bermakna negatif).",
-      "**Ringkas**: lebih cepat, kurang gangguan, kurang risiko.",
-      "**Guna masa bijak**: tentukan tahap reka bentuk dan gunakan masa untuk **latihan**."
+      "Audiens bijak tidak terpedaya dengan visual berlebihan."
      ]
     }
    ]
@@ -157,6 +122,21 @@
    },
    "ref": "Slides 7–8",
    "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Structured slides** follow the same basic format throughout and are based on templates with lots of bullet points; **free-form slides** are looser and favoured by many presentation specialists (Figure 17.2).",
+      "Advantages: **easy and fast to create** (choose scheme, template, type). Practical for routine presentations such as status updates, or when you are in a schedule crunch.",
+      "They can pack more information per slide, so they can be more effective for **complex ideas or interrelated data**, e.g. executives deciding budget cuts across eight divisions need a single comparison slide. Best solution: high-level summary slides supported by a detailed **handout**.",
+      "Disadvantage: the **mind-numbing** effect of dense, text-heavy slides that all look alike."
+     ],
+     "ms": [
+      "**Slaid berstruktur** ikut format sama dan banyak bullet; **slaid bebas** lebih longgar.",
+      "Kelebihan: **mudah dan pantas**; sesuai untuk pembentangan rutin.",
+      "Boleh memuatkan lebih maklumat untuk **idea kompleks**; penyelesaian terbaik: slaid ringkasan + **handout** terperinci.",
+      "Kelemahan: kesan **membosankan** slaid padat teks yang serupa."
+     ]
+    },
     {
      "k": "table",
      "head": {
@@ -206,26 +186,6 @@
      "k": "note",
      "en": "Slide 8 lists “Complex Ideas” and “Audience Response” in the advantages/disadvantages columns without explicit mapping. The mapping above follows reading order. Free-form slides are not described in the slide text; Extra (not in slides): free-form slides use a key visual and less text, and suit presentations where you want a stronger audience connection. Check your textbook.",
      "ms": "Slaid 8 menyenaraikan “Complex Ideas” dan “Audience Response” dalam lajur kelebihan/kekurangan tanpa pemetaan jelas. Pemetaan di atas ikut susunan bacaan. Slaid bentuk bebas tidak diterangkan dalam teks slaid; Extra (bukan dalam slaid): slaid bentuk bebas guna visual utama dan kurang teks, sesuai bila mahu hubungan audiens lebih kuat. Semak buku teks."
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Structured slides** follow the same basic format throughout and are based on templates with lots of bullet points; **free-form slides** are looser and favoured by many presentation specialists (Figure 17.2).",
-      "Advantages: **easy and fast to create** (choose scheme, template, type). Practical for routine presentations such as status updates, or when you are in a schedule crunch.",
-      "They can pack more information per slide, so they can be more effective for **complex ideas or interrelated data**, e.g. executives deciding budget cuts across eight divisions need a single comparison slide. Best solution: high-level summary slides supported by a detailed **handout**.",
-      "Disadvantage: the **mind-numbing** effect of dense, text-heavy slides that all look alike."
-     ],
-     "ms": [
-      "**Slaid berstruktur** ikut format sama dan banyak bullet; **slaid bebas** lebih longgar.",
-      "Kelebihan: **mudah dan pantas**; sesuai untuk pembentangan rutin.",
-      "Boleh memuatkan lebih maklumat untuk **idea kompleks**; penyelesaian terbaik: slaid ringkasan + **handout** terperinci.",
-      "Kelemahan: kesan **membosankan** slaid padat teks yang serupa."
-     ]
     }
    ]
   },
@@ -239,6 +199,15 @@
    "ref": "Slides 10–13",
    "blocks": [
     {
+     "k": "ul",
+     "en": [
+      "**“Death by PowerPoint”** describes the agony of dull, slide-heavy presentations. The problem is not the software; it is a tool that can be used well or poorly."
+     ],
+     "ms": [
+      "**“Death by PowerPoint”** = pembentangan membosankan. Masalah bukan perisian."
+     ]
+    },
+    {
      "k": "h",
      "en": "Why slide design is ineffective",
      "ms": "Kenapa reka bentuk slaid tidak berkesan"
@@ -250,14 +219,14 @@
       "Inadequate training",
       "Schedule pressures",
       "Habitual responses",
-      "Slideument hybrids"
+      "Slideument hybrids — Slide sets treated as standalone documents; too much information to be good visuals and too little to be good reports. Ideal: effective slides **plus a separate handout**; alternative: speaking notes in the notes field; if forced, more simple slides are better than fewer jam-packed ones."
      ],
      "ms": [
       "Kurang kesedaran",
       "Latihan tidak mencukupi",
       "Tekanan jadual",
       "Tindak balas lazim",
-      "Slideument hybrid"
+      "Slideument hybrid — Slaid dianggap dokumen; terlalu banyak untuk visual dan terlalu sedikit untuk laporan. Ideal: slaid + **handout berasingan**; lebih banyak slaid ringkas lebih baik."
      ]
     },
     {
@@ -286,14 +255,14 @@
     {
      "k": "ul",
      "en": [
-      "Colour",
-      "Artwork",
-      "Typefaces and type styles"
+      "Colour — Is far more than decoration: grabs attention, emphasises, creates contrast, isolates elements and sends nonverbal messages (elegance, sophistication, prudence). Cool grays/blues say something different from warm oranges or hot pink/lime.",
+      "Artwork — Two layers, **background** (like paper, stays the same) and **foreground** (unique content). The background must not compete with the foreground.",
+      "Typefaces and type styles — Avoid script/decorative; serif with care and only larger text; one or two per slide; bold for thin typefaces; avoid italics and ALL CAPS; extra white space between lines; be consistent."
      ],
      "ms": [
-      "Warna",
-      "Seni grafik",
-      "Jenis taip dan gaya taip"
+      "Warna — Menarik perhatian, menekankan, kontras dan menghantar mesej bukan lisan.",
+      "Seni grafik — Dua lapisan, **latar** dan **hadapan**; latar tidak boleh bersaing.",
+      "Jenis taip dan gaya taip — Elak skrip/hiasan; serif untuk teks besar sahaja; satu atau dua; elak italik dan HURUF BESAR; konsisten."
      ]
     },
     {
@@ -304,7 +273,7 @@
     {
      "k": "ul",
      "en": [
-      "Slide masters",
+      "Slide masters — Use the **slide master** (colours, fonts, design elements apply to every slide) and **predefined layouts** (bulleted lists, charts in predictable places). Even switching from one to two columns can confuse readers.",
       "Predefined layouts",
       "Colour choices",
       "Titles",
@@ -314,7 +283,7 @@
       "Bulleted text"
      ],
      "ms": [
-      "Slide master",
+      "Slide master — Guna **slide master** dan **layout pratetap**.",
       "Susun atur ditetapkan",
       "Pilihan warna",
       "Tajuk",
@@ -331,38 +300,16 @@
     },
     {
      "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**“Death by PowerPoint”** describes the agony of dull, slide-heavy presentations. The problem is not the software; it is a tool that can be used well or poorly.",
-      "**Slideument hybrids**: slide sets treated as standalone documents; too much information to be good visuals and too little to be good reports. Ideal: effective slides **plus a separate handout**; alternative: speaking notes in the notes field; if forced, more simple slides are better than fewer jam-packed ones."
-     ],
-     "ms": [
-      "**“Death by PowerPoint”** = pembentangan membosankan. Masalah bukan perisian.",
-      "**Slideument**: slaid dianggap dokumen; terlalu banyak untuk visual dan terlalu sedikit untuk laporan. Ideal: slaid + **handout berasingan**; lebih banyak slaid ringkas lebih baik."
-     ]
-    },
-    {
-     "k": "h",
      "en": "Key visual, colour, artwork, typefaces",
      "ms": "Visual utama, warna, grafik, taip muka"
     },
     {
      "k": "ul",
      "en": [
-      "**Key visual**: structure slides around a visual that organises and explains (pyramid = hierarchy; circular flow = process loops back) (Figure 17.3).",
-      "**Colour** is far more than decoration: grabs attention, emphasises, creates contrast, isolates elements and sends nonverbal messages (elegance, sophistication, prudence). Cool grays/blues say something different from warm oranges or hot pink/lime.",
-      "**Artwork**: two layers, **background** (like paper, stays the same) and **foreground** (unique content). The background must not compete with the foreground.",
-      "**Typefaces**: avoid script/decorative; serif with care and only larger text; one or two per slide; bold for thin typefaces; avoid italics and ALL CAPS; extra white space between lines; be consistent."
+      "**Key visual**: structure slides around a visual that organises and explains (pyramid = hierarchy; circular flow = process loops back) (Figure 17.3)."
      ],
      "ms": [
-      "**Visual utama**: piramid = hierarki; aliran bulat = proses berulang.",
-      "**Warna** menarik perhatian, menekankan, kontras dan menghantar mesej bukan lisan.",
-      "**Grafik**: dua lapisan, **latar** dan **hadapan**; latar tidak boleh bersaing.",
-      "**Taip muka**: elak skrip/hiasan; serif untuk teks besar sahaja; satu atau dua; elak italik dan HURUF BESAR; konsisten."
+      "**Visual utama**: piramid = hierarki; aliran bulat = proses berulang."
      ]
     },
     {
@@ -373,12 +320,10 @@
     {
      "k": "ul",
      "en": [
-      "Audiences assign meaning to visual elements from the first slide; don’t force them to re-interpret with arbitrary changes.",
-      "Use the **slide master** (colours, fonts, design elements apply to every slide) and **predefined layouts** (bulleted lists, charts in predictable places). Even switching from one to two columns can confuse readers."
+      "Audiences assign meaning to visual elements from the first slide; don’t force them to re-interpret with arbitrary changes."
      ],
      "ms": [
-      "Audiens beri makna pada elemen sejak slaid pertama; jangan tukar sewenang-wenangnya.",
-      "Guna **slide master** dan **layout pratetap**."
+      "Audiens beri makna pada elemen sejak slaid pertama; jangan tukar sewenang-wenangnya."
      ]
     }
    ]
@@ -392,6 +337,19 @@
    },
    "ref": "Slides 15–19",
    "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "Watch for **information overload**: too much content (text and/or visuals) means viewers can’t process it and tune out. Pace information so people connect ideas from slide to slide.",
+      "Overstuffing slides overloads the audience, takes attention from the speaker, and forces smaller type. Slide text is like **headings and subheadings**: you want the audience to **listen, not read**; provide details in handouts.",
+      "Guidelines: one idea per slide; 4–5 lines with 4–5 words per line; avoid many text-heavy slides in a row; short bulleted phrases; sentences only for quotations; parallel form; active voice; short informative titles; let visuals carry the bulk (the more a visual conveys, the less text needed)."
+     ],
+     "ms": [
+      "Awas **beban maklumat**: terlalu banyak kandungan, penonton berhenti memproses.",
+      "Slaid terlalu padat membebankan audiens dan mengalih perhatian. Teks slaid ibarat **tajuk**: audiens **mendengar, bukan membaca**.",
+      "Garis panduan: satu idea; 4–5 baris, 4–5 patah; frasa pendek; selari; ayat aktif; tajuk pendek; visual bawa bahagian utama."
+     ]
+    },
     {
      "k": "h",
      "en": "Writing readable content",
@@ -430,20 +388,20 @@
     {
      "k": "ul",
      "en": [
-      "Reduce the detail",
-      "Simplify",
-      "Shorten numbers",
-      "Limit data",
-      "Highlight key points",
-      "Adjust size and design"
+      "Reduce the detail — Split across slides; give detail in handouts.",
+      "Simplify — E.g. use “Week of” once; remove the vertical scale and show values above bars.",
+      "Shorten numbers — $12,500.72 → $12.5 (label axis in thousands).",
+      "Limit data — Line charts busy with more than 2–3 lines; bar charts crowded with more than 5–6 bars; tables with too many rows/columns.",
+      "Highlight key points — With arrows, bold and colour; one clear title (“Earnings up by 15%”).",
+      "Adjust size and design — White space, contrasting colours, clear label typeface."
      ],
      "ms": [
-      "Kurangkan perincian",
-      "Permudah",
-      "Pendekkan nombor",
-      "Hadkan data",
-      "Serlahkan poin utama",
-      "Laras saiz dan reka bentuk"
+      "Kurangkan perincian — **Kurangkan butiran**.",
+      "Permudah — **Permudah**.",
+      "Pendekkan nombor — **Pendekkan nombor**.",
+      "Hadkan data — Carta garisan >2–3 garisan sibuk; carta bar >5–6 sesak.",
+      "Serlahkan poin utama — ; satu tajuk jelas.",
+      "Laras saiz dan reka bentuk — **Laras saiz dan reka bentuk**."
      ]
     },
     {
@@ -491,24 +449,6 @@
     },
     {
      "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "Watch for **information overload**: too much content (text and/or visuals) means viewers can’t process it and tune out. Pace information so people connect ideas from slide to slide.",
-      "Overstuffing slides overloads the audience, takes attention from the speaker, and forces smaller type. Slide text is like **headings and subheadings**: you want the audience to **listen, not read**; provide details in handouts.",
-      "Guidelines: one idea per slide; 4–5 lines with 4–5 words per line; avoid many text-heavy slides in a row; short bulleted phrases; sentences only for quotations; parallel form; active voice; short informative titles; let visuals carry the bulk (the more a visual conveys, the less text needed)."
-     ],
-     "ms": [
-      "Awas **beban maklumat**: terlalu banyak kandungan, penonton berhenti memproses.",
-      "Slaid terlalu padat membebankan audiens dan mengalih perhatian. Teks slaid ibarat **tajuk**: audiens **mendengar, bukan membaca**.",
-      "Garis panduan: satu idea; 4–5 baris, 4–5 patah; frasa pendek; selari; ayat aktif; tajuk pendek; visual bawa bahagian utama."
-     ]
-    },
-    {
-     "k": "h",
      "en": "Charts and tables for slides",
      "ms": "Carta dan jadual untuk slaid"
     },
@@ -516,25 +456,6 @@
      "k": "p",
      "en": "Audiences view from across the room, so these must be simpler than print visuals.",
      "ms": "Audiens melihat dari jauh, justeru perlu lebih ringkas."
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Reduce detail**: split across slides; give detail in handouts.",
-      "**Simplify**: e.g. use “Week of” once; remove the vertical scale and show values above bars.",
-      "**Shorten numbers**: $12,500.72 → $12.5 (label axis in thousands).",
-      "**Limit data**: line charts busy with more than 2–3 lines; bar charts crowded with more than 5–6 bars; tables with too many rows/columns.",
-      "**Highlight key points** with arrows, bold and colour; one clear title (“Earnings up by 15%”).",
-      "**Adjust size and design**: white space, contrasting colours, clear label typeface."
-     ],
-     "ms": [
-      "**Kurangkan butiran**.",
-      "**Permudah**.",
-      "**Pendekkan nombor**.",
-      "**Hadkan data**: carta garisan >2–3 garisan sibuk; carta bar >5–6 sesak.",
-      "**Serlahkan perkara utama**; satu tajuk jelas.",
-      "**Laras saiz dan reka bentuk**."
-     ]
     },
     {
      "k": "h",
@@ -564,6 +485,20 @@
    "ref": "Slides 21–25",
    "blocks": [
     {
+     "k": "p",
+     "en": "Apply the same quality control to slides as to any message: content, style, tone, readability, clarity and conciseness.",
+     "ms": "Guna kawalan kualiti sama seperti mana-mana mesej."
+    },
+    {
+     "k": "ul",
+     "en": [
+      "**Slide sorter view**: add, delete, reposition slides, check consistency and effects, review story flow."
+     ],
+     "ms": [
+      "**Slide sorter**: tambah, buang, susun semula, semak konsistensi dan aliran."
+     ]
+    },
+    {
      "k": "h",
      "en": "Reviewing the slides (8 checks)",
      "ms": "Menyemak slaid (8 semakan)"
@@ -571,24 +506,24 @@
     {
      "k": "ul",
      "en": [
-      "Readable",
-      "Consistent",
-      "Simple",
-      "Audience-centred",
-      "Clear",
-      "Concise and grammatically correct",
-      "Focused",
-      "Fully operational"
+      "Readable — Text readable from the back of the room, stands out from background.",
+      "Consistent — Colours and design elements.",
+      "Simple — Can any slide be eliminated?",
+      "Audience-centred — Message and design.",
+      "Clear — Main point grasped in a few seconds.",
+      "Concise and grammatically correct — ; parallel bullets.",
+      "Focused — One idea per slide; arrows/symbols draw attention.",
+      "Fully operational — Verify every slide, animation and effect."
      ],
      "ms": [
-      "Mudah dibaca",
-      "Konsisten",
-      "Ringkas",
-      "Berpusatkan audiens",
-      "Jelas",
-      "Ringkas dan tatabahasa betul",
-      "Fokus",
-      "Berfungsi sepenuhnya"
+      "Mudah dibaca — **Boleh dibaca**.",
+      "Konsisten — **Konsisten**.",
+      "Ringkas — Boleh buang slaid?",
+      "Berpusatkan audiens — **Berpusatkan audiens**.",
+      "Jelas — Faham dalam beberapa saat.",
+      "Ringkas dan tatabahasa betul — **Ringkas dan betul tatabahasa**.",
+      "Fokus — **Fokus**.",
+      "Berfungsi sepenuhnya — **Berfungsi sepenuhnya**."
      ]
     },
     {
@@ -599,14 +534,14 @@
     {
      "k": "ul",
      "en": [
-      "Title slides: create a **first impression**",
-      "Agenda and program details: **communicate the agenda**",
-      "Navigation slides: **guide the audience through your outline**"
+      "Title slides: create a **first impression** — = cover page: title (and subtitle), your name, department (internal) or company (external), date, graphic. Two title slides are possible (topic; then affiliation and speaker credentials).",
+      "Agenda and program details: **communicate the agenda** — Agenda plus logistics (breaks, lunch, wireless password) to prevent later disruption.",
+      "Navigation slides: **guide the audience through your outline** — (based on your outline; most useful in long presentations): repeat the slide after each section showing what is covered and what is next (a **moving blueprint**); reuse in the close to review. Alternative: a simple **bumper slide** at each section break."
      ],
      "ms": [
-      "Slaid tajuk: cipta **kesan pertama**",
-      "Agenda dan butiran program: **sampaikan agenda**",
-      "Slaid navigasi: **bimbing audiens melalui rangka anda**"
+      "Slaid tajuk: cipta **kesan pertama** — Tajuk, nama, jabatan/syarikat, tarikh, grafik; boleh dua slaid.",
+      "Agenda dan butiran program: **sampaikan agenda** — Agenda dan logistik.",
+      "Slaid navigasi: **bimbing audiens melalui rangka anda** — Ulang selepas setiap bahagian (**moving blueprint**); alternatif **bumper slide**."
      ]
     },
     {
@@ -639,67 +574,14 @@
     {
      "k": "ul",
      "en": [
-      "Timing",
+      "Timing — Handing out slides before you start lets people take notes, but is risky with the **indirect approach** because they can read ahead to conclusions. Others describe handouts early but distribute them after speaking.",
       "Nature of content",
       "Personal preference"
      ],
      "ms": [
-      "Masa",
+      "Masa — Beri sebelum bermula membolehkan nota, tetapi berisiko dengan **pendekatan tidak langsung**; ada yang edar selepas bercakap.",
       "Jenis kandungan",
       "Keutamaan peribadi"
-     ]
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "p",
-     "en": "Apply the same quality control to slides as to any message: content, style, tone, readability, clarity and conciseness.",
-     "ms": "Guna kawalan kualiti sama seperti mana-mana mesej."
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Readable**: text readable from the back of the room, stands out from background.",
-      "**Consistent** colours and design elements.",
-      "**Simple**: can any slide be eliminated?",
-      "**Audience-centred** message and design.",
-      "**Clear**: main point grasped in a few seconds.",
-      "**Concise and grammatical**; parallel bullets.",
-      "**Focused**: one idea per slide; arrows/symbols draw attention.",
-      "**Fully operational**: verify every slide, animation and effect.",
-      "**Slide sorter view**: add, delete, reposition slides, check consistency and effects, review story flow."
-     ],
-     "ms": [
-      "**Boleh dibaca**.",
-      "**Konsisten**.",
-      "**Ringkas**: boleh buang slaid?",
-      "**Berpusatkan audiens**.",
-      "**Jelas**: faham dalam beberapa saat.",
-      "**Ringkas dan betul tatabahasa**.",
-      "**Fokus**.",
-      "**Berfungsi sepenuhnya**.",
-      "**Slide sorter**: tambah, buang, susun semula, semak konsistensi dan aliran."
-     ]
-    },
-    {
-     "k": "h",
-     "en": "Title, agenda and navigation slides",
-     "ms": "Slaid tajuk, agenda dan navigasi"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Title slide(s)** = cover page: title (and subtitle), your name, department (internal) or company (external), date, graphic. Two title slides are possible (topic; then affiliation and speaker credentials).",
-      "**Agenda and program details**: agenda plus logistics (breaks, lunch, wireless password) to prevent later disruption.",
-      "**Navigation slides** (based on your outline; most useful in long presentations): repeat the slide after each section showing what is covered and what is next (a **moving blueprint**); reuse in the close to review. Alternative: a simple **bumper slide** at each section break."
-     ],
-     "ms": [
-      "**Slaid tajuk**: tajuk, nama, jabatan/syarikat, tarikh, grafik; boleh dua slaid.",
-      "**Agenda dan butiran program**: agenda dan logistik.",
-      "**Slaid navigasi**: ulang selepas setiap bahagian (**moving blueprint**); alternatif **bumper slide**."
      ]
     },
     {
@@ -711,13 +593,11 @@
      "k": "ul",
      "en": [
       "Handouts are part of your presentation strategy, planned with slides. The presentation paints the big picture, connects ideas, sets emotional tone and rouses to action; handouts carry supporting detail at the audience’s own pace.",
-      "Good content: complex charts and diagrams, articles and technical papers, case studies, recommended resources (URL plus one or two sentences), copies of slides (with speaker comments and blank lines for notes).",
-      "**Timing**: handing out slides before you start lets people take notes, but is risky with the **indirect approach** because they can read ahead to conclusions. Others describe handouts early but distribute them after speaking."
+      "Good content: complex charts and diagrams, articles and technical papers, case studies, recommended resources (URL plus one or two sentences), copies of slides (with speaker comments and blank lines for notes)."
      ],
      "ms": [
       "Handout sebahagian strategi; pembentangan beri gambaran besar, handout beri butiran sokongan.",
-      "Kandungan baik: carta kompleks, artikel, kajian kes, sumber disyorkan, salinan slaid.",
-      "**Masa**: beri sebelum bermula membolehkan nota, tetapi berisiko dengan **pendekatan tidak langsung**; ada yang edar selepas bercakap."
+      "Kandungan baik: carta kompleks, artikel, kajian kes, sumber disyorkan, salinan slaid."
      ]
     }
    ]

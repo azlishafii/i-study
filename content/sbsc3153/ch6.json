@@ -43,6 +43,19 @@
    "ref": "Slides 5–10",
    "blocks": [
     {
+     "k": "ul",
+     "en": [
+      "Informal internal messages (IM, text, email, blog) need at least a quick check for mistakes, but grammar, spelling and clarity still matter: audiences equate the **quality of your writing with the quality of your thinking**.",
+      "For complex or important messages, set the draft aside for a day or two, then start with the **big picture** (does it meet your goals?) before readability, clarity and conciseness.",
+      "Focus first on **content, organisation, style and tone**."
+     ],
+     "ms": [
+      "Mesej tidak formal perlu semakan pantas, tetapi tatabahasa dan kejelasan tetap penting: audiens menyamakan **kualiti penulisan dengan kualiti pemikiran**.",
+      "Untuk mesej kompleks, ketepikan draf sehari dua, mulakan dengan **gambaran besar** sebelum kebolehbacaan, kejelasan dan keringkasan.",
+      "Fokus dahulu pada **kandungan, organisasi, gaya dan nada**."
+     ]
+    },
+    {
      "k": "h",
      "en": "Revise based on media and content",
      "ms": "Semak berdasarkan media dan kandungan"
@@ -113,14 +126,14 @@
     {
      "k": "ul",
      "en": [
-      "Support the writer’s intent",
+      "Support the writer’s intent — Your job is to help the writer succeed, **not** to impose your style or agenda.",
       "Avoid imposing your own style or agenda",
-      "Learn what the writer wanted to accomplish"
+      "Learn what the writer wanted to accomplish — Understand the writer’s intent before suggesting changes, or you may make the piece less effective."
      ],
      "ms": [
-      "Sokong niat penulis",
+      "Sokong niat penulis — Tugas anda membantu penulis berjaya, **bukan** memaksakan gaya anda.",
       "Elak memaksa gaya atau agenda sendiri",
-      "Fahami apa yang penulis mahu capai"
+      "Fahami apa yang penulis mahu capai — Fahami niat penulis sebelum mengubah."
      ]
     },
     {
@@ -134,9 +147,9 @@
       "What is the purpose?",
       "Who is the target audience?",
       "What information does the audience need?",
-      "Is it well organised?",
+      "Is it well organised? — Logical order? most important ideas get most space and prominent positions? would another sequence persuade more? unnecessary repetition? details grouped logically?",
       "Does it show the “you” attitude?",
-      "Is the tone appropriate?",
+      "Is the tone appropriate? — Formal enough without being too formal or academic? too casual for a serious subject?",
       "Can readability be improved?",
       "Is it clear?",
       "Is it as concise as it could be?",
@@ -146,31 +159,13 @@
       "Apakah tujuannya?",
       "Siapa audiens sasaran?",
       "Apa maklumat yang audiens perlu?",
-      "Adakah teratur?",
+      "Adakah teratur? — Susunan logik? idea penting diberi ruang? ulangan tidak perlu? butiran dikelompok?",
       "Adakah ada sikap “you”?",
-      "Adakah nada sesuai?",
+      "Adakah nada sesuai? — Cukup formal tetapi tidak terlalu akademik? terlalu santai?",
       "Boleh tambah baik kebolehbacaan?",
       "Adakah jelas?",
       "Adakah seringkas mungkin?",
       "Adakah reka bentuk menyokong mesej?"
-     ]
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "Informal internal messages (IM, text, email, blog) need at least a quick check for mistakes, but grammar, spelling and clarity still matter: audiences equate the **quality of your writing with the quality of your thinking**.",
-      "For complex or important messages, set the draft aside for a day or two, then start with the **big picture** (does it meet your goals?) before readability, clarity and conciseness.",
-      "Focus first on **content, organisation, style and tone**."
-     ],
-     "ms": [
-      "Mesej tidak formal perlu semakan pantas, tetapi tatabahasa dan kejelasan tetap penting: audiens menyamakan **kualiti penulisan dengan kualiti pemikiran**.",
-      "Untuk mesej kompleks, ketepikan draf sehari dua, mulakan dengan **gambaran besar** sebelum kebolehbacaan, kejelasan dan keringkasan.",
-      "Fokus dahulu pada **kandungan, organisasi, gaya dan nada**."
      ]
     },
     {
@@ -182,31 +177,11 @@
      "k": "ul",
      "en": [
       "**Content**: accurate? relevant? enough information? balance of general background and specific detail?",
-      "**Organisation**: logical order? most important ideas get most space and prominent positions? would another sequence persuade more? unnecessary repetition? details grouped logically?",
-      "**Tone**: formal enough without being too formal or academic? too casual for a serious subject?",
       "Spend extra time on the **beginning and end**: they have the greatest impact."
      ],
      "ms": [
       "**Kandungan**: tepat? relevan? cukup? seimbang umum dan spesifik?",
-      "**Organisasi**: susunan logik? idea penting diberi ruang? ulangan tidak perlu? butiran dikelompok?",
-      "**Nada**: cukup formal tetapi tidak terlalu akademik? terlalu santai?",
       "Beri masa lebih pada **permulaan dan penutup**: kesan terbesar."
-     ]
-    },
-    {
-     "k": "h",
-     "en": "Evaluating another writer’s work",
-     "ms": "Menilai tulisan orang lain"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "Your job is to help the writer succeed, **not** to impose your style or agenda.",
-      "Understand the writer’s intent before suggesting changes, or you may make the piece less effective."
-     ],
-     "ms": [
-      "Tugas anda membantu penulis berjaya, **bukan** memaksakan gaya anda.",
-      "Fahami niat penulis sebelum mengubah."
      ]
     }
    ]
@@ -220,6 +195,17 @@
    },
    "ref": "Slides 11–16",
    "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Readability indexes** measure word length, syllables, sentence length and paragraph length only. They cannot measure design, the “you” attitude, sentence structure, transitions or word usage.",
+      "Senior managers **skim** for key ideas, conclusions and recommendations; read closely later if valuable. Four techniques: vary sentence length, short paragraphs, lists/bullets, headings."
+     ],
+     "ms": [
+      "**Indeks kebolehbacaan** hanya ukur panjang perkataan, suku kata, ayat dan perenggan. Tidak mengukur reka bentuk, sikap “you”, peralihan.",
+      "Pengurus kanan **mengimbas** idea utama, kesimpulan dan cadangan. Empat teknik: variasi ayat, perenggan pendek, senarai, tajuk."
+     ]
+    },
     {
      "k": "p",
      "en": "Four techniques: **vary sentence length**, **keep paragraphs short**, **use lists**, and **add headings and subheadings**.",
@@ -273,36 +259,20 @@
     {
      "k": "ul",
      "en": [
-      "**Paragraphs:** 100 words or fewer; inviting to the reader; connect ideas; emphasise key ideas; divide large subjects; don’t go overboard",
-      "**Lists:** set off important ideas; simplify and break down complex subjects; highlight sequences of ideas",
-      "**Headings:** organise lengthy material; grab attention; increase understanding; group related paragraphs; visually indicate shifts"
+      "**Paragraphs:** 100 words or fewer; inviting to the reader; connect ideas; emphasise key ideas; divide large subjects; don’t go overboard — Short paragraphs (**100 words or fewer**) are inviting and can emphasise ideas. Use one-sentence paragraphs only occasionally; use transitions when splitting subjects.",
+      "**Lists:** set off important ideas; simplify and break down complex subjects; highlight sequences of ideas — Show sequence, heighten impact and help skimming. Bullets are preferred unless there is a sequence/ranking or you refer to items. Set off with blank lines, introduce clearly, keep items **parallel**.",
+      "**Headings:** organise lengthy material; grab attention; increase understanding; group related paragraphs; visually indicate shifts — Serve three functions: **organisation**, **attention**, **connection** (main vs subordinate ideas)."
      ],
      "ms": [
-      "**Perenggan:** 100 perkataan atau kurang; menarik pembaca; sambung idea; tekankan idea utama; bahagi subjek besar; jangan keterlaluan",
-      "**Senarai:** tonjolkan idea penting; ringkaskan dan pecahkan subjek kompleks; serlahkan urutan idea",
-      "**Tajuk:** susun bahan panjang; tarik perhatian; tingkat kefahaman; kumpul perenggan berkaitan; tunjuk peralihan secara visual"
+      "**Perenggan:** 100 perkataan atau kurang; menarik pembaca; sambung idea; tekankan idea utama; bahagi subjek besar; jangan keterlaluan — Perenggan pendek (**100 patah atau kurang**) menarik. Perenggan satu ayat sekali-sekala; guna peralihan.",
+      "**Senarai:** tonjolkan idea penting; ringkaskan dan pecahkan subjek kompleks; serlahkan urutan idea — Menunjuk urutan dan memudahkan imbasan. Bullet diutamakan kecuali ada urutan. Items mesti **selari**.",
+      "**Tajuk:** susun bahan panjang; tarik perhatian; tingkat kefahaman; kumpul perenggan berkaitan; tunjuk peralihan secara visual — Ada tiga fungsi: **organisasi**, **perhatian**, **hubungan**."
      ]
     },
     {
      "k": "note",
      "en": "Slide 12 lists skimmable documents (indexes, key ideas, conclusions, recommendations). The layout is a diagram, so the grouping above is my reading.",
      "ms": "Slaid 12 menyenaraikan dokumen mudah diimbas (indeks, idea utama, kesimpulan, cadangan). Susunannya ialah rajah, jadi pengelompokan ialah bacaan saya."
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Readability indexes** measure word length, syllables, sentence length and paragraph length only. They cannot measure design, the “you” attitude, sentence structure, transitions or word usage.",
-      "Senior managers **skim** for key ideas, conclusions and recommendations; read closely later if valuable. Four techniques: vary sentence length, short paragraphs, lists/bullets, headings."
-     ],
-     "ms": [
-      "**Indeks kebolehbacaan** hanya ukur panjang perkataan, suku kata, ayat dan perenggan. Tidak mengukur reka bentuk, sikap “you”, peralihan.",
-      "Pengurus kanan **mengimbas** idea utama, kesimpulan dan cadangan. Empat teknik: variasi ayat, perenggan pendek, senarai, tajuk."
-     ]
     },
     {
      "k": "h",
@@ -332,15 +302,9 @@
     {
      "k": "ul",
      "en": [
-      "Short paragraphs (**100 words or fewer**) are inviting and can emphasise ideas. Use one-sentence paragraphs only occasionally; use transitions when splitting subjects.",
-      "**Lists** show sequence, heighten impact and help skimming. Bullets are preferred unless there is a sequence/ranking or you refer to items. Set off with blank lines, introduce clearly, keep items **parallel**.",
-      "**Headings** serve three functions: **organisation**, **attention**, **connection** (main vs subordinate ideas).",
       "**Descriptive** headings name a topic (“Cost Considerations”); **informative** headings guide thinking (“Redesigning Material Flow to Cut Production Costs”). Keep brief and parallel."
      ],
      "ms": [
-      "Perenggan pendek (**100 patah atau kurang**) menarik. Perenggan satu ayat sekali-sekala; guna peralihan.",
-      "**Senarai** menunjuk urutan dan memudahkan imbasan. Bullet diutamakan kecuali ada urutan. Items mesti **selari**.",
-      "**Tajuk** ada tiga fungsi: **organisasi**, **perhatian**, **hubungan**.",
       "Tajuk **deskriptif** menamakan topik; **informatif** memandu pemikiran. Ringkas dan selari."
      ]
     }
@@ -363,24 +327,24 @@
     {
      "k": "ul",
      "en": [
-      "Break up overly long sentences",
-      "Rewrite hedging sentences",
-      "Impose parallelism",
-      "Correct dangling modifiers",
-      "Reword long noun sequences",
-      "Replace camouflaged verbs",
-      "Clarify sentence structure",
-      "Clarify awkward references"
+      "Break up overly long sentences — You may be expressing two dissimilar thoughts or too much evidence at once.",
+      "Rewrite hedging sentences — Too many “may/seems” make you sound unsure.",
+      "Impose parallelism — Same grammatical construction shows ideas are related and equal.",
+      "Correct dangling modifiers — Modifier phrase must connect to the subject.",
+      "Reword long noun sequences — Use one word or move nouns to a modifying phrase.",
+      "Replace camouflaged verbs — (-ion, -tion, -ing, -ment, -ant, -ent, -ence, -ance, -ency) that turn verbs into nouns.",
+      "Clarify sentence structure — Keep subject and predicate close; place modifiers next to words they modify.",
+      "Clarify awkward references — Avoid “as mentioned above”, “the former/latter”, “respectively”; use a specific pointer."
      ],
      "ms": [
-      "Pecahkan ayat terlalu panjang",
-      "Tulis semula ayat berlindung (hedging)",
-      "Kenakan keselarian (parallelism)",
-      "Betulkan modifier tergantung",
-      "Tulis semula jujukan kata nama panjang",
-      "Gantikan kata kerja tersembunyi",
-      "Jelaskan struktur ayat",
-      "Jelaskan rujukan janggal"
+      "Pecahkan ayat terlalu panjang — **Pecahkan ayat terlalu panjang**.",
+      "Tulis semula ayat berlindung (hedging) — **Tulis semula ayat berselindung (hedging)**.",
+      "Kenakan keselarian (parallelism) — **Kenakan keselarian**.",
+      "Betulkan modifier tergantung — **Betulkan modifier tergantung**.",
+      "Tulis semula jujukan kata nama panjang — **Ringkaskan jujukan kata nama panjang**.",
+      "Gantikan kata kerja tersembunyi — (-ion, -tion, -ment dll).",
+      "Jelaskan struktur ayat — Subjek dan predikat dekat.",
+      "Jelaskan rujukan janggal — Guna penunjuk spesifik."
      ]
     },
     {
@@ -391,15 +355,15 @@
     {
      "k": "ul",
      "en": [
-      "Delete unnecessary words and phrases",
-      "Shorten long words and phrases",
-      "Eliminate redundancies",
+      "Delete unnecessary words and phrases — If meaning doesn’t change, leave it out.",
+      "Shorten long words and phrases — ; use infinitives (“to”).",
+      "Eliminate redundancies — (e.g. “visible to the eye”).",
       "Rewrite"
      ],
      "ms": [
-      "Buang perkataan dan frasa tidak perlu",
-      "Pendekkan perkataan dan frasa panjang",
-      "Hapuskan kelewahan (redundancy)",
+      "Buang perkataan dan frasa tidak perlu — **Buang perkataan tidak perlu**.",
+      "Pendekkan perkataan dan frasa panjang — **Pendekkan perkataan panjang**.",
+      "Hapuskan kelewahan (redundancy) — **Hapuskan pengulangan makna**.",
       "Tulis semula"
      ]
     },
@@ -410,54 +374,15 @@
     },
     {
      "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "h",
-     "en": "Eight steps for clarity",
-     "ms": "Lapan langkah kejelasan"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Break up overly long sentences**: you may be expressing two dissimilar thoughts or too much evidence at once.",
-      "**Rewrite hedging sentences**: too many “may/seems” make you sound unsure.",
-      "**Impose parallelism**: same grammatical construction shows ideas are related and equal.",
-      "**Correct dangling modifiers**: modifier phrase must connect to the subject.",
-      "**Reword long noun sequences**: use one word or move nouns to a modifying phrase.",
-      "**Replace camouflaged verbs** (-ion, -tion, -ing, -ment, -ant, -ent, -ence, -ance, -ency) that turn verbs into nouns.",
-      "**Clarify sentence structure**: keep subject and predicate close; place modifiers next to words they modify.",
-      "**Clarify awkward references**: avoid “as mentioned above”, “the former/latter”, “respectively”; use a specific pointer."
-     ],
-     "ms": [
-      "**Pecahkan ayat terlalu panjang**.",
-      "**Tulis semula ayat berselindung (hedging)**.",
-      "**Kenakan keselarian**.",
-      "**Betulkan modifier tergantung**.",
-      "**Ringkaskan jujukan kata nama panjang**.",
-      "**Gantikan kata kerja tersamar** (-ion, -tion, -ment dll).",
-      "**Jelaskan struktur ayat**: subjek dan predikat dekat.",
-      "**Jelaskan rujukan kekok**: guna penunjuk spesifik."
-     ]
-    },
-    {
-     "k": "h",
      "en": "Four tips for conciseness",
      "ms": "Empat tip keringkasan"
     },
     {
      "k": "ul",
      "en": [
-      "**Delete unnecessary words and phrases**: if meaning doesn’t change, leave it out.",
-      "**Shorten long words and phrases**; use infinitives (“to”).",
-      "**Eliminate redundancies** (e.g. “visible to the eye”).",
       "**Rewrite “It is / There are” starters**: “We believe…” is shorter and more active than “It is believed that…”."
      ],
      "ms": [
-      "**Buang perkataan tidak perlu**.",
-      "**Pendekkan perkataan panjang**.",
-      "**Hapuskan pengulangan makna**.",
       "**Tulis semula permulaan “It is / There are”**."
      ]
     },
@@ -478,6 +403,11 @@
    "ref": "Slides 21–25",
    "blocks": [
     {
+     "k": "p",
+     "en": "**Production quality** (page/screen design, graphics, typography) affects effectiveness and conveys professionalism. Good design sets tone and guides readers.",
+     "ms": "**Kualiti pengeluaran** menjejaskan keberkesanan dan menunjukkan profesionalisme."
+    },
+    {
      "k": "h",
      "en": "Four design principles",
      "ms": "Empat prinsip reka bentuk"
@@ -485,16 +415,16 @@
     {
      "k": "ul",
      "en": [
-      "Consistency",
-      "Balance",
-      "Restraint",
-      "Detail"
+      "Consistency — Margins, typeface, type size, space and recurring elements, within and across messages.",
+      "Balance — Subjective; formal grid or informal flow can both be balanced; can be too formal, just right or too informal.",
+      "Restraint — Simplicity; “simpler” and “fewer” (typefaces, colours, decoration).",
+      "Detail — E.g. very wide columns are hard to read; split into two columns."
      ],
      "ms": [
-      "Konsistensi",
-      "Keseimbangan",
-      "Kawalan (restraint)",
-      "Perincian"
+      "Konsistensi — Jidar, taip muka, saiz, ruang.",
+      "Keseimbangan — Subjektif; formal atau tidak formal.",
+      "Kawalan (restraint) — Ringkas; “lebih mudah” dan “lebih sedikit”.",
+      "Perincian — Lajur terlalu lebar sukar dibaca."
      ]
     },
     {
@@ -505,18 +435,18 @@
     {
      "k": "ul",
      "en": [
-      "White space",
-      "Margins",
+      "White space — = any blank area (margins, indents, around images and headings, between columns and lines). Provides contrast and resting points; be generous.",
+      "Margins — Justified, flush left/ragged right (most business documents), flush right/ragged left, or centred.",
       "Justification",
-      "Typefaces",
-      "Type styles"
+      "Typefaces — = design of the characters; **font** = collection of characters in that design. Classic: sans serif for headings, serif for body; many modern documents are all sans serif.",
+      "Type styles — (bold, italic, underline, colour): avoid styles that hinder reading."
      ],
      "ms": [
-      "Ruang putih",
-      "Margin",
+      "Ruang putih — = kawasan kosong. Beri kontras dan rehat; murah hati.",
+      "Margin — Dijustifikasi, rata kiri/kanan berombak (kebanyakan dokumen), rata kanan, atau tengah.",
       "Penjajaran (justification)",
-      "Jenis taip (typefaces)",
-      "Gaya taip"
+      "Jenis taip (typefaces) — = reka huruf; **font** = koleksi aksara. Klasik: sans serif untuk tajuk, serif untuk teks.",
+      "Gaya taip — Elak yang mengganggu bacaan."
      ]
     },
     {
@@ -543,51 +473,6 @@
      "k": "note",
      "en": "Slide 24 (Formatting Formal Letters and Memos) has no text. See Appendix A of your textbook.",
      "ms": "Slaid 24 (Formatting Formal Letters and Memos) tiada teks. Rujuk Lampiran A buku teks."
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "p",
-     "en": "**Production quality** (page/screen design, graphics, typography) affects effectiveness and conveys professionalism. Good design sets tone and guides readers.",
-     "ms": "**Kualiti pengeluaran** menjejaskan keberkesanan dan menunjukkan profesionalisme."
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Consistency**: margins, typeface, type size, space and recurring elements, within and across messages.",
-      "**Balance**: subjective; formal grid or informal flow can both be balanced; can be too formal, just right or too informal.",
-      "**Restraint**: simplicity; “simpler” and “fewer” (typefaces, colours, decoration).",
-      "**Detail**: e.g. very wide columns are hard to read; split into two columns."
-     ],
-     "ms": [
-      "**Konsisten**: jidar, taip muka, saiz, ruang.",
-      "**Seimbang**: subjektif; formal atau tidak formal.",
-      "**Terkawal**: ringkas; “lebih mudah” dan “lebih sedikit”.",
-      "**Butiran**: lajur terlalu lebar sukar dibaca."
-     ]
-    },
-    {
-     "k": "h",
-     "en": "Design elements",
-     "ms": "Elemen reka bentuk"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**White space** = any blank area (margins, indents, around images and headings, between columns and lines). Provides contrast and resting points; be generous.",
-      "**Margins**: justified, flush left/ragged right (most business documents), flush right/ragged left, or centred.",
-      "**Typeface** = design of the characters; **font** = collection of characters in that design. Classic: sans serif for headings, serif for body; many modern documents are all sans serif.",
-      "**Type style** (bold, italic, underline, colour): avoid styles that hinder reading."
-     ],
-     "ms": [
-      "**Ruang putih** = kawasan kosong. Beri kontras dan rehat; murah hati.",
-      "**Jidar**: dijustifikasi, rata kiri/kanan berombak (kebanyakan dokumen), rata kanan, atau tengah.",
-      "**Taip muka** = reka huruf; **font** = koleksi aksara. Klasik: sans serif untuk tajuk, serif untuk teks.",
-      "**Gaya taip**: elak yang mengganggu bacaan."
-     ]
     },
     {
      "k": "h",
@@ -619,6 +504,19 @@
    "ref": "Slides 26–29",
    "blocks": [
     {
+     "k": "ul",
+     "en": [
+      "Proofreading is the **quality inspection** stage and your last chance before your message and reputation reach the audience; even a small mistake can doom your efforts.",
+      "Look for two kinds of problems: (1) undetected errors from writing, design and layout; (2) errors during production (missing fonts, broken web links, printing ink problems). Be extra vigilant with complex documents involving many people and computers.",
+      "Details to check: language errors, missing material, design errors, typographical errors."
+     ],
+     "ms": [
+      "Pembacaan pruf ialah peringkat **pemeriksaan kualiti** dan peluang terakhir.",
+      "Dua jenis masalah: (1) ralat penulisan, reka bentuk, layout; (2) ralat semasa pengeluaran (font hilang, pautan rosak).",
+      "Semak: ralat bahasa, bahan hilang, ralat reka bentuk, ralat taip."
+     ]
+    },
+    {
      "k": "h",
      "en": "Problems to look for",
      "ms": "Masalah untuk dikesan"
@@ -646,71 +544,30 @@
     {
      "k": "ul",
      "en": [
-      "Make multiple passes",
-      "Use perceptual tricks",
-      "Double-check high-priority items",
-      "Give yourself some distance",
-      "Be vigilant",
-      "Stay focused",
-      "Review complex digital documents on paper",
-      "Take your time"
+      "Make multiple passes — , focusing on one aspect each time (content, then layout).",
+      "Use perceptual tricks — , because your brain supplies missing pieces: read backward bottom to top; finger under each word; slit in paper to reveal one line; read aloud pronouncing each word.",
+      "Double-check high-priority items — Names, dates, addresses, numbers (e.g. $5,000 vs $50,000).",
+      "Give yourself some distance — Before proofreading.",
+      "Be vigilant — Not in long sittings or when tired.",
+      "Stay focused — ; block distractions.",
+      "Review complex digital documents on paper — **Review complex digital documents on paper**.",
+      "Take your time — Quick is not careful."
      ],
      "ms": [
-      "Buat beberapa lintasan",
-      "Guna helah persepsi",
-      "Semak semula perkara keutamaan tinggi",
-      "Beri jarak masa kepada diri",
-      "Berwaspada",
-      "Kekal fokus",
-      "Semak dokumen digital kompleks atas kertas",
-      "Ambil masa"
-     ]
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "Proofreading is the **quality inspection** stage and your last chance before your message and reputation reach the audience; even a small mistake can doom your efforts.",
-      "Look for two kinds of problems: (1) undetected errors from writing, design and layout; (2) errors during production (missing fonts, broken web links, printing ink problems). Be extra vigilant with complex documents involving many people and computers.",
-      "Details to check: language errors, missing material, design errors, typographical errors."
-     ],
-     "ms": [
-      "Pembacaan pruf ialah peringkat **pemeriksaan kualiti** dan peluang terakhir.",
-      "Dua jenis masalah: (1) ralat penulisan, reka bentuk, layout; (2) ralat semasa pengeluaran (font hilang, pautan rosak).",
-      "Semak: ralat bahasa, bahan hilang, ralat reka bentuk, ralat taip."
+      "Buat beberapa lintasan — , satu aspek setiap kali.",
+      "Guna helah persepsi — Baca terbalik dari bawah; jari di bawah perkataan; celah kertas; baca kuat.",
+      "Semak semula perkara keutamaan tinggi — Nama, tarikh, alamat, nombor.",
+      "Beri jarak masa kepada diri — Sebelum semak.",
+      "Berwaspada — **Berwaspada**.",
+      "Kekal fokus — **Fokus**.",
+      "Semak dokumen digital kompleks atas kertas — **Semak dokumen digital kompleks di atas kertas**.",
+      "Ambil masa — **Ambil masa**."
      ]
     },
     {
      "k": "h",
      "en": "Eight proofreading tips",
      "ms": "Lapan tip pembacaan pruf"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Make multiple passes**, focusing on one aspect each time (content, then layout).",
-      "**Use perceptual tricks**, because your brain supplies missing pieces: read backward bottom to top; finger under each word; slit in paper to reveal one line; read aloud pronouncing each word.",
-      "**Double-check high-priority items**: names, dates, addresses, numbers (e.g. $5,000 vs $50,000).",
-      "**Give yourself distance** before proofreading.",
-      "**Be vigilant**: not in long sittings or when tired.",
-      "**Stay focused**; block distractions.",
-      "**Review complex digital documents on paper**.",
-      "**Take your time**: quick is not careful."
-     ],
-     "ms": [
-      "**Beberapa pusingan**, satu aspek setiap kali.",
-      "**Helah persepsi**: baca terbalik dari bawah; jari di bawah perkataan; celah kertas; baca kuat.",
-      "**Semak semula perkara keutamaan**: nama, tarikh, alamat, nombor.",
-      "**Beri jarak** sebelum semak.",
-      "**Berwaspada**.",
-      "**Fokus**.",
-      "**Semak dokumen digital kompleks di atas kertas**.",
-      "**Ambil masa**."
-     ]
     },
     {
      "k": "tip",
@@ -729,21 +586,6 @@
    "ref": "Slides 30–31",
    "blocks": [
     {
-     "k": "p",
-     "en": "Factors in choosing a distribution method: **cost**, **convenience**, **time**, and **security and privacy**.",
-     "ms": "Faktor memilih kaedah pengedaran: **kos**, **kemudahan**, **masa**, serta **keselamatan dan privasi**."
-    },
-    {
-     "k": "tip",
-     "en": "Memory hook: C-C-T-S.",
-     "ms": "Cara ingat: C-C-T-S."
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
      "k": "ul",
      "en": [
       "**Cost**: printing, binding and delivering reports can be expensive; weigh cost against benefit. Overnight delivery could look responsive or wasteful depending on the situation.",
@@ -757,6 +599,16 @@
       "**Masa**: berapa segera? Jangan tanda “urgent” jika tidak benar-benar.",
       "**Keselamatan dan privasi**: pertimbangkan risiko; tukar fail kepada **PDF** (lebih kebal virus)."
      ]
+    },
+    {
+     "k": "p",
+     "en": "Factors in choosing a distribution method: **cost**, **convenience**, **time**, and **security and privacy**.",
+     "ms": "Faktor memilih kaedah pengedaran: **kos**, **kemudahan**, **masa**, serta **keselamatan dan privasi**."
+    },
+    {
+     "k": "tip",
+     "en": "Memory hook: C-C-T-S.",
+     "ms": "Cara ingat: C-C-T-S."
     }
    ]
   }

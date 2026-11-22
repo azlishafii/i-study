@@ -41,6 +41,17 @@
    "ref": "Slides 1, 3–9",
    "blocks": [
     {
+     "k": "ul",
+     "en": [
+      "**Slide 3**: it is tempting to punch keywords into a search engine, but your favourite engine may not reach the pages you need, the information may not be online, may not be under your search terms, or may not exist in any form.",
+      "**Slide 4**: planning steps are to familiarise yourself with the subject so you can frame insightful questions, identify the most critical information gaps, then prioritise research needs. Before launching, consider the **ethics and etiquette** of your approach."
+     ],
+     "ms": [
+      "**Slaid 3**: menggoda untuk terus guna enjin carian, tetapi enjin mungkin tidak sampai ke laman diperlukan, maklumat mungkin tidak dalam talian, tidak di bawah kata carian anda, atau tidak wujud.",
+      "**Slaid 4**: langkah perancangan ialah kenali subjek supaya boleh bertanya soalan bernas, kenal pasti jurang maklumat kritikal, kemudian utamakan keperluan. Sebelum bermula, pertimbangkan **etika dan etiket**."
+     ]
+    },
+    {
      "k": "table",
      "head": {
       "en": [
@@ -128,20 +139,20 @@
     {
      "k": "ul",
      "en": [
-      "Don’t force a specific outcome",
-      "Respect the privacy of research participants",
-      "Document sources and give credit",
-      "Respect intellectual property rights",
-      "Don’t misquote your sources",
-      "Don’t make misrepresentations"
+      "Don’t force a specific outcome — Approach research with an open mind, even if you don’t like what you find.",
+      "Respect the privacy of research participants — Businesses want to protect confidential information from competitors; consumers want to protect personal information from businesses.",
+      "Document sources and give credit — Fair to creators, and lets your audience confirm or explore the information.",
+      "Respect intellectual property rights — A great business process you find may be protected by a patent.",
+      "Don’t misquote your sources — If an expert says a sales increase is *possible*, don’t quote “*probable*”.",
+      "Don’t make misrepresentations — **Sugging** = *selling under the guise of research* (a “survey” used to find hot sales leads, or following a genuine survey with sales calls using respondents’ answers)."
      ],
      "ms": [
-      "Jangan paksa hasil tertentu",
-      "Hormati privasi peserta penyelidikan",
-      "Dokumenkan sumber dan beri kredit",
-      "Hormati hak harta intelek",
-      "Jangan salah petik sumber",
-      "Jangan membuat salah nyata"
+      "Jangan paksa hasil tertentu — Minda terbuka walaupun dapatan tidak disukai.",
+      "Hormati privasi peserta penyelidikan — Perniagaan melindungi maklumat sulit daripada pesaing; pengguna melindungi maklumat peribadi daripada perniagaan.",
+      "Dokumenkan sumber dan beri kredit — Adil kepada pencipta dan membolehkan audiens mengesahkan.",
+      "Hormati hak harta intelek — Proses perniagaan mungkin dilindungi paten.",
+      "Jangan salah petik sumber — Jika pakar kata kenaikan jualan *mungkin*, jangan petik “*berkemungkinan besar*”.",
+      "Jangan membuat salah nyata — **Sugging** = *menjual berselindung di sebalik penyelidikan* (tinjauan untuk cari bakal pelanggan, atau panggilan jualan selepas tinjauan sebenar)."
      ]
     },
     {
@@ -152,12 +163,12 @@
     {
      "k": "ul",
      "en": [
-      "Explore the subject area: industry publications, websites and social media, interviews",
-      "Develop a problem statement: define purpose, identify conclusion, phrase the problem as a question"
+      "Explore the subject area: industry publications, websites and social media, interviews — Give yourself unstructured time to explore: industry publications and blogs, trending topics on Twitter, competitors’ websites, interviews with experts in your organisation, tables of contents and indexes of books.",
+      "Develop a problem statement: define purpose, identify conclusion, phrase the problem as a question — Defines the problem or purpose: the decision you must make or the conclusion you must reach. Easier as a question, e.g. “How can we improve customer satisfaction?” or “Does Apple’s new TV system pose a competitive threat to us?”"
      ],
      "ms": [
-      "Teroka bidang subjek: penerbitan industri, laman web dan media sosial, temu bual",
-      "Bangunkan pernyataan masalah: tentukan tujuan, kenal pasti kesimpulan, bingkai masalah sebagai soalan"
+      "Teroka bidang subjek: penerbitan industri, laman web dan media sosial, temu bual — Beri masa tidak berstruktur untuk meneroka: penerbitan industri, blog, topik trending Twitter, laman pesaing, temu bual pakar dalaman, kandungan dan indeks buku.",
+      "Bangunkan pernyataan masalah: tentukan tujuan, kenal pasti kesimpulan, bingkai masalah sebagai soalan — Menentukan masalah atau tujuan: keputusan atau kesimpulan yang perlu dicapai. Lebih mudah sebagai soalan."
      ]
     },
     {
@@ -168,12 +179,12 @@
     {
      "k": "ul",
      "en": [
-      "Find specific information gaps",
+      "Find specific information gaps — The problem statement does not say what specific information you need. You or someone in the company may already have some of it. “Improve customer satisfaction” is too vague, so break it into issues (product reliability, customer service skills). If repair data are already tracked, no need to research reliability; if service skills were never measured, that is a definite gap.",
       "Dig deeper into purpose",
       "Focus on specific issues"
      ],
      "ms": [
-      "Cari jurang maklumat khusus",
+      "Cari jurang maklumat khusus — Penyataan masalah tidak menyatakan maklumat khusus. Mungkin sebahagian sudah ada. Pecahkan topik kabur kepada isu khusus; jika data sudah dijejak, tidak perlu dikaji; yang belum diukur ialah jurang.",
       "Gali tujuan lebih mendalam",
       "Fokus kepada isu khusus"
      ]
@@ -186,28 +197,12 @@
     {
      "k": "ul",
      "en": [
-      "Constraints: limited time, limited money, unavailability of qualified subjects",
+      "Constraints: limited time, limited money, unavailability of qualified subjects — You lack time and money to answer every question; interviews and surveys must be limited to what people will give. Divide into **“need to know”** and **“nice to know”** and drop “nice to know”. Information gap analysis shows what you truly need.",
       "Information: limit the scope of surveys and interviews; “need to know” questions come before “nice to know” questions"
      ],
      "ms": [
-      "Kekangan: masa terhad, wang terhad, ketiadaan subjek berkelayakan",
+      "Kekangan: masa terhad, wang terhad, ketiadaan subjek berkelayakan — Masa dan wang terhad; tinjauan dan temu bual mesti dihadkan. Bahagikan kepada **“need to know”** dan **“nice to know”** dan buang “nice to know”.",
       "Maklumat: hadkan skop tinjauan dan temu bual; soalan “need to know” sebelum “nice to know”"
-     ]
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Slide 3**: it is tempting to punch keywords into a search engine, but your favourite engine may not reach the pages you need, the information may not be online, may not be under your search terms, or may not exist in any form.",
-      "**Slide 4**: planning steps are to familiarise yourself with the subject so you can frame insightful questions, identify the most critical information gaps, then prioritise research needs. Before launching, consider the **ethics and etiquette** of your approach."
-     ],
-     "ms": [
-      "**Slaid 3**: menggoda untuk terus guna enjin carian, tetapi enjin mungkin tidak sampai ke laman diperlukan, maklumat mungkin tidak dalam talian, tidak di bawah kata carian anda, atau tidak wujud.",
-      "**Slaid 4**: langkah perancangan ialah kenali subjek supaya boleh bertanya soalan bernas, kenal pasti jurang maklumat kritikal, kemudian utamakan keperluan. Sebelum bermula, pertimbangkan **etika dan etiket**."
      ]
     },
     {
@@ -219,45 +214,6 @@
      "k": "p",
      "en": "Your research tactics affect the people you gather data from and the people who read and apply your results.",
      "ms": "Taktik penyelidikan anda memberi kesan kepada orang yang memberi data dan orang yang menggunakan hasilnya."
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Don’t force a specific outcome**: approach research with an open mind, even if you don’t like what you find.",
-      "**Respect privacy**: businesses want to protect confidential information from competitors; consumers want to protect personal information from businesses.",
-      "**Document sources and give credit**: fair to creators, and lets your audience confirm or explore the information.",
-      "**Respect intellectual property and digital rights**: a great business process you find may be protected by a patent.",
-      "**Don’t extract more than the source provides**: if an expert says a sales increase is *possible*, don’t quote “*probable*”.",
-      "**Don’t misrepresent who you are or your intent.** **Sugging** = *selling under the guise of research* (a “survey” used to find hot sales leads, or following a genuine survey with sales calls using respondents’ answers)."
-     ],
-     "ms": [
-      "**Jangan paksa hasil tertentu**: minda terbuka walaupun dapatan tidak disukai.",
-      "**Hormati privasi**: perniagaan melindungi maklumat sulit daripada pesaing; pengguna melindungi maklumat peribadi daripada perniagaan.",
-      "**Dokumenkan sumber dan beri kredit**: adil kepada pencipta dan membolehkan audiens mengesahkan.",
-      "**Hormati harta intelek dan hak digital**: proses perniagaan mungkin dilindungi paten.",
-      "**Jangan ambil lebih daripada yang sumber beri**: jika pakar kata kenaikan jualan *mungkin*, jangan petik “*berkemungkinan besar*”.",
-      "**Jangan menyamar siapa anda atau niat anda.** **Sugging** = *menjual berselindung di sebalik penyelidikan* (tinjauan untuk cari bakal pelanggan, atau panggilan jualan selepas tinjauan sebenar)."
-     ]
-    },
-    {
-     "k": "h",
-     "en": "Familiarise, gaps, priorities (slides 7–9 notes)",
-     "ms": "Kenali subjek, jurang, keutamaan (nota slaid 7–9)"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Familiarise**: give yourself unstructured time to explore: industry publications and blogs, trending topics on Twitter, competitors’ websites, interviews with experts in your organisation, tables of contents and indexes of books.",
-      "**Problem statement** defines the problem or purpose: the decision you must make or the conclusion you must reach. Easier as a question, e.g. “How can we improve customer satisfaction?” or “Does Apple’s new TV system pose a competitive threat to us?”",
-      "**Information gaps**: the problem statement does not say what specific information you need. You or someone in the company may already have some of it. “Improve customer satisfaction” is too vague, so break it into issues (product reliability, customer service skills). If repair data are already tracked, no need to research reliability; if service skills were never measured, that is a definite gap.",
-      "**Prioritise**: you lack time and money to answer every question; interviews and surveys must be limited to what people will give. Divide into **“need to know”** and **“nice to know”** and drop “nice to know”. Information gap analysis shows what you truly need."
-     ],
-     "ms": [
-      "**Kenali subjek**: beri masa tidak berstruktur untuk meneroka: penerbitan industri, blog, topik trending Twitter, laman pesaing, temu bual pakar dalaman, kandungan dan indeks buku.",
-      "**Penyataan masalah** menentukan masalah atau tujuan: keputusan atau kesimpulan yang perlu dicapai. Lebih mudah sebagai soalan.",
-      "**Jurang maklumat**: penyataan masalah tidak menyatakan maklumat khusus. Mungkin sebahagian sudah ada. Pecahkan topik kabur kepada isu khusus; jika data sudah dijejak, tidak perlu dikaji; yang belum diukur ialah jurang.",
-      "**Utamakan**: masa dan wang terhad; tinjauan dan temu bual mesti dihadkan. Bahagikan kepada **“need to know”** dan **“nice to know”** dan buang “nice to know”."
-     ]
     }
    ]
   },
@@ -271,6 +227,11 @@
    "ref": "Slides 10–21",
    "blocks": [
     {
+     "k": "p",
+     "en": "**Secondary research** = consulting research done previously for another purpose (periodicals, online databases, books, research reports; some firms specialise in reports on industries, companies, technologies or regions). Start here because it can **save considerable time and money**, although you may have to pay. **Primary research** is new research done specifically for the current project.",
+     "ms": "**Penyelidikan sekunder** = merujuk kajian terdahulu untuk tujuan lain. Mulakan di sini kerana **menjimatkan masa dan wang**, walaupun mungkin berbayar. **Penyelidikan primer** ialah kajian baharu khusus untuk projek semasa."
+    },
+    {
      "k": "h",
      "en": "Evaluating sources (10 questions)",
      "ms": "Menilai sumber (10 soalan)"
@@ -278,28 +239,28 @@
     {
      "k": "ul",
      "en": [
-      "Reputation for honesty and reliability?",
-      "Potentially biased?",
-      "Purpose of the material?",
-      "Is the author credible?",
-      "Where did the source get the information?",
-      "Can you verify independently?",
-      "Is the material current?",
+      "Reputation for honesty and reliability? — Even the finest reporters err; for new or unknown sources, **corroborate** with several other sources.",
+      "Potentially biased? — Not inherently bad or unethical *unless intentionally hidden*, but you must be aware of it.",
+      "Purpose of the material? — Distinguish **advertising, advocating and informing**.",
+      "Is the author credible? — Known and respected, with hands-on experience or merely an observer with an opinion?",
+      "Where did the source get the information? — Many secondary sources take material from other secondary sources, distancing you from the original data.",
+      "Can you verify independently? — Important for projections, interpretations and estimates; if you can’t verify critical information, tell your audience.",
+      "Is the material current? — Check publication or posting date. **Complete**: entire document or only a selection?",
       "Is it complete?",
-      "Are all claims supported with evidence?",
-      "Do claims stand up to logical scrutiny?"
+      "Are all claims supported with evidence? — Are opinions presented as facts? Broad claims like “most people believe…” with no survey?",
+      "Do claims stand up to logical scrutiny? — If a little voice says it sounds suspicious, listen. Focus checks on the most important or most suspicious information."
      ],
      "ms": [
-      "Reputasi kejujuran dan kebolehpercayaan?",
-      "Mungkin berat sebelah?",
-      "Tujuan bahan?",
-      "Adakah penulis berwibawa?",
-      "Dari mana sumber dapat maklumat?",
-      "Boleh disahkan secara bebas?",
-      "Adakah terkini?",
+      "Reputasi kejujuran dan kebolehpercayaan? — Pelapor terbaik pun boleh silap; sumber baharu perlu **disahkan** dengan beberapa sumber lain.",
+      "Mungkin berat sebelah? — Tidak semestinya buruk atau tidak beretika *kecuali sengaja disembunyikan*.",
+      "Tujuan bahan? — Bezakan **pengiklanan, advokasi dan pemberitahuan**.",
+      "Adakah penulis berwibawa? — Dikenali, pengalaman sebenar atau sekadar pemerhati.",
+      "Dari mana sumber dapat maklumat? — Banyak sumber sekunder mengambil daripada sumber sekunder lain.",
+      "Boleh disahkan secara bebas? — Penting untuk unjuran, tafsiran dan anggaran; jika tidak boleh, beritahu audiens.",
+      "Adakah terkini? — Semak tarikh. **Lengkap**: dokumen penuh atau sebahagian?",
       "Adakah lengkap?",
-      "Adakah semua dakwaan disokong bukti?",
-      "Adakah dakwaan tahan ujian logik?"
+      "Adakah semua dakwaan disokong bukti? — Adakah pendapat dibentangkan sebagai fakta?",
+      "Adakah dakwaan tahan ujian logik? — Jika terasa mencurigakan, dengar. Fokus pada maklumat paling penting atau mencurigakan."
      ]
     },
     {
@@ -310,12 +271,12 @@
     {
      "k": "ul",
      "en": [
-      "Internal: documents, knowledge management system, research repository",
-      "External: print and online resources, reference librarian, public reports"
+      "Internal: documents, knowledge management system, research repository — Even if you plan primary research, **start with secondary**. Inside the company: documents from other projects and the **knowledge management system** / repository.",
+      "External: print and online resources, reference librarian, public reports — Print and online resources (Table 13.1, slide 15 is a table image) and a **reference librarian**."
      ],
      "ms": [
-      "Dalam: dokumen, sistem pengurusan pengetahuan, repositori penyelidikan",
-      "Luar: sumber cetak dan dalam talian, pustakawan rujukan, laporan awam"
+      "Dalam: dokumen, sistem pengurusan pengetahuan, repositori penyelidikan — Walaupun merancang kajian primer, **mulakan dengan sekunder**. Dalam syarikat: dokumen projek lain dan **sistem pengurusan pengetahuan**.",
+      "Luar: sumber cetak dan dalam talian, pustakawan rujukan, laporan awam — Sumber cetak dan dalam talian (Jadual 13.1, slaid 15 imej jadual) dan **pustakawan rujukan**."
      ]
     },
     {
@@ -326,16 +287,16 @@
     {
      "k": "ul",
      "en": [
-      "Newspapers and periodicals",
-      "Business books",
+      "Newspapers and periodicals — Popular and general business magazines, **trade journals** (specific professions and industries) and **academic journals** (research-oriented).",
+      "Business books — Less timely but in-depth. **Directories**: membership information. **Almanacs**: factual and statistical (e.g. *Statistical Abstract of the United States*). **Government publications**: laws, court decisions, tax and regulatory issues. **Databases**: searchable collections, some by institutional subscription only.",
       "Directories",
       "Almanacs and statistical resources",
       "Government publications",
       "Databases"
      ],
      "ms": [
-      "Akhbar dan berkala",
-      "Buku perniagaan",
+      "Akhbar dan berkala — Majalah popular, majalah perniagaan am, **jurnal perdagangan** dan **jurnal akademik**.",
+      "Buku perniagaan — Kurang terkini tetapi mendalam. **Direktori**: maklumat keahlian. **Almanak**: fakta dan statistik. **Penerbitan kerajaan**: undang-undang, keputusan mahkamah, cukai. **Pangkalan data**: ada yang perlu langganan institusi.",
       "Direktori",
       "Almanak dan sumber statistik",
       "Penerbitan kerajaan",
@@ -350,10 +311,10 @@
     {
      "k": "ul",
      "en": [
-      "Approaches: active search tools and monitoring selected sources"
+      "Approaches: active search tools and monitoring selected sources — **actively search** for existing information, and **monitor** selected sources for new information."
      ],
      "ms": [
-      "Pendekatan: alat carian aktif dan memantau sumber terpilih"
+      "Pendekatan: alat carian aktif dan memantau sumber terpilih — **mencari secara aktif** dan **memantau** sumber terpilih."
      ]
     },
     {
@@ -384,12 +345,12 @@
     {
      "k": "ul",
      "en": [
-      "Improved tools: web directories (human editors), metasearch engines (multiple engines, compare results), online databases (free public access), specialised search engines (focus on a media type)",
-      "Monitoring: subscribe to news feeds, follow people on Twitter, create alerts, use specialised monitors"
+      "Improved tools: web directories (human editors), metasearch engines (multiple engines, compare results), online databases (free public access), specialised search engines (focus on a media type) — **web directories** (e.g. DMOZ) use human editors, some focus on blogs or podcasts; **metasearch engines** send your request to multiple engines to compare results; **online databases** (free or subscription) reach newspapers, magazines, journals and digital books, plus specialised search engines.",
+      "Monitoring: subscribe to news feeds, follow people on Twitter, create alerts, use specialised monitors — Subscribe to newsfeeds, follow people on Twitter/microblogs, set alerts on engines and databases, use **TweetDeck** and **HootSuite**. Be careful: it is easy to be overwhelmed by information."
      ],
      "ms": [
-      "Alat lebih baik: direktori web (penyunting manusia), enjin metacarian (banyak enjin, bandingkan), pangkalan data dalam talian (akses awam percuma), enjin carian khusus (satu jenis media)",
-      "Pemantauan: langgan suapan berita, ikut orang di Twitter, cipta amaran, guna pemantau khusus"
+      "Alat lebih baik: direktori web (penyunting manusia), enjin metacarian (banyak enjin, bandingkan), pangkalan data dalam talian (akses awam percuma), enjin carian khusus (satu jenis media) — **direktori web** guna editor manusia; **enjin metasearch** hantar carian ke banyak enjin; **pangkalan data dalam talian** capai akhbar, jurnal, buku digital serta enjin carian khusus.",
+      "Pemantauan: langgan suapan berita, ikut orang di Twitter, cipta amaran, guna pemantau khusus — Langgan newsfeed, ikut orang di Twitter, tetapkan alert, guna **TweetDeck** dan **HootSuite**. Berhati-hati dengan banjir maklumat."
      ]
     },
     {
@@ -400,22 +361,22 @@
     {
      "k": "ul",
      "en": [
-      "Think before you search",
+      "Think before you search — Neat results create the illusion that the Internet is an orderly warehouse of all information; the reality is far different.",
       "Pay attention to details",
       "Don’t limit search engines",
-      "Review search and display options",
-      "Try variations of terms",
-      "Adjust the scope",
-      "Look beyond the first few pages"
+      "Review search and display options — Title, author, subject, full-text only, etc.",
+      "Try variations of terms — Abbreviations (CEO, CPA), synonyms, related terms, different spellings (dialog/dialogue), singular/plural, noun/adjective forms, open/compound forms (online, on line, on-line).",
+      "Adjust the scope — Too few results → use *fewer* terms to broaden; too many hits → use *more* terms to narrow.",
+      "Look beyond the first few pages — ; consider enterprise search engines, research managers like LiveBinders and Zotero, and search functions in workplace messaging and groupware."
      ],
      "ms": [
-      "Fikir sebelum cari",
+      "Fikir sebelum cari — Hasil kemas mencipta ilusi Internet gudang teratur.",
       "Beri perhatian kepada butiran",
       "Jangan hadkan enjin carian",
-      "Semak pilihan carian dan paparan",
-      "Cuba variasi istilah",
-      "Laraskan skop",
-      "Lihat melepasi beberapa halaman pertama"
+      "Semak pilihan carian dan paparan — **Semak pilihan carian dan paparan**.",
+      "Cuba variasi istilah — Singkatan, sinonim, istilah berkaitan, ejaan berbeza, tunggal/jamak, kata nama/adjektif, bentuk terbuka/majmuk.",
+      "Laraskan skop — Terlalu sedikit → kurangkan istilah; terlalu banyak → tambah istilah.",
+      "Lihat melepasi beberapa halaman pertama — ; pertimbangkan enjin carian enterprise, LiveBinders, Zotero."
      ]
     },
     {
@@ -438,16 +399,6 @@
     },
     {
      "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "p",
-     "en": "**Secondary research** = consulting research done previously for another purpose (periodicals, online databases, books, research reports; some firms specialise in reports on industries, companies, technologies or regions). Start here because it can **save considerable time and money**, although you may have to pay. **Primary research** is new research done specifically for the current project.",
-     "ms": "**Penyelidikan sekunder** = merujuk kajian terdahulu untuk tujuan lain. Mulakan di sini kerana **menjimatkan masa dan wang**, walaupun mungkin berbayar. **Penyelidikan primer** ialah kajian baharu khusus untuk projek semasa."
-    },
-    {
-     "k": "h",
      "en": "Evaluating sources (slides 11–12 notes)",
      "ms": "Menilai sumber (nota slaid 11–12)"
     },
@@ -457,31 +408,6 @@
      "ms": "Jangan andaikan maklumat tepat, objektif dan terkini."
     },
     {
-     "k": "ul",
-     "en": [
-      "**Honesty and reliability**: even the finest reporters err; for new or unknown sources, **corroborate** with several other sources.",
-      "**Bias**: not inherently bad or unethical *unless intentionally hidden*, but you must be aware of it.",
-      "**Purpose**: distinguish **advertising, advocating and informing**.",
-      "**Author credibility**: known and respected, with hands-on experience or merely an observer with an opinion?",
-      "**Origin**: many secondary sources take material from other secondary sources, distancing you from the original data.",
-      "**Verify independently**: important for projections, interpretations and estimates; if you can’t verify critical information, tell your audience.",
-      "**Current**: check publication or posting date. **Complete**: entire document or only a selection?",
-      "**Evidence**: are opinions presented as facts? Broad claims like “most people believe…” with no survey?",
-      "**Logical scrutiny**: if a little voice says it sounds suspicious, listen. Focus checks on the most important or most suspicious information."
-     ],
-     "ms": [
-      "**Kejujuran dan kebolehpercayaan**: pelapor terbaik pun boleh silap; sumber baharu perlu **disahkan** dengan beberapa sumber lain.",
-      "**Bias**: tidak semestinya buruk atau tidak beretika *kecuali sengaja disembunyikan*.",
-      "**Tujuan**: bezakan **pengiklanan, advokasi dan pemberitahuan**.",
-      "**Kredibiliti penulis**: dikenali, pengalaman sebenar atau sekadar pemerhati.",
-      "**Asal maklumat**: banyak sumber sekunder mengambil daripada sumber sekunder lain.",
-      "**Sahkan secara bebas**: penting untuk unjuran, tafsiran dan anggaran; jika tidak boleh, beritahu audiens.",
-      "**Terkini**: semak tarikh. **Lengkap**: dokumen penuh atau sebahagian?",
-      "**Bukti**: adakah pendapat dibentangkan sebagai fakta?",
-      "**Pemeriksaan logik**: jika terasa mencurigakan, dengar. Fokus pada maklumat paling penting atau mencurigakan."
-     ]
-    },
-    {
      "k": "h",
      "en": "Locating sources (slides 13–15 notes)",
      "ms": "Mencari sumber (nota slaid 13–15)"
@@ -489,18 +415,10 @@
     {
      "k": "ul",
      "en": [
-      "Even if you plan primary research, **start with secondary**. Inside the company: documents from other projects and the **knowledge management system** / repository.",
-      "Outside: print and online resources (Table 13.1, slide 15 is a table image) and a **reference librarian**.",
-      "**Public** companies (sell shares to the public) must file extensive financial reports, so usually have more information than **private** companies.",
-      "**Newspapers and periodicals**: popular and general business magazines, **trade journals** (specific professions and industries) and **academic journals** (research-oriented).",
-      "**Business books**: less timely but in-depth. **Directories**: membership information. **Almanacs**: factual and statistical (e.g. *Statistical Abstract of the United States*). **Government publications**: laws, court decisions, tax and regulatory issues. **Databases**: searchable collections, some by institutional subscription only."
+      "**Public** companies (sell shares to the public) must file extensive financial reports, so usually have more information than **private** companies."
      ],
      "ms": [
-      "Walaupun merancang kajian primer, **mulakan dengan sekunder**. Dalam syarikat: dokumen projek lain dan **sistem pengurusan pengetahuan**.",
-      "Luar: sumber cetak dan dalam talian (Jadual 13.1, slaid 15 imej jadual) dan **pustakawan rujukan**.",
-      "Syarikat **awam** perlu hantar laporan kewangan terperinci, jadi biasanya lebih banyak maklumat berbanding syarikat **swasta**.",
-      "**Akhbar dan berkala**: majalah popular, majalah perniagaan am, **jurnal perdagangan** dan **jurnal akademik**.",
-      "**Buku perniagaan**: kurang terkini tetapi mendalam. **Direktori**: maklumat keahlian. **Almanak**: fakta dan statistik. **Penerbitan kerajaan**: undang-undang, keputusan mahkamah, cukai. **Pangkalan data**: ada yang perlu langganan institusi."
+      "Syarikat **awam** perlu hantar laporan kewangan terperinci, jadi biasanya lebih banyak maklumat berbanding syarikat **swasta**."
      ]
     },
     {
@@ -511,38 +429,10 @@
     {
      "k": "ul",
      "en": [
-      "Tools fall into two categories: **actively search** for existing information, and **monitor** selected sources for new information.",
-      "General-purpose engines (Google, Bing) scan millions of pages and rank by relevance. **Three shortcomings**: (1) no human editors evaluate quality or ranking; (2) engines use different techniques so results differ; (3) they can’t reach all content (the **hidden Internet / deep web**).",
-      "**Fixes**: **web directories** (e.g. DMOZ) use human editors, some focus on blogs or podcasts; **metasearch engines** send your request to multiple engines to compare results; **online databases** (free or subscription) reach newspapers, magazines, journals and digital books, plus specialised search engines.",
-      "**Monitoring**: subscribe to newsfeeds, follow people on Twitter/microblogs, set alerts on engines and databases, use **TweetDeck** and **HootSuite**. Be careful: it is easy to be overwhelmed by information."
+      "General-purpose engines (Google, Bing) scan millions of pages and rank by relevance. **Three shortcomings**: (1) no human editors evaluate quality or ranking; (2) engines use different techniques so results differ; (3) they can’t reach all content (the **hidden Internet / deep web**)."
      ],
      "ms": [
-      "Alat terbahagi dua: **mencari secara aktif** dan **memantau** sumber terpilih.",
-      "Enjin am mengimbas berjuta laman dan meranking. **Tiga kelemahan**: (1) tiada editor manusia; (2) teknik berbeza; (3) tidak sampai semua kandungan (**hidden Internet / deep web**).",
-      "**Penyelesaian**: **direktori web** guna editor manusia; **enjin metasearch** hantar carian ke banyak enjin; **pangkalan data dalam talian** capai akhbar, jurnal, buku digital serta enjin carian khusus.",
-      "**Pemantauan**: langgan newsfeed, ikut orang di Twitter, tetapkan alert, guna **TweetDeck** dan **HootSuite**. Berhati-hati dengan banjir maklumat."
-     ]
-    },
-    {
-     "k": "h",
-     "en": "Search tips in detail",
-     "ms": "Tip carian secara terperinci"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Think before you search**: neat results create the illusion that the Internet is an orderly warehouse of all information; the reality is far different.",
-      "**Review search and display options**: title, author, subject, full-text only, etc.",
-      "**Try variations**: abbreviations (CEO, CPA), synonyms, related terms, different spellings (dialog/dialogue), singular/plural, noun/adjective forms, open/compound forms (online, on line, on-line).",
-      "**Adjust scope**: too few results → use *fewer* terms to broaden; too many hits → use *more* terms to narrow.",
-      "**Look beyond the first pages**; consider enterprise search engines, research managers like LiveBinders and Zotero, and search functions in workplace messaging and groupware."
-     ],
-     "ms": [
-      "**Fikir sebelum cari**: hasil kemas mencipta ilusi Internet gudang teratur.",
-      "**Semak pilihan carian dan paparan**.",
-      "**Cuba variasi**: singkatan, sinonim, istilah berkaitan, ejaan berbeza, tunggal/jamak, kata nama/adjektif, bentuk terbuka/majmuk.",
-      "**Laras skop**: terlalu sedikit → kurangkan istilah; terlalu banyak → tambah istilah.",
-      "**Lihat lebih daripada beberapa halaman pertama**; pertimbangkan enjin carian enterprise, LiveBinders, Zotero."
+      "Enjin am mengimbas berjuta laman dan meranking. **Tiga kelemahan**: (1) tiada editor manusia; (2) teknik berbeza; (3) tidak sampai semua kandungan (**hidden Internet / deep web**)."
      ]
     },
     {
@@ -582,6 +472,17 @@
    "ref": "Slides 22–27",
    "blocks": [
     {
+     "k": "ul",
+     "en": [
+      "**Primary research** = collecting data and information **for the first time** rather than reusing what others found. Choose it when secondary research can’t give you what you need. Most common: **surveys and interviews**. Others: **observation** and **experiments** (e.g. test-marketing a new product).",
+      "**Online surveys**: fast, cheap, and adaptable, but vulnerable to sampling bias because only people who visit the site and want to participate respond."
+     ],
+     "ms": [
+      "**Penyelidikan primer** = mengumpul data **buat kali pertama**. Pilih apabila sekunder tidak mencukupi. Paling biasa: **tinjauan dan temu bual**. Lain: **pemerhatian** dan **eksperimen**.",
+      "**Tinjauan dalam talian**: pantas, murah, boleh disesuaikan, tetapi terdedah kepada bias persampelan."
+     ]
+    },
+    {
      "k": "h",
      "en": "Surveys",
      "ms": "Tinjauan"
@@ -589,39 +490,39 @@
     {
      "k": "ul",
      "en": [
-      "Must be **reliable**: produces identical results when repeated",
+      "Must be **reliable**: produces identical results when repeated — A survey is **reliable** if it gives identical results when repeated and **valid** if it measures what it is meant to measure. Choose participants carefully; for strategic, high-stakes surveys hire a **research specialist**.",
       "Must be **valid**: measures what it is intended to measure",
-      "Choose participants carefully: get a representative sample of the population",
+      "Choose participants carefully: get a representative sample of the population — Is the most critical task. Surveying a few hundred people in a shopping mall is not enough: different consumers shop at different times and many rarely visit malls. A non-representative sample causes **sampling bias**.",
       "Use a research handbook or hire a research specialist"
      ],
      "ms": [
-      "Mesti **boleh dipercayai (reliable)**: hasil sama bila diulang",
+      "Mesti **boleh dipercayai (reliable)**: hasil sama bila diulang — Tinjauan **boleh dipercayai (reliable)** jika hasil sama bila diulang dan **sah (valid)** jika mengukur apa yang sepatutnya. Untuk tinjauan strategik, upah **pakar penyelidikan**.",
       "Mesti **sah (valid)**: mengukur apa yang sepatutnya diukur",
-      "Pilih peserta dengan teliti: sampel mewakili populasi",
+      "Pilih peserta dengan teliti: sampel mewakili populasi — Ialah tugas paling kritikal. Tinjauan di pusat beli-belah tidak cukup. Sampel tidak mewakili menyebabkan **bias persampelan**.",
       "Guna buku panduan penyelidikan atau upah pakar"
      ]
     },
     {
      "k": "ul",
      "en": [
-      "Provide clear instructions",
+      "Provide clear instructions — Clear instructions; don’t ask what people can’t remember (e.g. how many times they shopped for groceries last year); keep it short (**no more than 10 or 15 minutes**); prefer numbers and facts, which are easier to summarise than opinions.",
       "Ask for information people can remember",
       "Keep the questionnaire short",
       "Formulate questions that are easy to analyse",
-      "Avoid leading questions",
-      "Avoid ambiguous descriptors",
+      "Avoid leading questions — “Do you prefer that we stay open in the evenings for customer convenience?” gets a “yes”. Ask “What time of day do you normally shop?”",
+      "Avoid ambiguous descriptors — (often, frequently) mean different things to different people. **Compound questions** (“Do you read books and magazines?”) confuse respondents who read only one.",
       "Avoid compound questions",
-      "Make the survey adaptive"
+      "Make the survey adaptive — Online surveys can branch based on answers, giving better answers and less frustration. **Pre-test on a sample group** to find confusing questions."
      ],
      "ms": [
-      "Beri arahan jelas",
+      "Beri arahan jelas — Arahan jelas; jangan tanya perkara sukar diingat; ringkas (**tidak lebih 10 atau 15 minit**); utamakan nombor dan fakta.",
       "Tanya maklumat yang orang boleh ingat",
       "Pastikan soal selidik pendek",
       "Rumus soalan yang mudah dianalisis",
-      "Elak soalan mengarah",
-      "Elak penerang kabur",
+      "Elak soalan mengarah — “Adakah anda mahu kami buka petang untuk kemudahan pelanggan?” pasti dijawab “ya”.",
+      "Elak penerang kabur — (selalu, kerap) bermakna berbeza. **Soalan majmuk** mengelirukan.",
       "Elak soalan majmuk",
-      "Jadikan tinjauan adaptif"
+      "Jadikan tinjauan adaptif — Boleh bercabang ikut jawapan. **Uji dahulu pada kumpulan sampel**."
      ]
     },
     {
@@ -632,32 +533,12 @@
     {
      "k": "ul",
      "en": [
-      "Question types: open-ended, closed; plan question sequence",
-      "Interview types: recorded, face-to-face, group"
+      "Question types: open-ended, closed; plan question sequence — Solicit opinions, insights and information (“Why do you believe South America is a better opportunity than Europe?”). **Closed questions** elicit a specific answer such as yes/no; too many make it feel like a survey — Plan **question sequence** to uncover layers; consider giving questions a day or two before, especially if you want to quote the subject or answers need research.",
+      "Interview types: recorded, face-to-face, group — Ask beforehand and respect wishes. During: pursue new topics that shed light. After: write down thoughts, find themes, facts and quotes; **transcribe** if recorded — Lets you gauge reactions and see nonverbal signals. **Email interviews** give time to think and may be the only way to reach some experts."
      ],
      "ms": [
-      "Jenis soalan: terbuka, tertutup; rancang urutan soalan",
-      "Jenis temu bual: dirakam, bersemuka, kumpulan"
-     ]
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Primary research** = collecting data and information **for the first time** rather than reusing what others found. Choose it when secondary research can’t give you what you need. Most common: **surveys and interviews**. Others: **observation** and **experiments** (e.g. test-marketing a new product).",
-      "A survey is **reliable** if it gives identical results when repeated and **valid** if it measures what it is meant to measure. Choose participants carefully; for strategic, high-stakes surveys hire a **research specialist**.",
-      "**Representative sample** is the most critical task. Surveying a few hundred people in a shopping mall is not enough: different consumers shop at different times and many rarely visit malls. A non-representative sample causes **sampling bias**.",
-      "**Online surveys**: fast, cheap, and adaptable, but vulnerable to sampling bias because only people who visit the site and want to participate respond."
-     ],
-     "ms": [
-      "**Penyelidikan primer** = mengumpul data **buat kali pertama**. Pilih apabila sekunder tidak mencukupi. Paling biasa: **tinjauan dan temu bual**. Lain: **pemerhatian** dan **eksperimen**.",
-      "Tinjauan **boleh dipercayai (reliable)** jika hasil sama bila diulang dan **sah (valid)** jika mengukur apa yang sepatutnya. Untuk tinjauan strategik, upah **pakar penyelidikan**.",
-      "**Sampel mewakili** ialah tugas paling kritikal. Tinjauan di pusat beli-belah tidak cukup. Sampel tidak mewakili menyebabkan **bias persampelan**.",
-      "**Tinjauan dalam talian**: pantas, murah, boleh disesuaikan, tetapi terdedah kepada bias persampelan."
+      "Jenis soalan: terbuka, tertutup; rancang urutan soalan — Menggalak pendapat dan pandangan. **Soalan tertutup** meminta jawapan spesifik; terlalu banyak menjadikan ia seperti tinjauan — Rancang **urutan soalan**; pertimbangkan beri soalan sehari dua awal.",
+      "Jenis temu bual: dirakam, bersemuka, kumpulan — Minta izin dahulu. Selepas: catat, cari tema, fakta, petikan; **transkripsi** — Membolehkan nilai reaksi dan isyarat bukan lisan. **Temu bual e-mel** memberi masa berfikir."
      ]
     },
     {
@@ -668,18 +549,10 @@
     {
      "k": "ul",
      "en": [
-      "Start with the information gaps and break them into specific questions; pick an appropriate question type for each (Figure 13.2).",
-      "Clear instructions; don’t ask what people can’t remember (e.g. how many times they shopped for groceries last year); keep it short (**no more than 10 or 15 minutes**); prefer numbers and facts, which are easier to summarise than opinions.",
-      "**Leading question**: “Do you prefer that we stay open in the evenings for customer convenience?” gets a “yes”. Ask “What time of day do you normally shop?”",
-      "**Ambiguous descriptors** (often, frequently) mean different things to different people. **Compound questions** (“Do you read books and magazines?”) confuse respondents who read only one.",
-      "**Adaptive survey**: online surveys can branch based on answers, giving better answers and less frustration. **Pre-test on a sample group** to find confusing questions."
+      "Start with the information gaps and break them into specific questions; pick an appropriate question type for each (Figure 13.2)."
      ],
      "ms": [
-      "Mulakan dengan jurang maklumat dan pecahkan kepada soalan khusus (Rajah 13.2).",
-      "Arahan jelas; jangan tanya perkara sukar diingat; ringkas (**tidak lebih 10 atau 15 minit**); utamakan nombor dan fakta.",
-      "**Soalan mengarah**: “Adakah anda mahu kami buka petang untuk kemudahan pelanggan?” pasti dijawab “ya”.",
-      "**Penerangan kabur** (selalu, kerap) bermakna berbeza. **Soalan majmuk** mengelirukan.",
-      "**Tinjauan adaptif**: boleh bercabang ikut jawapan. **Uji dahulu pada kumpulan sampel**."
+      "Mulakan dengan jurang maklumat dan pecahkan kepada soalan khusus (Rajah 13.2)."
      ]
     },
     {
@@ -691,18 +564,10 @@
      "k": "ul",
      "en": [
       "Answers are influenced by the question types, how you ask, and the subject’s cultural and language background (race, gender, age, education, social status).",
-      "**Open-ended questions** solicit opinions, insights and information (“Why do you believe South America is a better opportunity than Europe?”). **Closed questions** elicit a specific answer such as yes/no; too many make it feel like a survey.",
-      "Plan **question sequence** to uncover layers; consider giving questions a day or two before, especially if you want to quote the subject or answers need research.",
-      "**Recording**: ask beforehand and respect wishes. During: pursue new topics that shed light. After: write down thoughts, find themes, facts and quotes; **transcribe** if recorded.",
-      "**Face-to-face** lets you gauge reactions and see nonverbal signals. **Email interviews** give time to think and may be the only way to reach some experts.",
       "**Focus group**: a moderator guides a group while the research team observes through a **one-way mirror**; the key advantage is **group dynamics** as participants bounce ideas off each other, giving richer information than individual interviews."
      ],
      "ms": [
       "Jawapan dipengaruhi jenis soalan, cara bertanya dan latar budaya serta bahasa subjek.",
-      "**Soalan terbuka** menggalak pendapat dan pandangan. **Soalan tertutup** meminta jawapan spesifik; terlalu banyak menjadikan ia seperti tinjauan.",
-      "Rancang **urutan soalan**; pertimbangkan beri soalan sehari dua awal.",
-      "**Rakaman**: minta izin dahulu. Selepas: catat, cari tema, fakta, petikan; **transkripsi**.",
-      "**Bersemuka** membolehkan nilai reaksi dan isyarat bukan lisan. **Temu bual e-mel** memberi masa berfikir.",
       "**Kumpulan fokus**: moderator memandu kumpulan sementara pasukan memerhati melalui **cermin sehala**; kelebihan utama ialah **dinamik kumpulan**."
      ]
     }
@@ -717,6 +582,11 @@
    },
    "ref": "Slides 28–32",
    "blocks": [
+    {
+     "k": "p",
+     "en": "After collecting secondary and primary information, **transform** it into the content you need. Simple projects may insert material directly; with significant raw data you must process it: quoting, paraphrasing or summarising text; analysing numeric data; drawing conclusions; making recommendations.",
+     "ms": "Selepas mengumpul maklumat, **ubah** kepada kandungan diperlukan. Data banyak perlu diproses: petik, parafrasa, ringkas teks; analisis data berangka; kesimpulan; cadangan."
+    },
     {
      "k": "table",
      "head": {
@@ -770,16 +640,16 @@
     {
      "k": "ul",
      "en": [
-      "Trends",
+      "Trends — = definite patterns over time: growth, decline, and cyclical trends.",
       "Causation",
       "Correlation",
-      "Cross-tabulation"
+      "Cross-tabulation — Explores relationships between subsets, e.g. sales by customer age and gender, location and product type."
      ],
      "ms": [
-      "Trend",
+      "Trend — = corak jelas dari masa ke masa: pertumbuhan, penurunan, kitaran.",
       "Kausaliti (sebab-akibat)",
       "Korelasi",
-      "Tabulasi silang"
+      "Tabulasi silang — Meneroka hubungan antara subset, cth jualan mengikut umur, jantina, lokasi, produk."
      ]
     },
     {
@@ -790,29 +660,19 @@
     {
      "k": "ul",
      "en": [
-      "Guard against computational errors",
+      "Guard against computational errors — Wrong formulas, references to unintended cells, unverified built-in functions; double-check and document shared spreadsheets. Step back: do numbers make sense? (A jump of 50% when it never varied more than 10% is suspicious.)",
       "Be cautious of misrepresenting results",
       "Avoid faulty comparisons",
       "Don’t push results beyond their limits",
       "Avoid misleading presentations"
      ],
      "ms": [
-      "Elak kesilapan pengiraan",
+      "Elak kesilapan pengiraan — Formula salah, rujukan sel tidak dimaksudkan; semak dua kali. Adakah nombor logik?",
       "Berhati-hati salah nyata hasil",
       "Elak perbandingan cacat",
       "Jangan tolak hasil melebihi had",
       "Elak pembentangan mengelirukan"
      ]
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "p",
-     "en": "After collecting secondary and primary information, **transform** it into the content you need. Simple projects may insert material directly; with significant raw data you must process it: quoting, paraphrasing or summarising text; analysing numeric data; drawing conclusions; making recommendations.",
-     "ms": "Selepas mengumpul maklumat, **ubah** kepada kandungan diperlukan. Data banyak perlu diproses: petik, parafrasa, ringkas teks; analisis data berangka; kesimpulan; cadangan."
     },
     {
      "k": "h",
@@ -846,19 +706,13 @@
      "en": [
       "Numeric data (sales, population, survey answers) need processing to give insights. Simple arithmetic is powerful (Table 13.2; slide 30 is a figure).",
       "**Mean** = sum of items ÷ number of items (the “average”). **Median** = midpoint of a series, with an equal number of items above and below. **Mode** = the number that occurs most often; best answer to “What is the usual amount?”",
-      "**Trends** = definite patterns over time: growth, decline, and cyclical trends.",
       "Measures and trends show *what* is happening; **causation** (one factor causes the other) and **correlation** (two variables change together, e.g. satisfaction falls when reliability falls) help explain *why*. Causation is easy to assume but hard to prove: you must isolate the suspected cause as the only possible source.",
-      "**Cross-tabulation** explores relationships between subsets, e.g. sales by customer age and gender, location and product type.",
-      "**Computational errors**: wrong formulas, references to unintended cells, unverified built-in functions; double-check and document shared spreadsheets. Step back: do numbers make sense? (A jump of 50% when it never varied more than 10% is suspicious.)",
       "**Precautions**: avoid faulty comparisons (“apples to apples”); don’t push results beyond their limits (have a trusted colleague check your conclusions); avoid misleading presentations such as distorted graphs."
      ],
      "ms": [
       "Data berangka perlu diproses. Aritmetik mudah pun berkesan (Jadual 13.2; slaid 30 ialah rajah).",
       "**Min** = jumlah ÷ bilangan (purata). **Median** = titik tengah siri. **Mod** = nombor paling kerap; jawapan terbaik untuk “jumlah biasa”.",
-      "**Trend** = corak jelas dari masa ke masa: pertumbuhan, penurunan, kitaran.",
       "Ukuran dan trend menunjukkan *apa*; **kausaliti** dan **korelasi** membantu menerangkan *kenapa*. Kausaliti mudah diandaikan tetapi sukar dibuktikan.",
-      "**Tabulasi silang** meneroka hubungan antara subset, cth jualan mengikut umur, jantina, lokasi, produk.",
-      "**Ralat pengiraan**: formula salah, rujukan sel tidak dimaksudkan; semak dua kali. Adakah nombor logik?",
       "**Langkah berjaga-jaga**: elak perbandingan salah; jangan lampaui had keputusan; elak persembahan mengelirukan seperti graf diputarbelit."
      ]
     }
@@ -873,6 +727,23 @@
    },
    "ref": "Slides 33–37",
    "blocks": [
+    {
+     "k": "ul",
+     "en": [
+      "**Slide 33**: applying findings involves summarising results, drawing conclusions and making recommendations.",
+      "A **research summary** is an *unbiased condensation* of the entire research project (not just secondary sources). It has **no opinions, conclusions or recommendations**. Identify the main idea and key support points; separate them from details and examples (Figure 13.3); focus on the audience. A good summary may be nothing but **bad news** if that is what you found; managers respect honest, complete information.",
+      "A **conclusion** is a logical interpretation of the facts. Two criteria: (1) based **strictly on the information in your report**: no new information, and you can’t ignore information that doesn’t support it; (2) **logical**: follows inductive or deductive reasoning. Unproven premises, emotional appeals and hasty generalisations are invalid.",
+      "Personal or organisational values may influence conclusions; be aware and **explain the bias** to your audience. Team members may reach different conclusions, which is why you involve more people. Business decisions need assumptions, judgment calls and creative thinking.",
+      "A conclusion **interprets**; a **recommendation suggests what to do**. Recommendations must rest on logical analysis and sound conclusions, be **practical and acceptable** to readers, and describe the **next steps**."
+     ],
+     "ms": [
+      "**Slaid 33**: menggunakan dapatan melibatkan ringkasan, kesimpulan dan cadangan.",
+      "**Ringkasan penyelidikan** ialah *pemadatan tidak berat sebelah* seluruh projek. **Tiada pendapat, kesimpulan atau cadangan**. Kenal pasti idea utama dan sokongan; fokus kepada audiens. Ringkasan boleh hanya **berita buruk** jika itu dapatan.",
+      "**Kesimpulan** ialah tafsiran logik fakta. Dua kriteria: (1) **berdasarkan maklumat dalam laporan sahaja**: tiada maklumat baharu; (2) **logik**: ikut penaakulan induktif atau deduktif.",
+      "Nilai peribadi atau organisasi boleh mempengaruhi; **jelaskan bias** kepada audiens. Keputusan perniagaan memerlukan andaian, pertimbangan dan pemikiran kreatif.",
+      "Kesimpulan **mentafsir**; **cadangan menyatakan apa yang perlu dibuat**. Mesti berasaskan analisis logik, **praktikal dan boleh diterima**, dan menerangkan **langkah seterusnya**."
+     ]
+    },
     {
      "k": "h",
      "en": "Summarising your research",
@@ -938,39 +809,15 @@
      "k": "ul",
      "en": [
       "Contribute to the knowledge base",
-      "Knowledge management system",
+      "Knowledge management system — = technologies, policies and procedures for capturing and sharing information across the organisation. Your research adds to the collective knowledge base; social media tools make KM more flexible, so knowledge becomes a living part of an ongoing conversation.",
       "Social media tools",
       "Group contributions"
      ],
      "ms": [
       "Menyumbang kepada pangkalan pengetahuan",
-      "Sistem pengurusan pengetahuan",
+      "Sistem pengurusan pengetahuan — = teknologi, dasar dan prosedur untuk menangkap dan berkongsi maklumat. Penyelidikan anda menyumbang kepada pangkalan pengetahuan; media sosial menjadikan KM lebih fleksibel.",
       "Alat media sosial",
       "Sumbangan kumpulan"
-     ]
-    },
-    {
-     "k": "h",
-     "en": "From the slide notes",
-     "ms": "Daripada nota slaid"
-    },
-    {
-     "k": "ul",
-     "en": [
-      "**Slide 33**: applying findings involves summarising results, drawing conclusions and making recommendations.",
-      "A **research summary** is an *unbiased condensation* of the entire research project (not just secondary sources). It has **no opinions, conclusions or recommendations**. Identify the main idea and key support points; separate them from details and examples (Figure 13.3); focus on the audience. A good summary may be nothing but **bad news** if that is what you found; managers respect honest, complete information.",
-      "A **conclusion** is a logical interpretation of the facts. Two criteria: (1) based **strictly on the information in your report**: no new information, and you can’t ignore information that doesn’t support it; (2) **logical**: follows inductive or deductive reasoning. Unproven premises, emotional appeals and hasty generalisations are invalid.",
-      "Personal or organisational values may influence conclusions; be aware and **explain the bias** to your audience. Team members may reach different conclusions, which is why you involve more people. Business decisions need assumptions, judgment calls and creative thinking.",
-      "A conclusion **interprets**; a **recommendation suggests what to do**. Recommendations must rest on logical analysis and sound conclusions, be **practical and acceptable** to readers, and describe the **next steps**.",
-      "**Knowledge management (KM)** = technologies, policies and procedures for capturing and sharing information across the organisation. Your research adds to the collective knowledge base; social media tools make KM more flexible, so knowledge becomes a living part of an ongoing conversation."
-     ],
-     "ms": [
-      "**Slaid 33**: menggunakan dapatan melibatkan ringkasan, kesimpulan dan cadangan.",
-      "**Ringkasan penyelidikan** ialah *pemadatan tidak berat sebelah* seluruh projek. **Tiada pendapat, kesimpulan atau cadangan**. Kenal pasti idea utama dan sokongan; fokus kepada audiens. Ringkasan boleh hanya **berita buruk** jika itu dapatan.",
-      "**Kesimpulan** ialah tafsiran logik fakta. Dua kriteria: (1) **berdasarkan maklumat dalam laporan sahaja**: tiada maklumat baharu; (2) **logik**: ikut penaakulan induktif atau deduktif.",
-      "Nilai peribadi atau organisasi boleh mempengaruhi; **jelaskan bias** kepada audiens. Keputusan perniagaan memerlukan andaian, pertimbangan dan pemikiran kreatif.",
-      "Kesimpulan **mentafsir**; **cadangan menyatakan apa yang perlu dibuat**. Mesti berasaskan analisis logik, **praktikal dan boleh diterima**, dan menerangkan **langkah seterusnya**.",
-      "**Pengurusan pengetahuan (KM)** = teknologi, dasar dan prosedur untuk menangkap dan berkongsi maklumat. Penyelidikan anda menyumbang kepada pangkalan pengetahuan; media sosial menjadikan KM lebih fleksibel."
      ]
     }
    ]
