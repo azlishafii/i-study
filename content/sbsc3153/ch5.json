@@ -79,7 +79,7 @@
        ],
        "ms": [
         "Etiket",
-        "Hormati audiens; minimumkan reaksi emosi negatif; diplomasi dan bijaksana; tahap formaliti betul; pilih medium terbaik"
+        "Hormati audiens; minimumkan reaksi emosi negatif; kebijaksanaan dan bijaksana; tahap formaliti betul; pilih medium terbaik"
        ]
       },
       {
@@ -89,7 +89,7 @@
        ],
        "ms": [
         "Tekankan yang positif",
-        "Elak bahasa negatif; guna eufemisme sesuai; fokus peluang penambahbaikan; ringankan beban emosi; tekankan manfaat audiens; lembutkan: jujur, bukan kasar"
+        "Elak bahasa negatif; guna kata halus sesuai; fokus peluang penambahbaikan; ringankan beban emosi; tekankan manfaat audiens; lembutkan: jujur, bukan kasar"
        ]
       },
       {
@@ -218,7 +218,7 @@
     {
      "k": "p",
      "en": "In general, **avoid passive voice** to be lively and direct. Use passive when you need to be **diplomatic** or focus on **problems or solutions rather than people**.",
-     "ms": "Secara umum, **elak ayat pasif** supaya lincah dan terus. Guna pasif bila perlu **diplomatik** atau fokus pada **masalah atau penyelesaian, bukan orang**."
+     "ms": "Secara umum, **elak ayat pasif** supaya lincah dan terus. Guna pasif bila perlu **bijaksana** atau fokus pada **masalah atau penyelesaian, bukan orang**."
     },
     {
      "k": "table",
@@ -264,7 +264,7 @@
       ],
       "ms": [
        "Aktif (menuduh)",
-       "Pasif (diplomatik)"
+       "Pasif (bijaksana)"
       ]
      },
      "rows": [
@@ -314,8 +314,8 @@
        "Connotative words"
       ],
       "ms": [
-       "Perkataan denotatif",
-       "Perkataan konotatif"
+       "Perkataan bermakna sebenar",
+       "Perkataan bermakna tersirat"
       ]
      },
      "rows": [
@@ -669,7 +669,7 @@
    },
    "a": {
     "en": "When being diplomatic or focusing on problems or solutions rather than people.",
-    "ms": "Bila diplomatik atau fokus pada masalah/penyelesaian, bukan orang."
+    "ms": "Bila bijaksana atau fokus pada masalah/penyelesaian, bukan orang."
    }
   },
   {
@@ -701,11 +701,11 @@
    "t": "words",
    "q": {
     "en": "Denotation vs connotation?",
-    "ms": "Denotasi lwn konotasi?"
+    "ms": "Makna sebenar lwn makna tersirat?"
    },
    "a": {
     "en": "Denotation: explicit, literal dictionary meaning. Connotation: implicit associations and feelings.",
-    "ms": "Denotasi: makna kamus eksplisit. Konotasi: asosiasi dan perasaan implisit."
+    "ms": "Makna sebenar: makna kamus eksplisit. Makna tersirat: asosiasi dan perasaan implisit."
    }
   },
   {
@@ -1043,7 +1043,7 @@
    "a": 0,
    "e": {
     "en": "Denotative words are explicit.",
-    "ms": "Perkataan denotatif eksplisit."
+    "ms": "Perkataan bermakna sebenar eksplisit."
    }
   },
   {
@@ -1062,7 +1062,7 @@
    "a": 2,
    "e": {
     "en": "Connotative.",
-    "ms": "Konotatif."
+    "ms": "Bermakna tersirat."
    }
   },
   {
@@ -1301,7 +1301,7 @@
      "Hati-hati keakraban dan jenaka (1)",
      "Manfaat bahasa mudah (2)",
      "Ayat aktif lincah dan terus (1)",
-     "Pasif untuk diplomasi atau fokus masalah (2)"
+     "Pasif untuk kebijaksanaan atau fokus masalah (2)"
     ]
    }
   },
@@ -1320,7 +1320,7 @@
      "Strong precise familiar words, avoid clichés, jargon carefully (2)"
     ],
     "ms": [
-     "Denotasi dan konotasi (2)",
+     "Makna sebenar dan makna tersirat (2)",
      "Keseimbangan abstrak dan konkrit (2)",
      "Perkataan kuat tepat biasa, elak klise, jargon hati-hati (2)"
     ]
@@ -1380,7 +1380,7 @@
   ],
   [
    "Euphemism",
-   "Eufemisme"
+   "Kata halus"
   ],
   [
    "Bias-free language",
@@ -1404,11 +1404,11 @@
   ],
   [
    "Denotation",
-   "Denotasi"
+   "Makna sebenar"
   ],
   [
    "Connotation",
-   "Konotasi"
+   "Makna tersirat"
   ],
   [
    "Abstract word",

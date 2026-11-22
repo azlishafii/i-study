@@ -61,7 +61,7 @@
      "ms": [
       "Anggap ia perbualan",
       "Tulis tidak formal tetapi tidak cuai",
-      "Cipta tajuk ringkas, spesifik, bermaklumat",
+      "Cipta tajuk ringkas, khusus, bermaklumat",
       "Terlibat dan kekal terlibat",
       "Promosi secara tidak langsung",
       "Telus dan jujur",
@@ -124,7 +124,7 @@
        ],
        "ms": [
         "Peribadi",
-        "Rangkaian dalaman dibina syarikat; rangkaian kolaboratif dalaman"
+        "Rangkaian dalaman dibina syarikat; rangkaian bersama dalaman"
        ]
       }
      ]
@@ -155,7 +155,7 @@
      ],
      "ms": [
       "Mengintegrasikan tenaga kerja",
-      "Memupuk kolaborasi",
+      "Memupuk kerjasama",
       "Membina komuniti",
       "Menyosialkan jenama dan syarikat",
       "Memahami pasaran sasaran",
@@ -183,7 +183,7 @@
       "Maintain a consistent personality"
      ],
      "ms": [
-      "Pilih mod komposisi terbaik",
+      "Pilih cara penulisan terbaik",
       "Tawarkan kandungan bernilai",
       "Sertai perbualan sedia ada",
       "Dasarkan kehadiran pada hab anda",
@@ -223,7 +223,7 @@
        ],
        "ms": [
         "Laman kandungan jana pengguna",
-        "Cipta nilai; cipta ruang perkongsian; penyumbang bernilai tinggi mempengaruhi tingkah laku pengguna; benarkan undi, sokongan, perkongsian; bina reputasi dengan ulasan positif; libatkan diri dengan penyiar"
+        "Cipta nilai; cipta ruang perkongsian; penyumbang bernilai tinggi mempengaruhi tingkah laku pengguna; benarkan undi, sokongan, perkongsian; bina nama baik dengan ulasan positif; libatkan diri dengan penyiar"
        ]
       },
       {
@@ -232,7 +232,7 @@
         "Guide audiences to relevant content; focus on ease of use; create value as an industry expert; bring the community together; be aware of ethics and legal policies (plagiarism, competency as an expert)"
        ],
        "ms": [
-        "Laman kurasi kandungan",
+        "Laman pemilihan kandungan",
         "Bimbing audiens ke kandungan relevan; mudah guna; cipta nilai sebagai pakar industri; satukan komuniti; sedar etika dan dasar undang-undang (plagiat, kecekapan sebagai pakar)"
        ]
       },
@@ -365,7 +365,7 @@
     {
      "k": "h",
      "en": "Microblogging composition",
-     "ms": "Komposisi mikroblog"
+     "ms": "Penulisan mikroblog"
     },
     {
      "k": "ul",
@@ -395,7 +395,7 @@
      "ms": [
       "Perkhidmatan pelanggan",
       "Rangkaian sosial dan crowdsourcing",
-      "Integrasi dengan media sosial lain",
+      "Penggabungan dengan media sosial lain",
       "Galakkan komunikasi spontan",
       "Bahagian penting strategi komunikasi keseluruhan"
      ]
@@ -501,7 +501,7 @@
    },
    "a": {
     "en": "Integrating workforce, collaboration, communities, socialising brands, understanding markets, recruiting, sales prospects, supporting customers, extending organisation, crowdspeaking.",
-    "ms": "Integrasi tenaga kerja, kolaborasi, komuniti, jenama, pasaran, rekrut, prospek jualan, sokong pelanggan, perluas organisasi, crowdspeaking."
+    "ms": "Penggabungan tenaga kerja, kerjasama, komuniti, jenama, pasaran, rekrut, prospek jualan, sokong pelanggan, perluas organisasi, crowdspeaking."
    }
   },
   {
@@ -513,7 +513,7 @@
    },
    "a": {
     "en": "Best compositional mode, valuable content, join conversations, anchor in hub, build community, restrict promotions, consistent personality.",
-    "ms": "Mod komposisi, kandungan bernilai, sertai perbualan, hab, komuniti, hadkan promosi, personaliti konsisten."
+    "ms": "Cara penulisan, kandungan bernilai, sertai perbualan, hab, komuniti, hadkan promosi, personaliti konsisten."
    }
   },
   {
@@ -525,7 +525,7 @@
    },
    "a": {
     "en": "User-generated content, content curation, community Q&A.",
-    "ms": "Kandungan jana pengguna, kurasi kandungan, Soal-Jawab komuniti."
+    "ms": "Kandungan jana pengguna, pemilihan kandungan, Soal-Jawab komuniti."
    }
   },
   {
@@ -533,7 +533,7 @@
    "t": "sharing",
    "q": {
     "en": "Ethics issues in content curation?",
-    "ms": "Isu etika kurasi kandungan?"
+    "ms": "Isu etika pemilihan kandungan?"
    },
    "a": {
     "en": "Plagiarism and competency as an expert.",
@@ -593,7 +593,7 @@
    "t": "micro",
    "q": {
     "en": "Microblogging composition traits?",
-    "ms": "Ciri komposisi mikroblog?"
+    "ms": "Ciri penulisan mikroblog?"
    },
    "a": {
     "en": "Severe length limits, short summaries with links, social aspects, promotions and teasers.",
@@ -609,7 +609,7 @@
    },
    "a": {
     "en": "Customer service, social networking and crowdsourcing, integration with other media, spontaneous communication, part of overall strategy.",
-    "ms": "Perkhidmatan pelanggan, rangkaian sosial dan crowdsourcing, integrasi, komunikasi spontan, strategi keseluruhan."
+    "ms": "Perkhidmatan pelanggan, rangkaian sosial dan crowdsourcing, penggabungan, komunikasi spontan, strategi keseluruhan."
    }
   },
   {
@@ -1086,7 +1086,7 @@
     ],
     "ms": [
      "Laman kandungan jana pengguna (2)",
-     "Laman kurasi dengan etika (2)",
+     "Laman pemilihan dengan etika (2)",
      "Laman Soal-Jawab komuniti (2)"
     ]
    }
@@ -1129,7 +1129,7 @@
      "Wiki guidelines (2)"
     ],
     "ms": [
-     "Komposisi mikroblog (2)",
+     "Penulisan mikroblog (2)",
      "Peranan dalam perniagaan (2)",
      "Garis panduan wiki (2)"
     ]
@@ -1147,7 +1147,7 @@
   ],
   [
    "Content curation",
-   "Kurasi kandungan"
+   "Pemilihan kandungan"
   ],
   [
    "User-generated content",

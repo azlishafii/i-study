@@ -179,7 +179,7 @@
        ],
        "ms": [
         "Perasaan, emosi, simpati",
-        "Analogi, induksi, deduksi"
+        "Analogi, pemikiran khusus-ke-umum, pemikiran umum-ke-khusus"
        ]
       }
      ]
@@ -201,7 +201,7 @@
       "Illogical support"
      ],
      "ms": [
-      "Generalisasi tergesa-gesa",
+      "Andaian umum tergesa-gesa",
       "Penaakulan bulatan",
       "Menyerang lawan",
       "Memudahkan isu kompleks secara berlebihan",
@@ -264,7 +264,7 @@
       "Using a “one-shot” approach"
      ],
      "ms": [
-      "Jualan agresif (hard sell)",
+      "Jualan memaksa (hard sell)",
       "Menolak kompromi",
       "Bergantung hanya pada hujah hebat",
       "Pendekatan “sekali cuba”"
@@ -321,7 +321,7 @@
        ],
        "ms": [
         "Tuntutan dan permintaan pelarasan",
-        "Semak fakta dengan nada positif; garis masalah dan status; spesifik tentang penyelesaian; beri sebab baik; tutup dengan hormat"
+        "Semak fakta dengan nada positif; garis masalah dan status; khusus tentang penyelesaian; beri sebab baik; tutup dengan hormat"
        ]
       }
      ]
@@ -395,7 +395,7 @@
     {
      "k": "h",
      "en": "AIDA in conventional messages",
-     "ms": "AIDA dalam mesej konvensional"
+     "ms": "AIDA dalam mesej biasa"
     },
     {
      "k": "flow",
@@ -435,7 +435,7 @@
       "Beri maklumat yang orang mahu",
       "Kenal pasti dan sokong juara anda",
       "Jadilah tulen",
-      "Integrasi strategi pemasaran dan jualan konvensional"
+      "Penggabungan strategi pemasaran dan jualan biasa"
      ]
     },
     {
@@ -604,7 +604,7 @@
    },
    "a": {
     "en": "Analogy, induction, deduction.",
-    "ms": "Analogi, induksi, deduksi."
+    "ms": "Analogi, pemikiran khusus-ke-umum, pemikiran umum-ke-khusus."
    }
   },
   {
@@ -616,7 +616,7 @@
    },
    "a": {
     "en": "Hasty generalisations, circular reasoning, attacking an opponent, oversimplifying, mistaken cause and effect, faulty analogies, illogical support.",
-    "ms": "Generalisasi tergesa-gesa, penaakulan bulatan, menyerang lawan, memudahkan berlebihan, sebab-akibat salah, analogi cacat, sokongan tidak logik."
+    "ms": "Andaian umum tergesa-gesa, penaakulan bulatan, menyerang lawan, memudahkan berlebihan, sebab-akibat salah, analogi cacat, sokongan tidak logik."
    }
   },
   {
@@ -688,7 +688,7 @@
    },
    "a": {
     "en": "Review facts positively, outline problem and status, specific resolution, good reason, respectful close.",
-    "ms": "Semak fakta positif, garis masalah dan status, penyelesaian spesifik, sebab baik, tutup hormat."
+    "ms": "Semak fakta positif, garis masalah dan status, penyelesaian khusus, sebab baik, tutup hormat."
    }
   },
   {
@@ -724,7 +724,7 @@
    },
    "a": {
     "en": "Community building, listen as much as talk, join conversations, give wanted information, support champions, be real, integrate conventional strategies.",
-    "ms": "Bina komuniti, dengar sebanyak bercakap, sertai perbualan, beri maklumat dikehendaki, sokong juara, tulen, integrasi strategi konvensional."
+    "ms": "Bina komuniti, dengar sebanyak bercakap, sertai perbualan, beri maklumat dikehendaki, sokong juara, tulen, penggabungan strategi biasa."
    }
   },
   {
@@ -876,7 +876,7 @@
    "a": 0,
    "e": {
     "en": "Logical: analogy, induction, deduction.",
-    "ms": "Logik: analogi, induksi, deduksi."
+    "ms": "Logik: analogi, pemikiran khusus-ke-umum, pemikiran umum-ke-khusus."
    }
   },
   {
@@ -895,7 +895,7 @@
    "a": 3,
    "e": {
     "en": "Hasty generalisation.",
-    "ms": "Generalisasi tergesa-gesa."
+    "ms": "Andaian umum tergesa-gesa."
    }
   },
   {
@@ -1291,7 +1291,7 @@
     "ms": [
      "Beza pemasaran dan jualan (2)",
      "Langkah perancangan (2)",
-     "AIDA dalam mesej konvensional (2)",
+     "AIDA dalam mesej biasa (2)",
      "Tip media sosial (2)"
     ]
    }
@@ -1355,15 +1355,15 @@
   ],
   [
    "Induction",
-   "Induksi"
+   "Pemikiran khusus-ke-umum"
   ],
   [
    "Deduction",
-   "Deduksi"
+   "Pemikiran umum-ke-khusus"
   ],
   [
    "Hasty generalisation",
-   "Generalisasi tergesa-gesa"
+   "Andaian umum tergesa-gesa"
   ],
   [
    "Circular reasoning",
@@ -1371,7 +1371,7 @@
   ],
   [
    "Hard sell",
-   "Jualan agresif"
+   "Jualan memaksa"
   ],
   [
    "Bait-and-switch",

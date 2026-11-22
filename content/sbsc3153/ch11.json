@@ -218,7 +218,7 @@
       "Communicate how future mistakes will be avoided"
      ],
      "ms": [
-      "Pertimbang alternatif",
+      "Pertimbang pilihan lain",
       "Sertakan pernyataan positif",
       "Nyatakan bagaimana kesilapan akan dielak"
      ]
@@ -269,7 +269,7 @@
       "Be relevant and sincere"
      ],
      "ms": [
-      "Buka dengan pernyataan neutral",
+      "Buka dengan pernyataan berkecuali",
       "Bina titik persamaan",
       "Nyatakan penghargaan",
       "Yakinkan anda faham keperluan mereka",
@@ -312,7 +312,7 @@
       "Cari sudut positif",
       "Elak kesimpulan tidak pasti",
       "Urus surat-menyurat masa depan",
-      "Nyatakan optimisme",
+      "Nyatakan sikap yakin",
       "Ikhlas"
      ]
     }
@@ -365,7 +365,7 @@
      "ms": [
       "Pekerja, pengurus dan pemberi maklumat (whistleblower)",
       "Komunikasi terbuka",
-      "Mekanisme pelaporan dalaman dan luaran",
+      "Saluran pelaporan dalaman dan luaran",
       "Komunikasi tepat pada masa",
       "Mendengar aktif",
       "Perlindungan dalaman dan luaran"
@@ -422,7 +422,7 @@
        ],
        "ms": [
         "Menolak permintaan rutin",
-        "Fokus hubungan dan permintaan terpenting; jangan biar perkara tertutup terbuka; tawar alternatif; tawar bantuan lain hanya jika ada"
+        "Fokus hubungan dan permintaan terpenting; jangan biar perkara tertutup terbuka; tawar pilihan lain; tawar bantuan lain hanya jika ada"
        ]
       },
       {
@@ -517,7 +517,7 @@
      ],
      "ms": [
       "Bangunkan pelan pengurusan krisis",
-      "Takrif prosedur operasi",
+      "Takrif tatacara operasi",
       "Garis tugas dan tanggungjawab komunikasi",
       "Senarai saluran berita dan media sosial"
      ]
@@ -553,7 +553,7 @@
        ],
        "ms": [
         "Menolak permintaan rujukan",
-        "Pekerja: ringkas, bersedia teliti. Pemohon: terus, tegas dan diplomasi (bacaan slaid 35)"
+        "Pekerja: ringkas, bersedia teliti. Pemohon: terus, tegas dan kebijaksanaan (bacaan slaid 35)"
        ]
       },
       {
@@ -583,7 +583,7 @@
        ],
        "ms": [
         "Penilaian prestasi negatif",
-        "Dokumenkan masalah prestasi; nilai semua pekerja konsisten; tulis tenang dan objektif; fokus peluang penambahbaikan; kemas kini deskripsi kerja"
+        "Dokumenkan masalah prestasi; nilai semua pekerja konsisten; tulis tenang dan objektif; fokus peluang penambahbaikan; kemas kini penerangan kerja"
        ]
       },
       {
@@ -593,7 +593,7 @@
        ],
        "ms": [
         "Menamatkan pekerjaan",
-        "Reka sebab jelas dan neutral; ikut dasar dan undang-undang; elak serangan peribadi; rakan semak surat; sampaikan secara peribadi"
+        "Reka sebab jelas dan berkecuali; ikut dasar dan undang-undang; elak serangan peribadi; rakan semak surat; sampaikan secara peribadi"
        ]
       }
      ]
@@ -676,7 +676,7 @@
    },
    "a": {
     "en": "Consider alternatives, include positive statements, communicate how future mistakes will be avoided.",
-    "ms": "Pertimbang alternatif, pernyataan positif, nyatakan cara elak kesilapan."
+    "ms": "Pertimbang pilihan lain, pernyataan positif, nyatakan cara elak kesilapan."
    }
   },
   {
@@ -688,7 +688,7 @@
    },
    "a": {
     "en": "An opening that is neutral, finds common ground, shows appreciation or understanding, relevant and sincere.",
-    "ms": "Pembukaan neutral, titik persamaan, penghargaan atau kefahaman, relevan dan ikhlas."
+    "ms": "Pembukaan berkecuali, titik persamaan, penghargaan atau kefahaman, relevan dan ikhlas."
    }
   },
   {
@@ -712,7 +712,7 @@
    },
    "a": {
     "en": "Positive angle, avoid uncertain conclusion, manage future correspondence, express optimism, be sincere.",
-    "ms": "Sudut positif, elak kesimpulan tidak pasti, urus surat-menyurat, optimisme, ikhlas."
+    "ms": "Sudut positif, elak kesimpulan tidak pasti, urus surat-menyurat, sikap yakin, ikhlas."
    }
   },
   {
@@ -820,7 +820,7 @@
    },
    "a": {
     "en": "Operational procedures, communication tasks and responsibilities, list of news and social media outlets.",
-    "ms": "Prosedur operasi, tugas dan tanggungjawab komunikasi, senarai saluran berita dan media sosial."
+    "ms": "Tatacara operasi, tugas dan tanggungjawab komunikasi, senarai saluran berita dan media sosial."
    }
   },
   {
@@ -844,7 +844,7 @@
    },
    "a": {
     "en": "Document problems, evaluate consistently, calm objective voice, focus on improvement, update job descriptions.",
-    "ms": "Dokumen masalah, nilai konsisten, suara tenang objektif, fokus penambahbaikan, kemas kini deskripsi kerja."
+    "ms": "Dokumen masalah, nilai konsisten, suara tenang objektif, fokus penambahbaikan, kemas kini penerangan kerja."
    }
   },
   {
@@ -856,7 +856,7 @@
    },
    "a": {
     "en": "Clear neutral reasons, follow policy and law, no personal attacks, colleague review, deliver in person.",
-    "ms": "Sebab jelas neutral, ikut dasar dan undang-undang, tiada serangan, rakan semak, sampaikan peribadi."
+    "ms": "Sebab jelas berkecuali, ikut dasar dan undang-undang, tiada serangan, rakan semak, sampaikan peribadi."
    }
   }
  ],

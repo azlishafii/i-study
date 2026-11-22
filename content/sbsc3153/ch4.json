@@ -185,7 +185,7 @@
       ],
       "ms": [
        "Tujuan umum",
-       "Tujuan spesifik"
+       "Tujuan khusus"
       ]
      },
      "rows": [
@@ -215,7 +215,7 @@
         "What the audience will think"
        ],
        "ms": [
-        "Berkolaborasi",
+        "Bekerjasama",
         "Apa yang audiens akan fikir"
        ]
       }
@@ -224,7 +224,7 @@
     {
      "k": "note",
      "en": "The slide shows the specific-purpose phrases beside the three general purposes in a layout that is not clearly paired. The pairing above is reading order only; confirm in your textbook.",
-     "ms": "Slaid menunjukkan frasa tujuan spesifik bersebelahan tiga tujuan umum tanpa pasangan jelas. Pasangan di atas hanya ikut susunan bacaan; sahkan dalam buku teks."
+     "ms": "Slaid menunjukkan frasa tujuan khusus bersebelahan tiga tujuan umum tanpa pasangan jelas. Pasangan di atas hanya ikut susunan bacaan; sahkan dalam buku teks."
     },
     {
      "k": "h",
@@ -241,7 +241,7 @@
      ],
      "ms": [
       "Adakah apa-apa akan berubah hasil mesej anda?",
-      "Adakah tujuan realistik?",
+      "Adakah tujuan munasabah?",
       "Adakah masanya sesuai?",
       "Adakah tujuan diterima organisasi?"
      ]
@@ -264,7 +264,7 @@
      "ms": [
       "Kenal pasti audiens utama",
       "Tentukan saiz dan taburan geografi audiens",
-      "Tentukan komposisi audiens",
+      "Tentukan susunan audiens",
       "Nilai tahap kefahaman audiens",
       "Fahami jangkaan dan keutamaan audiens",
       "Jangka reaksi audiens"
@@ -296,7 +296,7 @@
       "Ask your audience for input"
      ],
      "ms": [
-      "Pertimbang perspektif audiens",
+      "Pertimbang sudut pandangan audiens",
       "Dengar komuniti",
       "Baca laporan dan dokumen syarikat",
       "Bercakap dengan penyelia, rakan sekerja atau pelanggan",
@@ -436,7 +436,7 @@
        "ms": [
         "Visual",
         "Gambar, rajah, carta dan graf",
-        "Infografik, rajah interaktif dan animasi, video digital"
+        "Infografik, rajah boleh diklik dan animasi, video digital"
        ]
       }
      ]
@@ -543,7 +543,7 @@
        ],
        "ms": [
         "Jimat masa",
-        "Bina reputasi"
+        "Bina nama baik"
        ]
       }
      ]
@@ -594,7 +594,7 @@
        "ms": [
         "Memujuk",
         "Pembiayaan penyelidikan dan pembangunan",
-        "Pesaing berbelanja lebih, membolehkan produk lebih inovatif"
+        "Pesaing berbelanja lebih, membolehkan produk lebih kreatif"
        ]
       },
       {
@@ -604,7 +604,7 @@
         "Tying wages to profits motivates employees and reduces compensation costs in tough years"
        ],
        "ms": [
-        "Berkolaborasi",
+        "Bekerjasama",
         "Gaji insentif",
         "Mengaitkan gaji dengan keuntungan memotivasi pekerja dan kurangkan kos pampasan"
        ]
@@ -663,7 +663,7 @@
       "Structure: main idea, major points, examples and evidence"
      ],
      "ms": [
-      "Rangka: poin utama, butiran sokongan, visualkan hubungan; alternatif: carta organisasi, peta minda",
+      "Rangka: poin utama, butiran sokongan, visualkan hubungan; pilihan lain: carta organisasi, peta minda",
       "Struktur: idea utama, poin utama, contoh dan bukti"
      ]
     },
@@ -751,7 +751,7 @@
    },
    "a": {
     "en": "Inform, persuade, collaborate.",
-    "ms": "Memaklumkan, memujuk, berkolaborasi."
+    "ms": "Memaklumkan, memujuk, bekerjasama."
    }
   },
   {
@@ -763,7 +763,7 @@
    },
    "a": {
     "en": "Will anything change? Is it realistic? Is the time right? Acceptable to your organisation?",
-    "ms": "Akan berubah? Realistik? Masa sesuai? Diterima organisasi?"
+    "ms": "Akan berubah? Munasabah? Masa sesuai? Diterima organisasi?"
    }
   },
   {
@@ -775,7 +775,7 @@
    },
    "a": {
     "en": "Primary audience; size and distribution; composition; level of understanding; expectations and preferences; forecast reaction.",
-    "ms": "Audiens utama; saiz dan taburan; komposisi; tahap kefahaman; jangkaan; jangka reaksi."
+    "ms": "Audiens utama; saiz dan taburan; susunan; tahap kefahaman; jangkaan; jangka reaksi."
    }
   },
   {
@@ -787,7 +787,7 @@
    },
    "a": {
     "en": "Consider audience perspective, listen to community, read reports, talk to supervisors/colleagues/customers, ask audience for input.",
-    "ms": "Pertimbang perspektif, dengar komuniti, baca laporan, bercakap dengan penyelia/rakan/pelanggan, minta input."
+    "ms": "Pertimbang sudut pandangan, dengar komuniti, baca laporan, bercakap dengan penyelia/rakan/pelanggan, minta input."
    }
   },
   {
@@ -895,7 +895,7 @@
    },
    "a": {
     "en": "Use clear logic, write succinctly and clearly, build reputation.",
-    "ms": "Logik jelas, menulis ringkas dan jelas, bina reputasi."
+    "ms": "Logik jelas, menulis ringkas dan jelas, bina nama baik."
    }
   },
   {
@@ -1028,7 +1028,7 @@
    "a": 2,
    "e": {
     "en": "Inform, persuade, collaborate.",
-    "ms": "Memaklumkan, memujuk, berkolaborasi."
+    "ms": "Memaklumkan, memujuk, bekerjasama."
    }
   },
   {
@@ -1275,7 +1275,7 @@
    "a": 1,
    "e": {
     "en": "Writers: logic, succinct, reputation.",
-    "ms": "Penulis: logik, ringkas, reputasi."
+    "ms": "Penulis: logik, ringkas, nama baik."
    }
   },
   {
@@ -1414,9 +1414,9 @@
      "Understanding, expectations, forecast reaction (2)"
     ],
     "ms": [
-     "Tujuan umum: memaklumkan, memujuk, berkolaborasi (2)",
-     "Analisis tujuan: perubahan, realistik, masa, diterima (2)",
-     "Audiens: utama, saiz, komposisi (2)",
+     "Tujuan umum: memaklumkan, memujuk, bekerjasama (2)",
+     "Analisis tujuan: perubahan, munasabah, masa, diterima (2)",
+     "Audiens: utama, saiz, susunan (2)",
      "Kefahaman, jangkaan, jangka reaksi (2)"
     ]
    }
@@ -1484,7 +1484,7 @@
     ],
     "ms": [
      "Membantu pembaca: faham, penerimaan, jimat masa (2)",
-     "Membantu penulis: logik, ringkas, reputasi (2)",
+     "Membantu penulis: logik, ringkas, nama baik (2)",
      "Tentukan idea utama; hadkan skop (2)",
      "Rangka, struktur, penceritaan (2)"
     ]
@@ -1502,7 +1502,7 @@
   ],
   [
    "Specific purpose",
-   "Tujuan spesifik"
+   "Tujuan khusus"
   ],
   [
    "Audience profile",

@@ -24,8 +24,8 @@
   ],
   "ms": [
    "Bincangkan peluang dan cabaran komunikasi antara budaya",
-   "Takrif budaya, terangkan bagaimana ia dipelajari, dan takrif etnosentrisme dan stereotaip",
-   "Terangkan kepentingan variasi budaya dan senaraikan lapan kategori perbezaan budaya",
+   "Takrif budaya, terangkan bagaimana ia dipelajari, dan takrif rasa bangsa sendiri paling baik dan stereotaip",
+   "Terangkan kepentingan kepelbagaian budaya dan senaraikan lapan kategori perbezaan budaya",
    "Senaraikan empat garis panduan menyesuaikan diri dengan mana-mana budaya perniagaan",
    "Kenal pasti tujuh langkah meningkatkan kemahiran komunikasi antara budaya"
   ]
@@ -153,7 +153,7 @@
         "Judging others according to your own standards"
        ],
        "ms": [
-        "Etnosentrisme",
+        "Rasa bangsa sendiri paling baik",
         "Menilai orang lain mengikut piawaian sendiri"
        ]
       },
@@ -183,7 +183,7 @@
         "Accepting multiple cultures on their own terms"
        ],
        "ms": [
-        "Pluralisme budaya",
+        "Kepelbagaian budaya",
         "Menerima pelbagai budaya mengikut terma mereka"
        ]
       }
@@ -263,7 +263,7 @@
        ],
        "ms": [
         "3 Sosial",
-        "Sikap terhadap kerja dan kejayaan; peranan dan status; adab; konsep masa; orientasi masa depan; keterbukaan dan keterangkuman"
+        "Sikap terhadap kerja dan kejayaan; peranan dan status; adab; konsep masa; pandangan masa depan; keterbukaan dan keterangkuman"
        ]
       },
       {
@@ -293,7 +293,7 @@
        ],
        "ms": [
         "6 Jantina",
-        "Persepsi peranan jantina; perwakilan dalam pengurusan; gaya komunikasi berbeza; konsep lapuk jantina dan orientasi seksual"
+        "Tanggapan peranan jantina; perwakilan dalam pengurusan; gaya komunikasi berbeza; konsep lapuk jantina dan kecenderungan seksual"
        ]
       },
       {
@@ -370,7 +370,7 @@
       "Communication style"
      ],
      "ms": [
-      "Individualisme",
+      "Sikap mementingkan diri",
       "Kesaksamaan",
       "Privasi dan ruang peribadi",
       "Masa dan jadual",
@@ -554,7 +554,7 @@
    "t": "culture",
    "q": {
     "en": "Define ethnocentrism.",
-    "ms": "Takrif etnosentrisme."
+    "ms": "Takrif rasa bangsa sendiri paling baik."
    },
    "a": {
     "en": "Judging others according to your own standards.",
@@ -590,7 +590,7 @@
    "t": "culture",
    "q": {
     "en": "Define cultural pluralism.",
-    "ms": "Takrif pluralisme budaya."
+    "ms": "Takrif kepelbagaian budaya."
    },
    "a": {
     "en": "Accepting multiple cultures on their own terms.",
@@ -602,7 +602,7 @@
    "t": "culture",
    "q": {
     "en": "Three ways to overcome ethnocentrism and stereotyping?",
-    "ms": "Tiga cara mengatasi etnosentrisme dan stereotaip?"
+    "ms": "Tiga cara mengatasi rasa bangsa sendiri paling baik dan stereotaip?"
    },
    "a": {
     "en": "Avoid assumptions, withhold judgment, acknowledge distinctions.",
@@ -642,7 +642,7 @@
    },
    "a": {
     "en": "Attitudes toward work and success, roles and status, manners, concepts of time, future orientation, openness and inclusiveness.",
-    "ms": "Sikap kerja dan kejayaan, peranan dan status, adab, masa, orientasi masa depan, keterbukaan."
+    "ms": "Sikap kerja dan kejayaan, peranan dan status, adab, masa, pandangan masa depan, keterbukaan."
    }
   },
   {
@@ -1178,7 +1178,7 @@
    "marks": 6,
    "q": {
     "en": "Define culture, ethnocentrism, xenophobia and stereotyping and how to overcome them.",
-    "ms": "Takrif budaya, etnosentrisme, xenofobia dan stereotaip serta cara mengatasinya."
+    "ms": "Takrif budaya, rasa bangsa sendiri paling baik, xenofobia dan stereotaip serta cara mengatasinya."
    },
    "pts": {
     "en": [
@@ -1189,8 +1189,8 @@
     ],
     "ms": [
      "Budaya: beberapa kumpulan, bahasa/adat sendiri (1)",
-     "Etnosentrisme dan xenofobia (2)",
-     "Stereotaip dan pluralisme budaya (1)",
+     "Rasa bangsa sendiri paling baik dan xenofobia (2)",
+     "Stereotaip dan kepelbagaian budaya (1)",
      "Elak andaian, tangguh penghakiman, akui perbezaan (2)"
     ]
    }
@@ -1280,7 +1280,7 @@
   ],
   [
    "Ethnocentrism",
-   "Etnosentrisme"
+   "Rasa bangsa sendiri paling baik"
   ],
   [
    "Xenophobia",
@@ -1292,7 +1292,7 @@
   ],
   [
    "Cultural pluralism",
-   "Pluralisme budaya"
+   "Kepelbagaian budaya"
   ],
   [
    "High-context culture",

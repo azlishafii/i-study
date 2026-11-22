@@ -63,7 +63,7 @@
        ],
        "ms": [
         "Pembukaan",
-        "Nyatakan permintaan di awal; perhatikan nada; anggap audiens akan patuh; spesifik"
+        "Nyatakan permintaan di awal; perhatikan nada; anggap audiens akan patuh; khusus"
        ]
       },
       {
@@ -83,7 +83,7 @@
        ],
        "ms": [
         "Penutup",
-        "Permintaan spesifik dan tarikh akhir; maklumat hubungan; ungkapan penghargaan"
+        "Permintaan khusus dan tarikh akhir; maklumat hubungan; ungkapan penghargaan"
        ]
       }
      ]
@@ -144,7 +144,7 @@
        ],
        "ms": [
         "Membuat tuntutan dan meminta pelarasan",
-        "Terangkan masalah dengan butiran; beri maklumat sokongan; minta tindakan spesifik"
+        "Terangkan masalah dengan butiran; beri maklumat sokongan; minta tindakan khusus"
        ]
       }
      ]
@@ -200,7 +200,7 @@
        ],
        "ms": [
         "Tamat dengan penutup sopan",
-        "Tamat dengan nada neutral atau positif; “terima kasih” ringkas mungkin cukup; nyatakan jelas tindakan susulan"
+        "Tamat dengan nada berkecuali atau positif; “terima kasih” ringkas mungkin cukup; nyatakan jelas tindakan susulan"
        ]
       }
      ]
@@ -374,7 +374,7 @@
    },
    "a": {
     "en": "State request up front, pay attention to tone, assume compliance, be specific.",
-    "ms": "Nyata permintaan di awal, perhatikan nada, anggap patuh, spesifik."
+    "ms": "Nyata permintaan di awal, perhatikan nada, anggap patuh, khusus."
    }
   },
   {
@@ -398,7 +398,7 @@
    },
    "a": {
     "en": "Specific request and deadline, contact information, expression of appreciation.",
-    "ms": "Permintaan spesifik dan tarikh akhir, maklumat hubungan, penghargaan."
+    "ms": "Permintaan khusus dan tarikh akhir, maklumat hubungan, penghargaan."
    }
   },
   {
@@ -434,7 +434,7 @@
    },
    "a": {
     "en": "Explain the problem with details, provide backup information, request specific action.",
-    "ms": "Terangkan masalah dengan butiran, beri maklumat sokongan, minta tindakan spesifik."
+    "ms": "Terangkan masalah dengan butiran, beri maklumat sokongan, minta tindakan khusus."
    }
   },
   {
@@ -470,7 +470,7 @@
    },
    "a": {
     "en": "On a neutral or positive note, a simple thank you may suffice, state follow-up action.",
-    "ms": "Nada neutral atau positif, terima kasih ringkas, nyatakan tindakan susulan."
+    "ms": "Nada berkecuali atau positif, terima kasih ringkas, nyatakan tindakan susulan."
    }
   },
   {
@@ -708,7 +708,7 @@
    "a": 1,
    "e": {
     "en": "Explain, back up, request specific action.",
-    "ms": "Terangkan, sokong, minta tindakan spesifik."
+    "ms": "Terangkan, sokong, minta tindakan khusus."
    }
   },
   {
@@ -906,7 +906,7 @@
    "t": "req",
    "q": {
     "en": "Specific requests should include:",
-    "ms": "Permintaan spesifik patut termasuk:"
+    "ms": "Permintaan khusus patut termasuk:"
    },
    "o": [
     "A deadline",
@@ -917,7 +917,7 @@
    "a": 0,
    "e": {
     "en": "Specific request and deadline.",
-    "ms": "Permintaan spesifik dan tarikh akhir."
+    "ms": "Permintaan khusus dan tarikh akhir."
    }
   },
   {
@@ -977,9 +977,9 @@
     ],
     "ms": [
      "Guna pendekatan terus (1)",
-     "Pembukaan: nyata permintaan, nada, anggap patuh, spesifik (2)",
+     "Pembukaan: nyata permintaan, nada, anggap patuh, khusus (2)",
      "Isi: terangkan logik, tunjuk manfaat, soalan penting dahulu (2)",
-     "Penutup: permintaan spesifik dan tarikh akhir, hubungan, penghargaan (1)"
+     "Penutup: permintaan khusus dan tarikh akhir, hubungan, penghargaan (1)"
     ]
    }
   },

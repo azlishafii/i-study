@@ -63,7 +63,7 @@
       "Membentang kuantiti angka secara visual",
       "Menarik dan mengekalkan perhatian",
       "Berkomunikasi lebih baik dengan audiens pelbagai",
-      "Menyampaikan makna konotatif"
+      "Menyampaikan makna bermakna tersirat"
      ]
     },
     {
@@ -102,7 +102,7 @@
       "Simplicity"
      ],
      "ms": [
-      "Konsistensi",
+      "Keseragaman",
       "Kontras",
       "Keseimbangan",
       "Penekanan",
@@ -139,7 +139,7 @@
       "Jangan lebihkan maklumat yang menyokong hujah",
       "Jangan permudah situasi kompleks",
       "Jangan tersirat hubungan sebab-akibat",
-      "Elak manipulasi emosi",
+      "Elak mempermainkan emosi",
       "Berhati-hati dengan kaedah mengagregat data"
      ]
     },
@@ -229,7 +229,7 @@
        ],
        "ms": [
         "Carta permukaan",
-        "Menunjukkan kesan kumulatif"
+        "Menunjukkan kesan terkumpul"
        ]
       },
       {
@@ -239,7 +239,7 @@
        ],
        "ms": [
         "Carta bar, piktogram, Gantt",
-        "Bandingkan saiz beberapa item; perubahan satu item; komposisi beberapa item; saiz relatif komponen keseluruhan"
+        "Bandingkan saiz beberapa item; perubahan satu item; susunan beberapa item; saiz relatif komponen keseluruhan"
        ]
       },
       {
@@ -277,7 +277,7 @@
     {
      "k": "h",
      "en": "Data visualisation",
-     "ms": "Visualisasi data"
+     "ms": "Gambaran data"
     },
     {
      "k": "ul",
@@ -462,7 +462,7 @@
        ],
        "ms": [
         "1 Praproduksi",
-        "Tujuan dan skop; komposisi babak; kedudukan kamera; pencahayaan; bunyi; senarai syot; bahan B-roll"
+        "Tujuan dan skop; susunan babak; kedudukan kamera; pencahayaan; bunyi; senarai syot; bahan B-roll"
        ]
       },
       {
@@ -500,7 +500,7 @@
    },
    "a": {
     "en": "Enhance text, convey points effectively, present numbers visually, hold attention, reach diverse audiences, convey connotative meaning.",
-    "ms": "Perkukuh teks, sampaikan poin, bentang angka, kekal perhatian, audiens pelbagai, makna konotatif."
+    "ms": "Perkukuh teks, sampaikan poin, bentang angka, kekal perhatian, audiens pelbagai, makna bermakna tersirat."
    }
   },
   {
@@ -512,7 +512,7 @@
    },
    "a": {
     "en": "Consistency, contrast, balance, emphasis, convention, simplicity.",
-    "ms": "Konsistensi, kontras, keseimbangan, penekanan, konvensyen, kesederhanaan."
+    "ms": "Keseragaman, kontras, keseimbangan, penekanan, konvensyen, kesederhanaan."
    }
   },
   {
@@ -524,7 +524,7 @@
    },
    "a": {
     "en": "Consider interpretations, provide context, don’t hide negatives, don’t exaggerate, don’t oversimplify, no false cause-effect, avoid manipulation, careful aggregation.",
-    "ms": "Pertimbang tafsiran, beri konteks, jangan sembunyi negatif, jangan lebihkan, jangan permudah, elak sebab-akibat palsu, elak manipulasi."
+    "ms": "Pertimbang tafsiran, beri konteks, jangan sembunyi negatif, jangan lebihkan, jangan permudah, elak sebab-akibat palsu, elak memperdaya."
    }
   },
   {
@@ -572,7 +572,7 @@
    },
    "a": {
     "en": "A cumulative effect.",
-    "ms": "Kesan kumulatif."
+    "ms": "Kesan terkumpul."
    }
   },
   {
@@ -584,7 +584,7 @@
    },
    "a": {
     "en": "Compare sizes, show changes over time, composition over time, relative sizes of parts.",
-    "ms": "Bandingkan saiz, perubahan, komposisi, saiz relatif bahagian."
+    "ms": "Bandingkan saiz, perubahan, susunan, saiz relatif bahagian."
    }
   },
   {
@@ -616,7 +616,7 @@
    "t": "data",
    "q": {
     "en": "Four data visualisation themes?",
-    "ms": "Empat tema visualisasi data?"
+    "ms": "Empat tema gambaran data?"
    },
    "a": {
     "en": "Extract meaning from masses of data, context, big data, dynamic data.",
@@ -664,7 +664,7 @@
    "t": "integrate",
    "q": {
     "en": "Four decisions of integrating visuals?",
-    "ms": "Empat keputusan integrasi visual?"
+    "ms": "Empat keputusan penggabungan visual?"
    },
    "a": {
     "en": "Balance, referring in text, placement, titles/captions/legends.",
@@ -704,7 +704,7 @@
    },
    "a": {
     "en": "Purpose and scope, scene composition, camera placement, lighting, sound, shot list, B-roll.",
-    "ms": "Tujuan dan skop, komposisi babak, kamera, pencahayaan, bunyi, senarai syot, B-roll."
+    "ms": "Tujuan dan skop, susunan babak, kamera, pencahayaan, bunyi, senarai syot, B-roll."
    }
   },
   {
@@ -871,7 +871,7 @@
    "t": "data",
    "q": {
     "en": "A cumulative effect is shown by a:",
-    "ms": "Kesan kumulatif ditunjuk oleh:"
+    "ms": "Kesan terkumpul ditunjuk oleh:"
    },
    "o": [
     "Map",
@@ -1176,7 +1176,7 @@
      "Carta garis dan permukaan (2)",
      "Carta bar dan piktogram (1)",
      "Serakan, gelembung dan pai (2)",
-     "Visualisasi data (1)"
+     "Gambaran data (1)"
     ]
    }
   },
@@ -1217,7 +1217,7 @@
     ],
     "ms": [
      "Cipta visual (2)",
-     "Empat keputusan integrasi (3)",
+     "Empat keputusan penggabungan (3)",
      "Tiga kriteria kualiti (3)"
     ]
    }

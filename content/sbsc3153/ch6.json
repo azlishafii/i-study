@@ -269,7 +269,7 @@
       "Spend extra time on the **beginning and end**: they have the greatest impact."
      ],
      "ms": [
-      "**Kandungan**: tepat? relevan? cukup? seimbang umum dan spesifik?",
+      "**Kandungan**: tepat? relevan? cukup? seimbang umum dan khusus?",
       "Beri masa lebih pada **permulaan dan penutup**: kesan terbesar."
      ]
     }
@@ -329,7 +329,7 @@
          "Descriptive headings name a topic"
         ],
         "ms": [
-         "Tajuk deskriptif menamakan topik"
+         "Tajuk menerangkan menamakan topik"
         ]
        },
        "en": "Paragraphs, lists and headings",
@@ -345,7 +345,7 @@
      ],
      "ms": [
       "**Indeks kebolehbacaan** hanya ukur panjang perkataan, suku kata, ayat dan perenggan. Tidak mengukur reka bentuk, sikap “you”, peralihan.",
-      "Pengurus kanan **mengimbas** idea utama, kesimpulan dan cadangan. Empat teknik: variasi ayat, perenggan pendek, senarai, tajuk."
+      "Pengurus kanan **mengimbas** idea utama, kesimpulan dan cadangan. Empat teknik: kepelbagaian ayat, perenggan pendek, senarai, tajuk."
      ]
     },
     {
@@ -447,7 +447,7 @@
       "**Descriptive** headings name a topic (“Cost Considerations”); **informative** headings guide thinking (“Redesigning Material Flow to Cut Production Costs”). Keep brief and parallel."
      ],
      "ms": [
-      "Tajuk **deskriptif** menamakan topik; **informatif** memandu pemikiran. Ringkas dan selari."
+      "Tajuk **menerangkan** menamakan topik; **memberi maklumat** memandu pemikiran. Ringkas dan selari."
      ]
     }
    ]
@@ -549,7 +549,7 @@
       "Tulis semula jujukan kata nama panjang — **Ringkaskan jujukan kata nama panjang**.",
       "Gantikan kata kerja tersembunyi — (-ion, -tion, -ment dll).",
       "Jelaskan struktur ayat — Subjek dan predikat dekat.",
-      "Jelaskan rujukan janggal — Guna penunjuk spesifik."
+      "Jelaskan rujukan janggal — Guna penunjuk khusus."
      ]
     },
     {
@@ -621,7 +621,7 @@
          "Detail"
         ],
         "ms": [
-         "Konsistensi",
+         "Keseragaman",
          "Keseimbangan",
          "Kawalan (restraint)",
          "Perincian"
@@ -705,7 +705,7 @@
       "Detail — E.g. very wide columns are hard to read; split into two columns."
      ],
      "ms": [
-      "Konsistensi — Jidar, taip muka, saiz, ruang.",
+      "Keseragaman — Jidar, taip muka, saiz, ruang.",
       "Keseimbangan — Subjektif; formal atau tidak formal.",
       "Kawalan (restraint) — Ringkas; “lebih mudah” dan “lebih sedikit”.",
       "Perincian — Lajur terlalu lebar sukar dibaca."
@@ -727,7 +727,7 @@
      ],
      "ms": [
       "Ruang putih — = kawasan kosong. Beri kontras dan rehat; murah hati.",
-      "Margin — Dijustifikasi, rata kiri/kanan berombak (kebanyakan dokumen), rata kanan, atau tengah.",
+      "Margin — Diberi alasan, rata kiri/kanan berombak (kebanyakan dokumen), rata kanan, atau tengah.",
       "Penjajaran (justification)",
       "Jenis taip (typefaces) — = reka huruf; **font** = koleksi aksara. Klasik: sans serif untuk tajuk, serif untuk teks.",
       "Gaya taip — Elak yang mengganggu bacaan."
@@ -824,7 +824,7 @@
         ],
         "ms": [
          "Buat beberapa lintasan",
-         "Guna helah persepsi",
+         "Guna helah tanggapan",
          "Semak semula perkara keutamaan tinggi",
          "Beri jarak masa kepada diri",
          "Berwaspada",
@@ -890,7 +890,7 @@
      ],
      "ms": [
       "Buat beberapa lintasan — , satu aspek setiap kali.",
-      "Guna helah persepsi — Baca terbalik dari bawah; jari di bawah perkataan; celah kertas; baca kuat.",
+      "Guna helah tanggapan — Baca terbalik dari bawah; jari di bawah perkataan; celah kertas; baca kuat.",
       "Semak semula perkara keutamaan tinggi — Nama, tarikh, alamat, nombor.",
       "Beri jarak masa kepada diri — Sebelum semak.",
       "Berwaspada — **Berwaspada**.",
@@ -1078,7 +1078,7 @@
    },
    "a": {
     "en": "Consistency, balance, restraint, detail.",
-    "ms": "Konsistensi, keseimbangan, kawalan, perincian."
+    "ms": "Keseragaman, keseimbangan, kawalan, perincian."
    }
   },
   {
@@ -1126,7 +1126,7 @@
    },
    "a": {
     "en": "Multiple passes; perceptual tricks; double-check high-priority items; distance; vigilance; focus; review digital on paper; take your time.",
-    "ms": "Beberapa lintasan; helah persepsi; semak keutamaan; jarak; waspada; fokus; semak atas kertas; ambil masa."
+    "ms": "Beberapa lintasan; helah tanggapan; semak keutamaan; jarak; waspada; fokus; semak atas kertas; ambil masa."
    }
   },
   {
@@ -1454,7 +1454,7 @@
    "a": 3,
    "e": {
     "en": "Slide 16. Informative headings guide readers to think a certain way; descriptive ones only name the topic.",
-    "ms": "Slaid 16. Tajuk informatif memandu pemikiran; deskriptif hanya menamakan topik."
+    "ms": "Slaid 16. Tajuk memberi maklumat memandu pemikiran; menerangkan hanya menamakan topik."
    }
   },
   {
@@ -1606,7 +1606,7 @@
    "a": 0,
    "e": {
     "en": "Consistency, balance, restraint, detail.",
-    "ms": "Konsistensi, keseimbangan, kawalan, perincian."
+    "ms": "Keseragaman, keseimbangan, kawalan, perincian."
    }
   },
   {
@@ -1892,7 +1892,7 @@
      "Mobile: small chunks, simple format (1)"
     ],
     "ms": [
-     "Konsistensi, keseimbangan (1)",
+     "Keseragaman, keseimbangan (1)",
      "Kawalan, perincian (1)",
      "Ruang putih dan margin (1)",
      "Justification (1)",
@@ -1921,7 +1921,7 @@
     ],
     "ms": [
      "Kesan kesilapan bahasa, reka bentuk, menaip dan bahan tertinggal (2)",
-     "Beberapa lintasan, helah persepsi (1)",
+     "Beberapa lintasan, helah tanggapan (1)",
      "Semak keutamaan, jarak (1)",
      "Waspada, fokus (1)",
      "Semak dokumen digital atas kertas (1)",

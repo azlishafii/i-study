@@ -96,7 +96,7 @@
       "The purpose of visuals is to **support** your spoken message, **not replace** it."
      ],
      "ms": [
-      "Visual mencipta minat, menerangkan perkara sukar, menambah variasi dan membantu ingatan. Kajian: pembelajaran boleh meningkat **400%** kerana visual diproses **60,000 kali lebih pantas**.",
+      "Visual mencipta minat, menerangkan perkara sukar, menambah kepelbagaian dan membantu ingatan. Kajian: pembelajaran boleh meningkat **400%** kerana visual diproses **60,000 kali lebih pantas**.",
       "Tujuan visual ialah **menyokong** mesej lisan, **bukan menggantikan**."
      ]
     },
@@ -351,7 +351,7 @@
         ]
        },
        "en": "Maintaining design consistency",
-       "ms": "Mengekalkan konsistensi reka bentuk"
+       "ms": "Mengekalkan keseragaman reka bentuk"
       },
       {
        "items": {
@@ -437,7 +437,7 @@
     {
      "k": "h",
      "en": "Maintaining design consistency",
-     "ms": "Mengekalkan konsistensi reka bentuk"
+     "ms": "Mengekalkan keseragaman reka bentuk"
     },
     {
      "k": "ul",
@@ -484,7 +484,7 @@
     {
      "k": "h",
      "en": "Design consistency",
-     "ms": "Konsistensi reka bentuk"
+     "ms": "Keseragaman reka bentuk"
     },
     {
      "k": "ul",
@@ -565,7 +565,7 @@
         ],
         "ms": [
          "Animasi fungsian",
-         "Transisi dan build",
+         "Peralihan dan build",
          "Hiperpautan",
          "Multimedia"
         ]
@@ -687,7 +687,7 @@
      ],
      "ms": [
       "Animasi fungsian",
-      "Transisi dan build",
+      "Peralihan dan build",
       "Hiperpautan",
       "Multimedia"
      ]
@@ -737,7 +737,7 @@
       "**Mobile**: broadcast slides to audience tablets and smartphones; can eliminate the projection system and reach remote viewers; each new slide is sent to subscribers."
      ],
      "ms": [
-      "Empat kategori: **animasi fungsian**, **transisi dan build**, **hiperpautan**, **multimedia**.",
+      "Empat kategori: **animasi fungsian**, **peralihan dan build**, **hiperpautan**, **multimedia**.",
       "**Mudah alih**: siarkan slaid ke tablet/telefon; boleh tiada projektor; slaid dihantar kepada pelanggan."
      ]
     }
@@ -862,7 +862,7 @@
       "**Slide sorter view**: add, delete, reposition slides, check consistency and effects, review story flow."
      ],
      "ms": [
-      "**Slide sorter**: tambah, buang, susun semula, semak konsistensi dan aliran."
+      "**Slide sorter**: tambah, buang, susun semula, semak keseragaman dan aliran."
      ]
     },
     {
@@ -908,7 +908,7 @@
      "ms": [
       "Slaid tajuk: cipta **kesan pertama** — Tajuk, nama, jabatan/syarikat, tarikh, grafik; boleh dua slaid.",
       "Agenda dan butiran program: **sampaikan agenda** — Agenda dan logistik.",
-      "Slaid navigasi: **bimbing audiens melalui rangka anda** — Ulang selepas setiap bahagian (**moving blueprint**); alternatif **bumper slide**."
+      "Slaid navigasi: **bimbing audiens melalui rangka anda** — Ulang selepas setiap bahagian (**moving blueprint**); pilihan lain **bumper slide**."
      ]
     },
     {
@@ -1060,7 +1060,7 @@
    "t": "design",
    "q": {
     "en": "Which tools keep design consistent?",
-    "ms": "Alat mana mengekalkan konsistensi reka bentuk?"
+    "ms": "Alat mana mengekalkan keseragaman reka bentuk?"
    },
    "a": {
     "en": "Slide masters, predefined layouts, colour choices, titles, font styles, graphic art, design elements, bulleted text.",
@@ -1124,7 +1124,7 @@
    },
    "a": {
     "en": "Functional animation, transitions and builds, hyperlinks, multimedia.",
-    "ms": "Animasi fungsian, transisi dan build, hiperpautan, multimedia."
+    "ms": "Animasi fungsian, peralihan dan build, hiperpautan, multimedia."
    }
   },
   {
@@ -1132,7 +1132,7 @@
    "t": "content",
    "q": {
     "en": "Three mobile integration options?",
-    "ms": "Tiga pilihan integrasi mudah alih?"
+    "ms": "Tiga pilihan penggabungan mudah alih?"
    },
    "a": {
     "en": "Eliminate projection system, use slide broadcast systems, send via subscription.",
@@ -1540,7 +1540,7 @@
    "a": 2,
    "e": {
     "en": "Four categories: functional, transitions/builds, hyperlinks, multimedia.",
-    "ms": "Empat kategori: fungsian, transisi/build, hiperpautan, multimedia."
+    "ms": "Empat kategori: fungsian, peralihan/build, hiperpautan, multimedia."
    }
   },
   {
@@ -1548,7 +1548,7 @@
    "t": "content",
    "q": {
     "en": "Mobile integration can:",
-    "ms": "Integrasi mudah alih boleh:"
+    "ms": "Penggabungan mudah alih boleh:"
    },
    "o": [
     "Eliminate the projection system",
@@ -1749,7 +1749,7 @@
    "a": 2,
    "e": {
     "en": "Slide 23. Alternative: a bumper slide at each section break.",
-    "ms": "Slaid 23. Alternatif: bumper slide pada setiap pemisah."
+    "ms": "Slaid 23. Pilihan lain: bumper slide pada setiap pemisah."
    }
   },
   {
@@ -1790,7 +1790,7 @@
      "Keep it simple and use time wisely (1)"
     ],
     "ms": [
-     "Pilih jenis: Prezi, slaid, transparensi, papan, flip chart (2)",
+     "Pilih jenis: Prezi, slaid, keterbukaan, papan, flip chart (2)",
      "Semak pelan (1)",
      "Semak gaya pembentangan (1)",
      "Semak andaian budaya (1)",
@@ -1831,7 +1831,7 @@
    "marks": 8,
    "q": {
     "en": "Explain why slide design is often ineffective and how to maintain design consistency.",
-    "ms": "Terangkan kenapa reka bentuk slaid sering tidak berkesan dan cara mengekalkan konsistensi."
+    "ms": "Terangkan kenapa reka bentuk slaid sering tidak berkesan dan cara mengekalkan keseragaman."
    },
    "pts": {
     "en": [

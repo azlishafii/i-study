@@ -23,7 +23,7 @@
    "Adapt the three-step writing process to podcasting"
   ],
   "ms": [
-   "Kenal pasti format media digital utama dan sembilan mod komposisi",
+   "Kenal pasti format media digital utama dan sembilan cara penulisan",
    "Huraikan peranan e-mel dan sesuaikan proses tiga langkah untuk e-mel",
    "Kenal pasti kelebihan dan kekurangan sistem pemesejan perniagaan",
    "Terangkan kenapa menyusun kandungan laman web mencabar dan konsep seni bina maklumat",
@@ -95,7 +95,7 @@
     {
      "k": "h",
      "en": "Nine compositional modes",
-     "ms": "Sembilan mod komposisi"
+     "ms": "Sembilan cara penulisan"
     },
     {
      "k": "ul",
@@ -113,7 +113,7 @@
      "ms": [
       "Perbualan",
       "Komen dan kritikan",
-      "Orientasi",
+      "Pengenalan",
       "Ringkasan",
       "Bahan rujukan",
       "Naratif",
@@ -140,7 +140,7 @@
      ],
      "ms": [
       "Perkhidmatan berasaskan lokasi",
-      "Gamifikasi",
+      "Unsur permainan",
       "Realiti terimbuh",
       "Teknologi boleh pakai",
       "Blog mudah alih",
@@ -183,8 +183,8 @@
         "Availability of alternatives"
        ],
        "ms": [
-        "Universal",
-        "Wujud alternatif"
+        "Sejagat",
+        "Wujud pilihan lain"
        ]
       },
       {
@@ -620,11 +620,11 @@
    "t": "media",
    "q": {
     "en": "Nine compositional modes?",
-    "ms": "Sembilan mod komposisi?"
+    "ms": "Sembilan cara penulisan?"
    },
    "a": {
     "en": "Conversations, comments and critiques, orientations, summaries, reference material, narratives, teasers, status updates and announcements, tutorials.",
-    "ms": "Perbualan, komen dan kritikan, orientasi, ringkasan, rujukan, naratif, teaser, kemas kini status, tutorial."
+    "ms": "Perbualan, komen dan kritikan, pengenalan, ringkasan, rujukan, naratif, teaser, kemas kini status, tutorial."
    }
   },
   {
@@ -636,7 +636,7 @@
    },
    "a": {
     "en": "Location-based services, gamification, augmented reality, wearables, mobile blogging, mobile podcasting, cloud services.",
-    "ms": "Perkhidmatan lokasi, gamifikasi, AR, boleh pakai, blog mudah alih, podcast mudah alih, awan."
+    "ms": "Perkhidmatan lokasi, unsur permainan, AR, boleh pakai, blog mudah alih, podcast mudah alih, awan."
    }
   },
   {
@@ -648,7 +648,7 @@
    },
    "a": {
     "en": "Universal, private, accommodates longer messages, (not instantaneous/scheduling/access are listed on the slide).",
-    "ms": "Universal, peribadi, muat mesej panjang, (tidak serta-merta/penjadualan/akses disenaraikan pada slaid)."
+    "ms": "Sejagat, peribadi, muat mesej panjang, (tidak serta-merta/penjadualan/akses disenaraikan pada slaid)."
    }
   },
   {
@@ -660,7 +660,7 @@
    },
    "a": {
     "en": "Alternatives available, indiscriminate use, low-value messages, spam, computer viruses, phishing.",
-    "ms": "Wujud alternatif, penggunaan tanpa pilih, mesej bernilai rendah, spam, virus, phishing."
+    "ms": "Wujud pilihan lain, penggunaan tanpa pilih, mesej bernilai rendah, spam, virus, phishing."
    }
   },
   {
@@ -852,7 +852,7 @@
    "t": "media",
    "q": {
     "en": "How many compositional modes are listed?",
-    "ms": "Berapa mod komposisi disenaraikan?"
+    "ms": "Berapa cara penulisan disenaraikan?"
    },
    "o": [
     "Five",
@@ -871,7 +871,7 @@
    "t": "media",
    "q": {
     "en": "Which is a compositional mode?",
-    "ms": "Yang mana mod komposisi?"
+    "ms": "Yang mana cara penulisan?"
    },
    "o": [
     "Teasers",
@@ -890,7 +890,7 @@
    "t": "media",
    "q": {
     "en": "Gamification is related to:",
-    "ms": "Gamifikasi berkait dengan:"
+    "ms": "Unsur permainan berkait dengan:"
    },
    "o": [
     "Proofreading",
@@ -1216,7 +1216,7 @@
    "marks": 6,
    "q": {
     "en": "Identify the digital media formats and list nine compositional modes.",
-    "ms": "Kenal pasti format media digital dan senaraikan sembilan mod komposisi."
+    "ms": "Kenal pasti format media digital dan senaraikan sembilan cara penulisan."
    },
    "pts": {
     "en": [
@@ -1226,7 +1226,7 @@
     ],
     "ms": [
      "Lima tambah lima pilihan media (2)",
-     "Sembilan mod komposisi (3)",
+     "Sembilan cara penulisan (3)",
      "Pengoptimuman mudah alih atau manfaat cetakan (1)"
     ]
    }
@@ -1351,7 +1351,7 @@
   ],
   [
    "Gamification",
-   "Gamifikasi"
+   "Unsur permainan"
   ],
   [
    "Augmented reality",

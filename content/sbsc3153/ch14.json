@@ -24,7 +24,7 @@
   "ms": [
    "Sesuaikan proses penulisan tiga langkah untuk laporan dan cadangan",
    "Senaraikan pilihan menyusun laporan bermaklumat dan bahagian utama pelan perniagaan",
-   "Bincangkan tiga cara utama menyusun laporan analitikal",
+   "Bincangkan tiga cara utama menyusun laporan analisis",
    "Terangkan cara memilih strategi organisasi untuk cadangan"
   ]
  },
@@ -67,7 +67,7 @@
         "Analysis and recommendations; written in response to a perceived problem or opportunity; clear statement of purpose"
        ],
        "ms": [
-        "Laporan analitikal",
+        "Laporan analisis",
         "Analisis dan cadangan; ditulis sebagai respons kepada masalah atau peluang; pernyataan tujuan jelas"
        ]
       },
@@ -176,7 +176,7 @@
      ],
      "ms": [
       "Pantau dan kawal operasi",
-      "Laksana dasar dan prosedur",
+      "Laksana dasar dan tatacara",
       "Tunjuk pematuhan",
       "Dokumenkan kemajuan"
      ]
@@ -201,8 +201,8 @@
       "Perbandingan",
       "Kepentingan",
       "Urutan",
-      "Orientasi ruang",
-      "Kronologi",
+      "Susunan ruang",
+      "Urutan masa",
       "Geografi",
       "Kategori"
      ]
@@ -210,7 +210,7 @@
     {
      "k": "note",
      "en": "The slide lists seven terms; textbook groups chronology under sequence and geography under spatial orientation.",
-     "ms": "Slaid menyenaraikan tujuh istilah; buku teks mengumpulkan kronologi di bawah urutan dan geografi di bawah orientasi ruang."
+     "ms": "Slaid menyenaraikan tujuh istilah; buku teks mengumpulkan urutan masa di bawah urutan dan geografi di bawah susunan ruang."
     },
     {
      "k": "h",
@@ -255,7 +255,7 @@
    "icon": "🔬",
    "title": {
     "en": "Analytical Reports",
-    "ms": "Laporan Analitikal"
+    "ms": "Laporan analisis"
    },
    "ref": "Slides 17–24",
    "blocks": [
@@ -370,7 +370,7 @@
        ],
        "ms": [
         "Fokus cadangan",
-        "Lima langkah: tegaskan keperluan dalam pengenalan; perkenal manfaat tanpa butiran; senarai langkah dengan kata kerja tindakan; terangkan setiap langkah dengan prosedur, kos, manfaat; ringkaskan cadangan"
+        "Lima langkah: tegaskan keperluan dalam pengenalan; perkenal manfaat tanpa butiran; senarai langkah dengan kata kerja tindakan; terangkan setiap langkah dengan tatacara, kos, manfaat; ringkaskan cadangan"
        ]
       },
       {
@@ -527,7 +527,7 @@
    },
    "a": {
     "en": "Informational reports, analytical reports, proposals.",
-    "ms": "Laporan bermaklumat, laporan analitikal, cadangan."
+    "ms": "Laporan bermaklumat, laporan analisis, cadangan."
    }
   },
   {
@@ -587,7 +587,7 @@
    },
    "a": {
     "en": "Comparison, importance, sequence, spatial orientation, chronology, geography, category.",
-    "ms": "Perbandingan, kepentingan, urutan, orientasi ruang, kronologi, geografi, kategori."
+    "ms": "Perbandingan, kepentingan, urutan, susunan ruang, urutan masa, geografi, kategori."
    }
   },
   {
@@ -619,7 +619,7 @@
    "t": "analytic",
    "q": {
     "en": "Three categories of analytical reports?",
-    "ms": "Tiga kategori laporan analitikal?"
+    "ms": "Tiga kategori laporan analisis?"
    },
    "a": {
     "en": "Assess opportunities, solve problems, support decisions.",
@@ -655,7 +655,7 @@
    "t": "analytic",
    "q": {
     "en": "Three organisational approaches for analytical reports?",
-    "ms": "Tiga pendekatan organisasi laporan analitikal?"
+    "ms": "Tiga pendekatan organisasi laporan analisis?"
    },
    "a": {
     "en": "Focusing on conclusions, recommendations, logical arguments.",
@@ -886,7 +886,7 @@
    "t": "analytic",
    "q": {
     "en": "Which is NOT an analytical report category?",
-    "ms": "Yang mana BUKAN kategori laporan analitikal?"
+    "ms": "Yang mana BUKAN kategori laporan analisis?"
    },
    "o": [
     "Assess opportunities",
@@ -1136,7 +1136,7 @@
    "marks": 6,
    "q": {
     "en": "Distinguish informational reports, analytical reports and proposals.",
-    "ms": "Bezakan laporan bermaklumat, laporan analitikal dan cadangan."
+    "ms": "Bezakan laporan bermaklumat, laporan analisis dan cadangan."
    },
    "pts": {
     "en": [
@@ -1146,7 +1146,7 @@
     ],
     "ms": [
      "Bermaklumat: fakta, keperluan ditetapkan (2)",
-     "Analitikal: analisis dan cadangan; masalah atau peluang (2)",
+     "Analisis: analisis dan cadangan; masalah atau peluang (2)",
      "Cadangan: memujuk, kategori khas (2)"
     ]
    }
@@ -1178,7 +1178,7 @@
    "marks": 8,
    "q": {
     "en": "Discuss three ways to organise analytical reports.",
-    "ms": "Bincangkan tiga cara menyusun laporan analitikal."
+    "ms": "Bincangkan tiga cara menyusun laporan analisis."
    },
    "pts": {
     "en": [
@@ -1224,7 +1224,7 @@
   ],
   [
    "Analytical report",
-   "Laporan analitikal"
+   "Laporan analisis"
   ],
   [
    "Proposal",
