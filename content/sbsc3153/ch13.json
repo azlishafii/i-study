@@ -184,7 +184,7 @@
        ],
        "ms": [
         "3 Proses data dan maklumat",
-        "Petik, parafrasa atau ringkaskan maklumat teks; analisis maklumat berangka"
+        "Petik, olah semula atau ringkaskan maklumat teks; analisis maklumat berangka"
        ]
       },
       {
@@ -674,7 +674,7 @@
      ],
      "ms": [
       "Guna alat dokumentasi: nota hujung automatik, pengurus rujukan, nota kaki atau nota hujung.",
-      "Dokumenkan semua yang diambil, termasuk idea yang **diparafrasa atau diringkas**. **Tidak perlu** untuk pengetahuan umum.",
+      "Dokumenkan semua yang diambil, termasuk idea yang **diolah semula atau diringkas**. **Tidak perlu** untuk pengetahuan umum.",
       "**Hak cipta** melindungi *ungkapan* idea sebaik ia dalam bentuk tetap. **Tidak** melindungi tajuk, nama, frasa pendek, slogan, simbol, senarai ramuan; atau idea, tatacara, kaedah, sistem, proses. Perlindungan lain: **tanda dagangan**, **paten**.",
       "**Penggunaan saksama (fair use)**: memberi kredit tidak selalu cukup; jangan halang pemilik daripada mendapat manfaat."
      ]
@@ -885,7 +885,7 @@
         ],
         "ms": [
          "Memetik",
-         "Parafrasa",
+         "Olah semula",
          "Meringkas"
         ]
        },
@@ -902,7 +902,7 @@
         ],
         "ms": [
          "Trend",
-         "Kausaliti (sebab-akibat)",
+         "Sebab-akibat",
          "Hubung kait",
          "Jadual silang"
         ]
@@ -937,7 +937,7 @@
          "Preserve the intended message"
         ],
         "ms": [
-         "Lima tip parafrasa",
+         "Lima tip olah semula",
          "Kekalkan mesej asal"
         ]
        },
@@ -963,7 +963,7 @@
     {
      "k": "p",
      "en": "After collecting secondary and primary information, **transform** it into the content you need. Simple projects may insert material directly; with significant raw data you must process it: quoting, paraphrasing or summarising text; analysing numeric data; drawing conclusions; making recommendations.",
-     "ms": "Selepas mengumpul maklumat, **ubah** kepada kandungan diperlukan. Data banyak perlu diproses: petik, parafrasa, ringkas teks; analisis data berangka; kesimpulan; cadangan."
+     "ms": "Selepas mengumpul maklumat, **ubah** kepada kandungan diperlukan. Data banyak perlu diproses: petik, olah semula, ringkas teks; analisis data berangka; kesimpulan; cadangan."
     },
     {
      "k": "table",
@@ -994,7 +994,7 @@
         "Restating it in your own words"
        ],
        "ms": [
-        "Parafrasa",
+        "Olah semula",
         "Menyatakan semula dengan perkataan sendiri"
        ]
       },
@@ -1005,7 +1005,7 @@
        ],
        "ms": [
         "Meringkas",
-        "Serupa parafrasa; bentang intipati dengan lebih sedikit perkataan"
+        "Serupa olah semula; bentang intipati dengan lebih sedikit perkataan"
        ]
       }
      ]
@@ -1025,7 +1025,7 @@
      ],
      "ms": [
       "Trend — = corak jelas dari masa ke masa: pertumbuhan, penurunan, kitaran.",
-      "Kausaliti (sebab-akibat)",
+      "Sebab-akibat",
       "Hubung kait",
       "Jadual silang — Meneroka hubungan antara subset, cth jualan mengikut umur, jantina, lokasi, produk."
      ]
@@ -1068,8 +1068,8 @@
      ],
      "ms": [
       "**Memetik** = menyalin tepat dengan kredit penuh.",
-      "**Parafrasa** = menyatakan semula dengan perkataan dan struktur ayat sendiri. Manfaat: nada konsisten, perkataan biasa, tidak berpecah-pecah. Tetap beri kredit.",
-      "**Lima tip parafrasa**: baca berulang; nyatakan semula idea utama; semak makna tidak berubah; guna tanda petikan untuk istilah unik; rekod sumber.",
+      "**Olah semula** = menyatakan semula dengan perkataan dan struktur ayat sendiri. Manfaat: nada konsisten, perkataan biasa, tidak berpecah-pecah. Tetap beri kredit.",
+      "**Lima tip olah semula**: baca berulang; nyatakan semula idea utama; semak makna tidak berubah; guna tanda petikan untuk istilah unik; rekod sumber.",
       "**Meringkas** = intisari dalam kurang perkataan; perlu dokumentasi lengkap.",
       "Kekalkan mesej asal; pastikan tidak **memesongkan** mesej untuk keperluan sendiri."
      ]
@@ -1090,7 +1090,7 @@
      "ms": [
       "Data berangka perlu diproses. Aritmetik mudah pun berkesan (Jadual 13.2; slaid 30 ialah rajah).",
       "**Min** = jumlah ÷ bilangan (purata). **Median** = titik tengah siri. **Mod** = nombor paling kerap; jawapan terbaik untuk “jumlah biasa”.",
-      "Ukuran dan trend menunjukkan *apa*; **kausaliti** dan **hubung kait** membantu menerangkan *kenapa*. Kausaliti mudah diandaikan tetapi sukar dibuktikan.",
+      "Ukuran dan trend menunjukkan *apa*; **sebab-akibat** dan **hubung kait** membantu menerangkan *kenapa*. Sebab-akibat mudah diandaikan tetapi sukar dibuktikan.",
       "**Langkah berjaga-jaga**: elak perbandingan salah; jangan lampaui had keputusan; elak persembahan mengelirukan seperti graf diputarbelit."
      ]
     }
@@ -1318,7 +1318,7 @@
    "t": "plan",
    "q": {
     "en": "What are the five steps of the research process (Figure 13.1)?",
-    "ms": "What are the five steps of the research process (Figure 13.1)?"
+    "ms": "Apakah lima langkah proses penyelidikan (Rajah 13.1)?"
    },
    "a": {
     "en": "Plan; locate data and information; process data and information; apply your findings; manage information.",
@@ -1330,7 +1330,7 @@
    "t": "plan",
    "q": {
     "en": "What is sugging?",
-    "ms": "What is sugging?"
+    "ms": "Apakah “sugging”?"
    },
    "a": {
     "en": "Selling under the guise of research, e.g. using a “survey” to find sales leads.",
@@ -1342,7 +1342,7 @@
    "t": "plan",
    "q": {
     "en": "What is the Business Model Canvas (chapter opener)?",
-    "ms": "What is the Business Model Canvas (chapter opener)?"
+    "ms": "Apakah Business Model Canvas (pembuka bab)?"
    },
    "a": {
     "en": "Alex Osterwalder’s approach to evaluating new business ideas, a simpler, faster alternative to the traditional business plan.",
@@ -1426,7 +1426,7 @@
    "t": "secondary",
    "q": {
     "en": "Give three ways search engines fall short.",
-    "ms": "Give three ways search engines fall short."
+    "ms": "Beri tiga kelemahan enjin carian."
    },
    "a": {
     "en": "No human editors; different search techniques; can’t reach the hidden Internet (deep web).",
@@ -1438,7 +1438,7 @@
    "t": "secondary",
    "q": {
     "en": "What does copyright NOT protect?",
-    "ms": "What does copyright NOT protect?"
+    "ms": "Apakah yang TIDAK dilindungi hak cipta?"
    },
    "a": {
     "en": "Titles, names, short phrases, slogans, familiar symbols, lists of ingredients; ideas, procedures, methods, systems, processes, concepts, principles, discoveries, devices.",
@@ -1510,7 +1510,7 @@
    "t": "primary",
    "q": {
     "en": "What is a focus group?",
-    "ms": "What is a focus group?"
+    "ms": "Apakah kumpulan fokus?"
    },
    "a": {
     "en": "A moderator guides a group through discussion questions while the research team observes through a one-way mirror; its advantage is group dynamics.",
@@ -1522,7 +1522,7 @@
    "t": "primary",
    "q": {
     "en": "Name two other primary research techniques besides surveys and interviews.",
-    "ms": "Name two other primary research techniques besides surveys and interviews."
+    "ms": "Namakan dua lagi teknik penyelidikan primer selain tinjauan dan temu bual."
    },
    "a": {
     "en": "Observation and experiments (e.g. test-marketing a product).",
@@ -1534,11 +1534,11 @@
    "t": "process",
    "q": {
     "en": "Quoting, paraphrasing, summarising?",
-    "ms": "Memetik, parafrasa, meringkas?"
+    "ms": "Memetik, olah semula, meringkas?"
    },
    "a": {
     "en": "Quote exactly; paraphrase in own words; summarise the gist in fewer words.",
-    "ms": "Petik tepat; parafrasa dengan perkataan sendiri; ringkas intipati."
+    "ms": "Petik tepat; olah semula dengan perkataan sendiri; ringkas intipati."
    }
   },
   {
@@ -1550,7 +1550,7 @@
    },
    "a": {
     "en": "Trends, causation, correlation, cross-tabulation.",
-    "ms": "Trend, kausaliti, hubung kait, jadual silang."
+    "ms": "Trend, sebab-akibat, hubung kait, jadual silang."
    }
   },
   {
@@ -1570,7 +1570,7 @@
    "t": "process",
    "q": {
     "en": "Define mean, median and mode.",
-    "ms": "Define mean, median and mode."
+    "ms": "Takrifkan min, median dan mod."
    },
    "a": {
     "en": "Mean: sum ÷ number of items. Median: midpoint of a series. Mode: the value that occurs most often.",
@@ -1582,11 +1582,11 @@
    "t": "process",
    "q": {
     "en": "Correlation vs causation?",
-    "ms": "Correlation vs causation?"
+    "ms": "Hubung kait lawan sebab-akibat?"
    },
    "a": {
     "en": "Correlation: two variables change together. Causation: one factor causes the other; hard to prove, you must isolate the cause.",
-    "ms": "Hubung kait: dua pemboleh ubah berubah bersama. Kausaliti: satu menyebabkan satu lagi; sukar dibuktikan."
+    "ms": "Hubung kait: dua pemboleh ubah berubah bersama. Sebab-akibat: satu menyebabkan satu lagi; sukar dibuktikan."
    }
   },
   {
@@ -1594,7 +1594,7 @@
    "t": "process",
    "q": {
     "en": "List five paraphrasing tips.",
-    "ms": "List five paraphrasing tips."
+    "ms": "Senaraikan lima tip mengolah semula ayat."
    },
    "a": {
     "en": "Read and reread; restate in own words; check meaning against source; quote unique terms; record the source accurately.",
@@ -1642,7 +1642,7 @@
    "t": "apply",
    "q": {
     "en": "Conclusion vs recommendation?",
-    "ms": "Conclusion vs recommendation?"
+    "ms": "Kesimpulan lawan cadangan?"
    },
    "a": {
     "en": "A conclusion interprets facts; a recommendation suggests what to do about them.",
@@ -1654,7 +1654,7 @@
    "t": "apply",
    "q": {
     "en": "What is knowledge management (KM)?",
-    "ms": "What is knowledge management (KM)?"
+    "ms": "Apakah pengurusan pengetahuan (KM)?"
    },
    "a": {
     "en": "Technologies, policies and procedures that let colleagues capture and share information across an organisation.",
@@ -1744,7 +1744,7 @@
    "t": "plan",
    "q": {
     "en": "In the five-step research process (Figure 13.1), “quote, paraphrase or summarise textual information” belongs to which step?",
-    "ms": "In the five-step research process (Figure 13.1), “quote, paraphrase or summarise textual information” belongs to which step?"
+    "ms": "Dalam proses penyelidikan lima langkah (Rajah 13.1), “petik, olah semula atau ringkaskan maklumat teks” tergolong dalam langkah yang mana?"
    },
    "o": [
     "Plan",
@@ -1763,7 +1763,7 @@
    "t": "plan",
    "q": {
     "en": "Making research results available to others via the company’s knowledge management system is which step?",
-    "ms": "Making research results available to others via the company’s knowledge management system is which step?"
+    "ms": "Menyediakan hasil penyelidikan kepada orang lain melalui sistem pengurusan pengetahuan syarikat ialah langkah yang mana?"
    },
    "o": [
     "Step 1: Plan",
@@ -1782,7 +1782,7 @@
    "t": "plan",
    "q": {
     "en": "Which of the following is NOT part of Step 1 (Plan) in the research process?",
-    "ms": "Which of the following is NOT part of Step 1 (Plan) in the research process?"
+    "ms": "Yang manakah BUKAN sebahagian daripada Langkah 1 (Rancang) dalam proses penyelidikan?"
    },
    "o": [
     "Maintain research ethics and etiquette",
@@ -1801,7 +1801,7 @@
    "t": "plan",
    "q": {
     "en": "A firm pretends to run a survey but uses the questions to find hot sales leads. This ethical lapse is called:",
-    "ms": "A firm pretends to run a survey but uses the questions to find hot sales leads. This ethical lapse is called:"
+    "ms": "Sebuah firma berpura-pura menjalankan tinjauan tetapi menggunakan soalan untuk mencari prospek jualan. Kegagalan etika ini dipanggil:"
    },
    "o": [
     "Sampling bias",
@@ -1820,7 +1820,7 @@
    "t": "plan",
    "q": {
     "en": "An industry expert says a sales increase is “possible”, and you write that he predicts it is “probable”. Which ethics rule did you break?",
-    "ms": "An industry expert says a sales increase is “possible”, and you write that he predicts it is “probable”. Which ethics rule did you break?"
+    "ms": "Seorang pakar industri berkata peningkatan jualan “mungkin”, dan anda menulis dia meramalkan ia “berkemungkinan besar”. Peraturan etika manakah yang anda langgar?"
    },
    "o": [
     "Respect privacy",
@@ -1839,7 +1839,7 @@
    "t": "plan",
    "q": {
     "en": "“How can we improve customer satisfaction?” is too vague for research. What should you do next?",
-    "ms": "“How can we improve customer satisfaction?” is too vague for research. What should you do next?"
+    "ms": "“Bagaimana kita boleh meningkatkan kepuasan pelanggan?” terlalu kabur untuk dikaji. Apakah yang patut anda lakukan seterusnya?"
    },
    "o": [
     "Start a survey immediately",
@@ -1858,7 +1858,7 @@
    "t": "plan",
    "q": {
     "en": "The simplest way to prioritise research questions is to:",
-    "ms": "The simplest way to prioritise research questions is to:"
+    "ms": "Cara paling mudah untuk mengutamakan soalan penyelidikan ialah:"
    },
    "o": [
     "Ask every question that comes to mind",
@@ -2010,7 +2010,7 @@
    "t": "secondary",
    "q": {
     "en": "Secondary research is:",
-    "ms": "Secondary research is:"
+    "ms": "Penyelidikan sekunder ialah:"
    },
    "o": [
     "New research collected specifically for the current project",
@@ -2029,7 +2029,7 @@
    "t": "secondary",
    "q": {
     "en": "According to the notes, bias in a source is:",
-    "ms": "According to the notes, bias in a source is:"
+    "ms": "Menurut nota, kecenderungan berat sebelah (bias) dalam sesuatu sumber ialah:"
    },
    "o": [
     "Always unethical",
@@ -2048,7 +2048,7 @@
    "t": "secondary",
    "q": {
     "en": "For a new or relatively unknown source, the safest approach is to:",
-    "ms": "For a new or relatively unknown source, the safest approach is to:"
+    "ms": "Bagi sumber yang baharu atau kurang dikenali, pendekatan paling selamat ialah:"
    },
    "o": [
     "Trust it if it appears first in search results",
@@ -2067,7 +2067,7 @@
    "t": "secondary",
    "q": {
     "en": "Which kind of publication provides information about specific professions and industries?",
-    "ms": "Which kind of publication provides information about specific professions and industries?"
+    "ms": "Jenis penerbitan manakah yang memberi maklumat tentang profesion dan industri tertentu?"
    },
    "o": [
     "Trade journals",
@@ -2086,7 +2086,7 @@
    "t": "secondary",
    "q": {
     "en": "Which tool overcomes the problem that search engines have no human editors?",
-    "ms": "Which tool overcomes the problem that search engines have no human editors?"
+    "ms": "Alat manakah yang mengatasi masalah enjin carian tiada penyunting manusia?"
    },
    "o": [
     "Metasearch engine",
@@ -2105,7 +2105,7 @@
    "t": "secondary",
    "q": {
     "en": "The “hidden Internet” or “deep web” refers to:",
-    "ms": "The “hidden Internet” or “deep web” refers to:"
+    "ms": "“Internet tersembunyi” atau “web dalam” (deep web) merujuk kepada:"
    },
    "o": [
     "Illegal websites",
@@ -2124,7 +2124,7 @@
    "t": "secondary",
    "q": {
     "en": "TweetDeck and HootSuite are examples of:",
-    "ms": "TweetDeck and HootSuite are examples of:"
+    "ms": "TweetDeck dan HootSuite ialah contoh:"
    },
    "o": [
     "Metasearch engines",
@@ -2143,7 +2143,7 @@
    "t": "secondary",
    "q": {
     "en": "You get too many hits in a search. According to the search tips, you should:",
-    "ms": "You get too many hits in a search. According to the search tips, you should:"
+    "ms": "Anda mendapat terlalu banyak hasil carian. Menurut tip carian, anda patut:"
    },
    "o": [
     "Use fewer terms",
@@ -2162,7 +2162,7 @@
    "t": "secondary",
    "q": {
     "en": "Which is protected by copyright law?",
-    "ms": "Which is protected by copyright law?"
+    "ms": "Yang manakah dilindungi oleh undang-undang hak cipta?"
    },
    "o": [
     "A short slogan",
@@ -2181,7 +2181,7 @@
    "t": "secondary",
    "q": {
     "en": "According to the fair use doctrine, crediting the source:",
-    "ms": "According to the fair use doctrine, crediting the source:"
+    "ms": "Menurut doktrin penggunaan adil (fair use), memberi kredit kepada sumber:"
    },
    "o": [
     "Is always enough",
@@ -2200,7 +2200,7 @@
    "t": "secondary",
    "q": {
     "en": "You do NOT need to cite a source for:",
-    "ms": "You do NOT need to cite a source for:"
+    "ms": "Anda TIDAK perlu memetik sumber bagi:"
    },
    "o": [
     "Paraphrased ideas",
@@ -2314,7 +2314,7 @@
    "t": "primary",
    "q": {
     "en": "Primary research means:",
-    "ms": "Primary research means:"
+    "ms": "Penyelidikan primer bermaksud:"
    },
    "o": [
     "Reusing what other researchers found",
@@ -2333,7 +2333,7 @@
    "t": "primary",
    "q": {
     "en": "Surveying only a few hundred people in a shopping mall to represent all U.S. consumers is likely to cause:",
-    "ms": "Surveying only a few hundred people in a shopping mall to represent all U.S. consumers is likely to cause:"
+    "ms": "Mengkaji beberapa ratus orang sahaja di pusat beli-belah untuk mewakili semua pengguna AS berkemungkinan menyebabkan:"
    },
    "o": [
     "Causation",
@@ -2352,7 +2352,7 @@
    "t": "primary",
    "q": {
     "en": "How long should a questionnaire take respondents?",
-    "ms": "How long should a questionnaire take respondents?"
+    "ms": "Berapa lamakah borang soal selidik patut mengambil masa responden?"
    },
    "o": [
     "No more than 10 or 15 minutes",
@@ -2371,7 +2371,7 @@
    "t": "primary",
    "q": {
     "en": "“Do you read books and magazines?” is an example of a:",
-    "ms": "“Do you read books and magazines?” is an example of a:"
+    "ms": "“Adakah anda membaca buku dan majalah?” ialah contoh:"
    },
    "o": [
     "Leading question",
@@ -2390,7 +2390,7 @@
    "t": "primary",
    "q": {
     "en": "“Do you prefer that we stay open in the evenings for customer convenience?” is a:",
-    "ms": "“Do you prefer that we stay open in the evenings for customer convenience?” is a:"
+    "ms": "“Adakah anda lebih suka kami buka pada waktu petang demi kemudahan pelanggan?” ialah:"
    },
    "o": [
     "Leading question",
@@ -2409,7 +2409,7 @@
    "t": "primary",
    "q": {
     "en": "Which is a key advantage of focus groups?",
-    "ms": "Which is a key advantage of focus groups?"
+    "ms": "Yang manakah kelebihan utama kumpulan fokus?"
    },
    "o": [
     "Lowest cost",
@@ -2428,7 +2428,7 @@
    "t": "primary",
    "q": {
     "en": "Which is an advantage of email interviews?",
-    "ms": "Which is an advantage of email interviews?"
+    "ms": "Yang manakah kelebihan temu bual melalui e-mel?"
    },
    "o": [
     "Observe nonverbal signals",
@@ -2523,7 +2523,7 @@
    "t": "process",
    "q": {
     "en": "Which measure is the best answer to “What is the usual amount?”",
-    "ms": "Which measure is the best answer to “What is the usual amount?”"
+    "ms": "Ukuran manakah jawapan terbaik bagi “Berapakah jumlah yang biasa?”"
    },
    "o": [
     "Mean",
@@ -2542,7 +2542,7 @@
    "t": "process",
    "q": {
     "en": "Customer satisfaction drops when product reliability drops. This describes:",
-    "ms": "Customer satisfaction drops when product reliability drops. This describes:"
+    "ms": "Kepuasan pelanggan menurun apabila kebolehpercayaan produk menurun. Ini menggambarkan:"
    },
    "o": [
     "Correlation",
@@ -2553,7 +2553,7 @@
    "a": 0,
    "e": {
     "en": "Slide 31 notes. Causation is harder to prove because you must isolate the cause.",
-    "ms": "Nota slaid 31. Kausaliti lebih sukar dibuktikan."
+    "ms": "Nota slaid 31. Sebab-akibat lebih sukar dibuktikan."
    }
   },
   {
@@ -2561,7 +2561,7 @@
    "t": "process",
    "q": {
     "en": "Looking at total sales separately by customer age and gender, location and product type is called:",
-    "ms": "Looking at total sales separately by customer age and gender, location and product type is called:"
+    "ms": "Melihat jumlah jualan secara berasingan mengikut umur dan jantina pelanggan, lokasi dan jenis produk dipanggil:"
    },
    "o": [
     "Trend analysis",
@@ -2580,7 +2580,7 @@
    "t": "process",
    "q": {
     "en": "Which is a precaution against misinterpreting research results?",
-    "ms": "Which is a precaution against misinterpreting research results?"
+    "ms": "Yang manakah langkah berjaga-jaga supaya hasil penyelidikan tidak disalah tafsir?"
    },
    "o": [
     "Compare “apples to oranges”",
@@ -2599,7 +2599,7 @@
    "t": "process",
    "q": {
     "en": "Which is a tip for effective paraphrasing?",
-    "ms": "Which is a tip for effective paraphrasing?"
+    "ms": "Yang manakah tip untuk mengolah semula ayat dengan berkesan?"
    },
    "o": [
     "Copy the original passage word for word",
@@ -2675,7 +2675,7 @@
    "t": "apply",
    "q": {
     "en": "A research summary should:",
-    "ms": "A research summary should:"
+    "ms": "Ringkasan penyelidikan patut:"
    },
    "o": [
     "Include your recommendations",
@@ -2694,7 +2694,7 @@
    "t": "apply",
    "q": {
     "en": "A sound conclusion must be based strictly on the information in the report, which means you should:",
-    "ms": "A sound conclusion must be based strictly on the information in the report, which means you should:"
+    "ms": "Kesimpulan yang baik mesti berdasarkan sepenuhnya maklumat dalam laporan, yang bermaksud anda patut:"
    },
    "o": [
     "Introduce new information in the conclusion",
@@ -2713,7 +2713,7 @@
    "t": "apply",
    "q": {
     "en": "The difference between a conclusion and a recommendation is that a:",
-    "ms": "The difference between a conclusion and a recommendation is that a:"
+    "ms": "Perbezaan antara kesimpulan dengan cadangan ialah:"
    },
    "o": [
     "Conclusion suggests what to do; recommendation interprets facts",
@@ -2732,7 +2732,7 @@
    "t": "apply",
    "q": {
     "en": "Knowledge management (KM) is best described as:",
-    "ms": "Knowledge management (KM) is best described as:"
+    "ms": "Pengurusan pengetahuan (KM) paling tepat diterangkan sebagai:"
    },
    "o": [
     "A set of technologies, policies and procedures for capturing and sharing information across an organisation",
@@ -2836,8 +2836,8 @@
      "Guard against errors and misinterpretation (2)"
     ],
     "ms": [
-     "Memetik, parafrasa, meringkas (2)",
-     "Trend, kausaliti, hubung kait, jadual silang (2)",
+     "Memetik, olah semula, meringkas (2)",
+     "Trend, sebab-akibat, hubung kait, jadual silang (2)",
      "Elak kesilapan dan salah tafsir (2)"
     ]
    }
@@ -2887,7 +2887,7 @@
      "Kecacatan tinjauan: sampel satu pusat beli-belah menyebabkan bias persampelan; soalan mengarah; soalan majmuk dan kabur; tiada ujian awal; pertimbang reliability dan validity (5)",
      "Etika dan undang-undang: perenggan disalin tanpa rujukan (dokumentasi, hak cipta, fair use); sugging; hormati privasi (4)",
      "Kecacatan laporan: ringkasan ada pendapat; kesimpulan memasukkan maklumat baharu; kesimpulan mesti logik; cadangan mudah dilaksanakan dengan langkah seterusnya (4)",
-     "Pemprosesan: parafrasa/petik dengan kredit, semak nombor, elak perbandingan salah (2)",
+     "Pemprosesan: olah semula/petik dengan kredit, semak nombor, elak perbandingan salah (2)",
      "PENDAPAT jelas dengan keutamaan, alasan dan sebab-akibat (3)"
     ]
    }
@@ -2955,7 +2955,7 @@
   ],
   [
    "Paraphrasing",
-   "Parafrasa"
+   "Olah semula"
   ],
   [
    "Correlation",
@@ -2963,7 +2963,7 @@
   ],
   [
    "Causation",
-   "Kausaliti"
+   "Sebab-akibat"
   ],
   [
    "Cross-tabulation",

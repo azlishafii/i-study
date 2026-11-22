@@ -1007,7 +1007,7 @@
          "Catat nota teliti",
          "Kerap pandang mata (bergantung budaya)",
          "Kekal fokus",
-         "Parafrasa mental poin utama"
+         "Olah semula mental poin utama"
         ]
        },
        "n": 1,
@@ -1167,8 +1167,8 @@
         "Fail to paraphrase"
        ],
        "ms": [
-        "Parafrasa mental poin utama",
-        "Gagal parafrasa"
+        "Olah semula mental poin utama",
+        "Gagal olah semula"
        ]
       },
       {
@@ -2033,7 +2033,7 @@
    "t": "proscons",
    "q": {
     "en": "Groupthink occurs when:",
-    "ms": "Groupthink occurs when:"
+    "ms": "Pemikiran kumpulan (groupthink) berlaku apabila:"
    },
    "o": [
     "Team members compete for limited resources",
@@ -2166,7 +2166,7 @@
    "t": "dynamics",
    "q": {
     "en": "A team member keeps steering the discussion toward topics that interest him personally rather than the task. Which dysfunctional, self-oriented role is he playing?",
-    "ms": "A team member keeps steering the discussion toward topics that interest him personally rather than the task. Which dysfunctional, self-oriented role is he playing?"
+    "ms": "Seorang ahli pasukan sentiasa mengalihkan perbincangan kepada topik yang menarik minatnya dan bukan tugas. Peranan tidak fungsian yang mementingkan diri yang manakah dimainkannya?"
    },
    "o": [
     "Controlling",
@@ -2185,7 +2185,7 @@
    "t": "dynamics",
    "q": {
     "en": "In Tuckman’s model of group development, which phase follows “storming”?",
-    "ms": "In Tuckman’s model of group development, which phase follows “storming”?"
+    "ms": "Dalam model perkembangan kumpulan Tuckman, fasa manakah yang menyusul selepas “storming”?"
    },
    "o": [
     "Forming",
@@ -2204,7 +2204,7 @@
    "t": "dynamics",
    "q": {
     "en": "To resolve conflict by getting opponents to fight together against an “outside force” instead of against each other, a team uses:",
-    "ms": "To resolve conflict by getting opponents to fight together against an “outside force” instead of against each other, a team uses:"
+    "ms": "Untuk menyelesaikan konflik dengan menyatukan pihak lawan menentang “musuh luar” dan bukan sesama sendiri, pasukan menggunakan:"
    },
    "o": [
     "Flexibility",
@@ -2299,7 +2299,7 @@
    "t": "collab",
    "q": {
     "en": "In collaborative writing, which part of the process does NOT usually benefit from group participation?",
-    "ms": "In collaborative writing, which part of the process does NOT usually benefit from group participation?"
+    "ms": "Dalam penulisan bersama, bahagian proses yang manakah biasanya TIDAK mendapat manfaat daripada penyertaan kumpulan?"
    },
    "o": [
     "Planning",
@@ -2318,7 +2318,7 @@
    "t": "collab",
    "q": {
     "en": "Which is an example of constructive feedback?",
-    "ms": "Which is an example of constructive feedback?"
+    "ms": "Yang manakah contoh maklum balas membina?"
    },
    "o": [
     "“This section is confusing.”",
@@ -2394,7 +2394,7 @@
    "t": "meetings",
    "q": {
     "en": "According to the notes, meetings with more than ___ people become unmanageable if everyone is expected to participate.",
-    "ms": "According to the notes, meetings with more than ___ people become unmanageable if everyone is expected to participate."
+    "ms": "Menurut nota, mesyuarat yang melebihi ___ orang menjadi sukar dikawal jika setiap orang diharapkan menyertai."
    },
    "o": [
     "5 or 6",
@@ -2413,7 +2413,7 @@
    "t": "meetings",
    "q": {
     "en": "Telepresence is particularly good for negotiations and complex discussions because it:",
-    "ms": "Telepresence is particularly good for negotiations and complex discussions because it:"
+    "ms": "Telepresence sangat sesuai untuk rundingan dan perbincangan rumit kerana ia:"
    },
    "o": [
     "Is the cheapest form of virtual meeting",
@@ -2462,7 +2462,7 @@
    "a": 0,
    "e": {
     "en": "Paraphrasing helps attention and comprehension.",
-    "ms": "Parafrasa membantu perhatian dan kefahaman."
+    "ms": "Olah semula membantu perhatian dan kefahaman."
    }
   },
   {
@@ -2489,7 +2489,7 @@
    "t": "listen",
    "q": {
     "en": "The goal of critical listening is to:",
-    "ms": "The goal of critical listening is to:"
+    "ms": "Tujuan mendengar secara kritis ialah untuk:"
    },
    "o": [
     "Understand and retain information without evaluating it",
@@ -2508,7 +2508,7 @@
    "t": "listen",
    "q": {
     "en": "You hear “Well, that’s just lovely” in a sarcastic tone and understand it to mean the opposite. In the listening process, this occurs at the ___ stage.",
-    "ms": "You hear “Well, that’s just lovely” in a sarcastic tone and understand it to mean the opposite. In the listening process, this occurs at the ___ stage."
+    "ms": "Anda mendengar “Well, that’s just lovely” dalam nada menyindir dan memahaminya bermaksud sebaliknya. Dalam proses mendengar, ini berlaku pada peringkat ___."
    },
    "o": [
     "Receiving",
@@ -2565,7 +2565,7 @@
    "t": "nonverbal",
    "q": {
     "en": "Which of the following is NOT one of the six categories of nonverbal communication?",
-    "ms": "Which of the following is NOT one of the six categories of nonverbal communication?"
+    "ms": "Yang manakah BUKAN salah satu daripada enam kategori komunikasi bukan lisan?"
    },
    "o": [
     "Facial expression",
@@ -2660,7 +2660,7 @@
    "t": "etiq",
    "q": {
     "en": "Which online etiquette guideline is correct?",
-    "ms": "Which online etiquette guideline is correct?"
+    "ms": "Garis panduan adab dalam talian yang manakah betul?"
    },
    "o": [
     "Use “Reply All” for every email to keep everyone informed",
@@ -2794,7 +2794,7 @@
      "Menerima, menyahkod, mengingat (2)",
      "Menilai, bertindak balas (1)",
      "Berkesan: dengar aktif, catat nota, pandang mata, fokus (2)",
-     "Berkesan: parafrasa, laras gaya, isyarat bukan lisan, simpan soalan (1)",
+     "Berkesan: olah semula, laras gaya, isyarat bukan lisan, simpan soalan (1)",
      "Tidak berkesan: pasif, fikiran melayang, menyampuk, menghakimi (2)"
     ]
    }
