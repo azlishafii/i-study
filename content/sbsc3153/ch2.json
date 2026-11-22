@@ -45,6 +45,29 @@
    "ref": "Slide 5",
    "blocks": [
     {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Problem-solving team",
+         "Task force",
+         "Committee"
+        ],
+        "ms": [
+         "Pasukan penyelesaian masalah",
+         "Pasukan petugas (task force)",
+         "Jawatankuasa"
+        ]
+       },
+       "en": "Key points",
+       "ms": "Perkara utama"
+      }
+     ]
+    },
+    {
      "k": "ul",
      "en": [
       "**Collaboration** = working together to solve complex problems; an essential skill in nearly every profession.",
@@ -126,6 +149,69 @@
    },
    "ref": "Slides 6–8",
    "blocks": [
+    {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Increased information and knowledge",
+         "Increased diversity of views",
+         "Increased acceptance of a solution",
+         "Higher performance levels"
+        ],
+        "ms": [
+         "Maklumat dan pengetahuan bertambah",
+         "Kepelbagaian pandangan bertambah",
+         "Penerimaan penyelesaian meningkat",
+         "Tahap prestasi lebih tinggi"
+        ]
+       },
+       "en": "Key points",
+       "ms": "Perkara utama"
+      },
+      {
+       "items": {
+        "en": [
+         "Clear sense of purpose",
+         "Open and honest communication",
+         "Consensus-based decision making",
+         "Creativity",
+         "Effective conflict resolution"
+        ],
+        "ms": [
+         "Tujuan jelas",
+         "Komunikasi terbuka dan jujur",
+         "Keputusan berasaskan konsensus",
+         "Kreativiti",
+         "Penyelesaian konflik berkesan"
+        ]
+       },
+       "en": "Characteristics of effective teams",
+       "ms": "Ciri pasukan berkesan"
+      },
+      {
+       "items": {
+        "en": [
+         "Groupthink",
+         "Hidden agenda",
+         "Cost",
+         "Overload"
+        ],
+        "ms": [
+         "Groupthink",
+         "Agenda tersembunyi",
+         "Kos",
+         "Beban berlebihan"
+        ]
+       },
+       "en": "Disadvantages in detail",
+       "ms": "Kekurangan secara terperinci"
+      }
+     ]
+    },
     {
      "k": "p",
      "en": "Effective teams pool knowledge, use diverse viewpoints, increase acceptance of solutions and achieve higher performance. They can improve productivity, creativity, employee involvement and even job security, and sit at the core of **participative management** (involving employees in decisions).",
@@ -259,6 +345,87 @@
    },
    "ref": "Slides 9–13",
    "blocks": [
+    {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Roles assumed by team members",
+         "Current phase of team development",
+         "Conflict resolution skills",
+         "Effectiveness at overcoming resistance"
+        ],
+        "ms": [
+         "Peranan yang diambil ahli pasukan",
+         "Fasa semasa pembangunan pasukan",
+         "Kemahiran menyelesaikan konflik",
+         "Keberkesanan mengatasi tentangan"
+        ]
+       },
+       "en": "Four factors influencing group dynamics",
+       "ms": "Empat faktor mempengaruhi dinamik kumpulan"
+      },
+      {
+       "items": {
+        "en": [
+         "Functional",
+         "Dysfunctional"
+        ],
+        "ms": [
+         "Fungsian",
+         "Tidak fungsian"
+        ]
+       },
+       "en": "Team roles (Table 2.1)",
+       "ms": "Peranan pasukan (Jadual 2.1)"
+      },
+      {
+       "items": {
+        "en": [
+         "Proactive behaviour",
+         "Communication",
+         "Openness",
+         "Research",
+         "Flexibility",
+         "Fair play",
+         "Alliance"
+        ],
+        "ms": [
+         "Tingkah laku proaktif",
+         "Komunikasi",
+         "Keterbukaan",
+         "Penyelidikan",
+         "Fleksibiliti",
+         "Permainan adil",
+         "Pakatan"
+        ]
+       },
+       "en": "Resolving conflict (slide 12)",
+       "ms": "Menyelesaikan konflik (slaid 12)"
+      },
+      {
+       "items": {
+        "en": [
+         "Actively listen",
+         "Express interest",
+         "Ask questions",
+         "Move towards resolution via collaboration"
+        ],
+        "ms": [
+         "Dengar secara aktif",
+         "Tunjuk minat",
+         "Tanya soalan",
+         "Bergerak ke penyelesaian melalui kolaborasi"
+        ]
+       },
+       "en": "Overcoming resistance (slide 13)",
+       "ms": "Mengatasi tentangan (slaid 13)"
+      }
+     ]
+    },
     {
      "k": "ul",
      "en": [
@@ -419,6 +586,89 @@
    "ref": "Slides 15–20",
    "blocks": [
     {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Select collaborators carefully",
+         "Agree on project goals",
+         "Give the team time to bond",
+         "Clarify individual responsibilities",
+         "Establish clear processes",
+         "Avoid composing as a group",
+         "Ensure tools are ready and compatible",
+         "Check group progress"
+        ],
+        "ms": [
+         "Pilih kolaborator dengan teliti",
+         "Setuju matlamat projek",
+         "Beri masa pasukan mesra",
+         "Jelaskan tanggungjawab individu",
+         "Wujudkan proses jelas",
+         "Elak mengarang sebagai kumpulan",
+         "Pastikan alat sedia dan serasi",
+         "Semak kemajuan kumpulan"
+        ]
+       },
+       "en": "Guidelines for collaborative writing (8)",
+       "ms": "Garis panduan penulisan kolaboratif (8)"
+      },
+      {
+       "items": {
+        "en": [
+         "Simple software tools",
+         "Track changes and commenting",
+         "Collaboration systems",
+         "Content management systems",
+         "Shared online workspaces",
+         "Social networks and virtual communities",
+         "Collaboration on mobile devices"
+        ],
+        "ms": [
+         "Alat perisian ringkas",
+         "Track changes dan komen",
+         "Sistem kolaborasi",
+         "Sistem pengurusan kandungan",
+         "Ruang kerja dalam talian dikongsi",
+         "Rangkaian sosial dan komuniti maya",
+         "Kolaborasi pada peranti mudah alih"
+        ]
+       },
+       "en": "Collaboration technologies",
+       "ms": "Teknologi kolaborasi"
+      },
+      {
+       "items": {
+        "en": [
+         "Think through your suggested changes carefully",
+         "Discuss improvements rather than flaws",
+         "Focus on controllable behaviour",
+         "Be specific",
+         "Keep feedback impersonal",
+         "Verify understanding",
+         "Time your feedback carefully",
+         "Highlight any limitations your feedback may have"
+        ],
+        "ms": [
+         "Fikir cadangan perubahan dengan teliti",
+         "Bincang penambahbaikan, bukan kelemahan",
+         "Fokus pada tingkah laku yang boleh dikawal",
+         "Spesifik",
+         "Maklum balas tidak peribadi",
+         "Sahkan kefahaman",
+         "Pilih masa maklum balas dengan teliti",
+         "Nyatakan had maklum balas anda"
+        ]
+       },
+       "en": "Giving constructive feedback (Table 2.2)",
+       "ms": "Memberi maklum balas membina (Jadual 2.2)"
+      }
+     ]
+    },
+    {
      "k": "p",
      "en": "Team collaboration can produce results beyond what individuals do alone, but needs special effort and planning. Members must be flexible and open, focusing on team objectives and avoiding a “my way is best” attitude.",
      "ms": "Kolaborasi boleh menghasilkan lebih daripada kerja individu tetapi perlukan usaha dan perancangan. Ahli mesti fleksibel dan elak sikap “cara saya terbaik”."
@@ -532,6 +782,75 @@
    "ref": "Slides 22–28",
    "blocks": [
     {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Define your purpose",
+         "Select participants",
+         "Choose time and venue",
+         "Set the agenda"
+        ],
+        "ms": [
+         "Tentukan tujuan",
+         "Pilih peserta",
+         "Pilih masa dan tempat",
+         "Tetapkan agenda"
+        ]
+       },
+       "en": "Preparing",
+       "ms": "Persediaan"
+      },
+      {
+       "items": {
+        "en": [
+         "Keep the discussion on track",
+         "Follow agreed-on rules",
+         "Encourage participation",
+         "Participate actively",
+         "Use mobile devices respectfully",
+         "Close effectively"
+        ],
+        "ms": [
+         "Pastikan perbincangan kekal fokus",
+         "Ikut peraturan dipersetujui",
+         "Galakkan penyertaan",
+         "Sertai secara aktif",
+         "Guna peranti mudah alih dengan hormat",
+         "Tutup dengan berkesan"
+        ]
+       },
+       "en": "Conducting and contributing",
+       "ms": "Mengendali dan menyumbang"
+      },
+      {
+       "items": {
+        "en": [
+         "instant messaging",
+         "Extra planning",
+         "Be aware of limitations of technology",
+         "Keep participants engaged",
+         "Ensure participants are prepared",
+         "Give participants opportunities to participate"
+        ],
+        "ms": [
+         "Termasuk",
+         "Perancangan tambahan",
+         "Sedar had teknologi",
+         "Pastikan peserta terlibat",
+         "Pastikan peserta bersedia",
+         "Beri peluang peserta menyertai"
+        ]
+       },
+       "en": "Virtual meetings",
+       "ms": "Mesyuarat maya"
+      }
+     ]
+    },
+    {
      "k": "p",
      "en": "Well-run meetings solve problems, develop ideas, find opportunities and promote team building. Prepare carefully, conduct efficiently and use meeting technology wisely.",
      "ms": "Mesyuarat baik menyelesaikan masalah, membangun idea, mencari peluang dan membina pasukan."
@@ -641,6 +960,98 @@
    },
    "ref": "Slides 30–33",
    "blocks": [
+    {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Content listening",
+         "Critical listening",
+         "Empathic listening",
+         "Active listening"
+        ],
+        "ms": [
+         "Mendengar kandungan",
+         "Mendengar kritis",
+         "Mendengar empati",
+         "Mendengar aktif"
+        ]
+       },
+       "en": "Types of listening (slide 30 lists four)",
+       "ms": "Jenis mendengar (slaid 30 senaraikan empat)"
+      },
+      {
+       "items": {
+        "en": [
+         "Receiving",
+         "Decoding",
+         "Remembering",
+         "Evaluating",
+         "Responding",
+         "Listen actively",
+         "Take careful notes",
+         "Make frequent eye contact (culture-dependent)",
+         "Stay focused",
+         "Mentally paraphrase key points"
+        ],
+        "ms": [
+         "Menerima",
+         "Menyahkod",
+         "Mengingat",
+         "Menilai",
+         "Bertindak balas",
+         "Mendengar secara aktif",
+         "Catat nota teliti",
+         "Kerap pandang mata (bergantung budaya)",
+         "Kekal fokus",
+         "Parafrasa mental poin utama"
+        ]
+       },
+       "n": 1,
+       "en": "The listening process (5 steps)",
+       "ms": "Proses mendengar (5 langkah)"
+      },
+      {
+       "items": {
+        "en": [
+         "Receiving",
+         "Decoding",
+         "Remembering",
+         "Evaluating",
+         "Responding"
+        ],
+        "ms": [
+         "Menerima",
+         "Menyahkod",
+         "Mengingat",
+         "Menilai",
+         "Bertindak balas"
+        ]
+       },
+       "en": "Five steps of the listening process",
+       "ms": "Lima langkah proses mendengar"
+      },
+      {
+       "items": {
+        "en": [
+         "Some factors",
+         "Selective listening",
+         "Defensive listening"
+        ],
+        "ms": [
+         "Sesetengah faktor di luar kawalan",
+         "Mendengar terpilih",
+         "Mendengar defensif"
+        ]
+       },
+       "en": "Barriers",
+       "ms": "Halangan"
+      }
+     ]
+    },
     {
      "k": "ul",
      "en": [
@@ -879,6 +1290,51 @@
    "ref": "Slides 35–36",
    "blocks": [
     {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Facial expression",
+         "Gesture and posture",
+         "Vocal characteristics",
+         "Personal appearance",
+         "Touch",
+         "Time and space"
+        ],
+        "ms": [
+         "Ekspresi muka",
+         "Gerak isyarat dan postur",
+         "Ciri vokal",
+         "Penampilan peribadi",
+         "Sentuhan",
+         "Masa dan ruang"
+        ]
+       },
+       "en": "Six categories",
+       "ms": "Enam kategori"
+      },
+      {
+       "items": {
+        "en": [
+         "When you’re talking",
+         "When you’re not talking",
+         "When you’re listening"
+        ],
+        "ms": [
+         "Semasa anda bercakap",
+         "Semasa anda tidak bercakap",
+         "Semasa anda mendengar"
+        ]
+       },
+       "en": "Use nonverbal communication effectively",
+       "ms": "Guna komunikasi bukan lisan dengan berkesan"
+      }
+     ]
+    },
+    {
      "k": "p",
      "en": "Nonverbal communication can supplement or even replace verbal messages.",
      "ms": "Komunikasi bukan lisan boleh menambah atau menggantikan mesej lisan."
@@ -946,6 +1402,109 @@
    },
    "ref": "Slides 38–45",
    "blocks": [
+    {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Personal appearance",
+         "Personal grooming",
+         "Phone skills"
+        ],
+        "ms": [
+         "Penampilan peribadi",
+         "Dandanan diri",
+         "Kemahiran telefon"
+        ]
+       },
+       "en": "In the workplace",
+       "ms": "Di tempat kerja"
+      },
+      {
+       "items": {
+        "en": [
+         "Be conscious of how your voice sounds",
+         "Be courteous",
+         "Convey a positive, professional attitude",
+         "End calls with courtesy and clarity",
+         "Use your outgoing voicemail message to help callers",
+         "Be considerate and clear when leaving voicemail"
+        ],
+        "ms": [
+         "Sedar bunyi suara anda",
+         "Bersopan",
+         "Tunjuk sikap positif dan profesional",
+         "Tamat panggilan dengan sopan dan jelas",
+         "Guna mesej peti suara untuk bantu pemanggil",
+         "Bertimbang rasa dan jelas bila tinggalkan peti suara"
+        ]
+       },
+       "en": "Using phones",
+       "ms": "Menggunakan telefon"
+      },
+      {
+       "items": {
+        "en": [
+         "Meeting others",
+         "Business meals",
+         "Representing your company; observing dining etiquette"
+        ],
+        "ms": [
+         "Berjumpa orang",
+         "Jamuan perniagaan",
+         "Mewakili syarikat; mematuhi etiket makan"
+        ]
+       },
+       "en": "In social situations",
+       "ms": "Dalam situasi sosial"
+      },
+      {
+       "items": {
+        "en": [
+         "Avoid personal attacks",
+         "Follow correct grammar and spelling",
+         "Use virus protection and secure passwords",
+         "Avoid profanity and emoticons; avoid multitasking",
+         "Never assume privacy",
+         "Do NOT use “Reply All” unnecessarily",
+         "Don’t waste others’ time with sloppy messages",
+         "Be careful of online commenting mechanisms"
+        ],
+        "ms": [
+         "Elak serangan peribadi",
+         "Ikut tatabahasa dan ejaan betul",
+         "Guna perlindungan virus dan kata laluan selamat",
+         "Elak carutan dan emotikon; elak multitugas",
+         "Jangan anggap ada privasi",
+         "JANGAN guna “Reply All” sewenang-wenangnya",
+         "Jangan bazirkan masa orang dengan mesej cuai",
+         "Berhati-hati dengan mekanisme komen dalam talian"
+        ]
+       },
+       "en": "Online etiquette",
+       "ms": "Etiket dalam talian"
+      },
+      {
+       "items": {
+        "en": [
+         "Implement good personal use habits",
+         "Be careful using virtual assistants",
+         "Be aware of expectations and policies"
+        ],
+        "ms": [
+         "Amalkan tabiat penggunaan peribadi yang baik",
+         "Berhati-hati guna pembantu maya",
+         "Sedar jangkaan dan dasar"
+        ]
+       },
+       "en": "Mobile device etiquette",
+       "ms": "Etiket peranti mudah alih"
+      }
+     ]
+    },
     {
      "k": "ul",
      "en": [

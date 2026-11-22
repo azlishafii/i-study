@@ -41,6 +41,99 @@
    "ref": "Slides 1, 3–9",
    "blocks": [
     {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "1 Plan",
+         "2 Locate data and information",
+         "3 Process data and information",
+         "4 Apply your findings",
+         "5 Manage information"
+        ],
+        "ms": [
+         "1 Rancang",
+         "2 Cari data dan maklumat",
+         "3 Proses data dan maklumat",
+         "4 Gunakan dapatan",
+         "5 Urus maklumat"
+        ]
+       },
+       "en": "Key points",
+       "ms": "Perkara utama"
+      },
+      {
+       "items": {
+        "en": [
+         "Don’t force a specific outcome",
+         "Respect the privacy of research participants",
+         "Document sources and give credit",
+         "Respect intellectual property rights",
+         "Don’t misquote your sources",
+         "Don’t make misrepresentations"
+        ],
+        "ms": [
+         "Jangan paksa hasil tertentu",
+         "Hormati privasi peserta penyelidikan",
+         "Dokumenkan sumber dan beri kredit",
+         "Hormati hak harta intelek",
+         "Jangan salah petik sumber",
+         "Jangan membuat salah nyata"
+        ]
+       },
+       "en": "Maintaining ethics and etiquette",
+       "ms": "Mengekalkan etika dan etiket"
+      },
+      {
+       "items": {
+        "en": [
+         "Explore the subject area",
+         "Develop a problem statement"
+        ],
+        "ms": [
+         "Teroka bidang subjek",
+         "Bangunkan pernyataan masalah"
+        ]
+       },
+       "en": "Familiarise yourself with the subject",
+       "ms": "Biasakan diri dengan subjek"
+      },
+      {
+       "items": {
+        "en": [
+         "Find specific information gaps",
+         "Dig deeper into purpose",
+         "Focus on specific issues"
+        ],
+        "ms": [
+         "Cari jurang maklumat khusus",
+         "Gali tujuan lebih mendalam",
+         "Fokus kepada isu khusus"
+        ]
+       },
+       "en": "Identify information gaps",
+       "ms": "Kenal pasti jurang maklumat"
+      },
+      {
+       "items": {
+        "en": [
+         "limited time",
+         "limit the scope of surveys and interviews"
+        ],
+        "ms": [
+         "Kekangan",
+         "Maklumat"
+        ]
+       },
+       "en": "Prioritise research needs",
+       "ms": "Utamakan keperluan penyelidikan"
+      }
+     ]
+    },
+    {
      "k": "ul",
      "en": [
       "**Slide 3**: it is tempting to punch keywords into a search engine, but your favourite engine may not reach the pages you need, the information may not be online, may not be under your search terms, or may not exist in any form.",
@@ -226,6 +319,137 @@
    },
    "ref": "Slides 10–21",
    "blocks": [
+    {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Reputation for honesty and reliability?",
+         "Potentially biased?",
+         "Purpose of the material?",
+         "Is the author credible?",
+         "Where did the source get the information?",
+         "Can you verify independently?",
+         "Is the material current?",
+         "Is it complete?",
+         "Are all claims supported with evidence?",
+         "Do claims stand up to logical scrutiny?"
+        ],
+        "ms": [
+         "Reputasi kejujuran dan kebolehpercayaan?",
+         "Mungkin berat sebelah?",
+         "Tujuan bahan?",
+         "Adakah penulis berwibawa?",
+         "Dari mana sumber dapat maklumat?",
+         "Boleh disahkan secara bebas?",
+         "Adakah terkini?",
+         "Adakah lengkap?",
+         "Adakah semua dakwaan disokong bukti?",
+         "Adakah dakwaan tahan ujian logik?"
+        ]
+       },
+       "en": "Evaluating sources (10 questions)",
+       "ms": "Menilai sumber (10 soalan)"
+      },
+      {
+       "items": {
+        "en": [
+         "Internal",
+         "External"
+        ],
+        "ms": [
+         "Dalam",
+         "Luar"
+        ]
+       },
+       "en": "Locating sources",
+       "ms": "Mencari sumber"
+      },
+      {
+       "items": {
+        "en": [
+         "Newspapers and periodicals",
+         "Business books",
+         "Directories",
+         "Almanacs and statistical resources",
+         "Government publications",
+         "Databases"
+        ],
+        "ms": [
+         "Akhbar dan berkala",
+         "Buku perniagaan",
+         "Direktori",
+         "Almanak dan sumber statistik",
+         "Penerbitan kerajaan",
+         "Pangkalan data"
+        ]
+       },
+       "en": "At the library",
+       "ms": "Di perpustakaan"
+      },
+      {
+       "items": {
+        "en": [
+         "active search tools and monitoring selected sources",
+         "Ranked by usefulness",
+         "Improved tools",
+         "Monitoring"
+        ],
+        "ms": [
+         "Pendekatan",
+         "Disusun mengikut kegunaan",
+         "Alat lebih baik",
+         "Pemantauan"
+        ]
+       },
+       "en": "Online search",
+       "ms": "Carian dalam talian"
+      },
+      {
+       "items": {
+        "en": [
+         "Think before you search",
+         "Pay attention to details",
+         "Don’t limit search engines",
+         "Review search and display options",
+         "Try variations of terms",
+         "Adjust the scope",
+         "Look beyond the first few pages"
+        ],
+        "ms": [
+         "Fikir sebelum cari",
+         "Beri perhatian kepada butiran",
+         "Jangan hadkan enjin carian",
+         "Semak pilihan carian dan paparan",
+         "Cuba variasi istilah",
+         "Laraskan skop",
+         "Lihat melepasi beberapa halaman pertama"
+        ]
+       },
+       "en": "Search tips",
+       "ms": "Tip carian"
+      },
+      {
+       "items": {
+        "en": [
+         "Properly credits the originator",
+         "Shows sufficient support for your message",
+         "Helps readers explore the topic in more detail"
+        ],
+        "ms": [
+         "Memberi kredit sewajarnya kepada pencipta asal",
+         "Menunjukkan sokongan mencukupi untuk mesej",
+         "Membantu pembaca meneroka topik lebih lanjut"
+        ]
+       },
+       "en": "Documenting sources: three functions",
+       "ms": "Mendokumenkan sumber: tiga fungsi"
+      }
+     ]
+    },
     {
      "k": "p",
      "en": "**Secondary research** = consulting research done previously for another purpose (periodicals, online databases, books, research reports; some firms specialise in reports on industries, companies, technologies or regions). Start here because it can **save considerable time and money**, although you may have to pay. **Primary research** is new research done specifically for the current project.",
@@ -472,6 +696,71 @@
    "ref": "Slides 22–27",
    "blocks": [
     {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Must be reliable",
+         "Must be valid",
+         "Choose participants carefully",
+         "Use a research handbook or hire a research specialist",
+         "Provide clear instructions",
+         "Ask for information people can remember",
+         "Keep the questionnaire short",
+         "Formulate questions that are easy to analyse",
+         "Avoid leading questions",
+         "Avoid ambiguous descriptors"
+        ],
+        "ms": [
+         "Mesti boleh dipercayai (reliable)",
+         "Mesti sah (valid)",
+         "Pilih peserta dengan teliti",
+         "Guna buku panduan penyelidikan atau upah pakar",
+         "Beri arahan jelas",
+         "Tanya maklumat yang orang boleh ingat",
+         "Pastikan soal selidik pendek",
+         "Rumus soalan yang mudah dianalisis",
+         "Elak soalan mengarah",
+         "Elak penerang kabur"
+        ]
+       },
+       "en": "Surveys",
+       "ms": "Tinjauan"
+      },
+      {
+       "items": {
+        "en": [
+         "Question types",
+         "Interview types"
+        ],
+        "ms": [
+         "Jenis soalan",
+         "Jenis temu bual"
+        ]
+       },
+       "en": "Interviews",
+       "ms": "Temu bual"
+      },
+      {
+       "items": {
+        "en": [
+         "Answers are influenced by the question types",
+         "Focus group"
+        ],
+        "ms": [
+         "Jawapan dipengaruhi jenis soalan",
+         "Kumpulan fokus"
+        ]
+       },
+       "en": "Interviews (slides 26–27 notes)",
+       "ms": "Temu bual (nota slaid 26–27)"
+      }
+     ]
+    },
+    {
      "k": "ul",
      "en": [
       "**Primary research** = collecting data and information **for the first time** rather than reusing what others found. Choose it when secondary research can’t give you what you need. Most common: **surveys and interviews**. Others: **observation** and **experiments** (e.g. test-marketing a new product).",
@@ -582,6 +871,95 @@
    },
    "ref": "Slides 28–32",
    "blocks": [
+    {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Quoting",
+         "Paraphrasing",
+         "Summarising"
+        ],
+        "ms": [
+         "Memetik",
+         "Parafrasa",
+         "Meringkas"
+        ]
+       },
+       "en": "Key points",
+       "ms": "Perkara utama"
+      },
+      {
+       "items": {
+        "en": [
+         "Trends",
+         "Causation",
+         "Correlation",
+         "Cross-tabulation"
+        ],
+        "ms": [
+         "Trend",
+         "Kausaliti (sebab-akibat)",
+         "Korelasi",
+         "Tabulasi silang"
+        ]
+       },
+       "en": "Gaining insights from numeric data",
+       "ms": "Mendapat wawasan daripada data berangka"
+      },
+      {
+       "items": {
+        "en": [
+         "Guard against computational errors",
+         "Be cautious of misrepresenting results",
+         "Avoid faulty comparisons",
+         "Don’t push results beyond their limits",
+         "Avoid misleading presentations"
+        ],
+        "ms": [
+         "Elak kesilapan pengiraan",
+         "Berhati-hati salah nyata hasil",
+         "Elak perbandingan cacat",
+         "Jangan tolak hasil melebihi had",
+         "Elak pembentangan mengelirukan"
+        ]
+       },
+       "en": "Guarding against mistakes",
+       "ms": "Mengelak kesilapan"
+      },
+      {
+       "items": {
+        "en": [
+         "Five paraphrasing tips",
+         "Preserve the intended message"
+        ],
+        "ms": [
+         "Lima tip parafrasa",
+         "Kekalkan mesej asal"
+        ]
+       },
+       "en": "Text (slide 29 notes)",
+       "ms": "Teks (nota slaid 29)"
+      },
+      {
+       "items": {
+        "en": [
+         "Measures and trends show what is happening",
+         "Precautions"
+        ],
+        "ms": [
+         "Ukuran dan trend menunjukkan apa",
+         "Langkah berjaga-jaga"
+        ]
+       },
+       "en": "Numbers (slides 30–32 notes)",
+       "ms": "Nombor (nota slaid 30–32)"
+      }
+     ]
+    },
     {
      "k": "p",
      "en": "After collecting secondary and primary information, **transform** it into the content you need. Simple projects may insert material directly; with significant raw data you must process it: quoting, paraphrasing or summarising text; analysing numeric data; drawing conclusions; making recommendations.",
@@ -727,6 +1105,81 @@
    },
    "ref": "Slides 33–37",
    "blocks": [
+    {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Do not include opinions, conclusions or recommendations",
+         "Separate by levels of significance",
+         "Identify the main idea and key support points",
+         "Focus on the audience’s needs"
+        ],
+        "ms": [
+         "Jangan sertakan pendapat, kesimpulan atau cadangan",
+         "Asingkan mengikut tahap kepentingan",
+         "Kenal pasti idea utama dan poin sokongan",
+         "Fokus kepada keperluan audiens"
+        ]
+       },
+       "en": "Summarising your research",
+       "ms": "Meringkaskan penyelidikan"
+      },
+      {
+       "items": {
+        "en": [
+         "Based strictly on the information in your report",
+         "Logical"
+        ],
+        "ms": [
+         "Berdasarkan sepenuhnya maklumat dalam laporan",
+         "Logik"
+        ]
+       },
+       "en": "Drawing conclusions: two criteria",
+       "ms": "Membuat kesimpulan: dua kriteria"
+      },
+      {
+       "items": {
+        "en": [
+         "Suggest what to do",
+         "Based on logical analysis and sound conclusions",
+         "Practical and acceptable",
+         "Adequately describe the steps"
+        ],
+        "ms": [
+         "Cadangkan apa yang perlu dibuat",
+         "Berdasarkan analisis logik dan kesimpulan kukuh",
+         "Praktikal dan boleh diterima",
+         "Huraikan langkah dengan secukupnya"
+        ]
+       },
+       "en": "Making recommendations",
+       "ms": "Membuat cadangan"
+      },
+      {
+       "items": {
+        "en": [
+         "Contribute to the knowledge base",
+         "Knowledge management system",
+         "Social media tools",
+         "Group contributions"
+        ],
+        "ms": [
+         "Menyumbang kepada pangkalan pengetahuan",
+         "Sistem pengurusan pengetahuan",
+         "Alat media sosial",
+         "Sumbangan kumpulan"
+        ]
+       },
+       "en": "Managing information",
+       "ms": "Mengurus maklumat"
+      }
+     ]
+    },
     {
      "k": "ul",
      "en": [

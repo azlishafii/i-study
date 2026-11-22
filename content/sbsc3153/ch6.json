@@ -43,6 +43,95 @@
    "ref": "Slides 5–10",
    "blocks": [
     {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Informal messages",
+         "Digital messages",
+         "Complex messages",
+         "Content",
+         "Organization",
+         "Tone"
+        ],
+        "ms": [
+         "Mesej tidak formal",
+         "Mesej digital",
+         "Mesej kompleks",
+         "Kandungan",
+         "Organisasi",
+         "Nada"
+        ]
+       },
+       "en": "Revise based on media and content",
+       "ms": "Semak berdasarkan media dan kandungan"
+      },
+      {
+       "items": {
+        "en": [
+         "Support the writer’s intent",
+         "Avoid imposing your own style or agenda",
+         "Learn what the writer wanted to accomplish"
+        ],
+        "ms": [
+         "Sokong niat penulis",
+         "Elak memaksa gaya atau agenda sendiri",
+         "Fahami apa yang penulis mahu capai"
+        ]
+       },
+       "en": "Evaluating another’s writing: promote the writer’s success",
+       "ms": "Menilai tulisan orang lain: bantu kejayaan penulis"
+      },
+      {
+       "items": {
+        "en": [
+         "What is the purpose?",
+         "Who is the target audience?",
+         "What information does the audience need?",
+         "Is it well organised?",
+         "Does it show the “you” attitude?",
+         "Is the tone appropriate?",
+         "Can readability be improved?",
+         "Is it clear?",
+         "Is it as concise as it could be?",
+         "Does the design support the message?"
+        ],
+        "ms": [
+         "Apakah tujuannya?",
+         "Siapa audiens sasaran?",
+         "Apa maklumat yang audiens perlu?",
+         "Adakah teratur?",
+         "Adakah ada sikap “you”?",
+         "Adakah nada sesuai?",
+         "Boleh tambah baik kebolehbacaan?",
+         "Adakah jelas?",
+         "Adakah seringkas mungkin?",
+         "Adakah reka bentuk menyokong mesej?"
+        ]
+       },
+       "en": "Questions to ask (slides 9–10)",
+       "ms": "Soalan untuk ditanya (slaid 9–10)"
+      },
+      {
+       "items": {
+        "en": [
+         "Content",
+         "Spend extra time on the beginning and end"
+        ],
+        "ms": [
+         "Kandungan",
+         "Beri masa lebih pada permulaan dan penutup"
+        ]
+       },
+       "en": "Questions to evaluate",
+       "ms": "Soalan penilaian"
+      }
+     ]
+    },
+    {
      "k": "ul",
      "en": [
       "Informal internal messages (IM, text, email, blog) need at least a quick check for mistakes, but grammar, spelling and clarity still matter: audiences equate the **quality of your writing with the quality of your thinking**.",
@@ -196,6 +285,59 @@
    "ref": "Slides 11–16",
    "blocks": [
     {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Short",
+         "Medium",
+         "Long"
+        ],
+        "ms": [
+         "Pendek",
+         "Sederhana",
+         "Panjang"
+        ]
+       },
+       "en": "Key points",
+       "ms": "Perkara utama"
+      },
+      {
+       "items": {
+        "en": [
+         "Short",
+         "Medium",
+         "Long",
+         "Mix lengths for rhythm and emphasis"
+        ],
+        "ms": [
+         "Pendek",
+         "Sederhana",
+         "Panjang",
+         "Campur panjang untuk rentak dan penekanan"
+        ]
+       },
+       "en": "Sentence length",
+       "ms": "Panjang ayat"
+      },
+      {
+       "items": {
+        "en": [
+         "Descriptive headings name a topic"
+        ],
+        "ms": [
+         "Tajuk deskriptif menamakan topik"
+        ]
+       },
+       "en": "Paragraphs, lists and headings",
+       "ms": "Perenggan, senarai dan tajuk"
+      }
+     ]
+    },
+    {
      "k": "ul",
      "en": [
       "**Readability indexes** measure word length, syllables, sentence length and paragraph length only. They cannot measure design, the “you” attitude, sentence structure, transitions or word usage.",
@@ -320,6 +462,69 @@
    "ref": "Slides 17–20",
    "blocks": [
     {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Break up overly long sentences",
+         "Rewrite hedging sentences",
+         "Impose parallelism",
+         "Correct dangling modifiers",
+         "Reword long noun sequences",
+         "Replace camouflaged verbs",
+         "Clarify sentence structure",
+         "Clarify awkward references"
+        ],
+        "ms": [
+         "Pecahkan ayat terlalu panjang",
+         "Tulis semula ayat berlindung (hedging)",
+         "Kenakan keselarian (parallelism)",
+         "Betulkan modifier tergantung",
+         "Tulis semula jujukan kata nama panjang",
+         "Gantikan kata kerja tersembunyi",
+         "Jelaskan struktur ayat",
+         "Jelaskan rujukan janggal"
+        ]
+       },
+       "en": "Editing for clarity (8 steps)",
+       "ms": "Menyunting untuk kejelasan (8 langkah)"
+      },
+      {
+       "items": {
+        "en": [
+         "Delete unnecessary words and phrases",
+         "Shorten long words and phrases",
+         "Eliminate redundancies",
+         "Rewrite"
+        ],
+        "ms": [
+         "Buang perkataan dan frasa tidak perlu",
+         "Pendekkan perkataan dan frasa panjang",
+         "Hapuskan kelewahan (redundancy)",
+         "Tulis semula"
+        ]
+       },
+       "en": "Editing for conciseness (4 tips)",
+       "ms": "Menyunting untuk keringkasan (4 tip)"
+      },
+      {
+       "items": {
+        "en": [
+         "Rewrite “It is / There are” starters"
+        ],
+        "ms": [
+         "Tulis semula permulaan “It is / There are”"
+        ]
+       },
+       "en": "Four tips for conciseness",
+       "ms": "Empat tip keringkasan"
+      }
+     ]
+    },
+    {
      "k": "h",
      "en": "Editing for clarity (8 steps)",
      "ms": "Menyunting untuk kejelasan (8 langkah)"
@@ -402,6 +607,85 @@
    },
    "ref": "Slides 21–25",
    "blocks": [
+    {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Consistency",
+         "Balance",
+         "Restraint",
+         "Detail"
+        ],
+        "ms": [
+         "Konsistensi",
+         "Keseimbangan",
+         "Kawalan (restraint)",
+         "Perincian"
+        ]
+       },
+       "en": "Four design principles",
+       "ms": "Empat prinsip reka bentuk"
+      },
+      {
+       "items": {
+        "en": [
+         "White space",
+         "Margins",
+         "Justification",
+         "Typefaces",
+         "Type styles"
+        ],
+        "ms": [
+         "Ruang putih",
+         "Margin",
+         "Penjajaran (justification)",
+         "Jenis taip (typefaces)",
+         "Gaya taip"
+        ]
+       },
+       "en": "Design elements",
+       "ms": "Elemen reka bentuk"
+      },
+      {
+       "items": {
+        "en": [
+         "Think in small chunks",
+         "Use white space generously",
+         "Format simply",
+         "Experiment with layouts"
+        ],
+        "ms": [
+         "Fikir dalam bahagian kecil",
+         "Guna ruang putih secukupnya",
+         "Format ringkas",
+         "Cuba pelbagai susun atur"
+        ]
+       },
+       "en": "Designing for mobile devices",
+       "ms": "Reka bentuk untuk peranti mudah alih"
+      },
+      {
+       "items": {
+        "en": [
+         "Formal letters use letterhead",
+         "Memos",
+         "Mobile formatting"
+        ],
+        "ms": [
+         "Surat formal guna kepala surat",
+         "Memo",
+         "Format mudah alih"
+        ]
+       },
+       "en": "Letters, memos and mobile",
+       "ms": "Surat, memo dan mudah alih"
+      }
+     ]
+    },
     {
      "k": "p",
      "en": "**Production quality** (page/screen design, graphics, typography) affects effectiveness and conveys professionalism. Good design sets tone and guides readers.",
@@ -503,6 +787,57 @@
    },
    "ref": "Slides 26–29",
    "blocks": [
+    {
+     "k": "info",
+     "en": "At a glance",
+     "ms": "Sekilas pandang",
+     "groups": [
+      {
+       "items": {
+        "en": [
+         "Language errors",
+         "Missing material",
+         "Design errors",
+         "Typographical errors"
+        ],
+        "ms": [
+         "Kesilapan bahasa",
+         "Bahan tertinggal",
+         "Kesilapan reka bentuk",
+         "Kesilapan menaip"
+        ]
+       },
+       "en": "Problems to look for",
+       "ms": "Masalah untuk dikesan"
+      },
+      {
+       "items": {
+        "en": [
+         "Make multiple passes",
+         "Use perceptual tricks",
+         "Double-check high-priority items",
+         "Give yourself some distance",
+         "Be vigilant",
+         "Stay focused",
+         "Review complex digital documents on paper",
+         "Take your time"
+        ],
+        "ms": [
+         "Buat beberapa lintasan",
+         "Guna helah persepsi",
+         "Semak semula perkara keutamaan tinggi",
+         "Beri jarak masa kepada diri",
+         "Berwaspada",
+         "Kekal fokus",
+         "Semak dokumen digital kompleks atas kertas",
+         "Ambil masa"
+        ]
+       },
+       "en": "Eight proofreading tips",
+       "ms": "Lapan tip semakan bukti"
+      }
+     ]
+    },
     {
      "k": "ul",
      "en": [

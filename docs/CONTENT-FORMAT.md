@@ -27,7 +27,7 @@ The authoritative, AI-ready description (with an example) is [`content/ai-prompt
 
 ## Section blocks
 
-`p`, `h` (small heading), `h2` (large heading), `tip`, `note`, `ex`, `calc` (bilingual string) · `ul`, `flow` (bilingual string arrays of equal length) · `je` (`title`, `lines: [["Dr"|"Cr","Account","Amount"]]`) · `table` (`head`, `rows`; every row has as many cells as `head`, cells may be empty).
+`p`, `h` (small heading), `h2` (large heading), `tip`, `note`, `ex`, `calc` (bilingual string) · `ul`, `flow` (bilingual string arrays of equal length) · `info` (visual "at a glance" summary: `en`, `ms` title, `groups: [{en, ms, n?, items:{en[], ms[]}}]`; `n:1` numbers the chips; renders coloured chip cards) · `je` (`title`, `lines: [["Dr"|"Cr","Account","Amount"]]`) · `table` (`head`, `rows`; every row has as many cells as `head`, cells may be empty).
 
 ## Quiz / cards / essay
 

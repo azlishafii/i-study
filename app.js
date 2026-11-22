@@ -448,7 +448,27 @@ function renderBlock(b) {
       const mk = (l) => `<ol class="steps">${l.map(i => `<li>${md(i)}</li>`).join('')}</ol>`;
       return n ? `<div class="blk">${mk(n)}</div>` : `<div class="blk en">${mk(b.en)}</div><div class="blk ms">${mk(b.ms)}</div>`;
     }
-    case 'je': return `<div class="je"><div class="jt">${esc(b.title)}</div>${b.lines.map(l => `<div class="jl ${l[0] === 'Cr' ? 'cr' : ''}"><span>${l[0]}</span><span>${esc(l[1])}</span><span>${l[2]}</span></div>`).join('')}</div>`;
+    case 'info': {
+      if (!document.getElementById('ig-css')) {
+        const st = document.createElement('style'); st.id = 'ig-css';
+        st.textContent = '.ig{margin:.5rem 0 1rem}.ig-t{font-weight:800;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;opacity:.7;margin-bottom:.4rem}.ig-g{border-radius:16px;padding:.7rem .8rem;margin:.55rem 0;border:1px solid hsl(var(--h) 75% 50%/.35);background:hsl(var(--h) 80% 55%/.10)}.ig-h{font-weight:800;font-size:.95rem;color:hsl(var(--h) 70% 42%);margin-bottom:.35rem}.ig-c{display:flex;flex-wrap:wrap;gap:.35rem}.ig-i{display:inline-flex;align-items:center;gap:.4rem;border-radius:999px;padding:.25rem .7rem .25rem .3rem;font-size:.85rem;line-height:1.2;background:hsl(var(--h) 80% 55%/.18)}.ig-i.p{padding-left:.7rem}.ig-i i{font-style:normal;flex:none;width:1.35rem;height:1.35rem;border-radius:50%;background:hsl(var(--h) 65% 45%);color:#fff;font-weight:700;font-size:.72rem;display:inline-flex;align-items:center;justify-content:center}.ig-i small{display:block;opacity:.65;font-size:.72rem}@media (prefers-color-scheme:dark){.ig-h{color:hsl(var(--h) 80% 70%)}}';
+        document.head.appendChild(st);
+      }
+      const H = [215, 160, 28, 280, 340, 190, 95];
+      const dual = S.lang === 'dual';
+      const lab = (o) => esc(S.lang === 'en' ? o.en : o.ms);
+      const g = b.groups.map((gr, gi) => {
+        const hue = H[gi % H.length];
+        const chips = gr.items.en.map((e, k) => {
+          const m = gr.items.ms[k];
+          const txt = dual && m !== e ? `<span>${esc(m)}<small>${esc(e)}</small></span>` : `<span>${esc(S.lang === 'en' ? e : m)}</span>`;
+          return gr.n ? `<span class="ig-i"><i>${k + 1}</i>${txt}</span>` : `<span class="ig-i p">${txt}</span>`;
+        }).join('');
+        return `<div class="ig-g" style="--h:${hue}">${gr.en ? `<div class="ig-h">${lab(gr)}</div>` : ''}<div class="ig-c">${chips}</div></div>`;
+      }).join('');
+      return `<div class="ig"><div class="ig-t">✨ ${lab(b)}</div>${g}</div>`;
+    }
+    case 'je': return`<div class="je"><div class="jt">${esc(b.title)}</div>${b.lines.map(l => `<div class="jl ${l[0] === 'Cr' ? 'cr' : ''}"><span>${l[0]}</span><span>${esc(l[1])}</span><span>${l[2]}</span></div>`).join('')}</div>`;
     case 'table': {
       const mkT = (L) => `<div class="tw"><table><thead><tr>${b.head[L].map(h => `<th>${esc(h)}</th>`).join('')}</tr></thead><tbody>${b.rows.map(r => `<tr>${r[L].map((c, i) => `<${i ? 'td' : 'th'}>${esc(c)}</${i ? 'td' : 'th'}>`).join('')}</tr>`).join('')}</tbody></table></div>`;
       const sameT = same(b.head.en, b.head.ms) && same(b.rows.map(r => r.en), b.rows.map(r => r.ms));
